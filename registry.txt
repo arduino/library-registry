@@ -926,9 +926,18 @@ https://github.com/MajicDesigns/MD_CirQueue.git|Contributed|MD_CirQueue
 https://github.com/m2m-solutions/M2M_LM75A.git|Contributed|M2M Solution LM75A Library
 https://github.com/pozyxLabs/Pozyx-Arduino-library.git|Contributed|Pozyx
 
-
 https://github.com/madhephaestus/WiiChuck.git|Contributed|WiiChuck
 https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot.git|Contributed|UniversalTelegramBot
 https://github.com/GurtDotCom/GKScroll.git|Contributed|GKScroll
 https://github.com/nyampass/HaLakeKitFirst-Library.git|Contributed|HaLakeKitFirst
 https://github.com/fatihaslamaci/TimerFa.git|Contributed|TimerFa
+
+https://github.com/Zuntara/Arduino.AdagioPro.git|Contributed|AdagioPro
+https://github.com/septillion-git/FadeLed.git|Contributed|FadeLed
+https://github.com/paulo-raca/YetAnotherArduinoDebounceLibrary.git|Contributed|Yet Another Arduino Debounce Library
+#https://github.com/udoklein/dcf77.git|Contributed|dcf77
+https://github.com/SMFSW/WireWrapper.git|Contributed|WireWrapper
+https://github.com/neu-rah/ArduinoMenu.git|Contributed|ArduinoMenu library
+
+
+
