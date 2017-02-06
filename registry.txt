@@ -649,7 +649,6 @@ https://github.com/dxinteractive/ResponsiveAnalogRead.git|Contributed|Responsive
 https://github.com/FaBoPlatform/FaBoBLE-BLE113-Library.git|Contributed|FaBoBLE-BLE113
 
 https://github.com/baghayi/Nokia_5110.git|Contributed|Nokia 5110 Driver
-https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
 https://github.com/wizard97/ArduinoProcessScheduler.git|Contributed|Arduino Process Scheduler
 https://github.com/iondbproject/iondb.git|Contributed|Iondb
 https://github.com/AloriumTechnology/XLR8BuildTemplate.git|Contributed|XLR8BuildTemplate
@@ -798,7 +797,6 @@ https://github.com/SukkoPera/Webbino.git|Contributed|Webbino
 https://github.com/adafruit/Adafruit_IS31FL3731.git|Contributed|Adafruit IS31FL3731 Library
 https://github.com/TMRh20/AutoAnalogAudio.git|Contributed|AutoAnalogAudio
 
-https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
 https://github.com/sparkfun/SparkFun_LP55231_Arduino_Library.git|Contributed|SparkFun LP55231 Breakout
 https://github.com/SlashDevin/NeoGPS.git|Contributed|NeoGPS
 https://github.com/EnhancedRadioDevices/HamShield.git|Contributed|HamShield
@@ -935,9 +933,14 @@ https://github.com/fatihaslamaci/TimerFa.git|Contributed|TimerFa
 https://github.com/Zuntara/Arduino.AdagioPro.git|Contributed|AdagioPro
 https://github.com/septillion-git/FadeLed.git|Contributed|FadeLed
 https://github.com/paulo-raca/YetAnotherArduinoDebounceLibrary.git|Contributed|Yet Another Arduino Debounce Library
-#https://github.com/udoklein/dcf77.git|Contributed|dcf77
 https://github.com/SMFSW/WireWrapper.git|Contributed|WireWrapper
 https://github.com/neu-rah/ArduinoMenu.git|Contributed|ArduinoMenu library
 
+https://github.com/turbyho/DABDUINO.git|Contributed|DABDUINO
+https://github.com/MohammedRashad/ArduZ80.git|Contributed|ArduZ80
 
+# With parenthesis
+#https://github.com/udoklein/dcf77.git|Contributed|dcf77_(blinkenlight.net)
+#https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
+#https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
 
