@@ -941,8 +941,9 @@ https://github.com/MohammedRashad/ArduZ80.git|Contributed|ArduZ80
 https://github.com/UIPEthernet/UIPEthernet.git|Contributed|UIPEthernet
 https://github.com/pololu/romi-32u4-arduino-library.git|Contributed|Romi32U4
 
+https://github.com/udoklein/dcf77.git|Contributed|dcf77_xtal
+
 # With parenthesis
-#https://github.com/udoklein/dcf77.git|Contributed|dcf77_(blinkenlight.net)
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
 #https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
 
