@@ -942,6 +942,7 @@ https://github.com/UIPEthernet/UIPEthernet.git|Contributed|UIPEthernet
 https://github.com/pololu/romi-32u4-arduino-library.git|Contributed|Romi32U4
 
 https://github.com/udoklein/dcf77.git|Contributed|dcf77_xtal
+https://github.com/phpoc/arduino.git|Contributed|PHPoC
 
 # With parenthesis
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
