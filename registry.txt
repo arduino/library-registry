@@ -947,6 +947,8 @@ https://github.com/dmkishi/Dusk2Dawn.git|Contributed|Dusk2Dawn
 https://github.com/d00616/arduino-NVM.git|Contributed|arduino-NVM
 https://github.com/witnessmenow/arduino-ifttt-maker.git|Contributed|IFTTTMaker
 
+https://github.com/sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library.git|Contributed|SparkFun Haptic Motor Driver
+
 # With parenthesis
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
 #https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
