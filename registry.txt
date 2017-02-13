@@ -948,6 +948,8 @@ https://github.com/d00616/arduino-NVM.git|Contributed|arduino-NVM
 https://github.com/witnessmenow/arduino-ifttt-maker.git|Contributed|IFTTTMaker
 
 https://github.com/sparkfun/SparkFun_Haptic_Motor_Driver_Arduino_Library.git|Contributed|SparkFun Haptic Motor Driver
+https://github.com/teemuatlut/TMC2130Stepper.git|Contributed|TMC2130Stepper
+
 
 # With parenthesis
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
