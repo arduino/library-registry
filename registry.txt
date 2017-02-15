@@ -37,7 +37,7 @@ https://github.com/arduino-libraries/ArduinoSound.git|Arduino|ArduinoSound
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
 https://github.com/arduino-libraries/Ciao.git|Arduino|Ciao
-https://github.com/arduino-libraries/UnoWiFi-Developer-Edition-Lib.git|Arduino|UnoWiFi Developer Edition Library
+https://github.com/arduino-libraries/UnoWiFi-Developer-Edition-Lib.git|Arduino|Arduino Uno WiFi Dev Ed Library
 
 # to be moved in arduino-libraries
 https://github.com/cmaglie/FlashStorage.git|Contributed|FlashStorage
