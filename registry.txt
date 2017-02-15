@@ -955,6 +955,7 @@ https://github.com/redkea/arduino-library.git|Contributed|redkea
 https://github.com/boodskap/BoodskapMessage.git|Contributed|Boodskap Message library
 https://github.com/agdl/arduino-multiplePinsAPIs.git|Contributed|multiplePinOps
 https://github.com/Adminius/Dimmer32u4.git|Contributed|Dimmer class for ATmega32U4
+https://github.com/hvanvoorthuijsen/InkyBoard.git|Contributed|InkyBoard
 
 
 # With parenthesis
