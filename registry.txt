@@ -952,6 +952,8 @@ https://github.com/teemuatlut/TMC2130Stepper.git|Contributed|TMC2130Stepper
 https://github.com/adafruit/Adafruit_VL53L0X.git|Contributed|Adafruit_VL53L0X
 https://github.com/timum-viw/socket.io-client.git|Contributed|SocketIoClient
 https://github.com/redkea/arduino-library.git|Contributed|redkea
+https://github.com/boodskap/BoodskapMessage.git|Contributed|Boodskap Message library
+
 
 # With parenthesis
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
