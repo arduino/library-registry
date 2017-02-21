@@ -364,7 +364,7 @@ https://github.com/thijse/Arduino-CmdMessenger.git|Contributed|CmdMessenger
 https://github.com/thinger-io/Arduino-Library.git|Contributed|thinger.io
 https://github.com/thomasfredericks/Bounce2.git|Contributed|Bounce2
 https://github.com/thomasfredericks/Chrono.git|Contributed|Chrono
-https://github.com/thomasklingbeil/SR04_Ultrasonic.git|Contributed|
+https://github.com/thomasklingbeil/SR04_Ultrasonic.git|Contributed|SR04_Ultrasonic
 https://github.com/thotro/arduino-dw1000.git|Contributed|DW1000
 https://github.com/TKJElectronics/KalmanFilter.git|Contributed|Kalman Filter Library
 https://github.com/wayoda/LedControl.git|Contributed|LedControl
