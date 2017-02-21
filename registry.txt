@@ -957,6 +957,7 @@ https://github.com/agdl/arduino-multiplePinsAPIs.git|Contributed|multiplePinOps
 https://github.com/Adminius/Dimmer32u4.git|Contributed|Dimmer class for ATmega32U4
 https://github.com/hvanvoorthuijsen/InkyBoard.git|Contributed|InkyBoard
 https://github.com/ErickSimoes/Ultrasonic.git|Contributed|Ultrasonic
+https://github.com/Adminius/DimmerZero.git|Contributed|Dimmer class for SAMD21
 
 # With parenthesis
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
