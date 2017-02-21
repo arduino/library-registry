@@ -959,6 +959,7 @@ https://github.com/hvanvoorthuijsen/InkyBoard.git|Contributed|InkyBoard
 https://github.com/ErickSimoes/Ultrasonic.git|Contributed|Ultrasonic
 https://github.com/Adminius/DimmerZero.git|Contributed|Dimmer class for SAMD21
 https://github.com/monolithicpower/MagAlpha-Arduino-Library.git|Contributed|MagAlpha Angle Sensor Library
+https://github.com/waspinator/AccelStepper.git|Contributed|AccelStepper
 
 # With parenthesis
 #https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
