@@ -964,7 +964,8 @@ https://github.com/witnessmenow/arduino-google-maps-api.git|Contributed|GoogleMa
 https://github.com/witnessmenow/arduino-youtube-api.git|Contributed|YoutubeApi
 https://github.com/Isaranu/IoTtweetESP32.git|Contributed|IoTtweetESP32
 
+https://github.com/plasticrake/OpcServer.git|Contributed|OpcServer
+
 # With parenthesis
-#https://github.com/plasticrake/OpcServer.git|Contributed|Open Pixel Control (OPC) Server
 #https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
 
