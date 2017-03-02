@@ -968,6 +968,7 @@ https://github.com/plasticrake/OpcServer.git|Contributed|OpcServer
 https://github.com/markszabo/IRremoteESP8266.git|Contributed|IRremoteESP8266
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library.git|Contributed|SparkFun Simultaneous RFID Tag Reader Library
 https://github.com/AJMansfield/TriacDimmer.git|Contributed|TriacDimmer
+https://github.com/VasilKalchev/ExponentMap.git|Contributed|ExponentMap
 
 
 # With parenthesis
