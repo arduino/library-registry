@@ -965,6 +965,7 @@ https://github.com/witnessmenow/arduino-youtube-api.git|Contributed|YoutubeApi
 https://github.com/Isaranu/IoTtweetESP32.git|Contributed|IoTtweetESP32
 
 https://github.com/plasticrake/OpcServer.git|Contributed|OpcServer
+https://github.com/markszabo/IRremoteESP8266.git|Contributed|IRremoteESP8266
 
 # With parenthesis
 #https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
