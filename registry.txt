@@ -969,7 +969,7 @@ https://github.com/markszabo/IRremoteESP8266.git|Contributed|IRremoteESP8266
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library.git|Contributed|SparkFun Simultaneous RFID Tag Reader Library
 https://github.com/AJMansfield/TriacDimmer.git|Contributed|TriacDimmer
 https://github.com/VasilKalchev/ExponentMap.git|Contributed|ExponentMap
-
+https://github.com/rafaelnsantos/Relay.git|Contributed|Relay
 
 # With parenthesis
 #https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver (SCMD)
