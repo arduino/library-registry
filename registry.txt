@@ -975,4 +975,5 @@ https://github.com/MonsieurV/ArduinoPocketGeiger.git|Contributed|RadiationWatch
 https://github.com/thinger-io/ClimaStick.git|Contributed|ClimaStick
 https://github.com/TheThingsNetwork/arduino-node-lib.git|Contributed|TheThingsNode
 https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver
+https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino|Contributed|RFExplorer 3GP IoT
 
