@@ -976,4 +976,5 @@ https://github.com/thinger-io/ClimaStick.git|Contributed|ClimaStick
 https://github.com/TheThingsNetwork/arduino-node-lib.git|Contributed|TheThingsNode
 https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino.git|Contributed|RFExplorer 3GP IoT
+https://github.com/NicoHood/IRLremote.git|Contributed|IRLremote
 
