@@ -982,4 +982,5 @@ https://github.com/pololu/balboa-32u4-arduino-library.git|Contributed|Balboa32U4
 https://github.com/smz/Arduino-RTCtime.git|Contributed|RTCtime by smz
 https://github.com/labfruits/mcp3208.git|Contributed|Mcp3208
 https://github.com/thijse/Arduino-Log.git|Contributed|ArduinoLog
+https://github.com/Spaguetron/ST_HW_HC_SR04.git|Contributed|ST_HW_ST_HCRS04
 
