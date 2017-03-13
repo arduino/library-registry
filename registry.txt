@@ -979,4 +979,6 @@ https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino.git|Contributed|RFExplo
 https://github.com/NicoHood/IRLremote.git|Contributed|IRLremote
 https://github.com/JAICHANGPARK/Arduino-Watch.git|Contributed|Arduino Smart Watch
 https://github.com/pololu/balboa-32u4-arduino-library.git|Contributed|Balboa32U4
+https://github.com/smz/Arduino-RTCtime.git|Contributed|RTCtime by smz
+
 
