@@ -41,6 +41,7 @@ https://github.com/arduino-libraries/UnoWiFi-Developer-Edition-Lib.git|Arduino|A
 
 # to be moved in arduino-libraries
 https://github.com/cmaglie/FlashStorage.git|Contributed|FlashStorage
+https://github.com/arduino-org/arduino-library-wifilink.git|Arduino|WiFi Link
 
 https://github.com/arduinoverkstad/EducationShield.git|Contributed|EducationShield
 # REMOVED: https://github.com/arduinoverkstad/Svante-Workshop.git|Contributed|Svante
