@@ -985,4 +985,5 @@ https://github.com/labfruits/mcp3208.git|Contributed|Mcp3208
 https://github.com/thijse/Arduino-Log.git|Contributed|ArduinoLog
 https://github.com/Spaguetron/ST_HW_HC_SR04.git|Contributed|ST_HW_ST_HCRS04
 https://github.com/NADA-ELECTRONICS/AS-289R2.git|Contributed|AS-289R2 Thermal Printer Shield
+https://github.com/marvinroger/arduino-shutters.git|Contributed|Shutters
 
