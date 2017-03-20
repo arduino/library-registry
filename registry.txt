@@ -993,4 +993,5 @@ https://github.com/annem/AD7193.git|Contributed|AD7193
 https://github.com/Robopoly/Robopoly_Bluetooth.git|Contributed|Robopoly Bluetooth
 https://github.com/Robopoly/Robopoly_Encoders.git|Contributed|Robopoly RomeEnco
 https://github.com/LoRaFi/LoRaFi.git|Contributed|LoRaFi
+https://github.com/Wiznet/WizFi310_arduino_library.git|Contributed|WizF310
 
