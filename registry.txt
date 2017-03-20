@@ -989,4 +989,5 @@ https://github.com/marvinroger/arduino-shutters.git|Contributed|Shutters
 https://github.com/sparkfun/SparkFun_TeensyView_Arduino_Library.git|Contributed|TeensyView
 https://github.com/dycodex/MakestroCloudClient.git|Contributed|MakestroCloudClient
 https://github.com/jmparatte/jm_Scheduler.git|Contributed|jm_Scheduler
+https://github.com/annem/AD7193.git|Contributed|AD7193
 
