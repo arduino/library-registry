@@ -990,4 +990,5 @@ https://github.com/sparkfun/SparkFun_TeensyView_Arduino_Library.git|Contributed|
 https://github.com/dycodex/MakestroCloudClient.git|Contributed|MakestroCloudClient
 https://github.com/jmparatte/jm_Scheduler.git|Contributed|jm_Scheduler
 https://github.com/annem/AD7193.git|Contributed|AD7193
+https://github.com/Robopoly/Robopoly_Bluetooth.git|Contributed|Robopoly Bluetooth
 
