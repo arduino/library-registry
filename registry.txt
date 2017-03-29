@@ -996,4 +996,5 @@ https://github.com/LoRaFi/LoRaFi.git|Contributed|LoRaFi
 https://github.com/Wiznet/WizFi310_arduino_library.git|Contributed|WizF310
 https://github.com/SMFSW/SeqButton.git|Contributed|SeqButton
 https://github.com/SMFSW/Queue.git|Contributed|Queue
+https://github.com/andriyadi/AzureIoTHubMQTTClient.git|Contributed|AzureIoTHubMQTTClient
 
