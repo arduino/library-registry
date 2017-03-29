@@ -999,4 +999,5 @@ https://github.com/SMFSW/Queue.git|Contributed|Queue
 https://github.com/andriyadi/AzureIoTHubMQTTClient.git|Contributed|AzureIoTHubMQTTClient
 https://github.com/puuu/USIWire.git|Contributed|USIWire
 https://github.com/SMFSW/SerialTerminal.git|Contributed|SerialTerminal
+https://github.com/mathertel/OneButton.git|Contributed|OneButton
 
