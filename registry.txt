@@ -1001,4 +1001,5 @@ https://github.com/puuu/USIWire.git|Contributed|USIWire
 https://github.com/SMFSW/SerialTerminal.git|Contributed|SerialTerminal
 https://github.com/mathertel/OneButton.git|Contributed|OneButton
 https://github.com/mathertel/RotaryEncoder.git|Contributed|RotaryEncoder
+https://github.com/Makuna/DFMiniMp3.git|Contributed|DFPlayer Mini Mp3 by Makuna
 
