@@ -994,4 +994,5 @@ https://github.com/Robopoly/Robopoly_Bluetooth.git|Contributed|Robopoly Bluetoot
 https://github.com/Robopoly/Robopoly_Encoders.git|Contributed|Robopoly RomeEnco
 https://github.com/LoRaFi/LoRaFi.git|Contributed|LoRaFi
 https://github.com/Wiznet/WizFi310_arduino_library.git|Contributed|WizF310
+https://github.com/SMFSW/SeqButton.git|Contributed|SeqButton
 
