@@ -1003,4 +1003,5 @@ https://github.com/mathertel/OneButton.git|Contributed|OneButton
 https://github.com/mathertel/RotaryEncoder.git|Contributed|RotaryEncoder
 https://github.com/Makuna/DFMiniMp3.git|Contributed|DFPlayer Mini Mp3 by Makuna
 https://github.com/OtacilioN/Brasilino.git|Contributed|Brasilino
+https://github.com/ricki-z/SDS011.git|Contributed|SDS011 sensor Library
 
