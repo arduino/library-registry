@@ -1009,3 +1009,11 @@ https://github.com/OtacilioN/Brasilino.git|Contributed|Brasilino
 https://github.com/ricki-z/SDS011.git|Contributed|SDS011 sensor Library
 https://github.com/jmparatte/jm_CPPM.git|Contributed|jm_CPPM
 
+https://github.com/DrGFreeman/SharpDistSensor.git|Contributed|SharpDistSensor
+https://github.com/jakalada/Arduino-ADXL345.git|Contributed|ADXL345
+https://github.com/jrullan/neotimer.git|Contributed|Neotimer
+https://github.com/jakalada/Arduino-S11059.git|Contributed|S11059
+https://github.com/jakalada/Arduino-S5851A.git|Contributed|S5851A
+https://github.com/jakalada/Arduino-AM50288H.git|Contributed|AM50288H
+https://github.com/jakalada/Arduino-S9706.git|Contributed|S9706
+
