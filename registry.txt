@@ -24,8 +24,8 @@ https://github.com/arduino-libraries/USBHost.git|Arduino|USBHost
 https://github.com/arduino-libraries/WiFi.git|Arduino,Retired|WiFi
 https://github.com/arduino-libraries/WiFi101.git|Arduino|WiFi101
 https://github.com/arduino-libraries/WiFi101OTA.git|Arduino|WiFi101OTA
-https://github.com/arduino-libraries/SigFox.git|Arduino|SigFox
-https://github.com/arduino-libraries/ArduinoLowPower.git|Arduino|ArduinoLowPower
+https://github.com/arduino-libraries/SigFox.git|Arduino|Arduino SigFox for MKRFox1200
+https://github.com/arduino-libraries/ArduinoLowPower.git|Arduino|Arduino Low Power
 https://github.com/arduino-libraries/Mouse.git|Arduino|Mouse
 https://github.com/arduino-libraries/Keyboard.git|Arduino|Keyboard
 https://github.com/firmata/arduino.git|Arduino|Firmata
