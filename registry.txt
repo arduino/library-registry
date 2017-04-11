@@ -1017,3 +1017,11 @@ https://github.com/jakalada/Arduino-S5851A.git|Contributed|S5851A
 https://github.com/jakalada/Arduino-AM50288H.git|Contributed|AM50288H
 https://github.com/jakalada/Arduino-S9706.git|Contributed|S9706
 
+https://github.com/outofambit/easy-neopixels.git|Contributed|Easy NeoPixels
+https://github.com/ricmoo/QRCode.git|Contributed|QRCode
+https://github.com/Industruino/UC1701.git|Contributed|UC1701
+https://github.com/Industruino/Indio.git|Contributed|Indio
+https://github.com/Industruino/EthernetIndustruino.git|Contributed|EthernetIndustruino
+https://github.com/yinkou/Arduboy-TinyFont.git|Contributed|Arduboy-TinyFont
+https://github.com/xcoder123/FlexiPlot_Arduino.git|Contributed|FlexiPlot Arduino Library
+
