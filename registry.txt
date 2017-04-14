@@ -185,6 +185,8 @@ https://github.com/adafruit/Adafruit_LiquidCrystal.git|Recommended|Adafruit Liqu
 https://github.com/adafruit/Adafruit_CircuitPlayground.git|Recommended|Adafruit Circuit Playground
 https://github.com/adafruit/Adafruit_MAX31865.git|Recommended|Adafruit MAX31865 library
 https://github.com/adafruit/Adafruit_MAX31856.git|Recommended|Adafruit MAX31856 library
+https://github.com/adafruit/Adafruit_FXAS21002C.git|Recommended|Adafruit FXAS21002C
+https://github.com/adafruit/Adafruit_FXOS8700.git|Recommended|Adafruit FXOS8700
 
 # Ameltech
 https://github.com/ameltech/sme-le51-868-library.git|Partner|SmartEverything SIGFOX LE51-868
@@ -1024,4 +1026,5 @@ https://github.com/Industruino/Indio.git|Contributed|Indio
 https://github.com/Industruino/EthernetIndustruino.git|Contributed|EthernetIndustruino
 https://github.com/yinkou/Arduboy-TinyFont.git|Contributed|Arduboy-TinyFont
 https://github.com/xcoder123/FlexiPlot_Arduino.git|Contributed|FlexiPlot Arduino Library
+https://github.com/ozhantr/DigitLedDisplay.git|Contributed|DigitLedDisplay
 
