@@ -1033,3 +1033,5 @@ https://github.com/sigvaldm/SevenSeg.git|Contributed|SevenSeg
 https://github.com/BlueDot-Arduino/BlueDot_BME280.git|Contributed|BlueDot BME280 Library
 https://github.com/teemuatlut/TMC2208Stepper.git|Contributed|TMC2208Stepper
 https://github.com/damellis/PCM.git|Contributed|PCM
+https://github.com/stevemarple/IniFile.git|Contributed|IniFile
+
