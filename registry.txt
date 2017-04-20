@@ -1028,3 +1028,5 @@ https://github.com/yinkou/Arduboy-TinyFont.git|Contributed|Arduboy-TinyFont
 https://github.com/xcoder123/FlexiPlot_Arduino.git|Contributed|FlexiPlot Arduino Library
 https://github.com/ozhantr/DigitLedDisplay.git|Contributed|DigitLedDisplay
 
+https://github.com/AshleyF/BriefEmbedded.git|Contributed|Brief
+
