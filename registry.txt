@@ -1030,4 +1030,4 @@ https://github.com/ozhantr/DigitLedDisplay.git|Contributed|DigitLedDisplay
 
 https://github.com/AshleyF/BriefEmbedded.git|Contributed|Brief
 https://github.com/sigvaldm/SevenSeg.git|Contributed|SevenSeg
-
+https://github.com/BlueDot-Arduino/BlueDot_BME280.git|Contributed|BlueDot BME280 Library
