@@ -1036,3 +1036,4 @@ https://github.com/teemuatlut/TMC2208Stepper.git|Contributed|TMC2208Stepper
 https://github.com/damellis/PCM.git|Contributed|PCM
 https://github.com/stevemarple/IniFile.git|Contributed|IniFile
 
+https://github.com/rlogiacco/PlotPlus.git|Contributed|PlotPlus
