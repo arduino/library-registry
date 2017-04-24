@@ -1037,3 +1037,4 @@ https://github.com/damellis/PCM.git|Contributed|PCM
 https://github.com/stevemarple/IniFile.git|Contributed|IniFile
 
 https://github.com/rlogiacco/PlotPlus.git|Contributed|PlotPlus
+https://github.com/bengtmartensson/Arduino-DecodeIR.git|Contributed|DecodeIR
