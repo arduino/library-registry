@@ -1040,3 +1040,4 @@ https://github.com/rlogiacco/PlotPlus.git|Contributed|PlotPlus
 https://github.com/bengtmartensson/Arduino-DecodeIR.git|Contributed|DecodeIR
 https://github.com/ZulNs/MultitapKeypad.git|Contributed|MultitapKeypad
 https://github.com/fire0shadow/SevSegSPI.git|Contributed|SevSegSPI
+https://github.com/NorthernWidget/DS3231.git|Contributed|DS3231
