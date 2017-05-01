@@ -1046,3 +1046,4 @@ https://github.com/ayushsharma82/EasyDDNS.git|Contributed|EasyDDNS
 https://github.com/sparkfun/SparkFun_AK9750_Arduino_Library.git|Contributed|SparkFun AK9750 Human Presence Sensor Library
 https://github.com/sparkfun/SparkFun_CCS811_Arduino_Library.git|Contributed|SparkFun CCS811 Breakout
 https://github.com/greiman/SdFat.git|Contributed|SdFat
+https://github.com/witnessmenow/arduino-instructables-api.git|Contributed|InstructableApi
