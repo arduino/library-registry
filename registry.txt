@@ -1050,3 +1050,4 @@ https://github.com/witnessmenow/arduino-instructables-api.git|Contributed|Instru
 https://github.com/witnessmenow/arduino-twitter-api.git|Contributed|TwitterApi
 https://github.com/witnessmenow/arduino-facebook-api.git|Contributed|FacebookApi
 https://github.com/frankjoshua/rosserial_arduino_lib.git|Contributed|Rosserial Arduino Library
+https://github.com/belidzs/PreciseLM35.git|Contributed|PreciseLM35
