@@ -1048,3 +1048,4 @@ https://github.com/sparkfun/SparkFun_CCS811_Arduino_Library.git|Contributed|Spar
 https://github.com/greiman/SdFat.git|Contributed|SdFat
 https://github.com/witnessmenow/arduino-instructables-api.git|Contributed|InstructableApi
 https://github.com/witnessmenow/arduino-twitter-api.git|Contributed|TwitterApi
+https://github.com/witnessmenow/arduino-facebook-api.git|Contributed|FacebookApi
