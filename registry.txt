@@ -1052,3 +1052,4 @@ https://github.com/witnessmenow/arduino-facebook-api.git|Contributed|FacebookApi
 https://github.com/frankjoshua/rosserial_arduino_lib.git|Contributed|Rosserial Arduino Library
 https://github.com/belidzs/PreciseLM35.git|Contributed|PreciseLM35
 https://github.com/JoaquimFlavio/GuaraTeca_OBR.git|Contributed|GuaraTeca_OBR
+https://github.com/psychogenic/SerialUI.git|Contributed|SerialUI
