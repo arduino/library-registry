@@ -1054,3 +1054,4 @@ https://github.com/belidzs/PreciseLM35.git|Contributed|PreciseLM35
 https://github.com/JoaquimFlavio/GuaraTeca_OBR.git|Contributed|GuaraTeca_OBR
 https://github.com/psychogenic/SerialUI.git|Contributed|SerialUI
 https://github.com/VittorioEsposito/J1850-PWM-Encoding-Library.git|Contributed|J1850-PWM Encoding Library
+https://github.com/ggzucco/LM35.git|Contributed|LM35
