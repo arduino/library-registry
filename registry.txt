@@ -36,6 +36,7 @@ https://github.com/arduino-libraries/NTPClient.git|Arduino|NTPClient
 https://github.com/arduino-libraries/ArduinoCloud.git|Arduino|ArduinoCloud
 https://github.com/arduino-libraries/ArduinoHttpClient.git|Arduino|ArduinoHttpClient
 https://github.com/arduino-libraries/ArduinoSound.git|Arduino|ArduinoSound
+https://github.com/arduino-libraries/ArduinoMDNS.git|Arduino|ArduinoMDNS
 
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
