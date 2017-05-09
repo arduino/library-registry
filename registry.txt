@@ -1057,3 +1057,4 @@ https://github.com/psychogenic/SerialUI.git|Contributed|SerialUI
 https://github.com/VittorioEsposito/J1850-PWM-Encoding-Library.git|Contributed|J1850-PWM Encoding Library
 https://github.com/ggzucco/LM35.git|Contributed|LM35
 https://github.com/jmparatte/jm_Wire.git|Contributed|jm_Wire
+https://github.com/adafruit/Adafruit_MCP3008.git|Contributed|Adafruit MCP3008
