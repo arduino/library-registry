@@ -1060,3 +1060,4 @@ https://github.com/jmparatte/jm_Wire.git|Contributed|jm_Wire
 https://github.com/adafruit/Adafruit_MCP3008.git|Contributed|Adafruit MCP3008
 https://github.com/adafruit/Adafruit_SPIFlash.git|Contributed|Adafruit SPIFlash
 https://github.com/AntoIOT/anto-esp8266-arduino.git|Contributed|anto-esp8266-arduino
+https://github.com/hedrickbt/MillaMilla_DS7505_Library.git|Contributed|MillaMilla DS7505 Library
