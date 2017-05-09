@@ -1064,3 +1064,4 @@ https://github.com/hedrickbt/MillaMilla_DS7505_Library.git|Contributed|MillaMill
 https://github.com/thexeno/DS1307-Emulator-Arduino-Library.git|Contributed|DS1307 Emulator
 https://github.com/VasilKalchev/RGBLED.git|Contributed|RGBLED
 https://github.com/JoaquimFlavio/GuaraTeca_Menu.git|Contributed|GuaraTeca_Menu
+https://github.com/jmparatte/jm_LiquidCrystal_I2C.git|Contributed|jm_LiquidCrystal_I2C
