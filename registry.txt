@@ -1069,3 +1069,4 @@ https://github.com/JoaquimFlavio/GuaraTeca_Hardware.git|Contributed|GuaraTeca_Ha
 https://github.com/SlashDevin/NeoSWSerial.git|Contributed|NeoSWSerial
 https://github.com/sparkfun/SparkFun_I2C_GPS_Arduino_Library.git|Contributed|SparkFun I2C GPS Reading and Control
 https://github.com/jensh/CopyThreads.git|Contributed|CopyThreads
+https://github.com/kosme/arduinoFFT.git|Contributed|arduinoFFT
