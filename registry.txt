@@ -1066,3 +1066,4 @@ https://github.com/VasilKalchev/RGBLED.git|Contributed|RGBLED
 https://github.com/JoaquimFlavio/GuaraTeca_Menu.git|Contributed|GuaraTeca_Menu
 https://github.com/jmparatte/jm_LiquidCrystal_I2C.git|Contributed|jm_LiquidCrystal_I2C
 https://github.com/JoaquimFlavio/GuaraTeca_Hardware.git|Contributed|GuaraTeca_Hardware
+https://github.com/SlashDevin/NeoSWSerial.git|Contributed|NeoSWSerial
