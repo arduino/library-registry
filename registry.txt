@@ -1075,3 +1075,4 @@ https://github.com/SodaqMoja/Sodaq_wdt.git|Contributed|Sodaq_wdt
 https://github.com/GO01260/uMT.git|Contributed|uMT
 https://github.com/jscastonguay/technoshield-ui-lib.git|Contributed|Technoshield-ui-lib
 https://github.com/DarkDust/MHGroveBLE.git|Contributed|MHGroveBLE
+https://github.com/SodaqMoja/Sodaq_LIS3DE.git|Contributed|Sodaq_LIS3DE
