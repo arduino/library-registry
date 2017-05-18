@@ -853,7 +853,7 @@ https://github.com/DFRobot/DFRobotDFPlayerMini.git|Contributed|DFRobotDFPlayerMi
 https://github.com/elyons/pinduino.git|Contributed|pinduino
 https://github.com/nadavmatalon/WatchDog.git|Contributed|WatchDog
 https://github.com/myconstellation/constellation-arduino.git|Contributed|Constellation
-https://github.com/sakura-internet/SakuraIOArduino.git|Contributed|SakuraIO
+https://github.com/sakuraio/SakuraIOArduino.git|Contributed|SakuraIO
 
 https://github.com/MadTooler/Gobbit_Line_Commander.git|Contributed|GobbitLineCommand
 https://github.com/CsCrazy85/DatavisionLCD.git|Contributed|DatavisionLCD
