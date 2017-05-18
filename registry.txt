@@ -1072,3 +1072,4 @@ https://github.com/jensh/CopyThreads.git|Contributed|CopyThreads
 https://github.com/kosme/arduinoFFT.git|Contributed|arduinoFFT
 https://github.com/thingface/arduino.git|Contributed|ThingfaceClient
 https://github.com/SodaqMoja/Sodaq_wdt.git|Contributed|Sodaq_wdt
+https://github.com/GO01260/uMT.git|Contributed|uMT
