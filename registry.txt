@@ -1081,3 +1081,4 @@ https://github.com/kmackay/micro-ecc.git|Contributed|micro-ecc
 https://bitbucket.org/pjhardy/kerbalsimpit-arduino.git|Contributed|Kerbal Sim Pit
 https://github.com/ghaemshop/ghaemShopSmSim.git|Contributed|ghaemShopSmSim
 https://github.com/ssuhrid/EmSevenSegment.git|Contributed|EmSevenSegment
+https://github.com/aelse/ArduinoStatsd.git|Contributed|StatsD
