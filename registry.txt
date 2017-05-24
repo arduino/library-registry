@@ -1083,3 +1083,4 @@ https://github.com/ghaemshop/ghaemShopSmSim.git|Contributed|ghaemShopSmSim
 https://github.com/ssuhrid/EmSevenSegment.git|Contributed|EmSevenSegment
 https://github.com/aelse/ArduinoStatsd.git|Contributed|StatsD
 https://github.com/jrcape/ADSWeather.git|Contributed|ADSWeather
+https://github.com/ayushsharma82/EasyUI.git|Contributed|EasyUI
