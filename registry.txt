@@ -1077,3 +1077,4 @@ https://github.com/jscastonguay/technoshield-ui-lib.git|Contributed|Technoshield
 https://github.com/DarkDust/MHGroveBLE.git|Contributed|MHGroveBLE
 https://github.com/SodaqMoja/Sodaq_LIS3DE.git|Contributed|Sodaq_LIS3DE
 https://github.com/connornishijima/TinySnore.git|Contributed|TinySnore
+https://github.com/kmackay/micro-ecc.git|Contributed|micro-ecc
