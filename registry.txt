@@ -1082,3 +1082,4 @@ https://bitbucket.org/pjhardy/kerbalsimpit-arduino.git|Contributed|Kerbal Sim Pi
 https://github.com/ghaemshop/ghaemShopSmSim.git|Contributed|ghaemShopSmSim
 https://github.com/ssuhrid/EmSevenSegment.git|Contributed|EmSevenSegment
 https://github.com/aelse/ArduinoStatsd.git|Contributed|StatsD
+https://github.com/jrcape/ADSWeather.git|Contributed|ADSWeather
