@@ -1086,3 +1086,4 @@ https://github.com/jrcape/ADSWeather.git|Contributed|ADSWeather
 https://github.com/ayushsharma82/EasyUI.git|Contributed|EasyUI
 https://github.com/squix78/minigrafx.git|Contributed|Mini Grafx
 https://github.com/mattairtech/SRAM_23LC.git|Contributed|SRAM_23LC
+https://github.com/MajicDesigns/MD_Menu.git|Contributed|MD_Menu
