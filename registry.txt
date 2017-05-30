@@ -1088,3 +1088,4 @@ https://github.com/squix78/minigrafx.git|Contributed|Mini Grafx
 https://github.com/mattairtech/SRAM_23LC.git|Contributed|SRAM_23LC
 https://github.com/MajicDesigns/MD_Menu.git|Contributed|MD_Menu
 https://github.com/CytronTechnologies/Cytron_Shield3AMotor.git|Contributed|Cytron 3A Motor Driver Shield
+https://github.com/meeo/meeo-arduino.git|Contributed|Meeo
