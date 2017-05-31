@@ -1090,3 +1090,4 @@ https://github.com/MajicDesigns/MD_Menu.git|Contributed|MD_Menu
 https://github.com/CytronTechnologies/Cytron_Shield3AMotor.git|Contributed|Cytron 3A Motor Driver Shield
 https://github.com/meeo/meeo-arduino.git|Contributed|Meeo
 https://github.com/septillion-git/QC2Control.git|Contributed|QC2Control
+https://github.com/datacute/DoubleResetDetector.git|Contributed|DoubleResetDetector
