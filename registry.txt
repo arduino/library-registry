@@ -1094,3 +1094,4 @@ https://github.com/datacute/DoubleResetDetector.git|Contributed|DoubleResetDetec
 https://github.com/OnionIoT/Onion-Arduino-Library.git|Contributed|Onion Arduino Library
 https://github.com/pachonk/Sensor.git|Contributed|Sensor
 https://github.com/elpassion/Babelduino.git|Contributed|Babelduino
+https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat.git|Contributed|VS1053 for use with SdFat
