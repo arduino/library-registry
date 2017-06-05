@@ -1092,3 +1092,4 @@ https://github.com/meeo/meeo-arduino.git|Contributed|Meeo
 https://github.com/septillion-git/QC2Control.git|Contributed|QC2Control
 https://github.com/datacute/DoubleResetDetector.git|Contributed|DoubleResetDetector
 https://github.com/OnionIoT/Onion-Arduino-Library.git|Contributed|Onion Arduino Library
+https://github.com/pachonk/Sensor.git|Contributed|Sensor
