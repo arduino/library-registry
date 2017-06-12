@@ -1098,3 +1098,4 @@ https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat.git|Contributed|VS10
 https://github.com/Infineon/DPS310-Pressure-Sensor.git|Contributed|IFX_DPS310
 https://github.com/witnessmenow/arduino-coinmarketcap-api.git|Contributed|CoinMarketCapApi
 https://github.com/bartoszbielawski/AJSP.git|Contributed|AJSP
+https://github.com/bartoszbielawski/LEDMatrixDriver.git|Contributed|LEDMatrixDriver
