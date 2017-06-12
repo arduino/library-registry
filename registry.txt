@@ -1099,3 +1099,4 @@ https://github.com/Infineon/DPS310-Pressure-Sensor.git|Contributed|IFX_DPS310
 https://github.com/witnessmenow/arduino-coinmarketcap-api.git|Contributed|CoinMarketCapApi
 https://github.com/bartoszbielawski/AJSP.git|Contributed|AJSP
 https://github.com/bartoszbielawski/LEDMatrixDriver.git|Contributed|LEDMatrixDriver
+https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library.git|Contributed|SparkFun RFD77402 Distance Sensor - VCSEL Time of Flight
