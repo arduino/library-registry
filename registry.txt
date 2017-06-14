@@ -1103,3 +1103,4 @@ https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library.git|Contributed|Sp
 https://github.com/AndreaLombardo/L298N.git|Contributed|L298N
 https://github.com/dersimn/ArduinoThreadRunOnce.git|Contributed|ArduinoThreadRunOnce
 https://github.com/dniklaus/wiring-timer.git|Contributed|wiring-timer
+https://github.com/vitcon-iot/VitconCommon.git|Contributed|VitconCommon
