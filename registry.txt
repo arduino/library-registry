@@ -1105,3 +1105,4 @@ https://github.com/dersimn/ArduinoThreadRunOnce.git|Contributed|ArduinoThreadRun
 https://github.com/dniklaus/wiring-timer.git|Contributed|wiring-timer
 https://github.com/vitcon-iot/VitconCommon.git|Contributed|VitconCommon
 https://github.com/vitcon-iot/VitconIOT.git|Contributed|VitconIOT
+https://github.com/vitcon-iot/VitconLink.git|Contributed|VitconLink
