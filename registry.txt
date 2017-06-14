@@ -1106,3 +1106,4 @@ https://github.com/dniklaus/wiring-timer.git|Contributed|wiring-timer
 https://github.com/vitcon-iot/VitconCommon.git|Contributed|VitconCommon
 https://github.com/vitcon-iot/VitconIOT.git|Contributed|VitconIOT
 https://github.com/vitcon-iot/VitconLink.git|Contributed|VitconLink
+https://github.com/iotappstory/ESP8266-Library-V1.0.git|Contributed|IOTAppStory-ESP8266
