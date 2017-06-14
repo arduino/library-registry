@@ -1102,3 +1102,4 @@ https://github.com/bartoszbielawski/LEDMatrixDriver.git|Contributed|LEDMatrixDri
 https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library.git|Contributed|SparkFun RFD77402 Distance Sensor - VCSEL Time of Flight
 https://github.com/AndreaLombardo/L298N.git|Contributed|L298N
 https://github.com/dersimn/ArduinoThreadRunOnce.git|Contributed|ArduinoThreadRunOnce
+https://github.com/dniklaus/wiring-timer.git|Contributed|wiring-timer
