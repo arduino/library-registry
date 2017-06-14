@@ -1108,3 +1108,4 @@ https://github.com/vitcon-iot/VitconIOT.git|Contributed|VitconIOT
 https://github.com/vitcon-iot/VitconLink.git|Contributed|VitconLink
 https://github.com/iotappstory/ESP8266-Library-V1.0.git|Contributed|IOTAppStory-ESP8266
 https://github.com/kremio/DLPacket.git|Contributed|DLPacket
+https://github.com/bartoszbielawski/C-Tasks.git|Contributed|CPPTasks
