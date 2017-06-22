@@ -1112,3 +1112,4 @@ https://github.com/bartoszbielawski/C-Tasks.git|Contributed|CPPTasks
 https://github.com/lemio/esp32_ble_wedo.git|Contributed|WEDO 2.0 BLE for ESP32
 https://github.com/ERNICommunity/dbg-trace.git|Contributed|dbg-trace
 https://github.com/ERNICommunity/debug-cli.git|Contributed|debug-cli
+https://github.com/JoaquimFlavio/GuaraTeca_Demo.git|Contributed|Guarateca_Demo
