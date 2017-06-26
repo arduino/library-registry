@@ -1119,3 +1119,4 @@ https://github.com/PulseRain/M10CODEC.git|Contributed|M10CODEC
 https://github.com/PulseRain/M10SD.git|Contributed|M10SD
 https://github.com/PulseRain/M10PWM.git|Contributed|M10PWM
 https://github.com/PulseRain/M10JTAG.git|Contributed|M10JTAG
+https://github.com/helium/helium-arduino.git|Contributed|Helium
