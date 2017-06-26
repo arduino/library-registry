@@ -1115,3 +1115,4 @@ https://github.com/ERNICommunity/debug-cli.git|Contributed|debug-cli
 https://github.com/JoaquimFlavio/GuaraTeca_Demo.git|Contributed|Guarateca_Demo
 https://github.com/PulseRain/M10ADC.git|Contributed|M10ADC
 https://github.com/mattairtech/EEPROM_CAT25.git|Contributed|EEPROM_CAT25
+https://github.com/PulseRain/M10CODEC.git|Contributed|M10CODEC
