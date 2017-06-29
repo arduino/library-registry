@@ -1121,3 +1121,4 @@ https://github.com/PulseRain/M10PWM.git|Contributed|M10PWM
 https://github.com/PulseRain/M10JTAG.git|Contributed|M10JTAG
 https://github.com/helium/helium-arduino.git|Contributed|Helium
 https://github.com/aharshac/EasyNTPClient.git|Contributed|EasyNTPClient
+https://github.com/grzesl/ESPMail.git|Contributed|ESPMail
