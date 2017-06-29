@@ -1124,3 +1124,4 @@ https://github.com/aharshac/EasyNTPClient.git|Contributed|EasyNTPClient
 https://github.com/grzesl/ESPMail.git|Contributed|ESPMail
 https://github.com/u-fire/ECSalinity.git|Contributed|EC_Salinity
 https://github.com/PulseRain/M10SerialAUX.git|Contributed|M10SerialAUX
+https://github.com/PulseRain/M10SRAM.git|Contributed|M10SRAM
