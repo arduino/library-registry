@@ -1128,3 +1128,4 @@ https://github.com/PulseRain/M10SRAM.git|Contributed|M10SRAM
 https://github.com/PulseRain/M10I2C.git|Contributed|M10I2C
 https://github.com/SConaway/AVRUtils.git|Contributed|AVRUtils
 https://github.com/arielnh56/OctoSonar.git|Contributed|OctoSonar
+https://github.com/Schm1tz1/aws-sdk-arduino-esp8266.git|Contributed|AWS-SDK-ESP8266
