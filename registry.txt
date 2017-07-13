@@ -1130,3 +1130,4 @@ https://github.com/SConaway/AVRUtils.git|Contributed|AVRUtils
 https://github.com/arielnh56/OctoSonar.git|Contributed|OctoSonar
 https://github.com/Schm1tz1/aws-sdk-arduino-esp8266.git|Contributed|AWS-SDK-ESP8266
 https://github.com/SodaqMoja/Sodaq_nbIOT.git|Contributed|Sodaq_nbIOT
+https://github.com/jaean123/ArduinoCommanderLib.git|Contributed|Arduino Commander
