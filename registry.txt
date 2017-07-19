@@ -1136,3 +1136,4 @@ https://github.com/bitcraze/Bitcraze_PMW3901.git|Contributed|Bitcraze PMW3901
 https://github.com/asukiaaa/MPU9250_asukiaaa.git|Contributed|MPU9250_asukiaaa
 https://github.com/LeemanGeophysicalLLC/FIR_Filter_Arduino_Library.git|Contributed|FIR filter
 https://github.com/Isaac100/TMP36.git|Contributed|TMP36
+https://github.com/andium/hueDino.git|Contributed|hueDino
