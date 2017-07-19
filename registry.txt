@@ -506,7 +506,7 @@ https://github.com/Densaugeo/base64_arduino.git|Contributed|base64
 https://github.com/hirotakaster/CoAP-simple-library.git|Contributed|CoAP simple library
 https://github.com/cmmakerclub/CMMCInterval.git|Contributed|
 https://github.com/ameltech/sme-cc2541-library.git|Contributed|SmartEverything CC2541
-https://github.com/bluerobotics/BlueRobotics_MS5837_Library.git|Contributed|BlueRobotics MS5837-30BA Library
+https://github.com/bluerobotics/BlueRobotics_MS5837_Library.git|Contributed|BlueRobotics MS5837 Library
 https://github.com/bluerobotics/Arduino_I2C_ESC.git|Contributed|BlueRobotics Arduino_I2C_ESC Library
 https://github.com/bluerobotics/BlueRobotics_TSYS01_Library.git|Contributed|BlueRobotics TSYS01 Library
 https://github.com/pololu/pololu-rpi-slave-arduino-library.git|Contributed|PololuRPiSlave
