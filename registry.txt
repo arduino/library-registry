@@ -1134,3 +1134,4 @@ https://github.com/jaean123/ArduinoCommanderLib.git|Contributed|Arduino Commande
 https://github.com/SteveBenz/PS2KeyboardHost.git|Contributed|Ps2KeyboardHost
 https://github.com/bitcraze/Bitcraze_PMW3901.git|Contributed|Bitcraze PMW3901
 https://github.com/asukiaaa/MPU9250_asukiaaa.git|Contributed|MPU9250_asukiaaa
+https://github.com/LeemanGeophysicalLLC/FIR_Filter_Arduino_Library.git|Contributed|FIR filter
