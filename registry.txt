@@ -1138,3 +1138,4 @@ https://github.com/LeemanGeophysicalLLC/FIR_Filter_Arduino_Library.git|Contribut
 https://github.com/Isaac100/TMP36.git|Contributed|TMP36
 https://github.com/andium/hueDino.git|Contributed|hueDino
 https://github.com/VittorioEsposito/J1850-Arduino-Transceiver-Library.git|Contributed|J1850 Arduino Transceiver Library
+https://github.com/Industruino/FRAM.git|Contributed|Fram
