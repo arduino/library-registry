@@ -1144,3 +1144,4 @@ https://github.com/OpenBCI/OpenBCI_WIFI.git|Contributed|OpenBCI_Wifi
 https://github.com/OpenBCI/OpenBCI_Wifi_Master_Library.git|Contributed|OpenBCI_Wifi_Master
 https://github.com/Infineon/DC-Motor-Control-TLE94112EL.git|Contributed|TLE94112
 https://github.com/sabas1080/CayenneLPP.git|Contributed|CayenneLPP
+https://github.com/PulseRain/M10ESP8266.git|Contributed|M10ESP8266
