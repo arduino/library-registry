@@ -1141,3 +1141,4 @@ https://github.com/VittorioEsposito/J1850-Arduino-Transceiver-Library.git|Contri
 https://github.com/Industruino/FRAM.git|Contributed|Fram
 https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library.git|Contributed|SparkFun Si7021 Humidity and Temperature Sensor
 https://github.com/OpenBCI/OpenBCI_WIFI.git|Contributed|OpenBCI_Wifi
+https://github.com/OpenBCI/OpenBCI_Wifi_Master_Library.git|Contributed|OpenBCI_Wifi_Master
