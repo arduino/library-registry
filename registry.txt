@@ -1139,3 +1139,4 @@ https://github.com/Isaac100/TMP36.git|Contributed|TMP36
 https://github.com/andium/hueDino.git|Contributed|hueDino
 https://github.com/VittorioEsposito/J1850-Arduino-Transceiver-Library.git|Contributed|J1850 Arduino Transceiver Library
 https://github.com/Industruino/FRAM.git|Contributed|Fram
+https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library.git|Contributed|SparkFun Si7021 Humidity and Temperature Sensor
