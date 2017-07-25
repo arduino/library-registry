@@ -1147,3 +1147,4 @@ https://github.com/sabas1080/CayenneLPP.git|Contributed|CayenneLPP
 https://github.com/PulseRain/M10ESP8266.git|Contributed|M10ESP8266
 https://github.com/pololu/tic-arduino.git|Contributed|Tic
 https://github.com/coogle/CoogleIOT.git|Contributed|CoogleIOT
+https://github.com/XasWorks/Circios-Library.git|Contributed|Circios Roboter-Steuerung
