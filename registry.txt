@@ -1152,3 +1152,4 @@ https://github.com/RobPo/Paperino.git|Contributed|PL_microEPD
 https://github.com/OpenBCI/OpenBCI_Radios.git|Contributed|OpenBCI_Radios
 https://github.com/cristborges/IRRemoteControl.git|Contributed|IRRemoteControl
 https://github.com/evert-arias/LedSync.git|Contributed|LedSync
+https://github.com/closedcube/ClosedCube_TSYS01_Arduino.git|Contributed|ClosedCube TSYS01
