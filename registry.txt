@@ -1151,3 +1151,4 @@ https://github.com/XasWorks/Circios-Library.git|Contributed|Circios Roboter-Steu
 https://github.com/RobPo/Paperino.git|Contributed|PL_microEPD
 https://github.com/OpenBCI/OpenBCI_Radios.git|Contributed|OpenBCI_Radios
 https://github.com/cristborges/IRRemoteControl.git|Contributed|IRRemoteControl
+https://github.com/evert-arias/LedSync.git|Contributed|LedSync
