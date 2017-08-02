@@ -1150,3 +1150,4 @@ https://github.com/coogle/CoogleIOT.git|Contributed|CoogleIOT
 https://github.com/XasWorks/Circios-Library.git|Contributed|Circios Roboter-Steuerung
 https://github.com/RobPo/Paperino.git|Contributed|PL_microEPD
 https://github.com/OpenBCI/OpenBCI_Radios.git|Contributed|OpenBCI_Radios
+https://github.com/cristborges/IRRemoteControl.git|Contributed|IRRemoteControl
