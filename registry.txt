@@ -1156,3 +1156,4 @@ https://github.com/closedcube/ClosedCube_TSYS01_Arduino.git|Contributed|ClosedCu
 https://github.com/dvernier/VernierLib.git|Contributed|VernierLib
 https://github.com/andium/AmazonDRS.git|Contributed|AmazonDRS
 https://github.com/SodaqMoja/Microchip_RN487x.git|Contributed|Microchip_RN487x
+https://github.com/MileBuurmeijer/DS1307newAlarms.git|Contributed|DS1307newAlarms
