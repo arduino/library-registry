@@ -1155,3 +1155,4 @@ https://github.com/evert-arias/LedSync.git|Contributed|LedSync
 https://github.com/closedcube/ClosedCube_TSYS01_Arduino.git|Contributed|ClosedCube TSYS01
 https://github.com/dvernier/VernierLib.git|Contributed|VernierLib
 https://github.com/andium/AmazonDRS.git|Contributed|AmazonDRS
+https://github.com/SodaqMoja/Microchip_RN487x.git|Contributed|Microchip_RN487x
