@@ -1162,3 +1162,4 @@ https://github.com/Gibartes/uCOS-II_Arduino.git|Contributed|uCOS-II
 https://github.com/tkem/mbino.git|Contributed|mbino
 https://github.com/forkineye/ESPAsyncE131.git|Contributed|ESP Async E1.31
 https://github.com/suculent/thinx-lib-esp8266-arduinoc.git|Contributed|THiNX
+https://github.com/PushTheWorld/PTW-Arduino-Assert.git|Contributed|PTW-Arduino-Assert
