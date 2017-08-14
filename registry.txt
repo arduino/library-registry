@@ -1158,3 +1158,4 @@ https://github.com/andium/AmazonDRS.git|Contributed|AmazonDRS
 https://github.com/SodaqMoja/Microchip_RN487x.git|Contributed|Microchip_RN487x
 https://github.com/MileBuurmeijer/DS1307newAlarms.git|Contributed|DS1307newAlarms
 https://github.com/tuanpmt/ESP8266MQTTClient.git|Contributed|ESP8266MQTTClient
+https://github.com/Gibartes/uCOS-II_Arduino.git|Contributed|uCOS-II
