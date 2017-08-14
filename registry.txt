@@ -1160,3 +1160,4 @@ https://github.com/MileBuurmeijer/DS1307newAlarms.git|Contributed|DS1307newAlarm
 https://github.com/tuanpmt/ESP8266MQTTClient.git|Contributed|ESP8266MQTTClient
 https://github.com/Gibartes/uCOS-II_Arduino.git|Contributed|uCOS-II
 https://github.com/tkem/mbino.git|Contributed|mbino
+https://github.com/forkineye/ESPAsyncE131.git|Contributed|ESP Async E1.31
