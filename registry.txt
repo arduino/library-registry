@@ -1165,7 +1165,6 @@ https://github.com/suculent/thinx-lib-esp8266-arduinoc.git|Contributed|THiNX
 https://github.com/PushTheWorld/PTW-Arduino-Assert.git|Contributed|PTW-Arduino-Assert
 https://github.com/bernebeer/Charge-n-Boost.git|Contributed|Charge n Boost
 https://github.com/forkineye/E131.git|Contributed|E131
-https://github.com/KuangLei/4Digit7Seg12Pin.git|Contributed|4Digit7Seg12Pin
 https://github.com/SMFSW/cQueue.git|Contributed|cQueue
 https://github.com/stm32duino/STM32Ethernet.git|Contributed|STM32Ethernet
 https://github.com/stm32duino/LwIP.git|Contributed|LwIP
