@@ -1166,3 +1166,4 @@ https://github.com/PushTheWorld/PTW-Arduino-Assert.git|Contributed|PTW-Arduino-A
 https://github.com/bernebeer/Charge-n-Boost.git|Contributed|Charge n Boost
 https://github.com/forkineye/E131.git|Contributed|E131
 https://github.com/KuangLei/4Digit7Seg12Pin.git|Contributed|4Digit7Seg12Pin
+https://github.com/SMFSW/cQueue.git|Contributed|cQueue
