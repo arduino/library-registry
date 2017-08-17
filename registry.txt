@@ -1173,3 +1173,4 @@ https://github.com/SofaPirate/AsciiMassage.git|Contributed|AsciiMassage
 https://github.com/paulo-raca/ArduinoLedDithering.git|Contributed|LED Dithering
 https://github.com/TriadSemi/TS4231.git|Contributed|TS4231 Library
 https://github.com/adafruit/Adafruit_CCS811.git|Contributed|Adafruit CCS811 Library
+https://github.com/erdnaxe/Arduino_BrushlessServo.git|Contributed|Brushless Servo
