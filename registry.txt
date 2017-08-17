@@ -438,7 +438,7 @@ https://github.com/z3t0/Arduino-IRremote.git|Contributed|IRremote
 https://github.com/etherkit/Si5351Arduino.git|Contributed|Etherkit Si5351
 https://github.com/Apollon77/I2CSoilMoistureSensor.git|Contributed|I2CSoilMoistureSensor
 https://github.com/squix78/esp8266-oled-ssd1306.git|Contributed|ESP8266 Oled Driver for SSD1306 display
-https://github.com/CNMAT/OSC.git|Contributed|
+https://github.com/CNMAT/OSC.git|Contributed|OSC
 https://github.com/collin80/due_can.git|Contributed|due_can
 https://github.com/alextaujenis/RBD_SerialManager.git|Contributed|RBD_SerialManager
 https://github.com/feilipu/Arduino_FreeRTOS_Library.git|Contributed|FreeRTOS
@@ -452,7 +452,7 @@ https://github.com/platisd/smartcar_shield.git|Contributed|Smartcar shield
 https://github.com/hotchpotch/Arduino-HDC1000.git|Contributed|HDC1000
 https://github.com/robbie-remote/RESTClient.git|Contributed|RESTClient
 https://github.com/bportaluri/WiFiEsp.git|Contributed|WiFiEsp
-https://github.com/Davideddu/APDS9930.git|Contributed|
+https://github.com/Davideddu/APDS9930.git|Contributed|APDS-9930 Ambient Light and Proximity Sensor
 https://github.com/somsinchai/IBot.git|Contributed|IBot
 https://github.com/chatelao/MiniPirate.git|Contributed|SwissHandmade MiniPirate
 https://github.com/5pIO/BLESerial.git|Contributed|BLESerial
@@ -504,7 +504,7 @@ https://github.com/gregington/BigCrystal.git|Contributed|BigCrystal
 https://github.com/TinyCircuits/TinyCircuits-TinyScreen_Lib.git|Contributed|TinyScreen
 https://github.com/Densaugeo/base64_arduino.git|Contributed|base64
 https://github.com/hirotakaster/CoAP-simple-library.git|Contributed|CoAP simple library
-https://github.com/cmmakerclub/CMMCInterval.git|Contributed|
+https://github.com/cmmakerclub/CMMCInterval.git|Contributed|CMMC Interval
 https://github.com/ameltech/sme-cc2541-library.git|Contributed|SmartEverything CC2541
 https://github.com/bluerobotics/BlueRobotics_MS5837_Library.git|Contributed|BlueRobotics MS5837 Library
 https://github.com/bluerobotics/Arduino_I2C_ESC.git|Contributed|BlueRobotics Arduino_I2C_ESC Library
@@ -630,16 +630,16 @@ https://github.com/pvizeli/CmdParser.git|Contributed|CmdParser
 https://github.com/connornishijima/arduino-volume.git|Contributed|Volume
 https://github.com/vonnieda/ScreenUi.git|Contributed|ScreenUi
 https://github.com/FaBoPlatform/FaBoBLE-Nordic-Library.git|Contributed|FaBo 307 BLE Nordic
-https://github.com/Rom3oDelta7/MCP320X.git|Contributed|
-https://github.com/Rom3oDelta7/LED3.git|Contributed|
+https://github.com/Rom3oDelta7/MCP320X.git|Contributed|MCP320x
+https://github.com/Rom3oDelta7/LED3.git|Contributed|LED3
 https://github.com/shaduzlabs/synapse.git|Contributed|Synapse
 https://github.com/ArduinoMax/TLC5615.git|Contributed|TLC5615
 https://github.com/PaulStoffregen/PWMServo.git|Contributed|PWMServo
-https://github.com/Martinsos/arduino-lib-hc-sr04.git|Contributed|
+https://github.com/Martinsos/arduino-lib-hc-sr04.git|Contributed|HCSR04
 https://github.com/boseji/xxtea-iot-crypt.git|Contributed|xxtea-iot-crypt
 https://github.com/boseji/rBASE64.git|Contributed|rBase64
 https://github.com/cujomalainey/ant-arduino.git|Contributed|ANT-Arduino library
-https://github.com/sabas1080/FXAS21002C_Arduino_Library.git|Contributed|
+https://github.com/sabas1080/FXAS21002C_Arduino_Library.git|Contributed|FXAS21002C Gyroscope 3-Axis Sensor
 https://github.com/finson-release/Luni.git|Contributed|Luni
 https://github.com/DefProc/somo-ii-lib.git|Contributed|somo-ii-lib
 
