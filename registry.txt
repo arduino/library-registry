@@ -1171,3 +1171,4 @@ https://github.com/stm32duino/STM32Ethernet.git|Contributed|STM32Ethernet
 https://github.com/stm32duino/LwIP.git|Contributed|LwIP
 https://github.com/SofaPirate/AsciiMassage.git|Contributed|AsciiMassage
 https://github.com/paulo-raca/ArduinoLedDithering.git|Contributed|LED Dithering
+https://github.com/TriadSemi/TS4231.git|Contributed|TS4231 Library
