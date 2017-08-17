@@ -1168,3 +1168,4 @@ https://github.com/forkineye/E131.git|Contributed|E131
 https://github.com/KuangLei/4Digit7Seg12Pin.git|Contributed|4Digit7Seg12Pin
 https://github.com/SMFSW/cQueue.git|Contributed|cQueue
 https://github.com/stm32duino/STM32Ethernet.git|Contributed|STM32Ethernet
+https://github.com/stm32duino/LwIP.git|Contributed|LwIP
