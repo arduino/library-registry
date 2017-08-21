@@ -1175,3 +1175,4 @@ https://github.com/adafruit/Adafruit_CCS811.git|Contributed|Adafruit CCS811 Libr
 https://github.com/erdnaxe/Arduino_BrushlessServo.git|Contributed|Brushless Servo
 
 https://github.com/KuangLei/fDigitsSegtPin.git|Contributed|fDigitsSegtPin
+https://github.com/rlogiacco/CircularBuffer.git|Contributed|CircularBuffer
