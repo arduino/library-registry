@@ -1176,3 +1176,4 @@ https://github.com/erdnaxe/Arduino_BrushlessServo.git|Contributed|Brushless Serv
 
 https://github.com/KuangLei/fDigitsSegtPin.git|Contributed|fDigitsSegtPin
 https://github.com/rlogiacco/CircularBuffer.git|Contributed|CircularBuffer
+https://github.com/jandelgado/jled.git|Contributed|JLed
