@@ -1179,3 +1179,4 @@ https://github.com/rlogiacco/CircularBuffer.git|Contributed|CircularBuffer
 https://github.com/jandelgado/jled.git|Contributed|JLed
 https://github.com/lathoub/Arduino-AppleMidi-Library.git|Contributed|AppleMIDI
 https://github.com/PulseRain/M10DTMF.git|Contributed|M10DTMF
+https://github.com/TridentTD/TridentTD_SimplePair.git|Contributed|TridentTD_SimplePair
