@@ -1184,3 +1184,4 @@ https://github.com/biagiom/AccessoryShield.git|Contributed|Accessory Shield
 https://github.com/stm32duino/FatFs.git|Contributed|FatFs
 https://github.com/stm32duino/STM32SD.git|Contributed|STM32SD
 https://github.com/SloCompTech/ByteConvert_arduino.git|Contributed|ByteConvert
+https://github.com/adafruit/Adafruit_VL6180X.git|Contributed|Adafruit_VL6180X
