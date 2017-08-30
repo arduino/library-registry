@@ -1186,3 +1186,4 @@ https://github.com/stm32duino/STM32SD.git|Contributed|STM32SD
 https://github.com/SloCompTech/ByteConvert_arduino.git|Contributed|ByteConvert
 https://github.com/adafruit/Adafruit_VL6180X.git|Contributed|Adafruit_VL6180X
 https://github.com/DjamesSuhanko/bbPrinter.git|Contributed|bbPrinter
+https://github.com/tkem/CarreraDigitalControlUnit.git|Contributed|CarreraDigitalControlUnit
