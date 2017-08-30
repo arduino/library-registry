@@ -1182,3 +1182,4 @@ https://github.com/PulseRain/M10DTMF.git|Contributed|M10DTMF
 https://github.com/TridentTD/TridentTD_SimplePair.git|Contributed|TridentTD_SimplePair
 https://github.com/biagiom/AccessoryShield.git|Contributed|Accessory Shield
 https://github.com/stm32duino/FatFs.git|Contributed|FatFs
+https://github.com/stm32duino/STM32SD.git|Contributed|STM32SD
