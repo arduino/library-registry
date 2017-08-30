@@ -1189,3 +1189,4 @@ https://github.com/DjamesSuhanko/bbPrinter.git|Contributed|bbPrinter
 https://github.com/tkem/CarreraDigitalControlUnit.git|Contributed|CarreraDigitalControlUnit
 https://github.com/ESTBLC/GSL1680.git|Contributed|GSL1680
 https://github.com/Velleman/VMA11.git|Contributed|VMA11
+https://github.com/h-c-c/Seven_Segment_Pixel.git|Contributed|Seven Segment Pixel
