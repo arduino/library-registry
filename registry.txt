@@ -1181,3 +1181,4 @@ https://github.com/lathoub/Arduino-AppleMidi-Library.git|Contributed|AppleMIDI
 https://github.com/PulseRain/M10DTMF.git|Contributed|M10DTMF
 https://github.com/TridentTD/TridentTD_SimplePair.git|Contributed|TridentTD_SimplePair
 https://github.com/biagiom/AccessoryShield.git|Contributed|Accessory Shield
+https://github.com/stm32duino/FatFs.git|Contributed|FatFs
