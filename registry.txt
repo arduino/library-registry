@@ -1196,3 +1196,4 @@ https://github.com/FatBeard/vbus-arduino-library.git|Contributed|vbus-arduino
 https://github.com/dingusdk/arduinoihc.git|Contributed|ArduinoIHC
 https://github.com/bluerobotics/BlueRobotics_KellerLD_Library.git|Contributed|BlueRobotics Keller LD Library
 https://github.com/OpenBCI/OpenBCI_32bit_Library.git|Contributed|OpenBCI_32bit_Library
+https://github.com/OpenBCI/OpenBCI_Ganglion_Library.git|Contributed|OpenBCI_Ganglion_Library
