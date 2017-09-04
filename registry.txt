@@ -1198,3 +1198,4 @@ https://github.com/bluerobotics/BlueRobotics_KellerLD_Library.git|Contributed|Bl
 https://github.com/OpenBCI/OpenBCI_32bit_Library.git|Contributed|OpenBCI_32bit_Library
 https://github.com/OpenBCI/OpenBCI_Ganglion_Library.git|Contributed|OpenBCI_Ganglion_Library
 https://github.com/Velleman/ALLBOT-lib.git|Contributed|ALLBOT
+https://github.com/vitcon-iot/VitconMQTT.git|Contributed|VitconMQTT
