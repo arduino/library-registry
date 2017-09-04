@@ -1193,3 +1193,4 @@ https://github.com/h-c-c/Seven_Segment_Pixel.git|Contributed|Seven Segment Pixel
 https://github.com/ChicagoRobotics/CRC_VCNL4200.git|Contributed|CRC VCNL4200 Library
 https://github.com/szotsaki/LIS331.git|Contributed|LIS331
 https://github.com/FatBeard/vbus-arduino-library.git|Contributed|vbus-arduino
+https://github.com/dingusdk/arduinoihc.git|Contributed|ArduinoIHC
