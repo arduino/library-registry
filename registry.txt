@@ -1191,3 +1191,4 @@ https://github.com/ESTBLC/GSL1680.git|Contributed|GSL1680
 https://github.com/Velleman/VMA11.git|Contributed|VMA11
 https://github.com/h-c-c/Seven_Segment_Pixel.git|Contributed|Seven Segment Pixel
 https://github.com/ChicagoRobotics/CRC_VCNL4200.git|Contributed|CRC VCNL4200 Library
+https://github.com/szotsaki/LIS331.git|Contributed|LIS331
