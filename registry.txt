@@ -1201,3 +1201,4 @@ https://github.com/Velleman/ALLBOT-lib.git|Contributed|ALLBOT
 https://github.com/vitcon-iot/VitconMQTT.git|Contributed|VitconMQTT
 https://github.com/nkolban/ESP32_BLE_Arduino.git|Contributed|ESP32 BLE Arduino
 https://github.com/uStepper/egoShield.git|Contributed|egoShield
+https://github.com/FuzzyStudio/Fuzzy-Tank.git|Contributed|Fuzzy Tank
