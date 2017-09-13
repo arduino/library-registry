@@ -1199,3 +1199,4 @@ https://github.com/OpenBCI/OpenBCI_32bit_Library.git|Contributed|OpenBCI_32bit_L
 https://github.com/OpenBCI/OpenBCI_Ganglion_Library.git|Contributed|OpenBCI_Ganglion_Library
 https://github.com/Velleman/ALLBOT-lib.git|Contributed|ALLBOT
 https://github.com/vitcon-iot/VitconMQTT.git|Contributed|VitconMQTT
+https://github.com/nkolban/ESP32_BLE_Arduino.git|Contributed|ESP32 BLE Arduino
