@@ -1206,3 +1206,4 @@ https://github.com/philippG777/HP03S.git|Contributed|HP03S
 https://github.com/adafruit/Adafruit_APDS9960.git|Contributed|Adafruit APDS9960 Library
 https://github.com/siteswapjuggler/RAMP.git|Contributed|Ramp
 https://github.com/OpenBCI/OpenBCI_32bit_SD.git|Contributed|OpenBCI_32bit_SD
+https://github.com/erdemarslan/GSMSim.git|Contributed|GSMSim
