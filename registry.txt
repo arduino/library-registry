@@ -1208,3 +1208,4 @@ https://github.com/siteswapjuggler/RAMP.git|Contributed|Ramp
 https://github.com/OpenBCI/OpenBCI_32bit_SD.git|Contributed|OpenBCI_32bit_SD
 https://github.com/erdemarslan/GSMSim.git|Contributed|GSMSim
 https://github.com/dersimn/ArduinoUnifiedLog.git|Contributed|Unified Log
+https://github.com/NorthernWidget/Logger.git|Contributed|ALog
