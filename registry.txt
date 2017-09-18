@@ -1211,3 +1211,4 @@ https://github.com/dersimn/ArduinoUnifiedLog.git|Contributed|Unified Log
 https://github.com/NorthernWidget/Logger.git|Contributed|ALog
 https://github.com/coogle/CoogleIOT.git|Contributed|CoogleIOT
 https://github.com/olkal/LCD_ST7032.git|Contributed|LCD_ST7032
+https://github.com/keyro90/AFArray.git|Contributed|AFArray
