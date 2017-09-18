@@ -1210,3 +1210,4 @@ https://github.com/erdemarslan/GSMSim.git|Contributed|GSMSim
 https://github.com/dersimn/ArduinoUnifiedLog.git|Contributed|Unified Log
 https://github.com/NorthernWidget/Logger.git|Contributed|ALog
 https://github.com/coogle/CoogleIOT.git|Contributed|CoogleIOT
+https://github.com/olkal/LCD_ST7032.git|Contributed|LCD_ST7032
