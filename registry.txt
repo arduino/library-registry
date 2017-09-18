@@ -1146,7 +1146,6 @@ https://github.com/Infineon/DC-Motor-Control-TLE94112EL.git|Contributed|TLE94112
 https://github.com/sabas1080/CayenneLPP.git|Contributed|CayenneLPP
 https://github.com/PulseRain/M10ESP8266.git|Contributed|M10ESP8266
 https://github.com/pololu/tic-arduino.git|Contributed|Tic
-https://github.com/coogle/CoogleIOT.git|Contributed|CoogleIOT
 https://github.com/XasWorks/Circios-Library.git|Contributed|Circios Roboter-Steuerung
 https://github.com/RobPo/Paperino.git|Contributed|PL_microEPD
 https://github.com/OpenBCI/OpenBCI_Radios.git|Contributed|OpenBCI_Radios
@@ -1209,7 +1208,7 @@ https://github.com/OpenBCI/OpenBCI_32bit_SD.git|Contributed|OpenBCI_32bit_SD
 https://github.com/erdemarslan/GSMSim.git|Contributed|GSMSim
 https://github.com/dersimn/ArduinoUnifiedLog.git|Contributed|Unified Log
 https://github.com/NorthernWidget/Logger.git|Contributed|ALog
-https://github.com/coogle/CoogleIOT.git|Contributed|CoogleIOT
+https://github.com/ThisSmartHouse/CoogleIOT.git|Contributed|CoogleIOT
 https://github.com/olkal/LCD_ST7032.git|Contributed|LCD_ST7032
 https://github.com/keyro90/AFArray.git|Contributed|AFArray
 https://github.com/WPIRoboticsEngineering/ReactorProtocol.git|Contributed|ReactorProtocol
