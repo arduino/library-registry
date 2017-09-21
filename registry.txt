@@ -1213,3 +1213,4 @@ https://github.com/olkal/LCD_ST7032.git|Contributed|LCD_ST7032
 https://github.com/keyro90/AFArray.git|Contributed|AFArray
 https://github.com/WPIRoboticsEngineering/ReactorProtocol.git|Contributed|ReactorProtocol
 https://github.com/libEmGUI/emGUI-arduino.git|Contributed|emGUI
+https://github.com/Annikken/Andee.git|Contributed|Andee
