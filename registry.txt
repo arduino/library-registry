@@ -1216,3 +1216,4 @@ https://github.com/libEmGUI/emGUI-arduino.git|Contributed|emGUI
 https://github.com/Annikken/Andee.git|Contributed|Andee
 https://github.com/AloriumTechnology/XLR8Quadrature.git|Contributed|XLR8Quadrature
 https://github.com/FirstBuild/Relay.git|Contributed|FirstBuild - Relay
+https://github.com/vdeconinck/QC3Control.git|Contributed|QC3Control
