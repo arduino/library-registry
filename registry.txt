@@ -1221,3 +1221,4 @@ https://github.com/erow/Task.git|Contributed|EasyTask
 https://github.com/blanu/codec2-arduino.git|Contributed|Codec2
 https://github.com/charlesbaynham/OSFS.git|Contributed|OSFS
 https://github.com/Erhan-MADE/StepperControl.git|Contributed|StepperControl
+https://github.com/m5stack/M5Stack.git|Contributed|M5Stack
