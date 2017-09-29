@@ -1231,3 +1231,4 @@ https://github.com/stm32duino/LSM6DS0.git|Contributed|LSM6DS0
 https://github.com/stm32duino/LSM303AGR.git|Contributed|LSM303AGR
 https://github.com/stm32duino/LPS25HB.git|Contributed|LPS25HB
 https://github.com/stm32duino/HTS221.git|Contributed|HTS221
+https://github.com/stm32duino/LSM6DSL.git|Contributed|LSM6DSL
