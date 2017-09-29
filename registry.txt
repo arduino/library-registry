@@ -1218,3 +1218,4 @@ https://github.com/AloriumTechnology/XLR8Quadrature.git|Contributed|XLR8Quadratu
 https://github.com/FirstBuild/Relay.git|Contributed|FirstBuild - Relay
 https://github.com/vdeconinck/QC3Control.git|Contributed|QC3Control
 https://github.com/erow/Task.git|Contributed|EasyTask
+https://github.com/blanu/codec2-arduino.git|Contributed|Codec2
