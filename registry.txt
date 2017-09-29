@@ -1225,3 +1225,4 @@ https://github.com/m5stack/M5Stack.git|Contributed|M5Stack
 https://github.com/pseudoVella/shift7seg.git|Contributed|shift7seg
 https://github.com/dingusdk/esp8266IHCSoapClient.git|Contributed|IHCSoapClient
 https://github.com/stm32duino/SPBTLE-RF.git|Contributed|SPBTLE-RF
+https://github.com/stm32duino/MX25R6435F.git|Contributed|MX25R6435F
