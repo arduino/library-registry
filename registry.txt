@@ -1227,3 +1227,4 @@ https://github.com/dingusdk/esp8266IHCSoapClient.git|Contributed|IHCSoapClient
 https://github.com/stm32duino/SPBTLE-RF.git|Contributed|SPBTLE-RF
 https://github.com/stm32duino/MX25R6435F.git|Contributed|MX25R6435F
 https://github.com/stm32duino/LSM6DS3.git|Contributed|LSM6DS3
+https://github.com/stm32duino/LSM6DS0.git|Contributed|LSM6DS0
