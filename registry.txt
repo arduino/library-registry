@@ -1223,3 +1223,4 @@ https://github.com/charlesbaynham/OSFS.git|Contributed|OSFS
 https://github.com/Erhan-MADE/StepperControl.git|Contributed|StepperControl
 https://github.com/m5stack/M5Stack.git|Contributed|M5Stack
 https://github.com/pseudoVella/shift7seg.git|Contributed|shift7seg
+https://github.com/dingusdk/esp8266IHCSoapClient.git|Contributed|IHCSoapClient
