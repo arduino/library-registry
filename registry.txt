@@ -1238,3 +1238,4 @@ https://github.com/stm32duino/LIS3MDL.git|Contributed|STM32duino LIS3MDL
 https://github.com/u-fire/pHProbe.git|Contributed|pH Probe Interface
 https://github.com/cujomalainey/antplus-arduino.git|Contributed|ANTPLUS-Arduino
 https://github.com/evert-arias/EasyBuzzer.git|Contributed|EasyBuzzer
+https://github.com/Pharap/FixedPointsArduino.git|Contributed|FixedPoints
