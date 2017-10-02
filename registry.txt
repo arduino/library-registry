@@ -1235,3 +1235,4 @@ https://github.com/stm32duino/LSM6DSL.git|Contributed|LSM6DSL
 https://github.com/stm32duino/LPS22HB.git|Contributed|LPS22HB
 https://github.com/stm32duino/VL53L0X.git|Contributed|STM32duino VL53L0X
 https://github.com/stm32duino/LIS3MDL.git|Contributed|STM32duino LIS3MDL
+https://github.com/u-fire/pHProbe.git|Contributed|pH Probe Interface
