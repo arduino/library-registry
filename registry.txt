@@ -1242,3 +1242,4 @@ https://github.com/Pharap/FixedPointsArduino.git|Contributed|FixedPoints
 https://github.com/audeme/MOVIArduinoAPI.git|Contributed|MOVI Voice Dialog Shield
 https://github.com/closedcube/ClosedCube_TCA9546A_Arduino.git|Contributed|ClosedCube TCA9546A
 https://github.com/adafruit/Adafruit_Seesaw.git|Contributed|Adafruit seesaw Library
+https://github.com/fu-hsi/PMS.git|Contributed|PMS Library
