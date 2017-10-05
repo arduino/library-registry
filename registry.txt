@@ -1244,3 +1244,4 @@ https://github.com/closedcube/ClosedCube_TCA9546A_Arduino.git|Contributed|Closed
 https://github.com/adafruit/Adafruit_Seesaw.git|Contributed|Adafruit seesaw Library
 https://github.com/fu-hsi/PMS.git|Contributed|PMS Library
 https://github.com/AloriumTechnology/XLR8DigitalIO.git|Contributed|XLR8DigitalIO
+https://github.com/maykon/ButtonDebounce.git|Contributed|ButtonDebounce
