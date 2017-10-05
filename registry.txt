@@ -1243,3 +1243,4 @@ https://github.com/audeme/MOVIArduinoAPI.git|Contributed|MOVI Voice Dialog Shiel
 https://github.com/closedcube/ClosedCube_TCA9546A_Arduino.git|Contributed|ClosedCube TCA9546A
 https://github.com/adafruit/Adafruit_Seesaw.git|Contributed|Adafruit seesaw Library
 https://github.com/fu-hsi/PMS.git|Contributed|PMS Library
+https://github.com/AloriumTechnology/XLR8DigitalIO.git|Contributed|XLR8DigitalIO
