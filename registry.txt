@@ -1245,3 +1245,4 @@ https://github.com/adafruit/Adafruit_Seesaw.git|Contributed|Adafruit seesaw Libr
 https://github.com/fu-hsi/PMS.git|Contributed|PMS Library
 https://github.com/AloriumTechnology/XLR8DigitalIO.git|Contributed|XLR8DigitalIO
 https://github.com/maykon/ButtonDebounce.git|Contributed|ButtonDebounce
+https://github.com/AIO-Javeriana/AIO-module-nodemcu-arduino.git|Contributed|AIOModule
