@@ -1251,3 +1251,4 @@ https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library.git|Contributed|Spar
 https://github.com/shubhamtivedi95/UltraDistSensor.git|Contributed|UltraDistSensor
 https://github.com/dparson55/NRFLite.git|Contributed|NRFLite
 https://github.com/olkal/HX711_ADC.git|Contributed|HX711_ADC
+https://github.com/lexus2k/ssd1306.git|Contributed|ssd1306
