@@ -1247,3 +1247,4 @@ https://github.com/AloriumTechnology/XLR8DigitalIO.git|Contributed|XLR8DigitalIO
 https://github.com/maykon/ButtonDebounce.git|Contributed|ButtonDebounce
 https://github.com/AIO-Javeriana/AIO-module-nodemcu-arduino.git|Contributed|AIOModule
 https://github.com/JCWentzel/PolymorphicButtons.git|Contributed|Polymorphic Buttons
+https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library.git|Contributed|SparkFun AS726X
