@@ -1250,3 +1250,4 @@ https://github.com/JCWentzel/PolymorphicButtons.git|Contributed|Polymorphic Butt
 https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library.git|Contributed|SparkFun AS726X
 https://github.com/shubhamtivedi95/UltraDistSensor.git|Contributed|UltraDistSensor
 https://github.com/dparson55/NRFLite.git|Contributed|NRFLite
+https://github.com/olkal/HX711_ADC.git|Contributed|HX711_ADC
