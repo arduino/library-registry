@@ -1253,3 +1253,4 @@ https://github.com/dparson55/NRFLite.git|Contributed|NRFLite
 https://github.com/olkal/HX711_ADC.git|Contributed|HX711_ADC
 https://github.com/lexus2k/ssd1306.git|Contributed|ssd1306
 https://github.com/ploys/arduino-logger.git|Contributed|Log
+https://github.com/neu-rah/Dump.git|Contributed|Dump
