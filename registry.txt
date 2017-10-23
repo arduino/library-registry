@@ -1256,3 +1256,4 @@ https://github.com/ploys/arduino-logger.git|Contributed|Log
 https://github.com/neu-rah/Dump.git|Contributed|Dump
 https://github.com/s00500/ESPUI.git|Contributed|ESPUI
 https://github.com/jmparatte/jm_Pin.git|Contributed|jm_Pin
+https://github.com/cmmakerclub/CMMC_LED.git|Contributed|CMMC_LED
