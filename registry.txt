@@ -1259,3 +1259,4 @@ https://github.com/jmparatte/jm_Pin.git|Contributed|jm_Pin
 https://github.com/cmmakerclub/CMMC_LED.git|Contributed|CMMC_LED
 https://github.com/arpruss/ADCTouchSensor.git|Contributed|ADCTouchSensor
 https://github.com/foxel/arduino-noolite-tx.git|Contributed|noolite_tx
+https://github.com/connornishijima/AlertMe.git|Contributed|AlertMe
