@@ -1267,3 +1267,4 @@ https://github.com/adafruit/Adafruit_BME680.git|Contributed|Adafruit BME680 Libr
 https://github.com/krpc/krpc-arduino.git|Contributed|kRPC
 https://github.com/Jomelo/LCDMenuLib2.git|Contributed|LCDMenuLib2
 https://github.com/Nkawu/TFT_22_ILI9225.git|Contributed|TFT_22_ILI9225
+https://github.com/r-downing/AutoPID.git|Contributed|AutoPID
