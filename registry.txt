@@ -1262,3 +1262,4 @@ https://github.com/foxel/arduino-noolite-tx.git|Contributed|noolite_tx
 https://github.com/connornishijima/AlertMe.git|Contributed|AlertMe
 https://github.com/pololu/xyzrobot-servo-arduino.git|Contributed|XYZrobotServo
 https://github.com/adafruit/Adafruit_Microbit.git|Contributed|Adafruit microbit Library
+https://github.com/adafruit/Adafruit_AMG88xx.git|Contributed|Adafruit AMG88xx Library
