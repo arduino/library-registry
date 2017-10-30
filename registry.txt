@@ -1263,3 +1263,4 @@ https://github.com/connornishijima/AlertMe.git|Contributed|AlertMe
 https://github.com/pololu/xyzrobot-servo-arduino.git|Contributed|XYZrobotServo
 https://github.com/adafruit/Adafruit_Microbit.git|Contributed|Adafruit microbit Library
 https://github.com/adafruit/Adafruit_AMG88xx.git|Contributed|Adafruit AMG88xx Library
+https://github.com/adafruit/Adafruit_BME680.git|Contributed|Adafruit BME680 Library
