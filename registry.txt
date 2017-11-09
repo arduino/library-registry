@@ -1272,3 +1272,4 @@ https://github.com/witnessmenow/BPLib.git|Contributed|BPLib
 https://github.com/r-downing/SPIFFSReadServer.git|Contributed|SPIFFSReadServer
 https://github.com/bluemurder/DS1624.git|Contributed|DS1624
 https://github.com/martin-leo/KeyboardAzertyFr.git|Contributed|KeyboardAzertyFr
+https://bitbucket.org/geekfactory/shell.git|Contributed|GeekFactory Shell Library
