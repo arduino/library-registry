@@ -1274,3 +1274,4 @@ https://github.com/bluemurder/DS1624.git|Contributed|DS1624
 https://github.com/martin-leo/KeyboardAzertyFr.git|Contributed|KeyboardAzertyFr
 https://bitbucket.org/geekfactory/shell.git|Contributed|GeekFactory Shell Library
 https://github.com/beetlikeyg087/MFUthings.git|Contributed|MFUthings
+https://github.com/PulseRain/M10Examples.git|Contributed|M10Examples
