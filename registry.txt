@@ -1276,3 +1276,4 @@ https://bitbucket.org/geekfactory/shell.git|Contributed|GeekFactory Shell Librar
 https://github.com/beetlikeyg087/MFUthings.git|Contributed|MFUthings
 https://github.com/PulseRain/M10Examples.git|Contributed|M10Examples
 https://bitbucket.org/geekfactory/gfbutton.git|Contributed|GFButton
+https://github.com/closedcube/ClosedCube_SHT31D_Arduino.git|Contributed|ClosedCube SHT31D
