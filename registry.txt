@@ -1273,3 +1273,4 @@ https://github.com/r-downing/SPIFFSReadServer.git|Contributed|SPIFFSReadServer
 https://github.com/bluemurder/DS1624.git|Contributed|DS1624
 https://github.com/martin-leo/KeyboardAzertyFr.git|Contributed|KeyboardAzertyFr
 https://bitbucket.org/geekfactory/shell.git|Contributed|GeekFactory Shell Library
+https://github.com/beetlikeyg087/MFUthings.git|Contributed|MFUthings
