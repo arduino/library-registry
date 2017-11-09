@@ -1270,3 +1270,4 @@ https://github.com/r-downing/AutoPID.git|Contributed|AutoPID
 https://github.com/Geabong/ModbusRTUSlaveArduino.git|Contributed|ModbusRTU_Slave
 https://github.com/witnessmenow/BPLib.git|Contributed|BPLib
 https://github.com/r-downing/SPIFFSReadServer.git|Contributed|SPIFFSReadServer
+https://github.com/bluemurder/DS1624.git|Contributed|DS1624
