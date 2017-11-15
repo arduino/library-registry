@@ -1281,3 +1281,4 @@ https://github.com/r-downing/PersWiFiManager.git|Contributed|PersWiFiManager
 https://github.com/adafruit/Adafruit_MP3.git|Contributed|Adafruit_mp3
 https://gitlab.com/arduino-libraries/stens-timer.git|Contributed|StensTimer
 https://github.com/thomasfredericks/wemos_matrix_gfx.git|Contributed|WEMOS Matrix Compatible With Adafruit GFX Library
+https://github.com/adafruit/Adafruit_SGP30.git|Contributed|Adafruit SGP30 Sensor
