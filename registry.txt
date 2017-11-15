@@ -1279,3 +1279,4 @@ https://bitbucket.org/geekfactory/gfbutton.git|Contributed|GFButton
 https://github.com/closedcube/ClosedCube_SHT31D_Arduino.git|Contributed|ClosedCube SHT31D
 https://github.com/r-downing/PersWiFiManager.git|Contributed|PersWiFiManager
 https://github.com/adafruit/Adafruit_MP3.git|Contributed|Adafruit_mp3
+https://gitlab.com/arduino-libraries/stens-timer.git|Contributed|StensTimer
