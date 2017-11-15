@@ -1285,3 +1285,4 @@ https://github.com/adafruit/Adafruit_SGP30.git|Contributed|Adafruit SGP30 Sensor
 https://github.com/The-STEAM-Train/STEAMbot.git|Contributed|STEAMbot
 https://github.com/ayushsharma82/ESP-DASH.git|Contributed|ESP-DASH
 https://github.com/r-downing/EasySSDP.git|Contributed|EasySSDP
+https://github.com/MajicDesigns/MD_UISwitch.git|Contributed|MD_UISwitch
