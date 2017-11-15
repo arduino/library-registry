@@ -1287,3 +1287,4 @@ https://github.com/ayushsharma82/ESP-DASH.git|Contributed|ESP-DASH
 https://github.com/r-downing/EasySSDP.git|Contributed|EasySSDP
 https://github.com/MajicDesigns/MD_UISwitch.git|Contributed|MD_UISwitch
 https://github.com/closedcube/ClosedCube_BME680_Arduino.git|Contributed|ClosedCube BME680
+https://github.com/andatche/arduino-lcd03.git|Contributed|LCD03
