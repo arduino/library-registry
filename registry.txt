@@ -1290,3 +1290,4 @@ https://github.com/closedcube/ClosedCube_BME680_Arduino.git|Contributed|ClosedCu
 https://github.com/andatche/arduino-lcd03.git|Contributed|LCD03
 https://github.com/Strabox/Easyuino.git|Contributed|Easyuino
 https://github.com/SofaPirate/SlipMassage.git|Contributed|SlipMassage
+https://github.com/ppedro74/Arduino-SerialCommands.git|Contributed|SerialCommands
