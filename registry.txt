@@ -1292,3 +1292,4 @@ https://github.com/Strabox/Easyuino.git|Contributed|Easyuino
 https://github.com/SofaPirate/SlipMassage.git|Contributed|SlipMassage
 https://github.com/ppedro74/Arduino-SerialCommands.git|Contributed|SerialCommands
 https://github.com/michaelkamprath/ShiftRegisterLEDMatrixLib.git|Contributed|Shift Register LED Matrix Lib
+https://github.com/neman-io/Bleeper.git|Contributed|Bleeper
