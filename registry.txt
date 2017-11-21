@@ -1295,3 +1295,4 @@ https://github.com/michaelkamprath/ShiftRegisterLEDMatrixLib.git|Contributed|Shi
 https://github.com/neman-io/Bleeper.git|Contributed|Bleeper
 https://github.com/jeroenvermeulen/JeVe_EasyOTA.git|Contributed|JeVe_EasyOTA
 https://github.com/jrullan/StateMachine.git|Contributed|StateMachine
+https://github.com/fatpat/arduino-dra818.git|Contributed|DRA818
