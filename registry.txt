@@ -1310,3 +1310,4 @@ https://github.com/stm32duino/X-NUCLEO-6180XA1.git|Contributed|STM32duino X-NUCL
 https://github.com/stm32duino/X-NUCLEO-53L0A1.git|Contributed|STM32duino X-NUCLEO-53L0A1
 https://github.com/stm32duino/X-NUCLEO-NFC01A1.git|Contributed|STM32duino X-NUCLEO-NFC01A1
 https://github.com/stm32duino/X-NUCLEO-NFC04A1.git|Contributed|STM32duino X-NUCLEO-NFC04A1
+https://github.com/stm32duino/X-NUCLEO-IDB05A1.git|Contributed|STM32duino X-NUCLEO-IDB05A1
