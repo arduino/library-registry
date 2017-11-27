@@ -1306,3 +1306,4 @@ https://github.com/stm32duino/VL6180X.git|Contributed|STM32duino VL6180X
 https://github.com/stm32duino/M24SR64-Y.git|Contributed|STM32duino M24SR64-Y
 https://github.com/stm32duino/X-NUCLEO-IKS01A1.git|Contributed|STM32duino X-NUCLEO-IKS01A1
 https://github.com/stm32duino/X-NUCLEO-IKS01A2.git|Contributed|STM32duino X-NUCLEO-IKS01A2
+https://github.com/stm32duino/X-NUCLEO-6180XA1.git|Contributed|STM32duino X-NUCLEO-6180XA1
