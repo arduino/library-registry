@@ -1300,3 +1300,4 @@ https://github.com/pololu/dual-g2-high-power-motor-shield.git|Contributed|DualG2
 https://github.com/jandrassy/UnoWiFiDevEdSerial1.git|Contributed|Uno WiFi Developer Edition Serial1
 https://github.com/SethSenpai/singleLEDLibrary.git|Contributed|Single LED Library
 https://github.com/DaAwesomeP/dmxusb.git|Contributed|DMXUSB
+https://github.com/jonathanedgecombe/absmouse.git|Contributed|absmouse
