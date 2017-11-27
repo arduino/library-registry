@@ -1298,3 +1298,4 @@ https://github.com/jrullan/StateMachine.git|Contributed|StateMachine
 https://github.com/fatpat/arduino-dra818.git|Contributed|DRA818
 https://github.com/pololu/dual-g2-high-power-motor-shield.git|Contributed|DualG2HighPowerMotorShield
 https://github.com/jandrassy/UnoWiFiDevEdSerial1.git|Contributed|Uno WiFi Developer Edition Serial1
+https://github.com/SethSenpai/singleLEDLibrary.git|Contributed|Single LED Library
