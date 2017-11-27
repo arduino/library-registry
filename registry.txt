@@ -1303,3 +1303,4 @@ https://github.com/DaAwesomeP/dmxusb.git|Contributed|DMXUSB
 https://github.com/jonathanedgecombe/absmouse.git|Contributed|absmouse
 https://github.com/stm32duino/Proximity_Gesture.git|Contributed|STM32duino Proximity Gesture
 https://github.com/stm32duino/VL6180X.git|Contributed|STM32duino VL6180X
+https://github.com/stm32duino/M24SR64-Y.git|Contributed|STM32duino M24SR64-Y
