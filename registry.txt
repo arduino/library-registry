@@ -1312,3 +1312,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC01A1.git|Contributed|STM32duino X-NUCL
 https://github.com/stm32duino/X-NUCLEO-NFC04A1.git|Contributed|STM32duino X-NUCLEO-NFC04A1
 https://github.com/stm32duino/X-NUCLEO-IDB05A1.git|Contributed|STM32duino X-NUCLEO-IDB05A1
 https://github.com/stm32duino/X-NUCLEO-LED61A1.git|Contributed|STM32duino X-NUCLEO-LED61A1
+https://github.com/stm32duino/X-NUCLEO-IKA01A1.git|Contributed|STM32duino X-NUCLEO-IKA01A1
