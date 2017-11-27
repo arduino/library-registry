@@ -1301,3 +1301,4 @@ https://github.com/jandrassy/UnoWiFiDevEdSerial1.git|Contributed|Uno WiFi Develo
 https://github.com/SethSenpai/singleLEDLibrary.git|Contributed|Single LED Library
 https://github.com/DaAwesomeP/dmxusb.git|Contributed|DMXUSB
 https://github.com/jonathanedgecombe/absmouse.git|Contributed|absmouse
+https://github.com/stm32duino/Proximity_Gesture.git|Contributed|STM32duino Proximity Gesture
