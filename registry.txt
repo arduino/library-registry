@@ -1317,3 +1317,4 @@ https://github.com/stm32duino/X-NUCLEO-IHM02A1.git|Contributed|STM32duino X-NUCL
 https://github.com/stm32duino/WiFi-ISM43362-M3G-L44.git|Contributed|STM32duino ISM43362-M3G-L44
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library.git|Contributed|SparkFun Flexible Grayscale OLED Breakout
 https://github.com/arpruss/GameControllersSTM32.git|Contributed|NintendoControllersSTM32
+https://github.com/SeeedJP/WioLTEforArduino.git|Contributed|Wio LTE for Arduino
