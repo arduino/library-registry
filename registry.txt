@@ -1330,3 +1330,11 @@ https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04.git|Contribute
 https://github.com/suculent/thinx-firmware-esp32.git|Contributed|THiNX32
 https://github.com/suculent/esp32-http-update.git|Contributed|ESP32httpUpdate
 https://github.com/thehapyone/BareBoneSim800.git|Contributed|BareBoneSim800
+https://github.com/Locoduino/Accessories.git|Contributed|Accessories
+https://github.com/Locoduino/Commanders.git|Contributed|Commanders
+https://github.com/Locoduino/DIO2.git|Contributed|DIO2
+https://github.com/Locoduino/LcdUi.git|Contributed|LcdUi
+https://github.com/Locoduino/EEPROMExtent.git|Contributed|EEPROMextent
+https://github.com/Locoduino/MemoryUsage.git|Contributed|MemoryUsage
+https://github.com/Locoduino/DCCpp.git|Contributed|DCCpp
+https://github.com/Locoduino/DcDccNanoController.git|Contributed|DcDccNanoController
