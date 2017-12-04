@@ -1329,3 +1329,4 @@ https://github.com/DimitriGilbert/RGBProgress.git|Contributed|RGBProgress
 https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04.git|Contributed|Bifrost library for HC-SR04
 https://github.com/suculent/thinx-firmware-esp32.git|Contributed|THiNX32
 https://github.com/suculent/esp32-http-update.git|Contributed|ESP32httpUpdate
+https://github.com/thehapyone/BareBoneSim800.git|Contributed|BareBoneSim800
