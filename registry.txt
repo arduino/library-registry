@@ -1322,3 +1322,4 @@ https://github.com/arpruss/GameControllersSTM32.git|Contributed|NintendoControll
 https://github.com/SeeedJP/WioLTEforArduino.git|Contributed|Wio LTE for Arduino
 https://github.com/SMFSW/sarmfsw.git|Contributed|sarmfsw
 https://github.com/sadika9/TFTLCD-SPFD5408.git|Contributed|SPFD5408 TFT Library
+https://gitlab.com/dariusmihai/Arduino_Lib_MorePins.git|Contributed|MorePins
