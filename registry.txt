@@ -1326,3 +1326,4 @@ https://gitlab.com/dariusmihai/Arduino_Lib_MorePins.git|Contributed|MorePins
 https://github.com/1oginov/UbxGps.git|Contributed|UbxGps
 https://github.com/s00500/SimpleExpressions.git|Contributed|SimpleExpressions
 https://github.com/DimitriGilbert/RGBProgress.git|Contributed|RGBProgress
+https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04.git|Contributed|Bifrost library for HC-SR04
