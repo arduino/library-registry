@@ -1339,3 +1339,4 @@ https://github.com/Locoduino/MemoryUsage.git|Contributed|MemoryUsage
 https://github.com/Locoduino/DCCpp.git|Contributed|DCCpp
 https://github.com/Locoduino/DcDccNanoController.git|Contributed|DcDccNanoController
 https://github.com/Velleman/K1200.git|Contributed|K1200
+https://github.com/beegee-tokyo/DHTesp.git|Contributed|DHT sensor library for ESP32
