@@ -1349,3 +1349,4 @@ https://github.com/matthewg42/Mutila.git|Contributed|Mutila
 https://github.com/Sensirion/arduino-sht.git|Contributed|arduino-sht
 https://github.com/agdl/WireUpdate.git|Contributed|WireUpdate
 https://github.com/LIST-LUXEMBOURG/KniwwelinoLib.git|Contributed|Kniwwelino
+https://github.com/kosme/fix_fft.git|Contributed|fix_fft
