@@ -1338,3 +1338,4 @@ https://github.com/Locoduino/EEPROMExtent.git|Contributed|EEPROMextent
 https://github.com/Locoduino/MemoryUsage.git|Contributed|MemoryUsage
 https://github.com/Locoduino/DCCpp.git|Contributed|DCCpp
 https://github.com/Locoduino/DcDccNanoController.git|Contributed|DcDccNanoController
+https://github.com/Velleman/K1200.git|Contributed|K1200
