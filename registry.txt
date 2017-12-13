@@ -1343,3 +1343,4 @@ https://github.com/beegee-tokyo/DHTesp.git|Contributed|DHT sensor library for ES
 https://github.com/opensensinglab/tfmini.git|Contributed|TFMini
 https://github.com/pholmes2012/Simple_FRAM_FileSystem.git|Contributed|SFFS
 https://github.com/adafruit/Adafruit_Si7021.git|Contributed|Adafruit Si7021 Library
+https://github.com/BlueDot-Arduino/BlueDot_BME680.git|Contributed|BlueDot BME680 Library
