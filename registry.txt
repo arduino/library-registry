@@ -982,7 +982,7 @@ https://github.com/VasilKalchev/ExponentMap.git|Contributed|ExponentMap
 https://github.com/rafaelnsantos/Relay.git|Contributed|Relay
 https://github.com/AJMansfield/LcdEffects.git|Contributed|LcdEffects
 https://github.com/MonsieurV/ArduinoPocketGeiger.git|Contributed|RadiationWatch
-#https://github.com/thinger-io/ClimaStick.git|Contributed|ClimaStick
+https://github.com/thinger-io/ClimaStick.git|Contributed|ClimaStick
 https://github.com/TheThingsNetwork/arduino-node-lib.git|Contributed|TheThingsNode
 https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library.git|Contributed|Serial Controlled Motor Driver
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino.git|Contributed|RFExplorer 3GP IoT
