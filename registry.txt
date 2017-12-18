@@ -1351,3 +1351,4 @@ https://github.com/agdl/WireUpdate.git|Contributed|WireUpdate
 https://github.com/LIST-LUXEMBOURG/KniwwelinoLib.git|Contributed|Kniwwelino
 https://github.com/kosme/fix_fft.git|Contributed|fix_fft
 https://bitbucket.org/teckel12/arduino-new-ping.git|Contributed|NewPing
+https://github.com/sandeepmistry/arduino-CAN.git|Contributed|CAN
