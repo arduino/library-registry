@@ -1354,3 +1354,4 @@ https://bitbucket.org/teckel12/arduino-new-ping.git|Contributed|NewPing
 https://github.com/sandeepmistry/arduino-CAN.git|Contributed|CAN
 https://github.com/arpruss/USBHID_stm32f1.git|Contributed|USBHID
 https://github.com/bengtmartensson/AGirs.git|Contributed|AGirs
+https://github.com/Hieromon/PageBuilder.git|Contributed|PageBuilder
