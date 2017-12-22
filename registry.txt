@@ -1353,3 +1353,4 @@ https://github.com/kosme/fix_fft.git|Contributed|fix_fft
 https://bitbucket.org/teckel12/arduino-new-ping.git|Contributed|NewPing
 https://github.com/sandeepmistry/arduino-CAN.git|Contributed|CAN
 https://github.com/arpruss/USBHID_stm32f1.git|Contributed|USBHID
+https://github.com/bengtmartensson/AGirs.git|Contributed|AGirs
