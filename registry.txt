@@ -1356,3 +1356,4 @@ https://github.com/arpruss/USBHID_stm32f1.git|Contributed|USBHID
 https://github.com/bengtmartensson/AGirs.git|Contributed|AGirs
 https://github.com/Hieromon/PageBuilder.git|Contributed|PageBuilder
 https://github.com/MikeDombo/HV518_Arduino.git|Contributed|HV518
+https://github.com/narinaviation/iBotX.git|Contributed|iBotX
