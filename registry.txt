@@ -1359,3 +1359,4 @@ https://github.com/MikeDombo/HV518_Arduino.git|Contributed|HV518
 https://github.com/narinaviation/iBotX.git|Contributed|iBotX
 https://github.com/athombv/homey-arduino-library.git|Contributed|Homeyduino
 https://github.com/adafruit/Adafruit_VCNL4010.git|Contributed|Adafruit_VCNL4010
+https://github.com/jandelgado/log4arduino.git|Contributed|log4arduino
