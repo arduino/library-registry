@@ -1366,3 +1366,4 @@ https://github.com/Spirik/GEM.git|Contributed|GEM
 https://github.com/merlinschumacher/Basecamp.git|Contributed|Basecamp
 https://github.com/WorldFamousElectronics/PulseSensorPlayground.git|Contributed|PulseSensor Playground
 https://github.com/Neosegment/Arduino.git|Contributed|Neosegment
+https://github.com/chipKIT32-libraries/RN487x.git|Contributed|RN487x
