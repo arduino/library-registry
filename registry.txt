@@ -1364,3 +1364,4 @@ https://github.com/NatanBiesmans/Arduino-POST-HTTP-Parser.git|Contributed|Arduin
 https://github.com/BoodskapPlatform/BoodskapTransceiver.git|Contributed|BoodskapTransceiver
 https://github.com/Spirik/GEM.git|Contributed|GEM
 https://github.com/merlinschumacher/Basecamp.git|Contributed|Basecamp
+https://github.com/WorldFamousElectronics/PulseSensorPlayground.git|Contributed|PulseSensor Playground
