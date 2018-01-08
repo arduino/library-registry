@@ -1368,3 +1368,4 @@ https://github.com/WorldFamousElectronics/PulseSensorPlayground.git|Contributed|
 https://github.com/Neosegment/Arduino.git|Contributed|Neosegment
 https://github.com/chipKIT32-libraries/RN487x.git|Contributed|RN487x
 https://github.com/MajicDesigns/MD_AD9833.git|Contributed|MD_AD9833
+https://github.com/JChristensen/MCP9800.git|Contributed|MCP9800
