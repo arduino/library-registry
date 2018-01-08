@@ -1365,3 +1365,4 @@ https://github.com/BoodskapPlatform/BoodskapTransceiver.git|Contributed|Boodskap
 https://github.com/Spirik/GEM.git|Contributed|GEM
 https://github.com/merlinschumacher/Basecamp.git|Contributed|Basecamp
 https://github.com/WorldFamousElectronics/PulseSensorPlayground.git|Contributed|PulseSensor Playground
+https://github.com/Neosegment/Arduino.git|Contributed|Neosegment
