@@ -1363,3 +1363,4 @@ https://github.com/jandelgado/log4arduino.git|Contributed|log4arduino
 https://github.com/NatanBiesmans/Arduino-POST-HTTP-Parser.git|Contributed|Arduino POST HTTP Parser
 https://github.com/BoodskapPlatform/BoodskapTransceiver.git|Contributed|BoodskapTransceiver
 https://github.com/Spirik/GEM.git|Contributed|GEM
+https://github.com/merlinschumacher/Basecamp.git|Contributed|Basecamp
