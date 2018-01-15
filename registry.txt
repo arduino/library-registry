@@ -1167,7 +1167,7 @@ https://github.com/PushTheWorld/PTW-Arduino-Assert.git|Contributed|PTW-Arduino-A
 https://github.com/bernebeer/Charge-n-Boost.git|Contributed|Charge n Boost
 https://github.com/forkineye/E131.git|Contributed|E131
 https://github.com/SMFSW/cQueue.git|Contributed|cQueue
-https://github.com/stm32duino/STM32Ethernet.git|Contributed|STM32Ethernet
+https://github.com/stm32duino/STM32Ethernet.git|Contributed|STM32duino STM32Ethernet
 https://github.com/stm32duino/LwIP.git|Contributed|LwIP
 https://github.com/SofaPirate/AsciiMassage.git|Contributed|AsciiMassage
 https://github.com/paulo-raca/ArduinoLedDithering.git|Contributed|LED Dithering
@@ -1183,7 +1183,7 @@ https://github.com/PulseRain/M10DTMF.git|Contributed|M10DTMF
 https://github.com/TridentTD/TridentTD_SimplePair.git|Contributed|TridentTD_SimplePair
 https://github.com/biagiom/AccessoryShield.git|Contributed|Accessory Shield
 https://github.com/stm32duino/FatFs.git|Contributed|FatFs
-https://github.com/stm32duino/STM32SD.git|Contributed|STM32SD
+https://github.com/stm32duino/STM32SD.git|Contributed|STM32duino STM32SD
 https://github.com/SloCompTech/ByteConvert_arduino.git|Contributed|ByteConvert
 https://github.com/adafruit/Adafruit_VL6180X.git|Contributed|Adafruit_VL6180X
 https://github.com/DjamesSuhanko/bbPrinter.git|Contributed|bbPrinter
@@ -1225,15 +1225,15 @@ https://github.com/Erhan-MADE/StepperControl.git|Contributed|StepperControl
 https://github.com/m5stack/M5Stack.git|Contributed|M5Stack
 https://github.com/pseudoVella/shift7seg.git|Contributed|shift7seg
 https://github.com/dingusdk/esp8266IHCSoapClient.git|Contributed|IHCSoapClient
-https://github.com/stm32duino/SPBTLE-RF.git|Contributed|SPBTLE-RF
-https://github.com/stm32duino/MX25R6435F.git|Contributed|MX25R6435F
-https://github.com/stm32duino/LSM6DS3.git|Contributed|LSM6DS3
-https://github.com/stm32duino/LSM6DS0.git|Contributed|LSM6DS0
-https://github.com/stm32duino/LSM303AGR.git|Contributed|LSM303AGR
-https://github.com/stm32duino/LPS25HB.git|Contributed|LPS25HB
-https://github.com/stm32duino/HTS221.git|Contributed|HTS221
-https://github.com/stm32duino/LSM6DSL.git|Contributed|LSM6DSL
-https://github.com/stm32duino/LPS22HB.git|Contributed|LPS22HB
+https://github.com/stm32duino/SPBTLE-RF.git|Contributed|STM32duino SPBTLE-RF
+https://github.com/stm32duino/MX25R6435F.git|Contributed|STM32duino MX25R6435F
+https://github.com/stm32duino/LSM6DS3.git|Contributed|STM32duino LSM6DS3
+https://github.com/stm32duino/LSM6DS0.git|Contributed|STM32duino LSM6DS0
+https://github.com/stm32duino/LSM303AGR.git|Contributed|STM32duino LSM303AGR
+https://github.com/stm32duino/LPS25HB.git|Contributed|STM32duino LPS25HB
+https://github.com/stm32duino/HTS221.git|Contributed|STM32duino HTS221
+https://github.com/stm32duino/LSM6DSL.git|Contributed|STM32duino LSM6DSL
+https://github.com/stm32duino/LPS22HB.git|Contributed|STM32duino LPS22HB
 https://github.com/stm32duino/VL53L0X.git|Contributed|STM32duino VL53L0X
 https://github.com/stm32duino/LIS3MDL.git|Contributed|STM32duino LIS3MDL
 https://github.com/u-fire/pHProbe.git|Contributed|pH Probe Interface
