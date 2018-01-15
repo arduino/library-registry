@@ -709,7 +709,7 @@ https://github.com/HackerInside0/L293.git|Contributed|L293
 https://github.com/ArduinoMax/AD5241.git|Contributed|AD5241
 https://github.com/ArduinoMax/MCP41xxx.git|Contributed|MCP41XXX
 
-https://github.com/mrmot021/PLS7shield.git|Contributed|PLS7shield
+https://github.com/mrmot021/PLS7shield.git|Contributed|PLS7 shield
 https://github.com/HackerInside0/Arduino_SoftwareReset.git|Contributed|SoftwareReset
 https://github.com/NeoCat/Arduno-Twitter-library.git|Contributed|Arduno-Twitter-library
 https://github.com/Megunolink/MLP.git|Contributed|MegunoLink
