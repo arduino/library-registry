@@ -1371,3 +1371,4 @@ https://github.com/MajicDesigns/MD_AD9833.git|Contributed|MD_AD9833
 https://github.com/JChristensen/MCP9800.git|Contributed|MCP9800
 https://github.com/SandeepanSengupta/miniDAC-library.git|Contributed|miniDAC
 https://github.com/chunkysteveo/OctoPrintAPI.git|Contributed|OctoPrintAPI
+https://github.com/avandalen/VirtualDelay.git|Contributed|avdweb_VirtualDelay
