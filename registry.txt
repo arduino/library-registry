@@ -1383,3 +1383,4 @@ https://github.com/jeremycole/TI_TCA9548A.git|Contributed|TI TCA9548A
 https://github.com/jeremycole/AllSensors_DLHR.git|Contributed|AllSensors DLHR
 https://github.com/sparkfun/SparkFun_MLX90632_Arduino_Library.git|Contributed|SparkFun MLX90632 Noncontact Infrared Temperature Sensor
 https://github.com/JChristensen/Timezone.git|Contributed|Timezone
+https://github.com/JChristensen/MCP9808.git|Contributed|MCP9808
