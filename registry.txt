@@ -312,7 +312,7 @@ https://github.com/jonblack/arduino-menusystem.git|Contributed|arduino-menusyste
 https://github.com/jonblack/arduino-fsm.git|Contributed|arduino-fsm
 https://github.com/marcoschwartz/aREST.git|Contributed|aREST
 https://github.com/marcoschwartz/aREST_UI.git|Contributed|aREST UI
-https://github.com/marcoschwartz/LiquidCrystal_I2C.git|Contributed|LiquidCrystal_I2C
+https://github.com/marcoschwartz/LiquidCrystal_I2C.git|Contributed|LiquidCrystal I2C
 https://github.com/Marzogh/SPIFlash.git|Contributed|SPIFlash
 https://github.com/mathertel/DMXSerial.git|Contributed|DMXSerial
 https://github.com/mathertel/DMXSerial2.git|Contributed|DMXSerial2
