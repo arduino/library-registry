@@ -1168,7 +1168,7 @@ https://github.com/bernebeer/Charge-n-Boost.git|Contributed|Charge n Boost
 https://github.com/forkineye/E131.git|Contributed|E131
 https://github.com/SMFSW/cQueue.git|Contributed|cQueue
 https://github.com/stm32duino/STM32Ethernet.git|Contributed|STM32duino STM32Ethernet
-https://github.com/stm32duino/LwIP.git|Contributed|LwIP
+https://github.com/stm32duino/LwIP.git|Contributed|STM32duino LwIP
 https://github.com/SofaPirate/AsciiMassage.git|Contributed|AsciiMassage
 https://github.com/paulo-raca/ArduinoLedDithering.git|Contributed|LED Dithering
 https://github.com/TriadSemi/TS4231.git|Contributed|TS4231 Library
