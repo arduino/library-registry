@@ -1380,3 +1380,4 @@ https://github.com/adafruit/Adafruit_ZeroDMA.git|Contributed|Adafruit Zero DMA L
 https://github.com/adafruit/Adafruit_ZeroPDM.git|Contributed|Adafruit Zero PDM Library
 https://github.com/adafruit/Adafruit_ZeroFFT.git|Contributed|Adafruit Zero FFT Library
 https://github.com/jeremycole/TI_TCA9548A.git|Contributed|TI TCA9548A
+https://github.com/jeremycole/AllSensors_DLHR.git|Contributed|AllSensors DLHR
