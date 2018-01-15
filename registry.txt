@@ -1378,3 +1378,4 @@ https://github.com/JChristensen/DS3232RTC.git|Contributed|DS3232RTC
 https://github.com/tofuman0/PCA9505_06.git|Contributed|PCA9505_06 Library
 https://github.com/adafruit/Adafruit_ZeroDMA.git|Contributed|Adafruit Zero DMA Library
 https://github.com/adafruit/Adafruit_ZeroPDM.git|Contributed|Adafruit Zero PDM Library
+https://github.com/adafruit/Adafruit_ZeroFFT.git|Contributed|Adafruit Zero FFT Library
