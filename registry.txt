@@ -660,7 +660,7 @@ https://github.com/FaBoPlatform/FaBoBLE-BLE113-Library.git|Contributed|FaBoBLE-B
 
 https://github.com/baghayi/Nokia_5110.git|Contributed|Nokia 5110 Driver
 https://github.com/wizard97/ArduinoProcessScheduler.git|Contributed|Arduino Process Scheduler
-https://github.com/iondbproject/iondb.git|Contributed|Iondb
+https://github.com/iondbproject/iondb.git|Contributed|IonDB
 https://github.com/AloriumTechnology/XLR8BuildTemplate.git|Contributed|XLR8BuildTemplate
 https://github.com/AloriumTechnology/XLR8Core.git|Contributed|XLR8Core
 https://github.com/AloriumTechnology/XLR8Pong.git|Contributed|XLR8Pong
