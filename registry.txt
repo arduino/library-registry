@@ -1372,3 +1372,4 @@ https://github.com/JChristensen/MCP9800.git|Contributed|MCP9800
 https://github.com/SandeepanSengupta/miniDAC-library.git|Contributed|miniDAC
 https://github.com/chunkysteveo/OctoPrintAPI.git|Contributed|OctoPrintAPI
 https://github.com/avandalen/VirtualDelay.git|Contributed|avdweb_VirtualDelay
+https://github.com/SofaPirate/Plaquette.git|Contributed|Plaquette
