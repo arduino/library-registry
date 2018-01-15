@@ -1375,3 +1375,4 @@ https://github.com/avandalen/VirtualDelay.git|Contributed|avdweb_VirtualDelay
 https://github.com/SofaPirate/Plaquette.git|Contributed|Plaquette
 https://github.com/sparkfun/SparkFun_GridEYE_Arduino_Library.git|Contributed|SparkFun GridEYE AMG88 Library
 https://github.com/JChristensen/DS3232RTC.git|Contributed|DS3232RTC
+https://github.com/tofuman0/PCA9505_06.git|Contributed|PCA9505_06 Library
