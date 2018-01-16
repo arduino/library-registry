@@ -669,7 +669,7 @@ https://github.com/thesolarnomad/lora-serialization.git|Contributed|LoRa Seriali
 https://github.com/johnnyb/Shifty.git|Contributed|Shifty
 https://github.com/johnnyb/Eventually.git|Contributed|Eventually
 https://github.com/acrobotic/Ai_Ardulib_SSD1306.git|Contributed|ACROBOTIC SSD1306
-https://github.com/gmazzamuto/MAX1464-Arduino-library.git|Contributed|MAX1464
+https://github.com/gmazzamuto/MAX1464-Arduino-library.git|Contributed|MAX1464 Arduino library
 https://github.com/leyap/LispMotor.git|Contributed|LispMotor
 https://github.com/MarkusLange/RTCDue.git|Contributed|RTCDue
 
