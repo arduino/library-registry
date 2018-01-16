@@ -665,7 +665,7 @@ https://github.com/AloriumTechnology/XLR8Core.git|Contributed|XLR8Core
 https://github.com/AloriumTechnology/XLR8Pong.git|Contributed|XLR8Pong
 
 https://github.com/Syncano/syncano-arduino.git|Contributed|Syncano
-https://github.com/thesolarnomad/lora-serialization.git|Contributed|Lora Serialization
+https://github.com/thesolarnomad/lora-serialization.git|Contributed|LoRa Serialization
 https://github.com/johnnyb/Shifty.git|Contributed|Shifty
 https://github.com/johnnyb/Eventually.git|Contributed|Eventually
 https://github.com/acrobotic/Ai_Ardulib_SSD1306.git|Contributed|ACROBOTIC SSD1306
