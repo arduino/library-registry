@@ -706,7 +706,7 @@ https://github.com/pololu/vl53l0x-arduino.git|Contributed|VL53L0X
 https://github.com/oxullo/Arduino-TCM2.git|Contributed|TCM2lib
 https://github.com/HackerInside0/L293.git|Contributed|L293
 https://github.com/ArduinoMax/AD5241.git|Contributed|AD5241
-https://github.com/ArduinoMax/MCP41xxx.git|Contributed|MCP41XXX
+https://github.com/ArduinoMax/MCP41xxx.git|Contributed|ArduMax MCP41xxx Driver
 
 https://github.com/mrmot021/PLS7shield.git|Contributed|PLS7 shield
 https://github.com/HackerInside0/Arduino_SoftwareReset.git|Contributed|SoftwareReset
