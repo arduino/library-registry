@@ -639,7 +639,7 @@ https://github.com/PaulStoffregen/PWMServo.git|Contributed|PWMServo
 https://github.com/Martinsos/arduino-lib-hc-sr04.git|Contributed|HCSR04
 https://github.com/boseji/xxtea-iot-crypt.git|Contributed|xxtea-iot-crypt
 https://github.com/boseji/rBASE64.git|Contributed|rBase64
-https://github.com/cujomalainey/ant-arduino.git|Contributed|ANT-Arduino library
+https://github.com/cujomalainey/ant-arduino.git|Contributed|ANT-Arduino
 https://github.com/sabas1080/FXAS21002C_Arduino_Library.git|Contributed|FXAS21002C Gyroscope 3-Axis Sensor
 https://github.com/finson-release/Luni.git|Contributed|Luni
 https://github.com/DefProc/somo-ii-lib.git|Contributed|somo-ii-lib
