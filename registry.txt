@@ -680,7 +680,7 @@ https://github.com/sdumetz/coordinates.git|Contributed|Coordinates
 https://github.com/sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library.git|Contributed|SparkFun MPU-9250 9 DOF IMU Breakout
 https://github.com/arms22/SoftModem.git|Contributed|SoftModem
 https://github.com/njh/EtherSia.git|Contributed|EtherSia
-https://github.com/Jomelo/LCDMenuLib.git|Contributed|LCDMenu
+https://github.com/Jomelo/LCDMenuLib.git|Contributed|LCDMenuLib
 
 https://github.com/kotobuki/SetPoint.git|Contributed|SetPoint
 https://github.com/leyap/LispIO.git|Contributed|LispIO
