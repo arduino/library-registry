@@ -438,7 +438,7 @@ https://github.com/MichaelJonker/HardwareSerialRS485.git|Contributed|HardwareSer
 https://github.com/z3t0/Arduino-IRremote.git|Contributed|IRremote
 https://github.com/etherkit/Si5351Arduino.git|Contributed|Etherkit Si5351
 https://github.com/Apollon77/I2CSoilMoistureSensor.git|Contributed|I2CSoilMoistureSensor
-https://github.com/squix78/esp8266-oled-ssd1306.git|Contributed|ESP8266 Oled Driver for SSD1306 display
+https://github.com/squix78/esp8266-oled-ssd1306.git|Contributed|ESP8266 and ESP32 Oled Driver for SSD1306 display
 https://github.com/CNMAT/OSC.git|Contributed|OSC
 https://github.com/collin80/due_can.git|Contributed|due_can
 https://github.com/alextaujenis/RBD_SerialManager.git|Contributed|RBD_SerialManager
