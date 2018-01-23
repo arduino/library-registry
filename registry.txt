@@ -1390,3 +1390,4 @@ https://github.com/avandalen/avdweb_FreqPeriodCounter.git|Contributed|FreqPeriod
 https://github.com/fterrier/dwarf433.git|Contributed|dwarf433
 https://github.com/DhrBaksteen/ArduinoOPL2.git|Contributed|Arduino OPL2
 https://github.com/adafruit/Adafruit_VEML6070.git|Contributed|Adafruit VEML6070 Library
+https://github.com/adafruit/Adafruit_CompositeVideo.git|Contributed|Adafruit composite video Library
