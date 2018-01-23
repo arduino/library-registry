@@ -171,7 +171,6 @@ https://github.com/adafruit/SPI_VFD.git|Recommended|SPI VFD
 https://github.com/adafruit/TinyLiquidCrystal.git|Recommended|TinyLiquidCrystal
 https://github.com/adafruit/TinyRTCLib.git|Recommended|TinyRTCLib
 https://github.com/adafruit/TinyWireM.git|Recommended|TinyWireM
-https://github.com/adafruit/TSL2561-Arduino-Library.git|Recommended|TSL2561 Arduino Library
 https://github.com/adafruit/Adafruit-GFX-Library.git|Recommended|Adafruit GFX Library
 https://github.com/adafruit/Adafruit_Sensor.git|Recommended|Adafruit Unified Sensor
 https://github.com/adafruit/Adafruit_BNO055.git|Recommended|Adafruit BNO055
