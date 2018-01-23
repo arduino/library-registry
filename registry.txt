@@ -655,7 +655,7 @@ https://github.com/olikraus/U8g2_Arduino.git|Contributed|U8g2
 https://github.com/abderraouf-adjal/ArduinoSpritzCipher.git|Contributed|SpritzCipher
 https://github.com/EscaVic/ROKduino.git|Contributed|ROKduino
 https://github.com/dxinteractive/ResponsiveAnalogRead.git|Contributed|ResponsiveAnalogRead
-https://github.com/FaBoPlatform/FaBoBLE-BLE113-Library.git|Contributed|FaBoBLE-BLE113
+https://github.com/FaBoPlatform/FaBoBLE-BLE113-Library.git|Contributed|FaBo 301 BLE SiliconLabs
 
 https://github.com/baghayi/Nokia_5110.git|Contributed|Nokia 5110 Driver
 https://github.com/wizard97/ArduinoProcessScheduler.git|Contributed|Arduino Process Scheduler
