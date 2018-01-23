@@ -1389,3 +1389,4 @@ https://github.com/cloud4rpi/cloud4rpi-esp-arduino.git|Contributed|cloud4rpi-esp
 https://github.com/avandalen/avdweb_FreqPeriodCounter.git|Contributed|FreqPeriodCounter
 https://github.com/fterrier/dwarf433.git|Contributed|dwarf433
 https://github.com/DhrBaksteen/ArduinoOPL2.git|Contributed|Arduino OPL2
+https://github.com/adafruit/Adafruit_VEML6070.git|Contributed|Adafruit VEML6070 Library
