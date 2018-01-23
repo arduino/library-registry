@@ -1401,3 +1401,4 @@ https://github.com/stblassitude/Adafruit_SSD1306_Wemos_OLED.git|Contributed|Adaf
 https://github.com/henriksod/Fabrik2DArduino.git|Contributed|Fabrik2D
 https://github.com/AIS-DeviceInnovation/AIS_NB_BC95.git|Contributed|AIS_NB_BC95
 https://github.com/avandalen/Switch.git|Contributed|Switch
+https://github.com/etherkit/MorseArduino.git|Contributed|Etherkit Morse
