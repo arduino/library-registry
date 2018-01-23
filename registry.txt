@@ -1397,3 +1397,4 @@ https://github.com/adafruit/Adafruit_NeoPixel_ZeroDMA.git|Contributed|Adafruit D
 https://github.com/adafruit/Adafruit_NeoMatrix_ZeroDMA.git|Contributed|Adafruit NeoMatrix ZeroDMA library
 https://github.com/adafruit/Adafruit_ZeroTimer.git|Contributed|Adafruit ZeroTimer Library
 https://github.com/adafruit/Adafruit_DAP.git|Contributed|Adafruit DAP library
+https://github.com/hunsalz/log4Esp.git|Contributed|log4Esp
