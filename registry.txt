@@ -1399,3 +1399,4 @@ https://github.com/adafruit/Adafruit_ZeroTimer.git|Contributed|Adafruit ZeroTime
 https://github.com/adafruit/Adafruit_DAP.git|Contributed|Adafruit DAP library
 https://github.com/hunsalz/log4Esp.git|Contributed|log4Esp
 https://github.com/stblassitude/Adafruit_SSD1306_Wemos_OLED.git|Contributed|Adafruit SSD1306 Wemos Mini OLED
+https://github.com/henriksod/Fabrik2DArduino.git|Contributed|Fabrik2D
