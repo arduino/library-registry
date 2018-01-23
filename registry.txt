@@ -1393,3 +1393,4 @@ https://github.com/adafruit/Adafruit_VEML6070.git|Contributed|Adafruit VEML6070 
 https://github.com/adafruit/Adafruit_CompositeVideo.git|Contributed|Adafruit composite video Library
 https://github.com/adafruit/Adafruit_AMRadio.git|Contributed|Adafruit AM radio library
 https://github.com/adafruit/Adafruit_FreeTouch.git|Contributed|Adafruit FreeTouch Library
+https://github.com/adafruit/Adafruit_NeoPixel_ZeroDMA.git|Contributed|Adafruit DMA neopixel library
