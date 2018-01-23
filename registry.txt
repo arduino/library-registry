@@ -1387,3 +1387,4 @@ https://github.com/JChristensen/MCP9808.git|Contributed|MCP9808
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library.git|Contributed|SparkFun BNO080 Cortex Based IMU
 https://github.com/cloud4rpi/cloud4rpi-esp-arduino.git|Contributed|cloud4rpi-esp-arduino
 https://github.com/avandalen/avdweb_FreqPeriodCounter.git|Contributed|FreqPeriodCounter
+https://github.com/fterrier/dwarf433.git|Contributed|dwarf433
