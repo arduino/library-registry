@@ -620,7 +620,7 @@ https://github.com/OpenDevice/opendevice-lib-arduino.git|Contributed|OpenDevice
 https://github.com/FaBoPlatform/FaBoLCD-PCF8574-Library.git|Contributed|FaBo 212 LCD PCF8574
 https://github.com/tomstewart89/Geometry.git|Contributed|Geometry
 https://github.com/arduinocodedog/Parallax-Smart-Card-Reader-Library-for-Arduino.git|Contributed|SmartCardReader
-https://github.com/ChicagoRobotics/CRC_Simula_Library.git|Contributed|CRC Simula Library
+https://github.com/ChicagoRobotics/CRC_Simula_Library.git|Contributed|CRC Simula Arduino IDE Library
 https://github.com/u0078867/Arduino-Websocket-Fast.git|Contributed|Arduino-Websocket-Fast
 https://github.com/MINDS-i/MINDS-i-Drone.git|Contributed|MINDS-i-Drone
 https://github.com/sebnil/DueFlashStorage.git|Contributed|DueFlashStorage
