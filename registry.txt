@@ -650,7 +650,7 @@ https://github.com/anunpanya/ESP8266_QRcode.git|Contributed|ESP8266 QRcode
 https://github.com/oxullo/Arduino-MAX30100.git|Contributed|MAX30100lib
 https://github.com/myDevicesIoT/Cayenne-Arduino-Library.git|Contributed|Cayenne
 https://github.com/finson-release/FirmataWithDeviceFeature.git|Contributed|FirmataWithDeviceFeature
-https://github.com/iotpipe/esp8266-arduino-iotpipe.git|Contributed|IoTPipe
+https://github.com/iotpipe/esp8266-arduino-iotpipe.git|Contributed|IoT Pipe
 https://github.com/olikraus/U8g2_Arduino.git|Contributed|U8g2
 https://github.com/abderraouf-adjal/ArduinoSpritzCipher.git|Contributed|SpritzCipher
 https://github.com/EscaVic/ROKduino.git|Contributed|ROKduino
