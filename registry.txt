@@ -1388,3 +1388,4 @@ https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library.git|Contributed|Spar
 https://github.com/cloud4rpi/cloud4rpi-esp-arduino.git|Contributed|cloud4rpi-esp-arduino
 https://github.com/avandalen/avdweb_FreqPeriodCounter.git|Contributed|FreqPeriodCounter
 https://github.com/fterrier/dwarf433.git|Contributed|dwarf433
+https://github.com/DhrBaksteen/ArduinoOPL2.git|Contributed|Arduino OPL2
