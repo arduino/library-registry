@@ -1408,3 +1408,4 @@ https://github.com/jakerabid/WiFiManager.git|Contributed|WhareHauoraWiFiManager
 https://github.com/MattFryer/Board_Identify.git|Contributed|Board Identify
 https://github.com/cmmakerclub/CMMC_Interval.git|Contributed|CMMC_Interval
 https://github.com/reven/Unistep2.git|Contributed|Unistep2
+https://github.com/denxhun/TFA433.git|Contributed|TFA 433 Receiver
