@@ -1131,7 +1131,6 @@ https://github.com/SConaway/AVRUtils.git|Contributed|AVRUtils
 https://github.com/arielnh56/OctoSonar.git|Contributed|OctoSonar
 https://github.com/Schm1tz1/aws-sdk-arduino-esp8266.git|Contributed|AWS-SDK-ESP8266
 https://github.com/SodaqMoja/Sodaq_nbIOT.git|Contributed|Sodaq_nbIOT
-https://github.com/jaean123/ArduinoBLE-library.git|Contributed|ArduinoCommander
 https://github.com/SteveBenz/PS2KeyboardHost.git|Contributed|Ps2KeyboardHost
 https://github.com/bitcraze/Bitcraze_PMW3901.git|Contributed|Bitcraze PMW3901
 https://github.com/asukiaaa/MPU9250_asukiaaa.git|Contributed|MPU9250_asukiaaa
@@ -1413,3 +1412,4 @@ https://github.com/TriadSemi/TS8000.git|Contributed|TS8000 Library
 https://github.com/SodaqMoja/Sodaq_LPS22HB.git|Contributed|Sodaq_LPS22HB
 https://github.com/SodaqMoja/Sodaq_HTS221.git|Contributed|Sodaq_HTS221
 https://github.com/udoklein/MLX90393_raw.git|Contributed|MLX90393_raw
+https://github.com/jaean123/ArduinoBlue-library.git|Contributed|ArduinoCommander
