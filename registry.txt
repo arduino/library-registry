@@ -1411,3 +1411,4 @@ https://github.com/reven/Unistep2.git|Contributed|Unistep2
 https://github.com/denxhun/TFA433.git|Contributed|TFA 433 Receiver
 https://github.com/TriadSemi/TS8000.git|Contributed|TS8000 Library
 https://github.com/SodaqMoja/Sodaq_LPS22HB.git|Contributed|Sodaq_LPS22HB
+https://github.com/SodaqMoja/Sodaq_HTS221.git|Contributed|Sodaq_HTS221
