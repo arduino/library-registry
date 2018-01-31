@@ -1399,7 +1399,7 @@ https://github.com/hunsalz/log4Esp.git|Contributed|log4Esp
 https://github.com/stblassitude/Adafruit_SSD1306_Wemos_OLED.git|Contributed|Adafruit SSD1306 Wemos Mini OLED
 https://github.com/henriksod/Fabrik2DArduino.git|Contributed|Fabrik2D
 https://github.com/AIS-DeviceInnovation/AIS_NB_BC95.git|Contributed|AIS_NB_BC95
-https://github.com/avandalen/Switch.git|Contributed|Switch
+https://github.com/avandalen/avdweb_Switch.git|Contributed|Switch
 https://github.com/etherkit/MorseArduino.git|Contributed|Etherkit Morse
 https://github.com/stm32duino/STM32FreeRTOS.git|Contributed|STM32duino FreeRTOS
 https://github.com/stm32duino/X-NUCLEO-NFC03A1.git|Contributed|STM32duino X-NUCLEO-NFC03A1
