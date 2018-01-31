@@ -1409,3 +1409,4 @@ https://github.com/MattFryer/Board_Identify.git|Contributed|Board Identify
 https://github.com/cmmakerclub/CMMC_Interval.git|Contributed|CMMC_Interval
 https://github.com/reven/Unistep2.git|Contributed|Unistep2
 https://github.com/denxhun/TFA433.git|Contributed|TFA 433 Receiver
+https://github.com/TriadSemi/TS8000.git|Contributed|TS8000 Library
