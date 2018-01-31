@@ -1407,3 +1407,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC03A1.git|Contributed|STM32duino X-NUCL
 https://github.com/jakerabid/WiFiManager.git|Contributed|WhareHauoraWiFiManager
 https://github.com/MattFryer/Board_Identify.git|Contributed|Board Identify
 https://github.com/cmmakerclub/CMMC_Interval.git|Contributed|CMMC_Interval
+https://github.com/reven/Unistep2.git|Contributed|Unistep2
