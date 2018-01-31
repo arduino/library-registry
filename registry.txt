@@ -1406,3 +1406,4 @@ https://github.com/stm32duino/STM32FreeRTOS.git|Contributed|STM32duino FreeRTOS
 https://github.com/stm32duino/X-NUCLEO-NFC03A1.git|Contributed|STM32duino X-NUCLEO-NFC03A1
 https://github.com/jakerabid/WiFiManager.git|Contributed|WhareHauoraWiFiManager
 https://github.com/MattFryer/Board_Identify.git|Contributed|Board Identify
+https://github.com/cmmakerclub/CMMC_Interval.git|Contributed|CMMC_Interval
