@@ -1412,4 +1412,5 @@ https://github.com/TriadSemi/TS8000.git|Contributed|TS8000 Library
 https://github.com/SodaqMoja/Sodaq_LPS22HB.git|Contributed|Sodaq_LPS22HB
 https://github.com/SodaqMoja/Sodaq_HTS221.git|Contributed|Sodaq_HTS221
 https://github.com/udoklein/MLX90393_raw.git|Contributed|MLX90393_raw
-https://github.com/jaean123/ArduinoBlue-library.git|Contributed|ArduinoCommander
+https://github.com/jaean123/ArduinoBlue-library.git|Contributed|ArduinoBlue
+https://github.com/witnessmenow/arduino-instagram-stats.git|Contributed|InstagramStats
