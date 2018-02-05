@@ -1414,3 +1414,4 @@ https://github.com/SodaqMoja/Sodaq_HTS221.git|Contributed|Sodaq_HTS221
 https://github.com/udoklein/MLX90393_raw.git|Contributed|MLX90393_raw
 https://github.com/jaean123/ArduinoBlue-library.git|Contributed|ArduinoBlue
 https://github.com/witnessmenow/arduino-instagram-stats.git|Contributed|InstagramStats
+https://github.com/Floessie/frt.git|Contributed|frt
