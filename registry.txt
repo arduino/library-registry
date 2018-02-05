@@ -1423,3 +1423,4 @@ https://github.com/uStepper/egoShieldTimeLapse.git|Contributed|egoShieldTimeLaps
 https://github.com/uStepper/egoShieldTeach.git|Contributed|egoShieldTeach
 https://github.com/cmmakerclub/CMMC_NB-IoT.git|Contributed|CMMC_NB-IoT
 https://github.com/jeremycole/Temperature_LM75_Derived.git|Contributed|I2C Temperature Sensors derived from the LM75
+https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591.git|Contributed|BlueDot BME280 TSL2591
