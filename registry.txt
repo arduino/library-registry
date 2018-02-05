@@ -1418,3 +1418,4 @@ https://github.com/Floessie/frt.git|Contributed|frt
 https://github.com/bxparks/AceButton.git|Contributed|AceButton
 https://github.com/Nredor/ESPNexUpload.git|Contributed|ESPNexUpload
 https://github.com/ethanjli/linear-position-control.git|Contributed|Linear Position Control
+https://github.com/YuriiSalimov/NTC_Thermistor.git|Contributed|NTC_Thermistor
