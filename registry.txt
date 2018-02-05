@@ -1422,3 +1422,4 @@ https://github.com/YuriiSalimov/NTC_Thermistor.git|Contributed|NTC_Thermistor
 https://github.com/uStepper/egoShieldTimeLapse.git|Contributed|egoShieldTimeLapse
 https://github.com/uStepper/egoShieldTeach.git|Contributed|egoShieldTeach
 https://github.com/cmmakerclub/CMMC_NB-IoT.git|Contributed|CMMC_NB-IoT
+https://github.com/jeremycole/Temperature_LM75_Derived.git|Contributed|I2C Temperature Sensors derived from the LM75
