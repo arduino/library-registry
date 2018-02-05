@@ -1421,3 +1421,4 @@ https://github.com/ethanjli/linear-position-control.git|Contributed|Linear Posit
 https://github.com/YuriiSalimov/NTC_Thermistor.git|Contributed|NTC_Thermistor
 https://github.com/uStepper/egoShieldTimeLapse.git|Contributed|egoShieldTimeLapse
 https://github.com/uStepper/egoShieldTeach.git|Contributed|egoShieldTeach
+https://github.com/cmmakerclub/CMMC_NB-IoT.git|Contributed|CMMC_NB-IoT
