@@ -1427,3 +1427,4 @@ https://github.com/YuriiSalimov/RelayModule.git|Contributed|RelayModule
 https://github.com/joba-1/Joba_Tsl2561.git|Contributed|Joba Tsl2561 Library
 https://github.com/avandalen/avdweb_SAMDtimer.git|Contributed|avdweb_SAMDtimer
 https://github.com/jgromes/LoRaLib.git|Contributed|LoRaLib
+https://github.com/ROBOTIS-GIT/DynamixelShield.git|Contributed|DynamixelShield
