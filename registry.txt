@@ -1199,7 +1199,6 @@ https://github.com/OpenBCI/OpenBCI_Ganglion_Library.git|Contributed|OpenBCI_Gang
 https://github.com/Velleman/ALLBOT-lib.git|Contributed|ALLBOT
 https://github.com/vitcon-iot/VitconMQTT.git|Contributed|VitconMQTT
 https://github.com/nkolban/ESP32_BLE_Arduino.git|Contributed|ESP32 BLE Arduino
-https://github.com/uStepper/egoShield.git|Contributed|egoShield
 https://github.com/philippG777/HP03S.git|Contributed|HP03S
 https://github.com/adafruit/Adafruit_APDS9960.git|Contributed|Adafruit APDS9960 Library
 https://github.com/siteswapjuggler/RAMP.git|Contributed|Ramp
