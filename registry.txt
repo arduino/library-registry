@@ -1433,3 +1433,4 @@ https://github.com/cmmakerclub/CMMC-Packet.git|Contributed|CMMC Packet
 https://github.com/jspayneco/Debugger.git|Contributed|Debugger
 https://github.com/sparkfun/SparkFun_ADXL345_Arduino_Library.git|Contributed|SparkFun ADXL345 Arduino Library
 https://github.com/YuriiSalimov/MAX6675_Thermocouple.git|Contributed|MAX6675_Thermocouple
+https://github.com/jbliesener/FlightSimSwitches.git|Contributed|FlightSimSwitches
