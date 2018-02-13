@@ -1430,3 +1430,4 @@ https://github.com/jgromes/LoRaLib.git|Contributed|LoRaLib
 https://github.com/ROBOTIS-GIT/DynamixelShield.git|Contributed|DynamixelShield
 https://github.com/SodaqMoja/Sodaq_LSM303AGR.git|Contributed|Sodaq_LSM303AGR
 https://github.com/cmmakerclub/CMMC-Packet.git|Contributed|CMMC Packet
+https://github.com/jspayneco/Debugger.git|Contributed|Debugger
