@@ -1426,3 +1426,4 @@ https://github.com/jeremycole/Temperature_LM75_Derived.git|Contributed|I2C Tempe
 https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591.git|Contributed|BlueDot BME280 TSL2591
 https://github.com/YuriiSalimov/RelayModule.git|Contributed|RelayModule
 https://github.com/joba-1/Joba_Tsl2561.git|Contributed|Joba Tsl2561 Library
+https://github.com/avandalen/avdweb_SAMDtimer.git|Contributed|avdweb_SAMDtimer
