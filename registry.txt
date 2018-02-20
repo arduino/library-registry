@@ -1436,3 +1436,4 @@ https://github.com/YuriiSalimov/MAX6675_Thermocouple.git|Contributed|MAX6675_The
 https://github.com/jbliesener/FlightSimSwitches.git|Contributed|FlightSimSwitches
 https://github.com/dniklaus/arduino-display-lcdkeypad.git|Contributed|arduino-display-lcdkeypad
 https://github.com/robojay/_2020Bot_Library.git|Contributed|_2020Bot_Library
+https://github.com/JChristensen/tinySPI.git|Contributed|tinySPI
