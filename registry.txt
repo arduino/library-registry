@@ -1437,3 +1437,4 @@ https://github.com/jbliesener/FlightSimSwitches.git|Contributed|FlightSimSwitche
 https://github.com/dniklaus/arduino-display-lcdkeypad.git|Contributed|arduino-display-lcdkeypad
 https://github.com/robojay/_2020Bot_Library.git|Contributed|_2020Bot_Library
 https://github.com/JChristensen/tinySPI.git|Contributed|tinySPI
+https://github.com/jeremycole/AllSensors_DLV.git|Contributed|AllSensors DLV
