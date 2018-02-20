@@ -1439,3 +1439,4 @@ https://github.com/robojay/_2020Bot_Library.git|Contributed|_2020Bot_Library
 https://github.com/JChristensen/tinySPI.git|Contributed|tinySPI
 https://github.com/jeremycole/AllSensors_DLV.git|Contributed|AllSensors DLV
 https://github.com/tomstewart89/StateSpaceControl.git|Contributed|StateSpaceControl
+https://github.com/planetk/ArduinoFritzApi.git|Contributed|ArduinoFritzApi
