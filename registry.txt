@@ -1448,3 +1448,4 @@ https://github.com/Naguissa/uTimerLib.git|Contributed|uTimerLib
 https://github.com/LowPowerLab/SPIFlash.git|Contributed|SPIFlash_LowPowerLab
 https://github.com/YuriiSalimov/AxisJoystick.git|Contributed|AxisJoystick
 https://github.com/Naguissa/uSevenSegmentLib.git|Contributed|uSevenSegmentLib
+https://github.com/Locoduino/SlowMotionServo.git|Contributed|SlowMotionServo
