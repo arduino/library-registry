@@ -1441,3 +1441,4 @@ https://github.com/jeremycole/AllSensors_DLV.git|Contributed|AllSensors DLV
 https://github.com/tomstewart89/StateSpaceControl.git|Contributed|StateSpaceControl
 https://github.com/planetk/ArduinoFritzApi.git|Contributed|ArduinoFritzApi
 https://github.com/Gamebuino/Gamebuino-Meta.git|Contributed|Gamebuino Meta
+https://github.com/byteAgenten/ArduinoArcherPanelClient.git|Contributed|ArduinoArcherPanelClient
