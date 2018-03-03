@@ -815,7 +815,6 @@ https://github.com/mysensors/MySensors.git|Contributed|MySensors
 https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino.git|Contributed|CayenneMQTT
 https://github.com/bandarei/AD9850-DDS.git|Contributed|AD9850-DDS
 https://github.com/connornishijima/arduino-volume3.git|Contributed|Volume 3
-https://github.com/Rodot/Gamebuino.git|Contributed|Gamebuino
 
 https://github.com/nadavmatalon/PCA9536_RGB.git|Contributed|PCA9536_RGB
 https://github.com/tinkerspy/Automaton-Esp8266.git|Contributed|Automaton-Esp8266
@@ -1438,7 +1437,6 @@ https://github.com/JChristensen/tinySPI.git|Contributed|tinySPI
 https://github.com/jeremycole/AllSensors_DLV.git|Contributed|AllSensors DLV
 https://github.com/tomstewart89/StateSpaceControl.git|Contributed|StateSpaceControl
 https://github.com/planetk/ArduinoFritzApi.git|Contributed|ArduinoFritzApi
-https://github.com/Gamebuino/Gamebuino-Meta.git|Contributed|Gamebuino Meta
 https://github.com/byteAgenten/ArduinoArcherPanelClient.git|Contributed|ArduinoArcherPanelClient
 https://github.com/u-fire/ISE_Probe.git|Contributed|ISE Probe Interface
 https://github.com/closedcube/ClosedCube_TMP116_Arduino.git|Contributed|ClosedCube TMP116
@@ -1460,3 +1458,5 @@ https://github.com/Dafulai/DFL168A_Async.git|Contributed|DFL168A_Async
 https://github.com/ImpulseAdventure/GUIslice.git|Contributed|GUIslice
 https://github.com/sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library.git|Contributed|SparkFun Qwiic OpenLog
 https://github.com/iotappstory/ESP-Library.git|Contributed|IOTAppStory-ESP8266
+https://github.com/Gamebuino/Gamebuino-Classic.git|Contributed|Gamebuino Classic
+https://github.com/Gamebuino/Gamebuino-Meta.git|Contributed|Gamebuino META
