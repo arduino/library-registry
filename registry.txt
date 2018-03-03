@@ -1459,3 +1459,4 @@ https://github.com/Naguissa/uMFMLib.git|Contributed|uMFMLib
 https://github.com/YuriiSalimov/YK04_Module.git|Contributed|YK04_Module
 https://github.com/Dafulai/DFL168A_Async.git|Contributed|DFL168A_Async
 https://github.com/ImpulseAdventure/GUIslice.git|Contributed|GUIslice
+https://github.com/sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library.git|Contributed|SparkFun Qwiic OpenLog
