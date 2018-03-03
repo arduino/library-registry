@@ -1452,3 +1452,4 @@ https://github.com/Locoduino/SlowMotionServo.git|Contributed|SlowMotionServo
 https://github.com/AloriumTechnology/XLR8USB.git|Contributed|XLR8USB
 https://github.com/greiman/SSD1306Ascii.git|Contributed|SSD1306Ascii
 https://github.com/amperka/TroykaDHT.git|Contributed|TroykaDHT
+https://bitbucket.org/amotzek/cooperative-multitasking.git|Contributed|Cooperative Multitasking
