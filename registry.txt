@@ -1456,3 +1456,4 @@ https://bitbucket.org/amotzek/cooperative-multitasking.git|Contributed|Cooperati
 https://bitbucket.org/amotzek/mqtt-client.git|Contributed|MQTT Client
 https://github.com/cesarvandevelde/HerkulexServo.git|Contributed|HerkulexServo
 https://github.com/Naguissa/uMFMLib.git|Contributed|uMFMLib
+https://github.com/YuriiSalimov/YK04_Module.git|Contributed|YK04_Module
