@@ -1449,3 +1449,4 @@ https://github.com/LowPowerLab/SPIFlash.git|Contributed|SPIFlash_LowPowerLab
 https://github.com/YuriiSalimov/AxisJoystick.git|Contributed|AxisJoystick
 https://github.com/Naguissa/uSevenSegmentLib.git|Contributed|uSevenSegmentLib
 https://github.com/Locoduino/SlowMotionServo.git|Contributed|SlowMotionServo
+https://github.com/AloriumTechnology/XLR8USB.git|Contributed|XLR8USB
