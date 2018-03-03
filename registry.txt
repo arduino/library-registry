@@ -1455,3 +1455,4 @@ https://github.com/amperka/TroykaDHT.git|Contributed|TroykaDHT
 https://bitbucket.org/amotzek/cooperative-multitasking.git|Contributed|Cooperative Multitasking
 https://bitbucket.org/amotzek/mqtt-client.git|Contributed|MQTT Client
 https://github.com/cesarvandevelde/HerkulexServo.git|Contributed|HerkulexServo
+https://github.com/Naguissa/uMFMLib.git|Contributed|uMFMLib
