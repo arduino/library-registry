@@ -1450,3 +1450,4 @@ https://github.com/YuriiSalimov/AxisJoystick.git|Contributed|AxisJoystick
 https://github.com/Naguissa/uSevenSegmentLib.git|Contributed|uSevenSegmentLib
 https://github.com/Locoduino/SlowMotionServo.git|Contributed|SlowMotionServo
 https://github.com/AloriumTechnology/XLR8USB.git|Contributed|XLR8USB
+https://github.com/greiman/SSD1306Ascii.git|Contributed|SSD1306Ascii
