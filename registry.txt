@@ -1467,3 +1467,4 @@ https://github.com/adafruit/Adafruit_AM2320.git|Contributed|Adafruit AM2320 sens
 https://github.com/stm32duino/STM32Examples.git|Contributed|STM32duino Examples
 https://github.com/stm32duino/I-NUCLEO-LRWAN1.git|Contributed|STM32duino I-NUCLEO-LRWAN1
 https://github.com/ewpa/MAX3100Serial.git|Contributed|MAX3100 Serial
+https://github.com/iamthechad/parallax_lcd.git|Contributed|Parallax LCD
