@@ -1473,3 +1473,4 @@ https://github.com/Annikken/Andee101.git|Contributed|Andee101
 https://github.com/sparkfun/SparkFun_RV-1805_Arduino_Library.git|Contributed|SparkFun Qwiic RTC RV1805 Arduino Library
 https://github.com/Manghao/RGBLed.git|Contributed|RGB
 https://github.com/schlingensiepen/TelegramBotClient.git|Contributed|TelegramBotClient
+https://github.com/Dafulai/DFL168A-Sync-Library.git|Contributed|DFL168A_Sync
