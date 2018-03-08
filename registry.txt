@@ -1461,3 +1461,4 @@ https://github.com/iotappstory/ESP-Library.git|Contributed|IOTAppStory-ESP8266
 https://github.com/Gamebuino/Gamebuino-Classic.git|Contributed|Gamebuino Classic
 https://github.com/Gamebuino/Gamebuino-Meta.git|Contributed|Gamebuino META
 https://github.com/i3water/blinker-library.git|Contributed|Blinker
+https://github.com/avandalen/avdweb_AnalogReadFast.git|Contributed|avdweb_AnalogReadFast
