@@ -1465,3 +1465,4 @@ https://github.com/avandalen/avdweb_AnalogReadFast.git|Contributed|avdweb_Analog
 https://github.com/Gemelon/Pushbutton.git|Contributed|Gemelon Pushbutton
 https://github.com/adafruit/Adafruit_AM2320.git|Contributed|Adafruit AM2320 sensor library
 https://github.com/stm32duino/STM32Examples.git|Contributed|STM32duino Examples
+https://github.com/stm32duino/I-NUCLEO-LRWAN1.git|Contributed|STM32duino I-NUCLEO-LRWAN1
