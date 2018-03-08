@@ -1464,3 +1464,4 @@ https://github.com/i3water/blinker-library.git|Contributed|Blinker
 https://github.com/avandalen/avdweb_AnalogReadFast.git|Contributed|avdweb_AnalogReadFast
 https://github.com/Gemelon/Pushbutton.git|Contributed|Gemelon Pushbutton
 https://github.com/adafruit/Adafruit_AM2320.git|Contributed|Adafruit AM2320 sensor library
+https://github.com/stm32duino/STM32Examples.git|Contributed|STM32duino Examples
