@@ -1477,3 +1477,4 @@ https://github.com/Dafulai/DFL168A-Sync-Library.git|Contributed|DFL168A_Sync
 https://github.com/gamgine/Arduino-lib-HCSR04.git|Contributed|HCSR04 ultrasonic sensor
 https://github.com/madhephaestus/SimplePacketComs.git|Contributed|SimplePacketComs
 https://github.com/i3water/Blinker_PMSX003ST.git|Contributed|Blinker_PMSX003ST
+https://github.com/SodaqMoja/Sodaq_UBlox_GPS.git|Contributed|Sodaq_UBlox_GPS
