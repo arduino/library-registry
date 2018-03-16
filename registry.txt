@@ -1475,3 +1475,4 @@ https://github.com/Manghao/RGBLed.git|Contributed|RGB
 https://github.com/schlingensiepen/TelegramBotClient.git|Contributed|TelegramBotClient
 https://github.com/Dafulai/DFL168A-Sync-Library.git|Contributed|DFL168A_Sync
 https://github.com/gamgine/Arduino-lib-HCSR04.git|Contributed|HCSR04 ultrasonic sensor
+https://github.com/madhephaestus/SimplePacketComs.git|Contributed|SimplePacketComs
