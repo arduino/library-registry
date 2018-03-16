@@ -1480,3 +1480,4 @@ https://github.com/i3water/Blinker_PMSX003ST.git|Contributed|Blinker_PMSX003ST
 https://github.com/SodaqMoja/Sodaq_UBlox_GPS.git|Contributed|Sodaq_UBlox_GPS
 https://github.com/Tockn/MPU6050_tockn.git|Contributed|MPU6050_tockn
 https://github.com/PulseRain/M10SevenSeg.git|Contributed|M10SevenSeg
+https://github.com/jefersonla/ArduinoLang.git|Contributed|ArduinoLang
