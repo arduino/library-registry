@@ -1492,3 +1492,4 @@ https://github.com/ekkai/PMsensor.git|Contributed|PMsensor
 https://github.com/Hieromon/AutoConnect.git|Contributed|AutoConnect
 https://github.com/kd8bxp/Word100.git|Contributed|Word100 Library
 https://github.com/pololu/zumo-shield-arduino-library.git|Contributed|ZumoShield
+https://github.com/madhephaestus/EspWii.git|Contributed|EspWii
