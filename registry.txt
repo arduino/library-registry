@@ -1476,3 +1476,4 @@ https://github.com/schlingensiepen/TelegramBotClient.git|Contributed|TelegramBot
 https://github.com/Dafulai/DFL168A-Sync-Library.git|Contributed|DFL168A_Sync
 https://github.com/gamgine/Arduino-lib-HCSR04.git|Contributed|HCSR04 ultrasonic sensor
 https://github.com/madhephaestus/SimplePacketComs.git|Contributed|SimplePacketComs
+https://github.com/i3water/Blinker_PMSX003ST.git|Contributed|Blinker_PMSX003ST
