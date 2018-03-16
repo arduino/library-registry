@@ -1489,3 +1489,4 @@ https://github.com/horihiro/esp8266-google-tts.git|Contributed|esp8266-google-tt
 https://github.com/thinger-io/ClimaStick.git|Contributed|ClimaStick
 https://github.com/bxparks/AUnit.git|Contributed|AUnit
 https://github.com/ekkai/PMsensor.git|Contributed|PMsensor
+https://github.com/Hieromon/AutoConnect.git|Contributed|AutoConnect
