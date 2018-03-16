@@ -1484,3 +1484,4 @@ https://github.com/jefersonla/ArduinoLang.git|Contributed|ArduinoLang
 https://gitlab.com/zaber-core-libs/zaber-binary-arduino.git|Contributed|Zaber Binary
 https://gitlab.com/zaber-core-libs/zaber-ascii-arduino.git|Contributed|Zaber ASCII
 https://github.com/sparkfun/Fingerprint_Scanner-TTL.git|Contributed|Fingerprint Scanner TTL
+https://github.com/amperpirat/MAX77650-Arduino-Library.git|Contributed|MAX77650-Arduino-Library
