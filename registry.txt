@@ -1506,3 +1506,4 @@ https://github.com/EdgeiLAB/libedge.git|Contributed|libedge
 https://github.com/shurillu/CTBot.git|Contributed|CTBot
 https://github.com/Locoduino/ScheduleTable.git|Contributed|ScheduleTable
 https://github.com/ubidots/ubidots-mqtt-esp.git|Contributed|Ubidots MQTT for ESP8266
+https://github.com/PulseRain/M10LCD.git|Contributed|M10LCD
