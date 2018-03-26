@@ -1509,3 +1509,4 @@ https://github.com/ubidots/ubidots-mqtt-esp.git|Contributed|Ubidots MQTT for ESP
 https://github.com/PulseRain/M10LCD.git|Contributed|M10LCD
 https://github.com/PulseRain/M10PS2.git|Contributed|M10PS2
 https://github.com/olikraus/U8g2_for_Adafruit_GFX.git|Contributed|U8g2_for_Adafruit_GFX
+https://github.com/gmag11/WifiLocation.git|Contributed|WifiLocation
