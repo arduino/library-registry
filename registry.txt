@@ -1504,3 +1504,4 @@ https://github.com/tobozo/M5Stack-SD-Updater.git|Contributed|M5Stack-SD-Updater
 https://github.com/CuriosityGym/MotorDriver.git|Contributed|Motor Driver Library
 https://github.com/EdgeiLAB/libedge.git|Contributed|libedge
 https://github.com/shurillu/CTBot.git|Contributed|CTBot
+https://github.com/Locoduino/ScheduleTable.git|Contributed|ScheduleTable
