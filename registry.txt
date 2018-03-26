@@ -1508,3 +1508,4 @@ https://github.com/Locoduino/ScheduleTable.git|Contributed|ScheduleTable
 https://github.com/ubidots/ubidots-mqtt-esp.git|Contributed|Ubidots MQTT for ESP8266
 https://github.com/PulseRain/M10LCD.git|Contributed|M10LCD
 https://github.com/PulseRain/M10PS2.git|Contributed|M10PS2
+https://github.com/olikraus/U8g2_for_Adafruit_GFX.git|Contributed|U8g2_for_Adafruit_GFX
