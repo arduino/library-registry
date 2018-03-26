@@ -1497,3 +1497,4 @@ https://github.com/jwrw/ESP_EEPROM.git|Contributed|ESP_EEPROM
 https://github.com/Seeed-Studio/Seeed_Wio_GPS_Board.git|Contributed|Seeed Wio GPS Board
 https://github.com/Isaranu/PointzNet.git|Contributed|PointzNet
 https://github.com/SlashDevin/NeoBufferedPrint.git|Contributed|NeoBufferedPrint
+https://github.com/hideakitai/ArduinoOSC.git|Contributed|ArduinoOSC
