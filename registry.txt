@@ -1499,3 +1499,4 @@ https://github.com/Isaranu/PointzNet.git|Contributed|PointzNet
 https://github.com/SlashDevin/NeoBufferedPrint.git|Contributed|NeoBufferedPrint
 https://github.com/hideakitai/ArduinoOSC.git|Contributed|ArduinoOSC
 https://github.com/remicaumette/esp8266-redis.git|Contributed|Redis for ESP8266
+https://github.com/hippymulehead/RARGBLED.git|Contributed|Romans Audio RARGBLED Library
