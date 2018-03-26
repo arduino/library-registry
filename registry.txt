@@ -1495,3 +1495,4 @@ https://github.com/pololu/zumo-shield-arduino-library.git|Contributed|ZumoShield
 https://github.com/madhephaestus/EspWii.git|Contributed|EspWii
 https://github.com/jwrw/ESP_EEPROM.git|Contributed|ESP_EEPROM
 https://github.com/Seeed-Studio/Seeed_Wio_GPS_Board.git|Contributed|Seeed Wio GPS Board
+https://github.com/Isaranu/PointzNet.git|Contributed|PointzNet
