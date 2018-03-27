@@ -1510,3 +1510,4 @@ https://github.com/PulseRain/M10LCD.git|Contributed|M10LCD
 https://github.com/PulseRain/M10PS2.git|Contributed|M10PS2
 https://github.com/olikraus/U8g2_for_Adafruit_GFX.git|Contributed|U8g2_for_Adafruit_GFX
 https://github.com/gmag11/WifiLocation.git|Contributed|WifiLocation
+https://github.com/stm32duino/FP_Examples.git|Contributed|STM32duino FP_Examples
