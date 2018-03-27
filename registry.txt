@@ -1512,3 +1512,4 @@ https://github.com/olikraus/U8g2_for_Adafruit_GFX.git|Contributed|U8g2_for_Adafr
 https://github.com/gmag11/WifiLocation.git|Contributed|WifiLocation
 https://github.com/stm32duino/FP_Examples.git|Contributed|STM32duino FP_Examples
 https://github.com/Seeed-Studio/Grove_Barometer_Sensor.git|Contributed|Grove Barometer Sensor
+https://github.com/Seeed-Studio/OLED_Display_96X96.git|Contributed|OLED Display 96x96
