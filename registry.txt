@@ -1522,3 +1522,4 @@ https://github.com/Seeed-Studio/CAN_BUS_Shield.git|Contributed|CAN-BUS Shield
 https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615.git|Contributed|Digital Infrared Temperature Sensor MLX90615
 https://github.com/Seeed-Studio/Accelerometer_MMA7660.git|Contributed|Accelerometer_MMA7660
 https://github.com/Seeed-Studio/Accelerometer_H3LIS331DL.git|Contributed|Accelerometer_H3LIS331DL
+https://github.com/Seeed-Studio/Accelerometer_And_Gyroscope_LSM6DS3.git|Contributed|Accelerometer And Gyroscope LSM6DS3
