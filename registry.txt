@@ -1531,3 +1531,4 @@ https://github.com/Locoduino/LightDimmer.git|Contributed|LightDimmer
 https://github.com/romkey/IFTTTWebhook.git|Contributed|IFTTTWebhook
 https://github.com/JChristensen/movingAvg.git|Contributed|movingAvg
 https://github.com/pololu/dual-max14870-motor-shield.git|Contributed|DualMAX14870MotorShield
+https://github.com/dersimn/ArduinoPubSubClientTools.git|Contributed|PubSubClientTools
