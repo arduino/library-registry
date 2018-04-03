@@ -1535,3 +1535,4 @@ https://github.com/dersimn/ArduinoPubSubClientTools.git|Contributed|PubSubClient
 https://github.com/zharijs/FDC2214.git|Contributed|FDC2214
 https://github.com/jpraus/arduino-opentherm.git|Contributed|Opentherm
 https://github.com/jorgemvc/S4ALib.git|Contributed|S4ALib
+https://github.com/danja/TM1638lite.git|Contributed|TM1638lite
