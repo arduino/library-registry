@@ -1525,3 +1525,4 @@ https://github.com/Seeed-Studio/Accelerometer_H3LIS331DL.git|Contributed|Acceler
 https://github.com/Seeed-Studio/Accelerometer_And_Gyroscope_LSM6DS3.git|Contributed|Accelerometer And Gyroscope LSM6DS3
 https://github.com/Seeed-Studio/Accelerometer_ADXL335.git|Contributed|Accelerometer ADXL335
 https://github.com/Seeed-Studio/Accelerometer_ADXL345.git|Contributed|Accelerometer ADXL345
+https://github.com/drewfish/arduino-ZeroRegs.git|Contributed|ZeroRegs
