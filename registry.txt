@@ -1516,3 +1516,4 @@ https://github.com/Seeed-Studio/OLED_Display_96X96.git|Contributed|OLED Display 
 https://github.com/Seeed-Studio/Grove_IMU_9DOF.git|Contributed|Grove IMU 9DOF
 https://github.com/fredilarsen/ModuleInterface.git|Contributed|ModuleInterface
 https://github.com/Seeed-Studio/Grove_3_Axis_Compass_V2.0_BMM150.git|Contributed|Grove 3Axis Compass V2.0 BMM150
+https://github.com/Seeed-Studio/Gesture_PAJ7620.git|Contributed|Gesture PAJ7620
