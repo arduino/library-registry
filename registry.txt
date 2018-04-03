@@ -1534,3 +1534,4 @@ https://github.com/pololu/dual-max14870-motor-shield.git|Contributed|DualMAX1487
 https://github.com/dersimn/ArduinoPubSubClientTools.git|Contributed|PubSubClientTools
 https://github.com/zharijs/FDC2214.git|Contributed|FDC2214
 https://github.com/jpraus/arduino-opentherm.git|Contributed|Opentherm
+https://github.com/jorgemvc/S4ALib.git|Contributed|S4ALib
