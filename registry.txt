@@ -1520,3 +1520,4 @@ https://github.com/Seeed-Studio/Gesture_PAJ7620.git|Contributed|Gesture PAJ7620
 https://github.com/Seeed-Studio/Ethernet_Shield_W5200.git|Contributed|Ethernet_Shield_W5200
 https://github.com/Seeed-Studio/CAN_BUS_Shield.git|Contributed|CAN-BUS Shield
 https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615.git|Contributed|Digital Infrared Temperature Sensor MLX90615
+https://github.com/Seeed-Studio/Accelerometer_MMA7660.git|Contributed|Accelerometer_MMA7660
