@@ -1530,3 +1530,4 @@ https://github.com/Simsso/ShiftRegister74HC595.git|Contributed|ShiftRegister74HC
 https://github.com/Locoduino/LightDimmer.git|Contributed|LightDimmer
 https://github.com/romkey/IFTTTWebhook.git|Contributed|IFTTTWebhook
 https://github.com/JChristensen/movingAvg.git|Contributed|movingAvg
+https://github.com/pololu/dual-max14870-motor-shield.git|Contributed|DualMAX14870MotorShield
