@@ -1528,3 +1528,4 @@ https://github.com/Seeed-Studio/Accelerometer_ADXL345.git|Contributed|Accelerome
 https://github.com/drewfish/arduino-ZeroRegs.git|Contributed|ZeroRegs
 https://github.com/Simsso/ShiftRegister74HC595.git|Contributed|ShiftRegister74HC595
 https://github.com/Locoduino/LightDimmer.git|Contributed|LightDimmer
+https://github.com/romkey/IFTTTWebhook.git|Contributed|IFTTTWebhook
