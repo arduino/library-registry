@@ -1557,3 +1557,4 @@ https://gitlab.com/painlessMesh/painlessMesh.git|Contributed|Painless Mesh
 https://github.com/madhephaestus/ESP32Servo.git|Contributed|ESP32Servo
 https://github.com/elhayra/Strober.git|Contributed|Strober
 https://github.com/elhayra/SandTimer.git|Contributed|SandTimer
+https://github.com/elhayra/MilliStopper.git|Contributed|MilliStopper
