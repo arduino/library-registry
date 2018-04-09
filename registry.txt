@@ -1556,3 +1556,4 @@ https://github.com/platisd/nokia-5110-lcd-library.git|Contributed|Nokia 5110 LCD
 https://gitlab.com/painlessMesh/painlessMesh.git|Contributed|Painless Mesh
 https://github.com/madhephaestus/ESP32Servo.git|Contributed|ESP32Servo
 https://github.com/elhayra/Strober.git|Contributed|Strober
+https://github.com/elhayra/SandTimer.git|Contributed|SandTimer
