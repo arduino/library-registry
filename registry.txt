@@ -1544,3 +1544,4 @@ https://github.com/Seeed-Studio/Grove_Ultrasonic_Ranger.git|Contributed|Grove Ul
 https://github.com/Seeed-Studio/Grove_Haptic_Motor.git|Contributed|Grove - Haptic Motor
 https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor.git|Contributed|Grove - Digital Light Sensor
 https://github.com/Seeed-Studio/Grove_Chainable_RGB_LED.git|Contributed|Grove - Chainable RGB LED
+https://github.com/Seeed-Studio/Grove_Barometer_HP20x.git|Contributed|Grove barometer HP20x
