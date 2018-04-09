@@ -1539,3 +1539,4 @@ https://github.com/danja/TM1638lite.git|Contributed|TM1638lite
 https://github.com/adafruit/Adafruit_LSM9DS1.git|Contributed|Adafruit LSM9DS1 Library
 https://github.com/Seeed-Studio/Grove_I2C_Color_Sensor.git|Contributed|Grove - I2C Color Sensor
 https://github.com/Seeed-Studio/Grove_HighTemp_Sensor.git|Contributed|Grove - High Temperature Sensor
+https://github.com/Seeed-Studio/Grove_High_Precision_RTC_PCF85063TP.git|Contributed|Grove - High Precision RTC
