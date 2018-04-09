@@ -1551,3 +1551,4 @@ https://github.com/Seeed-Studio/Grove_4Digital_Display.git|Contributed|Grove 4-D
 https://github.com/Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L.git|Contributed|Grove 3-Axis Digital Compass HMC5883L
 https://github.com/Seeed-Studio/Grove_3_Axis_Digital_Gyro.git|Contributed|Grove 3-Axis Digital Gyro
 https://github.com/dgduncan/SevenSegment.git|Contributed|Seven Segment Library
+https://github.com/JChristensen/MCP79412RTC.git|Contributed|MCP79412RTC
