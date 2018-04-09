@@ -1553,3 +1553,4 @@ https://github.com/Seeed-Studio/Grove_3_Axis_Digital_Gyro.git|Contributed|Grove 
 https://github.com/dgduncan/SevenSegment.git|Contributed|Seven Segment Library
 https://github.com/JChristensen/MCP79412RTC.git|Contributed|MCP79412RTC
 https://github.com/platisd/nokia-5110-lcd-library.git|Contributed|Nokia 5110 LCD library
+https://gitlab.com/painlessMesh/painlessMesh.git|Contributed|Painless Mesh
