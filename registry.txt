@@ -1548,3 +1548,4 @@ https://github.com/Seeed-Studio/Grove_Barometer_HP20x.git|Contributed|Grove baro
 https://github.com/Seeed-Studio/Grove_Air_quality_Sensor.git|Contributed|Grove - Air quality sensor
 https://github.com/Seeed-Studio/Grove_6Axis_Accelerometer_And_Compass_v2.git|Contributed|Grove - 6Axis Accelerometer And Compass v2
 https://github.com/Seeed-Studio/Grove_4Digital_Display.git|Contributed|Grove 4-Digit Display
+https://github.com/Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L.git|Contributed|Grove 3-Axis Digital Compass HMC5883L
