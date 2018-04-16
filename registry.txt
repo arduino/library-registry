@@ -1581,3 +1581,4 @@ https://github.com/Seeed-Studio/Touch_Screen_Driver.git|Contributed|Touch Screen
 https://github.com/Seeed-Studio/Wio_LTE_Arduino_Library.git|Contributed|Wio LTE Arduino Library
 https://github.com/hippymulehead/FastDigitalPin.git|Contributed|Romans Audio FastDigitalPin Library
 https://github.com/adafruit/Adafruit_QSPI.git|Contributed|Adafruit QSPI
+https://github.com/bluemurder/EveryTimer.git|Contributed|EveryTimer
