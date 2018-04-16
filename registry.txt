@@ -1585,3 +1585,4 @@ https://github.com/bluemurder/EveryTimer.git|Contributed|EveryTimer
 https://github.com/bluemurder/esp8266-ping.git|Contributed|ESP8266-ping
 https://github.com/Isaranu/IoTtweetNBIoT.git|Contributed|IoTtweetNBIoT
 https://github.com/stechio/arduino-ad-mux-lib.git|Contributed|Analog-Digital Multiplexers
+https://github.com/Seeed-Studio/Grove_I2C_Motor_Driver_v1_3.git|Contributed|Grove I2C Motor Driver v1.3
