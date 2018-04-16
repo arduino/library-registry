@@ -1587,3 +1587,4 @@ https://github.com/Isaranu/IoTtweetNBIoT.git|Contributed|IoTtweetNBIoT
 https://github.com/stechio/arduino-ad-mux-lib.git|Contributed|Analog-Digital Multiplexers
 https://github.com/Seeed-Studio/Grove_I2C_Motor_Driver_v1_3.git|Contributed|Grove I2C Motor Driver v1.3
 https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight.git|Contributed|Grove - LCD RGB Backlight
+https://github.com/Seeed-Studio/Grove_LED_Bar.git|Contributed|Grove LED Bar
