@@ -1570,3 +1570,4 @@ https://github.com/Seeed-Studio/Mutichannel_Gas_Sensor.git|Contributed|Grove - M
 https://github.com/Seeed-Studio/NFC_Tag_M24LR6E.git|Contributed|NFC Tag M24LR6E
 https://github.com/Seeed-Studio/OLED_Display_128X64.git|Contributed|Grove - OLED Display 0.96
 https://github.com/Seeed-Studio/RFID_Library.git|Contributed|Grove - 125KHz RFID Reader
+https://github.com/Seeed-Studio/RTC_DS1307.git|Contributed|Grove - RTC DS1307
