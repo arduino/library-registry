@@ -1566,3 +1566,4 @@ https://github.com/ssilverman/TeensyDMX.git|Contributed|TeensyDMX
 https://github.com/slavaza/Thread.git|Contributed|Thread
 https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library.git|Contributed|SparkFun VL53L1X 4m Laser Distance Sensor
 https://github.com/Seeed-Studio/Music_Shield.git|Contributed|Music Shield
+https://github.com/Seeed-Studio/Mutichannel_Gas_Sensor.git|Contributed|Grove - Multichannel Gas Sensor
