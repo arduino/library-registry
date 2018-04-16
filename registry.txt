@@ -1599,3 +1599,4 @@ https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor.git|Contri
 https://github.com/Seeed-Studio/Hercules_Motor_Driver.git|Contributed|Hercules Dual 15A 6-20V Motor Controller
 https://github.com/Seeed-Studio/IRSendRev.git|Contributed|Grove - Infrared Receiver And Emitter
 https://github.com/UnexpectedMaker/Neo7Segment.git|Contributed|Neo7Segment
+https://github.com/Seeed-Studio/Grove_BMP280.git|Contributed|Grove - Barometer Sensor BMP280
