@@ -1568,3 +1568,4 @@ https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library.git|Contributed|Spa
 https://github.com/Seeed-Studio/Music_Shield.git|Contributed|Music Shield
 https://github.com/Seeed-Studio/Mutichannel_Gas_Sensor.git|Contributed|Grove - Multichannel Gas Sensor
 https://github.com/Seeed-Studio/NFC_Tag_M24LR6E.git|Contributed|NFC Tag M24LR6E
+https://github.com/Seeed-Studio/OLED_Display_128X64.git|Contributed|Grove - OLED Display 0.96
