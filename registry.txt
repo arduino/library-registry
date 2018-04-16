@@ -1578,3 +1578,4 @@ https://github.com/Seeed-Studio/Small_ePaper_Shield.git|Contributed|Small e-pape
 https://github.com/Seeed-Studio/TFT_Touch_Shield_V1.git|Contributed|TFT Touch Shield V1.0
 https://github.com/Seeed-Studio/TFT_Touch_Shield_V2.git|Contributed|TFT Touch Shield v2.0
 https://github.com/Seeed-Studio/Touch_Screen_Driver.git|Contributed|Touch Screen Driver
+https://github.com/Seeed-Studio/Wio_LTE_Arduino_Library.git|Contributed|Wio LTE Arduino Library
