@@ -1596,3 +1596,4 @@ https://github.com/Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor.git|Contributed|Gro
 https://github.com/Seeed-Studio/Grove_Sunlight_Sensor.git|Contributed|Grove - Sunlight Sensor
 https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02.git|Contributed|Grove Temper Humidity TH02
 https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor.git|Contributed|Grove Temperature And Humidity Sensor
+https://github.com/Seeed-Studio/Hercules_Motor_Driver.git|Contributed|Hercules Dual 15A 6-20V Motor Controller
