@@ -1574,3 +1574,4 @@ https://github.com/Seeed-Studio/RTC_DS1307.git|Contributed|Grove - RTC DS1307
 https://github.com/Seeed-Studio/Seeed_QTouch.git|Contributed|Grove - Q Touch Sensor
 https://github.com/Seeed-Studio/SeeedMotorShieldV2.git|Contributed|Motor Shield V2.0
 https://github.com/Seeed-Studio/Seeeduino_GPRS.git|Contributed|Seeeduino GPRS
+https://github.com/Seeed-Studio/Small_ePaper_Shield.git|Contributed|Small e-paper Shield V2
