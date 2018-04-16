@@ -1572,3 +1572,4 @@ https://github.com/Seeed-Studio/OLED_Display_128X64.git|Contributed|Grove - OLED
 https://github.com/Seeed-Studio/RFID_Library.git|Contributed|Grove - 125KHz RFID Reader
 https://github.com/Seeed-Studio/RTC_DS1307.git|Contributed|Grove - RTC DS1307
 https://github.com/Seeed-Studio/Seeed_QTouch.git|Contributed|Grove - Q Touch Sensor
+https://github.com/Seeed-Studio/SeeedMotorShieldV2.git|Contributed|Motor Shield V2.0
