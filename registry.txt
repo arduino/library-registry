@@ -1600,3 +1600,4 @@ https://github.com/Seeed-Studio/Hercules_Motor_Driver.git|Contributed|Hercules D
 https://github.com/Seeed-Studio/IRSendRev.git|Contributed|Grove - Infrared Receiver And Emitter
 https://github.com/UnexpectedMaker/Neo7Segment.git|Contributed|Neo7Segment
 https://github.com/Seeed-Studio/Grove_BMP280.git|Contributed|Grove - Barometer Sensor BMP280
+https://github.com/Seeed-Studio/Grove_BME280.git|Contributed|Grove - Barometer Sensor BME280
