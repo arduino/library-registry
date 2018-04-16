@@ -1584,3 +1584,4 @@ https://github.com/adafruit/Adafruit_QSPI.git|Contributed|Adafruit QSPI
 https://github.com/bluemurder/EveryTimer.git|Contributed|EveryTimer
 https://github.com/bluemurder/esp8266-ping.git|Contributed|ESP8266-ping
 https://github.com/Isaranu/IoTtweetNBIoT.git|Contributed|IoTtweetNBIoT
+https://github.com/stechio/arduino-ad-mux-lib.git|Contributed|Analog-Digital Multiplexers
