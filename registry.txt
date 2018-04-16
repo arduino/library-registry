@@ -1601,3 +1601,4 @@ https://github.com/Seeed-Studio/IRSendRev.git|Contributed|Grove - Infrared Recei
 https://github.com/UnexpectedMaker/Neo7Segment.git|Contributed|Neo7Segment
 https://github.com/Seeed-Studio/Grove_BMP280.git|Contributed|Grove - Barometer Sensor BMP280
 https://github.com/Seeed-Studio/Grove_BME280.git|Contributed|Grove - Barometer Sensor BME280
+https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino.git|Contributed|Google Cloud IoT Core JWT
