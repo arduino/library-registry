@@ -1598,3 +1598,4 @@ https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02.git|Contributed|Grove
 https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor.git|Contributed|Grove Temperature And Humidity Sensor
 https://github.com/Seeed-Studio/Hercules_Motor_Driver.git|Contributed|Hercules Dual 15A 6-20V Motor Controller
 https://github.com/Seeed-Studio/IRSendRev.git|Contributed|Grove - Infrared Receiver And Emitter
+https://github.com/UnexpectedMaker/Neo7Segment.git|Contributed|Neo7Segment
