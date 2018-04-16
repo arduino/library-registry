@@ -1560,3 +1560,4 @@ https://github.com/elhayra/SandTimer.git|Contributed|SandTimer
 https://github.com/elhayra/MilliStopper.git|Contributed|MilliStopper
 https://github.com/mike-matera/FastPID.git|Contributed|FastPID
 https://github.com/ettoreleandrotognoli/ArcPID.git|Contributed|PID
+https://github.com/nathanRamaNoodles/MusicWithoutDelay-LIbrary.git|Contributed|MusicWithoutDelay
