@@ -1564,3 +1564,4 @@ https://github.com/nathanRamaNoodles/MusicWithoutDelay-LIbrary.git|Contributed|M
 https://github.com/eagleSIA/eBoard.git|Contributed|eBoard shackle the Arduino
 https://github.com/ssilverman/TeensyDMX.git|Contributed|TeensyDMX
 https://github.com/slavaza/Thread.git|Contributed|Thread
+https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library.git|Contributed|SparkFun VL53L1X 4m Laser Distance Sensor
