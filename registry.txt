@@ -1622,3 +1622,4 @@ https://github.com/ssilverman/libCBOR.git|Contributed|libCBOR
 https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library.git|Contributed|SparkFun MS5637 Barometric Pressure Library
 https://github.com/luisllamasbinaburo/Arduino-PetriNet.git|Contributed|PetriNetLib
 https://github.com/nickkoza/animately.git|Contributed|Animately
+https://github.com/Seeed-Studio/HDC1000.git|Contributed|Grove - Temperature And Humidity Sensor HDC1000
