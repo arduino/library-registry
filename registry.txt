@@ -1617,3 +1617,4 @@ https://github.com/Protocentral/Protocentral_MAX30205.git|Contributed|ProtoCentr
 https://github.com/amperka/TroykaThermometer.git|Contributed|TroykaThermometer
 https://github.com/tommag/PCM51xx_Arduino.git|Contributed|PCM51xx DAC
 https://github.com/VMinute/RootCertificates.git|Contributed|RootCertificates
+https://github.com/Protocentral/ProtoCentral_fdc1004_breakout.git|Contributed|ProtoCentral FDC1004 Capacitive Sensor Library
