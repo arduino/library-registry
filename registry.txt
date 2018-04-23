@@ -1623,3 +1623,4 @@ https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library.git|Contributed|Spar
 https://github.com/luisllamasbinaburo/Arduino-PetriNet.git|Contributed|PetriNetLib
 https://github.com/nickkoza/animately.git|Contributed|Animately
 https://github.com/Seeed-Studio/HDC1000.git|Contributed|Grove - Temperature And Humidity Sensor HDC1000
+https://github.com/toxnico/Timer.git|Contributed|DMTimer
