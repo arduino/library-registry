@@ -1624,3 +1624,4 @@ https://github.com/luisllamasbinaburo/Arduino-PetriNet.git|Contributed|PetriNetL
 https://github.com/nickkoza/animately.git|Contributed|Animately
 https://github.com/Seeed-Studio/HDC1000.git|Contributed|Grove - Temperature And Humidity Sensor HDC1000
 https://github.com/toxnico/Timer.git|Contributed|DMTimer
+https://github.com/amperka/TroykaLight.git|Contributed|TroykaLight
