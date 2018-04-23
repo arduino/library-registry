@@ -1613,3 +1613,4 @@ https://github.com/justplaysoftware/EduShield2.git|Contributed|EduShield-2 Libra
 https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library.git|Contributed|SparkFun WiseChip HUD
 https://github.com/jorgemvc/MotoMamaLib.git|Contributed|MotoMama Library
 https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library.git|Contributed|SparkFun VCNL4040 Proximity Sensor Library
+https://github.com/Protocentral/Protocentral_MAX30205.git|Contributed|ProtoCentral MAX30205 Body Temperature Sensor Library
