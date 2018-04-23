@@ -1606,3 +1606,4 @@ https://github.com/Seeed-Studio/RFBee.git|Contributed|RFbee V1.1 - Wireless ardu
 https://github.com/tobozo/ESP8266SDUpdater.git|Contributed|ESP8266SDUpdater
 https://github.com/Naguissa/uCRC16BPBLib.git|Contributed|uCRC16BPBLib
 https://github.com/Naguissa/uCRC16Lib.git|Contributed|uCRC16Lib
+https://github.com/denyssene/SimpleKalmanFilter.git|Contributed|SimpleKalmanFilter
