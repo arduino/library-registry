@@ -1615,3 +1615,4 @@ https://github.com/jorgemvc/MotoMamaLib.git|Contributed|MotoMama Library
 https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library.git|Contributed|SparkFun VCNL4040 Proximity Sensor Library
 https://github.com/Protocentral/Protocentral_MAX30205.git|Contributed|ProtoCentral MAX30205 Body Temperature Sensor Library
 https://github.com/amperka/TroykaThermometer.git|Contributed|TroykaThermometer
+https://github.com/tommag/PCM51xx_Arduino.git|Contributed|PCM51xx DAC
