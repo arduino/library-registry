@@ -1620,3 +1620,4 @@ https://github.com/VMinute/RootCertificates.git|Contributed|RootCertificates
 https://github.com/Protocentral/ProtoCentral_fdc1004_breakout.git|Contributed|ProtoCentral FDC1004 Capacitive Sensor Library
 https://github.com/amperka/TroykaGPS.git|Contributed|TroykaGPS
 https://github.com/ssilverman/libCBOR.git|Contributed|libCBOR
+https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library.git|Contributed|SparkFun MS5637 Barometric Pressure Library
