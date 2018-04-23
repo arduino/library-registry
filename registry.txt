@@ -1603,3 +1603,4 @@ https://github.com/Seeed-Studio/Grove_BMP280.git|Contributed|Grove - Barometer S
 https://github.com/Seeed-Studio/Grove_BME280.git|Contributed|Grove - Barometer Sensor BME280
 https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino.git|Contributed|Google Cloud IoT Core JWT
 https://github.com/Seeed-Studio/RFBee.git|Contributed|RFbee V1.1 - Wireless arduino compatible node
+https://github.com/tobozo/ESP8266SDUpdater.git|Contributed|ESP8266SDUpdater
