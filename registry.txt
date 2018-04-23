@@ -1616,3 +1616,4 @@ https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library.git|Contributed|Sp
 https://github.com/Protocentral/Protocentral_MAX30205.git|Contributed|ProtoCentral MAX30205 Body Temperature Sensor Library
 https://github.com/amperka/TroykaThermometer.git|Contributed|TroykaThermometer
 https://github.com/tommag/PCM51xx_Arduino.git|Contributed|PCM51xx DAC
+https://github.com/VMinute/RootCertificates.git|Contributed|RootCertificates
