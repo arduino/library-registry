@@ -1605,3 +1605,4 @@ https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino.git|Contributed|
 https://github.com/Seeed-Studio/RFBee.git|Contributed|RFbee V1.1 - Wireless arduino compatible node
 https://github.com/tobozo/ESP8266SDUpdater.git|Contributed|ESP8266SDUpdater
 https://github.com/Naguissa/uCRC16BPBLib.git|Contributed|uCRC16BPBLib
+https://github.com/Naguissa/uCRC16Lib.git|Contributed|uCRC16Lib
