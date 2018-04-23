@@ -1621,3 +1621,4 @@ https://github.com/Protocentral/ProtoCentral_fdc1004_breakout.git|Contributed|Pr
 https://github.com/amperka/TroykaGPS.git|Contributed|TroykaGPS
 https://github.com/ssilverman/libCBOR.git|Contributed|libCBOR
 https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library.git|Contributed|SparkFun MS5637 Barometric Pressure Library
+https://github.com/luisllamasbinaburo/Arduino-PetriNet.git|Contributed|PetriNetLib
