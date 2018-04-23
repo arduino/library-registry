@@ -1612,3 +1612,4 @@ https://github.com/jandrassy/CStringBuilder.git|Contributed|CStringBuilder
 https://github.com/justplaysoftware/EduShield2.git|Contributed|EduShield-2 Library
 https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library.git|Contributed|SparkFun WiseChip HUD
 https://github.com/jorgemvc/MotoMamaLib.git|Contributed|MotoMama Library
+https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library.git|Contributed|SparkFun VCNL4040 Proximity Sensor Library
