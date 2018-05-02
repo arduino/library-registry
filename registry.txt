@@ -1635,3 +1635,4 @@ https://github.com/Sensirion/arduino-ess.git|Contributed|arduino-ess
 https://github.com/zoubworldArduino/Zeeprom.git|Contributed|ZEeprom
 https://github.com/zoubworldArduino/ZEncoder.git|Contributed|ZEncoder
 https://github.com/zoubworldArduino/ZSharpIR.git|Contributed|ZSharpIR Library
+https://github.com/zoubworldArduino/Zmotor3.git|Contributed|ZMotor3Library
