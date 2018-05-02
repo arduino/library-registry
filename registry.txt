@@ -1642,3 +1642,4 @@ https://github.com/zoubworldArduino/ZPCA9685.git|Contributed|ZPCA9685 Library
 https://github.com/zoubworldArduino/WireUtility.git|Contributed|WireUtility Library
 https://github.com/zoubworldArduino/PinExtender.git|Contributed|PinExtender Library
 https://github.com/zoubworldArduino/ZCmdMotor.git|Contributed|ZcmdMotor Library
+https://github.com/ubidots/ubidots-arduino-yun.git|Contributed|Ubidots Arduino YUN
