@@ -1628,3 +1628,4 @@ https://github.com/amperka/TroykaLight.git|Contributed|TroykaLight
 https://github.com/simonmonk/arduino_TEA5767.git|Contributed|ArduinoTEA5767
 https://github.com/jandrassy/StreamLib.git|Contributed|StreamLib
 https://github.com/M-Reimer/USBStatus.git|Contributed|USBStatus
+https://github.com/TridentTD/TridentTD_LineNotify.git|Contributed|TridentTD_Linenotify
