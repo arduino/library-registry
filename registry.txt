@@ -1645,3 +1645,4 @@ https://github.com/zoubworldArduino/ZCmdMotor.git|Contributed|ZcmdMotor Library
 https://github.com/ubidots/ubidots-arduino-yun.git|Contributed|Ubidots Arduino YUN
 https://github.com/pololu/jrk-g2-arduino.git|Contributed|JrkG2
 https://github.com/ssilverman/LiteOSCParser.git|Contributed|LiteOSCParser
+https://github.com/toxnico/DMOscillator.git|Contributed|DMOscillator
