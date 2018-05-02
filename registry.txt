@@ -1631,3 +1631,4 @@ https://github.com/M-Reimer/USBStatus.git|Contributed|USBStatus
 https://github.com/TridentTD/TridentTD_LineNotify.git|Contributed|TridentTD_Linenotify
 https://github.com/Locoduino/RingBuffer.git|Contributed|RingBuffer
 https://github.com/SeeedJP/Wio_3G_for_Arduino.git|Contributed|Wio 3G for Arduino
+https://github.com/Sensirion/arduino-ess.git|Contributed|arduino-ess
