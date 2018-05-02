@@ -1626,3 +1626,4 @@ https://github.com/Seeed-Studio/HDC1000.git|Contributed|Grove - Temperature And 
 https://github.com/toxnico/Timer.git|Contributed|DMTimer
 https://github.com/amperka/TroykaLight.git|Contributed|TroykaLight
 https://github.com/simonmonk/arduino_TEA5767.git|Contributed|ArduinoTEA5767
+https://github.com/jandrassy/StreamLib.git|Contributed|StreamLib
