@@ -1643,3 +1643,4 @@ https://github.com/zoubworldArduino/WireUtility.git|Contributed|WireUtility Libr
 https://github.com/zoubworldArduino/PinExtender.git|Contributed|PinExtender Library
 https://github.com/zoubworldArduino/ZCmdMotor.git|Contributed|ZcmdMotor Library
 https://github.com/ubidots/ubidots-arduino-yun.git|Contributed|Ubidots Arduino YUN
+https://github.com/pololu/jrk-g2-arduino.git|Contributed|JrkG2
