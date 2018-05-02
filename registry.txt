@@ -1644,3 +1644,4 @@ https://github.com/zoubworldArduino/PinExtender.git|Contributed|PinExtender Libr
 https://github.com/zoubworldArduino/ZCmdMotor.git|Contributed|ZcmdMotor Library
 https://github.com/ubidots/ubidots-arduino-yun.git|Contributed|Ubidots Arduino YUN
 https://github.com/pololu/jrk-g2-arduino.git|Contributed|JrkG2
+https://github.com/ssilverman/LiteOSCParser.git|Contributed|LiteOSCParser
