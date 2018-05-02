@@ -1639,3 +1639,4 @@ https://github.com/zoubworldArduino/Zmotor3.git|Contributed|ZMotor3Library
 https://github.com/zoubworldArduino/ZMotor2.git|Contributed|ZMotor2 Library
 https://github.com/zoubworldArduino/ZMCP23017.git|Contributed|ZMCP23017 Library
 https://github.com/zoubworldArduino/ZPCA9685.git|Contributed|ZPCA9685 Library
+https://github.com/zoubworldArduino/WireUtility.git|Contributed|WireUtility Library
