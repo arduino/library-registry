@@ -1633,3 +1633,4 @@ https://github.com/Locoduino/RingBuffer.git|Contributed|RingBuffer
 https://github.com/SeeedJP/Wio_3G_for_Arduino.git|Contributed|Wio 3G for Arduino
 https://github.com/Sensirion/arduino-ess.git|Contributed|arduino-ess
 https://github.com/zoubworldArduino/Zeeprom.git|Contributed|ZEeprom
+https://github.com/zoubworldArduino/ZEncoder.git|Contributed|ZEncoder
