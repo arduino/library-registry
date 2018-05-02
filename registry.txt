@@ -1646,3 +1646,4 @@ https://github.com/ubidots/ubidots-arduino-yun.git|Contributed|Ubidots Arduino Y
 https://github.com/pololu/jrk-g2-arduino.git|Contributed|JrkG2
 https://github.com/ssilverman/LiteOSCParser.git|Contributed|LiteOSCParser
 https://github.com/toxnico/DMOscillator.git|Contributed|DMOscillator
+https://github.com/patou01/HC-SR04.git|Contributed|Ultrasonic_hc_sr04
