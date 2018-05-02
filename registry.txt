@@ -1637,3 +1637,4 @@ https://github.com/zoubworldArduino/ZEncoder.git|Contributed|ZEncoder
 https://github.com/zoubworldArduino/ZSharpIR.git|Contributed|ZSharpIR Library
 https://github.com/zoubworldArduino/Zmotor3.git|Contributed|ZMotor3Library
 https://github.com/zoubworldArduino/ZMotor2.git|Contributed|ZMotor2 Library
+https://github.com/zoubworldArduino/ZMCP23017.git|Contributed|ZMCP23017 Library
