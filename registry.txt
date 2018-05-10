@@ -1655,3 +1655,4 @@ https://github.com/sparkfun/SparkFun_PCA9536_Arduino_Library.git|Contributed|Spa
 https://github.com/adafruit/Adafruit_TouchScreen.git|Contributed|Adafruit TouchScreen
 https://github.com/jbliesener/FlightSimOutputs.git|Contributed|FlightSimOutputs
 https://github.com/lewapek/sds-dust-sensors-arduino-library.git|Contributed|Nova Fitness Sds dust sensors library
+https://github.com/jenscski/DoubleResetDetect.git|Contributed|DoubleResetDetect
