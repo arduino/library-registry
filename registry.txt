@@ -1649,3 +1649,4 @@ https://github.com/toxnico/DMOscillator.git|Contributed|DMOscillator
 https://github.com/patou01/HC-SR04.git|Contributed|Ultrasonic_hc_sr04
 https://github.com/horihiro/esp8266-google-home-notifier.git|Contributed|esp8266-google-home-notifier
 https://github.com/LowPowerLab/RFM69.git|Contributed|RFM69_LowPowerLab
+https://github.com/mozilla-iot/webthing-esp8266.git|Contributed|webthing-esp8266
