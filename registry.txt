@@ -1654,3 +1654,4 @@ https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library.git|Contributed|S
 https://github.com/sparkfun/SparkFun_PCA9536_Arduino_Library.git|Contributed|SparkFun PCA9536 Arduino Library
 https://github.com/adafruit/Adafruit_TouchScreen.git|Contributed|Adafruit TouchScreen
 https://github.com/jbliesener/FlightSimOutputs.git|Contributed|FlightSimOutputs
+https://github.com/lewapek/sds-dust-sensors-arduino-library.git|Contributed|Nova Fitness Sds dust sensors library
