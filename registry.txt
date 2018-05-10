@@ -1648,3 +1648,4 @@ https://github.com/ssilverman/LiteOSCParser.git|Contributed|LiteOSCParser
 https://github.com/toxnico/DMOscillator.git|Contributed|DMOscillator
 https://github.com/patou01/HC-SR04.git|Contributed|Ultrasonic_hc_sr04
 https://github.com/horihiro/esp8266-google-home-notifier.git|Contributed|esp8266-google-home-notifier
+https://github.com/LowPowerLab/RFM69.git|Contributed|RFM69_LowPowerLab
