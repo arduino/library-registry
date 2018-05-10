@@ -1658,3 +1658,4 @@ https://github.com/lewapek/sds-dust-sensors-arduino-library.git|Contributed|Nova
 https://github.com/jenscski/DoubleResetDetect.git|Contributed|DoubleResetDetect
 https://github.com/AloriumTechnology/XLR8HardwareSerial.git|Contributed|XLR8HardwareSerial
 https://github.com/gbrd/arduino-teleinfo.git|Contributed|Teleinfo
+https://github.com/kitesurfer1404/WS2812FX.git|Contributed|WS2812FX
