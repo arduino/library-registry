@@ -1650,3 +1650,4 @@ https://github.com/patou01/HC-SR04.git|Contributed|Ultrasonic_hc_sr04
 https://github.com/horihiro/esp8266-google-home-notifier.git|Contributed|esp8266-google-home-notifier
 https://github.com/LowPowerLab/RFM69.git|Contributed|RFM69_LowPowerLab
 https://github.com/mozilla-iot/webthing-esp8266.git|Contributed|webthing-esp8266
+https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library.git|Contributed|SparkFun BH1749NUC Arduino Library
