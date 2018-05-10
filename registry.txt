@@ -1657,3 +1657,4 @@ https://github.com/jbliesener/FlightSimOutputs.git|Contributed|FlightSimOutputs
 https://github.com/lewapek/sds-dust-sensors-arduino-library.git|Contributed|Nova Fitness Sds dust sensors library
 https://github.com/jenscski/DoubleResetDetect.git|Contributed|DoubleResetDetect
 https://github.com/AloriumTechnology/XLR8HardwareSerial.git|Contributed|XLR8HardwareSerial
+https://github.com/gbrd/arduino-teleinfo.git|Contributed|Teleinfo
