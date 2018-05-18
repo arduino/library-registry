@@ -1663,3 +1663,4 @@ https://github.com/2dom/PxMatrix.git|Contributed|PxMatrix LED MATRIX for Adafrui
 https://github.com/JChristensen/JC_Button.git|Contributed|JC_Button
 https://github.com/amperka/TroykaAccelerometer.git|Contributed|TroykaAccelerometer
 https://github.com/AloriumTechnology/XLR8Wire.git|Contributed|XLR8Wire
+https://github.com/AloriumTechnology/XLR8AddrPack.git|Contributed|XLR8AddrPack
