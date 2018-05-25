@@ -1673,3 +1673,4 @@ https://github.com/sparkfun/SparkFun_VEML6075_Arduino_Library.git|Contributed|Sp
 https://github.com/madhephaestus/TeensySimplePacketComs.git|Contributed|TeensySimplePacketComs
 https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library.git|Contributed|SparkFun SCD30 Arduino Library
 https://github.com/adafruit/Adafruit_NeoPXL8.git|Contributed|Adafruit NeoPXL8
+https://github.com/lucasromeiro/DropboxManager.git|Contributed|DropboxManager
