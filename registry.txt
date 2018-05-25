@@ -1671,3 +1671,4 @@ https://github.com/stemi-education/stemi-hexapod.git|Contributed|stemi-hexapod
 https://github.com/jaean123/DeadReckoning-library.git|Contributed|DeadReckoning-library
 https://github.com/sparkfun/SparkFun_VEML6075_Arduino_Library.git|Contributed|SparkFun VEML6075 Arduino Library
 https://github.com/madhephaestus/TeensySimplePacketComs.git|Contributed|TeensySimplePacketComs
+https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library.git|Contributed|SparkFun SCD30 Arduino Library
