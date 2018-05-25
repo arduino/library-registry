@@ -1667,3 +1667,4 @@ https://github.com/Marzogh/SPIMemory.git|Contributed|SPIMemory
 https://github.com/pierremolinaro/acan.git|Contributed|MoliCAN
 https://github.com/just-oblivious/arduino-ibustrx.git|Contributed|IbusTrx
 https://github.com/Tvde1/ConfigTool.git|Contributed|ConfigTool
+https://github.com/stemi-education/stemi-hexapod.git|Contributed|stemi-hexapod
