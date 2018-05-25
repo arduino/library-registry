@@ -1675,3 +1675,4 @@ https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library.git|Contributed|Spark
 https://github.com/adafruit/Adafruit_NeoPXL8.git|Contributed|Adafruit NeoPXL8
 https://github.com/lucasromeiro/DropboxManager.git|Contributed|DropboxManager
 https://github.com/Tvde1/WiFiPicker.git|Contributed|WiFi Picker
+https://github.com/toxnico/DMStepper.git|Contributed|DMStepper
