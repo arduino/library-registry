@@ -1669,3 +1669,4 @@ https://github.com/just-oblivious/arduino-ibustrx.git|Contributed|IbusTrx
 https://github.com/Tvde1/ConfigTool.git|Contributed|ConfigTool
 https://github.com/stemi-education/stemi-hexapod.git|Contributed|stemi-hexapod
 https://github.com/jaean123/DeadReckoning-library.git|Contributed|DeadReckoning-library
+https://github.com/sparkfun/SparkFun_VEML6075_Arduino_Library.git|Contributed|SparkFun VEML6075 Arduino Library
