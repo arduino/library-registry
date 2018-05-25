@@ -1672,3 +1672,4 @@ https://github.com/jaean123/DeadReckoning-library.git|Contributed|DeadReckoning-
 https://github.com/sparkfun/SparkFun_VEML6075_Arduino_Library.git|Contributed|SparkFun VEML6075 Arduino Library
 https://github.com/madhephaestus/TeensySimplePacketComs.git|Contributed|TeensySimplePacketComs
 https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library.git|Contributed|SparkFun SCD30 Arduino Library
+https://github.com/adafruit/Adafruit_NeoPXL8.git|Contributed|Adafruit NeoPXL8
