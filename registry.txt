@@ -1665,3 +1665,4 @@ https://github.com/AloriumTechnology/XLR8Wire.git|Contributed|XLR8Wire
 https://github.com/AloriumTechnology/XLR8AddrPack.git|Contributed|XLR8AddrPack
 https://github.com/Marzogh/SPIMemory.git|Contributed|SPIMemory
 https://github.com/pierremolinaro/acan.git|Contributed|MoliCAN
+https://github.com/just-oblivious/arduino-ibustrx.git|Contributed|IbusTrx
