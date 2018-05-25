@@ -848,7 +848,7 @@ https://github.com/maly/edushield.git|Contributed|EduShield
 https://github.com/connornishijima/Lixie-arduino.git|Contributed|Lixie
 https://github.com/descampsa/A4963.git|Contributed|A4963
 https://github.com/DFRobot/DFRobotDFPlayerMini.git|Contributed|DFRobotDFPlayerMini
-https://github.com/elyons/pinduino.git|Contributed|pinduino
+https://github.com/elyons/pinduino.git|Contributed|Pinduino
 https://github.com/nadavmatalon/WatchDog.git|Contributed|WatchDog
 https://github.com/myconstellation/constellation-arduino.git|Contributed|Constellation
 https://github.com/sakuraio/SakuraIOArduino.git|Contributed|SakuraIO
@@ -1676,3 +1676,4 @@ https://github.com/adafruit/Adafruit_NeoPXL8.git|Contributed|Adafruit NeoPXL8
 https://github.com/lucasromeiro/DropboxManager.git|Contributed|DropboxManager
 https://github.com/Tvde1/WiFiPicker.git|Contributed|WiFi Picker
 https://github.com/toxnico/DMStepper.git|Contributed|DMStepper
+https://github.com/kosme/timestamp32bits.git|Contributed|timestamp32bits
