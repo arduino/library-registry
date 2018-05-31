@@ -39,6 +39,7 @@ https://github.com/arduino-libraries/ArduinoSound.git|Arduino|ArduinoSound
 https://github.com/arduino-libraries/ArduinoMDNS.git|Arduino|ArduinoMDNS
 https://github.com/arduino-libraries/MKRGSM.git|Arduino|MKRGSM
 https://github.com/arduino-libraries/MKRWAN.git|Arduino|MKRWAN
+https://github.com/arduino-libraries/MKRMotorCarrier|Arduino|MKRMotorCarrier
 
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
