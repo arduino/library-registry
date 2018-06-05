@@ -1689,3 +1689,4 @@ https://github.com/fitzterra/ServoOsc.git|Contributed|ServoOsc
 https://github.com/agmangas/SerialRFID.git|Contributed|SerialRFID
 https://github.com/BlueAndi/vscp-arduino.git|Contributed|VSCP
 https://github.com/arpruss/vectordisplayarduino.git|Contributed|VectorDisplay
+https://github.com/schinken/PPMEncoder.git|Contributed|PPMEncoder
