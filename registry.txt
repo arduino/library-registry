@@ -1678,3 +1678,4 @@ https://github.com/lucasromeiro/DropboxManager.git|Contributed|DropboxManager
 https://github.com/Tvde1/WiFiPicker.git|Contributed|WiFi Picker
 https://github.com/toxnico/DMStepper.git|Contributed|DMStepper
 https://github.com/kosme/timestamp32bits.git|Contributed|timestamp32bits
+https://github.com/jaean123/SnappyXO-PreciseMovement-library.git|Contributed|SnappyXO-PreciseMovement-library
