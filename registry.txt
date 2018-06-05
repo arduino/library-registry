@@ -1685,3 +1685,4 @@ https://github.com/pololu/vl53l1x-arduino.git|Contributed|VL53L1X
 https://github.com/sparkfun/SparkFun_LPS25HB_Arduino_Library.git|Contributed|SparkFun LPS25HB Pressure Sensor Library
 https://github.com/eNBeWe/MiCS6814-I2C-Library.git|Contributed|MiCS6814-I2C
 https://github.com/YuriiSalimov/AD_Sensors.git|Contributed|AD_Sensors
+https://github.com/fitzterra/ServoOsc.git|Contributed|ServoOsc
