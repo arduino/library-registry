@@ -1687,3 +1687,4 @@ https://github.com/eNBeWe/MiCS6814-I2C-Library.git|Contributed|MiCS6814-I2C
 https://github.com/YuriiSalimov/AD_Sensors.git|Contributed|AD_Sensors
 https://github.com/fitzterra/ServoOsc.git|Contributed|ServoOsc
 https://github.com/agmangas/SerialRFID.git|Contributed|SerialRFID
+https://github.com/BlueAndi/vscp-arduino.git|Contributed|VSCP
