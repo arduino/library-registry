@@ -1688,3 +1688,4 @@ https://github.com/YuriiSalimov/AD_Sensors.git|Contributed|AD_Sensors
 https://github.com/fitzterra/ServoOsc.git|Contributed|ServoOsc
 https://github.com/agmangas/SerialRFID.git|Contributed|SerialRFID
 https://github.com/BlueAndi/vscp-arduino.git|Contributed|VSCP
+https://github.com/arpruss/vectordisplayarduino.git|Contributed|VectorDisplay
