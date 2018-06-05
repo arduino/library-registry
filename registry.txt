@@ -1682,3 +1682,4 @@ https://github.com/jaean123/SnappyXO-PreciseMovement-library.git|Contributed|Sna
 https://github.com/goncalomb/KeyMatrix.git|Contributed|KeyMatrix
 https://github.com/end2endzone/NonBlockingRTTTL.git|Contributed|NonBlockingRTTTL
 https://github.com/pololu/vl53l1x-arduino.git|Contributed|VL53L1X
+https://github.com/sparkfun/SparkFun_LPS25HB_Arduino_Library.git|Contributed|SparkFun LPS25HB Pressure Sensor Library
