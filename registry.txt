@@ -1681,3 +1681,4 @@ https://github.com/kosme/timestamp32bits.git|Contributed|timestamp32bits
 https://github.com/jaean123/SnappyXO-PreciseMovement-library.git|Contributed|SnappyXO-PreciseMovement-library
 https://github.com/goncalomb/KeyMatrix.git|Contributed|KeyMatrix
 https://github.com/end2endzone/NonBlockingRTTTL.git|Contributed|NonBlockingRTTTL
+https://github.com/pololu/vl53l1x-arduino.git|Contributed|VL53L1X
