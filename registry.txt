@@ -1691,3 +1691,4 @@ https://github.com/BlueAndi/vscp-arduino.git|Contributed|VSCP
 https://github.com/arpruss/vectordisplayarduino.git|Contributed|VectorDisplay
 https://github.com/schinken/PPMEncoder.git|Contributed|PPMEncoder
 https://github.com/QuadrifoglioVerde/DL_PAC_NK76.git|Contributed|DL_PAC_NK76
+https://github.com/lecsDragos/Arduino_SegmentDisplay_CD4511B.git|Contributed|CD4511B Seven Segment Display Driver
