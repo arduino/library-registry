@@ -758,7 +758,6 @@ https://github.com/JobNoorman/PmodClsArduino.git|Contributed|PmodCls
 https://github.com/nadavmatalon/MCP9802.git|Contributed|MCP9802
 https://github.com/FancyFoxGems/HalfStepper.git|Contributed|HalfStepper
 https://github.com/pubnub/arduino.git|Contributed|Pubnub
-https://github.com/garmin/LIDARLite_v3_Arduino_Library.git|Contributed|LIDAR-Lite v3
 https://github.com/Links2004/arduinoVNC.git|Contributed|arduinoVNC
 https://github.com/IngeniaMC/Ingenia-Serial-Servo-Drive-Library.git|Contributed|Ingenia Serial Servo Drive Library
 
@@ -1700,3 +1699,4 @@ https://github.com/Annikken/AndeeMobile.git|Contributed|AndeeMobile
 https://github.com/MajicDesigns/MD_MAXPanel.git|Contributed|MD_MAXPanel
 https://github.com/AloriumTechnology/UbidotsXLR8.git|Contributed|UbidotsXLR8
 https://github.com/slavaza/SuperButton.git|Contributed|SuperButton
+https://github.com/garmin/LIDARLite_Arduino_Library.git|Contributed|LIDAR-Lite
