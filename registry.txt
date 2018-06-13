@@ -1697,3 +1697,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library.git|Contrib
 https://github.com/HullabalooRobotics/Hyperduino-Library.git|Contributed|Hyperduino Library
 https://github.com/Manghao/LM35.git|Contributed|LM35 Sensor
 https://github.com/Annikken/AndeeMobile.git|Contributed|AndeeMobile
+https://github.com/MajicDesigns/MD_MAXPanel.git|Contributed|MD_MAXPanel
