@@ -1693,3 +1693,4 @@ https://github.com/schinken/PPMEncoder.git|Contributed|PPMEncoder
 https://github.com/QuadrifoglioVerde/DL_PAC_NK76.git|Contributed|DL_PAC_NK76
 https://github.com/lecsDragos/Arduino_SegmentDisplay_CD4511B.git|Contributed|CD4511B Seven Segment Display Driver
 https://github.com/ihormelnyk/opentherm_library.git|Contributed|OpenTherm Library
+https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library.git|Contributed|SparkFun Qwiic LED Stick Library
