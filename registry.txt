@@ -1698,3 +1698,4 @@ https://github.com/HullabalooRobotics/Hyperduino-Library.git|Contributed|Hyperdu
 https://github.com/Manghao/LM35.git|Contributed|LM35 Sensor
 https://github.com/Annikken/AndeeMobile.git|Contributed|AndeeMobile
 https://github.com/MajicDesigns/MD_MAXPanel.git|Contributed|MD_MAXPanel
+https://github.com/AloriumTechnology/UbidotsXLR8.git|Contributed|UbidotsXLR8
