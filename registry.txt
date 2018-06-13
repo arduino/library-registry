@@ -1696,3 +1696,4 @@ https://github.com/ihormelnyk/opentherm_library.git|Contributed|OpenTherm Librar
 https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library.git|Contributed|SparkFun Qwiic LED Stick Library
 https://github.com/HullabalooRobotics/Hyperduino-Library.git|Contributed|Hyperduino Library
 https://github.com/Manghao/LM35.git|Contributed|LM35 Sensor
+https://github.com/Annikken/AndeeMobile.git|Contributed|AndeeMobile
