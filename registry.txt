@@ -1695,3 +1695,4 @@ https://github.com/lecsDragos/Arduino_SegmentDisplay_CD4511B.git|Contributed|CD4
 https://github.com/ihormelnyk/opentherm_library.git|Contributed|OpenTherm Library
 https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library.git|Contributed|SparkFun Qwiic LED Stick Library
 https://github.com/HullabalooRobotics/Hyperduino-Library.git|Contributed|Hyperduino Library
+https://github.com/Manghao/LM35.git|Contributed|LM35 Sensor
