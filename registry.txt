@@ -1702,3 +1702,4 @@ https://github.com/slavaza/SuperButton.git|Contributed|SuperButton
 https://github.com/garmin/LIDARLite_Arduino_Library.git|Contributed|LIDAR-Lite
 https://github.com/elkrem/koyn.git|Contributed|Koyn
 https://github.com/Protocentral/Protocentral_ADS1220.git|Contributed|ProtoCentral ADS1220 24-bit ADC Library
+https://github.com/CytronTechnologies/Cytron_Servo_Shield_Library.git|Contributed|Cytron Servo Shield
