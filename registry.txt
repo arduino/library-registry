@@ -1711,3 +1711,4 @@ https://github.com/taligentx/dscKeybusInterface.git|Contributed|DSC Keybus Inter
 https://github.com/stm32duino/STM32RTC.git|Contributed|STM32duino RTC
 https://github.com/stm32duino/STM32LowPower.git|Contributed|STM32duino Low Power
 https://github.com/qub1750ul/Arduino_HTTP.git|Contributed|HTTP
+https://github.com/adafruit/Adafruit_ZeroI2S.git|Contributed|Adafruit Zero I2S Library
