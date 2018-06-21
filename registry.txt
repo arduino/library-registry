@@ -1705,3 +1705,4 @@ https://github.com/Protocentral/Protocentral_ADS1220.git|Contributed|ProtoCentra
 https://github.com/CytronTechnologies/Cytron_Servo_Shield_Library.git|Contributed|Cytron Servo Shield
 https://github.com/hznupeter/blynk-library-for-chinese.git|Contributed|Blynk For Chinese
 https://github.com/RoboticsBrno/ArduinoLearningKitStarter-library.git|Contributed|ArduinoLearningKitStarter
+https://github.com/maxpautsch/SvgParser.git|Contributed|SvgParser
