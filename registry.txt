@@ -1700,3 +1700,4 @@ https://github.com/MajicDesigns/MD_MAXPanel.git|Contributed|MD_MAXPanel
 https://github.com/AloriumTechnology/UbidotsXLR8.git|Contributed|UbidotsXLR8
 https://github.com/slavaza/SuperButton.git|Contributed|SuperButton
 https://github.com/garmin/LIDARLite_Arduino_Library.git|Contributed|LIDAR-Lite
+https://github.com/elkrem/koyn.git|Contributed|Koyn
