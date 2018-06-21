@@ -1709,3 +1709,4 @@ https://github.com/maxpautsch/SvgParser.git|Contributed|SvgParser
 https://github.com/madhephaestus/Esp32SimplePacketComs.git|Contributed|Esp32SimplePacketComs
 https://github.com/taligentx/dscKeybusInterface.git|Contributed|DSC Keybus Interface
 https://github.com/stm32duino/STM32RTC.git|Contributed|STM32duino RTC
+https://github.com/stm32duino/STM32LowPower.git|Contributed|STM32duino Low Power
