@@ -1706,3 +1706,4 @@ https://github.com/CytronTechnologies/Cytron_Servo_Shield_Library.git|Contribute
 https://github.com/hznupeter/blynk-library-for-chinese.git|Contributed|Blynk For Chinese
 https://github.com/RoboticsBrno/ArduinoLearningKitStarter-library.git|Contributed|ArduinoLearningKitStarter
 https://github.com/maxpautsch/SvgParser.git|Contributed|SvgParser
+https://github.com/madhephaestus/Esp32SimplePacketComs.git|Contributed|Esp32SimplePacketComs
