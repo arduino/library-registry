@@ -1716,3 +1716,4 @@ https://github.com/durydevelop/arduino-lib-oled.git|Contributed|OLED SSD1306 - S
 https://github.com/mozilla-iot/webthing-arduino.git|Contributed|webthing-arduino
 https://github.com/amirchev/VariableTimedAction.git|Contributed|VariableTimedAction
 https://github.com/hackair-project/hackAir-Arduino.git|Contributed|hackAIR
+https://github.com/maxpautsch/mPower.git|Contributed|mPower
