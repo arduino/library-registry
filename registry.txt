@@ -1717,3 +1717,4 @@ https://github.com/mozilla-iot/webthing-arduino.git|Contributed|webthing-arduino
 https://github.com/amirchev/VariableTimedAction.git|Contributed|VariableTimedAction
 https://github.com/hackair-project/hackAir-Arduino.git|Contributed|hackAIR
 https://github.com/maxpautsch/mPower.git|Contributed|mPower
+https://github.com/xoseperez/eeprom32_rotate.git|Contributed|EEPROM32_Rotate
