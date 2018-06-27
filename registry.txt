@@ -1725,3 +1725,4 @@ https://bitbucket.org/xoseperez/fauxmoesp.git|Contributed|FauxmoESP
 https://github.com/jo-seph/SDS011_vers.git|Contributed|SDS011_vers
 https://github.com/dmadison/NintendoExtensionCtrl.git|Contributed|Nintendo Extension Ctrl
 https://github.com/ethanjli/liquid-handling-robotics.git|Contributed|Liquid Handling Robotics
+https://github.com/sparkfun/SparkFun_QwiicRF_Library.git|Contributed|SparkFun QwiicRF
