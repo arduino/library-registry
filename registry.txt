@@ -1722,3 +1722,4 @@ https://github.com/xoseperez/eeprom_rotate.git|Contributed|EEPROM_Rotate
 https://github.com/xoseperez/justwifi.git|Contributed|JustWifi
 https://bitbucket.org/xoseperez/debounceevent.git|Contributed|DebounceEvent
 https://bitbucket.org/xoseperez/fauxmoesp.git|Contributed|FauxmoESP
+https://github.com/jo-seph/SDS011_vers.git|Contributed|SDS011_vers
