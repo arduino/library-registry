@@ -1732,3 +1732,4 @@ https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library.git|Con
 https://github.com/suculent/thinx-aes-lib.git|Contributed|AESLib
 https://github.com/Stan-Reifel/TinyStepper_28BYJ_48.git|Contributed|TinyStepper_28BYJ_48
 https://github.com/8bitbuddhist/PixelMaestro.git|Contributed|PixelMaestro
+https://github.com/Stan-Reifel/FlexyStepper.git|Contributed|FlexyStepper
