@@ -1728,3 +1728,4 @@ https://github.com/ethanjli/liquid-handling-robotics.git|Contributed|Liquid Hand
 https://github.com/sparkfun/SparkFun_QwiicRF_Library.git|Contributed|SparkFun QwiicRF
 https://gitlab.com/xoan/escornabot-extlib.git|Contributed|EscornabotEXT
 https://github.com/RobolinkInc/RokitSmart.git|Contributed|RokitSmart
+https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library.git|Contributed|SparkFun WT2003S MP3 Decoder Library
