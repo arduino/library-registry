@@ -1734,3 +1734,4 @@ https://github.com/Stan-Reifel/TinyStepper_28BYJ_48.git|Contributed|TinyStepper_
 https://github.com/8bitbuddhist/PixelMaestro.git|Contributed|PixelMaestro
 https://github.com/Stan-Reifel/FlexyStepper.git|Contributed|FlexyStepper
 https://github.com/Stan-Reifel/SpeedyStepper.git|Contributed|SpeedyStepper
+https://github.com/amperka/AmperkaFET.git|Contributed|AmperkaFET
