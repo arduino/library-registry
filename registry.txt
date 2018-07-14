@@ -1744,3 +1744,4 @@ https://github.com/4dsystems/Picaso-Serial-Arduino-Library.git|Contributed|Picas
 https://github.com/4dsystems/Goldelox-Serial-Arduino-Library.git|Contributed|Goldelox-Serial-Arduino-Library
 https://github.com/4dsystems/ViSi-Genie-Arduino-Library.git|Contributed|genieArduino
 https://github.com/4dsystems/GFX4DIoD9.git|Contributed|GFX4DIoD9
+https://github.com/4dsystems/GFX4d.git|Contributed|GFX4d
