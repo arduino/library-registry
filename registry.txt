@@ -1749,3 +1749,4 @@ https://github.com/4dsystems/SOMOIoD.git|Contributed|SOMOIoD
 https://github.com/niccokunzmann/UC121902-TNARX-A.git|Contributed|UC121902-TNARX-A
 https://github.com/astuder/icp-101xx.git|Contributed|ICP-101xx Pressure Sensor Library
 https://github.com/tobiasschuerg/ESP8266_Influx_DB.git|Contributed|ESP8266 Influxdb
+https://github.com/sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library.git|Contributed|SparkFun HM1X Bluetooth Arduino Library
