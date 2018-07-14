@@ -1747,3 +1747,4 @@ https://github.com/4dsystems/GFX4DIoD9.git|Contributed|GFX4DIoD9
 https://github.com/4dsystems/GFX4d.git|Contributed|GFX4d
 https://github.com/4dsystems/SOMOIoD.git|Contributed|SOMOIoD
 https://github.com/niccokunzmann/UC121902-TNARX-A.git|Contributed|UC121902-TNARX-A
+https://github.com/astuder/icp-101xx.git|Contributed|ICP-101xx Pressure Sensor Library
