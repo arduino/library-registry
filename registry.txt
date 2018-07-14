@@ -1739,3 +1739,4 @@ https://github.com/amperka/AmperkaFET.git|Contributed|AmperkaFET
 https://github.com/kdhooper/arduino-CheapLCD.git|Contributed|CheapLCD
 https://github.com/ChipTechno/ESP8266OTA.git|Contributed|ESP8266OTA
 https://github.com/ChipTechno/WiFiMan.git|Contributed|WiFiMan
+https://github.com/4dsystems/Diablo16-Serial-Arduino-Library.git|Contributed|Diablo16-Serial-Arduino-Library
