@@ -1751,3 +1751,4 @@ https://github.com/astuder/icp-101xx.git|Contributed|ICP-101xx Pressure Sensor L
 https://github.com/tobiasschuerg/ESP8266_Influx_DB.git|Contributed|ESP8266 Influxdb
 https://github.com/sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library.git|Contributed|SparkFun HM1X Bluetooth Arduino Library
 https://github.com/remoteme/RemoteMeArduinoLibrary.git|Contributed|RemoteMe
+https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library.git|Contributed|SparkFun SGP30 Arduino Library
