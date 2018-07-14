@@ -1659,7 +1659,6 @@ https://github.com/jenscski/DoubleResetDetect.git|Contributed|DoubleResetDetect
 https://github.com/AloriumTechnology/XLR8HardwareSerial.git|Contributed|XLR8HardwareSerial
 https://github.com/gbrd/arduino-teleinfo.git|Contributed|Teleinfo
 https://github.com/kitesurfer1404/WS2812FX.git|Contributed|WS2812FX
-https://github.com/2dom/PxMatrix.git|Contributed|PxMatrix LED MATRIX for Adafruit GFX
 https://github.com/JChristensen/JC_Button.git|Contributed|JC_Button
 https://github.com/amperka/TroykaAccelerometer.git|Contributed|TroykaAccelerometer
 https://github.com/AloriumTechnology/XLR8Wire.git|Contributed|XLR8Wire
@@ -1753,3 +1752,4 @@ https://github.com/sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library.git|Contribu
 https://github.com/remoteme/RemoteMeArduinoLibrary.git|Contributed|RemoteMe
 https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library.git|Contributed|SparkFun SGP30 Arduino Library
 https://github.com/Jorropo/ds3231.git|Contributed|ds3231FS
+https://github.com/2dom/PxMatrix.git|Contributed|PxMatrix LED MATRIX library
