@@ -1742,3 +1742,4 @@ https://github.com/ChipTechno/WiFiMan.git|Contributed|WiFiMan
 https://github.com/4dsystems/Diablo16-Serial-Arduino-Library.git|Contributed|Diablo16-Serial-Arduino-Library
 https://github.com/4dsystems/Picaso-Serial-Arduino-Library.git|Contributed|Picaso-Serial-Arduino-Library
 https://github.com/4dsystems/Goldelox-Serial-Arduino-Library.git|Contributed|Goldelox-Serial-Arduino-Library
+https://github.com/4dsystems/ViSi-Genie-Arduino-Library.git|Contributed|genieArduino
