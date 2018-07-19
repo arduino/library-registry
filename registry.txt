@@ -42,6 +42,8 @@ https://github.com/arduino-libraries/MKRWAN.git|Arduino|MKRWAN
 https://github.com/arduino-libraries/MKRMotorCarrier.git|Arduino|MKRMotorCarrier
 https://github.com/arduino-libraries/BNO055.git|Arduino|BNO055
 https://github.com/arduino-libraries/WiFiNINA.git|Arduino|WiFiNINA
+https://github.com/arduino-libraries/ArduinoECCX08.git|Arduino|ArduinoECCX08
+https://github.com/arduino-libraries/ArduinoBearSSL.git|Arduino|ArduinoBearSSL
 
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
