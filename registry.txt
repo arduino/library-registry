@@ -1770,3 +1770,4 @@ https://github.com/MajicDesigns/MD_YX5300.git|Contributed|MD_YX5300
 https://github.com/AlexanderLL95/SerialUtil.git|Contributed|SerialUtil
 https://github.com/NicholasBerryman/USBControllerLib.git|Contributed|USBControllerLib
 https://github.com/aster94/SensorFusion.git|Contributed|SensorFusion
+https://github.com/Tdoe4321/FlexLibrary.git|Contributed|FlexLibrary
