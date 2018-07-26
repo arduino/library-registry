@@ -1757,3 +1757,4 @@ https://github.com/Jorropo/ds3231.git|Contributed|ds3231FS
 https://github.com/2dom/PxMatrix.git|Contributed|PxMatrix LED MATRIX library
 https://github.com/danidask/MatrizLed.git|Contributed|MatrizLed
 https://github.com/Seeed-Studio/Multi_Channel_Relay_Arduino_Library.git|Contributed|Multi Channel Relay Arduino Library
+https://github.com/adafruit/Adafruit_EPD.git|Contributed|Adafruit EPD
