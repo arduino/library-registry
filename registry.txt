@@ -1779,3 +1779,4 @@ https://github.com/m2m-solutions/M2M_TLV.git|Contributed|M2M Solutions TLV Libra
 https://github.com/witnessmenow/arduino-kickstarter-stats.git|Contributed|KickstarterStats
 https://github.com/bolderflight/AMS5915.git|Contributed|AMS5915
 https://github.com/bolderflight/AMS5812.git|Contributed|AMS5812
+https://github.com/bolderflight/MPU9250.git|Contributed|MPU9250
