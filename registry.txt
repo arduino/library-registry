@@ -1762,3 +1762,4 @@ https://github.com/pololu/dual-tb9051ftg-motor-shield.git|Contributed|DualTB9051
 https://github.com/bricofoy/yasm.git|Contributed|YASM
 https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library.git|Contributed|SparkFun RGB OLED 64x64 Library
 https://github.com/PeterEmbedded/BH1750FVI.git|Contributed|BH1750FVI
+https://github.com/bblanchon/ArduinoTrace.git|Contributed|ArduinoTrace
