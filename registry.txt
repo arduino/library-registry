@@ -1775,3 +1775,4 @@ https://github.com/ropg/M5ez.git|Contributed|M5ez
 https://github.com/m2m-solutions/M2M_Boards.git|Contributed|M2M Solutions Purplepoint Boards Library
 https://github.com/m2m-solutions/M2M_Logger.git|Contributed|M2M Solutions Logger Library
 https://github.com/m2m-solutions/M2M_Quectel.git|Contributed|M2M Solutions Quectel Library
+https://github.com/m2m-solutions/M2M_TLV.git|Contributed|M2M Solutions TLV Library
