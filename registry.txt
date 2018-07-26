@@ -1766,3 +1766,4 @@ https://github.com/bblanchon/ArduinoTrace.git|Contributed|ArduinoTrace
 https://github.com/eecharlie/MatrixMath.git|Contributed|MatrixMath
 https://github.com/aster94/GoProControl.git|Contributed|GoProControl
 https://github.com/neosarchizo/pm2008_i2c.git|Contributed|PM2008 I2C
+https://github.com/MajicDesigns/MD_YX5300.git|Contributed|MD_YX5300
