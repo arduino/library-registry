@@ -1776,3 +1776,4 @@ https://github.com/m2m-solutions/M2M_Boards.git|Contributed|M2M Solutions Purple
 https://github.com/m2m-solutions/M2M_Logger.git|Contributed|M2M Solutions Logger Library
 https://github.com/m2m-solutions/M2M_Quectel.git|Contributed|M2M Solutions Quectel Library
 https://github.com/m2m-solutions/M2M_TLV.git|Contributed|M2M Solutions TLV Library
+https://github.com/witnessmenow/arduino-kickstarter-stats.git|Contributed|KickstarterStats
