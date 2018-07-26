@@ -1759,3 +1759,4 @@ https://github.com/danidask/MatrizLed.git|Contributed|MatrizLed
 https://github.com/Seeed-Studio/Multi_Channel_Relay_Arduino_Library.git|Contributed|Multi Channel Relay Arduino Library
 https://github.com/adafruit/Adafruit_EPD.git|Contributed|Adafruit EPD
 https://github.com/pololu/dual-tb9051ftg-motor-shield.git|Contributed|DualTB9051FTGMotorShield
+https://github.com/bricofoy/yasm.git|Contributed|YASM
