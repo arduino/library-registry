@@ -1773,3 +1773,4 @@ https://github.com/aster94/SensorFusion.git|Contributed|SensorFusion
 https://github.com/Tdoe4321/FlexLibrary.git|Contributed|FlexLibrary
 https://github.com/ropg/M5ez.git|Contributed|M5ez
 https://github.com/m2m-solutions/M2M_Boards.git|Contributed|M2M Solutions Purplepoint Boards Library
+https://github.com/m2m-solutions/M2M_Logger.git|Contributed|M2M Solutions Logger Library
