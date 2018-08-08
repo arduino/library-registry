@@ -1789,3 +1789,4 @@ https://github.com/m2m-solutions/M2M_MiraOne.git|Contributed|M2M Solutions MiraO
 https://github.com/bolderflight/BME280.git|Contributed|Bolder Flight Systems BME280
 https://github.com/salvadorrueda/SerialMP3Player.git|Contributed|SerialMP3Player
 https://github.com/bolderflight/AMS5812.git|Contributed|Bolder Flight Systems AMS5812
+https://github.com/bolderflight/AMS5915.git|Contributed|Bolder Flight Systems AMS5915
