@@ -1802,3 +1802,4 @@ https://github.com/datacute/Tiny4kOLED.git|Contributed|Tiny4kOLED
 https://github.com/Bodmer/TFT_eSPI.git|Contributed|TFT_eSPI
 https://github.com/MatrixOrbital/MatrixOrbitalGTTClientLibrary.git|Contributed|GTT
 https://github.com/evivetoolkit/evive-Library.git|Contributed|evive
+https://github.com/amperka/TroykaI2CHub.git|Contributed|TroykaI2CHub
