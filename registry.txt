@@ -1784,3 +1784,4 @@ https://github.com/witnessmenow/arduino-kickstarter-stats.git|Contributed|Kickst
 https://github.com/bolderflight/AMS5915.git|Contributed|AMS5915
 https://github.com/bolderflight/AMS5812.git|Contributed|AMS5812
 https://github.com/bolderflight/MPU9250.git|Contributed|MPU9250
+https://github.com/codewrite/arduino-capacitor.git|Contributed|Capacitor
