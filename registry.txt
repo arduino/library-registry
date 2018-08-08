@@ -1794,3 +1794,4 @@ https://github.com/njh/EtherCard.git|Contributed|EtherCard
 https://github.com/Losant/losant-mqtt-arduino.git|Contributed|losant-mqtt-arduino
 https://github.com/bolderflight/SBUS.git|Contributed|Bolder Flight Systems SBUS
 https://github.com/nyampass/ArduinoESPAT-Library.git|Contributed|ArduinoESPAT
+https://github.com/bolderflight/UBLOX.git|Contributed|Bolder Flight Systems UBLOX
