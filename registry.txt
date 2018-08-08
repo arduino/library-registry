@@ -45,6 +45,10 @@ https://github.com/arduino-libraries/WiFiNINA.git|Arduino|WiFiNINA
 https://github.com/arduino-libraries/ArduinoECCX08.git|Arduino|ArduinoECCX08
 https://github.com/arduino-libraries/ArduinoBearSSL.git|Arduino|ArduinoBearSSL
 
+https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
+https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
+https://github.com/vidor-libraries/VidorBoot.git|Arduino|VidorBoot
+
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
 https://github.com/arduino-libraries/Ciao.git|Arduino|Ciao
