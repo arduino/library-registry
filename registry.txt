@@ -1781,9 +1781,6 @@ https://github.com/m2m-solutions/M2M_Logger.git|Contributed|M2M Solutions Logger
 https://github.com/m2m-solutions/M2M_Quectel.git|Contributed|M2M Solutions Quectel Library
 https://github.com/m2m-solutions/M2M_TLV.git|Contributed|M2M Solutions TLV Library
 https://github.com/witnessmenow/arduino-kickstarter-stats.git|Contributed|KickstarterStats
-https://github.com/bolderflight/AMS5915.git|Contributed|AMS5915
-https://github.com/bolderflight/AMS5812.git|Contributed|AMS5812
-https://github.com/bolderflight/MPU9250.git|Contributed|MPU9250
 https://github.com/codewrite/arduino-capacitor.git|Contributed|Capacitor
 https://github.com/m2m-solutions/M2M_MiraOne.git|Contributed|M2M Solutions MiraOne Library
 https://github.com/bolderflight/BME280.git|Contributed|Bolder Flight Systems BME280
