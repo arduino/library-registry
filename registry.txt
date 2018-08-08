@@ -1787,3 +1787,4 @@ https://github.com/bolderflight/MPU9250.git|Contributed|MPU9250
 https://github.com/codewrite/arduino-capacitor.git|Contributed|Capacitor
 https://github.com/m2m-solutions/M2M_MiraOne.git|Contributed|M2M Solutions MiraOne Library
 https://github.com/bolderflight/BME280.git|Contributed|Bolder Flight Systems BME280
+https://github.com/salvadorrueda/SerialMP3Player.git|Contributed|SerialMP3Player
