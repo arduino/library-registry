@@ -1791,3 +1791,4 @@ https://github.com/bolderflight/MPU9250.git|Contributed|Bolder Flight Systems MP
 https://github.com/Naguissa/uEEPROMLib.git|Contributed|uEEPROMLib
 https://github.com/F4GOJ/AD9850SPI.git|Contributed|AD9850SPI
 https://github.com/njh/EtherCard.git|Contributed|EtherCard
+https://github.com/Losant/losant-mqtt-arduino.git|Contributed|losant-mqtt-arduino
