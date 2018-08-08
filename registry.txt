@@ -1789,3 +1789,4 @@ https://github.com/bolderflight/AMS5812.git|Contributed|Bolder Flight Systems AM
 https://github.com/bolderflight/AMS5915.git|Contributed|Bolder Flight Systems AMS5915
 https://github.com/bolderflight/MPU9250.git|Contributed|Bolder Flight Systems MPU9250
 https://github.com/Naguissa/uEEPROMLib.git|Contributed|uEEPROMLib
+https://github.com/F4GOJ/AD9850SPI.git|Contributed|AD9850SPI
