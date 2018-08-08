@@ -1799,3 +1799,4 @@ https://github.com/kyuseok-oh/ArduinoThingsOfValueSDK.git|Contributed|ThingsOfVa
 https://github.com/TridentTD/TridentTD_EasyFreeRTOS32.git|Contributed|TridentTD_EasyFreeRTOS32
 https://github.com/amirchev/EZPROM.git|Contributed|EZPROM
 https://github.com/datacute/Tiny4kOLED.git|Contributed|Tiny4kOLED
+https://github.com/Bodmer/TFT_eSPI.git|Contributed|TFT_eSPI
