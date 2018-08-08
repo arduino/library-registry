@@ -1797,3 +1797,4 @@ https://github.com/nyampass/ArduinoESPAT-Library.git|Contributed|ArduinoESPAT
 https://github.com/bolderflight/UBLOX.git|Contributed|Bolder Flight Systems UBLOX
 https://github.com/kyuseok-oh/ArduinoThingsOfValueSDK.git|Contributed|ThingsOfValue SDK for Arduino
 https://github.com/TridentTD/TridentTD_EasyFreeRTOS32.git|Contributed|TridentTD_EasyFreeRTOS32
+https://github.com/amirchev/EZPROM.git|Contributed|EZPROM
