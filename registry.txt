@@ -1804,3 +1804,4 @@ https://github.com/MatrixOrbital/MatrixOrbitalGTTClientLibrary.git|Contributed|G
 https://github.com/evivetoolkit/evive-Library.git|Contributed|evive
 https://github.com/amperka/TroykaI2CHub.git|Contributed|TroykaI2CHub
 https://github.com/bxparks/AceRoutine.git|Contributed|AceRoutine
+https://github.com/Annikken/EasyAndee.git|Contributed|EasyAndee
