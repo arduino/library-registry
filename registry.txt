@@ -143,7 +143,7 @@ https://github.com/adafruit/Adafruit_Soundboard_library.git|Recommended|Adafruit
 https://github.com/adafruit/Adafruit_SSD1306.git|Recommended|Adafruit SSD1306
 https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino.git|Recommended|Adafruit SSD1331 OLED Driver Library for Arduino
 https://github.com/adafruit/Adafruit-SSD1351-library.git|Recommended|Adafruit SSD1351 library
-https://github.com/adafruit/Adafruit-ST7735-Library.git|Recommended|Adafruit ST7735 Library
+https://github.com/adafruit/Adafruit-ST7735-Library.git|Recommended|Adafruit ST7735 and ST7789 Library
 https://github.com/adafruit/Adafruit_STMPE610.git|Recommended|Adafruit STMPE610
 https://github.com/adafruit/Adafruit_TCS34725.git|Recommended|Adafruit TCS34725
 https://github.com/adafruit/Adafruit-Thermal-Printer-Library.git|Recommended|Adafruit Thermal Printer Library
@@ -1800,3 +1800,4 @@ https://github.com/TridentTD/TridentTD_EasyFreeRTOS32.git|Contributed|TridentTD_
 https://github.com/amirchev/EZPROM.git|Contributed|EZPROM
 https://github.com/datacute/Tiny4kOLED.git|Contributed|Tiny4kOLED
 https://github.com/Bodmer/TFT_eSPI.git|Contributed|TFT_eSPI
+https://github.com/MatrixOrbital/MatrixOrbitalGTTClientLibrary.git|Contributed|GTT
