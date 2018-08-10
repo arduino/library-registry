@@ -1806,3 +1806,4 @@ https://github.com/amperka/TroykaI2CHub.git|Contributed|TroykaI2CHub
 https://github.com/bxparks/AceRoutine.git|Contributed|AceRoutine
 https://github.com/Annikken/EasyAndee.git|Contributed|EasyAndee
 https://github.com/Annikken/EasyAndee101.git|Contributed|EasyAndee101
+https://github.com/MacroYau/LTC2942-Arduino-Library.git|Contributed|LTC2942
