@@ -44,6 +44,7 @@ https://github.com/arduino-libraries/BNO055.git|Arduino|BNO055
 https://github.com/arduino-libraries/WiFiNINA.git|Arduino|WiFiNINA
 https://github.com/arduino-libraries/ArduinoECCX08.git|Arduino|ArduinoECCX08
 https://github.com/arduino-libraries/ArduinoBearSSL.git|Arduino|ArduinoBearSSL
+https://github.com/arduino/EduIntro.git|Arduino|EduIntro
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
