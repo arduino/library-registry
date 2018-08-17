@@ -1827,3 +1827,4 @@ https://github.com/hideakitai/DRV2667.git|Contributed|DRV2667
 https://github.com/hideakitai/MAX17048.git|Contributed|MAX17048
 https://github.com/hideakitai/MCP4728.git|Contributed|MCP4728
 https://github.com/hideakitai/MPU9250.git|Contributed|MPU9250
+https://github.com/hideakitai/PCA9547.git|Contributed|PCA9547
