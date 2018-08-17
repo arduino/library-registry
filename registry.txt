@@ -1820,3 +1820,4 @@ https://github.com/teemuatlut/TMCStepper.git|Contributed|TMCStepper
 https://github.com/housewithinahouse/TwoWheelRobotLibrary.git|Contributed|TwoWheelRobot
 https://github.com/lucasso/ModbusRTUSlaveArduino.git|Contributed|ModbusRTU_Slave_RS485
 https://github.com/christophjurczyk/AD7390_Arduino_Library.git|Contributed|AD7390 DAC library
+https://github.com/MacroYau/RV-1805-C3-Arduino-Library.git|Contributed|RV-1805-C3
