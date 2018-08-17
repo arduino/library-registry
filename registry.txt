@@ -1821,3 +1821,4 @@ https://github.com/housewithinahouse/TwoWheelRobotLibrary.git|Contributed|TwoWhe
 https://github.com/lucasso/ModbusRTUSlaveArduino.git|Contributed|ModbusRTU_Slave_RS485
 https://github.com/christophjurczyk/AD7390_Arduino_Library.git|Contributed|AD7390 DAC library
 https://github.com/MacroYau/RV-1805-C3-Arduino-Library.git|Contributed|RV-1805-C3
+https://github.com/postfixNotation/OLED_LIB_VGY12864L_03.git|Contributed|OLED Display VGY12864L-03
