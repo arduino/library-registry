@@ -1824,3 +1824,4 @@ https://github.com/MacroYau/RV-1805-C3-Arduino-Library.git|Contributed|RV-1805-C
 https://github.com/postfixNotation/OLED_LIB_VGY12864L_03.git|Contributed|OLED Display VGY12864L-03
 https://github.com/NicholasBerryman/GenericMotorDriver.git|Contributed|GenericMotorDriver
 https://github.com/hideakitai/DRV2667.git|Contributed|DRV2667
+https://github.com/hideakitai/MAX17048.git|Contributed|MAX17048
