@@ -1809,3 +1809,4 @@ https://github.com/Annikken/EasyAndee.git|Contributed|EasyAndee
 https://github.com/Annikken/EasyAndee101.git|Contributed|EasyAndee101
 https://github.com/MacroYau/LTC2942-Arduino-Library.git|Contributed|LTC2942
 https://github.com/adafruit/WaveHC.git|Contributed|WaveHC
+https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun HyperDisplay Library
