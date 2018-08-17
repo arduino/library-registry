@@ -1818,3 +1818,4 @@ https://github.com/WhoIsMrRobotics/brainzy-library.git|Contributed|BRAINZY
 https://github.com/Stan-Reifel/ArduinoUserInterface.git|Contributed|ArduinoUserInterface
 https://github.com/teemuatlut/TMCStepper.git|Contributed|TMCStepper
 https://github.com/housewithinahouse/TwoWheelRobotLibrary.git|Contributed|TwoWheelRobot
+https://github.com/lucasso/ModbusRTUSlaveArduino.git|Contributed|ModbusRTU_Slave_RS485
