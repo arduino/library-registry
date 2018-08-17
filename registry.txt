@@ -1479,7 +1479,7 @@ https://github.com/iamthechad/parallax_lcd.git|Contributed|Parallax LCD
 https://github.com/PhracturedBlue/ESP8266MQTTMesh.git|Contributed|ESP8266 MQTT Mesh
 https://github.com/Annikken/Andee101.git|Contributed|Andee101
 https://github.com/sparkfun/SparkFun_RV-1805_Arduino_Library.git|Contributed|SparkFun Qwiic RTC RV1805 Arduino Library
-https://github.com/Manghao/RGBLed.git|Contributed|RGB
+https://github.com/wilmouths/RGBLed.git|Contributed|RGB
 https://github.com/schlingensiepen/TelegramBotClient.git|Contributed|TelegramBotClient
 https://github.com/Dafulai/DFL168A-Sync-Library.git|Contributed|DFL168A_Sync
 https://github.com/gamgine/Arduino-lib-HCSR04.git|Contributed|HCSR04 ultrasonic sensor
@@ -1701,7 +1701,7 @@ https://github.com/lecsDragos/Arduino_SegmentDisplay_CD4511B.git|Contributed|CD4
 https://github.com/ihormelnyk/opentherm_library.git|Contributed|OpenTherm Library
 https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library.git|Contributed|SparkFun Qwiic LED Stick Library
 https://github.com/HullabalooRobotics/Hyperduino-Library.git|Contributed|Hyperduino Library
-https://github.com/Manghao/LM35.git|Contributed|LM35 Sensor
+https://github.com/wilmouths/LM35.git|Contributed|LM35 Sensor
 https://github.com/Annikken/AndeeMobile.git|Contributed|AndeeMobile
 https://github.com/MajicDesigns/MD_MAXPanel.git|Contributed|MD_MAXPanel
 https://github.com/AloriumTechnology/UbidotsXLR8.git|Contributed|UbidotsXLR8
