@@ -1816,3 +1816,4 @@ https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library.git|Contributed|Spar
 https://bitbucket.org/pjhardy/arduinosinspace.git|Contributed|ArduinosInSpace
 https://github.com/WhoIsMrRobotics/brainzy-library.git|Contributed|BRAINZY
 https://github.com/Stan-Reifel/ArduinoUserInterface.git|Contributed|ArduinoUserInterface
+https://github.com/teemuatlut/TMCStepper.git|Contributed|TMCStepper
