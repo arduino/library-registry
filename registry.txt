@@ -1823,3 +1823,4 @@ https://github.com/christophjurczyk/AD7390_Arduino_Library.git|Contributed|AD739
 https://github.com/MacroYau/RV-1805-C3-Arduino-Library.git|Contributed|RV-1805-C3
 https://github.com/postfixNotation/OLED_LIB_VGY12864L_03.git|Contributed|OLED Display VGY12864L-03
 https://github.com/NicholasBerryman/GenericMotorDriver.git|Contributed|GenericMotorDriver
+https://github.com/hideakitai/DRV2667.git|Contributed|DRV2667
