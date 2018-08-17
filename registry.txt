@@ -1811,3 +1811,4 @@ https://github.com/MacroYau/LTC2942-Arduino-Library.git|Contributed|LTC2942
 https://github.com/adafruit/WaveHC.git|Contributed|WaveHC
 https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun HyperDisplay Library
 https://github.com/netpieio/microgear-nbiot-arduino.git|Contributed|microgear-nbiot
+https://github.com/JChristensen/CurrentTransformer.git|Contributed|CurrentTransformer
