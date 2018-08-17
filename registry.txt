@@ -1813,3 +1813,4 @@ https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun Hyper
 https://github.com/netpieio/microgear-nbiot-arduino.git|Contributed|microgear-nbiot
 https://github.com/JChristensen/CurrentTransformer.git|Contributed|CurrentTransformer
 https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library.git|Contributed|SparkFun ePaper Arduino Library
+https://bitbucket.org/pjhardy/arduinosinspace.git|Contributed|ArduinosInSpace
