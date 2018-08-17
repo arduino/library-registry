@@ -1829,3 +1829,4 @@ https://github.com/hideakitai/MCP4728.git|Contributed|MCP4728
 https://github.com/hideakitai/MPU9250.git|Contributed|MPU9250
 https://github.com/hideakitai/PCA9547.git|Contributed|PCA9547
 https://github.com/hideakitai/PCF2129.git|Contributed|PCF2129
+https://github.com/hideakitai/MTCParser.git|Contributed|MTCParser
