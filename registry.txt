@@ -1832,3 +1832,4 @@ https://github.com/hideakitai/PCF2129.git|Contributed|PCF2129
 https://github.com/hideakitai/MTCParser.git|Contributed|MTCParser
 https://github.com/hideakitai/Packetizer.git|Contributed|Packetizer
 https://github.com/sandeepmistry/arduino-OBD2.git|Contributed|OBD2
+https://github.com/cDnNeMeSiS/xbee_serial_array.git|Contributed|xbee_serial_array
