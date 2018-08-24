@@ -1836,3 +1836,4 @@ https://github.com/cDnNeMeSiS/xbee_serial_array.git|Contributed|xbee_serial_arra
 https://github.com/maisonsmd/msTask.git|Contributed|msTask
 https://github.com/Infineon/arduino-optiga-trust-x.git|Contributed|OPTIGATrustX
 https://github.com/prampec/IotWebConf.git|Contributed|IotWebConf
+https://github.com/christophjurczyk/LTC1392_Arduino_Library.git|Contributed|LTC1392 library
