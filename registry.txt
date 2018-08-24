@@ -1840,3 +1840,4 @@ https://github.com/christophjurczyk/LTC1392_Arduino_Library.git|Contributed|LTC1
 https://github.com/bengtmartensson/GlobalCovfefe.git|Contributed|GlobalCovfefe
 https://github.com/hideakitai/EmbeddedUtils.git|Contributed|EmbeddedUtils
 https://github.com/hideakitai/PCA9536.git|Contributed|PCA9536Arduino
+https://github.com/hideakitai/TFmini.git|Contributed|TFminiArduino
