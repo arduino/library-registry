@@ -1834,3 +1834,4 @@ https://github.com/hideakitai/Packetizer.git|Contributed|Packetizer
 https://github.com/sandeepmistry/arduino-OBD2.git|Contributed|OBD2
 https://github.com/cDnNeMeSiS/xbee_serial_array.git|Contributed|xbee_serial_array
 https://github.com/maisonsmd/msTask.git|Contributed|msTask
+https://github.com/Infineon/arduino-optiga-trust-x.git|Contributed|OPTIGATrustX
