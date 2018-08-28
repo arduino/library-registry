@@ -1846,3 +1846,4 @@ https://github.com/jwrw/Executive.git|Contributed|Executive
 https://github.com/tiagolobao/CS5490.git|Contributed|CS5490
 https://github.com/jacobrosenthal/MergedStreams.git|Contributed|MergedStreams
 https://github.com/layadcircuits/Saleng-GSM.git|Contributed|Layad Circuits Saleng GSM Shield
+https://github.com/meganetaaan/m5stack-avatar.git|Contributed|M5Stack_Avatar
