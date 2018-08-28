@@ -1842,3 +1842,4 @@ https://github.com/hideakitai/EmbeddedUtils.git|Contributed|EmbeddedUtils
 https://github.com/hideakitai/PCA9536.git|Contributed|PCA9536Arduino
 https://github.com/hideakitai/TFmini.git|Contributed|TFminiArduino
 https://github.com/AlpenglowInd/BigNums2x2.git|Contributed|BigNums2x2
+https://github.com/jwrw/Executive.git|Contributed|Executive
