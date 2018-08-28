@@ -1848,3 +1848,4 @@ https://github.com/jacobrosenthal/MergedStreams.git|Contributed|MergedStreams
 https://github.com/layadcircuits/Saleng-GSM.git|Contributed|Layad Circuits Saleng GSM Shield
 https://github.com/meganetaaan/m5stack-avatar.git|Contributed|M5Stack_Avatar
 https://github.com/muwerk/ustd.git|Contributed|Muwerk ustd library
+https://github.com/feklee/MultiTrans.git|Contributed|MultiTrans
