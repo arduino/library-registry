@@ -1857,3 +1857,4 @@ https://github.com/end2endzone/BitReader.git|Contributed|BitReader
 https://github.com/davetcc/IoAbstraction.git|Contributed|IoAbstraction
 https://github.com/sadr0b0t/arduino-timer-api.git|Contributed|arduino-timer-api
 https://bitbucket.org/christandlg/as3935mi.git|Contributed|AS3935MI
+https://github.com/sixfab/Sixfab_Arduino_CellularIoT_Library.git|Contributed|Sixfab_CellularIoT
