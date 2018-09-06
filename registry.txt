@@ -1856,3 +1856,4 @@ https://github.com/zischknall/BohleBots_BNO055.git|Contributed|BohleBots_BNO055
 https://github.com/end2endzone/BitReader.git|Contributed|BitReader
 https://github.com/davetcc/IoAbstraction.git|Contributed|IoAbstraction
 https://github.com/sadr0b0t/arduino-timer-api.git|Contributed|arduino-timer-api
+https://bitbucket.org/christandlg/as3935mi.git|Contributed|AS3935MI
