@@ -1727,7 +1727,7 @@ https://github.com/maxpautsch/mPower.git|Contributed|mPower
 https://github.com/xoseperez/eeprom32_rotate.git|Contributed|EEPROM32_Rotate
 https://github.com/xoseperez/eeprom_rotate.git|Contributed|EEPROM_Rotate
 https://github.com/xoseperez/justwifi.git|Contributed|JustWifi
-https://bitbucket.org/xoseperez/debounceevent.git|Contributed|DebounceEvent
+https://github.com/xoseperez/debounceevent.git|Contributed|DebounceEvent
 https://bitbucket.org/xoseperez/fauxmoesp.git|Contributed|FauxmoESP
 https://github.com/jo-seph/SDS011_vers.git|Contributed|SDS011_vers
 https://github.com/dmadison/NintendoExtensionCtrl.git|Contributed|Nintendo Extension Ctrl
