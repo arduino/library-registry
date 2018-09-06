@@ -1854,3 +1854,4 @@ https://github.com/dycodex/ESPectro32.git|Contributed|ESPectro32
 https://github.com/tobiasschuerg/MH-Z-CO2-Sensors.git|Contributed|MH-Z CO2 Sensors
 https://github.com/zischknall/BohleBots_BNO055.git|Contributed|BohleBots_BNO055
 https://github.com/end2endzone/BitReader.git|Contributed|BitReader
+https://github.com/davetcc/IoAbstraction.git|Contributed|IoAbstraction
