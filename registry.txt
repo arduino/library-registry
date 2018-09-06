@@ -1849,3 +1849,4 @@ https://github.com/layadcircuits/Saleng-GSM.git|Contributed|Layad Circuits Salen
 https://github.com/meganetaaan/m5stack-avatar.git|Contributed|M5Stack_Avatar
 https://github.com/muwerk/ustd.git|Contributed|Muwerk ustd library
 https://github.com/feklee/MultiTrans.git|Contributed|MultiTrans
+https://github.com/evert-arias/EasyButton.git|Contributed|EasyButton
