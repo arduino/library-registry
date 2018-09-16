@@ -1465,7 +1465,7 @@ https://github.com/YuriiSalimov/YK04_Module.git|Contributed|YK04_Module
 https://github.com/Dafulai/DFL168A_Async.git|Contributed|DFL168A_Async
 https://github.com/ImpulseAdventure/GUIslice.git|Contributed|GUIslice
 https://github.com/sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library.git|Contributed|SparkFun Qwiic OpenLog
-https://github.com/iotappstory/ESP-Library.git|Contributed|IOTAppStory-ESP8266
+https://github.com/iotappstory/ESP-Library.git|Contributed|IOTAppStory-ESP
 https://github.com/Gamebuino/Gamebuino-Classic.git|Contributed|Gamebuino Classic
 https://github.com/Gamebuino/Gamebuino-Meta.git|Contributed|Gamebuino META
 https://github.com/blinker-iot/blinker-library.git|Contributed|Blinker
