@@ -1868,3 +1868,4 @@ https://github.com/NitrofMtl/ACI_10K_an.git|Contributed|ACI_10K_AN-temp-sensor
 https://github.com/NitrofMtl/RTD10k-temp-sensor.git|Contributed|RTD10K-temp-sensor
 https://github.com/NitrofMtl/weeklyAlarm.git|Contributed|WeeklyAlarm
 https://github.com/NitrofMtl/CurrentSwitch.git|Contributed|CurrentSwitch
+https://github.com/NitrofMtl/ADC_SEQR.git|Contributed|ADC_SEQR
