@@ -1860,3 +1860,4 @@ https://bitbucket.org/christandlg/as3935mi.git|Contributed|AS3935MI
 https://github.com/sixfab/Sixfab_Arduino_CellularIoT_Library.git|Contributed|Sixfab_CellularIoT
 https://github.com/ropg/ezTime.git|Contributed|ezTime
 https://github.com/evert-arias/MyBlinker.git|Contributed|MyBlinker
+https://github.com/tommag/TMC4210_Arduino.git|Contributed|Trinamic_TMC4210
