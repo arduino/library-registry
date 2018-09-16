@@ -1864,3 +1864,4 @@ https://github.com/tommag/TMC4210_Arduino.git|Contributed|Trinamic_TMC4210
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library.git|Contributed|SparkFun Ublox Arduino Library
 https://github.com/Papabyte/Byteduino.git|Contributed|Byteduino
 https://github.com/matsujirushi/MjGrove.git|Contributed|MjGrove
+https://github.com/NitrofMtl/ACI_10K_an.git|Contributed|ACI_10K_AN-temp-sensor
