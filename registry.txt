@@ -1863,3 +1863,4 @@ https://github.com/evert-arias/MyBlinker.git|Contributed|MyBlinker
 https://github.com/tommag/TMC4210_Arduino.git|Contributed|Trinamic_TMC4210
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library.git|Contributed|SparkFun Ublox Arduino Library
 https://github.com/Papabyte/Byteduino.git|Contributed|Byteduino
+https://github.com/matsujirushi/MjGrove.git|Contributed|MjGrove
