@@ -1872,3 +1872,4 @@ https://github.com/NitrofMtl/ADC_SEQR.git|Contributed|ADC_SEQR
 https://github.com/NitrofMtl/TimeOut.git|Contributed|TimeOut
 https://github.com/sparkfun/SparkFun_SerLCD_Arduino_Library.git|Contributed|SparkFun SerLCD Arduino Library
 https://github.com/djGrrr/Int64String.git|Contributed|Int64String
+https://github.com/kd8bxp/micro-Maqueen-Arduino-Library.git|Contributed|micro Maqueen
