@@ -1878,3 +1878,4 @@ https://github.com/Adminius/DimmerControl.git|Contributed|DimmerControl
 https://github.com/Danny24/Smart-Motor-Driver-SAMI-Library.git|Contributed|Smart Motor Driver - SAMI
 https://github.com/mcci-catena/arduino-lmic.git|Contributed|MCCI LoRaWAN LMIC library
 https://github.com/SeeedJP/Wio_cell_lib_for_Arduino.git|Contributed|Wio cell lib for Arduino
+https://github.com/adafruit/Adafruit_BMP3XX.git|Contributed|Adafruit BMP3XX Library
