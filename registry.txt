@@ -1881,3 +1881,4 @@ https://github.com/SeeedJP/Wio_cell_lib_for_Arduino.git|Contributed|Wio cell lib
 https://github.com/adafruit/Adafruit_BMP3XX.git|Contributed|Adafruit BMP3XX Library
 https://github.com/adafruit/Adafruit_MPRLS.git|Contributed|Adafruit MPRLS Library
 https://github.com/adafruit/Adafruit_VEML6075.git|Contributed|Adafruit VEML6075 Library
+https://github.com/weckbach/AstroMech.git|Contributed|AstroMech
