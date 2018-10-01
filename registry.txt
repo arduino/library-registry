@@ -1884,3 +1884,4 @@ https://github.com/adafruit/Adafruit_VEML6075.git|Contributed|Adafruit VEML6075 
 https://github.com/weckbach/AstroMech.git|Contributed|AstroMech
 https://github.com/remoteme/RemoteMeArduinoLibraryUtils.git|Contributed|RemoteMeUtils
 https://github.com/drifkind/QDispatch.git|Contributed|QDispatch
+https://github.com/JoaoLopesF/SerialDebug.git|Contributed|SerialDebug
