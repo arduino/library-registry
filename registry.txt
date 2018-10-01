@@ -1882,3 +1882,4 @@ https://github.com/adafruit/Adafruit_BMP3XX.git|Contributed|Adafruit BMP3XX Libr
 https://github.com/adafruit/Adafruit_MPRLS.git|Contributed|Adafruit MPRLS Library
 https://github.com/adafruit/Adafruit_VEML6075.git|Contributed|Adafruit VEML6075 Library
 https://github.com/weckbach/AstroMech.git|Contributed|AstroMech
+https://github.com/remoteme/RemoteMeArduinoLibraryUtils.git|Contributed|RemoteMeUtils
