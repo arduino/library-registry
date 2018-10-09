@@ -1896,3 +1896,4 @@ https://github.com/AllWize/allwize.git|Contributed|AllWize
 https://github.com/JoaoLopesF/RemoteDebug.git|Contributed|RemoteDebug
 https://github.com/xoseperez/my92xx.git|Contributed|my92xx
 https://github.com/xoseperez/hlw8012.git|Contributed|HLW8012
+https://bitbucket.org/xoseperez/pcf8583.git|Contributed|PCF8583
