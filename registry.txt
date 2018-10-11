@@ -1900,3 +1900,4 @@ https://bitbucket.org/xoseperez/pcf8583.git|Contributed|PCF8583
 https://github.com/luni64/TeensyStep.git|Contributed|TeensyStep
 https://github.com/t-in/cloudchip-iot.git|Contributed|Cloudchip Library
 https://github.com/contrem/arduino-timer.git|Contributed|arduino-timer
+https://github.com/janelia-arduino/AD57X4R.git|Contributed|AD57X4R
