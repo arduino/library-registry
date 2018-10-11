@@ -1903,3 +1903,4 @@ https://github.com/contrem/arduino-timer.git|Contributed|arduino-timer
 https://github.com/janelia-arduino/AD57X4R.git|Contributed|AD57X4R
 https://github.com/janelia-arduino/TMC429.git|Contributed|TMC429
 https://github.com/janelia-arduino/TMC2130.git|Contributed|TMC2130
+https://github.com/janelia-arduino/Array.git|Contributed|Array
