@@ -1899,3 +1899,4 @@ https://github.com/xoseperez/hlw8012.git|Contributed|HLW8012
 https://bitbucket.org/xoseperez/pcf8583.git|Contributed|PCF8583
 https://github.com/luni64/TeensyStep.git|Contributed|TeensyStep
 https://github.com/t-in/cloudchip-iot.git|Contributed|Cloudchip Library
+https://github.com/contrem/arduino-timer.git|Contributed|arduino-timer
