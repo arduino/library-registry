@@ -1906,3 +1906,4 @@ https://github.com/janelia-arduino/TMC2130.git|Contributed|TMC2130
 https://github.com/janelia-arduino/Array.git|Contributed|Array
 https://github.com/janelia-arduino/Vector.git|Contributed|Vector
 https://github.com/EinarArnason/ArduinoQueue.git|Contributed|ArduinoQueue
+https://github.com/muwerk/muwerk.git|Contributed|Muwerk scheduler library
