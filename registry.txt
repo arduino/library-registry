@@ -1913,3 +1913,4 @@ https://github.com/denkitronik/ADS1118.git|Contributed|ADS1118 library
 https://github.com/chipKIT32-libraries/PICxel.git|Contributed|PICxel
 https://gitlab.com/arduino-libraries/i2commands.git|Contributed|I2Commands
 https://bitbucket.org/christandlg/bmp180mi.git|Contributed|BMP180MI
+https://github.com/mairas/ReactESP.git|Contributed|ReactESP
