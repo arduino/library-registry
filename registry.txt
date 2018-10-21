@@ -1924,3 +1924,4 @@ https://github.com/janelia-arduino/Watchdog.git|Contributed|Watchdog
 https://github.com/sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library.git|Contributed|SparkFun Flying Jalapeno Arduino Library
 https://github.com/LILCMU/GoGoBright.git|Contributed|LILCMU GoGoBright Library
 https://github.com/cloudchip-tech/ciot-iot-lib.git|Contributed|Cloudchip IoT
+https://github.com/hutorny/cojson.lib.git|Contributed|Cojson
