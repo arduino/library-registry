@@ -1922,3 +1922,4 @@ https://github.com/janelia-arduino/JsmnStream.git|Contributed|JsmnStream
 https://github.com/janelia-arduino/Functor.git|Contributed|Functor
 https://github.com/janelia-arduino/Watchdog.git|Contributed|Watchdog
 https://github.com/sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library.git|Contributed|SparkFun Flying Jalapeno Arduino Library
+https://github.com/LILCMU/GoGoBright.git|Contributed|LILCMU GoGoBright Library
