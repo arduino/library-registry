@@ -1920,3 +1920,4 @@ https://github.com/BlokasLabs/USBMIDI.git|Contributed|USBMIDI
 https://github.com/janelia-arduino/Streaming.git|Contributed|Streaming
 https://github.com/janelia-arduino/JsmnStream.git|Contributed|JsmnStream
 https://github.com/janelia-arduino/Functor.git|Contributed|Functor
+https://github.com/janelia-arduino/Watchdog.git|Contributed|Watchdog
