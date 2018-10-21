@@ -1911,3 +1911,4 @@ https://github.com/janelia-arduino/TLE72X.git|Contributed|TLE72X
 https://github.com/pierremolinaro/acan2515.git|Contributed|ACAN2515
 https://github.com/denkitronik/ADS1118.git|Contributed|ADS1118 library
 https://github.com/chipKIT32-libraries/PICxel.git|Contributed|PICxel
+https://gitlab.com/arduino-libraries/i2commands.git|Contributed|I2Commands
