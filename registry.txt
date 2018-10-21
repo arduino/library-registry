@@ -1919,3 +1919,4 @@ https://github.com/madhephaestus/ESP32Encoder.git|Contributed|ESP32Encoder
 https://github.com/BlokasLabs/USBMIDI.git|Contributed|USBMIDI
 https://github.com/janelia-arduino/Streaming.git|Contributed|Streaming
 https://github.com/janelia-arduino/JsmnStream.git|Contributed|JsmnStream
+https://github.com/janelia-arduino/Functor.git|Contributed|Functor
