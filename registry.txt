@@ -1929,3 +1929,4 @@ https://github.com/end2endzone/AnyRtttl.git|Contributed|AnyRtttl
 https://github.com/Rhomb-io/rhio-pinmap.git|Contributed|rhio-pinmap
 https://github.com/ProgettoCompany/Progetto_One_Pin_Keypad_Arduino_Library.git|Contributed|Progetto One Pin Keypad
 https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library.git|Contributed|SparkFun SHTC3 Humidity and Temperature Sensor Library
+https://github.com/robgmsn/PureDigit.git|Contributed|GMSN Pure Digit
