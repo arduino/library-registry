@@ -1940,3 +1940,4 @@ https://github.com/Hiroshi-Sugimura/EL_dev_arduino.git|Contributed|EL_dev_arduin
 https://github.com/thingsboard/ThingsBoard-Arduino-MQTT-SDK.git|Contributed|ThingsBoard
 https://github.com/fu-hsi/FuGPS.git|Contributed|FuGPS Library
 https://github.com/bluerobotics/ping-arduino.git|Contributed|ping-arduino
+https://github.com/adafruit/Adafruit_Keypad.git|Contributed|Adafruit Keypad
