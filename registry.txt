@@ -1943,3 +1943,4 @@ https://github.com/adafruit/Adafruit_Keypad.git|Contributed|Adafruit Keypad
 https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library.git|Contributed|SparkFun Spectral Triad AS7265X
 https://github.com/DonnyCraft1/PIDArduino.git|Contributed|PIDController
 https://github.com/ZinggJM/GxEPD2.git|Contributed|GxEPD2
+https://github.com/witnessmenow/arduino_twitch_api.git|Contributed|TwitchApi
