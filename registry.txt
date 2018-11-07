@@ -107,7 +107,6 @@ https://github.com/adafruit/Adafruit_HMC5883_Unified.git|Recommended|Adafruit HM
 https://github.com/adafruit/Adafruit_HTU21DF_Library.git|Recommended|Adafruit HTU21DF Library
 https://github.com/adafruit/Adafruit-HX8340B.git|Recommended|Adafruit HX8340B
 https://github.com/adafruit/Adafruit_HX8357_Library.git|Recommended|Adafruit HX8357 Library
-https://github.com/adafruit/Adafruit_ILI9340.git|Recommended|Adafruit ILI9340
 https://github.com/adafruit/Adafruit_ILI9341.git|Recommended|Adafruit ILI9341
 https://github.com/adafruit/Adafruit_INA219.git|Recommended|Adafruit INA219
 # REMOVED: https://github.com/adafruit/Adafruit_L3GD20.git|Recommended|Adafruit L3GD20
