@@ -1939,3 +1939,4 @@ https://github.com/avishorp/TM1637.git|Contributed|TM1637
 https://github.com/Hiroshi-Sugimura/EL_dev_arduino.git|Contributed|EL_dev_arduino
 https://github.com/thingsboard/ThingsBoard-Arduino-MQTT-SDK.git|Contributed|ThingsBoard
 https://github.com/fu-hsi/FuGPS.git|Contributed|FuGPS Library
+https://github.com/bluerobotics/ping-arduino.git|Contributed|ping-arduino
