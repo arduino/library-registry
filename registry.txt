@@ -1941,3 +1941,4 @@ https://github.com/thingsboard/ThingsBoard-Arduino-MQTT-SDK.git|Contributed|Thin
 https://github.com/fu-hsi/FuGPS.git|Contributed|FuGPS Library
 https://github.com/bluerobotics/ping-arduino.git|Contributed|ping-arduino
 https://github.com/adafruit/Adafruit_Keypad.git|Contributed|Adafruit Keypad
+https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library.git|Contributed|SparkFun Spectral Triad AS7265X
