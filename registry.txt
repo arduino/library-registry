@@ -1935,3 +1935,4 @@ https://github.com/pierremolinaro/acan2517.git|Contributed|ACAN2517
 https://github.com/pierremolinaro/acan2517FD.git|Contributed|ACAN2517FD
 https://github.com/nyampass/HaLake-M5Stack-Library.git|Contributed|HaLake-M5Stack-Library
 https://github.com/asukiaaa/AM2320_asukiaaa.git|Contributed|AM2320_asukiaaa
+https://github.com/avishorp/TM1637.git|Contributed|TM1637
