@@ -1945,3 +1945,4 @@ https://github.com/DonnyCraft1/PIDArduino.git|Contributed|PIDController
 https://github.com/ZinggJM/GxEPD2.git|Contributed|GxEPD2
 https://github.com/witnessmenow/arduino_twitch_api.git|Contributed|TwitchApi
 https://github.com/adafruit/TinyLoRa.git|Contributed|TinyLoRa
+https://github.com/FaBoPlatform/FaBoUV-Si1132-Library.git|Contributed|FaBo 206 UV Si1132
