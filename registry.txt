@@ -1950,3 +1950,4 @@ https://github.com/FaBoPlatform/FaBoUV-Si1132-Library.git|Contributed|FaBo 206 U
 https://github.com/FaBoPlatform/FaBoEnvironment-BME680-Library.git|Contributed|FaBo 222 Environment BME680
 https://github.com/fabiuz7/esp-logger-lib.git|Contributed|ESP Logger
 https://github.com/madhephaestus/PVision.git|Contributed|PVision
+https://github.com/FaBoPlatform/FaBoGas-CCS811-Library.git|Contributed|FaBo 223 Gas CCS811
