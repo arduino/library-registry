@@ -1948,3 +1948,4 @@ https://github.com/witnessmenow/arduino_twitch_api.git|Contributed|TwitchApi
 https://github.com/adafruit/TinyLoRa.git|Contributed|TinyLoRa
 https://github.com/FaBoPlatform/FaBoUV-Si1132-Library.git|Contributed|FaBo 206 UV Si1132
 https://github.com/FaBoPlatform/FaBoEnvironment-BME680-Library.git|Contributed|FaBo 222 Environment BME680
+https://github.com/fabiuz7/esp-logger-lib.git|Contributed|ESP Logger
