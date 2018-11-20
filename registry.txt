@@ -1954,3 +1954,4 @@ https://github.com/FaBoPlatform/FaBoGas-CCS811-Library.git|Contributed|FaBo 223 
 https://github.com/LUXROBO/MODI-Arduino.git|Contributed|MODI
 https://github.com/blemasle/arduino-e24.git|Contributed|E24
 https://github.com/phpoc/arduino-PhpocExpansion.git|Contributed|PHPoC Expansion
+https://github.com/adafruit/Adafruit_NeoTrellisM4.git|Contributed|Adafruit NeoTrellis M4 Library
