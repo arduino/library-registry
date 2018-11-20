@@ -1952,3 +1952,4 @@ https://github.com/fabiuz7/esp-logger-lib.git|Contributed|ESP Logger
 https://github.com/madhephaestus/PVision.git|Contributed|PVision
 https://github.com/FaBoPlatform/FaBoGas-CCS811-Library.git|Contributed|FaBo 223 Gas CCS811
 https://github.com/LUXROBO/MODI-Arduino.git|Contributed|MODI
+https://github.com/blemasle/arduino-e24.git|Contributed|E24
