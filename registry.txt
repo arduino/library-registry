@@ -960,7 +960,7 @@ https://github.com/UIPEthernet/UIPEthernet.git|Contributed|UIPEthernet
 https://github.com/pololu/romi-32u4-arduino-library.git|Contributed|Romi32U4
 
 https://github.com/udoklein/dcf77.git|Contributed|dcf77_xtal
-https://github.com/phpoc/arduino.git|Contributed|PHPoC
+https://github.com/phpoc/arduino-Phpoc.git|Contributed|PHPoC
 https://github.com/dmkishi/Dusk2Dawn.git|Contributed|Dusk2Dawn
 https://github.com/d00616/arduino-NVM.git|Contributed|arduino-NVM
 https://github.com/witnessmenow/arduino-ifttt-maker.git|Contributed|IFTTTMaker
