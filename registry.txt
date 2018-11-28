@@ -49,6 +49,7 @@ https://github.com/arduino-libraries/ArduinoRS485.git|Arduino|ArduinoRS485
 https://github.com/arduino-libraries/ArduinoDMX.git|Arduino|ArduinoDMX
 https://github.com/arduino-libraries/ArduinoModbus.git|Arduino|ArduinoModbus
 https://github.com/arduino-libraries/ArduinoBLE.git|Arduino|ArduinoBLE
+https://github.com/arduino-libraries/MKRNB.git|Arduino|MKRNB
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
