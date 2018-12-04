@@ -1995,3 +1995,4 @@ https://github.com/luisllamasbinaburo/Arduino-CircularBuffer.git|Contributed|Cir
 https://github.com/luisllamasbinaburo/Arduino-ColorConverter.git|Contributed|ColorConverter
 https://github.com/luisllamasbinaburo/Arduino-PropertyChange.git|Contributed|PropertyChangeLib
 https://github.com/luisllamasbinaburo/Arduino-Stopwatch.git|Contributed|StopwatchLib
+https://github.com/luisllamasbinaburo/Arduino-Countdown.git|Contributed|CountdownLib
