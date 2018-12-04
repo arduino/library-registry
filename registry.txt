@@ -1961,3 +1961,4 @@ https://github.com/bolderflight/BMI088.git|Contributed|Bolder Flight Systems BMI
 https://github.com/adafruit/Adafruit_ImageReader.git|Contributed|Adafruit ImageReader Library
 https://github.com/OperatorFoundation/Crypto.git|Contributed|Crypto
 https://github.com/mikalhart/IridiumSBD.git|Contributed|Iridium SBD
+https://github.com/sparkfun/SparkFun_LTE_Shield_Arduino_Library.git|Contributed|SparkFun LTE Shield Arduino Library
