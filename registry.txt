@@ -1992,3 +1992,4 @@ https://github.com/luisllamasbinaburo/Arduino-I2CScanner.git|Contributed|I2CScan
 https://github.com/luisllamasbinaburo/Arduino-List.git|Contributed|ListLib
 https://github.com/luisllamasbinaburo/Arduino-LinkedList.git|Contributed|LinkedListLib
 https://github.com/luisllamasbinaburo/Arduino-CircularBuffer.git|Contributed|CircularBufferLib
+https://github.com/luisllamasbinaburo/Arduino-ColorConverter.git|Contributed|ColorConverter
