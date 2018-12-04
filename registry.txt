@@ -1964,3 +1964,4 @@ https://github.com/mikalhart/IridiumSBD.git|Contributed|Iridium SBD
 https://github.com/sparkfun/SparkFun_LTE_Shield_Arduino_Library.git|Contributed|SparkFun LTE Shield Arduino Library
 https://github.com/dantudose/MAX44009.git|Contributed|MAX44009 library
 https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library.git|Contributed|SparkFun TouchInput Arduino Library
+https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6.git|Contributed|SparkFun TouchInput Driver FT5xx6
