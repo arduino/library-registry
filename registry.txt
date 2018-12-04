@@ -1987,3 +1987,4 @@ https://github.com/LuighiV/arduino-isfetboard.git|Contributed|ISFET board librar
 https://github.com/luisllamasbinaburo/Arduino-StateMachine.git|Contributed|StateMachineLib
 https://github.com/luisllamasbinaburo/Arduino-Articulated.git|Contributed|ArticulatedLib
 https://github.com/luisllamasbinaburo/Arduino-GammaCorrection.git|Contributed|GammaCorrectionLib
+https://github.com/luisllamasbinaburo/Arduino-TimeoutTask.git|Contributed|TimeoutTaskLib
