@@ -1960,3 +1960,4 @@ https://github.com/adafruit/Adafruit_NeoTrellisM4.git|Contributed|Adafruit NeoTr
 https://github.com/bolderflight/BMI088.git|Contributed|Bolder Flight Systems BMI088
 https://github.com/adafruit/Adafruit_ImageReader.git|Contributed|Adafruit ImageReader Library
 https://github.com/OperatorFoundation/Crypto.git|Contributed|Crypto
+https://github.com/mikalhart/IridiumSBD.git|Contributed|Iridium SBD
