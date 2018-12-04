@@ -1978,3 +1978,4 @@ https://github.com/ElectronicCats/ElectronicCats_InternalTemperatureZero.git|Con
 https://github.com/kingmathers313/FHEM_Arduino.git|Contributed|FHEM
 https://github.com/VizIoT-com/viziot-mqtt-client-arduino.git|Contributed|VizIoTMqttClient
 https://github.com/sixfab/Sixfab_Arduino_NBIoT_Shield.git|Contributed|Sixfab_NBIoT
+https://github.com/nickgammon/Regexp.git|Contributed|Regexp
