@@ -1967,3 +1967,4 @@ https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library.git|Contributed|
 https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6.git|Contributed|SparkFun TouchInput Driver FT5xx6
 https://github.com/junwha0511/LiquidCrystal_I2C_Hangul.git|Contributed|LiquidCrystal_I2C_Hangul
 https://github.com/coddingtonbear/arduino-async-duplex.git|Contributed|arduino-async-duplex
+https://github.com/coddingtonbear/arduino-async-modem.git|Contributed|arduino-async-modem
