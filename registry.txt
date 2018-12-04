@@ -1975,3 +1975,4 @@ https://github.com/mcci-catena/Catena-Arduino-Platform.git|Contributed|MCCI Cate
 https://github.com/werktag/Adaino.git|Contributed|Adaino
 https://github.com/tommag/DS2431_Arduino.git|Contributed|DS2431
 https://github.com/ElectronicCats/ElectronicCats_InternalTemperatureZero.git|Contributed|Electronic Cats Internal Temperature Zero Library
+https://github.com/kingmathers313/FHEM_Arduino.git|Contributed|FHEM
