@@ -1981,3 +1981,4 @@ https://github.com/sixfab/Sixfab_Arduino_NBIoT_Shield.git|Contributed|Sixfab_NBI
 https://github.com/nickgammon/Regexp.git|Contributed|Regexp
 https://github.com/uStepper/uStepper-S-lite.git|Contributed|uStepper S-lite
 https://git.antares.id/lorawan-loraid/arduino-loraid.git|Contributed|LoraID
+https://github.com/tipih/NRF51_Radio_library.git|Contributed|NRF51_Radio_library
