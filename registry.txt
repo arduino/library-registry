@@ -1980,3 +1980,4 @@ https://github.com/VizIoT-com/viziot-mqtt-client-arduino.git|Contributed|VizIoTM
 https://github.com/sixfab/Sixfab_Arduino_NBIoT_Shield.git|Contributed|Sixfab_NBIoT
 https://github.com/nickgammon/Regexp.git|Contributed|Regexp
 https://github.com/uStepper/uStepper-S-lite.git|Contributed|uStepper S-lite
+https://git.antares.id/lorawan-loraid/arduino-loraid.git|Contributed|LoraID
