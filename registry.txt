@@ -1971,3 +1971,4 @@ https://github.com/coddingtonbear/arduino-async-modem.git|Contributed|arduino-as
 https://github.com/blemasle/arduino-mcp23017.git|Contributed|MCP23017
 https://github.com/blemasle/arduino-as1115.git|Contributed|AS1115
 https://github.com/mcci-catena/arduino-lorawan.git|Contributed|MCCI Arduino LoRaWAN Library
+https://github.com/mcci-catena/Catena-Arduino-Platform.git|Contributed|MCCI Catena Arduino Platform
