@@ -1998,3 +1998,4 @@ https://github.com/luisllamasbinaburo/Arduino-Stopwatch.git|Contributed|Stopwatc
 https://github.com/luisllamasbinaburo/Arduino-Countdown.git|Contributed|CountdownLib
 https://github.com/luisllamasbinaburo/Arduino-DebounceFilter.git|Contributed|DebounceFilterLib
 https://github.com/luisllamasbinaburo/Arduino-Meanfilter.git|Contributed|MeanFilterLib
+https://github.com/luisllamasbinaburo/Arduino-MedianFilter.git|Contributed|MedianFilterLib
