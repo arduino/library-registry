@@ -1982,3 +1982,4 @@ https://github.com/nickgammon/Regexp.git|Contributed|Regexp
 https://github.com/uStepper/uStepper-S-lite.git|Contributed|uStepper S-lite
 https://git.antares.id/lorawan-loraid/arduino-loraid.git|Contributed|LoraID
 https://github.com/tipih/NRF51_Radio_library.git|Contributed|NRF51_Radio_library
+https://github.com/MattFryer/Smoothed.git|Contributed|Smoothed
