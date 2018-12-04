@@ -1974,3 +1974,4 @@ https://github.com/mcci-catena/arduino-lorawan.git|Contributed|MCCI Arduino LoRa
 https://github.com/mcci-catena/Catena-Arduino-Platform.git|Contributed|MCCI Catena Arduino Platform
 https://github.com/werktag/Adaino.git|Contributed|Adaino
 https://github.com/tommag/DS2431_Arduino.git|Contributed|DS2431
+https://github.com/ElectronicCats/ElectronicCats_InternalTemperatureZero.git|Contributed|Electronic Cats Internal Temperature Zero Library
