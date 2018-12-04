@@ -2000,3 +2000,4 @@ https://github.com/luisllamasbinaburo/Arduino-DebounceFilter.git|Contributed|Deb
 https://github.com/luisllamasbinaburo/Arduino-Meanfilter.git|Contributed|MeanFilterLib
 https://github.com/luisllamasbinaburo/Arduino-MedianFilter.git|Contributed|MedianFilterLib
 https://github.com/luisllamasbinaburo/Arduino-SingleEmaFilter.git|Contributed|SingleEMAFilterLib
+https://github.com/luisllamasbinaburo/Arduino-DoubleEmaFilter.git|Contributed|DoubleEMAFilterLib
