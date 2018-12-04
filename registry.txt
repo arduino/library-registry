@@ -1997,3 +1997,4 @@ https://github.com/luisllamasbinaburo/Arduino-PropertyChange.git|Contributed|Pro
 https://github.com/luisllamasbinaburo/Arduino-Stopwatch.git|Contributed|StopwatchLib
 https://github.com/luisllamasbinaburo/Arduino-Countdown.git|Contributed|CountdownLib
 https://github.com/luisllamasbinaburo/Arduino-DebounceFilter.git|Contributed|DebounceFilterLib
+https://github.com/luisllamasbinaburo/Arduino-Meanfilter.git|Contributed|MeanFilterLib
