@@ -1993,3 +1993,4 @@ https://github.com/luisllamasbinaburo/Arduino-List.git|Contributed|ListLib
 https://github.com/luisllamasbinaburo/Arduino-LinkedList.git|Contributed|LinkedListLib
 https://github.com/luisllamasbinaburo/Arduino-CircularBuffer.git|Contributed|CircularBufferLib
 https://github.com/luisllamasbinaburo/Arduino-ColorConverter.git|Contributed|ColorConverter
+https://github.com/luisllamasbinaburo/Arduino-PropertyChange.git|Contributed|PropertyChangeLib
