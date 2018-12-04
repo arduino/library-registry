@@ -1988,3 +1988,4 @@ https://github.com/luisllamasbinaburo/Arduino-StateMachine.git|Contributed|State
 https://github.com/luisllamasbinaburo/Arduino-Articulated.git|Contributed|ArticulatedLib
 https://github.com/luisllamasbinaburo/Arduino-GammaCorrection.git|Contributed|GammaCorrectionLib
 https://github.com/luisllamasbinaburo/Arduino-TimeoutTask.git|Contributed|TimeoutTaskLib
+https://github.com/luisllamasbinaburo/Arduino-I2CScanner.git|Contributed|I2CScanner
