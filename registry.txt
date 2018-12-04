@@ -1994,3 +1994,4 @@ https://github.com/luisllamasbinaburo/Arduino-LinkedList.git|Contributed|LinkedL
 https://github.com/luisllamasbinaburo/Arduino-CircularBuffer.git|Contributed|CircularBufferLib
 https://github.com/luisllamasbinaburo/Arduino-ColorConverter.git|Contributed|ColorConverter
 https://github.com/luisllamasbinaburo/Arduino-PropertyChange.git|Contributed|PropertyChangeLib
+https://github.com/luisllamasbinaburo/Arduino-Stopwatch.git|Contributed|StopwatchLib
