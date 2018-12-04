@@ -1986,3 +1986,4 @@ https://github.com/MattFryer/Smoothed.git|Contributed|Smoothed
 https://github.com/LuighiV/arduino-isfetboard.git|Contributed|ISFET board library
 https://github.com/luisllamasbinaburo/Arduino-StateMachine.git|Contributed|StateMachineLib
 https://github.com/luisllamasbinaburo/Arduino-Articulated.git|Contributed|ArticulatedLib
+https://github.com/luisllamasbinaburo/Arduino-GammaCorrection.git|Contributed|GammaCorrectionLib
