@@ -2003,3 +2003,4 @@ https://github.com/luisllamasbinaburo/Arduino-SingleEmaFilter.git|Contributed|Si
 https://github.com/luisllamasbinaburo/Arduino-DoubleEmaFilter.git|Contributed|DoubleEMAFilterLib
 https://github.com/luisllamasbinaburo/Arduino-QuickSort.git|Contributed|QuickSortLib
 https://github.com/luisllamasbinaburo/Arduino-QuickMedian.git|Contributed|QuickMedianLib
+https://github.com/luisllamasbinaburo/Arduino-Threshold.git|Contributed|ThresholdLib
