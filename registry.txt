@@ -1999,3 +1999,4 @@ https://github.com/luisllamasbinaburo/Arduino-Countdown.git|Contributed|Countdow
 https://github.com/luisllamasbinaburo/Arduino-DebounceFilter.git|Contributed|DebounceFilterLib
 https://github.com/luisllamasbinaburo/Arduino-Meanfilter.git|Contributed|MeanFilterLib
 https://github.com/luisllamasbinaburo/Arduino-MedianFilter.git|Contributed|MedianFilterLib
+https://github.com/luisllamasbinaburo/Arduino-SingleEmaFilter.git|Contributed|SingleEMAFilterLib
