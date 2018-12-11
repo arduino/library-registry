@@ -2007,3 +2007,4 @@ https://github.com/luisllamasbinaburo/Arduino-Threshold.git|Contributed|Threshol
 https://github.com/SergiuToporjinschi/espmanager.git|Contributed|ESPManager
 https://github.com/SergiuToporjinschi/settingsmanager.git|Contributed|Settings Manager
 https://github.com/FaBoPlatform/FaBoPWM-PCA9685-Library.git|Contributed|FaBo PWM PCA9685
+https://github.com/MicroBahner/MobaTools.git|Contributed|MobaTools
