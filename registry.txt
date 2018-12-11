@@ -2005,3 +2005,4 @@ https://github.com/luisllamasbinaburo/Arduino-QuickSort.git|Contributed|QuickSor
 https://github.com/luisllamasbinaburo/Arduino-QuickMedian.git|Contributed|QuickMedianLib
 https://github.com/luisllamasbinaburo/Arduino-Threshold.git|Contributed|ThresholdLib
 https://github.com/SergiuToporjinschi/espmanager.git|Contributed|ESPManager
+https://github.com/SergiuToporjinschi/settingsmanager.git|Contributed|Settings Manager
