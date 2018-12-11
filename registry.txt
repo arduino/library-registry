@@ -2010,3 +2010,4 @@ https://github.com/FaBoPlatform/FaBoPWM-PCA9685-Library.git|Contributed|FaBo PWM
 https://github.com/MicroBahner/MobaTools.git|Contributed|MobaTools
 https://github.com/chrisjoyce911/esp32FOTA.git|Contributed|esp32FOTA
 https://github.com/5N44P/ht1621-7-seg.git|Contributed|HT1621
+https://github.com/dreed47/WifiMQTTManager.git|Contributed|WiFiMQTTManager Library
