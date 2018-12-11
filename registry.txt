@@ -2009,3 +2009,4 @@ https://github.com/SergiuToporjinschi/settingsmanager.git|Contributed|Settings M
 https://github.com/FaBoPlatform/FaBoPWM-PCA9685-Library.git|Contributed|FaBo PWM PCA9685
 https://github.com/MicroBahner/MobaTools.git|Contributed|MobaTools
 https://github.com/chrisjoyce911/esp32FOTA.git|Contributed|esp32FOTA
+https://github.com/5N44P/ht1621-7-seg.git|Contributed|HT1621
