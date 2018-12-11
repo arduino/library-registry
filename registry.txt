@@ -2004,3 +2004,4 @@ https://github.com/luisllamasbinaburo/Arduino-DoubleEmaFilter.git|Contributed|Do
 https://github.com/luisllamasbinaburo/Arduino-QuickSort.git|Contributed|QuickSortLib
 https://github.com/luisllamasbinaburo/Arduino-QuickMedian.git|Contributed|QuickMedianLib
 https://github.com/luisllamasbinaburo/Arduino-Threshold.git|Contributed|ThresholdLib
+https://github.com/SergiuToporjinschi/espmanager.git|Contributed|ESPManager
