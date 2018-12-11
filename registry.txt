@@ -2006,3 +2006,4 @@ https://github.com/luisllamasbinaburo/Arduino-QuickMedian.git|Contributed|QuickM
 https://github.com/luisllamasbinaburo/Arduino-Threshold.git|Contributed|ThresholdLib
 https://github.com/SergiuToporjinschi/espmanager.git|Contributed|ESPManager
 https://github.com/SergiuToporjinschi/settingsmanager.git|Contributed|Settings Manager
+https://github.com/FaBoPlatform/FaBoPWM-PCA9685-Library.git|Contributed|FaBo PWM PCA9685
