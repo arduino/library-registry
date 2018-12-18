@@ -2016,3 +2016,4 @@ https://github.com/plapointe6/EspMQTTClient.git|Contributed|EspMQTTClient
 https://github.com/adafruit/Adafruit_MFRC630.git|Contributed|Adafruit MFRC630 RFID
 https://github.com/mobinrg/JMAFoundation.git|Contributed|JMAFoundation
 https://github.com/mobinrg/JMASPComm.git|Contributed|JMA_SPComm
+https://github.com/janelia-arduino/PCA9685.git|Contributed|PCA9685
