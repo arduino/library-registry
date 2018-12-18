@@ -2017,3 +2017,4 @@ https://github.com/adafruit/Adafruit_MFRC630.git|Contributed|Adafruit MFRC630 RF
 https://github.com/mobinrg/JMAFoundation.git|Contributed|JMAFoundation
 https://github.com/mobinrg/JMASPComm.git|Contributed|JMA_SPComm
 https://github.com/janelia-arduino/PCA9685.git|Contributed|PCA9685
+https://github.com/ROBOTIS-GIT/ros2arduino.git|Contributed|ros2arduino
