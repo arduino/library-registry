@@ -1494,8 +1494,8 @@ https://github.com/SodaqMoja/Sodaq_UBlox_GPS.git|Contributed|Sodaq_UBlox_GPS
 https://github.com/Tockn/MPU6050_tockn.git|Contributed|MPU6050_tockn
 https://github.com/PulseRain/M10SevenSeg.git|Contributed|M10SevenSeg
 https://github.com/jefersonla/ArduinoLang.git|Contributed|ArduinoLang
-https://gitlab.com/zaber-core-libs/zaber-binary-arduino.git|Contributed|Zaber Binary
-https://gitlab.com/zaber-core-libs/zaber-ascii-arduino.git|Contributed|Zaber ASCII
+https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino.git|Contributed|Zaber Binary
+https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino.git|Contributed|Zaber ASCII
 https://github.com/sparkfun/Fingerprint_Scanner-TTL.git|Contributed|Fingerprint Scanner TTL
 https://github.com/amperpirat/MAX77650-Arduino-Library.git|Contributed|MAX77650-Arduino-Library
 https://github.com/horihiro/esp8266-google-tts.git|Contributed|esp8266-google-tts
