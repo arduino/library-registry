@@ -2020,3 +2020,4 @@ https://github.com/janelia-arduino/PCA9685.git|Contributed|PCA9685
 https://github.com/ROBOTIS-GIT/ros2arduino.git|Contributed|ros2arduino
 https://github.com/dobotopensource/AIStarter.git|Contributed|AIStarter
 https://github.com/tcafiero/NBduinoLibrary.git|Contributed|TopView NBduino Library
+https://github.com/Pylo/MinecraftLinkArduino.git|Contributed|Minecraft Link
