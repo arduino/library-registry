@@ -2014,3 +2014,4 @@ https://github.com/dreed47/WifiMQTTManager.git|Contributed|WiFiMQTTManager Libra
 https://github.com/sparkfun/SparkFun_Qwiic_Twist_Arduino_Library.git|Contributed|SparkFun Qwiic Twist Arduino Library
 https://github.com/plapointe6/EspMQTTClient.git|Contributed|EspMQTTClient
 https://github.com/adafruit/Adafruit_MFRC630.git|Contributed|Adafruit MFRC630 RFID
+https://github.com/mobinrg/JMAFoundation.git|Contributed|JMAFoundation
