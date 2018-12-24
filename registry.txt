@@ -2025,3 +2025,4 @@ https://github.com/souviksaha97/DAC7611.git|Contributed|DAC7611
 https://github.com/criesch/inficon-spot-lib.git|Contributed|INFICON Spot Library
 https://github.com/dimitre/DmtrPots.git|Contributed|DmtrPots
 https://github.com/Hardi-St/MobaLedLib.git|Contributed|MobaLedLib
+https://github.com/fabiuz7/dimmable_light_esp8266_lib.git|Contributed|Dimmable Light for ESP
