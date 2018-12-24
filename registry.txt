@@ -2029,3 +2029,4 @@ https://github.com/fabiuz7/dimmable_light_esp8266_lib.git|Contributed|Dimmable L
 https://github.com/Naguissa/uDebugLib.git|Contributed|uDebugLib
 https://github.com/Wolkabout/WolkConnect-Arduino.git|Contributed|WolkConnect
 https://github.com/FaBoPlatform/FaBoMotor-DRV8830-Library.git|Contributed|FaBo Motor DRV8830
+https://github.com/stm32duino/VL53L1X.git|Contributed|STM32duino VL53L1X
