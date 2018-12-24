@@ -2023,3 +2023,4 @@ https://github.com/tcafiero/NBduinoLibrary.git|Contributed|TopView NBduino Libra
 https://github.com/Pylo/MinecraftLinkArduino.git|Contributed|Minecraft Link
 https://github.com/souviksaha97/DAC7611.git|Contributed|DAC7611
 https://github.com/criesch/inficon-spot-lib.git|Contributed|INFICON Spot Library
+https://github.com/dimitre/DmtrPots.git|Contributed|DmtrPots
