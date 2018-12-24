@@ -2032,3 +2032,4 @@ https://github.com/FaBoPlatform/FaBoMotor-DRV8830-Library.git|Contributed|FaBo M
 https://github.com/stm32duino/VL53L1X.git|Contributed|STM32duino VL53L1X
 https://github.com/stm32duino/X-NUCLEO-53L1A1.git|Contributed|STM32duino X-NUCLEO-53L1A1
 https://github.com/gilmaimon/Arduino-CloudStorage.git|Contributed|ArduinoCloudStorage
+https://github.com/gilmaimon/ArduinoComponents.git|Contributed|ArduinoComponents
