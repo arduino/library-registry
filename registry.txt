@@ -2035,3 +2035,4 @@ https://github.com/gilmaimon/Arduino-CloudStorage.git|Contributed|ArduinoCloudSt
 https://github.com/gilmaimon/ArduinoComponents.git|Contributed|ArduinoComponents
 https://github.com/mcci-catena/Catena-mcciadk.git|Contributed|MCCI Arduino Development Kit ADK
 https://github.com/Aircoookie/Espalexa.git|Contributed|Espalexa
+https://github.com/keigan-motor/Arduino-I2C-KM1.git|Contributed|Arduino-I2C-KM1
