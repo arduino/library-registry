@@ -2039,3 +2039,4 @@ https://github.com/keigan-motor/Arduino-I2C-KM1.git|Contributed|Arduino-I2C-KM1
 https://github.com/thexperiments/NukiClientESP.git|Contributed|NukiClientESP
 https://github.com/OM222O/ADS1219.git|Contributed|ADS1219
 https://github.com/ofekp/TinyUPnP.git|Contributed|TinyUPnP
+https://github.com/TamojitSaha/MAX6626_library.git|Contributed|MAX6626
