@@ -2034,3 +2034,4 @@ https://github.com/stm32duino/X-NUCLEO-53L1A1.git|Contributed|STM32duino X-NUCLE
 https://github.com/gilmaimon/Arduino-CloudStorage.git|Contributed|ArduinoCloudStorage
 https://github.com/gilmaimon/ArduinoComponents.git|Contributed|ArduinoComponents
 https://github.com/mcci-catena/Catena-mcciadk.git|Contributed|MCCI Arduino Development Kit ADK
+https://github.com/Aircoookie/Espalexa.git|Contributed|Espalexa
