@@ -2074,3 +2074,4 @@ https://github.com/thinger-io/Core32.git|Contributed|ThingerCore32
 https://github.com/MrYsLab/FirmataExpress.git|Contributed|FirmataExpress
 https://github.com/Iainmon/altino.git|Contributed|Altino
 https://github.com/aster94/Keyword-Protocol-2000.git|Contributed|KWP2000
+https://github.com/STEMpedia/Dabble.git|Contributed|Dabble
