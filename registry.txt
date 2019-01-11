@@ -2073,3 +2073,4 @@ https://github.com/flyingeinstein/Restfully.git|Contributed|Restfully
 https://github.com/thinger-io/Core32.git|Contributed|ThingerCore32
 https://github.com/MrYsLab/FirmataExpress.git|Contributed|FirmataExpress
 https://github.com/Iainmon/altino.git|Contributed|Altino
+https://github.com/aster94/Keyword-Protocol-2000.git|Contributed|KWP2000
