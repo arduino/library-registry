@@ -2047,3 +2047,4 @@ https://github.com/JCardoen/ATmega32U4-Grove-Air-quality-sensor.git|Contributed|
 https://github.com/Programmable-Air/Code.git|Contributed|programmable_air
 https://github.com/paulo-raca/Arduino_AsyncLiquidCrystal.git|Contributed|AsyncLiquidCrystal
 https://github.com/RobotCing/Attiny85_IO.git|Contributed|Attiny85_IO
+https://github.com/RobotCing/Attiny85_IO_basic.git|Contributed|Attiny85_IO_basic
