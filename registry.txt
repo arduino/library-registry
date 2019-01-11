@@ -2045,3 +2045,4 @@ https://github.com/IharYakimush/arduino-temperature-control-events.git|Contribut
 https://github.com/ZulNs/LCD_HD44780.git|Contributed|LCD_HD44780
 https://github.com/JCardoen/ATmega32U4-Grove-Air-quality-sensor.git|Contributed|ATmega32U4 Grove Air quality sensor
 https://github.com/Programmable-Air/Code.git|Contributed|programmable_air
+https://github.com/paulo-raca/Arduino_AsyncLiquidCrystal.git|Contributed|AsyncLiquidCrystal
