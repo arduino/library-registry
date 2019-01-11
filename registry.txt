@@ -2070,3 +2070,4 @@ https://github.com/hideakitai/RingBuffer.git|Contributed|RingBuffers
 https://github.com/hideakitai/VectorXf.git|Contributed|VectorXf
 https://github.com/hideakitai/SPIExtension.git|Contributed|SPIExtension
 https://github.com/flyingeinstein/Restfully.git|Contributed|Restfully
+https://github.com/thinger-io/Core32.git|Contributed|ThingerCore32
