@@ -2054,3 +2054,4 @@ https://github.com/RobotCing/Atmega8_IO.git|Contributed|Atmega8_IO
 https://github.com/RobotCing/Atmega8_IO_basic.git|Contributed|Atmega8_IO_basic
 https://github.com/RobotCing/Atmega328_IO.git|Contributed|Atmega328_IO
 https://github.com/FaBoPlatform/FaBoGPIO40-PCA9698-Library.git|Contributed|FaBo GPIO40 PCA9698
+https://github.com/ArminJo/Talkie.git|Contributed|Talkie
