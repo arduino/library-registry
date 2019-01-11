@@ -2026,7 +2026,6 @@ https://github.com/souviksaha97/DAC7611.git|Contributed|DAC7611
 https://github.com/criesch/inficon-spot-lib.git|Contributed|INFICON Spot Library
 https://github.com/dimitre/DmtrPots.git|Contributed|DmtrPots
 https://github.com/Hardi-St/MobaLedLib.git|Contributed|MobaLedLib
-https://github.com/fabiuz7/dimmable_light_esp8266_lib.git|Contributed|Dimmable Light for ESP
 https://github.com/Naguissa/uDebugLib.git|Contributed|uDebugLib
 https://github.com/Wolkabout/WolkConnect-Arduino.git|Contributed|WolkConnect
 https://github.com/FaBoPlatform/FaBoMotor-DRV8830-Library.git|Contributed|FaBo Motor DRV8830
@@ -2056,3 +2055,4 @@ https://github.com/RobotCing/Atmega328_IO.git|Contributed|Atmega328_IO
 https://github.com/FaBoPlatform/FaBoGPIO40-PCA9698-Library.git|Contributed|FaBo GPIO40 PCA9698
 https://github.com/ArminJo/Talkie.git|Contributed|Talkie
 https://bitbucket.org/christandlg/bmx280mi.git|Contributed|BMx280MI
+https://github.com/fabiuz7/dimmable_light_esp8266_lib.git|Contributed|Dimmable Light for Arduino
