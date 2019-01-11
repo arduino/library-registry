@@ -2056,3 +2056,4 @@ https://github.com/FaBoPlatform/FaBoGPIO40-PCA9698-Library.git|Contributed|FaBo 
 https://github.com/ArminJo/Talkie.git|Contributed|Talkie
 https://bitbucket.org/christandlg/bmx280mi.git|Contributed|BMx280MI
 https://github.com/fabiuz7/dimmable_light_esp8266_lib.git|Contributed|Dimmable Light for Arduino
+https://github.com/jmparatte/jm_PCF8574.git|Contributed|jm_PCF8574
