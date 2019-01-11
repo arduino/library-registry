@@ -2062,3 +2062,4 @@ https://github.com/hideakitai/StopWatch.git|Contributed|StopWatch
 https://github.com/hideakitai/XBeeATCmds.git|Contributed|XBeeATCmds
 https://github.com/hideakitai/Debouncer.git|Contributed|Debouncer
 https://github.com/hideakitai/CRC.git|Contributed|CRC
+https://github.com/hideakitai/Filters.git|Contributed|Filters
