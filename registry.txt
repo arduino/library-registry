@@ -1917,7 +1917,8 @@ https://github.com/chipKIT32-libraries/PICxel.git|Contributed|PICxel
 https://gitlab.com/arduino-libraries/i2commands.git|Contributed|I2Commands
 https://bitbucket.org/christandlg/bmp180mi.git|Contributed|BMP180MI
 https://github.com/mairas/ReactESP.git|Contributed|ReactESP
-https://github.com/madhephaestus/BNO055SimplePacketComs.git|Contributed|BNO055SimplePacketComs
+#Deactivated - conflits with Adafruit_Sensors.h
+#https://github.com/madhephaestus/BNO055SimplePacketComs.git|Contributed|BNO055SimplePacketComs
 https://github.com/madhephaestus/ESP32Encoder.git|Contributed|ESP32Encoder
 https://github.com/BlokasLabs/USBMIDI.git|Contributed|USBMIDI
 https://github.com/janelia-arduino/Streaming.git|Contributed|Streaming
