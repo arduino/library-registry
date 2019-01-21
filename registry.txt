@@ -2086,3 +2086,4 @@ https://github.com/chunkysteveo/FortniteAPI.git|Contributed|FortniteAPI
 https://github.com/dadul96/Arduino-Servo-Hardware-PWM-Library.git|Contributed|Servo Hardware PWM
 https://github.com/HelTecAutomation/Heltec_ESP32.git|Contributed|Heltec ESP32 Dev-Boards
 https://github.com/sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library.git|Contributed|SparkFun Qwiic MP3 Trigger Arduino Library
+https://github.com/antaresdocumentation/antares-esp8266-http.git|Contributed|Antares ESP8266 HTTP
