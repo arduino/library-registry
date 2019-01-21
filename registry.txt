@@ -2082,3 +2082,4 @@ https://github.com/GordonRudman/ExampleArduinoLibrary.git|Contributed|ExampleLib
 https://github.com/SV-Zanshin/INA.git|Contributed|INA2xx
 https://github.com/SV-Zanshin/MCP7940.git|Contributed|MCP7940
 https://github.com/fabriziop/TalkingLED.git|Contributed|TalkingLED
+https://github.com/chunkysteveo/FortniteAPI.git|Contributed|FortniteAPI
