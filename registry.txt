@@ -2080,3 +2080,4 @@ https://github.com/STEMpedia/Dabble.git|Contributed|Dabble
 https://github.com/asukiaaa/EPD.git|Contributed|EPD
 https://github.com/GordonRudman/ExampleArduinoLibrary.git|Contributed|ExampleLibrary
 https://github.com/SV-Zanshin/INA.git|Contributed|INA2xx
+https://github.com/SV-Zanshin/MCP7940.git|Contributed|MCP7940
