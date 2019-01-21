@@ -2078,3 +2078,4 @@ https://github.com/Iainmon/altino.git|Contributed|Altino
 https://github.com/aster94/Keyword-Protocol-2000.git|Contributed|KWP2000
 https://github.com/STEMpedia/Dabble.git|Contributed|Dabble
 https://github.com/asukiaaa/EPD.git|Contributed|EPD
+https://github.com/GordonRudman/ExampleArduinoLibrary.git|Contributed|ExampleLibrary
