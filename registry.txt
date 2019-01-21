@@ -2088,3 +2088,4 @@ https://github.com/HelTecAutomation/Heltec_ESP32.git|Contributed|Heltec ESP32 De
 https://github.com/sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library.git|Contributed|SparkFun Qwiic MP3 Trigger Arduino Library
 https://github.com/antaresdocumentation/antares-esp8266-http.git|Contributed|Antares ESP8266 HTTP
 https://github.com/vmasdani/antares-esp8266-mqtt.git|Contributed|Antares ESP8266 MQTT
+https://github.com/LinnesLab/LMP91000.git|Contributed|LMP91000
