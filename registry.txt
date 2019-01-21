@@ -2090,3 +2090,4 @@ https://github.com/antaresdocumentation/antares-esp8266-http.git|Contributed|Ant
 https://github.com/vmasdani/antares-esp8266-mqtt.git|Contributed|Antares ESP8266 MQTT
 https://github.com/LinnesLab/LMP91000.git|Contributed|LMP91000
 https://github.com/texie/TeXie_arduino.git|Contributed|TeXie arduino Client
+https://github.com/offcircuit/Batflow.git|Contributed|Batflow
