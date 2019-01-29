@@ -2112,3 +2112,4 @@ https://github.com/LoganTraceur/LogansGreatButton.git|Contributed|LogansGreatBut
 https://github.com/MicroGamerConsole/MicroGamer-Arduino.git|Contributed|MicroGamer
 https://github.com/SV-Zanshin/DS1631.git|Contributed|DS1631
 https://github.com/SV-Zanshin/DS3231M.git|Contributed|DS3231M
+https://github.com/SV-Zanshin/DSFamily.git|Contributed|DSFamily
