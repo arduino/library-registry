@@ -2109,3 +2109,4 @@ https://github.com/nathanRamaNoodles/SensorToButton.git|Contributed|SensorToButt
 https://github.com/SV-Zanshin/MicrochipSRAM.git|Contributed|MicrochipSRAM
 https://github.com/SV-Zanshin/BME680.git|Contributed|BME680
 https://github.com/LoganTraceur/LogansGreatButton.git|Contributed|LogansGreatButton
+https://github.com/MicroGamerConsole/MicroGamer-Arduino.git|Contributed|MicroGamer
