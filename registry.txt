@@ -2100,3 +2100,4 @@ https://github.com/janelia-arduino/MPR121.git|Contributed|MPR121
 https://github.com/coddingtonbear/arduino-managed-serial-device.git|Contributed|arduino-managed-serial-device
 https://github.com/GabrielNotman/RTCCounter.git|Contributed|RTCCounter
 https://github.com/GabrielNotman/cryptoauthlib.git|Contributed|CryptoAuthLib
+https://github.com/witnessmenow/tindie-api-arduino.git|Contributed|TindieApi
