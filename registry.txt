@@ -2104,3 +2104,4 @@ https://github.com/witnessmenow/tindie-api-arduino.git|Contributed|TindieApi
 https://github.com/OpenCIAg/BlueFairy.git|Contributed|BlueFairy
 https://github.com/oroca/OROCA-EduBot-Library.git|Contributed|OROCA-EduBot
 https://github.com/nathanRamaNoodles/TinkerController-Library.git|Contributed|TinkerController
+https://github.com/SV-Zanshin/VCNL4010.git|Contributed|VCNL4010
