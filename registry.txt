@@ -2097,3 +2097,4 @@ https://github.com/highno/rtcvars.git|Contributed|RTCVars
 https://github.com/adafruit/Adafruit_MLX90393_Library.git|Contributed|Adafruit MLX90393
 https://github.com/JoaoLopesF/ESP32MotorControl.git|Contributed|ESP32MotorControl
 https://github.com/janelia-arduino/MPR121.git|Contributed|MPR121
+https://github.com/coddingtonbear/arduino-managed-serial-device.git|Contributed|arduino-managed-serial-device
