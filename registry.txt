@@ -2095,3 +2095,4 @@ https://github.com/offcircuit/DTime.git|Contributed|DTime
 https://github.com/stefangs/arduino-library-braccio-robot.git|Contributed|BraccioRobot
 https://github.com/highno/rtcvars.git|Contributed|RTCVars
 https://github.com/adafruit/Adafruit_MLX90393_Library.git|Contributed|Adafruit MLX90393
+https://github.com/JoaoLopesF/ESP32MotorControl.git|Contributed|ESP32MotorControl
