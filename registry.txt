@@ -2116,3 +2116,4 @@ https://github.com/SV-Zanshin/DSFamily.git|Contributed|DSFamily
 https://github.com/Warlib1975/ModbusConfig.git|Contributed|ModbusConfig
 https://github.com/WifWaf/MH-Z19.git|Contributed|MH-Z19
 https://github.com/SV-Zanshin/MB85_FRAM.git|Contributed|MB85_FRAM
+https://github.com/electric-sheep-co/arduino-redis.git|Contributed|Redis for Arduino
