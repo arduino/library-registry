@@ -2114,3 +2114,4 @@ https://github.com/SV-Zanshin/DS1631.git|Contributed|DS1631
 https://github.com/SV-Zanshin/DS3231M.git|Contributed|DS3231M
 https://github.com/SV-Zanshin/DSFamily.git|Contributed|DSFamily
 https://github.com/Warlib1975/ModbusConfig.git|Contributed|ModbusConfig
+https://github.com/WifWaf/MH-Z19.git|Contributed|MH-Z19
