@@ -2107,3 +2107,4 @@ https://github.com/nathanRamaNoodles/TinkerController-Library.git|Contributed|Ti
 https://github.com/SV-Zanshin/VCNL4010.git|Contributed|VCNL4010
 https://github.com/nathanRamaNoodles/SensorToButton.git|Contributed|SensorToButton
 https://github.com/SV-Zanshin/MicrochipSRAM.git|Contributed|MicrochipSRAM
+https://github.com/SV-Zanshin/BME680.git|Contributed|BME680
