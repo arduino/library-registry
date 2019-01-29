@@ -2101,3 +2101,4 @@ https://github.com/coddingtonbear/arduino-managed-serial-device.git|Contributed|
 https://github.com/GabrielNotman/RTCCounter.git|Contributed|RTCCounter
 https://github.com/GabrielNotman/cryptoauthlib.git|Contributed|CryptoAuthLib
 https://github.com/witnessmenow/tindie-api-arduino.git|Contributed|TindieApi
+https://github.com/OpenCIAg/BlueFairy.git|Contributed|BlueFairy
