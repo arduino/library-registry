@@ -2120,3 +2120,4 @@ https://github.com/electric-sheep-co/arduino-redis.git|Contributed|Redis for Ard
 https://github.com/souviksaha97/MCP3202.git|Contributed|MCP3202
 https://github.com/NilsMinor/TMP117-Arduino.git|Contributed|TMP117-Arduino
 https://github.com/laurb9/StepperDriver.git|Contributed|StepperDriver
+https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LED Library
