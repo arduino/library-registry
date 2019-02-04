@@ -52,6 +52,7 @@ https://github.com/arduino-libraries/ArduinoBLE.git|Arduino|ArduinoBLE
 https://github.com/arduino-libraries/MKRNB.git|Arduino|MKRNB
 https://github.com/arduino-libraries/ArduinoMqttClient.git|Arduino|ArduinoMqttClient
 https://github.com/arduino/ArduinoCloudProviderExamples.git|Arduino|Arduino Cloud Provider Examples
+https://github.com/arduino-libraries/MKRIMU.git|Arduino|MKRIMU
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
