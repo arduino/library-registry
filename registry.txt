@@ -2125,3 +2125,4 @@ https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Contr
 https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01 4WSPI Library
 https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay ILI9163C Arduino Library
 https://github.com/bitbank2/Multi_OLED.git|Contributed|Multi_OLED
+https://github.com/bitbank2/Multi_BitBang.git|Contributed|Multi_BitBang
