@@ -2136,3 +2136,4 @@ https://github.com/Noxcorp/Nox_Environment.git|Contributed|Nox_Environment
 https://github.com/ElectronicCats/mpu6050.git|Contributed|MPU6050
 https://github.com/LaCocoRoco/DataVisualizer.git|Contributed|DataVisualizer
 https://github.com/JiriBilek/WiFiSpi.git|Contributed|WiFiSpi
+https://github.com/adafruit/Adafruit_ADXL343.git|Contributed|Adafruit ADXL343
