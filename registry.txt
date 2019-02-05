@@ -2127,3 +2127,4 @@ https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary.git|Contributed
 https://github.com/bitbank2/Multi_OLED.git|Contributed|Multi_OLED
 https://github.com/bitbank2/Multi_BitBang.git|Contributed|Multi_BitBang
 https://github.com/uStepper/uStepperS.git|Contributed|uStepper S
+https://github.com/yergin/Yabl.git|Contributed|YetAnotherButtonLibrary
