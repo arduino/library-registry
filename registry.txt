@@ -2122,3 +2122,4 @@ https://github.com/souviksaha97/MCP3202.git|Contributed|MCP3202
 https://github.com/NilsMinor/TMP117-Arduino.git|Contributed|TMP117-Arduino
 https://github.com/laurb9/StepperDriver.git|Contributed|StepperDriver
 https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LED Library
+https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01 4WSPI Library
