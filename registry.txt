@@ -2088,7 +2088,6 @@ https://github.com/dadul96/Arduino-Servo-Hardware-PWM-Library.git|Contributed|Se
 https://github.com/HelTecAutomation/Heltec_ESP32.git|Contributed|Heltec ESP32 Dev-Boards
 https://github.com/sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library.git|Contributed|SparkFun Qwiic MP3 Trigger Arduino Library
 https://github.com/antaresdocumentation/antares-esp8266-http.git|Contributed|Antares ESP8266 HTTP
-https://github.com/vmasdani/antares-esp8266-mqtt.git|Contributed|Antares ESP8266 MQTT
 https://github.com/LinnesLab/LMP91000.git|Contributed|LMP91000
 https://github.com/texie/TeXie_arduino.git|Contributed|TeXie arduino Client
 https://github.com/offcircuit/Batflow.git|Contributed|Batflow
@@ -2128,3 +2127,4 @@ https://github.com/bitbank2/Multi_OLED.git|Contributed|Multi_OLED
 https://github.com/bitbank2/Multi_BitBang.git|Contributed|Multi_BitBang
 https://github.com/uStepper/uStepperS.git|Contributed|uStepper S
 https://github.com/yergin/Yabl.git|Contributed|YetAnotherButtonLibrary
+https://github.com/antaresdocumentation/antares-esp8266-mqtt.git|Contributed|Antares ESP8266 MQTT
