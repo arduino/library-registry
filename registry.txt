@@ -2128,3 +2128,4 @@ https://github.com/bitbank2/Multi_BitBang.git|Contributed|Multi_BitBang
 https://github.com/uStepper/uStepperS.git|Contributed|uStepper S
 https://github.com/yergin/Yabl.git|Contributed|YetAnotherButtonLibrary
 https://github.com/antaresdocumentation/antares-esp8266-mqtt.git|Contributed|Antares ESP8266 MQTT
+https://github.com/iotize-sas/Arduino-Tap.git|Contributed|Tap
