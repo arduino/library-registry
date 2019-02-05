@@ -1424,7 +1424,6 @@ https://github.com/TriadSemi/TS8000.git|Contributed|TS8000 Library
 https://github.com/SodaqMoja/Sodaq_LPS22HB.git|Contributed|Sodaq_LPS22HB
 https://github.com/SodaqMoja/Sodaq_HTS221.git|Contributed|Sodaq_HTS221
 https://github.com/udoklein/MLX90393_raw.git|Contributed|MLX90393_raw
-https://github.com/jaean123/ArduinoBlue-library.git|Contributed|ArduinoBlue
 https://github.com/witnessmenow/arduino-instagram-stats.git|Contributed|InstagramStats
 https://github.com/Floessie/frt.git|Contributed|frt
 https://github.com/bxparks/AceButton.git|Contributed|AceButton
@@ -2132,3 +2131,4 @@ https://github.com/iotize-sas/Arduino-Tap.git|Contributed|Tap
 https://github.com/ricki-z/MMA7455.git|Contributed|MMA7455 sensor Library
 https://github.com/Isaranu/pm25senses.git|Contributed|pm25senses
 https://github.com/SV-Zanshin/MAX31855.git|Contributed|MAX31855
+https://github.com/purwar2016/ArduinoBlue-library.git|Contributed|ArduinoBlue
