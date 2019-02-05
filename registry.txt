@@ -2131,3 +2131,4 @@ https://github.com/antaresdocumentation/antares-esp8266-mqtt.git|Contributed|Ant
 https://github.com/iotize-sas/Arduino-Tap.git|Contributed|Tap
 https://github.com/ricki-z/MMA7455.git|Contributed|MMA7455 sensor Library
 https://github.com/Isaranu/pm25senses.git|Contributed|pm25senses
+https://github.com/SV-Zanshin/MAX31855.git|Contributed|MAX31855
