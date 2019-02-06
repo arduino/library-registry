@@ -33,7 +33,6 @@ https://github.com/arduino-libraries/AudioFrequencyMeter.git|Arduino|AudioFreque
 https://github.com/arduino-libraries/MadgwickAHRS.git|Arduino|Madgwick
 https://github.com/arduino-libraries/MIDIUSB.git|Arduino|MIDIUSB
 https://github.com/arduino-libraries/NTPClient.git|Arduino|NTPClient
-https://github.com/arduino-libraries/ArduinoCloud.git|Arduino|ArduinoCloud
 https://github.com/arduino-libraries/ArduinoHttpClient.git|Arduino|ArduinoHttpClient
 https://github.com/arduino-libraries/ArduinoSound.git|Arduino|ArduinoSound
 https://github.com/arduino-libraries/ArduinoMDNS.git|Arduino|ArduinoMDNS
@@ -53,6 +52,9 @@ https://github.com/arduino-libraries/MKRNB.git|Arduino|MKRNB
 https://github.com/arduino-libraries/ArduinoMqttClient.git|Arduino|ArduinoMqttClient
 https://github.com/arduino/ArduinoCloudProviderExamples.git|Arduino|Arduino Cloud Provider Examples
 https://github.com/arduino-libraries/MKRIMU.git|Arduino|MKRIMU
+https://github.com/arduino-libraries/ArduinoCloudThing.git|Arduino|ArduinoCloudThing
+https://github.com/arduino-libraries/ArduinoIoTCloud.git|Arduino|ArduinoIoTCloud
+https://github.com/arduino-libraries/ArduinoIoTCloudBearSSL.git|Arduino|ArduinoIoTCloudBearSSL
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
