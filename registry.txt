@@ -2141,3 +2141,4 @@ https://github.com/JiriBilek/WiFiSpi.git|Contributed|WiFiSpi
 https://github.com/adafruit/Adafruit_ADXL343.git|Contributed|Adafruit ADXL343
 https://github.com/alrevuelta/SEN10724.git|Contributed|SEN10724
 https://github.com/bitluni/ESP32Lib.git|Contributed|bitluni ESP32Lib
+https://github.com/ubidefeo/FTDebouncer|Contributed|FTDebouncer
