@@ -2148,3 +2148,4 @@ https://github.com/jonnieZG/EButton.git|Contributed|EButton
 https://github.com/jonnieZG/DFPlayerMini.git|Contributed|DFPlayerMini
 https://github.com/jonnieZG/EWMA.git|Contributed|EWMA
 https://github.com/Legion2/CorsairLightingProtocol.git|Contributed|Corsair Lighting Protocol
+https://github.com/adafruit/Adafruit_ADT7410.git|Contributed|Adafruit ADT7410 Library
