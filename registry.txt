@@ -2156,3 +2156,4 @@ https://github.com/sauttefk/RS485HwSerial.git|Contributed|RS485HwSerial
 https://github.com/dmadison/HID_Buttons.git|Contributed|HID Buttons
 https://github.com/sleepdefic1t/BIP66.git|Contributed|BIP66
 https://github.com/rleddy/tinycmdtable.git|Contributed|TinyCmdTable
+https://github.com/fdivitto/FabGL.git|Contributed|FabGL
