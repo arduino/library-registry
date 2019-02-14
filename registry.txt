@@ -2153,3 +2153,4 @@ https://github.com/dwrobel/TrivialKalmanFilter.git|Contributed|TrivialKalmanFilt
 https://github.com/dgduncan/Arduino-MCP4131.git|Contributed|MCP4131 library
 https://github.com/BeelanMX/arduino-LoRaWAN.git|Contributed|Arduino LoRaWAN by Beelan
 https://github.com/sauttefk/RS485HwSerial.git|Contributed|RS485HwSerial
+https://github.com/dmadison/HID_Buttons.git|Contributed|HID Buttons
