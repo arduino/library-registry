@@ -2163,3 +2163,4 @@ https://github.com/CytronTechnologies/CytronMotorDriver.git|Contributed|Cytron M
 https://github.com/uStepper/egoShieldS.git|Contributed|egoShieldS
 https://github.com/jackrobotics/iSYNC_BC95_Arduino.git|Contributed|iSYNC_BC95_Arduino
 https://github.com/IoTWay/IoTWay-Arduino.git|Contributed|IoTWay
+https://github.com/RexMORE/MOREbot_Library.git|Contributed|MOREbot Library
