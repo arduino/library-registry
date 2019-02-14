@@ -2130,7 +2130,7 @@ https://github.com/bitbank2/Multi_BitBang.git|Contributed|Multi_BitBang
 https://github.com/uStepper/uStepperS.git|Contributed|uStepper S
 https://github.com/yergin/Yabl.git|Contributed|YetAnotherButtonLibrary
 https://github.com/antaresdocumentation/antares-esp8266-mqtt.git|Contributed|Antares ESP8266 MQTT
-https://github.com/iotize-sas/Arduino-Tap.git|Contributed|Tap
+https://github.com/iotize-sas/Arduino-Tap.git|Contributed|ArdTap
 https://github.com/ricki-z/MMA7455.git|Contributed|MMA7455 sensor Library
 https://github.com/Isaranu/pm25senses.git|Contributed|pm25senses
 https://github.com/SV-Zanshin/MAX31855.git|Contributed|MAX31855
