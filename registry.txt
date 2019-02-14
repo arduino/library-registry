@@ -2161,3 +2161,4 @@ https://github.com/Saeterncj/MX1508.git|Contributed|MX1508
 https://github.com/Saeterncj/QuadratureEncoder.git|Contributed|QuadratureEncoder
 https://github.com/CytronTechnologies/CytronMotorDriver.git|Contributed|Cytron Motor Drivers Library
 https://github.com/uStepper/egoShieldS.git|Contributed|egoShieldS
+https://github.com/jackrobotics/iSYNC_BC95_Arduino.git|Contributed|iSYNC_BC95_Arduino
