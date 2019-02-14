@@ -263,6 +263,7 @@ https://github.com/sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library.git
 https://github.com/sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library.git|Contributed|Sparkfun T5403 Barometric Sensor Library
 https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library.git|Contributed|SX1509 IO Expander
 https://github.com/sparkfun/SparkFun_LSM9DS0_Arduino_Library.git|Contributed|SparkFun LSM9DS0 Breakout
+https://github.com/sparkfun/SparkFun_LSM9DS1_Arduino_Library.git|Contributed|SparkFun LSM9DS1 IMU
 https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library.git|Contributed|SparkFun HTU21D Humidity and Temperature Sensor Breakout
 https://github.com/sparkfun/SparkFun_MMA8452Q_Arduino_Library.git|Contributed|SparkFun MMA8452Q Accelerometer
 https://github.com/sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library.git|Contributed|SparkFun MS5803-14BA Pressure Sensor
