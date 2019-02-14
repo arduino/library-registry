@@ -2146,3 +2146,4 @@ https://github.com/ubidefeo/FTDebouncer.git|Contributed|FTDebouncer
 https://github.com/SV-Zanshin/BME280.git|Contributed|BME280_Zanshin
 https://github.com/jonnieZG/EButton.git|Contributed|EButton
 https://github.com/jonnieZG/DFPlayerMini.git|Contributed|DFPlayerMini
+https://github.com/jonnieZG/EWMA.git|Contributed|EWMA
