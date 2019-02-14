@@ -2145,3 +2145,4 @@ https://github.com/bitluni/ESP32Lib.git|Contributed|bitluni ESP32Lib
 https://github.com/ubidefeo/FTDebouncer.git|Contributed|FTDebouncer
 https://github.com/SV-Zanshin/BME280.git|Contributed|BME280_Zanshin
 https://github.com/jonnieZG/EButton.git|Contributed|EButton
+https://github.com/jonnieZG/DFPlayerMini.git|Contributed|DFPlayerMini
