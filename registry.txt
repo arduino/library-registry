@@ -2150,3 +2150,4 @@ https://github.com/jonnieZG/EWMA.git|Contributed|EWMA
 https://github.com/Legion2/CorsairLightingProtocol.git|Contributed|Corsair Lighting Protocol
 https://github.com/adafruit/Adafruit_ADT7410.git|Contributed|Adafruit ADT7410 Library
 https://github.com/dwrobel/TrivialKalmanFilter.git|Contributed|TrivialKalmanFilter
+https://github.com/dgduncan/Arduino-MCP4131.git|Contributed|MCP4131 library
