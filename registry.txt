@@ -2181,3 +2181,4 @@ https://github.com/harvie/ps2dev.git|Contributed|ps2dev
 https://github.com/gabriel-milan/TinyMPU6050.git|Contributed|TinyMPU6050
 https://github.com/OladapoAjala/Drive.git|Contributed|Drive
 https://github.com/OladapoAjala/Robot.git|Contributed|Robot
+https://github.com/stm32duino/X-NUCLEO-GNSS1A1.git|Contributed|STM32duino X-NUCLEO-GNSS1A1
