@@ -2169,3 +2169,4 @@ https://github.com/muwerk/munet.git|Contributed|munet
 https://github.com/jcubuntu/IKB1_Arduino.git|Contributed|iKB1_Arduino
 https://github.com/chirp/chirp-arduino.git|Contributed|ChirpSDK
 https://github.com/siara-cc/esp32_arduino_sqlite3_lib.git|Contributed|Sqlite3Esp32
+https://github.com/sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library.git|Contributed|SparkFun Qwiic Joystick Arduino Library
