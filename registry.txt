@@ -2189,3 +2189,4 @@ https://github.com/zerokol/eFLL.git|Contributed|eFLL
 https://github.com/sparkfun/SparkFun_APDS9301_Library.git|Contributed|SparkFun APDS-9301 Lux Sensor
 https://github.com/u-fire/Isolated_EC.git|Contributed|Isolated EC Probe Interface
 https://github.com/asukiaaa/ST7032_asukiaaa.git|Contributed|ST7032_asukiaaa
+https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3.git|Contributed|MiDispositivoMIDI_V3
