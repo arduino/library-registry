@@ -2173,3 +2173,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library.git|Contribu
 https://github.com/technosf/ESPxRGB.git|Contributed|ESPxRGB
 https://github.com/ArkEcosystem/cpp-client.git|Contributed|Ark-Cpp-Client
 https://github.com/ArkEcosystem/cpp-crypto.git|Contributed|Ark-Cpp-Crypto
+https://github.com/yurilopes/SPIFFSIniFile.git|Contributed|SPIFFSIniFile
