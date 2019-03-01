@@ -2198,3 +2198,4 @@ https://github.com/rootfrogs/Arduino-GetInTouch-library.git|Contributed|GetInTou
 https://github.com/funkyfisch/arduino-knock-detector.git|Contributed|Knock Detector
 https://github.com/IoTGuruLive/theiotguru-arduino-library.git|Contributed|The IoT Guru integration
 https://github.com/JoaoLopesF/RemoteDebugger.git|Contributed|RemoteDebugger
+https://github.com/torsteinnh/conductivityLib.git|Contributed|ConductivityLib
