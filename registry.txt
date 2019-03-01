@@ -2174,3 +2174,4 @@ https://github.com/technosf/ESPxRGB.git|Contributed|ESPxRGB
 https://github.com/ArkEcosystem/cpp-client.git|Contributed|Ark-Cpp-Client
 https://github.com/ArkEcosystem/cpp-crypto.git|Contributed|Ark-Cpp-Crypto
 https://github.com/yurilopes/SPIFFSIniFile.git|Contributed|SPIFFSIniFile
+https://github.com/ssilverman/SLIPStream.git|Contributed|SLIPStream
