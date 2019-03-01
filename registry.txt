@@ -2172,3 +2172,4 @@ https://github.com/siara-cc/esp32_arduino_sqlite3_lib.git|Contributed|Sqlite3Esp
 https://github.com/sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library.git|Contributed|SparkFun Qwiic Joystick Arduino Library
 https://github.com/technosf/ESPxRGB.git|Contributed|ESPxRGB
 https://github.com/ArkEcosystem/cpp-client.git|Contributed|Ark-Cpp-Client
+https://github.com/ArkEcosystem/cpp-crypto.git|Contributed|Ark-Cpp-Crypto
