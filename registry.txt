@@ -2180,3 +2180,4 @@ https://github.com/jandrassy/ArduinoOTA.git|Contributed|ArduinoOTA
 https://github.com/harvie/ps2dev.git|Contributed|ps2dev
 https://github.com/gabriel-milan/TinyMPU6050.git|Contributed|TinyMPU6050
 https://github.com/OladapoAjala/Drive.git|Contributed|Drive
+https://github.com/OladapoAjala/Robot.git|Contributed|Robot
