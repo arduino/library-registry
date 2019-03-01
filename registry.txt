@@ -2193,3 +2193,4 @@ https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3.git|Contributed|MiDi
 https://github.com/gmarty2000/arduino-LED.git|Contributed|LED
 https://github.com/budryerson/TFMini-Plus.git|Contributed|TFMPlus
 https://github.com/offcircuit/SDHT.git|Contributed|SDHT
+https://github.com/janthefischer/SerialVariable.git|Contributed|SerialVariable
