@@ -2176,3 +2176,4 @@ https://github.com/ArkEcosystem/cpp-crypto.git|Contributed|Ark-Cpp-Crypto
 https://github.com/yurilopes/SPIFFSIniFile.git|Contributed|SPIFFSIniFile
 https://github.com/ssilverman/SLIPStream.git|Contributed|SLIPStream
 https://github.com/HelTecAutomation/Heltec_ESP8266.git|Contributed|Heltec ESP8266 Dev-Boards
+https://github.com/jandrassy/ArduinoOTA.git|Contributed|ArduinoOTA
