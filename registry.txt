@@ -2200,3 +2200,4 @@ https://github.com/IoTGuruLive/theiotguru-arduino-library.git|Contributed|The Io
 https://github.com/JoaoLopesF/RemoteDebugger.git|Contributed|RemoteDebugger
 https://github.com/torsteinnh/conductivityLib.git|Contributed|ConductivityLib
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay SSD1309 Arduino Library
+https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay Transparent Grahical OLED Library
