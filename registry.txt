@@ -2135,7 +2135,6 @@ https://github.com/ricki-z/MMA7455.git|Contributed|MMA7455 sensor Library
 https://github.com/Isaranu/pm25senses.git|Contributed|pm25senses
 https://github.com/SV-Zanshin/MAX31855.git|Contributed|MAX31855
 https://github.com/purwar2016/ArduinoBlue-library.git|Contributed|ArduinoBlue
-https://github.com/Noxcorp/Nox_Environment.git|Contributed|Nox_Environment
 https://github.com/ElectronicCats/mpu6050.git|Contributed|MPU6050
 https://github.com/LaCocoRoco/DataVisualizer.git|Contributed|DataVisualizer
 https://github.com/JiriBilek/WiFiSpi.git|Contributed|WiFiSpi
@@ -2165,3 +2164,4 @@ https://github.com/jackrobotics/iSYNC_BC95_Arduino.git|Contributed|iSYNC_BC95_Ar
 https://github.com/IoTWay/IoTWay-Arduino.git|Contributed|IoTWay
 https://github.com/RexMORE/MOREbot_Library.git|Contributed|MOREbot Library
 https://github.com/gilmaimon/ArduinoWebsockets.git|Contributed|ArduinoWebsockets
+https://github.com/akkoyun/Environment.git|Contributed|Environment
