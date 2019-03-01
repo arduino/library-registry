@@ -2196,3 +2196,4 @@ https://github.com/offcircuit/SDHT.git|Contributed|SDHT
 https://github.com/janthefischer/SerialVariable.git|Contributed|SerialVariable
 https://github.com/rootfrogs/Arduino-GetInTouch-library.git|Contributed|GetInTouch
 https://github.com/funkyfisch/arduino-knock-detector.git|Contributed|Knock Detector
+https://github.com/IoTGuruLive/theiotguru-arduino-library.git|Contributed|The IoT Guru integration
