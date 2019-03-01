@@ -2167,3 +2167,4 @@ https://github.com/gilmaimon/ArduinoWebsockets.git|Contributed|ArduinoWebsockets
 https://github.com/akkoyun/Environment.git|Contributed|Environment
 https://github.com/muwerk/munet.git|Contributed|munet
 https://github.com/jcubuntu/IKB1_Arduino.git|Contributed|iKB1_Arduino
+https://github.com/chirp/chirp-arduino.git|Contributed|ChirpSDK
