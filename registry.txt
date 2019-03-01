@@ -2178,3 +2178,4 @@ https://github.com/ssilverman/SLIPStream.git|Contributed|SLIPStream
 https://github.com/HelTecAutomation/Heltec_ESP8266.git|Contributed|Heltec ESP8266 Dev-Boards
 https://github.com/jandrassy/ArduinoOTA.git|Contributed|ArduinoOTA
 https://github.com/harvie/ps2dev.git|Contributed|ps2dev
+https://github.com/gabriel-milan/TinyMPU6050.git|Contributed|TinyMPU6050
