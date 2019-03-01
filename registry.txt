@@ -2165,3 +2165,4 @@ https://github.com/IoTWay/IoTWay-Arduino.git|Contributed|IoTWay
 https://github.com/RexMORE/MOREbot_Library.git|Contributed|MOREbot Library
 https://github.com/gilmaimon/ArduinoWebsockets.git|Contributed|ArduinoWebsockets
 https://github.com/akkoyun/Environment.git|Contributed|Environment
+https://github.com/muwerk/munet.git|Contributed|munet
