@@ -2212,3 +2212,4 @@ https://github.com/PatternAgents/Haptic_DA7280.git|Contributed|Haptic_DA7280
 https://github.com/PatternAgents/Haptic_DRV2605.git|Contributed|Haptic_DRV2605
 https://github.com/siara-cc/Shox96_Arduino_Progmem_lib.git|Contributed|Shox96 Progmem Compression
 https://github.com/siara-cc/esp_arduino_sqlite3_lib.git|Contributed|Sqlite3
+https://github.com/M-tech-Creations/NoDelay.git|Contributed|NoDelay
