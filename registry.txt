@@ -2216,3 +2216,4 @@ https://github.com/M-tech-Creations/NoDelay.git|Contributed|NoDelay
 https://github.com/openmrn/OpenMRNLite.git|Contributed|OpenMRNLite
 https://github.com/Isaranu/IoTtweetSIEMENS_SIMATIC.git|Contributed|IoTtweetSIEMENS_SIMATIC
 https://github.com/pushdata-io/Arduino_ESP8266_SSL.git|Contributed|Pushdata_ESP8266_SSL
+https://github.com/jfjlaros/simpleRPC.git|Contributed|simpleRPC
