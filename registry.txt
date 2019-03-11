@@ -2218,3 +2218,4 @@ https://github.com/Isaranu/IoTtweetSIEMENS_SIMATIC.git|Contributed|IoTtweetSIEME
 https://github.com/pushdata-io/Arduino_ESP8266_SSL.git|Contributed|Pushdata_ESP8266_SSL
 https://github.com/jfjlaros/simpleRPC.git|Contributed|simpleRPC
 https://github.com/gmarty2000/arduino-BUZZER.git|Contributed|Buzzer
+https://github.com/closedcube/ClosedCube_STS35_Arduino.git|Contributed|ClosedCube_STS35
