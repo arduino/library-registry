@@ -2210,3 +2210,4 @@ https://github.com/stm32duino/STTS751.git|Contributed|STM32duino STTS751
 https://github.com/bogde/HX711.git|Contributed|HX711 Arduino Library
 https://github.com/PatternAgents/Haptic_DA7280.git|Contributed|Haptic_DA7280
 https://github.com/PatternAgents/Haptic_DRV2605.git|Contributed|Haptic_DRV2605
+https://github.com/siara-cc/Shox96_Arduino_Progmem_lib.git|Contributed|Shox96 Progmem Compression
