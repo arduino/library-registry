@@ -2234,3 +2234,4 @@ https://github.com/skaldek/STools.git|Contributed|STools
 https://github.com/adafruit/Adafruit_VEML7700.git|Contributed|Adafruit VEML7700 Library
 https://github.com/mobizt/ESP32-Mail-Client.git|Contributed|ESP32 Mail Client
 https://github.com/jackrobotics/iSYNC.git|Contributed|iSYNC
+https://github.com/onelife/Arduino_RT-Thread.git|Contributed|RT-Thread
