@@ -2222,3 +2222,4 @@ https://github.com/closedcube/ClosedCube_STS35_Arduino.git|Contributed|ClosedCub
 https://github.com/closedcube/ClosedCube_I2C_Arduino.git|Contributed|ClosedCube_I2C_Driver
 https://github.com/offcircuit/Nextion.git|Contributed|Nextion
 https://github.com/HullabalooRobotics/Soldering-Machine.git|Contributed|Soldering Machine
+https://github.com/BrandeisMakerLab/Zumo-Automation.git|Contributed|ZumoAutomation
