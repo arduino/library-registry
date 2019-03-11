@@ -2220,3 +2220,4 @@ https://github.com/jfjlaros/simpleRPC.git|Contributed|simpleRPC
 https://github.com/gmarty2000/arduino-BUZZER.git|Contributed|Buzzer
 https://github.com/closedcube/ClosedCube_STS35_Arduino.git|Contributed|ClosedCube_STS35
 https://github.com/closedcube/ClosedCube_I2C_Arduino.git|Contributed|ClosedCube_I2C_Driver
+https://github.com/offcircuit/Nextion.git|Contributed|Nextion
