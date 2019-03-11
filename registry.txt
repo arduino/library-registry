@@ -2224,3 +2224,4 @@ https://github.com/offcircuit/Nextion.git|Contributed|Nextion
 https://github.com/HullabalooRobotics/Soldering-Machine.git|Contributed|Soldering Machine
 https://github.com/BrandeisMakerLab/Zumo-Automation.git|Contributed|ZumoAutomation
 https://github.com/MartinL1/I2C_DMAC.git|Contributed|I2C_DMAC
+https://github.com/diegodorado/ObloqAdafruit.git|Contributed|ObloqAdafruit
