@@ -2214,3 +2214,4 @@ https://github.com/siara-cc/Shox96_Arduino_Progmem_lib.git|Contributed|Shox96 Pr
 https://github.com/siara-cc/esp_arduino_sqlite3_lib.git|Contributed|Sqlite3
 https://github.com/M-tech-Creations/NoDelay.git|Contributed|NoDelay
 https://github.com/openmrn/OpenMRNLite.git|Contributed|OpenMRNLite
+https://github.com/Isaranu/IoTtweetSIEMENS_SIMATIC.git|Contributed|IoTtweetSIEMENS_SIMATIC
