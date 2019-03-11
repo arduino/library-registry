@@ -2225,3 +2225,4 @@ https://github.com/HullabalooRobotics/Soldering-Machine.git|Contributed|Solderin
 https://github.com/BrandeisMakerLab/Zumo-Automation.git|Contributed|ZumoAutomation
 https://github.com/MartinL1/I2C_DMAC.git|Contributed|I2C_DMAC
 https://github.com/diegodorado/ObloqAdafruit.git|Contributed|ObloqAdafruit
+https://github.com/adafruit/Adafruit_BusIO.git|Contributed|Adafruit BusIO
