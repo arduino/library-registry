@@ -2209,3 +2209,4 @@ https://github.com/stm32duino/LPS22HH.git|Contributed|STM32duino LPS22HH
 https://github.com/stm32duino/STTS751.git|Contributed|STM32duino STTS751
 https://github.com/bogde/HX711.git|Contributed|HX711 Arduino Library
 https://github.com/PatternAgents/Haptic_DA7280.git|Contributed|Haptic_DA7280
+https://github.com/PatternAgents/Haptic_DRV2605.git|Contributed|Haptic_DRV2605
