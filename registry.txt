@@ -2229,3 +2229,4 @@ https://github.com/adafruit/Adafruit_BusIO.git|Contributed|Adafruit BusIO
 https://github.com/iq-motion-control/iq-module-communication-arduino.git|Contributed|IQ Module Communication
 https://github.com/gmarty2000/arduino-JOYSTICK.git|Contributed|Joystick
 https://github.com/gmarty2000/arduino-ULTRASONIC_SENSOR.git|Contributed|UltrasonicSensor
+https://github.com/mobizt/Firebase-ESP32.git|Contributed|Firebase ESP32 Client
