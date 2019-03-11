@@ -2232,3 +2232,4 @@ https://github.com/gmarty2000/arduino-ULTRASONIC_SENSOR.git|Contributed|Ultrason
 https://github.com/mobizt/Firebase-ESP32.git|Contributed|Firebase ESP32 Client
 https://github.com/skaldek/STools.git|Contributed|STools
 https://github.com/adafruit/Adafruit_VEML7700.git|Contributed|Adafruit VEML7700 Library
+https://github.com/mobizt/ESP32-Mail-Client.git|Contributed|ESP32 Mail Client
