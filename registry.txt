@@ -2205,3 +2205,4 @@ https://github.com/stm32duino/X-NUCLEO-IKS01A3.git|Contributed|STM32duino X-NUCL
 https://github.com/stm32duino/LSM6DSO.git|Contributed|STM32duino LSM6DSO
 https://github.com/stm32duino/LIS2DW12.git|Contributed|STM32duino LIS2DW12
 https://github.com/stm32duino/LIS2MDL.git|Contributed|STM32duino LIS2MDL
+https://github.com/stm32duino/LPS22HH.git|Contributed|STM32duino LPS22HH
