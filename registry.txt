@@ -2208,3 +2208,4 @@ https://github.com/stm32duino/LIS2MDL.git|Contributed|STM32duino LIS2MDL
 https://github.com/stm32duino/LPS22HH.git|Contributed|STM32duino LPS22HH
 https://github.com/stm32duino/STTS751.git|Contributed|STM32duino STTS751
 https://github.com/bogde/HX711.git|Contributed|HX711 Arduino Library
+https://github.com/PatternAgents/Haptic_DA7280.git|Contributed|Haptic_DA7280
