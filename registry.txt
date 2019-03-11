@@ -2202,3 +2202,4 @@ https://github.com/torsteinnh/conductivityLib.git|Contributed|ConductivityLib
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay SSD1309 Arduino Library
 https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay Transparent Grahical OLED Library
 https://github.com/stm32duino/X-NUCLEO-IKS01A3.git|Contributed|STM32duino X-NUCLEO-IKS01A3
+https://github.com/stm32duino/LSM6DSO.git|Contributed|STM32duino LSM6DSO
