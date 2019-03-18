@@ -1458,7 +1458,6 @@ https://github.com/planetk/ArduinoFritzApi.git|Contributed|ArduinoFritzApi
 https://github.com/byteAgenten/ArduinoArcherPanelClient.git|Contributed|ArduinoArcherPanelClient
 https://github.com/u-fire/ISE_Probe.git|Contributed|ISE Probe Interface
 https://github.com/closedcube/ClosedCube_TMP116_Arduino.git|Contributed|ClosedCube TMP116
-https://github.com/closedcube/ClosedCube_I2C_Arduino.git|Contributed|ClosedCube I2C driver
 https://github.com/Naguissa/uTimerLib.git|Contributed|uTimerLib
 https://github.com/LowPowerLab/SPIFlash.git|Contributed|SPIFlash_LowPowerLab
 https://github.com/YuriiSalimov/AxisJoystick.git|Contributed|AxisJoystick
