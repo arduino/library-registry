@@ -2240,3 +2240,4 @@ https://github.com/adafruit/Adafruit_INA260.git|Contributed|Adafruit INA260 Libr
 https://github.com/corneliusmunz/legoino.git|Contributed|Legoino
 https://github.com/CMakerA/ESP_LM35.git|Contributed|ESP_LM35
 https://github.com/jmderomedi/SavitzkyGolayFilter.git|Contributed|SavLayFilter
+https://github.com/offcircuit/Morse.git|Contributed|Morse
