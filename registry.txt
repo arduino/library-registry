@@ -2246,3 +2246,4 @@ https://github.com/BriscoeTech/Arduino-FreeRTOS-SAMD21.git|Contributed|FreeRTOS_
 https://github.com/YiannisBourkelis/Uptime-Library.git|Contributed|Uptime Library
 https://github.com/aster94/Utilities.git|Contributed|Utilities
 https://github.com/m5stack/M5StickC.git|Contributed|M5StickC
+https://github.com/smurf0969/WiFiConnect.git|Contributed|WiFiConnect
