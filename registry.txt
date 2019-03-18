@@ -2236,3 +2236,4 @@ https://github.com/MartinL1/BMP280_DEV.git|Contributed|BMP280_DEV
 https://github.com/madhephaestus/BNO055SimplePacketComs.git|Contributed|BNO055SimplePacketComs
 https://github.com/ricaun/ArduinoUniqueID.git|Contributed|ArduinoUniqueID
 https://github.com/ricaun/CayenneLPPDecode.git|Contributed|CayenneLPPDecode
+https://github.com/adafruit/Adafruit_INA260.git|Contributed|Adafruit INA260 Library
