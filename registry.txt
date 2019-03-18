@@ -2242,3 +2242,4 @@ https://github.com/CMakerA/ESP_LM35.git|Contributed|ESP_LM35
 https://github.com/jmderomedi/SavitzkyGolayFilter.git|Contributed|SavLayFilter
 https://github.com/offcircuit/Morse.git|Contributed|Morse
 https://github.com/offcircuit/SHCSR04.git|Contributed|SHCSR04
+https://github.com/BriscoeTech/Arduino-FreeRTOS-SAMD21.git|Contributed|FreeRTOS_SAMD21
