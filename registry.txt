@@ -2237,3 +2237,4 @@ https://github.com/madhephaestus/BNO055SimplePacketComs.git|Contributed|BNO055Si
 https://github.com/ricaun/ArduinoUniqueID.git|Contributed|ArduinoUniqueID
 https://github.com/ricaun/CayenneLPPDecode.git|Contributed|CayenneLPPDecode
 https://github.com/adafruit/Adafruit_INA260.git|Contributed|Adafruit INA260 Library
+https://github.com/corneliusmunz/legoino.git|Contributed|Legoino
