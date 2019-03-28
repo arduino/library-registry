@@ -2253,3 +2253,4 @@ https://github.com/bmellink/IBusBM.git|Contributed|IBusBM
 https://github.com/sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library.git|Contributed|SparkFun Qwiic Keypad Arduino Library
 https://github.com/littlevgl/lv_arduino.git|Contributed|LittlevGL
 https://github.com/spacehuhn/SimpleCLI.git|Contributed|SimpleCLI
+https://github.com/offcircuit/Charset.git|Contributed|Charset
