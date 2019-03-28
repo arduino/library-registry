@@ -2250,3 +2250,4 @@ https://github.com/m5stack/M5StickC.git|Contributed|M5StickC
 https://github.com/smurf0969/WiFiConnect.git|Contributed|WiFiConnect
 https://github.com/mobizt/Firebase-ESP8266.git|Contributed|Firebase ESP8266 Client
 https://github.com/bmellink/IBusBM.git|Contributed|IBusBM
+https://github.com/sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library.git|Contributed|SparkFun Qwiic Keypad Arduino Library
