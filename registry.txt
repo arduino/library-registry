@@ -2271,3 +2271,4 @@ https://github.com/offcircuit/LCDIC2.git|Contributed|LCDIC2
 https://github.com/ArminJo/ServoEasing.git|Contributed|ServoEasing
 https://github.com/ArminJo/NeoPatterns.git|Contributed|NeoPatterns
 https://github.com/ArminJo/PlayRtttl.git|Contributed|PlayRtttl
+https://github.com/ArminJo/EasyButtonAtInt01.git|Contributed|EasyButtonAtInt01
