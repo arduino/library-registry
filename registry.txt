@@ -2120,7 +2120,6 @@ https://github.com/electric-sheep-co/arduino-redis.git|Contributed|Redis for Ard
 https://github.com/souviksaha97/MCP3202.git|Contributed|MCP3202
 https://github.com/NilsMinor/TMP117-Arduino.git|Contributed|TMP117-Arduino
 https://github.com/laurb9/StepperDriver.git|Contributed|StepperDriver
-https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LED Library
 https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01 4WSPI Library
 https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay ILI9163C Arduino Library
 https://github.com/bitbank2/Multi_OLED.git|Contributed|Multi_OLED
@@ -2264,3 +2263,4 @@ https://github.com/fire1/PulseCom.git|Contributed|PulseCom
 https://github.com/closedcube/ClosedCube_TCA9548A_Arduino.git|Contributed|ClosedCube TCA9548A
 https://github.com/photodude/DualVNH5019MotorShieldMod3.git|Contributed|DualVNH5019MotorShieldMod3
 https://github.com/dmadison/ArduinoXInput.git|Contributed|XInput
+https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LEDs
