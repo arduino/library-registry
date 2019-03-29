@@ -2264,3 +2264,4 @@ https://github.com/closedcube/ClosedCube_TCA9548A_Arduino.git|Contributed|Closed
 https://github.com/photodude/DualVNH5019MotorShieldMod3.git|Contributed|DualVNH5019MotorShieldMod3
 https://github.com/dmadison/ArduinoXInput.git|Contributed|XInput
 https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LEDs
+https://github.com/gmarty2000/arduino-SOIL_HYGROMETER.git|Contributed|SoilHygrometer
