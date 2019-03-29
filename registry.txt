@@ -2260,3 +2260,4 @@ https://github.com/ldab/u-blox_GNSS.git|Contributed|u-blox GNSS
 https://github.com/ldab/lis3dh-motion-detection.git|Contributed|LIS3DH motion detection
 https://github.com/plapointe6/EspHtmlTemplateProcessor.git|Contributed|EspHtmlTemplateProcessor
 https://github.com/u-fire/Isolated_ISE.git|Contributed|Isolated ISE Probe Interface
+https://github.com/fire1/PulseCom.git|Contributed|PulseCom
