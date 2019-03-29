@@ -2255,3 +2255,4 @@ https://github.com/littlevgl/lv_arduino.git|Contributed|LittlevGL
 https://github.com/spacehuhn/SimpleCLI.git|Contributed|SimpleCLI
 https://github.com/offcircuit/Charset.git|Contributed|Charset
 https://github.com/ayushsharma82/ElegantOTA.git|Contributed|ElegantOTA
+https://github.com/lime-labs/HDC2080-Arduino.git|Contributed|Lime Labs HDC2080
