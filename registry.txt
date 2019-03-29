@@ -2270,3 +2270,4 @@ https://github.com/GewoonGijs/VID28.git|Contributed|MotorVID28
 https://github.com/offcircuit/LCDIC2.git|Contributed|LCDIC2
 https://github.com/ArminJo/ServoEasing.git|Contributed|ServoEasing
 https://github.com/ArminJo/NeoPatterns.git|Contributed|NeoPatterns
+https://github.com/ArminJo/PlayRtttl.git|Contributed|PlayRtttl
