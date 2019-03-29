@@ -2272,3 +2272,4 @@ https://github.com/ArminJo/ServoEasing.git|Contributed|ServoEasing
 https://github.com/ArminJo/NeoPatterns.git|Contributed|NeoPatterns
 https://github.com/ArminJo/PlayRtttl.git|Contributed|PlayRtttl
 https://github.com/ArminJo/EasyButtonAtInt01.git|Contributed|EasyButtonAtInt01
+https://github.com/ArminJo/Arduino-FrequencyDetector.git|Contributed|FrequencyDetector
