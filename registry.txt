@@ -2263,3 +2263,4 @@ https://github.com/u-fire/Isolated_ISE.git|Contributed|Isolated ISE Probe Interf
 https://github.com/fire1/PulseCom.git|Contributed|PulseCom
 https://github.com/closedcube/ClosedCube_TCA9548A_Arduino.git|Contributed|ClosedCube TCA9548A
 https://github.com/photodude/DualVNH5019MotorShieldMod3.git|Contributed|DualVNH5019MotorShieldMod3
+https://github.com/dmadison/ArduinoXInput.git|Contributed|XInput
