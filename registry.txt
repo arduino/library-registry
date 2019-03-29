@@ -2258,3 +2258,4 @@ https://github.com/ayushsharma82/ElegantOTA.git|Contributed|ElegantOTA
 https://github.com/lime-labs/HDC2080-Arduino.git|Contributed|Lime Labs HDC2080
 https://github.com/ldab/u-blox_GNSS.git|Contributed|u-blox GNSS
 https://github.com/ldab/lis3dh-motion-detection.git|Contributed|LIS3DH motion detection
+https://github.com/plapointe6/EspHtmlTemplateProcessor.git|Contributed|EspHtmlTemplateProcessor
