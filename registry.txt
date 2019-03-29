@@ -2265,3 +2265,4 @@ https://github.com/photodude/DualVNH5019MotorShieldMod3.git|Contributed|DualVNH5
 https://github.com/dmadison/ArduinoXInput.git|Contributed|XInput
 https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LEDs
 https://github.com/gmarty2000/arduino-SOIL_HYGROMETER.git|Contributed|SoilHygrometer
+https://github.com/sparkfun/SparkFun_Displacement_Sensor_Arduino_Library.git|Contributed|SparkFun Angular Displacement Sensor Arduino Library
