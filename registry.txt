@@ -2267,3 +2267,4 @@ https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Contr
 https://github.com/gmarty2000/arduino-SOIL_HYGROMETER.git|Contributed|SoilHygrometer
 https://github.com/sparkfun/SparkFun_Displacement_Sensor_Arduino_Library.git|Contributed|SparkFun Angular Displacement Sensor Arduino Library
 https://github.com/GewoonGijs/VID28.git|Contributed|MotorVID28
+https://github.com/offcircuit/LCDIC2.git|Contributed|LCDIC2
