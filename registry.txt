@@ -58,6 +58,7 @@ https://github.com/arduino-libraries/ArduinoIoTCloudBearSSL.git|Arduino|ArduinoI
 https://github.com/arduino-libraries/Arduino_JSON.git|Arduino|Arduino_JSON
 https://github.com/arduino-libraries/Arduino_MKRENV.git|Arduino|Arduino_MKRENV
 https://github.com/arduino-libraries/ArduinoGraphics.git|Arduino|ArduinoGraphics
+https://github.com/arduino-libraries/Arduino_MKRRGB.git|Arduino|Arduino_MKRRGB
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
