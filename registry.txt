@@ -2291,3 +2291,4 @@ https://github.com/Seeed-Studio/Seeed_PM2_5_sensor_HM3301.git|Contributed|Grove 
 https://github.com/Seeed-Studio/Seeed_MCP9600.git|Contributed|Grove - I2C Thermocouple Amplifier MCP9600
 https://github.com/Seeed-Studio/Seeed_SHT35.git|Contributed|Grove - I2C High Accuracy Temp_Humi Sensor SHT35
 https://github.com/Seeed-Studio/Seeed_PCA9685.git|Contributed|Seeed-PCA9685
+https://github.com/dok-net/esp_sds011.git|Contributed|ArduinoSDS011
