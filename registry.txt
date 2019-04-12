@@ -2315,3 +2315,4 @@ https://github.com/antaresdocumentation/lorawan-loraid.git|Contributed|AntaresLo
 https://github.com/pstolarz/OneWireNg.git|Contributed|OneWireNg
 https://github.com/tswfi/PE43xx.git|Contributed|PE43xx
 https://github.com/STEMpedia/DabbleESP32.git|Contributed|DabbleESP32
+https://github.com/Protocentral/protocentral_max86150_ecg_ppg.git|Contributed|ProtoCentral MAX86150 PPG and ECG IC library
