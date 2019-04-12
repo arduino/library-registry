@@ -2282,3 +2282,4 @@ https://github.com/sparkfun/SparkFunDMX.git|Contributed|SparkFun DMX Shield Libr
 https://github.com/plerup/espsoftwareserial.git|Contributed|EspSoftwareSerial
 https://github.com/MarScaper/ephemeris.git|Contributed|Ephemeris
 https://github.com/emctague/Tasks.git|Contributed|Tasks
+https://github.com/Seeed-Studio/Seeed_LTC2941.git|Contributed|Grove - Coulomb Counter for 3.3V to 5V LTC2941
