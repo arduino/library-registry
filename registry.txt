@@ -2314,3 +2314,4 @@ https://github.com/VincentLim/TimerFive.git|Contributed|TimerFive
 https://github.com/antaresdocumentation/lorawan-loraid.git|Contributed|AntaresLoraID
 https://github.com/pstolarz/OneWireNg.git|Contributed|OneWireNg
 https://github.com/tswfi/PE43xx.git|Contributed|PE43xx
+https://github.com/STEMpedia/DabbleESP32.git|Contributed|DabbleESP32
