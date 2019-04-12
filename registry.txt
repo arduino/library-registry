@@ -2304,3 +2304,4 @@ https://github.com/project-sparthan/sparthan-myo.git|Contributed|Sparthan Myo
 https://github.com/project-sparthan/sparthan-gforce.git|Contributed|Sparthan gForce
 https://github.com/ricaun/LoRaNow.git|Contributed|LoRaNow
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library.git|Contributed|SparkFun BQ72441 LiPo Fuel Gauge Arduino Library
+https://github.com/Fastcomm/hellothing_NBIoT_Arduino_Shield.git|Contributed|hellothing_BG96_NBIoT
