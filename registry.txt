@@ -2285,3 +2285,4 @@ https://github.com/emctague/Tasks.git|Contributed|Tasks
 https://github.com/Seeed-Studio/Seeed_LTC2941.git|Contributed|Grove - Coulomb Counter for 3.3V to 5V LTC2941
 https://github.com/Seeed-Studio/Grove_Motor_Driver_TB6612FNG.git|Contributed|Grove - Motor Driver TB6612FNG
 https://github.com/Seeed-Studio/Seeed_LDC1612.git|Contributed|Grove - 2-Channel Inductive Sensor LDC1612
+https://github.com/Seeed-Studio/Grove_touch_sensor_CY8C40XX.git|Contributed|Grove - Capacitive Touch Slide Sensor CY8C40XX
