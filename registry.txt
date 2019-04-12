@@ -2306,3 +2306,4 @@ https://github.com/ricaun/LoRaNow.git|Contributed|LoRaNow
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library.git|Contributed|SparkFun BQ72441 LiPo Fuel Gauge Arduino Library
 https://github.com/Fastcomm/hellothing_NBIoT_Arduino_Shield.git|Contributed|hellothing_BG96_NBIoT
 https://github.com/adafruit/Adafruit_MCP9600.git|Contributed|Adafruit MCP9600 Library
+https://github.com/SodaqMoja/Sodaq_N2X.git|Contributed|Sodaq_N2X
