@@ -2302,3 +2302,4 @@ https://github.com/madhephaestus/Esp32WifiManager.git|Contributed|Esp32WifiManag
 https://github.com/project-sparthan/sparthan-module.git|Contributed|Sparthan Module
 https://github.com/project-sparthan/sparthan-myo.git|Contributed|Sparthan Myo
 https://github.com/project-sparthan/sparthan-gforce.git|Contributed|Sparthan gForce
+https://github.com/ricaun/LoRaNow.git|Contributed|LoRaNow
