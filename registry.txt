@@ -2279,3 +2279,4 @@ https://github.com/ArminJo/EasyButtonAtInt01.git|Contributed|EasyButtonAtInt01
 https://github.com/ArminJo/Arduino-FrequencyDetector.git|Contributed|FrequencyDetector
 https://github.com/TomasRoj/BasicsLibrary.git|Contributed|BasicsLibrary
 https://github.com/sparkfun/SparkFunDMX.git|Contributed|SparkFun DMX Shield Library
+https://github.com/plerup/espsoftwareserial.git|Contributed|EspSoftwareSerial
