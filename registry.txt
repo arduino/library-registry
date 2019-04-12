@@ -2293,3 +2293,4 @@ https://github.com/dok-net/esp_sds011.git|Contributed|ArduinoSDS011
 https://github.com/lovyan03/M5Stack_TreeView.git|Contributed|M5Stack_TreeView
 https://github.com/lovyan03/M5Stack_OnScreenKeyboard.git|Contributed|M5Stack_OnScreenKeyboard
 https://github.com/sefisher/fishyDIYdevices.git|Contributed|fishyDIYdevices
+https://github.com/hideakitai/Dynamixel.git|Contributed|Dynamixel
