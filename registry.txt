@@ -2280,3 +2280,4 @@ https://github.com/ArminJo/Arduino-FrequencyDetector.git|Contributed|FrequencyDe
 https://github.com/TomasRoj/BasicsLibrary.git|Contributed|BasicsLibrary
 https://github.com/sparkfun/SparkFunDMX.git|Contributed|SparkFun DMX Shield Library
 https://github.com/plerup/espsoftwareserial.git|Contributed|EspSoftwareSerial
+https://github.com/MarScaper/ephemeris.git|Contributed|Ephemeris
