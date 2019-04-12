@@ -2288,3 +2288,4 @@ https://github.com/Seeed-Studio/Seeed_LDC1612.git|Contributed|Grove - 2-Channel 
 https://github.com/Seeed-Studio/Grove_touch_sensor_CY8C40XX.git|Contributed|Grove - Capacitive Touch Slide Sensor CY8C40XX
 https://github.com/Seeed-Studio/Seeed_VEML6070.git|Contributed|Grove - I2C UV Sensor VEML6070
 https://github.com/Seeed-Studio/Seeed_PM2_5_sensor_HM3301.git|Contributed|Grove - Laser PM2.5 Sensor HM3301
+https://github.com/Seeed-Studio/Seeed_MCP9600.git|Contributed|Grove - I2C Thermocouple Amplifier MCP9600
