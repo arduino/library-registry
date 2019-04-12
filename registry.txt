@@ -2310,3 +2310,4 @@ https://github.com/SodaqMoja/Sodaq_N2X.git|Contributed|Sodaq_N2X
 https://github.com/SodaqMoja/Sodaq_R4X.git|Contributed|Sodaq_R4X
 https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library.git|Contributed|SparkFun Qwiic Scale NAU7802 Arduino Library
 https://github.com/VincentLim/TimerFour.git|Contributed|TimerFour
+https://github.com/VincentLim/TimerFive.git|Contributed|TimerFive
