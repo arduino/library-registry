@@ -2299,3 +2299,4 @@ https://github.com/dlkay0/TinyFontRenderer.git|Contributed|TinyFontRenderer
 https://github.com/OPEnSLab-OSU/SSLClient.git|Contributed|SSLClient
 https://github.com/hideakitai/ArtNet.git|Contributed|ArtNet
 https://github.com/madhephaestus/Esp32WifiManager.git|Contributed|Esp32WifiManager
+https://github.com/project-sparthan/sparthan-module.git|Contributed|Sparthan Module
