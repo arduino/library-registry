@@ -2312,3 +2312,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library.git|Con
 https://github.com/VincentLim/TimerFour.git|Contributed|TimerFour
 https://github.com/VincentLim/TimerFive.git|Contributed|TimerFive
 https://github.com/antaresdocumentation/lorawan-loraid.git|Contributed|AntaresLoraID
+https://github.com/pstolarz/OneWireNg.git|Contributed|OneWireNg
