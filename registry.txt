@@ -2295,3 +2295,4 @@ https://github.com/lovyan03/M5Stack_OnScreenKeyboard.git|Contributed|M5Stack_OnS
 https://github.com/sefisher/fishyDIYdevices.git|Contributed|fishyDIYdevices
 https://github.com/hideakitai/Dynamixel.git|Contributed|Dynamixel
 https://github.com/hideakitai/SpresenseNeoPixel.git|Contributed|SpresenseNeoPixel
+https://github.com/dlkay0/TinyFontRenderer.git|Contributed|TinyFontRenderer
