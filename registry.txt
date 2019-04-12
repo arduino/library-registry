@@ -2294,3 +2294,4 @@ https://github.com/lovyan03/M5Stack_TreeView.git|Contributed|M5Stack_TreeView
 https://github.com/lovyan03/M5Stack_OnScreenKeyboard.git|Contributed|M5Stack_OnScreenKeyboard
 https://github.com/sefisher/fishyDIYdevices.git|Contributed|fishyDIYdevices
 https://github.com/hideakitai/Dynamixel.git|Contributed|Dynamixel
+https://github.com/hideakitai/SpresenseNeoPixel.git|Contributed|SpresenseNeoPixel
