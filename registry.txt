@@ -2327,3 +2327,4 @@ https://github.com/lasselukkari/aWOT.git|Contributed|aWOT
 https://github.com/mhorimoto/ELT_S300_HOLLY.git|Contributed|ELT S300 Library
 https://github.com/pstolarz/nrfhal_arduino.git|Contributed|NRF_HAL
 https://github.com/ukw100/IRMP.git|Contributed|IRMP
+https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary.git|Contributed|SparkFun 9DoF IMU Breakout - ICM 20948 - Arduino Library
