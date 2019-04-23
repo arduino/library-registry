@@ -2332,3 +2332,4 @@ https://github.com/mehtajainam/VCNL36687.git|Contributed|VCNL36687
 https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_Arduino_Library.git|Contributed|SparkFun Capacitive Touch Slider - CAP1203
 https://github.com/smartmeio/arancino-library.git|Contributed|Arancino
 https://github.com/Samyz/CESmartCamp.git|Contributed|CESmartCamp
+https://github.com/ERROPiX/ESP32_AnalogWrite.git|Contributed|ESP32 AnalogWrite
