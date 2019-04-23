@@ -2330,3 +2330,4 @@ https://github.com/ukw100/IRMP.git|Contributed|IRMP
 https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary.git|Contributed|SparkFun 9DoF IMU Breakout - ICM 20948 - Arduino Library
 https://github.com/mehtajainam/VCNL36687.git|Contributed|VCNL36687
 https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_Arduino_Library.git|Contributed|SparkFun Capacitive Touch Slider - CAP1203
+https://github.com/smartmeio/arancino-library.git|Contributed|Arancino
