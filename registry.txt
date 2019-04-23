@@ -2324,3 +2324,4 @@ https://github.com/gavinlyonsrepo/NOKIA5110_TEXT.git|Contributed|NOKIA5110_TEXT
 https://github.com/bblanchon/ArduinoStreamUtils.git|Contributed|StreamUtils
 https://github.com/SunjunKim/PMW3360.git|Contributed|PMW3360 Module
 https://github.com/lasselukkari/aWOT.git|Contributed|aWOT
+https://github.com/mhorimoto/ELT_S300_HOLLY.git|Contributed|ELT S300 Library
