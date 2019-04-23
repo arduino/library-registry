@@ -2318,3 +2318,4 @@ https://github.com/STEMpedia/DabbleESP32.git|Contributed|DabbleESP32
 https://github.com/Protocentral/protocentral_max86150_ecg_ppg.git|Contributed|ProtoCentral MAX86150 PPG and ECG IC library
 https://github.com/Sensirion/arduino-sps.git|Contributed|sensirion-sps
 https://github.com/RobotCing/Atmega32u4_IO.git|Contributed|Atmega32u4_IO
+https://github.com/areve/WebSocketStreamClient.git|Contributed|WebSocketStreamClient
