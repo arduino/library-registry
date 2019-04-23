@@ -2320,3 +2320,4 @@ https://github.com/Sensirion/arduino-sps.git|Contributed|sensirion-sps
 https://github.com/RobotCing/Atmega32u4_IO.git|Contributed|Atmega32u4_IO
 https://github.com/areve/WebSocketStreamClient.git|Contributed|WebSocketStreamClient
 https://github.com/CieNTi/arduino-IoTesla-client.git|Contributed|IoTesla-client
+https://github.com/gavinlyonsrepo/NOKIA5110_TEXT.git|Contributed|NOKIA5110_TEXT
