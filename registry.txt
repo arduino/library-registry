@@ -2336,3 +2336,4 @@ https://github.com/ERROPiX/ESP32_AnalogWrite.git|Contributed|ESP32 AnalogWrite
 https://github.com/sidoh/path_variable_handlers.git|Contributed|PathVariableHandlers
 https://github.com/Salterm27/Watch.git|Contributed|Watch
 https://github.com/sidoh/rich_http_server.git|Contributed|RichHttpServer
+https://github.com/adafruit/Adafruit_Arcada.git|Contributed|Adafruit Arcada Library
