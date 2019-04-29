@@ -2339,3 +2339,4 @@ https://github.com/sidoh/rich_http_server.git|Contributed|RichHttpServer
 https://github.com/adafruit/Adafruit_Arcada.git|Contributed|Adafruit Arcada Library
 https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library.git|Contributed|SparkFun AS3935 Lightning Detector Arduino Library
 https://github.com/brainy-buddy-education/BBE-IoT-Class-Library.git|Contributed|BBE IoT Class Library
+https://github.com/teamong/Mechatro.git|Contributed|Mechatro
