@@ -2337,3 +2337,4 @@ https://github.com/sidoh/path_variable_handlers.git|Contributed|PathVariableHand
 https://github.com/Salterm27/Watch.git|Contributed|Watch
 https://github.com/sidoh/rich_http_server.git|Contributed|RichHttpServer
 https://github.com/adafruit/Adafruit_Arcada.git|Contributed|Adafruit Arcada Library
+https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library.git|Contributed|SparkFun AS3935 Lightning Detector Arduino Library
