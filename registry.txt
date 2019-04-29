@@ -2341,3 +2341,4 @@ https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library.g
 https://github.com/brainy-buddy-education/BBE-IoT-Class-Library.git|Contributed|BBE IoT Class Library
 https://github.com/teamong/Mechatro.git|Contributed|Mechatro
 https://github.com/Martin-Laclaustra/CronAlarms.git|Contributed|CronAlarms
+https://github.com/mobizt/Firebase-Arduino-WiFi101.git|Contributed|Firebase Arduino based on WiFi101
