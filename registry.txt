@@ -2366,3 +2366,4 @@ https://github.com/adafruit/Adafruit_LPS35HW.git|Contributed|Adafruit LPS35HW
 https://github.com/AloriumTechnology/XLR8DMem.git|Contributed|XLR8DMem
 https://github.com/mrrwa/NceCabBus.git|Contributed|NceCabBus
 https://github.com/mathcoll/t6iot.git|Contributed|t6iot
+https://github.com/marecl/settingsManager.git|Contributed|settingsManager
