@@ -2351,3 +2351,4 @@ https://github.com/Pantastisch/FixedPoint_LUT.git|Contributed|FixedPoint_LUT
 https://github.com/WarmCatUK/WarmCat_6x14Backpack.git|Contributed|WarmCat6x14backpack
 https://github.com/denxhun/ComputhermRF.git|Contributed|Computherm RF Library
 https://github.com/shaduzlabs/arduino-rastr.git|Contributed|rastr
+https://github.com/RemoteXY/RemoteXY-Arduino-library.git|Contributed|RemoteXY
