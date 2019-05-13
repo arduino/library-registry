@@ -2357,3 +2357,4 @@ https://github.com/deltarobotone/one_system_library.git|Contributed|OneSystemLib
 https://github.com/WifWaf/VEML6075.git|Contributed|VEML6075
 https://github.com/shielddx/oatmeal-protocol.git|Contributed|OatmealProtocol
 https://github.com/VCSFA-MARS/TSLPB.git|Contributed|ThinSat Program TSLPB Library
+https://github.com/onelife/RTT-QRCode.git|Contributed|RTT QRCode
