@@ -2359,3 +2359,4 @@ https://github.com/shielddx/oatmeal-protocol.git|Contributed|OatmealProtocol
 https://github.com/VCSFA-MARS/TSLPB.git|Contributed|ThinSat Program TSLPB Library
 https://github.com/onelife/RTT-QRCode.git|Contributed|RTT QRCode
 https://github.com/mobizt/Firebase-Arduino-WiFiNINA.git|Contributed|Firebase Arduino based on WiFiNINA
+https://github.com/Harvie/RotaryDial.git|Contributed|RotaryDial
