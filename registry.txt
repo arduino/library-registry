@@ -2363,3 +2363,4 @@ https://github.com/Harvie/RotaryDial.git|Contributed|RotaryDial
 https://github.com/ZinggJM/GxEPD.git|Contributed|GxEPD
 https://github.com/gigix74/CalibratedSpeed.git|Contributed|CalibratedSpeed
 https://github.com/adafruit/Adafruit_LPS35HW.git|Contributed|Adafruit LPS35HW
+https://github.com/AloriumTechnology/XLR8DMem.git|Contributed|XLR8DMem
