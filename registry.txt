@@ -2361,3 +2361,4 @@ https://github.com/onelife/RTT-QRCode.git|Contributed|RTT QRCode
 https://github.com/mobizt/Firebase-Arduino-WiFiNINA.git|Contributed|Firebase Arduino based on WiFiNINA
 https://github.com/Harvie/RotaryDial.git|Contributed|RotaryDial
 https://github.com/ZinggJM/GxEPD.git|Contributed|GxEPD
+https://github.com/gigix74/CalibratedSpeed.git|Contributed|CalibratedSpeed
