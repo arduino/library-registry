@@ -2353,3 +2353,4 @@ https://github.com/denxhun/ComputhermRF.git|Contributed|Computherm RF Library
 https://github.com/shaduzlabs/arduino-rastr.git|Contributed|rastr
 https://github.com/RemoteXY/RemoteXY-Arduino-library.git|Contributed|RemoteXY
 https://github.com/ayushsharma82/AsyncElegantOTA.git|Contributed|AsyncElegantOTA
+https://github.com/deltarobotone/one_system_library.git|Contributed|OneSystemLibrary
