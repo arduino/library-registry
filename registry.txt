@@ -1210,7 +1210,7 @@ https://github.com/SloCompTech/ByteConvert_arduino.git|Contributed|ByteConvert
 https://github.com/adafruit/Adafruit_VL6180X.git|Contributed|Adafruit_VL6180X
 https://github.com/DjamesSuhanko/bbPrinter.git|Contributed|PrinterDuino
 https://github.com/tkem/CarreraDigitalControlUnit.git|Contributed|CarreraDigitalControlUnit
-https://github.com/ESTBLC/GSL1680.git|Contributed|GSL1680
+https://github.com/Skallwar/GSL1680.git|Contributed|GSL1680
 https://github.com/Velleman/VMA11.git|Contributed|VMA11
 https://github.com/h-c-c/Seven_Segment_Pixel.git|Contributed|Seven Segment Pixel
 https://github.com/ChicagoRobotics/CRC_VCNL4200.git|Contributed|CRC VCNL4200 Library
