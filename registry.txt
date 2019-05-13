@@ -2356,3 +2356,4 @@ https://github.com/ayushsharma82/AsyncElegantOTA.git|Contributed|AsyncElegantOTA
 https://github.com/deltarobotone/one_system_library.git|Contributed|OneSystemLibrary
 https://github.com/WifWaf/VEML6075.git|Contributed|VEML6075
 https://github.com/shielddx/oatmeal-protocol.git|Contributed|OatmealProtocol
+https://github.com/VCSFA-MARS/TSLPB.git|Contributed|ThinSat Program TSLPB Library
