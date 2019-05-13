@@ -2368,3 +2368,4 @@ https://github.com/mrrwa/NceCabBus.git|Contributed|NceCabBus
 https://github.com/mathcoll/t6iot.git|Contributed|t6iot
 https://github.com/marecl/settingsManager.git|Contributed|settingsManager
 https://github.com/PTS93/Stator.git|Contributed|Stator
+https://github.com/sparkfun/SparkFun_ADS1015_Arduino_Library.git|Contributed|SparkFun ADS1015 Arduino Library
