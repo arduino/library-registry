@@ -2371,3 +2371,4 @@ https://github.com/PTS93/Stator.git|Contributed|Stator
 https://github.com/sparkfun/SparkFun_ADS1015_Arduino_Library.git|Contributed|SparkFun ADS1015 Arduino Library
 https://github.com/shielddx/oatmeal-protocol.git|Contributed|oatmeal-protocol
 https://github.com/peanut-king-solution/PeanutKing_Soccer.git|Contributed|PeanutKing Soccer
+https://github.com/hideakitai/TCS34725.git|Contributed|TCS34725
