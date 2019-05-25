@@ -2382,3 +2382,4 @@ https://github.com/smaffer/vgaxua.git|Contributed|VGAXUA
 https://github.com/smaffer/espvgax.git|Contributed|ESPVGAX
 https://github.com/neosarchizo/cm1106_i2c.git|Contributed|CM1106 I2C
 https://github.com/GiorgosXou/NeuralNetworks.git|Contributed|NeuralNetwork
+https://github.com/boxtec/Witty.git|Contributed|Witty
