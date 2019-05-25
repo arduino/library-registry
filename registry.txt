@@ -2374,3 +2374,4 @@ https://github.com/peanut-king-solution/PeanutKing_Soccer.git|Contributed|Peanut
 https://github.com/hideakitai/TCS34725.git|Contributed|TCS34725
 https://github.com/matmunk/DS18B20.git|Contributed|DS18B20
 https://github.com/frason5566/MatrixMini.git|Contributed|Matrix Mini Library
+https://github.com/allthingstalk/arduino-lorawan-sdk.git|Contributed|AllThingsTalk LoRaWAN SDK
