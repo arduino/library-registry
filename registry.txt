@@ -2383,3 +2383,4 @@ https://github.com/smaffer/espvgax.git|Contributed|ESPVGAX
 https://github.com/neosarchizo/cm1106_i2c.git|Contributed|CM1106 I2C
 https://github.com/GiorgosXou/NeuralNetworks.git|Contributed|NeuralNetwork
 https://github.com/boxtec/Witty.git|Contributed|Witty
+https://github.com/iliaslamprou/virtuinoESP.git|Contributed|Virtuino library for all ESP8266 and ESP32 boards
