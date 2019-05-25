@@ -2389,3 +2389,4 @@ https://github.com/guru-florida/PWMFreak.git|Contributed|PWMFreak
 https://github.com/H-Kurosaki/UARDECS.git|Contributed|UARDECS Library
 https://github.com/byronholldorf/uMulti.git|Contributed|uMulti
 https://github.com/arbotics-llc/databot_arduino.git|Contributed|databot
+https://github.com/adafruit/Adafruit_BD3491FS.git|Contributed|Adafruit BD3491FS
