@@ -2356,7 +2356,6 @@ https://github.com/RemoteXY/RemoteXY-Arduino-library.git|Contributed|RemoteXY
 https://github.com/ayushsharma82/AsyncElegantOTA.git|Contributed|AsyncElegantOTA
 https://github.com/deltarobotone/one_system_library.git|Contributed|OneSystemLibrary
 https://github.com/WifWaf/VEML6075.git|Contributed|VEML6075
-https://github.com/shielddx/oatmeal-protocol.git|Contributed|OatmealProtocol
 https://github.com/VCSFA-MARS/TSLPB.git|Contributed|ThinSat Program TSLPB Library
 https://github.com/onelife/RTT-QRCode.git|Contributed|RTT QRCode
 https://github.com/mobizt/Firebase-Arduino-WiFiNINA.git|Contributed|Firebase Arduino based on WiFiNINA
@@ -2370,3 +2369,4 @@ https://github.com/mathcoll/t6iot.git|Contributed|t6iot
 https://github.com/marecl/settingsManager.git|Contributed|settingsManager
 https://github.com/PTS93/Stator.git|Contributed|Stator
 https://github.com/sparkfun/SparkFun_ADS1015_Arduino_Library.git|Contributed|SparkFun ADS1015 Arduino Library
+https://github.com/shielddx/oatmeal-protocol.git|Contributed|oatmeal-protocol
