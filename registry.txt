@@ -2379,3 +2379,4 @@ https://github.com/matmunk/LiquidCrystal_74HC595.git|Contributed|LiquidCrystal_7
 https://github.com/zhenek-kreker/MAX6675.git|Contributed|MAX6675 with hardware SPI
 https://github.com/smaffer/vgax.git|Contributed|VGAX
 https://github.com/smaffer/vgaxua.git|Contributed|VGAXUA
+https://github.com/smaffer/espvgax.git|Contributed|ESPVGAX
