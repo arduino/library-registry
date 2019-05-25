@@ -2385,3 +2385,4 @@ https://github.com/GiorgosXou/NeuralNetworks.git|Contributed|NeuralNetwork
 https://github.com/boxtec/Witty.git|Contributed|Witty
 https://github.com/iliaslamprou/virtuinoESP.git|Contributed|Virtuino library for all ESP8266 and ESP32 boards
 https://github.com/iliaslamprou/virtuino_stm32.git|Contributed|Virtuino library for STM32 boards
+https://github.com/guru-florida/PWMFreak.git|Contributed|PWMFreak
