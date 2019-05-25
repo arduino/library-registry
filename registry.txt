@@ -2377,3 +2377,4 @@ https://github.com/frason5566/MatrixMini.git|Contributed|Matrix Mini Library
 https://github.com/allthingstalk/arduino-lorawan-sdk.git|Contributed|AllThingsTalk LoRaWAN SDK
 https://github.com/matmunk/LiquidCrystal_74HC595.git|Contributed|LiquidCrystal_74HC595
 https://github.com/zhenek-kreker/MAX6675.git|Contributed|MAX6675 with hardware SPI
+https://github.com/smaffer/vgax.git|Contributed|VGAX
