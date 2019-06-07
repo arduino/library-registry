@@ -2405,3 +2405,4 @@ https://github.com/Makuna/Rfid134.git|Contributed|Rfid134 by Makuna
 https://github.com/adafruit/Adafruit_TinyUSB_Arduino.git|Contributed|Adafruit TinyUSB Library
 https://github.com/toritamantaro/TN_SwitchState.git|Contributed|TN_SwitchState
 https://github.com/ROBOTIS-GIT/Dynamixel2Arduino.git|Contributed|Dynamixel2Arduino
+https://github.com/ArminJo/Arduino-BlueDisplay.git|Contributed|BlueDisplay
