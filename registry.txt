@@ -2419,3 +2419,4 @@ https://github.com/obdevel/CBUS2515.git|Contributed|CBUS2515
 https://github.com/obdevel/CBUSconfig.git|Contributed|CBUSconfig
 https://github.com/obdevel/CBUSLED.git|Contributed|CBUSLED
 https://github.com/obdevel/CBUSswitch.git|Contributed|CBUSSwitch
+https://github.com/adafruit/Adafruit_Arcada_GifDecoder.git|Contributed|Adafruit Arcada GifDecoder
