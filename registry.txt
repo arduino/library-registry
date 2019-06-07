@@ -2406,3 +2406,4 @@ https://github.com/adafruit/Adafruit_TinyUSB_Arduino.git|Contributed|Adafruit Ti
 https://github.com/toritamantaro/TN_SwitchState.git|Contributed|TN_SwitchState
 https://github.com/ROBOTIS-GIT/Dynamixel2Arduino.git|Contributed|Dynamixel2Arduino
 https://github.com/ArminJo/Arduino-BlueDisplay.git|Contributed|BlueDisplay
+https://github.com/H-Kurosaki/UARDECS_MEGA.git|Contributed|UARDECS_MEGA Library
