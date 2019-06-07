@@ -2392,3 +2392,4 @@ https://github.com/arbotics-llc/databot_arduino.git|Contributed|databot
 https://github.com/adafruit/Adafruit_BD3491FS.git|Contributed|Adafruit BD3491FS
 https://github.com/jgromes/RadioLib.git|Contributed|RadioLib
 https://github.com/pololu/high-power-stepper-driver-arduino.git|Contributed|HighPowerStepperDriver
+https://github.com/bmellink/VNH3SP30.git|Contributed|VNH3SP30
