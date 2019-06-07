@@ -2411,3 +2411,4 @@ https://github.com/Infineon/TLx4966-Direction-Speed-Sensor.git|Contributed|TLx49
 https://github.com/Infineon/TLV493D-A1B6-3DMagnetic-Sensor.git|Contributed|TLV493D-A1B6
 https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor.git|Contributed|TLE5012B
 https://github.com/Infineon/TLI4970-D050T4-Current-Sensor.git|Contributed|TLI4970
+https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202.git|Contributed|RGB LED Lighting Shield XMC1202
