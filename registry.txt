@@ -2400,3 +2400,4 @@ https://github.com/bitbank2/BitBang_I2C.git|Contributed|BitBang_I2C
 https://github.com/bitbank2/bb_hx1230.git|Contributed|bb_hx1230
 https://github.com/Glinnes/NMEAParser.git|Contributed|NMEAParser
 https://github.com/adafruit/Adafruit_PixelDust.git|Contributed|Adafruit Sand
+https://github.com/pierremolinaro/acan2515Tiny.git|Contributed|ACAN2515Tiny
