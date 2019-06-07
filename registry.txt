@@ -2418,3 +2418,4 @@ https://github.com/obdevel/CBUS.git|Contributed|CBUS
 https://github.com/obdevel/CBUS2515.git|Contributed|CBUS2515
 https://github.com/obdevel/CBUSconfig.git|Contributed|CBUSconfig
 https://github.com/obdevel/CBUSLED.git|Contributed|CBUSLED
+https://github.com/obdevel/CBUSswitch.git|Contributed|CBUSSwitch
