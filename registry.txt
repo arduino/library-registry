@@ -2407,3 +2407,4 @@ https://github.com/toritamantaro/TN_SwitchState.git|Contributed|TN_SwitchState
 https://github.com/ROBOTIS-GIT/Dynamixel2Arduino.git|Contributed|Dynamixel2Arduino
 https://github.com/ArminJo/Arduino-BlueDisplay.git|Contributed|BlueDisplay
 https://github.com/H-Kurosaki/UARDECS_MEGA.git|Contributed|UARDECS_MEGA Library
+https://github.com/Infineon/TLx4966-Direction-Speed-Sensor.git|Contributed|TLx4966-Direction-Speed-Sensor
