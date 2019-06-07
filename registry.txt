@@ -2398,3 +2398,4 @@ https://github.com/thinkovation/Ambimate.git|Contributed|Ambimate
 https://github.com/bitbank2/ss_oled.git|Contributed|ss_oled
 https://github.com/bitbank2/BitBang_I2C.git|Contributed|BitBang_I2C
 https://github.com/bitbank2/bb_hx1230.git|Contributed|bb_hx1230
+https://github.com/Glinnes/NMEAParser.git|Contributed|NMEAParser
