@@ -2415,3 +2415,4 @@ https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202.git|Contributed|RGB 
 https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300.git|Contributed|IFX9201_XMC1300_StepperMotor
 https://github.com/Infineon/OPTIGA-Trust-E-Security-Controller.git|Contributed|OPTIGATrustE
 https://github.com/obdevel/CBUS.git|Contributed|CBUS
+https://github.com/obdevel/CBUS2515.git|Contributed|CBUS2515
