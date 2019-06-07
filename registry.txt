@@ -2402,3 +2402,4 @@ https://github.com/Glinnes/NMEAParser.git|Contributed|NMEAParser
 https://github.com/adafruit/Adafruit_PixelDust.git|Contributed|Adafruit Sand
 https://github.com/pierremolinaro/acan2515Tiny.git|Contributed|ACAN2515Tiny
 https://github.com/Makuna/Rfid134.git|Contributed|Rfid134 by Makuna
+https://github.com/adafruit/Adafruit_TinyUSB_Arduino.git|Contributed|Adafruit TinyUSB Library
