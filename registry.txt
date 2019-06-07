@@ -2408,3 +2408,4 @@ https://github.com/ROBOTIS-GIT/Dynamixel2Arduino.git|Contributed|Dynamixel2Ardui
 https://github.com/ArminJo/Arduino-BlueDisplay.git|Contributed|BlueDisplay
 https://github.com/H-Kurosaki/UARDECS_MEGA.git|Contributed|UARDECS_MEGA Library
 https://github.com/Infineon/TLx4966-Direction-Speed-Sensor.git|Contributed|TLx4966-Direction-Speed-Sensor
+https://github.com/Infineon/TLV493D-A1B6-3DMagnetic-Sensor.git|Contributed|TLV493D-A1B6
