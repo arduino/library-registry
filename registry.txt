@@ -2423,3 +2423,4 @@ https://github.com/adafruit/Adafruit_Arcada_GifDecoder.git|Contributed|Adafruit 
 https://github.com/haimoz/SoftFilters.git|Contributed|SoftFilters
 https://github.com/drewfish/arduino-TrimWright.git|Contributed|TrimWright
 https://github.com/gavinlyonsrepo/TM1638plus.git|Contributed|TM1638plus
+https://github.com/getlarge/arduino-device-mqtt.git|Contributed|AloesDevice
