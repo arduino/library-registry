@@ -2437,3 +2437,4 @@ https://github.com/vishnumaiea/ISL1208-RTC-Library.git|Contributed|ISL1208-RTC-L
 https://github.com/asukiaaa/ThingSpeak_asukiaaa.git|Contributed|ThingSpeak_asukiaaa
 https://github.com/iliaslamprou/virtuino.git|Contributed|Virtuino
 https://github.com/mprograms/SimpleRotary.git|Contributed|SimpleRotary
+https://github.com/NordicAlliance/arduino-tgui.git|Contributed|Tgui
