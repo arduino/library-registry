@@ -2441,3 +2441,4 @@ https://github.com/NordicAlliance/arduino-tgui.git|Contributed|Tgui
 https://github.com/brianrho/GT5X.git|Contributed|GT5X
 https://github.com/adafruit/Adafruit_FeatherOLED.git|Contributed|Adafruit Feather OLED
 https://github.com/full-stack-ex/tiny-template-engine-arduino.git|Contributed|TinyTemplateEngine
+https://github.com/AidenKunkler-Peck/Tactile-Necklace.git|Contributed|TactNecklace
