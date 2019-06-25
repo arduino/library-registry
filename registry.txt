@@ -2444,3 +2444,4 @@ https://github.com/full-stack-ex/tiny-template-engine-arduino.git|Contributed|Ti
 https://github.com/AidenKunkler-Peck/Tactile-Necklace.git|Contributed|TactNecklace
 https://github.com/remoteme/esp8266-OLED.git|Contributed|ESP8266-OLED Display Library
 https://github.com/EmotiBit/EmotiBit_FW_Si7013.git|Contributed|EmotiBit Si7013
+https://github.com/gavinlyonsrepo/FourteenSegDisplay.git|Contributed|FourteenSegDisplay
