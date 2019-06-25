@@ -2447,3 +2447,4 @@ https://github.com/EmotiBit/EmotiBit_FW_Si7013.git|Contributed|EmotiBit Si7013
 https://github.com/gavinlyonsrepo/FourteenSegDisplay.git|Contributed|FourteenSegDisplay
 https://github.com/alexbertis/LibreriaLedRGB.git|Contributed|LedRGBlib
 https://github.com/adafruit/Adafruit_TFLite_Micro_Speech.git|Contributed|Adafruit TFLite Micro Speech
+https://github.com/onelife/RTT-GUI.git|Contributed|RTT-GUI
