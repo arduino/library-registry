@@ -2433,3 +2433,4 @@ https://github.com/asukiaaa/BLVD20KM_asukiaaa.git|Contributed|BLVD20KM_asukiaaa
 https://github.com/amaxilat/ble_definitions.git|Contributed|ble_definitions
 https://github.com/ARSadri/PushButtonClicks.git|Contributed|PushButton Event Modelling Library
 https://github.com/ayushsharma82/WebSerial.git|Contributed|WebSerial
+https://github.com/vishnumaiea/ISL1208-RTC-Library.git|Contributed|ISL1208-RTC-Library
