@@ -2427,3 +2427,4 @@ https://github.com/adafruit/Adafruit_DS3502.git|Contributed|Adafruit DS3502
 https://github.com/GreenPonik/DFRobot_ESP_EC_BY_GREENPONIK.git|Contributed|DFRobot_ESP_EC_BY_GREENPONIK
 https://github.com/GreenPonik/DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK.git|Contributed|DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK
 https://github.com/adafruit/Adafruit_PixelDust.git|Contributed|Adafruit PixelDust
+https://github.com/KorneliusThomas/PIDcontrollersModular.git|Contributed|PIDcontrollersModular
