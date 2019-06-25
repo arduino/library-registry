@@ -2432,3 +2432,4 @@ https://github.com/haakonnessjoen/TCA6416A.git|Contributed|TCA6416A
 https://github.com/asukiaaa/BLVD20KM_asukiaaa.git|Contributed|BLVD20KM_asukiaaa
 https://github.com/amaxilat/ble_definitions.git|Contributed|ble_definitions
 https://github.com/ARSadri/PushButtonClicks.git|Contributed|PushButton Event Modelling Library
+https://github.com/ayushsharma82/WebSerial.git|Contributed|WebSerial
