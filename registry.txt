@@ -2446,3 +2446,4 @@ https://github.com/remoteme/esp8266-OLED.git|Contributed|ESP8266-OLED Display Li
 https://github.com/EmotiBit/EmotiBit_FW_Si7013.git|Contributed|EmotiBit Si7013
 https://github.com/gavinlyonsrepo/FourteenSegDisplay.git|Contributed|FourteenSegDisplay
 https://github.com/alexbertis/LibreriaLedRGB.git|Contributed|LedRGBlib
+https://github.com/adafruit/Adafruit_TFLite_Micro_Speech.git|Contributed|Adafruit TFLite Micro Speech
