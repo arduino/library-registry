@@ -2438,3 +2438,4 @@ https://github.com/asukiaaa/ThingSpeak_asukiaaa.git|Contributed|ThingSpeak_asuki
 https://github.com/iliaslamprou/virtuino.git|Contributed|Virtuino
 https://github.com/mprograms/SimpleRotary.git|Contributed|SimpleRotary
 https://github.com/NordicAlliance/arduino-tgui.git|Contributed|Tgui
+https://github.com/brianrho/GT5X.git|Contributed|GT5X
