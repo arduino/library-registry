@@ -2451,3 +2451,4 @@ https://github.com/onelife/RTT-GUI.git|Contributed|RTT-GUI
 https://github.com/Seeed-Studio/Seeed_ADIS16470.git|Contributed|Grove 6Axis_Digital_Accelerometer_Gyroscope4_ADIS16470
 https://github.com/kd8bxp/TheTroll.git|Contributed|TheTroll
 https://github.com/iagows/arduino_io.git|Contributed|Simple Repository IO
+https://github.com/AmbientDataInc/Ambient_ESP8266_lib.git|Contributed|Ambient ESP32 ESP8266 lib
