@@ -2454,3 +2454,4 @@ https://github.com/Seeed-Studio/Seeed_ADIS16470.git|Contributed|Grove 6Axis_Digi
 https://github.com/kd8bxp/TheTroll.git|Contributed|TheTroll
 https://github.com/iagows/arduino_io.git|Contributed|Simple Repository IO
 https://github.com/AmbientDataInc/Ambient_ESP8266_lib.git|Contributed|Ambient ESP32 ESP8266 lib
+https://github.com/sparkfun/SparkFun_Qwiic_Relay_Arduino_Library.git|Contributed|SparkFun Qwiic Relay Arduino Library
