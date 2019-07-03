@@ -2458,3 +2458,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Relay_Arduino_Library.git|Contributed
 https://github.com/FortySevenEffects/serde.git|Contributed|Serde
 https://github.com/jlusPrivat/SimpleHOTP.git|Contributed|SimpleHOTP
 https://gitlab.com/robostarter/starterremote.git|Contributed|StarterRemote
+https://github.com/bxparks/AceTime.git|Contributed|AceTime
