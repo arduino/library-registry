@@ -64,6 +64,8 @@ https://github.com/arduino-libraries/PhysicsLabFirmware.git|Arduino|PhysicsLabFi
 https://github.com/arduino-libraries/CTC-Go-Core-Module.git|Arduino|CTC GO CORE
 https://github.com/arduino-libraries/Arduino_MKRGPS.git|Arduino|Arduino_MKRGPS
 https://github.com/arduino-libraries/Arduino_OAuth.git|Arduino|Arduino_OAuth
+https://github.com/arduino-libraries/Arduino_DebugUtils.git|Arduino|Arduino_DebugUtils
+https://github.com/arduino-libraries/Arduino_ConnectionHandler.git|Arduino|Arduino_ConnectionHandler
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
