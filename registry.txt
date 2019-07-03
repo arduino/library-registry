@@ -2460,3 +2460,4 @@ https://github.com/jlusPrivat/SimpleHOTP.git|Contributed|SimpleHOTP
 https://gitlab.com/robostarter/starterremote.git|Contributed|StarterRemote
 https://github.com/bxparks/AceTime.git|Contributed|AceTime
 https://github.com/adafruit/Adafruit_VCNL4040.git|Contributed|Adafruit VCNL4040
+https://github.com/EmotiBit/EmotiBit_FW_FeatherWing.git|Contributed|EmotiBit FeatherWing
