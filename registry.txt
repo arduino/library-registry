@@ -2456,3 +2456,4 @@ https://github.com/iagows/arduino_io.git|Contributed|Simple Repository IO
 https://github.com/AmbientDataInc/Ambient_ESP8266_lib.git|Contributed|Ambient ESP32 ESP8266 lib
 https://github.com/sparkfun/SparkFun_Qwiic_Relay_Arduino_Library.git|Contributed|SparkFun Qwiic Relay Arduino Library
 https://github.com/FortySevenEffects/serde.git|Contributed|Serde
+https://github.com/jlusPrivat/SimpleHOTP.git|Contributed|SimpleHOTP
