@@ -2481,3 +2481,4 @@ https://github.com/MartyMacGyver/ESP32-Digital-RGB-LED-Drivers.git|Contributed|E
 https://github.com/WifWaf/MCP45HVX1.git|Contributed|MCP45HVX1
 https://github.com/WifWaf/AT24CM01.git|Contributed|AT24CM01
 https://github.com/WifWaf/TCA9548A.git|Contributed|TCA9548A
+https://github.com/LinnesLab/MAX541X.git|Contributed|MAX541X
