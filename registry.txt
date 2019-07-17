@@ -2467,3 +2467,4 @@ https://github.com/jsmith2021Brandeis/ArduinoEducation.git|Contributed|Electroni
 https://github.com/bipropellant/bipropellant-hoverboard-api.git|Contributed|HoverboardAPI
 https://github.com/luciansabo/GP2YDustSensor.git|Contributed|Sharp GP2Y Dust Sensor
 https://github.com/TomasRoj/OctopusLab-Library.git|Contributed|OctopusLab-Library
+https://github.com/sparkfun/SparkFun_Qwiic_RFID_Arduino_Library.git|Contributed|SparkFun Qwiic RFID Arduino Library
