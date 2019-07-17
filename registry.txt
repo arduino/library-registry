@@ -2476,3 +2476,4 @@ https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display.git|Contributed|Step_C
 https://github.com/andhieSetyabudi/atlas_OEM.git|Contributed|atlas OEM module
 https://github.com/ldab/ESP32_FTPClient.git|Contributed|esp32_ftpclient
 https://github.com/eduardomarcos/arduino-esp32-restclient.git|Contributed|ESP32 Rest Client
+https://github.com/Isaranu/Senses_wifi.git|Contributed|Senses_wifi
