@@ -2464,3 +2464,4 @@ https://github.com/EmotiBit/BMI160-Arduino.git|Contributed|EmotiBit BMI160
 https://github.com/cmaglie/UselessLib.git|Contributed|UselessLib
 https://github.com/OpenFTC/HiTechnic-Arduino.git|Contributed|HiTechnic-Arduino
 https://github.com/jsmith2021Brandeis/ArduinoEducation.git|Contributed|ElectronicsEducation
+https://github.com/bipropellant/bipropellant-hoverboard-api.git|Contributed|HoverboardAPI
