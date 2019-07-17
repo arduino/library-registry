@@ -2471,3 +2471,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_RFID_Arduino_Library.git|Contributed|
 https://github.com/earthtown/8_digit_vfd.git|Contributed|Klang Electronics 8 Digit VFD
 https://github.com/asukiaaa/WiredController_asukiaaa.git|Contributed|WiredContriller_asukiaaa
 https://github.com/TanPitch/ButtonKing.git|Contributed|ButtonKing
+https://github.com/934virginia/Norman.git|Contributed|Norman
