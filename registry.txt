@@ -2480,3 +2480,4 @@ https://github.com/Isaranu/Senses_wifi.git|Contributed|Senses_wifi
 https://github.com/MartyMacGyver/ESP32-Digital-RGB-LED-Drivers.git|Contributed|ESP32 Digital RGB LED Drivers
 https://github.com/WifWaf/MCP45HVX1.git|Contributed|MCP45HVX1
 https://github.com/WifWaf/AT24CM01.git|Contributed|AT24CM01
+https://github.com/WifWaf/TCA9548A.git|Contributed|TCA9548A
