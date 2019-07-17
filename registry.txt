@@ -2485,3 +2485,4 @@ https://github.com/LinnesLab/MAX541X.git|Contributed|MAX541X
 https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library.git|Contributed|SparkFun High Precision Temperature Sensor TMP117 Qwiic
 https://github.com/PulseRain/Step_CYC10_I2C.git|Contributed|Step_CYC10_I2C
 https://github.com/dok-net/CoopTask.git|Contributed|CoopTask
+https://github.com/philbowles/esparto.git|Contributed|Esparto
