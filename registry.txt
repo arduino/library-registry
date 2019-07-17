@@ -2462,3 +2462,4 @@ https://github.com/bxparks/AceTime.git|Contributed|AceTime
 https://github.com/adafruit/Adafruit_VCNL4040.git|Contributed|Adafruit VCNL4040
 https://github.com/EmotiBit/EmotiBit_FW_FeatherWing.git|Contributed|EmotiBit FeatherWing
 https://github.com/EmotiBit/BMI160-Arduino.git|Contributed|EmotiBit BMI160
+https://github.com/cmaglie/UselessLib.git|Contributed|UselessLib
