@@ -1608,7 +1608,6 @@ https://github.com/Seeed-Studio/TFT_Touch_Shield_V2.git|Contributed|TFT Touch Sh
 https://github.com/Seeed-Studio/Touch_Screen_Driver.git|Contributed|Touch Screen Driver
 https://github.com/Seeed-Studio/Wio_LTE_Arduino_Library.git|Contributed|Wio LTE Arduino Library
 https://github.com/hippymulehead/FastDigitalPin.git|Contributed|Romans Audio FastDigitalPin Library
-https://github.com/adafruit/Adafruit_QSPI.git|Contributed|Adafruit QSPI
 https://github.com/bluemurder/EveryTimer.git|Contributed|EveryTimer
 https://github.com/bluemurder/esp8266-ping.git|Contributed|ESP8266-ping
 https://github.com/Isaranu/IoTtweetNBIoT.git|Contributed|IoTtweetNBIoT
