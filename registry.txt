@@ -2470,3 +2470,4 @@ https://github.com/TomasRoj/OctopusLab-Library.git|Contributed|OctopusLab-Librar
 https://github.com/sparkfun/SparkFun_Qwiic_RFID_Arduino_Library.git|Contributed|SparkFun Qwiic RFID Arduino Library
 https://github.com/earthtown/8_digit_vfd.git|Contributed|Klang Electronics 8 Digit VFD
 https://github.com/asukiaaa/WiredController_asukiaaa.git|Contributed|WiredContriller_asukiaaa
+https://github.com/TanPitch/ButtonKing.git|Contributed|ButtonKing
