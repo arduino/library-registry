@@ -2482,3 +2482,4 @@ https://github.com/WifWaf/MCP45HVX1.git|Contributed|MCP45HVX1
 https://github.com/WifWaf/AT24CM01.git|Contributed|AT24CM01
 https://github.com/WifWaf/TCA9548A.git|Contributed|TCA9548A
 https://github.com/LinnesLab/MAX541X.git|Contributed|MAX541X
+https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library.git|Contributed|SparkFun High Precision Temperature Sensor TMP117 Qwiic
