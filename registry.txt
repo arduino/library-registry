@@ -67,6 +67,9 @@ https://github.com/arduino-libraries/Arduino_OAuth.git|Arduino|Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_DebugUtils.git|Arduino|Arduino_DebugUtils
 https://github.com/arduino-libraries/Arduino_ConnectionHandler.git|Arduino|Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_LSM6DS3.git|Arduino|Arduino_LSM6DS3
+https://github.com/arduino-libraries/Arduino_LSM9DS1.git|Arduino|Arduino_LSM9DS1
+https://github.com/arduino-libraries/Arduino_HTS221.git|Arduino|Arduino_HTS221
+https://github.com/arduino-libraries/Arduino_LPS22HB.git|Arduino|Arduino_LPS22HB
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
