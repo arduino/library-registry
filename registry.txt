@@ -2494,3 +2494,4 @@ https://github.com/beegee-tokyo/SX126x-Arduino.git|Contributed|SX126x-Arduino
 https://github.com/jonnieZG/LinkedPointerList.git|Contributed|LinkedPointerList
 https://github.com/skx/Z80RetroShield.git|Contributed|Z80RetroShield
 https://github.com/kigster/back-seat-driver.git|Contributed|BackSeatDriver
+https://github.com/PowerBroker2/ArdUAV.git|Contributed|ArdUAV
