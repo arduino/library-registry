@@ -2473,7 +2473,7 @@ https://github.com/luciansabo/GP2YDustSensor.git|Contributed|Sharp GP2Y Dust Sen
 https://github.com/TomasRoj/OctopusLab-Library.git|Contributed|OctopusLab-Library
 https://github.com/sparkfun/SparkFun_Qwiic_RFID_Arduino_Library.git|Contributed|SparkFun Qwiic RFID Arduino Library
 https://github.com/earthtown/8_digit_vfd.git|Contributed|Klang Electronics 8 Digit VFD
-https://github.com/asukiaaa/WiredController_asukiaaa.git|Contributed|WiredContriller_asukiaaa
+https://github.com/asukiaaa/WiredController_asukiaaa.git|Contributed|WiredController_asukiaaa
 https://github.com/TanPitch/ButtonKing.git|Contributed|ButtonKing
 https://github.com/934virginia/Norman.git|Contributed|Norman
 https://github.com/andhieSetyabudi/atlas_OEM.git|Contributed|atlas OEM module
@@ -2507,3 +2507,4 @@ https://github.com/bitixel/Omron_D6FPH.git|Contributed|Omron D6F-PH Arduino Libr
 https://github.com/ThaiEasyElec/TEE_UC20_Shield.git|Contributed|TEE UC20 Shield
 https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display.git|Contributed|Step_CYC10_Seven_Seg_Display
 https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library.git|Contributed|SparkFun Ambient Light Sensor Arduino Library
+https://github.com/Isaranu/Senses_wifi_esp32.git|Contributed|Senses_wifi_esp32
