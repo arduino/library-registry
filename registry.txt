@@ -2499,3 +2499,4 @@ https://github.com/adafruit/Adafruit_DotStarMatrix.git|Contributed|Adafruit DotS
 https://github.com/Isaranu/Senses_NBIoT.git|Contributed|Senses_NBIoT
 https://github.com/a7md0/WakeOnLan.git|Contributed|WakeOnLan
 https://github.com/lexus2k/tinyproto.git|Contributed|tinyproto
+https://github.com/Freenove/Freenove_WS2812B_RGBLED_Controller.git|Contributed|Freenove WS2812B RGBLED Controller
