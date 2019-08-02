@@ -2508,3 +2508,4 @@ https://github.com/ThaiEasyElec/TEE_UC20_Shield.git|Contributed|TEE UC20 Shield
 https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display.git|Contributed|Step_CYC10_Seven_Seg_Display
 https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library.git|Contributed|SparkFun Ambient Light Sensor Arduino Library
 https://github.com/Isaranu/Senses_wifi_esp32.git|Contributed|Senses_wifi_esp32
+https://github.com/ameer1234567890/ShiftDisplay2.git|Contributed|ShiftDisplay2
