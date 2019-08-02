@@ -2476,7 +2476,6 @@ https://github.com/earthtown/8_digit_vfd.git|Contributed|Klang Electronics 8 Dig
 https://github.com/asukiaaa/WiredController_asukiaaa.git|Contributed|WiredContriller_asukiaaa
 https://github.com/TanPitch/ButtonKing.git|Contributed|ButtonKing
 https://github.com/934virginia/Norman.git|Contributed|Norman
-https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display.git|Contributed|Step_CYC10_Seven_Seg_DisplayCYC10_7_seg_display
 https://github.com/andhieSetyabudi/atlas_OEM.git|Contributed|atlas OEM module
 https://github.com/ldab/ESP32_FTPClient.git|Contributed|esp32_ftpclient
 https://github.com/eduardomarcos/arduino-esp32-restclient.git|Contributed|ESP32 Rest Client
@@ -2506,3 +2505,4 @@ https://github.com/sparkfun/SparkFun_MCP9600_Arduino_Library.git|Contributed|Spa
 https://github.com/Infineon/hall-switch.git|Contributed|Hall-Switch
 https://github.com/bitixel/Omron_D6FPH.git|Contributed|Omron D6F-PH Arduino Library
 https://github.com/ThaiEasyElec/TEE_UC20_Shield.git|Contributed|TEE UC20 Shield
+https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display.git|Contributed|Step_CYC10_Seven_Seg_Display
