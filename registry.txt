@@ -2497,3 +2497,4 @@ https://github.com/kigster/back-seat-driver.git|Contributed|BackSeatDriver
 https://github.com/PowerBroker2/ArdUAV.git|Contributed|ArdUAV
 https://github.com/adafruit/Adafruit_DotStarMatrix.git|Contributed|Adafruit DotStarMatrix
 https://github.com/Isaranu/Senses_NBIoT.git|Contributed|Senses_NBIoT
+https://github.com/a7md0/WakeOnLan.git|Contributed|WakeOnLan
