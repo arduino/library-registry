@@ -2504,3 +2504,4 @@ https://github.com/thapakorn613/GoGoBoard-Library.git|Contributed|LILCMU GoGoBoa
 https://github.com/adafruit/SdFat.git|Contributed|SdFat - Adafruit Fork
 https://github.com/sparkfun/SparkFun_MCP9600_Arduino_Library.git|Contributed|SparkFun MCP9600 Thermocouple Library
 https://github.com/Infineon/hall-switch.git|Contributed|Hall-Switch
+https://github.com/bitixel/Omron_D6FPH.git|Contributed|Omron D6F-PH Arduino Library
