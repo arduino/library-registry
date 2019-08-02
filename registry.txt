@@ -2502,3 +2502,4 @@ https://github.com/lexus2k/tinyproto.git|Contributed|tinyproto
 https://github.com/Freenove/Freenove_WS2812B_RGBLED_Controller.git|Contributed|Freenove WS2812B RGBLED Controller
 https://github.com/thapakorn613/GoGoBoard-Library.git|Contributed|LILCMU GoGoBoard Library
 https://github.com/adafruit/SdFat.git|Contributed|SdFat - Adafruit Fork
+https://github.com/sparkfun/SparkFun_MCP9600_Arduino_Library.git|Contributed|SparkFun MCP9600 Thermocouple Library
