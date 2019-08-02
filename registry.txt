@@ -2491,3 +2491,4 @@ https://github.com/PulseRain/Step_CYC10_I2C.git|Contributed|Step_CYC10_I2C
 https://github.com/dok-net/CoopTask.git|Contributed|CoopTask
 https://github.com/philbowles/esparto.git|Contributed|Esparto
 https://github.com/beegee-tokyo/SX126x-Arduino.git|Contributed|SX126x-Arduino
+https://github.com/jonnieZG/LinkedPointerList.git|Contributed|LinkedPointerList
