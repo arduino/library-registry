@@ -2530,3 +2530,4 @@ https://github.com/JSC-electronics/ObjectButton.git|Contributed|ObjectButton
 https://github.com/Naguissa/uMuxOutputLib.git|Contributed|uMuxOutputLib
 https://github.com/JRVeale/function-fsm.git|Contributed|FunctionFsm
 https://github.com/kbernario/PaunaStepper.git|Contributed|PaunaStepper
+https://github.com/SoonerRobotics/RobotLib.git|Contributed|RobotLib
