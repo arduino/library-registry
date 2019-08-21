@@ -2516,3 +2516,4 @@ https://github.com/kk6axq/BraccioV2.git|Contributed|BraccioV2
 https://github.com/Stan-Reifel/TeensyUserInterface.git|Contributed|TeensyUserInterface
 https://github.com/facts-engineering/ViewMarq.git|Contributed|ViewMarq
 https://github.com/JSC-electronics/SimpleRelay.git|Contributed|SimpleRelay
+https://github.com/bitbank2/bb_uc1701.git|Contributed|bb_uc1701
