@@ -2519,3 +2519,4 @@ https://github.com/JSC-electronics/SimpleRelay.git|Contributed|SimpleRelay
 https://github.com/bitbank2/bb_uc1701.git|Contributed|bb_uc1701
 https://github.com/miguel5612/Arduino-ThermistorLibrary.git|Contributed|ThermistorLibrary
 https://github.com/fp64lib/fp64lib.git|Contributed|fp64lib
+https://github.com/miguel5612/MQSensorsLib.git|Contributed|MQUnifiedsensor
