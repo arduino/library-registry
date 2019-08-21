@@ -1175,7 +1175,6 @@ https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library.git|Contribu
 https://github.com/OpenBCI/OpenBCI_WIFI.git|Contributed|OpenBCI_Wifi
 https://github.com/OpenBCI/OpenBCI_Wifi_Master_Library.git|Contributed|OpenBCI_Wifi_Master
 https://github.com/Infineon/DC-Motor-Control-TLE94112EL.git|Contributed|TLE94112
-https://github.com/sabas1080/CayenneLPP.git|Contributed|CayenneLPP
 https://github.com/PulseRain/M10ESP8266.git|Contributed|M10ESP8266
 https://github.com/pololu/tic-arduino.git|Contributed|Tic
 https://github.com/XasWorks/Circios-Library.git|Contributed|Circios Roboter-Steuerung
@@ -2522,3 +2521,4 @@ https://github.com/fp64lib/fp64lib.git|Contributed|fp64lib
 https://github.com/miguel5612/MQSensorsLib.git|Contributed|MQUnifiedsensor
 https://github.com/sparkfun/SparkFun_AK975x_Arduino_Library.git|Contributed|SparkFun AK975X Human Presence Sensor Library
 https://github.com/AllWize/mbus-payload.git|Contributed|MBUSPayload
+https://github.com/ElectronicCats/CayenneLPP.git|Contributed|CayenneLPP
