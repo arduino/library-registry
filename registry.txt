@@ -2511,3 +2511,4 @@ https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library.git|Co
 https://github.com/Isaranu/Senses_wifi_esp32.git|Contributed|Senses_wifi_esp32
 https://github.com/ameer1234567890/ShiftDisplay2.git|Contributed|ShiftDisplay2
 https://github.com/dushyantahuja/TFL-Status.git|Contributed|TFL-Status
+https://github.com/adafruit/Adafruit_MSA301.git|Contributed|Adafruit MSA301
