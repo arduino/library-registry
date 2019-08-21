@@ -2522,3 +2522,4 @@ https://github.com/miguel5612/MQSensorsLib.git|Contributed|MQUnifiedsensor
 https://github.com/sparkfun/SparkFun_AK975x_Arduino_Library.git|Contributed|SparkFun AK975X Human Presence Sensor Library
 https://github.com/AllWize/mbus-payload.git|Contributed|MBUSPayload
 https://github.com/ElectronicCats/CayenneLPP.git|Contributed|CayenneLPP
+https://github.com/sleepdefic1t/bcl.git|Contributed|bcl
