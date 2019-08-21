@@ -2523,3 +2523,4 @@ https://github.com/sparkfun/SparkFun_AK975x_Arduino_Library.git|Contributed|Spar
 https://github.com/AllWize/mbus-payload.git|Contributed|MBUSPayload
 https://github.com/ElectronicCats/CayenneLPP.git|Contributed|CayenneLPP
 https://github.com/sleepdefic1t/bcl.git|Contributed|bcl
+https://github.com/UnexpectedMaker/tinypico-helper.git|Contributed|TinyPICO Helper Library
