@@ -2526,3 +2526,4 @@ https://github.com/sleepdefic1t/bcl.git|Contributed|bcl
 https://github.com/UnexpectedMaker/tinypico-helper.git|Contributed|TinyPICO Helper Library
 https://github.com/AKJ7/TM1637.git|Contributed|TM1637 Driver
 https://github.com/graybiel-laboratory/GeneralPurposeMotionDetector.git|Contributed|GeneralPurposeMotionDetector
+https://github.com/JSC-electronics/ObjectButton.git|Contributed|ObjectButton
