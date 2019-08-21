@@ -2527,3 +2527,4 @@ https://github.com/UnexpectedMaker/tinypico-helper.git|Contributed|TinyPICO Help
 https://github.com/AKJ7/TM1637.git|Contributed|TM1637 Driver
 https://github.com/graybiel-laboratory/GeneralPurposeMotionDetector.git|Contributed|GeneralPurposeMotionDetector
 https://github.com/JSC-electronics/ObjectButton.git|Contributed|ObjectButton
+https://github.com/Naguissa/uMuxOutputLib.git|Contributed|uMuxOutputLib
