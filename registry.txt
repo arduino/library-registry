@@ -2531,3 +2531,4 @@ https://github.com/Naguissa/uMuxOutputLib.git|Contributed|uMuxOutputLib
 https://github.com/JRVeale/function-fsm.git|Contributed|FunctionFsm
 https://github.com/kbernario/PaunaStepper.git|Contributed|PaunaStepper
 https://github.com/SoonerRobotics/RobotLib.git|Contributed|RobotLib
+https://github.com/sparkfun/SparkFun_Qwiic_Button_Arduino_Library.git|Contributed|SparkFun Qwiic Button and Qwiic Switch Library
