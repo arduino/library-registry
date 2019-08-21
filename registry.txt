@@ -2521,3 +2521,4 @@ https://github.com/miguel5612/Arduino-ThermistorLibrary.git|Contributed|Thermist
 https://github.com/fp64lib/fp64lib.git|Contributed|fp64lib
 https://github.com/miguel5612/MQSensorsLib.git|Contributed|MQUnifiedsensor
 https://github.com/sparkfun/SparkFun_AK975x_Arduino_Library.git|Contributed|SparkFun AK975X Human Presence Sensor Library
+https://github.com/AllWize/mbus-payload.git|Contributed|MBUSPayload
