@@ -2513,3 +2513,4 @@ https://github.com/ameer1234567890/ShiftDisplay2.git|Contributed|ShiftDisplay2
 https://github.com/dushyantahuja/TFL-Status.git|Contributed|TFL-Status
 https://github.com/adafruit/Adafruit_MSA301.git|Contributed|Adafruit MSA301
 https://github.com/kk6axq/BraccioV2.git|Contributed|BraccioV2
+https://github.com/Stan-Reifel/TeensyUserInterface.git|Contributed|TeensyUserInterface
