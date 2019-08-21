@@ -2535,3 +2535,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Button_Arduino_Library.git|Contribute
 https://github.com/RyoKosaka/HelloDrum-arduino-Library.git|Contributed|Hello Drum
 https://github.com/constiko/RV-3028_C7-Arduino_Library.git|Contributed|RTC RV-3028-C7 Arduino Library
 https://github.com/francibm97/UM3750.git|Contributed|um3750-library
+https://github.com/brigosx/SevenSeg4D.git|Contributed|SevenSeg4D
