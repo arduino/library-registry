@@ -2553,3 +2553,4 @@ https://github.com/xoseperez/s7xg.git|Contributed|S7XG
 https://github.com/jandrassy/WiFiEspAT.git|Contributed|WiFiEspAT
 https://github.com/arash77/BaleMessengerBot_Arduino.git|Contributed|BaleMessengerBot_Arduino
 https://github.com/mprograms/QMC5883LCompass.git|Contributed|QMC5883LCompass
+https://github.com/lexus2k/lcdgfx.git|Contributed|lcdgfx
