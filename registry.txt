@@ -2545,3 +2545,4 @@ https://github.com/yyuri/Switch_lib.git|Contributed|Switch_lib
 https://github.com/GypsyRobot/MusicBuzzer.git|Contributed|MusicBuzzer
 https://github.com/iliaslamprou/virtuinoCM.git|Contributed|VirtuinoCM
 https://github.com/Master811129/MicroTone.git|Contributed|MicroTone
+https://github.com/stm32duino/X-NUCLEO-IHM12A1.git|Contributed|STM32duino X-NUCLEO-IHM12A1
