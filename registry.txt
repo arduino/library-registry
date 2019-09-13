@@ -2542,3 +2542,4 @@ https://github.com/Liksu/7SegmentsSnake.git|Contributed|Sanke
 https://github.com/EdanPotter/end-device-radioenge.git|Contributed|RadioengeLoraWAN
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git|Contributed|SparkFun Bio Sensor Hub Library
 https://github.com/yyuri/Switch_lib.git|Contributed|Switch_lib
+https://github.com/GypsyRobot/MusicBuzzer.git|Contributed|MusicBuzzer
