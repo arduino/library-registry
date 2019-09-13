@@ -2557,3 +2557,4 @@ https://github.com/lexus2k/lcdgfx.git|Contributed|lcdgfx
 https://github.com/Lynxmotion/LSS_Library_Arduino.git|Contributed|Lynxmotion Smart Servo -LSS-
 https://github.com/ImpulseAdventure/Waveshare_ILI9486.git|Contributed|Waveshare ILI9486
 https://github.com/elC0mpa/EnergyMeter.git|Contributed|EnergyMeter
+https://github.com/ravelab/JsonLogger.git|Contributed|JsonLogger
