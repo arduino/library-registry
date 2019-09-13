@@ -2537,3 +2537,4 @@ https://github.com/constiko/RV-3028_C7-Arduino_Library.git|Contributed|RTC RV-30
 https://github.com/francibm97/UM3750.git|Contributed|um3750-library
 https://github.com/brigosx/SevenSeg4D.git|Contributed|SevenSeg4D
 https://github.com/dushyantahuja/IPGeolocation.git|Contributed|IPGeolocation
+https://github.com/siara-cc/Unishox_Arduino_Progmem_lib.git|Contributed|Unishox Progmem Decompressor
