@@ -2554,3 +2554,4 @@ https://github.com/jandrassy/WiFiEspAT.git|Contributed|WiFiEspAT
 https://github.com/arash77/BaleMessengerBot_Arduino.git|Contributed|BaleMessengerBot_Arduino
 https://github.com/mprograms/QMC5883LCompass.git|Contributed|QMC5883LCompass
 https://github.com/lexus2k/lcdgfx.git|Contributed|lcdgfx
+https://github.com/Lynxmotion/LSS_Library_Arduino.git|Contributed|Lynxmotion Smart Servo -LSS-
