@@ -2543,3 +2543,4 @@ https://github.com/EdanPotter/end-device-radioenge.git|Contributed|RadioengeLora
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git|Contributed|SparkFun Bio Sensor Hub Library
 https://github.com/yyuri/Switch_lib.git|Contributed|Switch_lib
 https://github.com/GypsyRobot/MusicBuzzer.git|Contributed|MusicBuzzer
+https://github.com/iliaslamprou/virtuinoCM.git|Contributed|VirtuinoCM
