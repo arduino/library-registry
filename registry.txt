@@ -2556,3 +2556,4 @@ https://github.com/mprograms/QMC5883LCompass.git|Contributed|QMC5883LCompass
 https://github.com/lexus2k/lcdgfx.git|Contributed|lcdgfx
 https://github.com/Lynxmotion/LSS_Library_Arduino.git|Contributed|Lynxmotion Smart Servo -LSS-
 https://github.com/ImpulseAdventure/Waveshare_ILI9486.git|Contributed|Waveshare ILI9486
+https://github.com/elC0mpa/EnergyMeter.git|Contributed|EnergyMeter
