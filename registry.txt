@@ -2559,3 +2559,4 @@ https://github.com/ImpulseAdventure/Waveshare_ILI9486.git|Contributed|Waveshare 
 https://github.com/elC0mpa/EnergyMeter.git|Contributed|EnergyMeter
 https://github.com/ravelab/JsonLogger.git|Contributed|JsonLogger
 https://github.com/rfetick/Kalman.git|Contributed|Kalman
+https://github.com/datacute/TinyOLED-Fonts.git|Contributed|TinyOLED-Fonts
