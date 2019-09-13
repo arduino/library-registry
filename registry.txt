@@ -2549,3 +2549,4 @@ https://github.com/stm32duino/X-NUCLEO-IHM12A1.git|Contributed|STM32duino X-NUCL
 https://github.com/xinyu198736/arduino-aliyun-iot-sdk.git|Contributed|AliyunIoTSDK
 https://github.com/ZulNs/STM32F1_RTC.git|Contributed|STM32F1_RTC
 https://github.com/GypsyRobot/CuteBuzzerSounds.git|Contributed|CuteBuzzerSounds
+https://github.com/xoseperez/s7xg.git|Contributed|S7XG
