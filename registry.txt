@@ -2550,3 +2550,4 @@ https://github.com/xinyu198736/arduino-aliyun-iot-sdk.git|Contributed|AliyunIoTS
 https://github.com/ZulNs/STM32F1_RTC.git|Contributed|STM32F1_RTC
 https://github.com/GypsyRobot/CuteBuzzerSounds.git|Contributed|CuteBuzzerSounds
 https://github.com/xoseperez/s7xg.git|Contributed|S7XG
+https://github.com/jandrassy/WiFiEspAT.git|Contributed|WiFiEspAT
