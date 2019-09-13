@@ -2540,3 +2540,4 @@ https://github.com/dushyantahuja/IPGeolocation.git|Contributed|IPGeolocation
 https://github.com/siara-cc/Unishox_Arduino_Progmem_lib.git|Contributed|Unishox Progmem Decompressor
 https://github.com/Liksu/7SegmentsSnake.git|Contributed|Sanke
 https://github.com/EdanPotter/end-device-radioenge.git|Contributed|RadioengeLoraWAN
+https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git|Contributed|SparkFun Bio Sensor Hub Library
