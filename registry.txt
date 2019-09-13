@@ -2544,3 +2544,4 @@ https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git|Contributed|Spar
 https://github.com/yyuri/Switch_lib.git|Contributed|Switch_lib
 https://github.com/GypsyRobot/MusicBuzzer.git|Contributed|MusicBuzzer
 https://github.com/iliaslamprou/virtuinoCM.git|Contributed|VirtuinoCM
+https://github.com/Master811129/MicroTone.git|Contributed|MicroTone
