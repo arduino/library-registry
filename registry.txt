@@ -2564,3 +2564,4 @@ https://github.com/purwar2016/PreciseMovement-library.git|Contributed|PreMo - Vi
 https://github.com/kiryanenko/TTP229.git|Contributed|TTP229
 https://github.com/adafruit/Adafruit_PCT2075.git|Contributed|Adafruit PCT2075
 https://github.com/adafruit/Adafruit_AS726x.git|Contributed|Adafruit AS726X
+https://github.com/adafruit/TinyXML.git|Contributed|TinyXML
