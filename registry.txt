@@ -2561,3 +2561,4 @@ https://github.com/ravelab/JsonLogger.git|Contributed|JsonLogger
 https://github.com/rfetick/Kalman.git|Contributed|Kalman
 https://github.com/datacute/TinyOLED-Fonts.git|Contributed|TinyOLED-Fonts
 https://github.com/purwar2016/PreciseMovement-library.git|Contributed|PreMo - Virtual Path Following
+https://github.com/kiryanenko/TTP229.git|Contributed|TTP229
