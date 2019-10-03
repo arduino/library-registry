@@ -2580,3 +2580,4 @@ https://github.com/Rotario/arduinoCurveFitting.git|Contributed|CurveFitting
 https://github.com/sparkfun/SparkFun_LIS2DH12_Arduino_Library.git|Contributed|SparkFun LIS2DH12 Arduino Library
 https://github.com/M-Reimer/EncoderStepCounter.git|Contributed|EncoderStepCounter
 https://github.com/Pylo/MCreatorLinkArduino.git|Contributed|MCreator Link
+https://github.com/AloriumTechnology/XLR8PWM.git|Contributed|XLR8PWM
