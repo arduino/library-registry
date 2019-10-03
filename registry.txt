@@ -2600,3 +2600,4 @@ https://github.com/luisllamasbinaburo/Arduino-AsyncTask.git|Contributed|AsyncTas
 https://github.com/luisllamasbinaburo/Arduino-AsyncTimer.git|Contributed|AsyncTimerLib
 https://github.com/luisllamasbinaburo/Arduino-AsyncSerial.git|Contributed|AsyncSerial
 https://github.com/luisllamasbinaburo/Arduino-AsyncServo.git|Contributed|AsyncServoLib
+https://github.com/luisllamasbinaburo/Arduino-AsyncSonar.git|Contributed|AsyncSonar
