@@ -2573,3 +2573,4 @@ https://github.com/DrGamerGuy/GLCD.git|Contributed|GLCD
 https://github.com/PowerBroker2/SerialTransfer.git|Contributed|SerialTransfer
 https://github.com/bkolicoski/arduino-youtube-sight.git|Contributed|YouTube Sight
 https://github.com/gutierrezps/gwiot7941e.git|Contributed|Gwiot 7941E
+https://github.com/jfitter/MLX90614.git|Contributed|EAA_MLX90614
