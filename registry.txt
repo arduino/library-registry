@@ -2597,3 +2597,4 @@ https://github.com/luisllamasbinaburo/Arduino-TriangleSolver.git|Contributed|Tri
 https://github.com/luisllamasbinaburo/Arduino-Storyboard.git|Contributed|StoryBoardLib
 https://github.com/luisllamasbinaburo/Arduino-MultiTask.git|Contributed|MultiTaskLib
 https://github.com/luisllamasbinaburo/Arduino-AsyncTask.git|Contributed|AsyncTaskLib
+https://github.com/luisllamasbinaburo/Arduino-AsyncTimer.git|Contributed|AsyncTimerLib
