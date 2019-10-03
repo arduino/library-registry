@@ -2566,3 +2566,4 @@ https://github.com/adafruit/Adafruit_PCT2075.git|Contributed|Adafruit PCT2075
 https://github.com/adafruit/Adafruit_AS726x.git|Contributed|Adafruit AS726X
 https://github.com/adafruit/TinyXML.git|Contributed|TinyXML
 https://github.com/adafruit/Adafruit_Pixie.git|Contributed|Adafruit Pixie
+https://github.com/M-Reimer/IwitVolumeKnob.git|Contributed|IwitVolumeKnob
