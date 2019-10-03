@@ -2568,3 +2568,4 @@ https://github.com/adafruit/TinyXML.git|Contributed|TinyXML
 https://github.com/adafruit/Adafruit_Pixie.git|Contributed|Adafruit Pixie
 https://github.com/M-Reimer/IwitVolumeKnob.git|Contributed|IwitVolumeKnob
 https://github.com/BoschSensortec/BSEC-Arduino-library.git|Contributed|BSEC Software Library
+https://github.com/RB-ENantel/RC_ESC.git|Contributed|RC_ESC
