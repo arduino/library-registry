@@ -2582,3 +2582,4 @@ https://github.com/M-Reimer/EncoderStepCounter.git|Contributed|EncoderStepCounte
 https://github.com/Pylo/MCreatorLinkArduino.git|Contributed|MCreator Link
 https://github.com/AloriumTechnology/XLR8PWM.git|Contributed|XLR8PWM
 https://github.com/AloriumTechnology/XLR8RC.git|Contributed|XLR8RC
+https://github.com/djuseeq/Ch376msc.git|Contributed|Ch376msc
