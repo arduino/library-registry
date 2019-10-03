@@ -2598,3 +2598,4 @@ https://github.com/luisllamasbinaburo/Arduino-Storyboard.git|Contributed|StoryBo
 https://github.com/luisllamasbinaburo/Arduino-MultiTask.git|Contributed|MultiTaskLib
 https://github.com/luisllamasbinaburo/Arduino-AsyncTask.git|Contributed|AsyncTaskLib
 https://github.com/luisllamasbinaburo/Arduino-AsyncTimer.git|Contributed|AsyncTimerLib
+https://github.com/luisllamasbinaburo/Arduino-AsyncSerial.git|Contributed|AsyncSerial
