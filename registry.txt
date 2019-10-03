@@ -2588,3 +2588,4 @@ https://github.com/offcircuit/GPS.git|Contributed|GPS
 https://github.com/luisllamasbinaburo/Arduino-ReactiveArduino.git|Contributed|ReactiveArduino
 https://github.com/luisllamasbinaburo/ArduinoLinq.git|Contributed|CppLinq
 https://github.com/luisllamasbinaburo/Arduino-Interpolation.git|Contributed|InterpolationLib
+https://github.com/luisllamasbinaburo/Arduino-Easing.git|Contributed|EasyingLib
