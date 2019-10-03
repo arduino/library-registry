@@ -908,7 +908,7 @@ https://github.com/MajicDesigns/MD_Parola.git|Contributed|MD_Parola
 https://github.com/MajicDesigns/MD_MAX72XX.git|Contributed|MD_MAX72XX
 https://github.com/monstrenyatko/ArduinoMqtt.git|Contributed|ArduinoMqtt
 
-https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library.git|Contributed|SparkFun LIS3DH Breakout
+https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library.git|Contributed|SparkFun LIS3DH Arduino Library
 https://github.com/makers-upv/ORC.git|Contributed|Olympic Robotic Challenge
 https://github.com/MajicDesigns/MD_Cubo.git|Contributed|MD_Cubo
 https://github.com/MajicDesigns/MD_MSGEQ7.git|Contributed|MD_MSGEQ7
