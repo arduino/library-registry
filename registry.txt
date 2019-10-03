@@ -2595,3 +2595,4 @@ https://github.com/luisllamasbinaburo/Arduino-EasyComma.git|Contributed|EasyComm
 https://github.com/luisllamasbinaburo/Arduino-BTS7960.git|Contributed|BTS7960
 https://github.com/luisllamasbinaburo/Arduino-TriangleSolver.git|Contributed|TriangleSolverLib
 https://github.com/luisllamasbinaburo/Arduino-Storyboard.git|Contributed|StoryBoardLib
+https://github.com/luisllamasbinaburo/Arduino-MultiTask.git|Contributed|MultiTaskLib
