@@ -2577,3 +2577,4 @@ https://github.com/jfitter/MLX90614.git|Contributed|EAA_MLX90614
 https://github.com/u-fire/uFire_SHT20.git|Contributed|uFire SHT20
 https://github.com/Master811129/PF.git|Contributed|PF
 https://github.com/Rotario/arduinoCurveFitting.git|Contributed|CurveFitting
+https://github.com/sparkfun/SparkFun_LIS2DH12_Arduino_Library.git|Contributed|SparkFun LIS2DH12 Arduino Library
