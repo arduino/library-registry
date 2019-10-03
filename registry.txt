@@ -2581,3 +2581,4 @@ https://github.com/sparkfun/SparkFun_LIS2DH12_Arduino_Library.git|Contributed|Sp
 https://github.com/M-Reimer/EncoderStepCounter.git|Contributed|EncoderStepCounter
 https://github.com/Pylo/MCreatorLinkArduino.git|Contributed|MCreator Link
 https://github.com/AloriumTechnology/XLR8PWM.git|Contributed|XLR8PWM
+https://github.com/AloriumTechnology/XLR8RC.git|Contributed|XLR8RC
