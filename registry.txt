@@ -2599,3 +2599,4 @@ https://github.com/luisllamasbinaburo/Arduino-MultiTask.git|Contributed|MultiTas
 https://github.com/luisllamasbinaburo/Arduino-AsyncTask.git|Contributed|AsyncTaskLib
 https://github.com/luisllamasbinaburo/Arduino-AsyncTimer.git|Contributed|AsyncTimerLib
 https://github.com/luisllamasbinaburo/Arduino-AsyncSerial.git|Contributed|AsyncSerial
+https://github.com/luisllamasbinaburo/Arduino-AsyncServo.git|Contributed|AsyncServoLib
