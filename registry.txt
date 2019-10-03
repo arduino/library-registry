@@ -2586,3 +2586,4 @@ https://github.com/djuseeq/Ch376msc.git|Contributed|Ch376msc
 https://github.com/Warlib1975/Irms_calc.git|Contributed|Irms_calc
 https://github.com/offcircuit/GPS.git|Contributed|GPS
 https://github.com/luisllamasbinaburo/Arduino-ReactiveArduino.git|Contributed|ReactiveArduino
+https://github.com/luisllamasbinaburo/ArduinoLinq.git|Contributed|CppLinq
