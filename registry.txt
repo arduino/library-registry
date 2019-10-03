@@ -2591,3 +2591,4 @@ https://github.com/luisllamasbinaburo/Arduino-Interpolation.git|Contributed|Inte
 https://github.com/luisllamasbinaburo/Arduino-Easing.git|Contributed|EasyingLib
 https://github.com/luisllamasbinaburo/Arduino-SyncWaveforms.git|Contributed|SyncWaveformsLib
 https://github.com/luisllamasbinaburo/Arduino-Parser.git|Contributed|Parser
+https://github.com/luisllamasbinaburo/Arduino-EasyComma.git|Contributed|EasyCommaLib
