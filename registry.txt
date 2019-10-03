@@ -2583,3 +2583,4 @@ https://github.com/Pylo/MCreatorLinkArduino.git|Contributed|MCreator Link
 https://github.com/AloriumTechnology/XLR8PWM.git|Contributed|XLR8PWM
 https://github.com/AloriumTechnology/XLR8RC.git|Contributed|XLR8RC
 https://github.com/djuseeq/Ch376msc.git|Contributed|Ch376msc
+https://github.com/Warlib1975/Irms_calc.git|Contributed|Irms_calc
