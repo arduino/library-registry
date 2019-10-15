@@ -76,6 +76,7 @@ https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
 https://github.com/vidor-libraries/VidorBoot.git|Arduino|VidorBoot
 https://github.com/vidor-libraries/USBBlaster.git|Arduino|USBBlaster
+https://github.com/bcmi-labs/tensorflow_lite_mirror.git|Arduino|Arduino_TensorFlowLite
 
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
