@@ -2615,3 +2615,4 @@ https://github.com/cesanta/elk.git|Contributed|elk
 https://github.com/squaresausage/WinbondW25N.git|Contributed|Winbond W25N
 https://github.com/asukiaaa/INA226_asukiaaa.git|Contributed|INA226_asukiaaa
 https://github.com/embeddedartistry/arduino-printf.git|Contributed|LibPrintf
+https://github.com/pu2clr/SI4844.git|Contributed|PU2CLR SI4844
