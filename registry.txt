@@ -2618,3 +2618,4 @@ https://github.com/embeddedartistry/arduino-printf.git|Contributed|LibPrintf
 https://github.com/pu2clr/SI4844.git|Contributed|PU2CLR SI4844
 https://github.com/ridencww/cww_MorseTx.git|Contributed|CWW Morse Transmit
 https://github.com/tanakamasayuki/efont.git|Contributed|efont Unicode Font Data
+https://github.com/JSC-electronics/Adeon.git|Contributed|Adeon
