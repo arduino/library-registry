@@ -2620,3 +2620,4 @@ https://github.com/ridencww/cww_MorseTx.git|Contributed|CWW Morse Transmit
 https://github.com/tanakamasayuki/efont.git|Contributed|efont Unicode Font Data
 https://github.com/JSC-electronics/Adeon.git|Contributed|Adeon
 https://github.com/SimpleHacks/QDEC.git|Contributed|QDEC
+https://github.com/logickworkshop/du-ino.git|Contributed|DU-INO
