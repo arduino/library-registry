@@ -2605,3 +2605,4 @@ https://github.com/luisllamasbinaburo/Arduino-AsyncSonar.git|Contributed|AsyncSo
 https://github.com/luisllamasbinaburo/Arduino-AsyncStepper.git|Contributed|AsyncStepperLib
 https://github.com/luisllamasbinaburo/Arduino-SimpleStepper.git|Contributed|SimpleStepper
 https://github.com/bitbank2/esp32_gamepad.git|Contributed|esp32_gamepad
+https://github.com/adafruit/Adafruit_LSM303_Accel.git|Contributed|Adafruit LSM303 Accel
