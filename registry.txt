@@ -2609,3 +2609,4 @@ https://github.com/adafruit/Adafruit_LSM303_Accel.git|Contributed|Adafruit LSM30
 https://github.com/adafruit/Adafruit_LSM303AGR_Mag.git|Contributed|Adafruit LSM303AGR Mag
 https://github.com/adafruit/Adafruit_LSM303DLH_Mag.git|Contributed|Adafruit LSM303DLH Mag
 https://github.com/tcafiero/SensorCommunicationLib.git|Contributed|Sensor Communication Library
+https://github.com/MajicDesigns/MD_SN76489.git|Contributed|MD_SN76489
