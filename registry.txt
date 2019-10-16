@@ -2614,3 +2614,4 @@ https://github.com/codinghusi/ArduinoKnockPatternDetector.git|Contributed|KnockP
 https://github.com/cesanta/elk.git|Contributed|elk
 https://github.com/squaresausage/WinbondW25N.git|Contributed|Winbond W25N
 https://github.com/asukiaaa/INA226_asukiaaa.git|Contributed|INA226_asukiaaa
+https://github.com/embeddedartistry/arduino-printf.git|Contributed|LibPrintf
