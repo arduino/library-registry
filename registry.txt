@@ -2161,7 +2161,6 @@ https://github.com/Legion2/CorsairLightingProtocol.git|Contributed|Corsair Light
 https://github.com/adafruit/Adafruit_ADT7410.git|Contributed|Adafruit ADT7410 Library
 https://github.com/dwrobel/TrivialKalmanFilter.git|Contributed|TrivialKalmanFilter
 https://github.com/dgduncan/Arduino-MCP4131.git|Contributed|MCP4131 library
-https://github.com/BeelanMX/arduino-LoRaWAN.git|Contributed|Arduino LoRaWAN by Beelan
 https://github.com/sauttefk/RS485HwSerial.git|Contributed|RS485HwSerial
 https://github.com/dmadison/HID_Buttons.git|Contributed|HID Buttons
 https://github.com/sleepdefic1t/BIP66.git|Contributed|BIP66
