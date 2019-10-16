@@ -2610,3 +2610,4 @@ https://github.com/adafruit/Adafruit_LSM303AGR_Mag.git|Contributed|Adafruit LSM3
 https://github.com/adafruit/Adafruit_LSM303DLH_Mag.git|Contributed|Adafruit LSM303DLH Mag
 https://github.com/tcafiero/SensorCommunicationLib.git|Contributed|Sensor Communication Library
 https://github.com/MajicDesigns/MD_SN76489.git|Contributed|MD_SN76489
+https://github.com/codinghusi/ArduinoKnockPatternDetector.git|Contributed|KnockPatternDetector
