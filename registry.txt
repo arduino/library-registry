@@ -2622,3 +2622,4 @@ https://github.com/JSC-electronics/Adeon.git|Contributed|Adeon
 https://github.com/SimpleHacks/QDEC.git|Contributed|QDEC
 https://github.com/logickworkshop/du-ino.git|Contributed|DU-INO
 https://github.com/cattanimarco/Grafici-GFX.git|Contributed|Grafici-GFX
+https://github.com/sparkfun/SparkFun_LIDARLitev4_Arduino_Library.git|Contributed|LIDAR-Lite v4 Arduino Library
