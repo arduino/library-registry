@@ -2604,3 +2604,4 @@ https://github.com/luisllamasbinaburo/Arduino-AsyncServo.git|Contributed|AsyncSe
 https://github.com/luisllamasbinaburo/Arduino-AsyncSonar.git|Contributed|AsyncSonar
 https://github.com/luisllamasbinaburo/Arduino-AsyncStepper.git|Contributed|AsyncStepperLib
 https://github.com/luisllamasbinaburo/Arduino-SimpleStepper.git|Contributed|SimpleStepper
+https://github.com/bitbank2/esp32_gamepad.git|Contributed|esp32_gamepad
