@@ -2613,3 +2613,4 @@ https://github.com/MajicDesigns/MD_SN76489.git|Contributed|MD_SN76489
 https://github.com/codinghusi/ArduinoKnockPatternDetector.git|Contributed|KnockPatternDetector
 https://github.com/cesanta/elk.git|Contributed|elk
 https://github.com/squaresausage/WinbondW25N.git|Contributed|Winbond W25N
+https://github.com/asukiaaa/INA226_asukiaaa.git|Contributed|INA226_asukiaaa
