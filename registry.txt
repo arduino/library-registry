@@ -2607,3 +2607,4 @@ https://github.com/luisllamasbinaburo/Arduino-SimpleStepper.git|Contributed|Simp
 https://github.com/bitbank2/esp32_gamepad.git|Contributed|esp32_gamepad
 https://github.com/adafruit/Adafruit_LSM303_Accel.git|Contributed|Adafruit LSM303 Accel
 https://github.com/adafruit/Adafruit_LSM303AGR_Mag.git|Contributed|Adafruit LSM303AGR Mag
+https://github.com/adafruit/Adafruit_LSM303DLH_Mag.git|Contributed|Adafruit LSM303DLH Mag
