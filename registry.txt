@@ -2636,3 +2636,4 @@ https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library.git|Contributed|S
 https://github.com/INFICON-Spot/inficon-spot-lib.git|Contributed|INFICON Spot Library
 https://github.com/sinricpro/esp8266-esp32-sdk.git|Contributed|SinricPro
 https://github.com/bitbank2/bb_spi_lcd.git|Contributed|bb_spi_lcd
+https://github.com/desklab/desklab-arduino-lib.git|Contributed|desklab
