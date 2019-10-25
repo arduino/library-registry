@@ -2538,7 +2538,6 @@ https://github.com/francibm97/UM3750.git|Contributed|um3750-library
 https://github.com/brigosx/SevenSeg4D.git|Contributed|SevenSeg4D
 https://github.com/dushyantahuja/IPGeolocation.git|Contributed|IPGeolocation
 https://github.com/siara-cc/Unishox_Arduino_Progmem_lib.git|Contributed|Unishox Progmem Decompressor
-https://github.com/Liksu/7SegmentsSnake.git|Contributed|Sanke
 https://github.com/EdanPotter/end-device-radioenge.git|Contributed|RadioengeLoraWAN
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library.git|Contributed|SparkFun Bio Sensor Hub Library
 https://github.com/yyuri/Switch_lib.git|Contributed|Switch_lib
@@ -2633,3 +2632,4 @@ https://github.com/lbussy/LCBUrl.git|Contributed|LCBUrl
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager.git|Contributed|SpheroRVR
 https://github.com/adafruit/Adafruit_MPU6050.git|Contributed|Adafruit MPU6050
 https://github.com/pierremolinaro/acan-t4.git|Contributed|ACAN_T4
+https://github.com/Liksu/7SegmentsSnake.git|Contributed|Snake
