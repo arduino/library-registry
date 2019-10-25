@@ -2627,3 +2627,4 @@ https://github.com/kiryanenko/SimpleTimer.git|Contributed|SimpleTimer
 https://github.com/offcircuit/RTCDS1307.git|Contributed|RTCDS1307
 https://github.com/BeelanMX/arduino-LoRaWAN.git|Contributed|Beelan LoRaWAN
 https://github.com/adafruit/Adafruit_WavePlayer.git|Contributed|Adafruit WavePlayer Library
+https://github.com/SodaqMoja/Sodaq_R4X_MQTT.git|Contributed|Sodaq_R4X_MQTT
