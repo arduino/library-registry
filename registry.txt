@@ -2630,3 +2630,4 @@ https://github.com/adafruit/Adafruit_WavePlayer.git|Contributed|Adafruit WavePla
 https://github.com/SodaqMoja/Sodaq_R4X_MQTT.git|Contributed|Sodaq_R4X_MQTT
 https://github.com/CircuitMess/CircuitMess-Ringo.git|Contributed|Ringo by CircuitMess Library
 https://github.com/lbussy/LCBUrl.git|Contributed|LCBUrl
+https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager.git|Contributed|SpheroRVR
