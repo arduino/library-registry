@@ -2634,3 +2634,4 @@ https://github.com/pierremolinaro/acan-t4.git|Contributed|ACAN_T4
 https://github.com/Liksu/7SegmentsSnake.git|Contributed|Snake
 https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library.git|Contributed|SparkFun ATECCX08a Arduino Library
 https://github.com/INFICON-Spot/inficon-spot-lib.git|Contributed|INFICON Spot Library
+https://github.com/sinricpro/esp8266-esp32-sdk.git|Contributed|SinricPro
