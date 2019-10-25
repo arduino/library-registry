@@ -2632,3 +2632,4 @@ https://github.com/CircuitMess/CircuitMess-Ringo.git|Contributed|Ringo by Circui
 https://github.com/lbussy/LCBUrl.git|Contributed|LCBUrl
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager.git|Contributed|SpheroRVR
 https://github.com/adafruit/Adafruit_MPU6050.git|Contributed|Adafruit MPU6050
+https://github.com/pierremolinaro/acan-t4.git|Contributed|ACAN_T4
