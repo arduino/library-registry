@@ -2626,3 +2626,4 @@ https://github.com/bitbank2/ssd1327.git|Contributed|ssd1327
 https://github.com/kiryanenko/SimpleTimer.git|Contributed|SimpleTimer
 https://github.com/offcircuit/RTCDS1307.git|Contributed|RTCDS1307
 https://github.com/BeelanMX/arduino-LoRaWAN.git|Contributed|Beelan LoRaWAN
+https://github.com/adafruit/Adafruit_WavePlayer.git|Contributed|Adafruit WavePlayer Library
