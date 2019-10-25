@@ -2040,7 +2040,6 @@ https://github.com/dobotopensource/AIStarter.git|Contributed|AIStarter
 https://github.com/tcafiero/NBduinoLibrary.git|Contributed|TopView NBduino Library
 # REMOVED: https://github.com/Pylo/MinecraftLinkArduino.git|Contributed|Minecraft Link
 https://github.com/souviksaha97/DAC7611.git|Contributed|DAC7611
-https://github.com/criesch/inficon-spot-lib.git|Contributed|INFICON Spot Library
 https://github.com/dimitre/DmtrPots.git|Contributed|DmtrPots
 https://github.com/Hardi-St/MobaLedLib.git|Contributed|MobaLedLib
 https://github.com/Naguissa/uDebugLib.git|Contributed|uDebugLib
@@ -2634,3 +2633,4 @@ https://github.com/adafruit/Adafruit_MPU6050.git|Contributed|Adafruit MPU6050
 https://github.com/pierremolinaro/acan-t4.git|Contributed|ACAN_T4
 https://github.com/Liksu/7SegmentsSnake.git|Contributed|Snake
 https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library.git|Contributed|SparkFun ATECCX08a Arduino Library
+https://github.com/INFICON-Spot/inficon-spot-lib.git|Contributed|INFICON Spot Library
