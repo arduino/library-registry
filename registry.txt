@@ -2644,3 +2644,4 @@ https://github.com/GypsyRobot/Formulinha.git|Contributed|Formulinha
 https://bitbucket.org/christandlg/iaq-coremi.git|Contributed|iAQ-CoreMI
 https://github.com/adafruit/Adafruit_AVRProg.git|Contributed|Adafruit AVRProg
 https://github.com/ciband/avr_stl.git|Contributed|avr_stl
+https://github.com/Teknologiskolen/HCSR04.git|Contributed|Afstandssensor - HCSR04
