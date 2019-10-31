@@ -2651,3 +2651,4 @@ https://github.com/asukiaaa/AD5254_asukiaaa.git|Contributed|AD5254_asukiaaa
 https://github.com/adafruit/Adafruit_TFLite.git|Contributed|Adafruit TensorFlow Lite
 https://github.com/mobizt/FirebaseJson.git|Contributed|FirebaseJson
 https://github.com/antoniopetruzzella/BeaconNano.git|Contributed|BeaconNano
+https://github.com/Infineon/arduino-optiga-trust-m.git|Contributed|OPTIGA Trust M
