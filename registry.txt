@@ -2649,3 +2649,4 @@ https://github.com/ehajo/LM75B.git|Contributed|eHaJo LM75-Addon-Board
 https://github.com/fablab-bayreuth/WTV020SD16P.git|Contributed|WTV020SD16P
 https://github.com/asukiaaa/AD5254_asukiaaa.git|Contributed|AD5254_asukiaaa
 https://github.com/adafruit/Adafruit_TFLite.git|Contributed|Adafruit TensorFlow Lite
+https://github.com/mobizt/FirebaseJson.git|Contributed|FirebaseJson
