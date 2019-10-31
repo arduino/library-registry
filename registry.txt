@@ -2641,3 +2641,4 @@ https://github.com/andhieSetyabudi/BQ25896.git|Contributed|BQ25896
 https://github.com/CytronTechnologies/CytronMakerSumo.git|Contributed|Cytron Maker Sumo Library
 https://github.com/rcarle3911/gigabits-arduino.git|Contributed|Gigabits
 https://github.com/GypsyRobot/Formulinha.git|Contributed|Formulinha
+https://bitbucket.org/christandlg/iaq-coremi.git|Contributed|iAQ-CoreMI
