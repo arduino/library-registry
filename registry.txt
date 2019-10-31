@@ -2639,3 +2639,4 @@ https://github.com/bitbank2/bb_spi_lcd.git|Contributed|bb_spi_lcd
 https://github.com/desklab/desklab-arduino-lib.git|Contributed|desklab
 https://github.com/andhieSetyabudi/BQ25896.git|Contributed|BQ25896
 https://github.com/CytronTechnologies/CytronMakerSumo.git|Contributed|Cytron Maker Sumo Library
+https://github.com/rcarle3911/gigabits-arduino.git|Contributed|Gigabits
