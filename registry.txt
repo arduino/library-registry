@@ -2647,3 +2647,4 @@ https://github.com/ciband/avr_stl.git|Contributed|avr_stl
 https://github.com/Teknologiskolen/HCSR04.git|Contributed|Afstandssensor - HCSR04
 https://github.com/ehajo/LM75B.git|Contributed|eHaJo LM75-Addon-Board
 https://github.com/fablab-bayreuth/WTV020SD16P.git|Contributed|WTV020SD16P
+https://github.com/asukiaaa/AD5254_asukiaaa.git|Contributed|AD5254_asukiaaa
