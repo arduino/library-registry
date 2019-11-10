@@ -2654,3 +2654,4 @@ https://github.com/antoniopetruzzella/BeaconNano.git|Contributed|BeaconNano
 https://github.com/Infineon/arduino-optiga-trust-m.git|Contributed|OPTIGA Trust M
 https://github.com/Alex079/TinySuite.git|Contributed|TinySuite
 https://github.com/SeeedJP/GroveDriverPack.git|Contributed|GroveDriverPack
+https://github.com/GerLech/WebConfig.git|Contributed|WebConfig
