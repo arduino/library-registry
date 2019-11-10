@@ -2665,3 +2665,4 @@ https://github.com/SteveGdvs/MCP48xx.git|Contributed|MCP48xx DAC Library
 https://github.com/RealTadango/FrSky.git|Contributed|S.Port sensor library for FrSky
 https://github.com/kcl93/Tasks.git|Contributed|Task Scheduler
 https://github.com/siara-cc/sqlite_micro_logger_arduino.git|Contributed|Sqlite Micro Logger
+https://github.com/pu2clr/SI4735.git|Contributed|PU2CLR SI4735
