@@ -2662,3 +2662,4 @@ https://github.com/helium/longfi-arduino.git|Contributed|LongFi
 https://github.com/DimensionEngineering/Kangaroo_Arduino_Library.git|Contributed|Kangaroo Motion Controller
 https://github.com/marecl/HPDL1414.git|Contributed|HPDL1414
 https://github.com/SteveGdvs/MCP48xx.git|Contributed|MCP48xx DAC Library
+https://github.com/RealTadango/FrSky.git|Contributed|S.Port sensor library for FrSky
