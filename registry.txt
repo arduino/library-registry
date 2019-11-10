@@ -2669,3 +2669,4 @@ https://github.com/pu2clr/SI4735.git|Contributed|PU2CLR SI4735
 https://github.com/GTO2013/EMUSerial.git|Contributed|EMUSerial
 https://github.com/connornishijima/Lixie_II.git|Contributed|Lixie II
 https://github.com/yknivag/PxMatrixChristmasIcons.git|Contributed|PxMatrix Christmas Icons
+https://github.com/budryerson/TFMini-Plus-I2C.git|Contributed|TFMPI2C
