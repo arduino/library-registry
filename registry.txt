@@ -2658,3 +2658,4 @@ https://github.com/GerLech/WebConfig.git|Contributed|WebConfig
 https://github.com/datacentricdesign/dcd-sdk-arduino.git|Contributed|DCD SDK for Arduino
 https://github.com/Rotario/noveltyDetection.git|Contributed|NoveltyDetection
 https://github.com/Naguissa/uCRC16XModemLib.git|Contributed|uCRC16XModemLib
+https://github.com/helium/longfi-arduino.git|Contributed|LongFi
