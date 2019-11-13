@@ -2671,3 +2671,4 @@ https://github.com/yknivag/PxMatrixChristmasIcons.git|Contributed|PxMatrix Chris
 https://github.com/budryerson/TFMini-Plus-I2C.git|Contributed|TFMPI2C
 https://github.com/neosarchizo/TinyGPS.git|Contributed|TinyGPS
 https://github.com/ThingPulse/esp8266-oled-ssd1306.git|Contributed|ESP8266 and ESP32 OLED driver for SSD1306 displays
+https://github.com/RexMORE/MOREbot_Games.git|Contributed|MOREbot Games Library
