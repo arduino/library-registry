@@ -2674,3 +2674,4 @@ https://github.com/ThingPulse/esp8266-oled-ssd1306.git|Contributed|ESP8266 and E
 https://github.com/RexMORE/MOREbot_Games.git|Contributed|MOREbot Games Library
 https://github.com/adafruit/Adafruit_9DOF.git|Contributed|Adafruit 9DOF
 https://github.com/ArminJo/ATtinySerialOut.git|Contributed|ATtinySerialOut
+https://github.com/u-fire/uFire_PAR.git|Contributed|uFire PAR Sensor
