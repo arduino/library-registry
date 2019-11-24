@@ -946,7 +946,6 @@ https://github.com/bhagman/MillisTimer.git|Contributed|MillisTimer
 https://github.com/bhagman/LitSwitch.git|Contributed|LitSwitch
 https://github.com/bhagman/ControlledServo.git|Contributed|ControlledServo
 https://github.com/lpasqualis/TimedBlink.git|Contributed|TimedBlink
-https://github.com/stephentracz/StivSeg.git|Contributed|StivSeg
 https://github.com/arielnh56/ACE128.git|Contributed|ACE128
 https://github.com/closedcube/ClosedCube_MAX30205_Arduino.git|Contributed|ClosedCube MAX30205
 https://github.com/wizard97/SimplyAtomic.git|Contributed|SimplyAtomic
@@ -2680,3 +2679,4 @@ https://github.com/PowerBroker2/NEO-6M_GPS.git|Contributed|NEO-6M_GPS
 https://github.com/PowerBroker2/DFPlayerMini_Fast.git|Contributed|DFPlayerMini_Fast
 https://github.com/mickey9801/MultiButtons.git|Contributed|MultiButtons
 https://github.com/mickey9801/BlinkControl.git|Contributed|BlinkControl
+https://github.com/stephentracz/StivSeg.git|Contributed|StivSeg
