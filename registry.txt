@@ -2691,3 +2691,4 @@ https://github.com/PowerBroker2/ELMduino.git|Contributed|ELMDuino
 https://github.com/ArduinoGetStarted/button.git|Contributed|ezButton
 https://github.com/sqfmi/Watchy.git|Contributed|Watchy
 https://github.com/adafruit/Adafruit_SSD1305_Library.git|Contributed|Adafruit SSD1305
+https://github.com/oberonspace/krypton.git|Contributed|Krypton
