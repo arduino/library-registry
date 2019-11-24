@@ -2684,3 +2684,4 @@ https://github.com/sparkfun/SparkFun_HM01B0_Camera_ArduinoLibrary.git|Contribute
 https://github.com/huilab/HoneywellTruStabilitySPI.git|Contributed|Honeywell TruStability SPI
 https://github.com/huilab/HoneywellZephyrI2C.git|Contributed|Honeywell Zephyr I2C
 https://github.com/GerLech/TouchEvent.git|Contributed|TouchEvent
+https://github.com/cerebro11101/CerebroBoards.git|Contributed|cerebro
