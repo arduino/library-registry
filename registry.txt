@@ -2448,7 +2448,6 @@ https://github.com/remoteme/esp8266-OLED.git|Contributed|ESP8266-OLED Display Li
 https://github.com/EmotiBit/EmotiBit_FW_Si7013.git|Contributed|EmotiBit Si7013
 https://github.com/gavinlyonsrepo/FourteenSegDisplay.git|Contributed|FourteenSegDisplay
 https://github.com/alexbertis/LibreriaLedRGB.git|Contributed|LedRGBlib
-https://github.com/adafruit/Adafruit_TFLite_Micro_Speech.git|Contributed|Adafruit TFLite Micro Speech
 https://github.com/onelife/RTT-GUI.git|Contributed|RTT-GUI
 https://github.com/Seeed-Studio/Seeed_ADIS16470.git|Contributed|Grove 6Axis_Digital_Accelerometer_Gyroscope4_ADIS16470
 https://github.com/kd8bxp/TheTroll.git|Contributed|TheTroll
@@ -2692,3 +2691,4 @@ https://github.com/ArduinoGetStarted/button.git|Contributed|ezButton
 https://github.com/sqfmi/Watchy.git|Contributed|Watchy
 https://github.com/adafruit/Adafruit_SSD1305_Library.git|Contributed|Adafruit SSD1305
 https://github.com/oberonspace/krypton.git|Contributed|Krypton
+https://github.com/khoih-prog/TimerInterrupt.git|Contributed|TimerInterrupt
