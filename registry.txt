@@ -2690,3 +2690,4 @@ https://github.com/matthew-dickson-epic/TimeInterrupt.git|Contributed|TimeInterr
 https://github.com/PowerBroker2/ELMduino.git|Contributed|ELMDuino
 https://github.com/ArduinoGetStarted/button.git|Contributed|ezButton
 https://github.com/sqfmi/Watchy.git|Contributed|Watchy
+https://github.com/adafruit/Adafruit_SSD1305_Library.git|Contributed|Adafruit SSD1305
