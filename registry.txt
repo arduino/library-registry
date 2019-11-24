@@ -2687,3 +2687,4 @@ https://github.com/GerLech/TouchEvent.git|Contributed|TouchEvent
 https://github.com/cerebro11101/CerebroBoards.git|Contributed|cerebro
 https://github.com/javisank/LibSemaforo.git|Contributed|LibSemaforo
 https://github.com/matthew-dickson-epic/TimeInterrupt.git|Contributed|TimeInterrupt
+https://github.com/PowerBroker2/ELMduino.git|Contributed|ELMDuino
