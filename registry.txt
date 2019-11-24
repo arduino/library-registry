@@ -2680,3 +2680,4 @@ https://github.com/PowerBroker2/DFPlayerMini_Fast.git|Contributed|DFPlayerMini_F
 https://github.com/mickey9801/MultiButtons.git|Contributed|MultiButtons
 https://github.com/mickey9801/BlinkControl.git|Contributed|BlinkControl
 https://github.com/stephentracz/StivSeg.git|Contributed|StivSeg
+https://github.com/sparkfun/SparkFun_HM01B0_Camera_ArduinoLibrary.git|Contributed|SparkFun Himax HM01B0 Camera
