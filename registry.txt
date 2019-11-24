@@ -2678,3 +2678,4 @@ https://github.com/u-fire/uFire_PAR.git|Contributed|uFire PAR Sensor
 https://github.com/MHotchin/YAAWS.git|Contributed|YAAWS
 https://github.com/PowerBroker2/NEO-6M_GPS.git|Contributed|NEO-6M_GPS
 https://github.com/PowerBroker2/DFPlayerMini_Fast.git|Contributed|DFPlayerMini_Fast
+https://github.com/mickey9801/MultiButtons.git|Contributed|MultiButtons
