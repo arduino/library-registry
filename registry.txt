@@ -2701,3 +2701,4 @@ https://github.com/Jones1403/SPI-DAC7611.git|Contributed|SPI-DAC7611
 https://github.com/javisank/LibEstacionamiento.git|Contributed|LibEstacionamiento
 https://github.com/javisank/LibMiniSys.git|Contributed|LibMiniSys
 https://github.com/AlexIII/EEvar.git|Contributed|EEvar
+https://github.com/Bodmer/TJpg_Decoder.git|Contributed|TJpg_Decoder
