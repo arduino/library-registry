@@ -2722,3 +2722,4 @@ https://github.com/adafruit/Adafruit_ICM20649.git|Contributed|Adafruit ICM20649
 https://github.com/Gruppio/Throttle.git|Contributed|Throttle
 https://github.com/PRosenb/SPIFFS_FilePrint.git|Contributed|SPIFFS_FilePrint
 https://github.com/telecombretagne/YACL.git|Contributed|YACL
+https://github.com/ocrdu/Arduino_SAMD21_turbo_PWM.git|Contributed|SAMD21 turbo PWM
