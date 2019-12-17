@@ -2727,3 +2727,4 @@ https://github.com/ehajo/WSEN-PADS.git|Contributed|eHaJo Absolute Pressure Addon
 https://github.com/javisank/LibLucesCiudad.git|Contributed|LibLucesCiudad
 https://github.com/javisank/LibSemaforosCiudad.git|Contributed|LibSemaforosCiudad
 https://github.com/javisank/LibEdificio.git|Contributed|LibEdificio
+https://gitlab.com/arduino-libraries/stackstring.git|Contributed|StackString
