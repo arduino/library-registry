@@ -2720,3 +2720,4 @@ https://github.com/SimpleHacks/hw_rng.git|Contributed|nrf_rng
 https://github.com/SimpleHacks/EzDmaHelper.git|Contributed|EzDmaHelper
 https://github.com/adafruit/Adafruit_ICM20649.git|Contributed|Adafruit ICM20649
 https://github.com/Gruppio/Throttle.git|Contributed|Throttle
+https://github.com/PRosenb/SPIFFS_FilePrint.git|Contributed|SPIFFS_FilePrint
