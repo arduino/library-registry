@@ -2709,3 +2709,4 @@ https://github.com/BlaT2512/sevenSegment.git|Contributed|sevenSegment
 https://github.com/mcxiaoke/ESPDateTime.git|Contributed|ESPDateTime
 https://github.com/Aduen/ThreadedTimer.git|Contributed|ThreadedTimer
 https://github.com/hideakitai/TsyDMASPI.git|Contributed|TsyDMASPI
+https://github.com/allthingstalk/arduino-wifi-sdk.git|Contributed|AllThingsTalk WiFi SDK
