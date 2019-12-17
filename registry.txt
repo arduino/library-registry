@@ -2730,3 +2730,4 @@ https://github.com/javisank/LibEdificio.git|Contributed|LibEdificio
 https://gitlab.com/arduino-libraries/stackstring.git|Contributed|StackString
 https://github.com/fabriziop/aTalkArduino.git|Contributed|aTalkArduino
 https://github.com/sparkfun/SparkFun_External_EEPROM_Arduino_Library.git|Contributed|SparkFun External EEPROM Arduino Library
+https://github.com/khoih-prog/ESP32_ISR_Servo.git|Contributed|ESP32_ISR_Servo
