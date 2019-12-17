@@ -2697,3 +2697,4 @@ https://github.com/adafruit/TFTLCD-Library.git|Contributed|Adafruit TFTLCD Libra
 https://github.com/khoih-prog/ESP32TimerInterrupt.git|Contributed|ESP32TimerInterrupt
 https://github.com/khoih-prog/ESP8266TimerInterrupt.git|Contributed|ESP8266TimerInterrupt
 https://github.com/khoih-prog/Blynk_WM.git|Contributed|Blynk_WiFiManager
+https://github.com/Jones1403/SPI-DAC7611.git|Contributed|SPI-DAC7611
