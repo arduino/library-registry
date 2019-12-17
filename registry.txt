@@ -2735,3 +2735,4 @@ https://github.com/Nyanyan/FastCapacitiveSensor.git|Contributed|FastCapacitiveSe
 https://github.com/PowerBroker2/Teensy_3X_Multipurpose_Board.git|Contributed|Teensy_3X_Multipurpose_Board
 https://github.com/regimantas/Oversampling.git|Contributed|Oversampling
 https://github.com/mehyaa/esp8266-iot-helper.git|Contributed|ESP8266IoTHelper
+https://github.com/khoih-prog/ESP_WiFiManager.git|Contributed|ESP_WiFiManager
