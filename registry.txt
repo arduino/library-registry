@@ -2696,3 +2696,4 @@ https://github.com/andriitishchenko/HardwareButton.git|Contributed|Hardware Butt
 https://github.com/adafruit/TFTLCD-Library.git|Contributed|Adafruit TFTLCD Library
 https://github.com/khoih-prog/ESP32TimerInterrupt.git|Contributed|ESP32TimerInterrupt
 https://github.com/khoih-prog/ESP8266TimerInterrupt.git|Contributed|ESP8266TimerInterrupt
+https://github.com/khoih-prog/Blynk_WM.git|Contributed|Blynk_WiFiManager
