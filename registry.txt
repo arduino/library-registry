@@ -2704,3 +2704,4 @@ https://github.com/AlexIII/EEvar.git|Contributed|EEvar
 https://github.com/Bodmer/TJpg_Decoder.git|Contributed|TJpg_Decoder
 https://github.com/beegee-tokyo/SHT1x-ESP.git|Contributed|SHT1x sensor library for ESPx
 https://github.com/hideakitai/ESP32DMASPI.git|Contributed|ESP32DMASPI
+https://github.com/kcl93/VT100.git|Contributed|VT100
