@@ -2694,3 +2694,4 @@ https://github.com/oberonspace/krypton.git|Contributed|Krypton
 https://github.com/khoih-prog/TimerInterrupt.git|Contributed|TimerInterrupt
 https://github.com/andriitishchenko/HardwareButton.git|Contributed|Hardware Buttons
 https://github.com/adafruit/TFTLCD-Library.git|Contributed|Adafruit TFTLCD Library
+https://github.com/khoih-prog/ESP32TimerInterrupt.git|Contributed|ESP32TimerInterrupt
