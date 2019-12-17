@@ -1128,7 +1128,6 @@ https://github.com/OnionIoT/Onion-Arduino-Library.git|Contributed|Onion Arduino 
 https://github.com/pachonk/Sensor.git|Contributed|Sensor
 https://github.com/elpassion/Babelduino.git|Contributed|Babelduino
 https://github.com/mpflaga/Arduino_Library-vs1053_for_SdFat.git|Contributed|VS1053 for use with SdFat
-https://github.com/Infineon/DPS310-Pressure-Sensor.git|Contributed|DPS310
 https://github.com/witnessmenow/arduino-coinmarketcap-api.git|Contributed|CoinMarketCapApi
 https://github.com/bartoszbielawski/AJSP.git|Contributed|AJSP
 https://github.com/bartoszbielawski/LEDMatrixDriver.git|Contributed|LEDMatrixDriver
@@ -2737,3 +2736,4 @@ https://github.com/regimantas/Oversampling.git|Contributed|Oversampling
 https://github.com/mehyaa/esp8266-iot-helper.git|Contributed|ESP8266IoTHelper
 https://github.com/khoih-prog/ESP_WiFiManager.git|Contributed|ESP_WiFiManager
 https://github.com/adafruit/Adafruit_MCP4728.git|Contributed|Adafruit MCP4728
+https://github.com/Infineon/DPS310-Pressure-Sensor.git|Contributed|DigitalPressureSensor
