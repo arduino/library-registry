@@ -2728,3 +2728,4 @@ https://github.com/javisank/LibLucesCiudad.git|Contributed|LibLucesCiudad
 https://github.com/javisank/LibSemaforosCiudad.git|Contributed|LibSemaforosCiudad
 https://github.com/javisank/LibEdificio.git|Contributed|LibEdificio
 https://gitlab.com/arduino-libraries/stackstring.git|Contributed|StackString
+https://github.com/fabriziop/aTalkArduino.git|Contributed|aTalkArduino
