@@ -2713,3 +2713,4 @@ https://github.com/allthingstalk/arduino-wifi-sdk.git|Contributed|AllThingsTalk 
 https://github.com/khoih-prog/ESP8266_ISR_Servo.git|Contributed|ESP8266_ISR_Servo
 https://github.com/CreativeRobotics/Commander.git|Contributed|Commander
 https://github.com/facts-engineering/P1AM.git|Contributed|P1AM
+https://github.com/TinyCircuits/TinyCircuits-Wireling-Lib.git|Contributed|Wireling
