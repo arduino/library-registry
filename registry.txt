@@ -2717,3 +2717,4 @@ https://github.com/TinyCircuits/TinyCircuits-Wireling-Lib.git|Contributed|Wireli
 https://github.com/adafruit/Adafruit_LSM6DSOX.git|Contributed|Adafruit LSM6DSOX
 https://github.com/imfrancisd/MorseCodeMachine.git|Contributed|MorseCodeMachine
 https://github.com/SimpleHacks/hw_rng.git|Contributed|nrf_rng
+https://github.com/SimpleHacks/EzDmaHelper.git|Contributed|EzDmaHelper
