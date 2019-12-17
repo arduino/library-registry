@@ -2733,3 +2733,4 @@ https://github.com/sparkfun/SparkFun_External_EEPROM_Arduino_Library.git|Contrib
 https://github.com/khoih-prog/ESP32_ISR_Servo.git|Contributed|ESP32_ISR_Servo
 https://github.com/Nyanyan/FastCapacitiveSensor.git|Contributed|FastCapacitiveSensor
 https://github.com/PowerBroker2/Teensy_3X_Multipurpose_Board.git|Contributed|Teensy_3X_Multipurpose_Board
+https://github.com/regimantas/Oversampling.git|Contributed|Oversampling
