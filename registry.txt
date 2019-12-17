@@ -2706,3 +2706,4 @@ https://github.com/beegee-tokyo/SHT1x-ESP.git|Contributed|SHT1x sensor library f
 https://github.com/hideakitai/ESP32DMASPI.git|Contributed|ESP32DMASPI
 https://github.com/kcl93/VT100.git|Contributed|VT100
 https://github.com/BlaT2512/sevenSegment.git|Contributed|sevenSegment
+https://github.com/mcxiaoke/ESPDateTime.git|Contributed|ESPDateTime
