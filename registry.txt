@@ -2745,3 +2745,4 @@ https://github.com/Panjkrc/TCS3200_library.git|Contributed|tcs3200
 https://github.com/DBS06/CERP_DF_Robot_Wireless_GamePad_V2.git|Contributed|CERP - DF-Robot Wireless GamePad V2.0 for Arduino library
 https://github.com/fhessel/esp32_https_server.git|Contributed|ESP32_HTTPS_Server
 https://github.com/ArduinoGetStarted/output.git|Contributed|ezOutput
+https://github.com/Simsso/ShiftRegister-PWM-Library.git|Contributed|ShiftRegister-PWM-Library
