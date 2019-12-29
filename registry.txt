@@ -2749,3 +2749,4 @@ https://github.com/Simsso/ShiftRegister-PWM-Library.git|Contributed|ShiftRegiste
 https://github.com/adafruit/Adafruit_LIS3MDL.git|Contributed|Adafruit LIS3MDL
 https://github.com/mcci-catena/MCCI_FRAM_I2C.git|Contributed|MCCI FRAM I2C
 https://github.com/ostaquet/Arduino-SIM800L-driver.git|Contributed|SIM800L HTTP connector
+https://github.com/MHotchin/Waveshare4InchTftShield.git|Contributed|Waveshare 4 Inch Tft Touchscreen
