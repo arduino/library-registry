@@ -2740,3 +2740,4 @@ https://gitlab.com/yesbotics/libs/arduino/voltmeter.git|Contributed|Voltmeter
 https://gitlab.com/yesbotics/libs/arduino/interval-callback.git|Contributed|IntervalCallback
 https://gitlab.com/yesbotics/libs/arduino/average-value.git|Contributed|AverageValue
 https://gitlab.com/yesbotics/libs/arduino/timeout-callback.git|Contributed|TimeoutCallback
+https://github.com/khoih-prog/ESP_DoubleResetDetector.git|Contributed|ESP_DoubleResetDetector
