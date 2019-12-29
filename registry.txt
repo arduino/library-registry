@@ -2741,3 +2741,4 @@ https://gitlab.com/yesbotics/libs/arduino/interval-callback.git|Contributed|Inte
 https://gitlab.com/yesbotics/libs/arduino/average-value.git|Contributed|AverageValue
 https://gitlab.com/yesbotics/libs/arduino/timeout-callback.git|Contributed|TimeoutCallback
 https://github.com/khoih-prog/ESP_DoubleResetDetector.git|Contributed|ESP_DoubleResetDetector
+https://github.com/Panjkrc/TCS3200_library.git|Contributed|tcs3200
