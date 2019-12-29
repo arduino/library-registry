@@ -2738,3 +2738,4 @@ https://github.com/khoih-prog/ESP_WiFiManager.git|Contributed|ESP_WiFiManager
 https://github.com/adafruit/Adafruit_MCP4728.git|Contributed|Adafruit MCP4728
 https://github.com/Infineon/DPS310-Pressure-Sensor.git|Contributed|DigitalPressureSensor
 https://gitlab.com/yesbotics/libs/arduino/voltmeter.git|Contributed|Voltmeter
+https://gitlab.com/yesbotics/libs/arduino/interval-callback.git|Contributed|IntervalCallback
