@@ -1908,7 +1908,6 @@ https://github.com/drifkind/QDispatch.git|Contributed|QDispatch
 https://github.com/JoaoLopesF/SerialDebug.git|Contributed|SerialDebug
 https://github.com/CanSatKit/CanSatKitLibrary.git|Contributed|CanSat Kit Library
 https://github.com/porrey/max1704x.git|Contributed|MAX1704X
-https://github.com/Blake-Tourneur/sevenSeg.git|Contributed|singleSevSeg
 https://github.com/end2endzone/SoftTimers.git|Contributed|SoftTimers
 https://github.com/AllWize/allwize.git|Contributed|AllWize
 https://github.com/JoaoLopesF/RemoteDebug.git|Contributed|RemoteDebug
