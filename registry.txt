@@ -2746,3 +2746,4 @@ https://github.com/DBS06/CERP_DF_Robot_Wireless_GamePad_V2.git|Contributed|CERP 
 https://github.com/fhessel/esp32_https_server.git|Contributed|ESP32_HTTPS_Server
 https://github.com/ArduinoGetStarted/output.git|Contributed|ezOutput
 https://github.com/Simsso/ShiftRegister-PWM-Library.git|Contributed|ShiftRegister-PWM-Library
+https://github.com/adafruit/Adafruit_LIS3MDL.git|Contributed|Adafruit LIS3MDL
