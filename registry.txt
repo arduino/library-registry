@@ -2742,3 +2742,4 @@ https://gitlab.com/yesbotics/libs/arduino/average-value.git|Contributed|AverageV
 https://gitlab.com/yesbotics/libs/arduino/timeout-callback.git|Contributed|TimeoutCallback
 https://github.com/khoih-prog/ESP_DoubleResetDetector.git|Contributed|ESP_DoubleResetDetector
 https://github.com/Panjkrc/TCS3200_library.git|Contributed|tcs3200
+https://github.com/DBS06/CERP_DF_Robot_Wireless_GamePad_V2.git|Contributed|CERP - DF-Robot Wireless GamePad V2.0 for Arduino library
