@@ -2752,3 +2752,4 @@ https://github.com/ostaquet/Arduino-SIM800L-driver.git|Contributed|SIM800L HTTP 
 https://github.com/MHotchin/Waveshare4InchTftShield.git|Contributed|Waveshare 4 Inch Tft Touchscreen
 https://github.com/tyrkelko/sn76489.git|Contributed|SN76489
 https://github.com/SukkoPera/PsxNewLib.git|Contributed|PsxNewLib
+https://github.com/mickey9801/ButtonFever.git|Contributed|ButtonFever
