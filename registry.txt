@@ -2740,3 +2740,4 @@ https://github.com/Infineon/DPS310-Pressure-Sensor.git|Contributed|DigitalPressu
 https://gitlab.com/yesbotics/libs/arduino/voltmeter.git|Contributed|Voltmeter
 https://gitlab.com/yesbotics/libs/arduino/interval-callback.git|Contributed|IntervalCallback
 https://gitlab.com/yesbotics/libs/arduino/average-value.git|Contributed|AverageValue
+https://gitlab.com/yesbotics/libs/arduino/timeout-callback.git|Contributed|TimeoutCallback
