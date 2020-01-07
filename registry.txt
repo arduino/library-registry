@@ -2765,3 +2765,4 @@ https://github.com/jcubuntu/iBit_Arduino.git|Contributed|iBit_Arduino
 https://github.com/matafonoff/J1850-VPW-Arduino-Transceiver-Library.git|Contributed|J1850 VPW Arduino Transceiver Library
 https://github.com/tobozo/ImgurUploader.git|Contributed|ESP32-imgur-uploader
 https://github.com/ardnew/ILI9341-Layout-Manager.git|Contributed|ILI9341-Layout-Manager
+https://github.com/ardnew/STUSB4500.git|Contributed|STUSB4500
