@@ -2766,3 +2766,4 @@ https://github.com/matafonoff/J1850-VPW-Arduino-Transceiver-Library.git|Contribu
 https://github.com/tobozo/ImgurUploader.git|Contributed|ESP32-imgur-uploader
 https://github.com/ardnew/ILI9341-Layout-Manager.git|Contributed|ILI9341-Layout-Manager
 https://github.com/ardnew/STUSB4500.git|Contributed|STUSB4500
+https://bitbucket.org/christandlg/tsl2591mi.git|Contributed|TSL2591MI
