@@ -2756,3 +2756,4 @@ https://github.com/mickey9801/ButtonFever.git|Contributed|ButtonFever
 https://github.com/adafruit/Adafruit_MLX90640.git|Contributed|Adafruit MLX90640
 https://github.com/adafruit/Adafruit_SensorLab.git|Contributed|Adafruit Sensor Lab
 https://github.com/adafruit/Adafruit_LSM6DS.git|Contributed|Adafruit LSM6DS
+https://github.com/CGrassin/M62429_Arduino_Library.git|Contributed|M62429 Volume Control Library
