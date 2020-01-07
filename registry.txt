@@ -2759,3 +2759,4 @@ https://github.com/adafruit/Adafruit_LSM6DS.git|Contributed|Adafruit LSM6DS
 https://github.com/CGrassin/M62429_Arduino_Library.git|Contributed|M62429 Volume Control Library
 https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino.git|Contributed|SimpleSerialProtocol
 https://github.com/mmuratyilmaz/KAI-Pro.git|Contributed|KAI Pro Library
+https://github.com/thebigpotatoe/Effortless-SPIFFS.git|Contributed|Effortless-SPIFFS
