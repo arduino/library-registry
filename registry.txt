@@ -2772,3 +2772,4 @@ https://github.com/matusm/Arduino-E2.git|Contributed|aE2
 https://github.com/adafruit/Adafruit_LIS2MDL.git|Contributed|Adafruit LIS2MDL
 https://github.com/wyolum/jsonlib.git|Contributed|jsonlib
 https://github.com/snototter/BasicTinkering.git|Contributed|BasicTinkering
+https://github.com/melopero/Melopero_LSM9DS1_Arduino_Library.git|Contributed|Melopero LSM9DS1
