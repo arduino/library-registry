@@ -2775,3 +2775,4 @@ https://github.com/snototter/BasicTinkering.git|Contributed|BasicTinkering
 https://github.com/melopero/Melopero_LSM9DS1_Arduino_Library.git|Contributed|Melopero LSM9DS1
 https://github.com/elC0mpa/OLED_SSD1306_Chart.git|Contributed|OLED_SSD1306_Chart
 https://github.com/samelement/ACS-M1128.git|Contributed|ACS-M1128
+https://github.com/bigclownlabs/SoilSensor.git|Contributed|SoilSensor
