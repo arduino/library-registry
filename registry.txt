@@ -2707,7 +2707,6 @@ https://github.com/khoih-prog/ESP8266_ISR_Servo.git|Contributed|ESP8266_ISR_Serv
 https://github.com/CreativeRobotics/Commander.git|Contributed|Commander
 https://github.com/facts-engineering/P1AM.git|Contributed|P1AM
 https://github.com/TinyCircuits/TinyCircuits-Wireling-Lib.git|Contributed|Wireling
-https://github.com/adafruit/Adafruit_LSM6DSOX.git|Contributed|Adafruit LSM6DSOX
 https://github.com/imfrancisd/MorseCodeMachine.git|Contributed|MorseCodeMachine
 https://github.com/SimpleHacks/hw_rng.git|Contributed|nrf_rng
 https://github.com/SimpleHacks/EzDmaHelper.git|Contributed|EzDmaHelper
