@@ -2199,7 +2199,6 @@ https://github.com/funkyfisch/arduino-knock-detector.git|Contributed|Knock Detec
 https://github.com/IoTGuruLive/theiotguru-arduino-library.git|Contributed|The IoT Guru integration
 https://github.com/JoaoLopesF/RemoteDebugger.git|Contributed|RemoteDebugger
 https://github.com/torsteinnh/conductivityLib.git|Contributed|ConductivityLib
-https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay Transparent Grahical OLED Library
 https://github.com/stm32duino/X-NUCLEO-IKS01A3.git|Contributed|STM32duino X-NUCLEO-IKS01A3
 https://github.com/stm32duino/LSM6DSO.git|Contributed|STM32duino LSM6DSO
 https://github.com/stm32duino/LIS2DW12.git|Contributed|STM32duino LIS2DW12
@@ -2777,3 +2776,4 @@ https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun Hyper
 https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay ILI9163C
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay SSD1309
 https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01
+https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay Transparent Graphical OLED
