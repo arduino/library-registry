@@ -2777,3 +2777,4 @@ https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary.git|Contributed
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay SSD1309
 https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01
 https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay Transparent Graphical OLED
+https://github.com/mmojana/pca9634-arduino-library.git|Contributed|PCA9634 library
