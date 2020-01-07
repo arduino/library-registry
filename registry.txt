@@ -2128,7 +2128,6 @@ https://github.com/electric-sheep-co/arduino-redis.git|Contributed|Redis for Ard
 https://github.com/souviksaha97/MCP3202.git|Contributed|MCP3202
 https://github.com/NilsMinor/TMP117-Arduino.git|Contributed|TMP117-Arduino
 https://github.com/laurb9/StepperDriver.git|Contributed|StepperDriver
-https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01 4WSPI Library
 https://github.com/bitbank2/Multi_OLED.git|Contributed|Multi_OLED
 https://github.com/bitbank2/Multi_BitBang.git|Contributed|Multi_BitBang
 https://github.com/uStepper/uStepperS.git|Contributed|uStepper S
@@ -2777,3 +2776,4 @@ https://github.com/Silvan85/Nova_SDS011.git|Contributed|Nova_SDS011 Sensor Libra
 https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun HyperDisplay
 https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay ILI9163C
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay SSD1309
+https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01
