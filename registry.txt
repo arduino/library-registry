@@ -1830,7 +1830,6 @@ https://github.com/Annikken/EasyAndee.git|Contributed|EasyAndee
 https://github.com/Annikken/EasyAndee101.git|Contributed|EasyAndee101
 https://github.com/MacroYau/LTC2942-Arduino-Library.git|Contributed|LTC2942
 https://github.com/adafruit/WaveHC.git|Contributed|WaveHC
-https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun HyperDisplay Library
 https://github.com/netpieio/microgear-nbiot-arduino.git|Contributed|microgear-nbiot
 https://github.com/JChristensen/CurrentTransformer.git|Contributed|CurrentTransformer
 https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library.git|Contributed|SparkFun ePaper Arduino Library
@@ -2777,3 +2776,4 @@ https://github.com/elC0mpa/OLED_SSD1306_Chart.git|Contributed|OLED_SSD1306_Chart
 https://github.com/samelement/ACS-M1128.git|Contributed|ACS-M1128
 https://github.com/bigclownlabs/SoilSensor.git|Contributed|SoilSensor
 https://github.com/Silvan85/Nova_SDS011.git|Contributed|Nova_SDS011 Sensor Library
+https://github.com/sparkfun/SparkFun_HyperDisplay.git|Contributed|SparkFun HyperDisplay
