@@ -2755,3 +2755,4 @@ https://github.com/SukkoPera/PsxNewLib.git|Contributed|PsxNewLib
 https://github.com/mickey9801/ButtonFever.git|Contributed|ButtonFever
 https://github.com/adafruit/Adafruit_MLX90640.git|Contributed|Adafruit MLX90640
 https://github.com/adafruit/Adafruit_SensorLab.git|Contributed|Adafruit Sensor Lab
+https://github.com/adafruit/Adafruit_LSM6DS.git|Contributed|Adafruit LSM6DS
