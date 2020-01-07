@@ -2761,3 +2761,4 @@ https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-ardui
 https://github.com/mmuratyilmaz/KAI-Pro.git|Contributed|KAI Pro Library
 https://github.com/thebigpotatoe/Effortless-SPIFFS.git|Contributed|Effortless-SPIFFS
 https://github.com/matusm/Arduino-DataSeriesPod.git|Contributed|DataSeriesPod
+https://github.com/jcubuntu/iBit_Arduino.git|Contributed|iBit_Arduino
