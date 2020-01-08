@@ -71,6 +71,7 @@ https://github.com/arduino-libraries/Arduino_LSM9DS1.git|Arduino|Arduino_LSM9DS1
 https://github.com/arduino-libraries/Arduino_HTS221.git|Arduino|Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_LPS22HB.git|Arduino|Arduino_LPS22HB
 https://github.com/arduino-libraries/Arduino_APDS9960.git|Arduino|Arduino_APDS9960
+https://github.com/arduino-libraries/Arduino_CRC32.git|Arduino|Arduino_CRC32
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
