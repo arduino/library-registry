@@ -2593,7 +2593,6 @@ https://github.com/luisllamasbinaburo/Arduino-AsyncStepper.git|Contributed|Async
 https://github.com/luisllamasbinaburo/Arduino-SimpleStepper.git|Contributed|SimpleStepper
 https://github.com/bitbank2/esp32_gamepad.git|Contributed|esp32_gamepad
 https://github.com/adafruit/Adafruit_LSM303_Accel.git|Contributed|Adafruit LSM303 Accel
-https://github.com/adafruit/Adafruit_LSM303AGR_Mag.git|Contributed|Adafruit LSM303AGR Mag
 https://github.com/adafruit/Adafruit_LSM303DLH_Mag.git|Contributed|Adafruit LSM303DLH Mag
 https://github.com/tcafiero/SensorCommunicationLib.git|Contributed|Sensor Communication Library
 https://github.com/MajicDesigns/MD_SN76489.git|Contributed|MD_SN76489
@@ -2777,3 +2776,4 @@ https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary.git|Contributed|
 https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay KWH018ST01
 https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay Transparent Graphical OLED
 https://github.com/mmojana/pca9634-arduino-library.git|Contributed|PCA9634 library
+https://github.com/ardnew/XPT2046_Calibrated.git|Contributed|XPT2046_Calibrated
