@@ -2779,3 +2779,4 @@ https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary.git|Contri
 https://github.com/mmojana/pca9634-arduino-library.git|Contributed|PCA9634 library
 https://github.com/ardnew/XPT2046_Calibrated.git|Contributed|XPT2046_Calibrated
 https://github.com/m5stack/M5Atom.git|Contributed|M5Atom
+https://github.com/jackrobotics/HONEYLemon.git|Contributed|HONEYLemon
