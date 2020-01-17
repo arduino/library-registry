@@ -2237,7 +2237,6 @@ https://github.com/onelife/Arduino_RT-Thread.git|Contributed|RT-Thread
 https://github.com/MartinL1/BMP280_DEV.git|Contributed|BMP280_DEV
 https://github.com/madhephaestus/BNO055SimplePacketComs.git|Contributed|BNO055SimplePacketComs
 https://github.com/ricaun/ArduinoUniqueID.git|Contributed|ArduinoUniqueID
-https://github.com/ricaun/CayenneLPPDecode.git|Contributed|CayenneLPPDecode
 https://github.com/adafruit/Adafruit_INA260.git|Contributed|Adafruit INA260 Library
 https://github.com/corneliusmunz/legoino.git|Contributed|Legoino
 https://github.com/CMakerA/ESP_LM35.git|Contributed|ESP_LM35
