@@ -2786,3 +2786,4 @@ https://github.com/arduino-libraries/CTC-Go-Motions-Expansion.git|Contributed|CT
 https://github.com/yoprogramo/ESP_QRcode.git|Contributed|ESP QRcode
 https://github.com/AIS-DeviceInnovation/Magellan_SIM7020E.git|Contributed|Magellan_SIM7020E
 https://github.com/khoih-prog/BlynkEthernet_WM.git|Contributed|BlynkEthernet_Manager
+https://github.com/adafruit/Adafruit_10DOF.git|Contributed|Adafruit 10DOF
