@@ -2780,3 +2780,4 @@ https://github.com/mmojana/pca9634-arduino-library.git|Contributed|PCA9634 libra
 https://github.com/ardnew/XPT2046_Calibrated.git|Contributed|XPT2046_Calibrated
 https://github.com/m5stack/M5Atom.git|Contributed|M5Atom
 https://github.com/jackrobotics/HONEYLemon.git|Contributed|HONEYLemon
+https://github.com/EmotiBit/EmotiBit_MAX30101.git|Contributed|EmotiBit MAX30101
