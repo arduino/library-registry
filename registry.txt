@@ -2794,3 +2794,4 @@ https://github.com/Andy4495/ICM7218.git|Contributed|ICM7218
 https://github.com/Andy4495/TLC591x.git|Contributed|TLC591x
 https://github.com/neonode-inc/zforce-arduino.git|Contributed|zForce Air Library
 https://github.com/MHotchin/BalBoaSpa.git|Contributed|Balboa Spa communications
+https://github.com/tobozo/ESP32-Chimera-Core.git|Contributed|ESP32-Chimera-Core
