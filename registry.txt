@@ -2782,3 +2782,4 @@ https://github.com/m5stack/M5Atom.git|Contributed|M5Atom
 https://github.com/jackrobotics/HONEYLemon.git|Contributed|HONEYLemon
 https://github.com/EmotiBit/EmotiBit_MAX30101.git|Contributed|EmotiBit MAX30101
 https://github.com/EmotiBit/EmotiBit_NCP5623.git|Contributed|EmotiBit NCP5623
+https://github.com/EmotiBit/EmotiBit_MLX90632.git|Contributed|EmotiBit MLX90632
