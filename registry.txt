@@ -2791,3 +2791,4 @@ https://github.com/adafruit/Adafruit_DPS310.git|Contributed|Adafruit DPS310
 https://github.com/boseji/PString-Arduino-lib.git|Contributed|PString-Arduino-lib
 https://github.com/Andy4495/LED744511.git|Contributed|LED744511
 https://github.com/Andy4495/ICM7218.git|Contributed|ICM7218
+https://github.com/Andy4495/TLC591x.git|Contributed|TLC591x
