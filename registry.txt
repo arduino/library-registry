@@ -2783,3 +2783,4 @@ https://github.com/jackrobotics/HONEYLemon.git|Contributed|HONEYLemon
 https://github.com/EmotiBit/EmotiBit_MAX30101.git|Contributed|EmotiBit MAX30101
 https://github.com/EmotiBit/EmotiBit_NCP5623.git|Contributed|EmotiBit NCP5623
 https://github.com/EmotiBit/EmotiBit_MLX90632.git|Contributed|EmotiBit MLX90632
+https://github.com/arduino-libraries/CTC-Go-Motions-Expansion.git|Contributed|CTC GO MOTIONS
