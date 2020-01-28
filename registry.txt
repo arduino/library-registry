@@ -2806,3 +2806,4 @@ https://github.com/PowerBroker2/FireTimer.git|Contributed|FireTimer
 https://github.com/jihoonkimtech/UltraSonic_Lib.git|Contributed|UltraSoinc
 https://github.com/jvpernis/esp32-ps3.git|Contributed|PS3 Controller Host
 https://github.com/red-scorp/LiquidCrystal_AIP31068.git|Contributed|LiquidCrystal_AIP31068
+https://github.com/red-scorp/SoftSPIB.git|Contributed|SoftSPIB
