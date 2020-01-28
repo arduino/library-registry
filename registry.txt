@@ -2808,3 +2808,4 @@ https://github.com/jvpernis/esp32-ps3.git|Contributed|PS3 Controller Host
 https://github.com/red-scorp/LiquidCrystal_AIP31068.git|Contributed|LiquidCrystal_AIP31068
 https://github.com/red-scorp/SoftSPIB.git|Contributed|SoftSPIB
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library.git|Contributed|Panel Library for Pixel and Play
+https://github.com/adafruit/Audio.git|Contributed|Audio
