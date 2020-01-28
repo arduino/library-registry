@@ -2799,3 +2799,4 @@ https://github.com/predicteur/Serie.git|Contributed|Serie
 https://github.com/EasyIoT-BR/Easyiot-Esp8266.git|Contributed|Easyiot-Esp8266
 https://github.com/LuisMiCa/IRsmallDecoder.git|Contributed|IRsmallDecoder
 https://github.com/kniwwelino/KniwwelinoLib.git|Contributed|Kniwwelino
+https://github.com/gordonthree/pca9633.git|Contributed|pca9633
