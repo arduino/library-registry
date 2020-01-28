@@ -2798,3 +2798,4 @@ https://github.com/tobozo/ESP32-Chimera-Core.git|Contributed|ESP32-Chimera-Core
 https://github.com/cygig/TimerEvent.git|Contributed|TimerEvent
 https://github.com/predicteur/Serie.git|Contributed|Serie
 https://github.com/EasyIoT-BR/Easyiot-Esp8266.git|Contributed|Easyiot-Esp8266
+https://github.com/LuisMiCa/IRsmallDecoder.git|Contributed|IRsmallDecoder
