@@ -2812,3 +2812,4 @@ https://github.com/adafruit/Audio.git|Contributed|Audio - Adafruit Fork
 https://github.com/peterus/INA226Lib.git|Contributed|INA226Lib
 https://github.com/bitbank2/Thermal_Printer.git|Contributed|Thermal Printer Library
 https://github.com/BlaT2512/Segment.git|Contributed|Segment
+https://github.com/ruminize/FlashLightLED.git|Contributed|FlashLightLED
