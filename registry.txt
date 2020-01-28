@@ -2818,3 +2818,4 @@ https://github.com/wasm3/wasm3-arduino.git|Contributed|Wasm3
 https://github.com/mt-elektrik/MteCore.git|Contributed|MteCore
 https://github.com/silvervest/Silvervest_OLED_0010_SPI.git|Contributed|Silvervest OLED-0010 SPI
 https://github.com/khoih-prog/BlynkGSM_Manager.git|Contributed|BlynkGSM_Manager
+https://github.com/yknivag/ESP_OTA_GitHub.git|Contributed|ESP OTA GitHub
