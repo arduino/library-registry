@@ -2820,3 +2820,4 @@ https://github.com/silvervest/Silvervest_OLED_0010_SPI.git|Contributed|Silverves
 https://github.com/khoih-prog/BlynkGSM_Manager.git|Contributed|BlynkGSM_Manager
 https://github.com/yknivag/ESP_OTA_GitHub.git|Contributed|ESP OTA GitHub
 https://github.com/EmotiBit/EmotiBit_XPlat_Utils.git|Contributed|EmotiBit XPlat Utils
+https://github.com/Infineon/TLE493D-3DMagnetic-Sensor.git|Contributed|TLE493D
