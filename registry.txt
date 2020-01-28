@@ -1375,7 +1375,6 @@ https://github.com/bengtmartensson/ABeacon.git|Contributed|Beacon
 https://github.com/matthewg42/Mutila.git|Contributed|Mutila
 https://github.com/Sensirion/arduino-sht.git|Contributed|arduino-sht
 https://github.com/agdl/WireUpdate.git|Contributed|WireUpdate
-https://github.com/LIST-LUXEMBOURG/KniwwelinoLib.git|Contributed|Kniwwelino
 https://github.com/kosme/fix_fft.git|Contributed|fix_fft
 https://bitbucket.org/teckel12/arduino-new-ping.git|Contributed|NewPing
 https://github.com/sandeepmistry/arduino-CAN.git|Contributed|CAN
@@ -2799,3 +2798,4 @@ https://github.com/cygig/TimerEvent.git|Contributed|TimerEvent
 https://github.com/predicteur/Serie.git|Contributed|Serie
 https://github.com/EasyIoT-BR/Easyiot-Esp8266.git|Contributed|Easyiot-Esp8266
 https://github.com/LuisMiCa/IRsmallDecoder.git|Contributed|IRsmallDecoder
+https://github.com/kniwwelino/KniwwelinoLib.git|Contributed|Kniwwelino
