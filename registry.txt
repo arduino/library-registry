@@ -2815,3 +2815,4 @@ https://github.com/BlaT2512/Segment.git|Contributed|Segment
 https://github.com/ruminize/FlashLightLED.git|Contributed|FlashLightLED
 https://github.com/tanakamasayuki/UlpDebug.git|Contributed|ESP32 ULP Debugger
 https://github.com/wasm3/wasm3-arduino.git|Contributed|Wasm3
+https://github.com/mt-elektrik/MteCore.git|Contributed|MteCore
