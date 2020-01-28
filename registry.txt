@@ -2801,3 +2801,4 @@ https://github.com/LuisMiCa/IRsmallDecoder.git|Contributed|IRsmallDecoder
 https://github.com/kniwwelino/KniwwelinoLib.git|Contributed|Kniwwelino
 https://github.com/gordonthree/pca9633.git|Contributed|pca9633
 https://github.com/khoih-prog/BlynkESP32_BT_WF.git|Contributed|BlynkESP32_BT_WF
+https://github.com/steenerson/Plex64.git|Contributed|Plex64
