@@ -2796,3 +2796,4 @@ https://github.com/neonode-inc/zforce-arduino.git|Contributed|zForce Air Library
 https://github.com/MHotchin/BalBoaSpa.git|Contributed|Balboa Spa communications
 https://github.com/tobozo/ESP32-Chimera-Core.git|Contributed|ESP32-Chimera-Core
 https://github.com/cygig/TimerEvent.git|Contributed|TimerEvent
+https://github.com/predicteur/Serie.git|Contributed|Serie
