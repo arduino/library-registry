@@ -2816,3 +2816,4 @@ https://github.com/ruminize/FlashLightLED.git|Contributed|FlashLightLED
 https://github.com/tanakamasayuki/UlpDebug.git|Contributed|ESP32 ULP Debugger
 https://github.com/wasm3/wasm3-arduino.git|Contributed|Wasm3
 https://github.com/mt-elektrik/MteCore.git|Contributed|MteCore
+https://github.com/silvervest/Silvervest_OLED_0010_SPI.git|Contributed|Silvervest OLED-0010 SPI
