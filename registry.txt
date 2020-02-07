@@ -2840,3 +2840,4 @@ https://github.com/IowaScaledEngineering/arduino-irsense.git|Contributed|I2C-IRS
 https://github.com/barisdinc/LibAPRS_Tracker.git|Contributed|LibAPRS_Tracker
 https://github.com/rstephan/ArtnetWifi.git|Contributed|ArtnetWifi
 https://github.com/Suraj151/esp8266-framework.git|Contributed|esp8266-framework
+https://github.com/jspark311/CppPotpourri.git|Contributed|CppPotpourri
