@@ -2826,3 +2826,4 @@ https://github.com/Velleman/Tuyav.git|Contributed|Tuyav
 https://github.com/eloquentarduino/EloquentTinyML.git|Contributed|EloquentTinyML
 https://github.com/Lynxmotion/AlternativeLSS.git|Contributed|AlternativeLSS
 https://github.com/MajicDesigns/MD_YM2413.git|Contributed|MD_YM2413
+https://github.com/khoih-prog/Blynk_Teensy.git|Contributed|Blynk_Teensy
