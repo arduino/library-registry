@@ -2437,7 +2437,7 @@ https://github.com/adafruit/Adafruit_FeatherOLED.git|Contributed|Adafruit Feathe
 https://github.com/full-stack-ex/tiny-template-engine-arduino.git|Contributed|TinyTemplateEngine
 https://github.com/AidenKunkler-Peck/Tactile-Necklace.git|Contributed|TactNecklace
 https://github.com/remoteme/esp8266-OLED.git|Contributed|ESP8266-OLED Display Library
-https://github.com/EmotiBit/EmotiBit_FW_Si7013.git|Contributed|EmotiBit Si7013
+https://github.com/EmotiBit/EmotiBit_FW_Si7013.git|Contributed|EmotiBit SI7013
 https://github.com/gavinlyonsrepo/FourteenSegDisplay.git|Contributed|FourteenSegDisplay
 https://github.com/alexbertis/LibreriaLedRGB.git|Contributed|LedRGBlib
 https://github.com/onelife/RTT-GUI.git|Contributed|RTT-GUI
