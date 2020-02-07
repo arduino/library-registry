@@ -2845,3 +2845,4 @@ https://github.com/PaulZC/Qwiic_PHT_MS8607_Library.git|Contributed|Qwiic PHT MS8
 https://github.com/s-light/slight_Fade.git|Contributed|slight_Fade
 https://github.com/s-light/slight_ButtonInput.git|Contributed|slight_ButtonInput
 https://github.com/s-light/slight_RotaryEncoder.git|Contributed|slight_RotaryEncoder
+https://github.com/s-light/slight_DebugMenu.git|Contributed|slight_DebugMenu
