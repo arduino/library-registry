@@ -2848,3 +2848,4 @@ https://github.com/s-light/slight_RotaryEncoder.git|Contributed|slight_RotaryEnc
 https://github.com/s-light/slight_DebugMenu.git|Contributed|slight_DebugMenu
 https://github.com/s-light/slight_TLC5957.git|Contributed|slight_TLC5957
 https://github.com/s-light/slight_FDC1004.git|Contributed|slight_FDC1004
+https://github.com/s-light/slight_LiquidCrystalDummy.git|Contributed|slight_LiquidCrystalDummy
