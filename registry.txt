@@ -2825,3 +2825,4 @@ https://github.com/Nouryas-Tech/Nouryas-Advanced-Line-Follower-Array.git|Contrib
 https://github.com/Velleman/Tuyav.git|Contributed|Tuyav
 https://github.com/eloquentarduino/EloquentTinyML.git|Contributed|EloquentTinyML
 https://github.com/Lynxmotion/AlternativeLSS.git|Contributed|AlternativeLSS
+https://github.com/MajicDesigns/MD_YM2413.git|Contributed|MD_YM2413
