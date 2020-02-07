@@ -2830,3 +2830,4 @@ https://github.com/khoih-prog/Blynk_Teensy.git|Contributed|Blynk_Teensy
 https://github.com/MartinL1/BMP388_DEV.git|Contributed|BMP388_DEV
 https://github.com/RoboticsBrno/ServoESP32.git|Contributed|ServoESP32
 https://github.com/ademuri/smart-input-filter.git|Contributed|smart-input-filter
+https://github.com/Wh1teRabbitHU/EEPROMAdapter.git|Contributed|EEPROMAdapter
