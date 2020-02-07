@@ -2824,3 +2824,4 @@ https://github.com/Infineon/TLE493D-3DMagnetic-Sensor.git|Contributed|TLE493D
 https://github.com/Nouryas-Tech/Nouryas-Advanced-Line-Follower-Array.git|Contributed|Nouryas Advanced Line Follower
 https://github.com/Velleman/Tuyav.git|Contributed|Tuyav
 https://github.com/eloquentarduino/EloquentTinyML.git|Contributed|EloquentTinyML
+https://github.com/Lynxmotion/AlternativeLSS.git|Contributed|AlternativeLSS
