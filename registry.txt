@@ -2844,3 +2844,4 @@ https://github.com/jspark311/CppPotpourri.git|Contributed|CppPotpourri
 https://github.com/PaulZC/Qwiic_PHT_MS8607_Library.git|Contributed|Qwiic PHT MS8607 Library
 https://github.com/s-light/slight_Fade.git|Contributed|slight_Fade
 https://github.com/s-light/slight_ButtonInput.git|Contributed|slight_ButtonInput
+https://github.com/s-light/slight_RotaryEncoder.git|Contributed|slight_RotaryEncoder
