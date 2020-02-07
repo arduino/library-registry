@@ -2836,3 +2836,4 @@ https://github.com/adafruit/Adafruit_Sensor_Calibration.git|Contributed|Adafruit
 https://github.com/Aypac/Arduino-TR-064-SOAP-Library.git|Contributed|TR-064 SOAP Library
 https://github.com/sudomesh/LoRaLayer2.git|Contributed|LoRaLayer2
 https://github.com/NitrofMtl/MicroTuple.git|Contributed|MicroTuple
+https://github.com/IowaScaledEngineering/arduino-irsense.git|Contributed|I2C-IRSENSE Library
