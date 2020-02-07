@@ -2834,3 +2834,4 @@ https://github.com/Wh1teRabbitHU/EEPROMAdapter.git|Contributed|EEPROMAdapter
 https://github.com/tr4cker-app/tr4cker.git|Contributed|Tr4cker
 https://github.com/adafruit/Adafruit_Sensor_Calibration.git|Contributed|Adafruit Sensor Calibration
 https://github.com/Aypac/Arduino-TR-064-SOAP-Library.git|Contributed|TR-064 SOAP Library
+https://github.com/sudomesh/LoRaLayer2.git|Contributed|LoRaLayer2
