@@ -2831,3 +2831,4 @@ https://github.com/MartinL1/BMP388_DEV.git|Contributed|BMP388_DEV
 https://github.com/RoboticsBrno/ServoESP32.git|Contributed|ServoESP32
 https://github.com/ademuri/smart-input-filter.git|Contributed|smart-input-filter
 https://github.com/Wh1teRabbitHU/EEPROMAdapter.git|Contributed|EEPROMAdapter
+https://github.com/tr4cker-app/tr4cker.git|Contributed|Tr4cker
