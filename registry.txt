@@ -2803,7 +2803,7 @@ https://github.com/gordonthree/pca9633.git|Contributed|pca9633
 https://github.com/khoih-prog/BlynkESP32_BT_WF.git|Contributed|BlynkESP32_BT_WF
 https://github.com/steenerson/Plex64.git|Contributed|Plex64
 https://github.com/PowerBroker2/FireTimer.git|Contributed|FireTimer
-https://github.com/jihoonkimtech/UltraSonic_Lib.git|Contributed|UltraSoinc
+https://github.com/jihoonkimtech/UltraSonic_Lib.git|Contributed|UltraSonic_Lib
 https://github.com/jvpernis/esp32-ps3.git|Contributed|PS3 Controller Host
 https://github.com/red-scorp/LiquidCrystal_AIP31068.git|Contributed|LiquidCrystal_AIP31068
 https://github.com/red-scorp/SoftSPIB.git|Contributed|SoftSPIB
