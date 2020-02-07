@@ -2843,3 +2843,4 @@ https://github.com/Suraj151/esp8266-framework.git|Contributed|esp8266-framework
 https://github.com/jspark311/CppPotpourri.git|Contributed|CppPotpourri
 https://github.com/PaulZC/Qwiic_PHT_MS8607_Library.git|Contributed|Qwiic PHT MS8607 Library
 https://github.com/s-light/slight_Fade.git|Contributed|slight_Fade
+https://github.com/s-light/slight_ButtonInput.git|Contributed|slight_ButtonInput
