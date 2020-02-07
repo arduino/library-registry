@@ -2828,3 +2828,4 @@ https://github.com/Lynxmotion/AlternativeLSS.git|Contributed|AlternativeLSS
 https://github.com/MajicDesigns/MD_YM2413.git|Contributed|MD_YM2413
 https://github.com/khoih-prog/Blynk_Teensy.git|Contributed|Blynk_Teensy
 https://github.com/MartinL1/BMP388_DEV.git|Contributed|BMP388_DEV
+https://github.com/RoboticsBrno/ServoESP32.git|Contributed|ServoESP32
