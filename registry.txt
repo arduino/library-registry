@@ -1775,7 +1775,6 @@ https://github.com/4dsystems/GFX4d.git|Contributed|GFX4d
 https://github.com/4dsystems/SOMOIoD.git|Contributed|SOMOIoD
 https://github.com/niccokunzmann/UC121902-TNARX-A.git|Contributed|UC121902-TNARX-A
 https://github.com/astuder/icp-101xx.git|Contributed|ICP-101xx Pressure Sensor Library
-https://github.com/tobiasschuerg/ESP8266_Influx_DB.git|Contributed|ESP8266 Influxdb
 https://github.com/sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library.git|Contributed|SparkFun HM1X Bluetooth Arduino Library
 https://github.com/remoteme/RemoteMeArduinoLibrary.git|Contributed|RemoteMe
 https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library.git|Contributed|SparkFun SGP30 Arduino Library
@@ -2870,3 +2869,4 @@ https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library.git|Contributed|S
 https://github.com/rgot-org/TheThingsNetwork_esp32.git|Contributed|TTN_esp32
 https://github.com/rgot-org/TTN_M5Stack.git|Contributed|TTN_M5Stack
 https://github.com/arduino-libraries/Arduino_MKRMEM.git|Contributed|Arduino_MKRMEM
+https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino.git|Contributed|ESP8266 Influxdb
