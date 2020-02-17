@@ -2852,3 +2852,4 @@ https://github.com/s-light/slight_LiquidCrystalDummy.git|Contributed|slight_Liqu
 https://github.com/khoih-prog/Blynk_Esp8266AT_WM.git|Contributed|Blynk_Esp8266AT_WM
 https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266.git|Contributed|HomeKit-ESP8266
 https://github.com/NitrofMtl/DUE_Schmitt.git|Contributed|DUE_schmitt
+https://github.com/miko007/SerialTerminal.git|Contributed|SerialTerminalPRO
