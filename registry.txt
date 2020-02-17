@@ -2853,3 +2853,4 @@ https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266.git|Contributed|HomeKit-ES
 https://github.com/NitrofMtl/DUE_Schmitt.git|Contributed|DUE_schmitt
 https://github.com/miko007/SerialTerminal.git|Contributed|SerialTerminalPRO
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library.git|Contributed|Panel.h for NeoPixel Matrix
+https://github.com/whatnick/CS5464_Arduino.git|Contributed|CS5464 Arduino
