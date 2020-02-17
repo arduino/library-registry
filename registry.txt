@@ -2855,3 +2855,4 @@ https://github.com/miko007/SerialTerminal.git|Contributed|SerialTerminalPRO
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library.git|Contributed|Panel.h for NeoPixel Matrix
 https://github.com/whatnick/CS5464_Arduino.git|Contributed|CS5464 Arduino
 https://github.com/whatnick/ATM90E26_Arduino.git|Contributed|ATM90E26 Arduino
+https://github.com/jspark311/Arduino-SX150x.git|Contributed|SX150x
