@@ -2865,3 +2865,4 @@ https://github.com/khoih-prog/EthernetWebServer.git|Contributed|EthernetWebServe
 https://github.com/JHershey69/weatherLocation-Library.git|Contributed|weatherLocation
 https://github.com/adafruit/Adafruit_nRFCrypto.git|Contributed|Adafruit nRFCrypto
 https://github.com/khoih-prog/ESP8266_AT_WebServer.git|Contributed|ESP8266_AT_WebServer
+https://github.com/ademuri/twilio-esp32-client.git|Contributed|twilio-esp32-client
