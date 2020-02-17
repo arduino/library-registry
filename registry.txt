@@ -2866,3 +2866,4 @@ https://github.com/JHershey69/weatherLocation-Library.git|Contributed|weatherLoc
 https://github.com/adafruit/Adafruit_nRFCrypto.git|Contributed|Adafruit nRFCrypto
 https://github.com/khoih-prog/ESP8266_AT_WebServer.git|Contributed|ESP8266_AT_WebServer
 https://github.com/ademuri/twilio-esp32-client.git|Contributed|twilio-esp32-client
+https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library.git|Contributed|SparkFun STUSB4500
