@@ -2860,3 +2860,4 @@ https://github.com/jspark311/Arduino-ADG2128.git|Contributed|ADG2128
 https://github.com/jspark311/Arduino-DS1881.git|Contributed|DS1881
 https://github.com/jspark311/Arduino-SX8634.git|Contributed|SX8634
 https://github.com/marccolemont/CRMX_TimoTwo.git|Contributed|CRMX_TimoTwo
+https://github.com/NitrofMtl/ADC_Sampler.git|Contributed|ADC_SAmpler
