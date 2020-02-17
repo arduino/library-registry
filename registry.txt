@@ -2863,3 +2863,4 @@ https://github.com/marccolemont/CRMX_TimoTwo.git|Contributed|CRMX_TimoTwo
 https://github.com/NitrofMtl/ADC_Sampler.git|Contributed|ADC_SAmpler
 https://github.com/khoih-prog/EthernetWebServer.git|Contributed|EthernetWebServer
 https://github.com/JHershey69/weatherLocation-Library.git|Contributed|weatherLocation
+https://github.com/adafruit/Adafruit_nRFCrypto.git|Contributed|Adafruit nRFCrypto
