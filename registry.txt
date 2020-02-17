@@ -2857,3 +2857,4 @@ https://github.com/whatnick/CS5464_Arduino.git|Contributed|CS5464 Arduino
 https://github.com/whatnick/ATM90E26_Arduino.git|Contributed|ATM90E26 Arduino
 https://github.com/jspark311/Arduino-SX150x.git|Contributed|SX150x
 https://github.com/jspark311/Arduino-ADG2128.git|Contributed|ADG2128
+https://github.com/jspark311/Arduino-DS1881.git|Contributed|DS1881
