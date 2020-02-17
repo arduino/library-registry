@@ -2850,3 +2850,4 @@ https://github.com/s-light/slight_TLC5957.git|Contributed|slight_TLC5957
 https://github.com/s-light/slight_FDC1004.git|Contributed|slight_FDC1004
 https://github.com/s-light/slight_LiquidCrystalDummy.git|Contributed|slight_LiquidCrystalDummy
 https://github.com/khoih-prog/Blynk_Esp8266AT_WM.git|Contributed|Blynk_Esp8266AT_WM
+https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266.git|Contributed|HomeKit-ESP8266
