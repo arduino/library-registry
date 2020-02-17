@@ -2870,3 +2870,4 @@ https://github.com/rgot-org/TheThingsNetwork_esp32.git|Contributed|TTN_esp32
 https://github.com/rgot-org/TTN_M5Stack.git|Contributed|TTN_M5Stack
 https://github.com/arduino-libraries/Arduino_MKRMEM.git|Contributed|Arduino_MKRMEM
 https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino.git|Contributed|ESP8266 Influxdb
+https://github.com/mihai-dinculescu/arduino-gravity-soil-moisture-sensor.git|Contributed|Gravity Soil Moisture Sensor
