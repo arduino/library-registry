@@ -2881,3 +2881,4 @@ https://github.com/sparkfun/SparkFun_Clock_5P49V60_Arduino_Library.git|Contribut
 https://github.com/lucadentella/ArduinoLib_CEClient.git|Contributed|CEClient
 https://github.com/khoih-prog/EthernetWebServer_STM32.git|Contributed|EthernetWebServer_STM32
 https://github.com/KorneliusThomas/PIDcontrollersModularProfessional.git|Contributed|PID controllers Modular Professional
+https://github.com/HidWizards/UCR-ESP8266.git|Contributed|UCR ESP8266
