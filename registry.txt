@@ -2882,3 +2882,4 @@ https://github.com/khoih-prog/EthernetWebServer_STM32.git|Contributed|EthernetWe
 https://github.com/KorneliusThomas/PIDcontrollersModularProfessional.git|Contributed|PID controllers Modular Professional
 https://github.com/HidWizards/UCR-ESP8266.git|Contributed|UCR ESP8266
 https://github.com/ElectronicCats/ElectronicCats-PN7150.git|Contributed|Electronic Cats PN7150
+https://github.com/DavidArmstrong/SCL3300.git|Contributed|SCL3300
