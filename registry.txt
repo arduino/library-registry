@@ -2873,3 +2873,4 @@ https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino.git|Contributed|ESP
 https://github.com/mihai-dinculescu/arduino-gravity-soil-moisture-sensor.git|Contributed|Gravity Soil Moisture Sensor
 https://github.com/tobozo/ESP32-targz.git|Contributed|ESP32-targz
 https://github.com/Starmbi/hp_BH1750.git|Contributed|hp_BH1750
+https://github.com/khoih-prog/functional-vlpp.git|Contributed|Functional-Vlpp
