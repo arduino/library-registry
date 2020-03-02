@@ -2883,3 +2883,4 @@ https://github.com/KorneliusThomas/PIDcontrollersModularProfessional.git|Contrib
 https://github.com/HidWizards/UCR-ESP8266.git|Contributed|UCR ESP8266
 https://github.com/ElectronicCats/ElectronicCats-PN7150.git|Contributed|Electronic Cats PN7150
 https://github.com/DavidArmstrong/SCL3300.git|Contributed|SCL3300
+https://github.com/adafruit/Adafruit_NAU7802.git|Contributed|Adafruit NAU7802 Library
