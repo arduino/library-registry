@@ -2890,3 +2890,4 @@ https://github.com/gramedek/pio8255.git|Contributed|PIO8255
 https://github.com/ekkai/PMD4.git|Contributed|dustSensor_kocoa
 https://github.com/mateusjunges/accel-stepper-with-distances.git|Contributed|AccelStepperWithDistances
 https://github.com/JHershey69/DarkSkySevenDay.git|Contributed|DarkSkySevenDay
+https://github.com/Infineon/TLI4971-Current-Sensor.git|Contributed|TLI4971-Current-Sensor
