@@ -2878,3 +2878,4 @@ https://github.com/luni64/TeensyTimerTool.git|Contributed|TeensyTimerTool
 https://github.com/khoih-prog/BlynkEthernet_STM32_WM.git|Contributed|BlynkEthernet_STM32_WM
 https://github.com/openlcb/OpenLCB_Single_Thread.git|Contributed|OpenLCB_Single_Thread
 https://github.com/sparkfun/SparkFun_Clock_5P49V60_Arduino_Library.git|Contributed|SparkFun Clock 5P49V60 Arduino Library
+https://github.com/lucadentella/ArduinoLib_CEClient.git|Contributed|CEClient
