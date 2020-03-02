@@ -2886,3 +2886,4 @@ https://github.com/DavidArmstrong/SCL3300.git|Contributed|SCL3300
 https://github.com/adafruit/Adafruit_NAU7802.git|Contributed|Adafruit NAU7802 Library
 https://github.com/bridystone/SevSegShift.git|Contributed|SevSegShift
 https://github.com/adafruit/Adafruit_HTS221.git|Contributed|Adafruit HTS221
+https://github.com/gramedek/pio8255.git|Contributed|PIO8255
