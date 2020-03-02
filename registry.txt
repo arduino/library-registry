@@ -2875,3 +2875,4 @@ https://github.com/tobozo/ESP32-targz.git|Contributed|ESP32-targz
 https://github.com/Starmbi/hp_BH1750.git|Contributed|hp_BH1750
 https://github.com/khoih-prog/functional-vlpp.git|Contributed|Functional-Vlpp
 https://github.com/luni64/TeensyTimerTool.git|Contributed|TeensyTimerTool
+https://github.com/khoih-prog/BlynkEthernet_STM32_WM.git|Contributed|BlynkEthernet_STM32_WM
