@@ -2896,3 +2896,4 @@ https://github.com/IGB-Germany/ComDriverSpi.git|Contributed|ComDriverSpi
 https://github.com/peterus/APRS-IS-Lib.git|Contributed|APRS-IS-Lib
 https://github.com/peterus/APRS-Decoder-Lib.git|Contributed|APRS-Decoder-Lib
 https://github.com/cygig/SerialConfigCommand.git|Contributed|SerialConfigCommand
+https://github.com/WD24/AD5231-Arduino-Library.git|Contributed|AD5231 Arduino Library
