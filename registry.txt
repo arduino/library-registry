@@ -2893,3 +2893,4 @@ https://github.com/JHershey69/DarkSkySevenDay.git|Contributed|DarkSkySevenDay
 https://github.com/Infineon/TLI4971-Current-Sensor.git|Contributed|TLI4971-Current-Sensor
 https://github.com/adafruit/Adafruit_LPS2X.git|Contributed|Adafruit LPS2X
 https://github.com/IGB-Germany/ComDriverSpi.git|Contributed|ComDriverSpi
+https://github.com/peterus/APRS-IS-Lib.git|Contributed|APRS-IS-Lib
