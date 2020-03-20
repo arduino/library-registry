@@ -2928,3 +2928,4 @@ https://github.com/CircuitsFun/CircuitsFunBasic-Library-for-Arduino.git|Contribu
 https://github.com/LSatan/SmartRC-CC1101-Driver-Lib.git|Contributed|SmartRC-CC1101-Driver-Lib
 https://github.com/sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library.git|Contributed|SparkFun Qwiic Alphanumeric Display Arduino Library
 https://github.com/HendrikVE/ArduinoPCA9633.git|Contributed|NXP PCA9633
+https://github.com/bmts/FMDataClient.git|Contributed|FMDataClient
