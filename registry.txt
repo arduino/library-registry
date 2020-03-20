@@ -2907,3 +2907,4 @@ https://github.com/J-Rios/uTLGBotLib-arduino.git|Contributed|uTLGBotLib
 https://github.com/KwangryeolPark/GLCD_QY_12864BG.git|Contributed|basicGLCD
 https://github.com/khoih-prog/ESP_AT_WiFiManager.git|Contributed|ESP_AT_WiFiManager
 https://github.com/Jaapdedood/ArxRobot-Library.git|Contributed|ArxRobot Library
+https://github.com/khoih-prog/ESP_AT_WM_Lite.git|Contributed|ESP_AT_WM_Lite
