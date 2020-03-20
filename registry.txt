@@ -2923,3 +2923,4 @@ https://github.com/BlueDot-Arduino/BlueDot_BMA400.git|Contributed|BlueDot BMA400
 https://github.com/adafruit/Adafruit_AHT10.git|Contributed|Adafruit AHT10
 https://github.com/107-systems/107-Arduino-MCP2515.git|Contributed|107-Arduino-MCP2515
 https://github.com/natchaipon/SnailwalkPromptpay.git|Contributed|SnailwalkPromptpay
+https://github.com/sparkfun/SparkFun_Qwiic_Step_Arduino_Library.git|Contributed|SparkFun Qwiic Step Arduino Library
