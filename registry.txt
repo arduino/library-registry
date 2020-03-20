@@ -2894,3 +2894,4 @@ https://github.com/Infineon/TLI4971-Current-Sensor.git|Contributed|TLI4971-Curre
 https://github.com/adafruit/Adafruit_LPS2X.git|Contributed|Adafruit LPS2X
 https://github.com/IGB-Germany/ComDriverSpi.git|Contributed|ComDriverSpi
 https://github.com/peterus/APRS-IS-Lib.git|Contributed|APRS-IS-Lib
+https://github.com/peterus/APRS-Decoder-Lib.git|Contributed|APRS-Decoder-Lib
