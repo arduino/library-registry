@@ -2903,3 +2903,4 @@ https://github.com/asukiaaa/I2cMotors_asukiaaa.git|Contributed|I2cMotors_asukiaa
 https://github.com/tejashwikalptaru/ssd1306xled.git|Contributed|ssd1306xled
 https://github.com/littlevgl/lv_arduino.git|Contributed|lv_arduino
 https://github.com/rahulstva/Motor_RS.git|Contributed|Motor_RS
+https://github.com/J-Rios/uTLGBotLib-arduino.git|Contributed|uTLGBotLib
