@@ -2909,3 +2909,4 @@ https://github.com/khoih-prog/ESP_AT_WiFiManager.git|Contributed|ESP_AT_WiFiMana
 https://github.com/Jaapdedood/ArxRobot-Library.git|Contributed|ArxRobot Library
 https://github.com/khoih-prog/ESP_AT_WM_Lite.git|Contributed|ESP_AT_WM_Lite
 https://github.com/stm32duino/LSM6DSOX.git|Contributed|STM32duino LSM6DSOX
+https://github.com/JVKran/Forced-BME280.git|Contributed|Forced-BME280
