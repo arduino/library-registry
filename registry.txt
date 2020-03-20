@@ -2912,3 +2912,4 @@ https://github.com/stm32duino/LSM6DSOX.git|Contributed|STM32duino LSM6DSOX
 https://github.com/JVKran/Forced-BME280.git|Contributed|Forced-BME280
 https://github.com/stm32duino/STTS22H.git|Contributed|STM32duino STTS22H
 https://github.com/stm32duino/ISM330DLC.git|Contributed|STM32duino ISM330DLC
+https://github.com/stm32duino/IIS2MDC.git|Contributed|STM32duino IIS2MDC
