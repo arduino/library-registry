@@ -2919,3 +2919,4 @@ https://github.com/joonazan/nina-fast-bluetooth.git|Contributed|FastBLE
 https://github.com/sparkfun/SparkFun_TMP102_Arduino_Library.git|Contributed|SparkFun TMP102 Breakout
 https://github.com/lathoub/EthernetBonjour.git|Contributed|EthernetBonjour
 https://github.com/rfetick/MPU6050_light.git|Contributed|MPU6050_light
+https://github.com/BlueDot-Arduino/BlueDot_BMA400.git|Contributed|BlueDot BMA400 Library
