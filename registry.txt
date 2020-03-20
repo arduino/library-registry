@@ -2922,3 +2922,4 @@ https://github.com/rfetick/MPU6050_light.git|Contributed|MPU6050_light
 https://github.com/BlueDot-Arduino/BlueDot_BMA400.git|Contributed|BlueDot BMA400 Library
 https://github.com/adafruit/Adafruit_AHT10.git|Contributed|Adafruit AHT10
 https://github.com/107-systems/107-Arduino-MCP2515.git|Contributed|107-Arduino-MCP2515
+https://github.com/natchaipon/SnailwalkPromptpay.git|Contributed|SnailwalkPromptpay
