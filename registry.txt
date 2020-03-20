@@ -2900,3 +2900,4 @@ https://github.com/OPEnSLab-OSU/FeatherFault.git|Contributed|FeatherFault
 https://github.com/stm32duino/ST25DV.git|Contributed|STM32duino ST25DV
 https://github.com/gigabits-org/gigabits-arduino.git|Contributed|Gigabits
 https://github.com/lathoub/USB-MIDI.git|Contributed|USB-MIDI
+https://github.com/asukiaaa/I2cMotors_asukiaaa.git|Contributed|I2cMotors_asukiaaa
