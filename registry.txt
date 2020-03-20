@@ -2926,3 +2926,4 @@ https://github.com/natchaipon/SnailwalkPromptpay.git|Contributed|SnailwalkPrompt
 https://github.com/sparkfun/SparkFun_Qwiic_Step_Arduino_Library.git|Contributed|SparkFun Qwiic Step Arduino Library
 https://github.com/CircuitsFun/CircuitsFunBasic-Library-for-Arduino.git|Contributed|CircuitsFunBasic
 https://github.com/LSatan/SmartRC-CC1101-Driver-Lib.git|Contributed|SmartRC-CC1101-Driver-Lib
+https://github.com/sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library.git|Contributed|SparkFun Qwiic Alphanumeric Display Arduino Library
