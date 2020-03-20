@@ -2915,3 +2915,4 @@ https://github.com/stm32duino/ISM330DLC.git|Contributed|STM32duino ISM330DLC
 https://github.com/stm32duino/IIS2MDC.git|Contributed|STM32duino IIS2MDC
 https://github.com/cafehaine/SimpleShell.git|Contributed|SimpleShell
 https://github.com/JenertsA/VCNL3040_Proximity_Sensor_Library.git|Contributed|VCNL3040 Proximity Sensor Library
+https://github.com/joonazan/nina-fast-bluetooth.git|Contributed|FastBLE
