@@ -2625,7 +2625,6 @@ https://github.com/bitbank2/bb_spi_lcd.git|Contributed|bb_spi_lcd
 https://github.com/desklab/desklab-arduino-lib.git|Contributed|desklab
 https://github.com/andhieSetyabudi/BQ25896.git|Contributed|BQ25896
 https://github.com/CytronTechnologies/CytronMakerSumo.git|Contributed|Cytron Maker Sumo Library
-https://github.com/rcarle3911/gigabits-arduino.git|Contributed|Gigabits
 https://github.com/GypsyRobot/Formulinha.git|Contributed|Formulinha
 https://bitbucket.org/christandlg/iaq-coremi.git|Contributed|iAQ-CoreMI
 https://github.com/adafruit/Adafruit_AVRProg.git|Contributed|Adafruit AVRProg
@@ -2899,3 +2898,4 @@ https://github.com/cygig/SerialConfigCommand.git|Contributed|SerialConfigCommand
 https://github.com/WD24/AD5231-Arduino-Library.git|Contributed|AD5231 Arduino Library
 https://github.com/OPEnSLab-OSU/FeatherFault.git|Contributed|FeatherFault
 https://github.com/stm32duino/ST25DV.git|Contributed|STM32duino ST25DV
+https://github.com/gigabits-org/gigabits-arduino.git|Contributed|Gigabits
