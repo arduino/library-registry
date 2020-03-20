@@ -2898,3 +2898,4 @@ https://github.com/peterus/APRS-Decoder-Lib.git|Contributed|APRS-Decoder-Lib
 https://github.com/cygig/SerialConfigCommand.git|Contributed|SerialConfigCommand
 https://github.com/WD24/AD5231-Arduino-Library.git|Contributed|AD5231 Arduino Library
 https://github.com/OPEnSLab-OSU/FeatherFault.git|Contributed|FeatherFault
+https://github.com/stm32duino/ST25DV.git|Contributed|STM32duino ST25DV
