@@ -2933,3 +2933,4 @@ https://gitlab.com/Enrico204/sam32wifiesp.git|Contributed|SAM32WiFiEsp
 https://github.com/postpersonality/melt-7segment-lcd.git|Contributed|Melt7SegLcd
 https://github.com/RobTillaart/FastMap.git|Contributed|FastMap
 https://github.com/melopero/Melopero_SAM-M8Q_Arduino_Library.git|Contributed|Melopero SAM-M8Q
+https://github.com/melopero/Melopero_UBX.git|Contributed|Melopero UBX Protocol
