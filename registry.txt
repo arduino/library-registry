@@ -2930,3 +2930,4 @@ https://github.com/HendrikVE/ArduinoPCA9633.git|Contributed|NXP PCA9633
 https://github.com/bmts/FMDataClient.git|Contributed|FMDataClient
 https://github.com/noah1510/LedController.git|Contributed|LedController
 https://gitlab.com/Enrico204/sam32wifiesp.git|Contributed|SAM32WiFiEsp
+https://github.com/postpersonality/melt-7segment-lcd.git|Contributed|Melt7SegLcd
