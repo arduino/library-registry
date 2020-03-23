@@ -2929,3 +2929,4 @@ https://github.com/sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library.git|Co
 https://github.com/HendrikVE/ArduinoPCA9633.git|Contributed|NXP PCA9633
 https://github.com/bmts/FMDataClient.git|Contributed|FMDataClient
 https://github.com/noah1510/LedController.git|Contributed|LedController
+https://gitlab.com/Enrico204/sam32wifiesp.git|Contributed|SAM32WiFiEsp
