@@ -1454,7 +1454,6 @@ https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591.git|Contributed|BlueDo
 https://github.com/YuriiSalimov/RelayModule.git|Contributed|RelayModule
 https://github.com/joba-1/Joba_Tsl2561.git|Contributed|Joba Tsl2561 Library
 https://github.com/avandalen/avdweb_SAMDtimer.git|Contributed|avdweb_SAMDtimer
-https://github.com/jgromes/LoRaLib.git|Contributed|LoRaLib
 https://github.com/ROBOTIS-GIT/DynamixelShield.git|Contributed|DynamixelShield
 https://github.com/SodaqMoja/Sodaq_LSM303AGR.git|Contributed|Sodaq_LSM303AGR
 https://github.com/cmmakerclub/CMMC-Packet.git|Contributed|CMMC Packet
