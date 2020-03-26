@@ -2943,3 +2943,4 @@ https://github.com/qubitro/mqtt-client-arduino.git|Contributed|QubitroMqttClient
 https://github.com/CircuitsFun/CircuitsFunProjects-Library-for-Arduino.git|Contributed|CircuitsFunProjects
 https://github.com/RobTillaart/AM232X.git|Contributed|AM232X
 https://github.com/PaulZC/IridiumSBD.git|Contributed|IridiumSBDi2c
+https://github.com/porrey/EEPROM-Storage.git|Contributed|EEPROM-Storage
