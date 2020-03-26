@@ -2940,3 +2940,4 @@ https://github.com/RobTillaart/AD524X.git|Contributed|AD524X
 https://github.com/Uberi/Arduino-CommandParser.git|Contributed|CommandParser
 https://github.com/adafruit/Adafruit_DS1841.git|Contributed|Adafruit DS1841
 https://github.com/qubitro/mqtt-client-arduino.git|Contributed|QubitroMqttClient
+https://github.com/CircuitsFun/CircuitsFunProjects-Library-for-Arduino.git|Contributed|CircuitsFunProjects
