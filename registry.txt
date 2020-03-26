@@ -2944,3 +2944,4 @@ https://github.com/CircuitsFun/CircuitsFunProjects-Library-for-Arduino.git|Contr
 https://github.com/RobTillaart/AM232X.git|Contributed|AM232X
 https://github.com/PaulZC/IridiumSBD.git|Contributed|IridiumSBDi2c
 https://github.com/porrey/EEPROM-Storage.git|Contributed|EEPROM-Storage
+https://github.com/RobTillaart/AnalogPin.git|Contributed|AnalogPin
