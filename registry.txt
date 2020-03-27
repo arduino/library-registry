@@ -2955,3 +2955,4 @@ https://github.com/RobTillaart/AverageAngle.git|Contributed|AverageAngle
 https://github.com/Zwer2k/WeatherStationDataRx.git|Contributed|Weather Station Data Receiver
 https://github.com/RobTillaart/Angle.git|Contributed|Angle
 https://github.com/sparkfun/SparkFun_DE2120_Arduino_Library.git|Contributed|SparkFun DE2120 2D Barcode Reader
+https://github.com/HendrikVE/ArduinoLiquidCrystalWired.git|Contributed|LiquidCrystalWired
