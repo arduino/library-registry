@@ -2953,3 +2953,4 @@ https://github.com/khoih-prog/WiFiManager_NINA_Lite.git|Contributed|WiFiManager_
 https://github.com/tasos12/ev3-arduino.git|Contributed|ev3-arduino
 https://github.com/RobTillaart/AverageAngle.git|Contributed|AverageAngle
 https://github.com/Zwer2k/WeatherStationDataRx.git|Contributed|Weather Station Data Receiver
+https://github.com/RobTillaart/Angle.git|Contributed|Angle
