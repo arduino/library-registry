@@ -2951,3 +2951,4 @@ https://github.com/LennartHennigs/Button2.git|Contributed|Button2
 https://github.com/LennartHennigs/ESPRotary.git|Contributed|ESP Rotary
 https://github.com/khoih-prog/WiFiManager_NINA_Lite.git|Contributed|WiFiManager_NINA_Lite
 https://github.com/tasos12/ev3-arduino.git|Contributed|ev3-arduino
+https://github.com/RobTillaart/AverageAngle.git|Contributed|AverageAngle
