@@ -2946,3 +2946,4 @@ https://github.com/PaulZC/IridiumSBD.git|Contributed|IridiumSBDi2c
 https://github.com/porrey/EEPROM-Storage.git|Contributed|EEPROM-Storage
 https://github.com/RobTillaart/AnalogPin.git|Contributed|AnalogPin
 https://github.com/khoih-prog/WiFiWebServer.git|Contributed|WiFiWebServer
+https://github.com/dirkx/CurrentTransformerWithCallbacks.git|Contributed|CurrentTransformerWithCallbacks
