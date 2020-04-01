@@ -2970,3 +2970,4 @@ https://github.com/kpn-iot/thingsml-c-library.git|Contributed|ThingsML
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library.git|Contributed|SparkFun BQ27441 LiPo Fuel Gauge Arduino Library
 https://github.com/RobTillaart/Complex.git|Contributed|Complex
 https://github.com/RobTillaart/BoolArray.git|Contributed|BoolArray
+https://github.com/RobTillaart/BitArray.git|Contributed|BitArray
