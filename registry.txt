@@ -2983,3 +2983,4 @@ https://github.com/stm32duino/S2-LP.git|Contributed|STM32duino S2-LP
 https://github.com/stm32duino/M95640-R.git|Contributed|STM32duino M95640-R
 https://github.com/stm32duino/X-NUCLEO-S2868A1.git|Contributed|STM32duino X-NUCLEO-S2868A1
 https://github.com/stm32duino/X-NUCLEO-S2868A2.git|Contributed|STM32duino X-NUCLEO-S2868A2
+https://github.com/janw-cz/JWA_BME280.git|Contributed|JWA BME280
