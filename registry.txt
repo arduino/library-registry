@@ -2951,7 +2951,6 @@ https://github.com/LennartHennigs/ESPRotary.git|Contributed|ESP Rotary
 https://github.com/khoih-prog/WiFiManager_NINA_Lite.git|Contributed|WiFiManager_NINA_Lite
 https://github.com/tasos12/ev3-arduino.git|Contributed|ev3-arduino
 https://github.com/RobTillaart/AverageAngle.git|Contributed|AverageAngle
-https://github.com/Zwer2k/WeatherStationDataRx.git|Contributed|Weather Station Data Receiver
 https://github.com/RobTillaart/Angle.git|Contributed|Angle
 https://github.com/sparkfun/SparkFun_DE2120_Arduino_Library.git|Contributed|SparkFun DE2120 2D Barcode Reader
 https://github.com/HendrikVE/ArduinoLiquidCrystalWired.git|Contributed|LiquidCrystalWired
@@ -2979,3 +2978,4 @@ https://github.com/RobTillaart/BH1750FVI_RT.git|Contributed|BH1750FVI_RT
 https://github.com/MakerSpaceLeiden/rfid.git|Contributed|MFRC522-spi-i2c-uart-async
 https://github.com/dirkx/OptocouplerDebouncer.git|Contributed|OptoDebounce
 https://github.com/Uberi/Arduino-HardwareBLESerial.git|Contributed|HardwareBLESerial
+https://github.com/Zwer2k/WeatherStationDataRx.git|Contributed|WeatherStationDataRx
