@@ -2980,3 +2980,4 @@ https://github.com/dirkx/OptocouplerDebouncer.git|Contributed|OptoDebounce
 https://github.com/Uberi/Arduino-HardwareBLESerial.git|Contributed|HardwareBLESerial
 https://github.com/Zwer2k/WeatherStationDataRx.git|Contributed|WeatherStationDataRx
 https://github.com/stm32duino/S2-LP.git|Contributed|STM32duino S2-LP
+https://github.com/stm32duino/M95640-R.git|Contributed|STM32duino M95640-R
