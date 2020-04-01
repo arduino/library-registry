@@ -2967,3 +2967,4 @@ https://github.com/ai-techsystems/arduino.git|Contributed|deepC
 https://github.com/RobTillaart/CountDown.git|Contributed|CountDown
 https://github.com/Rufus31415/Sharer.git|Contributed|Sharer
 https://github.com/cygig/SDConfigCommand.git|Contributed|SDConfigCommand
+https://github.com/kpn-iot/thingsml-c-library.git|Contributed|ThingsML
