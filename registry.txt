@@ -2959,3 +2959,4 @@ https://github.com/HendrikVE/ArduinoLiquidCrystalWired.git|Contributed|LiquidCry
 https://github.com/HendrikVE/ArduinoDFR0554.git|Contributed|DFR0554
 https://github.com/RobTillaart/AsyncAnalog.git|Contributed|AsyncAnalog
 https://github.com/samverstraete/TimerFour.git|Contributed|TimerFour32u4
+https://github.com/RobTillaart/Cozir.git|Contributed|Cozir
