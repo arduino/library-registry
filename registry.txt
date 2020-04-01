@@ -2965,3 +2965,4 @@ https://github.com/pstolarz/CoopThreads.git|Contributed|CoopThreads
 https://github.com/sparkfun/SparkFun_RV-8803_Arduino_Library.git|Contributed|SparkFun Qwiic RTC RV8803 Arduino Library
 https://github.com/ai-techsystems/arduino.git|Contributed|deepC
 https://github.com/RobTillaart/CountDown.git|Contributed|CountDown
+https://github.com/Rufus31415/Sharer.git|Contributed|Sharer
