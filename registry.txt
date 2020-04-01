@@ -2976,3 +2976,4 @@ https://github.com/AlexandreHiroyuki/MovingAverage_ArduinoLibrary.git|Contribute
 https://github.com/LennartHennigs/ESPBattery.git|Contributed|ESP Battery
 https://github.com/LennartHennigs/ESPTelnet.git|Contributed|ESP Telnet
 https://github.com/RobTillaart/BH1750FVI_RT.git|Contributed|BH1750FVI_RT
+https://github.com/MakerSpaceLeiden/rfid.git|Contributed|MFRC522-spi-i2c-uart-async
