@@ -2958,3 +2958,4 @@ https://github.com/sparkfun/SparkFun_DE2120_Arduino_Library.git|Contributed|Spar
 https://github.com/HendrikVE/ArduinoLiquidCrystalWired.git|Contributed|LiquidCrystalWired
 https://github.com/HendrikVE/ArduinoDFR0554.git|Contributed|DFR0554
 https://github.com/RobTillaart/AsyncAnalog.git|Contributed|AsyncAnalog
+https://github.com/samverstraete/TimerFour.git|Contributed|TimerFour32u4
