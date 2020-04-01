@@ -2979,3 +2979,4 @@ https://github.com/MakerSpaceLeiden/rfid.git|Contributed|MFRC522-spi-i2c-uart-as
 https://github.com/dirkx/OptocouplerDebouncer.git|Contributed|OptoDebounce
 https://github.com/Uberi/Arduino-HardwareBLESerial.git|Contributed|HardwareBLESerial
 https://github.com/Zwer2k/WeatherStationDataRx.git|Contributed|WeatherStationDataRx
+https://github.com/stm32duino/S2-LP.git|Contributed|STM32duino S2-LP
