@@ -2973,3 +2973,4 @@ https://github.com/RobTillaart/BoolArray.git|Contributed|BoolArray
 https://github.com/RobTillaart/BitArray.git|Contributed|BitArray
 https://github.com/NathanBak/astra_esp8266.git|Contributed|astra_esp8266
 https://github.com/AlexandreHiroyuki/MovingAverage_ArduinoLibrary.git|Contributed|Moving Average Library
+https://github.com/LennartHennigs/ESPBattery.git|Contributed|ESP Battery
