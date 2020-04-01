@@ -2961,3 +2961,4 @@ https://github.com/RobTillaart/AsyncAnalog.git|Contributed|AsyncAnalog
 https://github.com/samverstraete/TimerFour.git|Contributed|TimerFour32u4
 https://github.com/RobTillaart/Cozir.git|Contributed|Cozir
 https://github.com/DBSStore/DBS_AVRIII.git|Contributed|DBS-AVRIII
+https://github.com/pstolarz/CoopThreads.git|Contributed|CoopThreads
