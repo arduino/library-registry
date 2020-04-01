@@ -2985,3 +2985,4 @@ https://github.com/stm32duino/X-NUCLEO-S2868A1.git|Contributed|STM32duino X-NUCL
 https://github.com/stm32duino/X-NUCLEO-S2868A2.git|Contributed|STM32duino X-NUCLEO-S2868A2
 https://github.com/janw-cz/JWA_BME280.git|Contributed|JWA BME280
 https://github.com/RobTillaart/avrheap.git|Contributed|AvrHeap
+https://github.com/khoih-prog/WiFiNINA_Generic.git|Contributed|WiFiNINA_Generic
