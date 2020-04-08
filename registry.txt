@@ -2995,3 +2995,4 @@ https://github.com/marcmerlin/Framebuffer_GFX.git|Contributed|Framebuffer GFX
 https://github.com/marcmerlin/FastLED_NeoMatrix.git|Contributed|FastLED NeoMatrix
 https://github.com/marcmerlin/SmartMatrix_GFX.git|Contributed|SmartMatrix GFX
 https://github.com/marcmerlin/FastLED_SPITFT_GFX.git|Contributed|FastLED_SPITFT_GFX
+https://github.com/marcmerlin/FastLED_TFTWrapper_GFX.git|Contributed|FastLED_TFTWrapper_GFX
