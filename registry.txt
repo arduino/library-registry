@@ -3002,3 +3002,4 @@ https://github.com/adafruit/Adafruit_LvGL_Glue.git|Contributed|Adafruit LittlevG
 https://github.com/RobTillaart/DAC8554.git|Contributed|DAC8554
 https://github.com/RobTillaart/DAC8552.git|Contributed|DAC8552
 https://github.com/RobTillaart/DAC8551.git|Contributed|DAC8551
+https://github.com/RobTillaart/Temperature.git|Contributed|Temperature
