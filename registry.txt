@@ -3010,3 +3010,4 @@ https://github.com/levosos/Controlino.git|Contributed|Controlino
 https://github.com/ThingPulse/XPT2046_Touchscreen.git|Contributed|ThingPulse XPT2046 Touch
 https://github.com/stm32duino/X-NUCLEO-S2915A1.git|Contributed|STM32duino X-NUCLEO-S2915A1
 https://github.com/stm32duino/LSM6DSR.git|Contributed|STM32duino LSM6DSR
+https://github.com/stm32duino/ASM330LHH.git|Contributed|STM32duino ASM330LHH
