@@ -2991,3 +2991,4 @@ https://gitlab.com/Ama_De/as5200l-arduino.git|Contributed|AS5200L
 https://github.com/khoih-prog/Blynk_WiFiNINA_WM.git|Contributed|Blynk_WiFiNINA_WM
 https://github.com/Seithan/EasyNextionLibrary.git|Contributed|Easy Nextion Library
 https://github.com/arkhipenko/EspBootstrap.git|Contributed|EspBootstrap
+https://github.com/marcmerlin/Framebuffer_GFX.git|Contributed|Framebuffer GFX
