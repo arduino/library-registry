@@ -2997,3 +2997,4 @@ https://github.com/marcmerlin/SmartMatrix_GFX.git|Contributed|SmartMatrix GFX
 https://github.com/marcmerlin/FastLED_SPITFT_GFX.git|Contributed|FastLED_SPITFT_GFX
 https://github.com/marcmerlin/FastLED_TFTWrapper_GFX.git|Contributed|FastLED_TFTWrapper_GFX
 https://github.com/marcmerlin/FastLED_RPIRGBPanel_GFX.git|Contributed|FastLED_RPIRGBPanel_GFX
+https://github.com/107-systems/107-Arduino-BMP388.git|Contributed|107-Arduino-BMP388
