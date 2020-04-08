@@ -3004,3 +3004,4 @@ https://github.com/RobTillaart/DAC8552.git|Contributed|DAC8552
 https://github.com/RobTillaart/DAC8551.git|Contributed|DAC8551
 https://github.com/RobTillaart/Temperature.git|Contributed|Temperature
 https://github.com/BrinoOficial/BibliotecaBrino.git|Contributed|Brino
+https://github.com/kcl93/muCom.git|Contributed|muCom
