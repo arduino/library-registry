@@ -3008,3 +3008,4 @@ https://github.com/kcl93/muCom.git|Contributed|muCom
 https://github.com/drug123/T67XX.git|Contributed|Telaire T6700 CO2 Sensor Module Library
 https://github.com/levosos/Controlino.git|Contributed|Controlino
 https://github.com/ThingPulse/XPT2046_Touchscreen.git|Contributed|ThingPulse XPT2046 Touch
+https://github.com/stm32duino/X-NUCLEO-S2915A1.git|Contributed|STM32duino X-NUCLEO-S2915A1
