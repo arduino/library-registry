@@ -2993,3 +2993,4 @@ https://github.com/Seithan/EasyNextionLibrary.git|Contributed|Easy Nextion Libra
 https://github.com/arkhipenko/EspBootstrap.git|Contributed|EspBootstrap
 https://github.com/marcmerlin/Framebuffer_GFX.git|Contributed|Framebuffer GFX
 https://github.com/marcmerlin/FastLED_NeoMatrix.git|Contributed|FastLED NeoMatrix
+https://github.com/marcmerlin/SmartMatrix_GFX.git|Contributed|SmartMatrix GFX
