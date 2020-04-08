@@ -3000,3 +3000,4 @@ https://github.com/marcmerlin/FastLED_RPIRGBPanel_GFX.git|Contributed|FastLED_RP
 https://github.com/107-systems/107-Arduino-BMP388.git|Contributed|107-Arduino-BMP388
 https://github.com/adafruit/Adafruit_LvGL_Glue.git|Contributed|Adafruit LittlevGL Glue Library
 https://github.com/RobTillaart/DAC8554.git|Contributed|DAC8554
+https://github.com/RobTillaart/DAC8552.git|Contributed|DAC8552
