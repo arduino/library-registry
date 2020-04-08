@@ -2988,3 +2988,4 @@ https://github.com/RobTillaart/avrheap.git|Contributed|AvrHeap
 https://github.com/khoih-prog/WiFiNINA_Generic.git|Contributed|WiFiNINA_Generic
 https://github.com/dleval/STLED316S.git|Contributed|STLED316S
 https://gitlab.com/Ama_De/as5200l-arduino.git|Contributed|AS5200L
+https://github.com/khoih-prog/Blynk_WiFiNINA_WM.git|Contributed|Blynk_WiFiNINA_WM
