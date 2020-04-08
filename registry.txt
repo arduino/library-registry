@@ -2958,7 +2958,6 @@ https://github.com/HendrikVE/ArduinoDFR0554.git|Contributed|DFR0554
 https://github.com/RobTillaart/AsyncAnalog.git|Contributed|AsyncAnalog
 https://github.com/samverstraete/TimerFour.git|Contributed|TimerFour32u4
 https://github.com/RobTillaart/Cozir.git|Contributed|Cozir
-https://github.com/DBSStore/DBS_AVRIII.git|Contributed|DBS-AVRIII
 https://github.com/pstolarz/CoopThreads.git|Contributed|CoopThreads
 https://github.com/sparkfun/SparkFun_RV-8803_Arduino_Library.git|Contributed|SparkFun Qwiic RTC RV8803 Arduino Library
 https://github.com/ai-techsystems/arduino.git|Contributed|deepC
@@ -3013,3 +3012,4 @@ https://github.com/stm32duino/LSM6DSR.git|Contributed|STM32duino LSM6DSR
 https://github.com/stm32duino/ASM330LHH.git|Contributed|STM32duino ASM330LHH
 https://github.com/elpinjo/CumulocityClient.git|Contributed|Cumulocity IoT client
 https://github.com/DaleGia/ESPStringTemplate.git|Contributed|ESPStringTemplate
+https://github.com/DBSStore/DBS_Lib.git|Contributed|DBS-Lib
