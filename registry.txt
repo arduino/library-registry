@@ -3018,3 +3018,4 @@ https://github.com/HomeDing/HomeDing.git|Contributed|HomeDing
 https://github.com/Yurik72/ESPHap.git|Contributed|ESPHap
 https://github.com/kosme/flex_DST.git|Contributed|flex_DST
 https://github.com/antoinepetty/RMCS-220X-Control.git|Contributed|RMCS-220X
+https://github.com/RobTillaart/DHT12.git|Contributed|DHT12
