@@ -3024,3 +3024,4 @@ https://github.com/fhessel/esp32_https_server_compat.git|Contributed|esp32_https
 https://github.com/solidsnake745/MIDI_Device_Controller.git|Contributed|MIDI Device Controller
 https://github.com/madhephaestus/ESP32AnalogRead.git|Contributed|ESP32AnalogRead
 https://github.com/askuric/Arduino-FOC.git|Contributed|Simple FOC
+https://github.com/RobTillaart/DS18B20.git|Contributed|DS18B20_RT
