@@ -3016,3 +3016,4 @@ https://github.com/DBSStore/DBS_Lib.git|Contributed|DBS-Lib
 https://github.com/leaphy-robotics/leaphy-extensions-original.git|Contributed|Leaphy Original Extension
 https://github.com/HomeDing/HomeDing.git|Contributed|HomeDing
 https://github.com/Yurik72/ESPHap.git|Contributed|ESPHap
+https://github.com/kosme/flex_DST.git|Contributed|flex_DST
