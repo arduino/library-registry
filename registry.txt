@@ -3027,3 +3027,4 @@ https://github.com/askuric/Arduino-FOC.git|Contributed|Simple FOC
 https://github.com/RobTillaart/DS18B20.git|Contributed|DS18B20_RT
 https://github.com/DhrBaksteen/ArduinoPianoBoard.git|Contributed|Piano Board
 https://github.com/ademuri/esp-simple-web-dashboard.git|Contributed|simple-web-dashboard
+https://github.com/arkhipenko/Dictionary.git|Contributed|Dictionary
