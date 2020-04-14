@@ -3022,3 +3022,4 @@ https://github.com/RobTillaart/DHT12.git|Contributed|DHT12
 https://github.com/RobTillaart/DS28CM00.git|Contributed|DS28CM00
 https://github.com/fhessel/esp32_https_server_compat.git|Contributed|esp32_https_server_compat
 https://github.com/solidsnake745/MIDI_Device_Controller.git|Contributed|MIDI Device Controller
+https://github.com/madhephaestus/ESP32AnalogRead.git|Contributed|ESP32AnalogRead
