@@ -3013,3 +3013,4 @@ https://github.com/stm32duino/ASM330LHH.git|Contributed|STM32duino ASM330LHH
 https://github.com/elpinjo/CumulocityClient.git|Contributed|Cumulocity IoT client
 https://github.com/DaleGia/ESPStringTemplate.git|Contributed|ESPStringTemplate
 https://github.com/DBSStore/DBS_Lib.git|Contributed|DBS-Lib
+https://github.com/leaphy-robotics/leaphy-extensions-original.git|Contributed|Leaphy Original Extension
