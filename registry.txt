@@ -3014,3 +3014,4 @@ https://github.com/elpinjo/CumulocityClient.git|Contributed|Cumulocity IoT clien
 https://github.com/DaleGia/ESPStringTemplate.git|Contributed|ESPStringTemplate
 https://github.com/DBSStore/DBS_Lib.git|Contributed|DBS-Lib
 https://github.com/leaphy-robotics/leaphy-extensions-original.git|Contributed|Leaphy Original Extension
+https://github.com/HomeDing/HomeDing.git|Contributed|HomeDing
