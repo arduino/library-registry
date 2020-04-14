@@ -3032,3 +3032,4 @@ https://github.com/RobTillaart/MultiMap.git|Contributed|MultiMap
 https://github.com/RobTillaart/DHTNew.git|Contributed|DHTNEW
 https://github.com/gicking/LIN_master_Arduino.git|Contributed|LIN master emulation with background operation
 https://github.com/RobTillaart/DistanceTable.git|Contributed|DistanceTable
+https://github.com/Nargott/birdhouse_sdk.git|Contributed|BirdhouseSDK
