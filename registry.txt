@@ -3034,3 +3034,4 @@ https://github.com/RobTillaart/DistanceTable.git|Contributed|DistanceTable
 https://github.com/Nargott/birdhouse_sdk.git|Contributed|BirdhouseSDK
 https://github.com/davetcc/LiquidCrystalIO.git|Contributed|LiquidCrystalIO
 https://github.com/RobTillaart/FastShiftIn.git|Contributed|FastShiftIn
+https://github.com/RobTillaart/FastShiftOut.git|Contributed|FastShiftOut
