@@ -3033,3 +3033,4 @@ https://github.com/gicking/LIN_master_Arduino.git|Contributed|LIN master emulati
 https://github.com/RobTillaart/DistanceTable.git|Contributed|DistanceTable
 https://github.com/Nargott/birdhouse_sdk.git|Contributed|BirdhouseSDK
 https://github.com/davetcc/LiquidCrystalIO.git|Contributed|LiquidCrystalIO
+https://github.com/RobTillaart/FastShiftIn.git|Contributed|FastShiftIn
