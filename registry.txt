@@ -3037,3 +3037,4 @@ https://github.com/RobTillaart/FastShiftIn.git|Contributed|FastShiftIn
 https://github.com/RobTillaart/FastShiftOut.git|Contributed|FastShiftOut
 https://github.com/Asyasyarif/RFID-Spacecat.git|Contributed|Spacecat
 https://github.com/TaraHoleInIt/Subpixie.git|Contributed|Subpixie
+https://github.com/Robotechnic/DigiKeyboardFr.git|Contributed|DigiKeyboardFr
