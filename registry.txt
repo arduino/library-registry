@@ -3041,3 +3041,4 @@ https://github.com/Robotechnic/DigiKeyboardFr.git|Contributed|DigiKeyboardFr
 https://github.com/khoih-prog/DoubleResetDetector_Generic.git|Contributed|DoubleResetDetector_Generic
 https://github.com/adrien-legrand/as5x47.git|Contributed|AS5X47
 https://github.com/smaffer/espvgax2.git|Contributed|ESPVGAX2
+https://github.com/hpwit/SID6581.git|Contributed|SID6581
