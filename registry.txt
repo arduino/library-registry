@@ -3046,3 +3046,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library.git|Co
 https://github.com/JHershey69/OpenWeatherOneCall.git|Contributed|OpenWeatherOneCall
 https://github.com/bremme/arduino-tm1637.git|Contributed|SevenSegmentTM1637
 https://github.com/Juerd/esp32-WiFiSettings.git|Contributed|esp32-WiFiSettings
+https://github.com/RobTillaart/RunningMedian.git|Contributed|RunningMedian
