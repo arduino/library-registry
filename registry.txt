@@ -3043,3 +3043,4 @@ https://github.com/adrien-legrand/as5x47.git|Contributed|AS5X47
 https://github.com/smaffer/espvgax2.git|Contributed|ESPVGAX2
 https://github.com/hpwit/SID6581.git|Contributed|SID6581
 https://github.com/sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library.git|Contributed|SparkFun Qwiic Humidity AHT20
+https://github.com/JHershey69/OpenWeatherOneCall.git|Contributed|OpenWeatherOneCall
