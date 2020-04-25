@@ -3055,3 +3055,4 @@ https://github.com/hectorespert/SolarCharger.git|Contributed|SolarCharger
 https://github.com/drewfish/arduino-FourRegs.git|Contributed|FourRegs
 https://github.com/marhar/ArrbotMonitor.git|Contributed|ArrbotMonitor
 https://github.com/AloriumTechnology/XLR8PID.git|Contributed|XLR8PID
+https://github.com/JemRF/max7219.git|Contributed|max7219
