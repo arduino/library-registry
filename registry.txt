@@ -3053,3 +3053,4 @@ https://github.com/ewpa/LibSSH-ESP32.git|Contributed|LibSSH-ESP32
 https://github.com/poelstra/arduino-multi-button.git|Contributed|MultiButton
 https://github.com/hectorespert/SolarCharger.git|Contributed|SolarCharger
 https://github.com/drewfish/arduino-FourRegs.git|Contributed|FourRegs
+https://github.com/marhar/ArrbotMonitor.git|Contributed|ArrbotMonitor
