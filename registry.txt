@@ -2411,7 +2411,7 @@ https://github.com/adafruit/Adafruit_Arcada_GifDecoder.git|Contributed|Adafruit 
 https://github.com/haimoz/SoftFilters.git|Contributed|SoftFilters
 https://github.com/drewfish/arduino-TrimWright.git|Contributed|TrimWright
 https://github.com/gavinlyonsrepo/TM1638plus.git|Contributed|TM1638plus
-https://github.com/getlarge/arduino-device-mqtt.git|Contributed|AloesDevice
+https://github.com/getlarge/arduino-device.git|Contributed|AloesDevice
 https://github.com/adafruit/Adafruit_DS3502.git|Contributed|Adafruit DS3502
 https://github.com/GreenPonik/DFRobot_ESP_EC_BY_GREENPONIK.git|Contributed|DFRobot_ESP_EC_BY_GREENPONIK
 https://github.com/GreenPonik/DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK.git|Contributed|DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK
