@@ -3067,3 +3067,4 @@ https://github.com/RobTillaart/PrintString.git|Contributed|PrintString
 https://github.com/RobTillaart/PrintSize.git|Contributed|PrintSize
 https://github.com/RobTillaart/PrintCharArray.git|Contributed|PrintCharArray
 https://github.com/asukiaaa/utils_asukiaaa.git|Contributed|utils_asukiaaa
+https://github.com/PowerBroker2/SdTerminal.git|Contributed|SdTerminal
