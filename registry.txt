@@ -3060,3 +3060,4 @@ https://github.com/DaleGia/ESPFlash.git|Contributed|ESPFlash
 https://github.com/lathoub/Arduino-ipMIDI.git|Contributed|ipMIDI
 https://github.com/almavios/almavios-lit-mqtt.git|Contributed|AlmaviosLitMqtt
 https://github.com/CelliesProjects/wm8978-esp32.git|Contributed|wm8978-esp32
+https://github.com/RobTillaart/SET.git|Contributed|SET
