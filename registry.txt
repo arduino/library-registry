@@ -3072,3 +3072,4 @@ https://github.com/RoCorbera/BlueVGA.git|Contributed|BlueVGA Library for BluePil
 https://github.com/RobTillaart/ANSI.git|Contributed|ANSI
 https://github.com/levosos/Midier.git|Contributed|Midier
 https://github.com/melopero/Melopero_AMG8833_Arduino_Library.git|Contributed|Melopero AMG8833
+https://github.com/koendv/STM32duino-Semihosting.git|Contributed|STM32duino-Semihosting
