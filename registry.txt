@@ -2074,7 +2074,6 @@ https://github.com/hideakitai/Filters.git|Contributed|Filters
 https://github.com/hideakitai/Convert.git|Contributed|Convert
 https://github.com/hideakitai/Debug.git|Contributed|Debug
 https://github.com/hideakitai/I2CExtension.git|Contributed|I2CExtension
-https://github.com/hideakitai/RingBuffer.git|Contributed|RingBuffers
 https://github.com/hideakitai/VectorXf.git|Contributed|VectorXf
 https://github.com/hideakitai/SPIExtension.git|Contributed|SPIExtension
 https://github.com/flyingeinstein/Restfully.git|Contributed|Restfully
@@ -3075,3 +3074,4 @@ https://github.com/melopero/Melopero_AMG8833_Arduino_Library.git|Contributed|Mel
 https://github.com/koendv/STM32duino-Semihosting.git|Contributed|STM32duino-Semihosting
 https://github.com/RobTillaart/Fraction.git|Contributed|Fraction
 https://github.com/RobTillaart/XMLWriter.git|Contributed|XMLWriter
+https://github.com/hideakitai/ArxContainer.git|Contributed|ArxContainer
