@@ -3078,3 +3078,4 @@ https://github.com/hideakitai/ArxContainer.git|Contributed|ArxContainer
 https://github.com/DanielSaromo/PyDuinoBridge.git|Contributed|PyDuinoBridge
 https://github.com/Nospampls/SchedTask.git|Contributed|SchedTask
 https://gitlab.com/virchow-personal/arduino-ledflasher.git|Contributed|ledflasher
+https://github.com/madhephaestus/lx16a-servo.git|Contributed|lx16a-servo
