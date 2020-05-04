@@ -3076,3 +3076,4 @@ https://github.com/RobTillaart/Fraction.git|Contributed|Fraction
 https://github.com/RobTillaart/XMLWriter.git|Contributed|XMLWriter
 https://github.com/hideakitai/ArxContainer.git|Contributed|ArxContainer
 https://github.com/DanielSaromo/PyDuinoBridge.git|Contributed|PyDuinoBridge
+https://github.com/Nospampls/SchedTask.git|Contributed|SchedTask
