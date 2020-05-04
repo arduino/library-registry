@@ -3066,3 +3066,4 @@ https://github.com/hideakitai/MsgPack.git|Contributed|MsgPack
 https://github.com/RobTillaart/PrintString.git|Contributed|PrintString
 https://github.com/RobTillaart/PrintSize.git|Contributed|PrintSize
 https://github.com/RobTillaart/PrintCharArray.git|Contributed|PrintCharArray
+https://github.com/asukiaaa/utils_asukiaaa.git|Contributed|utils_asukiaaa
