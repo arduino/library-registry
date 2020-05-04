@@ -3064,3 +3064,4 @@ https://github.com/RobTillaart/SET.git|Contributed|SET
 https://github.com/RobTillaart/FRAM_I2C.git|Contributed|FRAM_I2C
 https://github.com/hideakitai/MsgPack.git|Contributed|MsgPack
 https://github.com/RobTillaart/PrintString.git|Contributed|PrintString
+https://github.com/RobTillaart/PrintSize.git|Contributed|PrintSize
