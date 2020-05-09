@@ -3092,3 +3092,4 @@ https://github.com/closedcube/ClosedCube_SHTC3_Arduino.git|Contributed|ClosedCub
 https://github.com/andydoro/DST_RTC.git|Contributed|DST RTC
 https://github.com/casanovg/Nb_Micro.git|Contributed|NbMicro
 https://github.com/casanovg/Nb_TimonelTwiM.git|Contributed|TimonelTwiM
+https://github.com/casanovg/Nb_TwiBus.git|Contributed|TwiBus
