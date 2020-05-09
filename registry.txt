@@ -3088,3 +3088,4 @@ https://github.com/Protocentral/protocentral_healthypi4_arduino.git|Contributed|
 https://github.com/hideakitai/ArxTypeTraits.git|Contributed|ArxTypeTraits
 https://github.com/hideakitai/ArxSmartPtr.git|Contributed|ArxSmartPtr
 https://github.com/allthingstalk/arduino-ltem-sdk.git|Contributed|AllThingsTalk LTE-M SDK
+https://github.com/closedcube/ClosedCube_SHTC3_Arduino.git|Contributed|ClosedCube SHTC3
