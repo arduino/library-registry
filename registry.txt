@@ -3099,3 +3099,4 @@ https://github.com/tanakamasayuki/LinxESP32.git|Contributed|LinxESP32
 https://github.com/saghonfly/SimpleEspNowConnection.git|Contributed|SimpleEspNowConnection
 https://github.com/CelliesProjects/moonPhase-esp32.git|Contributed|MoonPhase
 https://github.com/davetcc/tcMenuLib.git|Contributed|tcMenu
+https://github.com/ostaquet/Arduino-MQ131-driver.git|Contributed|MQ131 gas sensor
