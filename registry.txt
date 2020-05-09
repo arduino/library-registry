@@ -3094,3 +3094,4 @@ https://github.com/casanovg/Nb_Micro.git|Contributed|NbMicro
 https://github.com/casanovg/Nb_TimonelTwiM.git|Contributed|TimonelTwiM
 https://github.com/casanovg/Nb_TwiBus.git|Contributed|TwiBus
 https://github.com/casanovg/nb-twi-cmd.git|Contributed|nb-twi-cmd
+https://github.com/jmparatte/jm_LCM2004A_I2C.git|Contributed|jm_LCM2004A_I2C
