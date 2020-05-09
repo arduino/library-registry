@@ -3080,3 +3080,4 @@ https://github.com/Nospampls/SchedTask.git|Contributed|SchedTask
 https://gitlab.com/virchow-personal/arduino-ledflasher.git|Contributed|ledflasher
 https://github.com/madhephaestus/lx16a-servo.git|Contributed|lx16a-servo
 https://github.com/davidepalladino/Button-Arduino.git|Contributed|Button-Arduino
+https://github.com/orbitalair/Rtc_Pcf8563.git|Contributed|Rtc_Pcf8563
