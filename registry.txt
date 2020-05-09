@@ -3093,3 +3093,4 @@ https://github.com/andydoro/DST_RTC.git|Contributed|DST RTC
 https://github.com/casanovg/Nb_Micro.git|Contributed|NbMicro
 https://github.com/casanovg/Nb_TimonelTwiM.git|Contributed|TimonelTwiM
 https://github.com/casanovg/Nb_TwiBus.git|Contributed|TwiBus
+https://github.com/casanovg/nb-twi-cmd.git|Contributed|nb-twi-cmd
