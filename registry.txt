@@ -3082,3 +3082,4 @@ https://github.com/madhephaestus/lx16a-servo.git|Contributed|lx16a-servo
 https://github.com/davidepalladino/Button-Arduino.git|Contributed|Button-Arduino
 https://github.com/orbitalair/Rtc_Pcf8563.git|Contributed|Rtc_Pcf8563
 https://github.com/sebaJoSt/BlaeckSerial.git|Contributed|BlaeckSerial
+https://github.com/RobTillaart/StopWatch_RT.git|Contributed|StopWatch_RT
