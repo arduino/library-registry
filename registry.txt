@@ -3087,3 +3087,4 @@ https://github.com/RobTillaart/Troolean.git|Contributed|Troolean
 https://github.com/Protocentral/protocentral_healthypi4_arduino.git|Contributed|ProtoCentral HealthyPi v4 Library
 https://github.com/hideakitai/ArxTypeTraits.git|Contributed|ArxTypeTraits
 https://github.com/hideakitai/ArxSmartPtr.git|Contributed|ArxSmartPtr
+https://github.com/allthingstalk/arduino-ltem-sdk.git|Contributed|AllThingsTalk LTE-M SDK
