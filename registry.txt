@@ -3085,3 +3085,4 @@ https://github.com/sebaJoSt/BlaeckSerial.git|Contributed|BlaeckSerial
 https://github.com/RobTillaart/StopWatch_RT.git|Contributed|StopWatch_RT
 https://github.com/RobTillaart/Troolean.git|Contributed|Troolean
 https://github.com/Protocentral/protocentral_healthypi4_arduino.git|Contributed|ProtoCentral HealthyPi v4 Library
+https://github.com/hideakitai/ArxTypeTraits.git|Contributed|ArxTypeTraits
