@@ -3098,3 +3098,4 @@ https://github.com/jmparatte/jm_LCM2004A_I2C.git|Contributed|jm_LCM2004A_I2C
 https://github.com/tanakamasayuki/LinxESP32.git|Contributed|LinxESP32
 https://github.com/saghonfly/SimpleEspNowConnection.git|Contributed|SimpleEspNowConnection
 https://github.com/CelliesProjects/moonPhase-esp32.git|Contributed|MoonPhase
+https://github.com/davetcc/tcMenuLib.git|Contributed|tcMenu
