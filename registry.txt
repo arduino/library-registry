@@ -3089,3 +3089,4 @@ https://github.com/hideakitai/ArxTypeTraits.git|Contributed|ArxTypeTraits
 https://github.com/hideakitai/ArxSmartPtr.git|Contributed|ArxSmartPtr
 https://github.com/allthingstalk/arduino-ltem-sdk.git|Contributed|AllThingsTalk LTE-M SDK
 https://github.com/closedcube/ClosedCube_SHTC3_Arduino.git|Contributed|ClosedCube SHTC3
+https://github.com/andydoro/DST_RTC.git|Contributed|DST RTC
