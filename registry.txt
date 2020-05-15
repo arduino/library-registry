@@ -3105,3 +3105,4 @@ https://github.com/adafruit/Adafruit_LIS331.git|Contributed|Adafruit LIS331
 https://github.com/RobTillaart/Prandom.git|Contributed|Prandom
 https://github.com/mjackdk/AmbientCO2.git|Contributed|AmbientCO2
 https://github.com/adafruit/Adafruit_Protomatter.git|Contributed|Adafruit Protomatter
+https://github.com/morcibacsi/arduino_tss463_van.git|Contributed|Atmel TSS463C VAN bus Datalink Controller library
