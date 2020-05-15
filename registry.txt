@@ -3108,3 +3108,4 @@ https://github.com/adafruit/Adafruit_Protomatter.git|Contributed|Adafruit Protom
 https://github.com/morcibacsi/arduino_tss463_van.git|Contributed|Atmel TSS463C VAN bus Datalink Controller library
 https://github.com/morcibacsi/esp32_rmt_van_rx.git|Contributed|ESP32 RMT Peripheral VAN bus reader library
 https://github.com/RobTillaart/Statistic.git|Contributed|Statistic
+https://github.com/distrakt/OmEspHelpers.git|Contributed|OmEspHelpers
