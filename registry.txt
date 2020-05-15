@@ -2072,7 +2072,6 @@ https://github.com/hideakitai/Debouncer.git|Contributed|Debouncer
 https://github.com/hideakitai/CRCx.git|Contributed|CRCx
 https://github.com/hideakitai/Filters.git|Contributed|Filters
 https://github.com/hideakitai/Convert.git|Contributed|Convert
-https://github.com/hideakitai/Debug.git|Contributed|Debug
 https://github.com/hideakitai/I2CExtension.git|Contributed|I2CExtension
 https://github.com/hideakitai/VectorXf.git|Contributed|VectorXf
 https://github.com/hideakitai/SPIExtension.git|Contributed|SPIExtension
@@ -3111,3 +3110,4 @@ https://github.com/RobTillaart/SHT31.git|Contributed|SHT31
 https://github.com/BrandeisMakerLab/Arduino_Education.git|Contributed|ElectronicsEducation
 https://github.com/Fuzzer11/SDconfig.git|Contributed|SDConfig
 https://github.com/Juerd/ESP-WiFiSettings.git|Contributed|ESP-WiFiSettings
+https://github.com/hideakitai/Debug.git|Contributed|DebugLog
