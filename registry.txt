@@ -3118,3 +3118,4 @@ https://github.com/Electro707/Simple-LED-Matrix-Library.git|Contributed|Simple L
 https://github.com/kousheekc/Kinematics.git|Contributed|Kinematics
 https://github.com/koendv/SerialWireOutput.git|Contributed|SerialWireOutput
 https://github.com/PalladinoMarco/AlignedJoystick.git|Contributed|AlignedJoy
+https://github.com/mertwhocodes/mwc_stepper.git|Contributed|mwc_stepper
