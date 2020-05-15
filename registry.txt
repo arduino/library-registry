@@ -3114,3 +3114,4 @@ https://github.com/hideakitai/Debug.git|Contributed|DebugLog
 https://github.com/fabiuz7/rtc-memory-esp8266.git|Contributed|RTCMemory
 https://github.com/arbv/avr-context.git|Contributed|AVR-context
 https://github.com/hideakitai/MsgPacketizer.git|Contributed|MsgPacketizer
+https://github.com/Electro707/Simple-LED-Matrix-Library.git|Contributed|Simple LED Matrix
