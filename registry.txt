@@ -2448,7 +2448,6 @@ https://github.com/EmotiBit/EmotiBit_FW_FeatherWing.git|Contributed|EmotiBit Fea
 https://github.com/EmotiBit/BMI160-Arduino.git|Contributed|EmotiBit BMI160
 https://github.com/cmaglie/UselessLib.git|Contributed|UselessLib
 https://github.com/OpenFTC/HiTechnic-Arduino.git|Contributed|HiTechnic-Arduino
-https://github.com/jsmith2021Brandeis/ArduinoEducation.git|Contributed|ElectronicsEducation
 https://github.com/bipropellant/bipropellant-hoverboard-api.git|Contributed|HoverboardAPI
 https://github.com/luciansabo/GP2YDustSensor.git|Contributed|Sharp GP2Y Dust Sensor
 https://github.com/TomasRoj/OctopusLab-Library.git|Contributed|OctopusLab-Library
@@ -3110,3 +3109,4 @@ https://github.com/morcibacsi/esp32_rmt_van_rx.git|Contributed|ESP32 RMT Periphe
 https://github.com/RobTillaart/Statistic.git|Contributed|Statistic
 https://github.com/distrakt/OmEspHelpers.git|Contributed|OmEspHelpers
 https://github.com/RobTillaart/SHT31.git|Contributed|SHT31
+https://github.com/BrandeisMakerLab/Arduino_Education.git|Contributed|ElectronicsEducation
