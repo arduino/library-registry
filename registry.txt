@@ -2832,7 +2832,6 @@ https://github.com/barisdinc/LibAPRS_Tracker.git|Contributed|LibAPRS_Tracker
 https://github.com/rstephan/ArtnetWifi.git|Contributed|ArtnetWifi
 https://github.com/Suraj151/esp8266-framework.git|Contributed|esp8266-framework
 https://github.com/jspark311/CppPotpourri.git|Contributed|CppPotpourri
-https://github.com/PaulZC/Qwiic_PHT_MS8607_Library.git|Contributed|Qwiic PHT MS8607 Library
 https://github.com/s-light/slight_Fade.git|Contributed|slight_Fade
 https://github.com/s-light/slight_ButtonInput.git|Contributed|slight_ButtonInput
 https://github.com/s-light/slight_RotaryEncoder.git|Contributed|slight_RotaryEncoder
@@ -3100,3 +3099,4 @@ https://github.com/saghonfly/SimpleEspNowConnection.git|Contributed|SimpleEspNow
 https://github.com/CelliesProjects/moonPhase-esp32.git|Contributed|MoonPhase
 https://github.com/davetcc/tcMenuLib.git|Contributed|tcMenu
 https://github.com/ostaquet/Arduino-MQ131-driver.git|Contributed|MQ131 gas sensor
+https://github.com/sparkfun/SparkFun_PHT_MS8607_Arduino_Library.git|Contributed|SparkFun PHT MS8607 Arduino Library
