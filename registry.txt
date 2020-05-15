@@ -3110,3 +3110,4 @@ https://github.com/RobTillaart/Statistic.git|Contributed|Statistic
 https://github.com/distrakt/OmEspHelpers.git|Contributed|OmEspHelpers
 https://github.com/RobTillaart/SHT31.git|Contributed|SHT31
 https://github.com/BrandeisMakerLab/Arduino_Education.git|Contributed|ElectronicsEducation
+https://github.com/Fuzzer11/SDconfig.git|Contributed|SDConfig
