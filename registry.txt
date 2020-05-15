@@ -3112,3 +3112,4 @@ https://github.com/Fuzzer11/SDconfig.git|Contributed|SDConfig
 https://github.com/Juerd/ESP-WiFiSettings.git|Contributed|ESP-WiFiSettings
 https://github.com/hideakitai/Debug.git|Contributed|DebugLog
 https://github.com/fabiuz7/rtc-memory-esp8266.git|Contributed|RTCMemory
+https://github.com/arbv/avr-context.git|Contributed|AVR-context
