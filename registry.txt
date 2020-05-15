@@ -3111,3 +3111,4 @@ https://github.com/BrandeisMakerLab/Arduino_Education.git|Contributed|Electronic
 https://github.com/Fuzzer11/SDconfig.git|Contributed|SDConfig
 https://github.com/Juerd/ESP-WiFiSettings.git|Contributed|ESP-WiFiSettings
 https://github.com/hideakitai/Debug.git|Contributed|DebugLog
+https://github.com/fabiuz7/rtc-memory-esp8266.git|Contributed|RTCMemory
