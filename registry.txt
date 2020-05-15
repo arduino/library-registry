@@ -3117,3 +3117,4 @@ https://github.com/hideakitai/MsgPacketizer.git|Contributed|MsgPacketizer
 https://github.com/Electro707/Simple-LED-Matrix-Library.git|Contributed|Simple LED Matrix
 https://github.com/kousheekc/Kinematics.git|Contributed|Kinematics
 https://github.com/koendv/SerialWireOutput.git|Contributed|SerialWireOutput
+https://github.com/PalladinoMarco/AlignedJoystick.git|Contributed|AlignedJoy
