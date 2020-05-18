@@ -3126,3 +3126,4 @@ https://github.com/wroob-io/arduino-wroobimp.git|Contributed|WroobImp
 https://github.com/SvenRosvall/SignalControl.git|Contributed|SignalControl
 https://github.com/sparkfun/SparkFun_I2C_Mux_Arduino_Library.git|Contributed|SparkFun I2C Mux Arduino Library
 https://github.com/lovyan03/LovyanGFX.git|Contributed|LovyanGFX
+https://github.com/MAINAKMONDAL98/MSMPLOTTER.git|Contributed|MSMPLOTTER
