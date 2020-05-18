@@ -2936,7 +2936,6 @@ https://github.com/adafruit/Adafruit_DS1841.git|Contributed|Adafruit DS1841
 https://github.com/qubitro/mqtt-client-arduino.git|Contributed|QubitroMqttClient
 https://github.com/CircuitsFun/CircuitsFunProjects-Library-for-Arduino.git|Contributed|CircuitsFunProjects
 https://github.com/RobTillaart/AM232X.git|Contributed|AM232X
-https://github.com/PaulZC/IridiumSBD.git|Contributed|IridiumSBDi2c
 https://github.com/porrey/EEPROM-Storage.git|Contributed|EEPROM-Storage
 https://github.com/RobTillaart/AnalogPin.git|Contributed|AnalogPin
 https://github.com/khoih-prog/WiFiWebServer.git|Contributed|WiFiWebServer
@@ -3134,3 +3133,4 @@ https://github.com/RobTillaart/LineFormatter.git|Contributed|LineFormatter
 https://github.com/sblantipodi/arduino_bootstrapper.git|Contributed|Bootstrapper
 https://github.com/adameat/MaximWire.git|Contributed|MaximWire
 https://github.com/cesanta/mjson.git|Contributed|mjson
+https://github.com/sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library.git|Contributed|IridiumSBDi2c
