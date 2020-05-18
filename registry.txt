@@ -3128,3 +3128,4 @@ https://github.com/sparkfun/SparkFun_I2C_Mux_Arduino_Library.git|Contributed|Spa
 https://github.com/lovyan03/LovyanGFX.git|Contributed|LovyanGFX
 https://github.com/MAINAKMONDAL98/MSMPLOTTER.git|Contributed|MSMPLOTTER
 https://github.com/emelianov/modbus-esp8266.git|Contributed|modbus-esp8266
+https://github.com/RobTillaart/PulsePattern.git|Contributed|PulsePattern
