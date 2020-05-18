@@ -3133,3 +3133,4 @@ https://github.com/wollewald/MCP23017_WE.git|Contributed|MCP23017
 https://github.com/RobTillaart/LineFormatter.git|Contributed|LineFormatter
 https://github.com/sblantipodi/arduino_bootstrapper.git|Contributed|Bootstrapper
 https://github.com/adameat/MaximWire.git|Contributed|MaximWire
+https://github.com/cesanta/mjson.git|Contributed|mjson
