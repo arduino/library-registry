@@ -3124,3 +3124,4 @@ https://github.com/RobTillaart/Correlation.git|Contributed|Correlation
 https://github.com/Paraphraser/NodeRedTime.git|Contributed|NodeRedTime
 https://github.com/wroob-io/arduino-wroobimp.git|Contributed|WroobImp
 https://github.com/SvenRosvall/SignalControl.git|Contributed|SignalControl
+https://github.com/sparkfun/SparkFun_I2C_Mux_Arduino_Library.git|Contributed|SparkFun I2C Mux Arduino Library
