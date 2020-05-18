@@ -3130,3 +3130,4 @@ https://github.com/MAINAKMONDAL98/MSMPLOTTER.git|Contributed|MSMPLOTTER
 https://github.com/emelianov/modbus-esp8266.git|Contributed|modbus-esp8266
 https://github.com/RobTillaart/PulsePattern.git|Contributed|PulsePattern
 https://github.com/wollewald/MCP23017_WE.git|Contributed|MCP23017
+https://github.com/RobTillaart/LineFormatter.git|Contributed|LineFormatter
