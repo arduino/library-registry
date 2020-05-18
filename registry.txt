@@ -3123,3 +3123,4 @@ https://github.com/sqfmi/HPDL1414-74HC595-Arduino.git|Contributed|HPDL1414-74HC5
 https://github.com/RobTillaart/Correlation.git|Contributed|Correlation
 https://github.com/Paraphraser/NodeRedTime.git|Contributed|NodeRedTime
 https://github.com/wroob-io/arduino-wroobimp.git|Contributed|WroobImp
+https://github.com/SvenRosvall/SignalControl.git|Contributed|SignalControl
