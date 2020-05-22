@@ -3141,3 +3141,4 @@ https://github.com/wollewald/SI1145_WE.git|Contributed|SI1145_WE
 https://github.com/wollewald/AP3216_WE.git|Contributed|AP3216_WE
 https://github.com/wollewald/BH1750_WE.git|Contributed|BH1750_WE
 https://github.com/wollewald/VL6180X_WE.git|Contributed|VL6180X_WE
+https://github.com/algoduino/algoduino.git|Contributed|Algoduino
