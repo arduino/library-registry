@@ -2670,7 +2670,6 @@ https://github.com/matthew-dickson-epic/TimeInterrupt.git|Contributed|TimeInterr
 https://github.com/PowerBroker2/ELMduino.git|Contributed|ELMDuino
 https://github.com/ArduinoGetStarted/button.git|Contributed|ezButton
 https://github.com/sqfmi/Watchy.git|Contributed|Watchy
-https://github.com/adafruit/Adafruit_SSD1305_Library.git|Contributed|Adafruit SSD1305
 https://github.com/oberonspace/krypton.git|Contributed|Krypton
 https://github.com/khoih-prog/TimerInterrupt.git|Contributed|TimerInterrupt
 https://github.com/andriitishchenko/HardwareButton.git|Contributed|Hardware Buttons
@@ -3142,3 +3141,4 @@ https://github.com/wollewald/AP3216_WE.git|Contributed|AP3216_WE
 https://github.com/wollewald/BH1750_WE.git|Contributed|BH1750_WE
 https://github.com/wollewald/VL6180X_WE.git|Contributed|VL6180X_WE
 https://github.com/algoduino/algoduino.git|Contributed|Algoduino
+https://github.com/adafruit/Adafruit_SSD1305.git|Contributed|Adafruit SSD1305
