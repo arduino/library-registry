@@ -1307,7 +1307,6 @@ https://github.com/PulseRain/M10Examples.git|Contributed|M10Examples
 https://bitbucket.org/geekfactory/gfbutton.git|Contributed|GFButton
 https://github.com/closedcube/ClosedCube_SHT31D_Arduino.git|Contributed|ClosedCube SHT31D
 https://github.com/r-downing/PersWiFiManager.git|Contributed|PersWiFiManager
-https://github.com/adafruit/Adafruit_MP3.git|Contributed|Adafruit_mp3
 https://gitlab.com/arduino-libraries/stens-timer.git|Contributed|StensTimer
 https://github.com/thomasfredericks/wemos_matrix_gfx.git|Contributed|Wemos Matrix Adafruit GFX
 https://github.com/adafruit/Adafruit_SGP30.git|Contributed|Adafruit SGP30 Sensor
@@ -3142,3 +3141,4 @@ https://github.com/wollewald/BH1750_WE.git|Contributed|BH1750_WE
 https://github.com/wollewald/VL6180X_WE.git|Contributed|VL6180X_WE
 https://github.com/algoduino/algoduino.git|Contributed|Algoduino
 https://github.com/adafruit/Adafruit_SSD1305.git|Contributed|Adafruit SSD1305
+https://github.com/adafruit/Adafruit_MP3.git|Contributed|Adafruit MP3
