@@ -3146,3 +3146,4 @@ https://github.com/AnyLeaf/ph-cpp.git|Contributed|anyleaf
 https://github.com/RobTillaart/PinOutGroup.git|Contributed|PinOutGroup
 https://github.com/shashikg/PixhawkArduinoMAVLink.git|Contributed|PixhawkArduinoMAVLink
 https://github.com/khoih-prog/WebSockets_Generic.git|Contributed|WebSockets_Generic
+https://github.com/Technickfreak/LoRa-payload-BKU.git|Contributed|LoRa-payload-BKU
