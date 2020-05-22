@@ -3135,3 +3135,4 @@ https://github.com/adameat/MaximWire.git|Contributed|MaximWire
 https://github.com/cesanta/mjson.git|Contributed|mjson
 https://github.com/sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library.git|Contributed|IridiumSBDi2c
 https://github.com/adafruit/Adafruit_PM25AQI.git|Contributed|Adafruit PM25 AQI Sensor
+https://gitlab.com/arduino23/ExtendedTouchEvent.git|Contributed|ExtendedTouchEvent
