@@ -3144,3 +3144,4 @@ https://github.com/adafruit/Adafruit_SSD1305.git|Contributed|Adafruit SSD1305
 https://github.com/adafruit/Adafruit_MP3.git|Contributed|Adafruit MP3
 https://github.com/AnyLeaf/ph-cpp.git|Contributed|anyleaf
 https://github.com/RobTillaart/PinOutGroup.git|Contributed|PinOutGroup
+https://github.com/shashikg/PixhawkArduinoMAVLink.git|Contributed|PixhawkArduinoMAVLink
