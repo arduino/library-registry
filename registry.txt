@@ -3138,3 +3138,4 @@ https://github.com/adafruit/Adafruit_PM25AQI.git|Contributed|Adafruit PM25 AQI S
 https://gitlab.com/arduino23/ExtendedTouchEvent.git|Contributed|ExtendedTouchEvent
 https://github.com/davidwhitney/snakelights.git|Contributed|snakelights
 https://github.com/wollewald/SI1145_WE.git|Contributed|SI1145_WE
+https://github.com/wollewald/AP3216_WE.git|Contributed|AP3216_WE
