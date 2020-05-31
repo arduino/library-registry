@@ -3152,3 +3152,4 @@ https://github.com/adafruit/Adafruit_AHTX0.git|Contributed|Adafruit AHTX0
 https://github.com/philj404/SimpleSerialShell.git|Contributed|SimpleSerialShell
 https://github.com/hunamizawa/ESPPerfectTime.git|Contributed|ESPPerfectTime
 https://github.com/pu2clr/AKC695X.git|Contributed|PU2CLR AKC695X
+https://github.com/cvmanjoo/RTC.git|Contributed|RTC
