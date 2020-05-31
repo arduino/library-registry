@@ -3150,3 +3150,4 @@ https://github.com/Technickfreak/LoRa-payload-BKU.git|Contributed|LoRa-payload-B
 https://github.com/ldab/KXTJ3-1057.git|Contributed|KXTJ3-1057
 https://github.com/adafruit/Adafruit_AHTX0.git|Contributed|Adafruit AHTX0
 https://github.com/philj404/SimpleSerialShell.git|Contributed|SimpleSerialShell
+https://github.com/hunamizawa/ESPPerfectTime.git|Contributed|ESPPerfectTime
