@@ -3160,3 +3160,4 @@ https://github.com/tfeldmann/Arduino-Timeout.git|Contributed|Minimal Timeout
 https://github.com/ameer1234567890/TelnetStream2.git|Contributed|TelnetStream2
 https://github.com/qisun1/ESP8266_LED_64x16_Matrix.git|Contributed|ESP8266_LED_64x16_Matrix
 https://github.com/hideakitai/Sony9PinRemote.git|Contributed|Sony9PinRemote
+https://github.com/joshnishikawa/Flicker.git|Contributed|Flicker
