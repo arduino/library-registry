@@ -3169,3 +3169,4 @@ https://github.com/khoih-prog/SinricPro_Generic.git|Contributed|SinricPro_Generi
 https://github.com/PulseRain/PulseRainUARTConsole.git|Contributed|PulseRainUARTConsole
 https://github.com/tripplefox/TsicSensor.git|Contributed|TsicSensor
 https://github.com/RobTillaart/PCF8574.git|Contributed|PCF8574
+https://github.com/RobTillaart/PinInGroup.git|Contributed|PinInGroup
