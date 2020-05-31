@@ -3158,3 +3158,4 @@ https://github.com/ZinggJM/GFX_Root.git|Contributed|GFX_Root
 https://github.com/adafruit/Adafruit_SHTC3.git|Contributed|Adafruit SHTC3 Library
 https://github.com/tfeldmann/Arduino-Timeout.git|Contributed|Minimal Timeout
 https://github.com/ameer1234567890/TelnetStream2.git|Contributed|TelnetStream2
+https://github.com/qisun1/ESP8266_LED_64x16_Matrix.git|Contributed|ESP8266_LED_64x16_Matrix
