@@ -3162,3 +3162,4 @@ https://github.com/qisun1/ESP8266_LED_64x16_Matrix.git|Contributed|ESP8266_LED_6
 https://github.com/hideakitai/Sony9PinRemote.git|Contributed|Sony9PinRemote
 https://github.com/joshnishikawa/Flicker.git|Contributed|Flicker
 https://github.com/RobTillaart/PCA9685_RT.git|Contributed|PCA9685_RT
+https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32.git|Contributed|TensorFlowLite_ESP32
