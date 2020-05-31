@@ -3165,3 +3165,4 @@ https://github.com/devinaconley/arduino-plotter.git|Contributed|Plotter
 https://github.com/pranjal-joshi/TSD305Lib-Arduino.git|Contributed|TSD305lib
 https://github.com/RobTillaart/SHEX.git|Contributed|SHEX
 https://github.com/lvgl/lv_arduino.git|Contributed|lv_arduino
+https://github.com/khoih-prog/SinricPro_Generic.git|Contributed|SinricPro_Generic
