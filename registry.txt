@@ -3163,3 +3163,4 @@ https://github.com/joshnishikawa/Flicker.git|Contributed|Flicker
 https://github.com/RobTillaart/PCA9685_RT.git|Contributed|PCA9685_RT
 https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32.git|Contributed|TensorFlowLite_ESP32
 https://github.com/devinaconley/arduino-plotter.git|Contributed|Plotter
+https://github.com/pranjal-joshi/TSD305Lib-Arduino.git|Contributed|TSD305lib
