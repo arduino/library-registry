@@ -3153,3 +3153,4 @@ https://github.com/philj404/SimpleSerialShell.git|Contributed|SimpleSerialShell
 https://github.com/hunamizawa/ESPPerfectTime.git|Contributed|ESPPerfectTime
 https://github.com/pu2clr/AKC695X.git|Contributed|PU2CLR AKC695X
 https://github.com/cvmanjoo/RTC.git|Contributed|RTC
+https://github.com/somefunAgba/ModernPIDControlSS.git|Contributed|ModernPIDControlSS
