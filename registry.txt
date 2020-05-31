@@ -3161,3 +3161,4 @@ https://github.com/ameer1234567890/TelnetStream2.git|Contributed|TelnetStream2
 https://github.com/qisun1/ESP8266_LED_64x16_Matrix.git|Contributed|ESP8266_LED_64x16_Matrix
 https://github.com/hideakitai/Sony9PinRemote.git|Contributed|Sony9PinRemote
 https://github.com/joshnishikawa/Flicker.git|Contributed|Flicker
+https://github.com/RobTillaart/PCA9685_RT.git|Contributed|PCA9685_RT
