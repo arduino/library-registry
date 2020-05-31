@@ -521,7 +521,6 @@ https://github.com/flav1972/ArduinoINA219.git|Contributed|ArduinoINA219
 https://github.com/winlinvip/SimpleDHT.git|Contributed|SimpleDHT
 https://github.com/CytronTechnologies/Cytron-G15Shield.git|Contributed|Cytron G15 Shield
 https://github.com/jasiek/arduino-statsdclient.git|Contributed|statsdclient
-https://github.com/devinconley/ArduinoPlotter-for-Library-Manager.git|Contributed|Plotter
 https://github.com/ubidots/Ubidots-FONA.git|Contributed|Ubidots FONA Library
 https://github.com/Makuna/Rtc.git|Contributed|Rtc by Makuna
 https://github.com/thingSoC/embedis.git|Contributed|Embedis
@@ -3163,3 +3162,4 @@ https://github.com/hideakitai/Sony9PinRemote.git|Contributed|Sony9PinRemote
 https://github.com/joshnishikawa/Flicker.git|Contributed|Flicker
 https://github.com/RobTillaart/PCA9685_RT.git|Contributed|PCA9685_RT
 https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32.git|Contributed|TensorFlowLite_ESP32
+https://github.com/devinaconley/arduino-plotter.git|Contributed|Plotter
