@@ -3156,3 +3156,4 @@ https://github.com/cvmanjoo/RTC.git|Contributed|RTC
 https://github.com/somefunAgba/ModernPIDControlSS.git|Contributed|ModernPIDControlSS
 https://github.com/ZinggJM/GFX_Root.git|Contributed|GFX_Root
 https://github.com/adafruit/Adafruit_SHTC3.git|Contributed|Adafruit SHTC3 Library
+https://github.com/tfeldmann/Arduino-Timeout.git|Contributed|Minimal Timeout
