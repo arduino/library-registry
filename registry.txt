@@ -3184,3 +3184,4 @@ https://github.com/adafruit/Adafruit_PCF8591.git|Contributed|Adafruit PCF8591
 https://github.com/skaarj1989/mWebSockets.git|Contributed|mWebSockets
 https://github.com/csash7/mbed-BLE-Mouse.git|Contributed|Mbed BLE Mouse
 https://github.com/gin66/FastAccelStepper.git|Contributed|FastAccelStepper
+https://github.com/VassilyDev/TSController.git|Contributed|TSController
