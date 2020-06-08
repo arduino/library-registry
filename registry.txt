@@ -3178,3 +3178,4 @@ https://github.com/fabiuz7/melody-player-arduino.git|Contributed|Melody Player
 https://github.com/adafruit/Adafruit_SH110x.git|Contributed|Adafruit SH110X
 https://github.com/lebuni/ZACwire-Library.git|Contributed|ZACwire for TSic
 https://github.com/RobTillaart/PCA9635.git|Contributed|PCA9635
+https://github.com/Smartphone-Companions/ESP32-ANCS-Notifications.git|Contributed|ESP32 BLE ANCS Notifications
