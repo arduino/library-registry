@@ -3179,3 +3179,4 @@ https://github.com/adafruit/Adafruit_SH110x.git|Contributed|Adafruit SH110X
 https://github.com/lebuni/ZACwire-Library.git|Contributed|ZACwire for TSic
 https://github.com/RobTillaart/PCA9635.git|Contributed|PCA9635
 https://github.com/Smartphone-Companions/ESP32-ANCS-Notifications.git|Contributed|ESP32 BLE ANCS Notifications
+https://github.com/wollewald/INA219_WE.git|Contributed|INA219_WE
