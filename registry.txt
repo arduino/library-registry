@@ -3174,3 +3174,4 @@ https://github.com/TamojitSaha/MAX6626.git|Contributed|MAX6626
 https://github.com/LeandroLimaPRO/Pressure.git|Contributed|PressureNXPMXP
 https://github.com/claws/BH1750.git|Contributed|BH1750
 https://github.com/lesterlo/Notched-Shaft-Encoder.git|Contributed|Notched Shaft Encoder
+https://github.com/fabiuz7/melody-player-arduino.git|Contributed|Melody Player
