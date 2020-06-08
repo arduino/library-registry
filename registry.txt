@@ -3170,3 +3170,4 @@ https://github.com/PulseRain/PulseRainUARTConsole.git|Contributed|PulseRainUARTC
 https://github.com/tripplefox/TsicSensor.git|Contributed|TsicSensor
 https://github.com/RobTillaart/PCF8574.git|Contributed|PCF8574
 https://github.com/RobTillaart/PinInGroup.git|Contributed|PinInGroup
+https://github.com/TamojitSaha/MAX6626.git|Contributed|MAX6626
