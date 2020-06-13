@@ -2069,7 +2069,6 @@ https://github.com/hideakitai/XBeeATCmds.git|Contributed|XBeeATCmds
 https://github.com/hideakitai/Debouncer.git|Contributed|Debouncer
 https://github.com/hideakitai/CRCx.git|Contributed|CRCx
 https://github.com/hideakitai/Filters.git|Contributed|Filters
-https://github.com/hideakitai/Convert.git|Contributed|Convert
 https://github.com/hideakitai/I2CExtension.git|Contributed|I2CExtension
 https://github.com/hideakitai/VectorXf.git|Contributed|VectorXf
 https://github.com/hideakitai/SPIExtension.git|Contributed|SPIExtension
@@ -3193,3 +3192,4 @@ https://github.com/RobTillaart/Histogram.git|Contributed|Histogram
 https://github.com/Microbot-it/Microbot-Motor-Shield.git|Contributed|Microbot_Motor_Shield
 https://github.com/PowerBroker2/SafeString.git|Contributed|SafeString
 https://github.com/RobTillaart/FunctionGenerator.git|Contributed|FunctionGenerator
+https://github.com/hideakitai/ArxStringUtils.git|Contributed|ArxStringUtils
