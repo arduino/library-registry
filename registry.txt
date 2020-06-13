@@ -3189,3 +3189,4 @@ https://github.com/RobTillaart/HT16K33.git|Contributed|HT16K33
 https://github.com/beegee-tokyo/VNCL4020C-Arduino.git|Contributed|VNCL4020C-Arduino
 https://github.com/RobTillaart/HMC6352.git|Contributed|HMC6352
 https://github.com/Saruccio/ESPpassthrough.git|Contributed|ESPpassthrough
+https://github.com/RobTillaart/Histogram.git|Contributed|Histogram
