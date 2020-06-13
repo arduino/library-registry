@@ -3191,3 +3191,4 @@ https://github.com/RobTillaart/HMC6352.git|Contributed|HMC6352
 https://github.com/Saruccio/ESPpassthrough.git|Contributed|ESPpassthrough
 https://github.com/RobTillaart/Histogram.git|Contributed|Histogram
 https://github.com/Microbot-it/Microbot-Motor-Shield.git|Contributed|Microbot_Motor_Shield
+https://github.com/PowerBroker2/SafeString.git|Contributed|SafeString
