@@ -3194,3 +3194,4 @@ https://github.com/RobTillaart/FunctionGenerator.git|Contributed|FunctionGenerat
 https://github.com/hideakitai/ArxStringUtils.git|Contributed|ArxStringUtils
 https://github.com/IGB-Germany/IGB-FlashSst26.git|Contributed|IGB-FlashSst26
 https://github.com/adafruit/Adafruit_ICM20X.git|Contributed|Adafruit ICM20X
+https://github.com/forntoh/LcdMenu.git|Contributed|LcdMenu
