@@ -2694,7 +2694,6 @@ https://github.com/TinyCircuits/TinyCircuits-Wireling-Lib.git|Contributed|Wireli
 https://github.com/imfrancisd/MorseCodeMachine.git|Contributed|MorseCodeMachine
 https://github.com/SimpleHacks/hw_rng.git|Contributed|nrf_rng
 https://github.com/SimpleHacks/EzDmaHelper.git|Contributed|EzDmaHelper
-https://github.com/adafruit/Adafruit_ICM20649.git|Contributed|Adafruit ICM20649
 https://github.com/Gruppio/Throttle.git|Contributed|Throttle
 https://github.com/PRosenb/SPIFFS_FilePrint.git|Contributed|SPIFFS_FilePrint
 https://github.com/telecombretagne/YACL.git|Contributed|YACL
@@ -3194,3 +3193,4 @@ https://github.com/PowerBroker2/SafeString.git|Contributed|SafeString
 https://github.com/RobTillaart/FunctionGenerator.git|Contributed|FunctionGenerator
 https://github.com/hideakitai/ArxStringUtils.git|Contributed|ArxStringUtils
 https://github.com/IGB-Germany/IGB-FlashSst26.git|Contributed|IGB-FlashSst26
+https://github.com/adafruit/Adafruit_ICM20X.git|Contributed|Adafruit ICM20X
