@@ -3193,3 +3193,4 @@ https://github.com/Microbot-it/Microbot-Motor-Shield.git|Contributed|Microbot_Mo
 https://github.com/PowerBroker2/SafeString.git|Contributed|SafeString
 https://github.com/RobTillaart/FunctionGenerator.git|Contributed|FunctionGenerator
 https://github.com/hideakitai/ArxStringUtils.git|Contributed|ArxStringUtils
+https://github.com/IGB-Germany/IGB-FlashSst26.git|Contributed|IGB-FlashSst26
