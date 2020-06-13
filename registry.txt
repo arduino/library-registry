@@ -3186,3 +3186,4 @@ https://github.com/gin66/FastAccelStepper.git|Contributed|FastAccelStepper
 https://github.com/VassilyDev/TSController.git|Contributed|TSController
 https://github.com/ciniml/ExtFlashLoader.git|Contributed|ExtFlashLoader
 https://github.com/RobTillaart/HT16K33.git|Contributed|HT16K33
+https://github.com/beegee-tokyo/VNCL4020C-Arduino.git|Contributed|VNCL4020C-Arduino
