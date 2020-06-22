@@ -3205,3 +3205,4 @@ https://github.com/RobTillaart/MCP4725.git|Contributed|MCP4725
 https://github.com/MeelonUsk/tb9051ftg-motor-carrier-arduino.git|Contributed|TB9051FTGMotorCarrier
 https://github.com/RobTillaart/MAX31855_RT.git|Contributed|MAX31855_RT
 https://github.com/RobTillaart/MCP23017_RT.git|Contributed|MCP23017_RT
+https://github.com/connornishijima/Pixie.git|Contributed|Pixie
