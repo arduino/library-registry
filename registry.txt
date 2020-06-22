@@ -3211,3 +3211,4 @@ https://github.com/michalmonday/CSV-Parser-for-Arduino.git|Contributed|CSV Parse
 https://github.com/RobTillaart/I2C_ASDX.git|Contributed|I2C_ASDX
 https://github.com/WPIRoboticsEngineering/RBE1001Lib.git|Contributed|RBE1001Lib
 https://github.com/RobTillaart/I2C_EEPROM.git|Contributed|I2C_EEPROM
+https://github.com/wollewald/INA226_WE.git|Contributed|INA226_WE
