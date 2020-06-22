@@ -3213,3 +3213,4 @@ https://github.com/WPIRoboticsEngineering/RBE1001Lib.git|Contributed|RBE1001Lib
 https://github.com/RobTillaart/I2C_EEPROM.git|Contributed|I2C_EEPROM
 https://github.com/wollewald/INA226_WE.git|Contributed|INA226_WE
 https://github.com/sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library.git|Contributed|SparkFun Qwiic Power Switch Arduino Library
+https://github.com/RobTillaart/weight.git|Contributed|weight
