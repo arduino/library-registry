@@ -3224,3 +3224,4 @@ https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contribut
 https://gitlab.com/chatpeth/nx2003.git|Contributed|NX2003 library
 https://github.com/pu2clr/KT0915.git|Contributed|PU2CLR KT0915
 https://github.com/signetica/MoonRise.git|Contributed|MoonRise
+https://github.com/signetica/SunRise.git|Contributed|SunRise
