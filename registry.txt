@@ -3198,3 +3198,4 @@ https://github.com/forntoh/LcdMenu.git|Contributed|LcdMenu
 https://github.com/cotestatnt/YA_FSM.git|Contributed|YA_FSM
 https://github.com/hideakitai/PollingTimer.git|Contributed|PollingTimer
 https://github.com/RobTillaart/nibbleArray.git|Contributed|NibbleArray
+https://github.com/RobTillaart/MS5611.git|Contributed|MS5611
