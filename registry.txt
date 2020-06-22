@@ -3209,3 +3209,4 @@ https://github.com/connornishijima/Pixie.git|Contributed|Pixie
 https://github.com/RobTillaart/MCP9808_RT.git|Contributed|MCP9808_RT
 https://github.com/michalmonday/CSV-Parser-for-Arduino.git|Contributed|CSV Parser
 https://github.com/RobTillaart/I2C_ASDX.git|Contributed|I2C_ASDX
+https://github.com/WPIRoboticsEngineering/RBE1001Lib.git|Contributed|RBE1001Lib
