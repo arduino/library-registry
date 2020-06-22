@@ -3217,3 +3217,4 @@ https://github.com/RobTillaart/weight.git|Contributed|weight
 https://github.com/RobTillaart/HX711.git|Contributed|HX711
 https://github.com/StrathbogieBrewing/AceMenu.git|Contributed|AceMenu
 https://github.com/SpellFoundry/SleepyPi2.git|Contributed|Sleepy Pi 2
+https://github.com/SpellFoundry/PCF8523.git|Contributed|PCF8523
