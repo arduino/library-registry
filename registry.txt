@@ -3197,3 +3197,4 @@ https://github.com/adafruit/Adafruit_ICM20X.git|Contributed|Adafruit ICM20X
 https://github.com/forntoh/LcdMenu.git|Contributed|LcdMenu
 https://github.com/cotestatnt/YA_FSM.git|Contributed|YA_FSM
 https://github.com/hideakitai/PollingTimer.git|Contributed|PollingTimer
+https://github.com/RobTillaart/nibbleArray.git|Contributed|NibbleArray
