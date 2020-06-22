@@ -3215,3 +3215,4 @@ https://github.com/wollewald/INA226_WE.git|Contributed|INA226_WE
 https://github.com/sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library.git|Contributed|SparkFun Qwiic Power Switch Arduino Library
 https://github.com/RobTillaart/weight.git|Contributed|weight
 https://github.com/RobTillaart/HX711.git|Contributed|HX711
+https://github.com/StrathbogieBrewing/AceMenu.git|Contributed|AceMenu
