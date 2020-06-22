@@ -3202,3 +3202,4 @@ https://github.com/RobTillaart/MS5611.git|Contributed|MS5611
 https://github.com/RobTillaart/ML8511.git|Contributed|ML8511
 https://github.com/pothos/arduino-n64-controller-library.git|Contributed|N64Controller
 https://github.com/RobTillaart/MCP4725.git|Contributed|MCP4725
+https://github.com/MeelonUsk/tb9051ftg-motor-carrier-arduino.git|Contributed|TB9051FTGMotorCarrier
