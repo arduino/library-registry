@@ -3220,3 +3220,4 @@ https://github.com/SpellFoundry/SleepyPi2.git|Contributed|Sleepy Pi 2
 https://github.com/SpellFoundry/PCF8523.git|Contributed|PCF8523
 https://github.com/TheJLifeX/ScrollingText8x8Display.git|Contributed|ScrollingText8x8Display
 https://github.com/Infineon/high-side-switch.git|Contributed|High-Side-Switch
+https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contributed|SparkFun ADS122C03 ADC Arduino Library
