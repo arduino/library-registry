@@ -3199,3 +3199,4 @@ https://github.com/cotestatnt/YA_FSM.git|Contributed|YA_FSM
 https://github.com/hideakitai/PollingTimer.git|Contributed|PollingTimer
 https://github.com/RobTillaart/nibbleArray.git|Contributed|NibbleArray
 https://github.com/RobTillaart/MS5611.git|Contributed|MS5611
+https://github.com/RobTillaart/ML8511.git|Contributed|ML8511
