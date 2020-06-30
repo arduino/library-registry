@@ -3239,3 +3239,4 @@ https://github.com/RobTillaart/DEVRANDOM.git|Contributed|DEVRANDOM
 https://github.com/OpenSourceMedicalRobots/Endo-Continuum-Robot-Library.git|Contributed|Endo-Continuum-Robot
 https://github.com/RobTillaart/ParallelPrinter.git|Contributed|ParallelPrinter
 https://github.com/AIS-DeviceInnovation/Magellan_BC95_lite.git|Contributed|Magellan_BC95_lite
+https://github.com/AIS-DeviceInnovation/Magellan_BC95.git|Contributed|Magellan_BC95
