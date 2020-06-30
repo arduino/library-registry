@@ -3241,3 +3241,4 @@ https://github.com/RobTillaart/ParallelPrinter.git|Contributed|ParallelPrinter
 https://github.com/AIS-DeviceInnovation/Magellan_BC95_lite.git|Contributed|Magellan_BC95_lite
 https://github.com/AIS-DeviceInnovation/Magellan_BC95.git|Contributed|Magellan_BC95
 https://github.com/pu2clr/SI470X.git|Contributed|PU2CLR SI470X
+https://github.com/Infineon/IFX007T-Motor-Control.git|Contributed|IFX007T-Motor-Control
