@@ -3251,3 +3251,4 @@ https://github.com/RobTillaart/PAR27979.git|Contributed|PAR27979
 https://github.com/hideakitai/Easing.git|Contributed|Easing
 https://github.com/hideakitai/Tween.git|Contributed|Tween
 https://github.com/grandeurtech/grandeurcloud-arduino-sdk.git|Contributed|Grandeur Cloud
+https://github.com/gutierrezps/ESP32_I2C_Slave.git|Contributed|ESP32 I2C Slave
