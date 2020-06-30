@@ -3246,3 +3246,4 @@ https://github.com/MHotchin/RLEBitmap.git|Contributed|RLEBitmap
 https://github.com/jordancrubin/ballvalve.git|Contributed|Ballvalve
 https://github.com/SiddheshNan/Things-IoT-Arduino-Library.git|Contributed|Things IoT
 https://github.com/RobTillaart/DEVNULL.git|Contributed|DEVNULL
+https://github.com/adafruit/TinyDHT.git|Contributed|TinyDHT sensor library
