@@ -3233,3 +3233,4 @@ https://github.com/antevir/OrviboS20_Arduino.git|Contributed|Orvibo WiWo S20 Lib
 https://github.com/dabshield/DABShield.git|Contributed|DABShield
 https://github.com/RobTillaart/I2CKeyPad.git|Contributed|I2CKeyPad
 https://github.com/0xCAFEDECAF/VanBus.git|Contributed|VanBus
+https://gitlab.com/rhombio/rhio-LIS2HH12.git|Contributed|rhio-LIS2HH12
