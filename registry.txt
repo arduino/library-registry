@@ -3234,3 +3234,4 @@ https://github.com/dabshield/DABShield.git|Contributed|DABShield
 https://github.com/RobTillaart/I2CKeyPad.git|Contributed|I2CKeyPad
 https://github.com/0xCAFEDECAF/VanBus.git|Contributed|VanBus
 https://gitlab.com/rhombio/rhio-LIS2HH12.git|Contributed|rhio-LIS2HH12
+https://github.com/plenprojectcompany/PLEN5Stack.git|Contributed|PLEN5Stack
