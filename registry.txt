@@ -3227,3 +3227,4 @@ https://github.com/pu2clr/KT0915.git|Contributed|PU2CLR KT0915
 https://github.com/signetica/MoonRise.git|Contributed|MoonRise
 https://github.com/signetica/SunRise.git|Contributed|SunRise
 https://github.com/RockoonTechnologies/PadComLib.git|Contributed|PadComLib
+https://github.com/jasonacox/TM1637TinyDisplay.git|Contributed|TM1637TinyDisplay
