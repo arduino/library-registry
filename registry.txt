@@ -3221,7 +3221,6 @@ https://github.com/SpellFoundry/SleepyPi2.git|Contributed|Sleepy Pi 2
 https://github.com/SpellFoundry/PCF8523.git|Contributed|PCF8523
 https://github.com/TheJLifeX/ScrollingText8x8Display.git|Contributed|ScrollingText8x8Display
 https://github.com/Infineon/high-side-switch.git|Contributed|High-Side-Switch
-https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contributed|SparkFun ADS122C03 ADC Arduino Library
 https://gitlab.com/chatpeth/nx2003.git|Contributed|NX2003 library
 https://github.com/pu2clr/KT0915.git|Contributed|PU2CLR KT0915
 https://github.com/signetica/MoonRise.git|Contributed|MoonRise
@@ -3253,3 +3252,4 @@ https://github.com/hideakitai/Tween.git|Contributed|Tween
 https://github.com/grandeurtech/grandeurcloud-arduino-sdk.git|Contributed|Grandeur Cloud
 https://github.com/gutierrezps/ESP32_I2C_Slave.git|Contributed|ESP32 I2C Slave
 https://bitbucket.org/harmonicbionics/ease_arduinocode.git|Contributed|EASE_ArduinoCode
+https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contributed|SparkFun ADS122C04 ADC Arduino Library
