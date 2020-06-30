@@ -3256,3 +3256,4 @@ https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contribut
 https://github.com/shuvangkar/RingEEPROM.git|Contributed|RingEEPROM
 https://github.com/RobTillaart/printHelpers.git|Contributed|printHelpers
 https://github.com/RobTillaart/IEEE754tools.git|Contributed|IEEE754tools
+https://github.com/RobTillaart/DHTstable.git|Contributed|DHTStable
