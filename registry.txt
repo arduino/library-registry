@@ -3244,3 +3244,4 @@ https://github.com/pu2clr/SI470X.git|Contributed|PU2CLR SI470X
 https://github.com/Infineon/IFX007T-Motor-Control.git|Contributed|IFX007T-Motor-Control
 https://github.com/MHotchin/RLEBitmap.git|Contributed|RLEBitmap
 https://github.com/jordancrubin/ballvalve.git|Contributed|Ballvalve
+https://github.com/SiddheshNan/Things-IoT-Arduino-Library.git|Contributed|Things IoT
