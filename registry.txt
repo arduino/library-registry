@@ -3249,3 +3249,4 @@ https://github.com/RobTillaart/DEVNULL.git|Contributed|DEVNULL
 https://github.com/adafruit/TinyDHT.git|Contributed|TinyDHT sensor library
 https://github.com/RobTillaart/PAR27979.git|Contributed|PAR27979
 https://github.com/hideakitai/Easing.git|Contributed|Easing
+https://github.com/hideakitai/Tween.git|Contributed|Tween
