@@ -3255,3 +3255,4 @@ https://bitbucket.org/harmonicbionics/ease_arduinocode.git|Contributed|EASE_Ardu
 https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contributed|SparkFun ADS122C04 ADC Arduino Library
 https://github.com/shuvangkar/RingEEPROM.git|Contributed|RingEEPROM
 https://github.com/RobTillaart/printHelpers.git|Contributed|printHelpers
+https://github.com/RobTillaart/IEEE754tools.git|Contributed|IEEE754tools
