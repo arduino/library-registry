@@ -3228,3 +3228,4 @@ https://github.com/signetica/MoonRise.git|Contributed|MoonRise
 https://github.com/signetica/SunRise.git|Contributed|SunRise
 https://github.com/RockoonTechnologies/PadComLib.git|Contributed|PadComLib
 https://github.com/jasonacox/TM1637TinyDisplay.git|Contributed|TM1637TinyDisplay
+https://github.com/harnettlab/vl53l0x-arduino.git|Contributed|vl53l0xTOFA
