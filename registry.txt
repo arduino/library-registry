@@ -3236,3 +3236,4 @@ https://github.com/0xCAFEDECAF/VanBus.git|Contributed|VanBus
 https://gitlab.com/rhombio/rhio-LIS2HH12.git|Contributed|rhio-LIS2HH12
 https://github.com/plenprojectcompany/PLEN5Stack.git|Contributed|PLEN5Stack
 https://github.com/RobTillaart/DEVRANDOM.git|Contributed|DEVRANDOM
+https://github.com/OpenSourceMedicalRobots/Endo-Continuum-Robot-Library.git|Contributed|Endo-Continuum-Robot
