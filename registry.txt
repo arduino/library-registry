@@ -75,6 +75,7 @@ https://github.com/arduino-libraries/Arduino_APDS9960.git|Arduino|Arduino_APDS99
 https://github.com/arduino-libraries/Arduino_CRC32.git|Arduino|Arduino_CRC32
 https://github.com/arduino-libraries/Arduino_KNN.git|Arduino|Arduino_KNN
 https://github.com/arduino-libraries/Arduino_OV767X.git|Arduino|Arduino_OV767X
+https://github.com/arduino-libraries/Arduino_QTouch.git|Arduino|Arduino_QTouch
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
