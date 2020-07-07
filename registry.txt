@@ -3259,3 +3259,4 @@ https://github.com/shuvangkar/RingEEPROM.git|Contributed|RingEEPROM
 https://github.com/RobTillaart/printHelpers.git|Contributed|printHelpers
 https://github.com/RobTillaart/IEEE754tools.git|Contributed|IEEE754tools
 https://github.com/RobTillaart/DHTstable.git|Contributed|DHTStable
+https://github.com/RobTillaart/RADAR.git|Contributed|RADAR
