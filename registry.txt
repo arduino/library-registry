@@ -3277,3 +3277,4 @@ https://github.com/hideakitai/ADS1x1x.git|Contributed|ADS1x1x
 https://github.com/hideakitai/DS323x.git|Contributed|DS323x
 https://github.com/lendres/BatteryMeter-Arduino.git|Contributed|BatteryMeter
 https://github.com/lendres/ButtonSuite-Arduino.git|Contributed|ButtonSuite
+https://github.com/lendres/BlinkSuite-Arduino.git|Contributed|BlinkSuite
