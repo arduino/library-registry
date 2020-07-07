@@ -3262,3 +3262,4 @@ https://github.com/RobTillaart/DHTstable.git|Contributed|DHTStable
 https://github.com/RobTillaart/RADAR.git|Contributed|RADAR
 https://github.com/Botly-Studio/Botly-Library.git|Contributed|Botly
 https://github.com/davidepalladino/AnalogIO-Arduino.git|Contributed|AnalogIO-Arduino
+https://github.com/pkerspe/ESP-StepperMotor-Server.git|Contributed|ESP-StepperMotor-Server
