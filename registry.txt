@@ -3282,3 +3282,4 @@ https://github.com/RobTillaart/randomHelpers.git|Contributed|randomHelpers
 https://github.com/wollewald/ADS1115_WE.git|Contributed|ADS1115_WE
 https://github.com/hideakitai/SceneManager.git|Contributed|SceneManager
 https://github.com/hideakitai/TaskManager.git|Contributed|TaskManager
+https://github.com/khoih-prog/ESP_AT_Lib.git|Contributed|ESP_AT_Lib
