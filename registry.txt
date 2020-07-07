@@ -3274,3 +3274,4 @@ https://github.com/pixelmatix/GifDecoder.git|Contributed|GifDecoder
 https://github.com/RobTillaart/statHelpers.git|Contributed|statHelpers
 https://github.com/hideakitai/TCA9534.git|Contributed|TCA9534
 https://github.com/hideakitai/ADS1x1x.git|Contributed|ADS1x1x
+https://github.com/hideakitai/DS323x.git|Contributed|DS323x
