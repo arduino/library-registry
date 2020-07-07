@@ -3260,3 +3260,4 @@ https://github.com/RobTillaart/printHelpers.git|Contributed|printHelpers
 https://github.com/RobTillaart/IEEE754tools.git|Contributed|IEEE754tools
 https://github.com/RobTillaart/DHTstable.git|Contributed|DHTStable
 https://github.com/RobTillaart/RADAR.git|Contributed|RADAR
+https://github.com/Botly-Studio/Botly-Library.git|Contributed|Botly
