@@ -3272,3 +3272,4 @@ https://github.com/mrfaptastic/json-streaming-parser2.git|Contributed|Json Strea
 https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA.git|Contributed|ESP32 64x32 LED MATRIX HUB75 DMA Display
 https://github.com/pixelmatix/GifDecoder.git|Contributed|GifDecoder
 https://github.com/RobTillaart/statHelpers.git|Contributed|statHelpers
+https://github.com/hideakitai/TCA9534.git|Contributed|TCA9534
