@@ -3273,3 +3273,4 @@ https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA.git|Contributed
 https://github.com/pixelmatix/GifDecoder.git|Contributed|GifDecoder
 https://github.com/RobTillaart/statHelpers.git|Contributed|statHelpers
 https://github.com/hideakitai/TCA9534.git|Contributed|TCA9534
+https://github.com/hideakitai/ADS1x1x.git|Contributed|ADS1x1x
