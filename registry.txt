@@ -3284,3 +3284,4 @@ https://github.com/hideakitai/SceneManager.git|Contributed|SceneManager
 https://github.com/hideakitai/TaskManager.git|Contributed|TaskManager
 https://github.com/khoih-prog/ESP_AT_Lib.git|Contributed|ESP_AT_Lib
 https://github.com/RobTillaart/DHTlib.git|Contributed|DHTlib
+https://github.com/RobTillaart/DHT2pin.git|Contributed|DHT2pin
