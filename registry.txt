@@ -3267,3 +3267,4 @@ https://github.com/CAFxX/gmp-ino.git|Contributed|gmp-ino
 https://github.com/sensslen/LibLanc.git|Contributed|LibLanc
 https://github.com/pu2clr/RDA5807.git|Contributed|PU2CLR RDA5807
 https://github.com/mattshepcar/SmoothLed.git|Contributed|SmoothLed
+https://github.com/pkerspe/ESP-FlexyStepper.git|Contributed|ESP-FlexyStepper
