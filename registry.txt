@@ -3265,3 +3265,4 @@ https://github.com/davidepalladino/AnalogIO-Arduino.git|Contributed|AnalogIO-Ard
 https://github.com/pkerspe/ESP-StepperMotor-Server.git|Contributed|ESP-StepperMotor-Server
 https://github.com/CAFxX/gmp-ino.git|Contributed|gmp-ino
 https://github.com/sensslen/LibLanc.git|Contributed|LibLanc
+https://github.com/pu2clr/RDA5807.git|Contributed|PU2CLR RDA5807
