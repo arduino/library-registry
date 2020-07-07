@@ -3264,3 +3264,4 @@ https://github.com/Botly-Studio/Botly-Library.git|Contributed|Botly
 https://github.com/davidepalladino/AnalogIO-Arduino.git|Contributed|AnalogIO-Arduino
 https://github.com/pkerspe/ESP-StepperMotor-Server.git|Contributed|ESP-StepperMotor-Server
 https://github.com/CAFxX/gmp-ino.git|Contributed|gmp-ino
+https://github.com/sensslen/LibLanc.git|Contributed|LibLanc
