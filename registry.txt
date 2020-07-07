@@ -3279,3 +3279,4 @@ https://github.com/lendres/BatteryMeter-Arduino.git|Contributed|BatteryMeter
 https://github.com/lendres/ButtonSuite-Arduino.git|Contributed|ButtonSuite
 https://github.com/lendres/BlinkSuite-Arduino.git|Contributed|BlinkSuite
 https://github.com/RobTillaart/randomHelpers.git|Contributed|randomHelpers
+https://github.com/wollewald/ADS1115_WE.git|Contributed|ADS1115_WE
