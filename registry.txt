@@ -3278,3 +3278,4 @@ https://github.com/hideakitai/DS323x.git|Contributed|DS323x
 https://github.com/lendres/BatteryMeter-Arduino.git|Contributed|BatteryMeter
 https://github.com/lendres/ButtonSuite-Arduino.git|Contributed|ButtonSuite
 https://github.com/lendres/BlinkSuite-Arduino.git|Contributed|BlinkSuite
+https://github.com/RobTillaart/randomHelpers.git|Contributed|randomHelpers
