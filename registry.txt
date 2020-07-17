@@ -3288,3 +3288,4 @@ https://github.com/RobTillaart/DHTlib.git|Contributed|DHTlib
 https://github.com/RobTillaart/DHT2pin.git|Contributed|DHT2pin
 https://github.com/RobTillaart/HeartBeat.git|Contributed|HeartBeat
 https://github.com/RobTillaart/GY521.git|Contributed|GY521
+https://github.com/xreef/EMailSender.git|Contributed|EMailSender
