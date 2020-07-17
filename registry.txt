@@ -3300,3 +3300,4 @@ https://github.com/amperka/Octofet.git|Contributed|Octofet
 https://github.com/EnviroDIY/Arduino-SDI-12.git|Contributed|SDI-12
 https://github.com/RobTillaart/Optoma.git|Contributed|optoma
 https://github.com/hideakitai/ES920.git|Contributed|ES920
+https://github.com/mrfaptastic/Easy-IoT-Arduino-CC1101-LORA.git|Contributed|Easy ESP Arduino IoT with CC1101
