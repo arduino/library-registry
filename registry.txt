@@ -3302,3 +3302,4 @@ https://github.com/RobTillaart/Optoma.git|Contributed|optoma
 https://github.com/hideakitai/ES920.git|Contributed|ES920
 https://github.com/mrfaptastic/Easy-IoT-Arduino-CC1101-LORA.git|Contributed|Easy ESP Arduino IoT with CC1101
 https://github.com/RobTillaart/timing.git|Contributed|timing
+https://github.com/wollewald/ADS1115_WE.git|Contributed|ADS1115_WE
