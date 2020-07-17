@@ -3293,3 +3293,4 @@ https://github.com/khoih-prog/WebSockets2_Generic.git|Contributed|WebSockets2_Ge
 https://gitlab.com/airbornemint/arduino-protothreads.git|Contributed|Protothreads
 https://github.com/pvannatto/Switch2_Lib.git|Contributed|Switch2_lib
 https://github.com/fabiopjve/ULWOS2.git|Contributed|ULWOS2
+https://github.com/StanislavJochman/LegoSensorAdapter.git|Contributed|LegoSensorAdapter
