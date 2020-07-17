@@ -3294,3 +3294,4 @@ https://gitlab.com/airbornemint/arduino-protothreads.git|Contributed|Protothread
 https://github.com/pvannatto/Switch2_Lib.git|Contributed|Switch2_lib
 https://github.com/fabiopjve/ULWOS2.git|Contributed|ULWOS2
 https://github.com/StanislavJochman/LegoSensorAdapter.git|Contributed|LegoSensorAdapter
+https://github.com/Falcons21/Custom_PID.git|Contributed|Custom PID
