@@ -3290,3 +3290,4 @@ https://github.com/RobTillaart/HeartBeat.git|Contributed|HeartBeat
 https://github.com/RobTillaart/GY521.git|Contributed|GY521
 https://github.com/xreef/EMailSender.git|Contributed|EMailSender
 https://github.com/khoih-prog/WebSockets2_Generic.git|Contributed|WebSockets2_Generic
+https://gitlab.com/airbornemint/arduino-protothreads.git|Contributed|Protothreads
