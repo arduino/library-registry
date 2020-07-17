@@ -3296,3 +3296,4 @@ https://github.com/fabiopjve/ULWOS2.git|Contributed|ULWOS2
 https://github.com/StanislavJochman/LegoSensorAdapter.git|Contributed|LegoSensorAdapter
 https://github.com/Falcons21/Custom_PID.git|Contributed|Custom PID
 https://github.com/107-systems/107-Arduino-NMEA-Parser.git|Contributed|107-Arduino-NMEA-Parser
+https://github.com/amperka/Octofet.git|Contributed|Octofet
