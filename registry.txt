@@ -3297,3 +3297,4 @@ https://github.com/StanislavJochman/LegoSensorAdapter.git|Contributed|LegoSensor
 https://github.com/Falcons21/Custom_PID.git|Contributed|Custom PID
 https://github.com/107-systems/107-Arduino-NMEA-Parser.git|Contributed|107-Arduino-NMEA-Parser
 https://github.com/amperka/Octofet.git|Contributed|Octofet
+https://github.com/EnviroDIY/Arduino-SDI-12.git|Contributed|SDI-12
