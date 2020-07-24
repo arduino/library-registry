@@ -3316,3 +3316,4 @@ https://github.com/dojyorin/arduino_percent.git|Contributed|Percent_Codec
 https://github.com/dojyorin/arduino_base64.git|Contributed|Base64_Codec
 https://github.com/vishnumaiea/R30X-Fingerprint-Sensor-Library.git|Contributed|R30X-Fingerprint-Sensor-Library
 https://github.com/RobTillaart/PCF8575.git|Contributed|PCF8575
+https://github.com/jandrassy/TelnetStream.git|Contributed|TelnetStream
