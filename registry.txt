@@ -3304,3 +3304,4 @@ https://github.com/RobTillaart/timing.git|Contributed|timing
 https://github.com/RobTillaart/AD520X.git|Contributed|AD520X
 https://github.com/RobTillaart/ADT7470.git|Contributed|ADT7470
 https://github.com/RobTillaart/PCF8591.git|Contributed|PCF8591
+https://github.com/sparkfun/SparkFun_MicroPressure_Arduino_Library.git|Contributed|SparkFun MicroPressure Library
