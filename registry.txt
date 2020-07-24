@@ -3307,3 +3307,4 @@ https://github.com/RobTillaart/PCF8591.git|Contributed|PCF8591
 https://github.com/sparkfun/SparkFun_MicroPressure_Arduino_Library.git|Contributed|SparkFun MicroPressure Library
 https://github.com/cotestatnt/AsyncTelegram.git|Contributed|AsyncTelegram
 https://github.com/hideakitai/TimeProfiler.git|Contributed|TimeProfiler
+https://github.com/RobTillaart/FLE.git|Contributed|FLE
