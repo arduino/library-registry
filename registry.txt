@@ -3245,7 +3245,6 @@ https://github.com/pu2clr/SI470X.git|Contributed|PU2CLR SI470X
 https://github.com/Infineon/IFX007T-Motor-Control.git|Contributed|IFX007T-Motor-Control
 https://github.com/MHotchin/RLEBitmap.git|Contributed|RLEBitmap
 https://github.com/jordancrubin/ballvalve.git|Contributed|Ballvalve
-https://github.com/SiddheshNan/Things-IoT-Arduino-Library.git|Contributed|Things IoT
 https://github.com/RobTillaart/DEVNULL.git|Contributed|DEVNULL
 https://github.com/adafruit/TinyDHT.git|Contributed|TinyDHT sensor library
 https://github.com/RobTillaart/PAR27979.git|Contributed|PAR27979
@@ -3320,3 +3319,4 @@ https://github.com/jandrassy/TelnetStream.git|Contributed|TelnetStream
 https://github.com/mrfaptastic/WiFiConnectLite.git|Contributed|WiFiConnect Lite
 https://github.com/Wh1teRabbitHU/RX8010SJ.git|Contributed|RX8010SJ
 https://github.com/beegee-tokyo/nRF52_OLED.git|Contributed|nRF52_OLED
+https://github.com/SiddheshNan/Things-IoT-Arduino-Library.git|Contributed|ThingsIoT
