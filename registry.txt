@@ -3313,3 +3313,4 @@ https://github.com/RobTillaart/Interval.git|Contributed|Interval
 https://github.com/adafruit/Adafruit_OV7670.git|Contributed|Adafruit OV7670
 https://github.com/adafruit/Adafruit_AS7341.git|Contributed|Adafruit AS7341
 https://github.com/dojyorin/arduino_percent.git|Contributed|Percent_Codec
+https://github.com/dojyorin/arduino_base64.git|Contributed|Base64_Codec
