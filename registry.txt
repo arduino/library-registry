@@ -3309,3 +3309,4 @@ https://github.com/cotestatnt/AsyncTelegram.git|Contributed|AsyncTelegram
 https://github.com/hideakitai/TimeProfiler.git|Contributed|TimeProfiler
 https://github.com/RobTillaart/FLE.git|Contributed|FLE
 https://github.com/electro-smith/DaisyDuino.git|Contributed|DaisyDuino
+https://github.com/RobTillaart/Interval.git|Contributed|Interval
