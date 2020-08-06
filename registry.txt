@@ -3335,3 +3335,4 @@ https://github.com/RobTillaart/M62429.git|Contributed|M62429
 https://github.com/jordancrubin/watermeter.git|Contributed|Watermeter
 https://github.com/adafruit/Adafruit_LC709203F.git|Contributed|Adafruit LC709203F
 https://github.com/MannyPeterson/HeliOS.git|Contributed|HeliOS
+https://github.com/khoih-prog/MDNS_Generic.git|Contributed|MDNS_Generic
