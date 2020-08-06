@@ -3345,3 +3345,4 @@ https://github.com/RobTillaart/bitHelpers.git|Contributed|bitHelpers
 https://github.com/tanakamasayuki/I2C_BM8563.git|Contributed|I2C BM8563 RTC
 https://github.com/tanakamasayuki/I2C_AXP192.git|Contributed|I2C AXP192 Power management
 https://github.com/ElectronicCats/AqualaboSensorsLibrary.git|Contributed|AqualaboSensor
+https://github.com/ukkz/line-simple-beacon-esp32.git|Contributed|LINE Simple Beacon
