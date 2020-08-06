@@ -3343,3 +3343,4 @@ https://github.com/107-systems/107-Arduino-UAVCAN.git|Contributed|107-Arduino-UA
 https://github.com/TilenS6/SerialDraw-Library.git|Contributed|SerialDraw
 https://github.com/RobTillaart/bitHelpers.git|Contributed|bitHelpers
 https://github.com/tanakamasayuki/I2C_BM8563.git|Contributed|I2C BM8563 RTC
+https://github.com/tanakamasayuki/I2C_AXP192.git|Contributed|I2C AXP192 Power management
