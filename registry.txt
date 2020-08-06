@@ -3333,3 +3333,4 @@ https://github.com/tanakamasayuki/ESP32LitePack.git|Contributed|ESP32 Lite Pack 
 https://github.com/marcinbor85/SmartButton.git|Contributed|SmartButton Library
 https://github.com/RobTillaart/M62429.git|Contributed|M62429
 https://github.com/jordancrubin/watermeter.git|Contributed|Watermeter
+https://github.com/adafruit/Adafruit_LC709203F.git|Contributed|Adafruit LC709203F
