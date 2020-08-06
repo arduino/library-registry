@@ -3350,3 +3350,4 @@ https://github.com/AloriumTechnology/evo_build_template.git|Contributed|evo_buil
 https://github.com/AloriumTechnology/evo_bsp.git|Contributed|evo_bsp
 https://github.com/AloriumTechnology/evo_pmux_csr.git|Contributed|evo_pmux_csr
 https://github.com/RobTillaart/AD985X.git|Contributed|AD985X
+https://github.com/bitbank2/AnimatedGIF.git|Contributed|AnimatedGIF
