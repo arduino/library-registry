@@ -3330,3 +3330,4 @@ https://github.com/lvgl/lvgl.git|Contributed|lvgl
 https://github.com/lvgl/lv_examples.git|Contributed|lv_examples
 https://github.com/tanakamasayuki/I2C_MPU6886.git|Contributed|I2C MPU6886 IMU
 https://github.com/tanakamasayuki/ESP32LitePack.git|Contributed|ESP32 Lite Pack Library
+https://github.com/marcinbor85/SmartButton.git|Contributed|SmartButton Library
