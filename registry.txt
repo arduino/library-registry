@@ -3331,3 +3331,4 @@ https://github.com/lvgl/lv_examples.git|Contributed|lv_examples
 https://github.com/tanakamasayuki/I2C_MPU6886.git|Contributed|I2C MPU6886 IMU
 https://github.com/tanakamasayuki/ESP32LitePack.git|Contributed|ESP32 Lite Pack Library
 https://github.com/marcinbor85/SmartButton.git|Contributed|SmartButton Library
+https://github.com/RobTillaart/M62429.git|Contributed|M62429
