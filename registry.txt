@@ -3321,3 +3321,4 @@ https://github.com/Wh1teRabbitHU/RX8010SJ.git|Contributed|RX8010SJ
 https://github.com/beegee-tokyo/nRF52_OLED.git|Contributed|nRF52_OLED
 https://github.com/SiddheshNan/Things-IoT-Arduino-Library.git|Contributed|ThingsIoT
 https://github.com/ferkoyanagi/AppFernandok.git|Contributed|App Fernando K
+https://github.com/arturo182/arduino_bbq10kbd.git|Contributed|BBQ10Keyboard
