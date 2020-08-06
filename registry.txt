@@ -3326,3 +3326,4 @@ https://github.com/RobTillaart/DS18B20_INT.git|Contributed|DS18B20_int
 https://github.com/marcinbor85/BlinkCode.git|Contributed|BlinkCode Library
 https://github.com/RobTillaart/DS1821.git|Contributed|DS1821
 https://github.com/RobTillaart/ADS1X15.git|Contributed|ADS1X15
+https://github.com/lvgl/lvgl.git|Contributed|lvgl
