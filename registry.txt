@@ -3340,3 +3340,4 @@ https://github.com/Freenove/Freenove_WS2812_Lib_for_ESP32.git|Contributed|Freeno
 https://github.com/jasonacox/TinyStepper.git|Contributed|TinyStepper
 https://github.com/RobTillaart/Kelvin2RGB.git|Contributed|Kelvin2RGB
 https://github.com/107-systems/107-Arduino-UAVCAN.git|Contributed|107-Arduino-UAVCAN
+https://github.com/TilenS6/SerialDraw-Library.git|Contributed|SerialDraw
