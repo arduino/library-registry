@@ -3348,3 +3348,4 @@ https://github.com/ElectronicCats/AqualaboSensorsLibrary.git|Contributed|Aqualab
 https://github.com/ukkz/line-simple-beacon-esp32.git|Contributed|LINE Simple Beacon
 https://github.com/AloriumTechnology/evo_build_template.git|Contributed|evo_build_template
 https://github.com/AloriumTechnology/evo_bsp.git|Contributed|evo_bsp
+https://github.com/AloriumTechnology/evo_pmux_csr.git|Contributed|evo_pmux_csr
