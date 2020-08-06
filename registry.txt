@@ -3347,3 +3347,4 @@ https://github.com/tanakamasayuki/I2C_AXP192.git|Contributed|I2C AXP192 Power ma
 https://github.com/ElectronicCats/AqualaboSensorsLibrary.git|Contributed|AqualaboSensor
 https://github.com/ukkz/line-simple-beacon-esp32.git|Contributed|LINE Simple Beacon
 https://github.com/AloriumTechnology/evo_build_template.git|Contributed|evo_build_template
+https://github.com/AloriumTechnology/evo_bsp.git|Contributed|evo_bsp
