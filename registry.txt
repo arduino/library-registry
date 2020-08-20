@@ -3345,7 +3345,6 @@ https://github.com/RobTillaart/bitHelpers.git|Contributed|bitHelpers
 https://github.com/tanakamasayuki/I2C_BM8563.git|Contributed|I2C BM8563 RTC
 https://github.com/tanakamasayuki/I2C_AXP192.git|Contributed|I2C AXP192 Power management
 https://github.com/ElectronicCats/AqualaboSensorsLibrary.git|Contributed|AqualaboSensor
-https://github.com/ukkz/line-simple-beacon-esp32.git|Contributed|LINE Simple Beacon
 https://github.com/AloriumTechnology/evo_build_template.git|Contributed|evo_build_template
 https://github.com/AloriumTechnology/evo_bsp.git|Contributed|evo_bsp
 https://github.com/AloriumTechnology/evo_pmux_csr.git|Contributed|evo_pmux_csr
@@ -3357,3 +3356,4 @@ https://github.com/leftCoast/LC_baseTools.git|Contributed|LC_baseTools
 https://github.com/SpinWearables/SpinWearablesFirmware.git|Contributed|SpinWearables
 https://github.com/pololu/opt3101-arduino.git|Contributed|OPT3101
 https://github.com/lucadentella/SPIFFS_ImageReader.git|Contributed|SPIFFS ImageReader Library
+https://github.com/ukkz/green-beacon-esp32.git|Contributed|Green Beacon
