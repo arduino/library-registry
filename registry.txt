@@ -3355,3 +3355,4 @@ https://github.com/airgradienthq/arduino.git|Contributed|AirGradient Air Quality
 https://github.com/datacute/TinyNunchuk.git|Contributed|TinyNunchuk
 https://github.com/leftCoast/LC_baseTools.git|Contributed|LC_baseTools
 https://github.com/SpinWearables/SpinWearablesFirmware.git|Contributed|SpinWearables
+https://github.com/pololu/opt3101-arduino.git|Contributed|OPT3101
