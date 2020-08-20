@@ -3378,3 +3378,4 @@ https://github.com/JVKran/OneTime-BH1750.git|Contributed|OneTime-BH1750
 https://github.com/d-a-v/ESPWebDAV.git|Contributed|ESPWebDAV
 https://github.com/haratta27/M5Stack_SimpleBeep.git|Contributed|M5Stack_SimpleBeep
 https://github.com/earlephilhower/ESP8266Audio.git|Contributed|ESP8266Audio
+https://github.com/soburi/tinycbor.git|Contributed|TinyCBOR
