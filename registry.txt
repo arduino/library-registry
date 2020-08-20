@@ -2917,7 +2917,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Step_Arduino_Library.git|Contributed|
 https://github.com/CircuitsFun/CircuitsFunBasic-Library-for-Arduino.git|Contributed|CircuitsFunBasic
 https://github.com/LSatan/SmartRC-CC1101-Driver-Lib.git|Contributed|SmartRC-CC1101-Driver-Lib
 https://github.com/sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library.git|Contributed|SparkFun Qwiic Alphanumeric Display Arduino Library
-https://github.com/HendrikVE/ArduinoPCA9633.git|Contributed|NXP PCA9633
+https://github.com/HendrikVE/Arduino-PCA9633.git|Contributed|NXP PCA9633
 https://github.com/bmts/FMDataClient.git|Contributed|FMDataClient
 https://github.com/noah1510/LedController.git|Contributed|LedController
 https://gitlab.com/Enrico204/sam32wifiesp.git|Contributed|SAM32WiFiEsp
@@ -2944,8 +2944,8 @@ https://github.com/tasos12/ev3-arduino.git|Contributed|ev3-arduino
 https://github.com/RobTillaart/AverageAngle.git|Contributed|AverageAngle
 https://github.com/RobTillaart/Angle.git|Contributed|Angle
 https://github.com/sparkfun/SparkFun_DE2120_Arduino_Library.git|Contributed|SparkFun DE2120 2D Barcode Reader
-https://github.com/HendrikVE/ArduinoLiquidCrystalWired.git|Contributed|LiquidCrystalWired
-https://github.com/HendrikVE/ArduinoDFR0554.git|Contributed|DFR0554
+https://github.com/HendrikVE/Arduino-LiquidCrystalWired.git|Contributed|LiquidCrystalWired
+https://github.com/HendrikVE/Arduino-DFR0554.git|Contributed|DFR0554
 https://github.com/RobTillaart/AsyncAnalog.git|Contributed|AsyncAnalog
 https://github.com/samverstraete/TimerFour.git|Contributed|TimerFour32u4
 https://github.com/RobTillaart/Cozir.git|Contributed|Cozir
@@ -3372,3 +3372,4 @@ https://github.com/RoboCore/RoboCore_SMW-SX1276M0.git|Contributed|RoboCore - SMW
 https://github.com/dariomas/DigitLed72xx.git|Contributed|DigitLed72xx
 https://github.com/JSC-electronics/SimpleMotionV2-Arduino.git|Contributed|SimpleMotionV2-Arduino
 https://github.com/RobTillaart/MT8870.git|Contributed|MT8870
+https://github.com/Arekushi/Finite-State-Machine-Arduino.git|Contributed|Finite-State-Machine-Arduino
