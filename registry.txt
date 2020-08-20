@@ -3357,3 +3357,4 @@ https://github.com/SpinWearables/SpinWearablesFirmware.git|Contributed|SpinWeara
 https://github.com/pololu/opt3101-arduino.git|Contributed|OPT3101
 https://github.com/lucadentella/SPIFFS_ImageReader.git|Contributed|SPIFFS ImageReader Library
 https://github.com/ukkz/green-beacon-esp32.git|Contributed|Green Beacon
+https://github.com/bitbank2/JPEGDEC.git|Contributed|JPEGDEC
