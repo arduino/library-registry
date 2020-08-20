@@ -3384,3 +3384,4 @@ https://github.com/NachtRaveVL/BY8X01-16P-Arduino.git|Contributed|BY8X01-16P Aud
 https://github.com/NachtRaveVL/PCA9685-Arduino.git|Contributed|PCA9685 16-Channel PWM Driver Module Library
 https://github.com/RobTillaart/GAMMA.git|Contributed|GAMMA
 https://github.com/EnviroDIY/Sodaq_DS3231.git|Contributed|EnviroDIY_DS3231
+https://github.com/EnviroDIY/YosemitechModbus.git|Contributed|YosemitechModbus
