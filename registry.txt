@@ -3362,3 +3362,4 @@ https://github.com/Falcons21/FSerial.git|Contributed|FSerial
 https://github.com/Tintin4000/INA219B.git|Contributed|INA219B
 https://gitlab.com/friml/is31fl3733.git|Contributed|is31fl3733
 https://github.com/JulStrat/LibYxml.git|Contributed|LibYxml
+https://github.com/nuMectro/nuMROBO.git|Contributed|nuMROBO
