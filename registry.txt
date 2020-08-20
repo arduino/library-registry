@@ -3375,3 +3375,4 @@ https://github.com/RobTillaart/MT8870.git|Contributed|MT8870
 https://github.com/Arekushi/Finite-State-Machine-Arduino.git|Contributed|Finite-State-Machine-Arduino
 https://github.com/kaaproject/kaa-arduino-sdk.git|Contributed|Kaa IoT Platform
 https://github.com/JVKran/OneTime-BH1750.git|Contributed|OneTime-BH1750
+https://github.com/d-a-v/ESPWebDAV.git|Contributed|ESPWebDAV
