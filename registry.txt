@@ -3369,3 +3369,4 @@ https://github.com/khoih-prog/MySQL_MariaDB_Generic.git|Contributed|MySQL_MariaD
 https://github.com/abderraouf-adjal/Embedded-PID.git|Contributed|Embedded Type-C PID
 https://github.com/RoboCore/RoboCore_MMA8452Q.git|Contributed|RoboCore - MMA8452Q
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0.git|Contributed|RoboCore - SMW_SX1276M0
+https://github.com/dariomas/DigitLed72xx.git|Contributed|DigitLed72xx
