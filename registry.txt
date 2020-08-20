@@ -3366,3 +3366,4 @@ https://github.com/nuMectro/nuMROBO.git|Contributed|nuMROBO
 https://github.com/RobTillaart/MCP_ADC.git|Contributed|MCP_ADC
 https://github.com/isaacrobinson2000/SoundPlayer.git|Contributed|SoundPlayer
 https://github.com/khoih-prog/MySQL_MariaDB_Generic.git|Contributed|MySQL_MariaDB_Generic
+https://github.com/abderraouf-adjal/Embedded-PID.git|Contributed|Embedded Type-C PID
