@@ -3370,3 +3370,4 @@ https://github.com/abderraouf-adjal/Embedded-PID.git|Contributed|Embedded Type-C
 https://github.com/RoboCore/RoboCore_MMA8452Q.git|Contributed|RoboCore - MMA8452Q
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0.git|Contributed|RoboCore - SMW_SX1276M0
 https://github.com/dariomas/DigitLed72xx.git|Contributed|DigitLed72xx
+https://github.com/JSC-electronics/SimpleMotionV2-Arduino.git|Contributed|SimpleMotionV2-Arduino
