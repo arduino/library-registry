@@ -3376,3 +3376,4 @@ https://github.com/Arekushi/Finite-State-Machine-Arduino.git|Contributed|Finite-
 https://github.com/kaaproject/kaa-arduino-sdk.git|Contributed|Kaa IoT Platform
 https://github.com/JVKran/OneTime-BH1750.git|Contributed|OneTime-BH1750
 https://github.com/d-a-v/ESPWebDAV.git|Contributed|ESPWebDAV
+https://github.com/haratta27/M5Stack_SimpleBeep.git|Contributed|M5Stack_SimpleBeep
