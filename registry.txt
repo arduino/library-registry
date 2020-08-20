@@ -3379,3 +3379,4 @@ https://github.com/d-a-v/ESPWebDAV.git|Contributed|ESPWebDAV
 https://github.com/haratta27/M5Stack_SimpleBeep.git|Contributed|M5Stack_SimpleBeep
 https://github.com/earlephilhower/ESP8266Audio.git|Contributed|ESP8266Audio
 https://github.com/soburi/tinycbor.git|Contributed|TinyCBOR
+https://github.com/NachtRaveVL/Lepton-FLiR-Arduino.git|Contributed|Lepton FLiR Thermal Camera Module Library
