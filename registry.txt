@@ -3387,3 +3387,4 @@ https://github.com/EnviroDIY/Sodaq_DS3231.git|Contributed|EnviroDIY_DS3231
 https://github.com/EnviroDIY/YosemitechModbus.git|Contributed|YosemitechModbus
 https://github.com/EnviroDIY/KellerModbus.git|Contributed|KellerModbus
 https://github.com/EnviroDIY/SensorModbusMaster.git|Contributed|SensorModbusMaster
+https://github.com/adafruit/Adafruit_MS8607.git|Contributed|Adafruit MS8607
