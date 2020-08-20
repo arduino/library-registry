@@ -3363,3 +3363,4 @@ https://github.com/Tintin4000/INA219B.git|Contributed|INA219B
 https://gitlab.com/friml/is31fl3733.git|Contributed|is31fl3733
 https://github.com/JulStrat/LibYxml.git|Contributed|LibYxml
 https://github.com/nuMectro/nuMROBO.git|Contributed|nuMROBO
+https://github.com/RobTillaart/MCP_ADC.git|Contributed|MCP_ADC
