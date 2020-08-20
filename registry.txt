@@ -3359,3 +3359,4 @@ https://github.com/lucadentella/SPIFFS_ImageReader.git|Contributed|SPIFFS ImageR
 https://github.com/ukkz/green-beacon-esp32.git|Contributed|Green Beacon
 https://github.com/bitbank2/JPEGDEC.git|Contributed|JPEGDEC
 https://github.com/Falcons21/FSerial.git|Contributed|FSerial
+https://github.com/Tintin4000/INA219B.git|Contributed|INA219B
