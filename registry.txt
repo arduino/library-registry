@@ -3385,3 +3385,4 @@ https://github.com/NachtRaveVL/PCA9685-Arduino.git|Contributed|PCA9685 16-Channe
 https://github.com/RobTillaart/GAMMA.git|Contributed|GAMMA
 https://github.com/EnviroDIY/Sodaq_DS3231.git|Contributed|EnviroDIY_DS3231
 https://github.com/EnviroDIY/YosemitechModbus.git|Contributed|YosemitechModbus
+https://github.com/EnviroDIY/KellerModbus.git|Contributed|KellerModbus
