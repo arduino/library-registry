@@ -3410,3 +3410,4 @@ https://github.com/neroroxxx/RoxMux.git|Contributed|RoxMux
 https://github.com/LinnesLab/KickSort.git|Contributed|KickSort
 https://github.com/khoih-prog/Blynk_Async_WM.git|Contributed|Blynk_Async_WM
 https://github.com/Staacks/phyphox-arduino.git|Contributed|phyphox BLE
+https://github.com/drp0/ADCDRP.git|Contributed|ADCDRP
