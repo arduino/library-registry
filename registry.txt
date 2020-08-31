@@ -3415,3 +3415,4 @@ https://github.com/pu2clr/bk108x.git|Contributed|PU2CLR BK108X
 https://github.com/Dustpancake/MQ7.git|Contributed|MQ7Sensor
 https://github.com/h2zero/NimBLE-Arduino.git|Contributed|NimBLE-Arduino
 https://github.com/AnyLeaf/ph-cpp.git|Contributed|Anyleaf
+https://github.com/warhog/Arduino-MedianFilter.git|Contributed|MedianFilterLib2
