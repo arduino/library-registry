@@ -3426,3 +3426,4 @@ https://github.com/linneslab/kickfft.git|Contributed|KickFFT
 https://github.com/khoih-prog/ESPAsync_WiFiManager.git|Contributed|ESPAsync_WiFiManager
 https://github.com/DaniFoldi/Async_Operations.git|Contributed|Async_Operations
 https://github.com/sstaub/Ticker.git|Contributed|Ticker
+https://github.com/witnessmenow/arduino-slack-api.git|Contributed|SlackAPI
