@@ -3406,3 +3406,4 @@ https://github.com/ucloud/ucloud-iot-sdk-arduino.git|Contributed|UCloudIoTSDK
 https://github.com/dmadison/ServoInput.git|Contributed|ServoInput
 https://github.com/adafruit/Adafruit_SSD1327.git|Contributed|Adafruit SSD1327
 https://github.com/khoih-prog/Blynk_Async_ESP32_BT_WF.git|Contributed|Blynk_Async_ESP32_BT_WF
+https://github.com/neroroxxx/RoxMux.git|Contributed|RoxMux
