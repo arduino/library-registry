@@ -3393,3 +3393,4 @@ https://github.com/WPIRoboticsEngineering/wpi-32u4-library.git|Contributed|wpi-3
 https://github.com/freaklabs/cmdArduino.git|Contributed|cmdArduino
 https://github.com/keimochizuki/cgnuino.git|Contributed|cgnuino
 https://github.com/openmv/openmv-arduino-rpc.git|Contributed|OpenMV Arduino RPC
+https://github.com/davetcc/TaskManagerIO.git|Contributed|TaskManagerIO
