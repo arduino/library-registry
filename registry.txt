@@ -3397,3 +3397,4 @@ https://github.com/davetcc/TaskManagerIO.git|Contributed|TaskManagerIO
 https://github.com/milador/EasyMorse.git|Contributed|EasyMorse
 https://github.com/m5stack/M5Core2.git|Contributed|M5Core2
 https://github.com/HNRobotica/LineTracker5.git|Contributed|LineTracker5 Library
+https://github.com/Kineis/ArduinoKim.git|Contributed|KIM
