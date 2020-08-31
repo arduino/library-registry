@@ -3404,3 +3404,4 @@ https://github.com/soburi/IoTivity-Lite.git|Contributed|IoTivity-Lite
 https://github.com/JoeyStrandnes/Arduino-Toggl-API.git|Contributed|Toggl API v8 - Arduino Implementation
 https://github.com/ucloud/ucloud-iot-sdk-arduino.git|Contributed|UCloudIoTSDK
 https://github.com/dmadison/ServoInput.git|Contributed|ServoInput
+https://github.com/adafruit/Adafruit_SSD1327.git|Contributed|Adafruit SSD1327
