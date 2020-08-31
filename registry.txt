@@ -3395,3 +3395,4 @@ https://github.com/keimochizuki/cgnuino.git|Contributed|cgnuino
 https://github.com/openmv/openmv-arduino-rpc.git|Contributed|OpenMV Arduino RPC
 https://github.com/davetcc/TaskManagerIO.git|Contributed|TaskManagerIO
 https://github.com/milador/EasyMorse.git|Contributed|EasyMorse
+https://github.com/m5stack/M5Core2.git|Contributed|M5Core2
