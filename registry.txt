@@ -3417,3 +3417,4 @@ https://github.com/h2zero/NimBLE-Arduino.git|Contributed|NimBLE-Arduino
 https://github.com/AnyLeaf/ph-cpp.git|Contributed|Anyleaf
 https://github.com/warhog/Arduino-MedianFilter.git|Contributed|MedianFilterLib2
 https://github.com/leftCoast/LC_lilParser.git|Contributed|LC_lilParser
+https://github.com/LinnesLab/KickFilters.git|Contributed|KickFilters
