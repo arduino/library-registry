@@ -3412,3 +3412,4 @@ https://github.com/khoih-prog/Blynk_Async_WM.git|Contributed|Blynk_Async_WM
 https://github.com/Staacks/phyphox-arduino.git|Contributed|phyphox BLE
 https://github.com/drp0/ADCDRP.git|Contributed|ADCDRP
 https://github.com/BriscoeTech/Arduino-FreeRTOS-SAMD51.git|Contributed|FreeRTOS_SAMD51
+https://github.com/pu2clr/bk108x.git|Contributed|PU2CLR BK108X
