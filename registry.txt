@@ -3423,3 +3423,4 @@ https://github.com/LinnesLab/tTestTable.git|Contributed|ttestTable
 https://github.com/LinnesLab/KickMath.git|Contributed|KickMath
 https://github.com/LinnesLab/TrigDef.git|Contributed|TrigDef
 https://github.com/linneslab/kickfft.git|Contributed|KickFFT
+https://github.com/khoih-prog/ESPAsync_WiFiManager.git|Contributed|ESPAsync_WiFiManager
