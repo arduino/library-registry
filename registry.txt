@@ -3420,3 +3420,4 @@ https://github.com/leftCoast/LC_lilParser.git|Contributed|LC_lilParser
 https://github.com/LinnesLab/KickFilters.git|Contributed|KickFilters
 https://github.com/LinnesLab/KickFiltersRT.git|Contributed|KickFiltersRT
 https://github.com/LinnesLab/tTestTable.git|Contributed|ttestTable
+https://github.com/LinnesLab/KickMath.git|Contributed|KickMath
