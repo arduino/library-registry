@@ -3401,3 +3401,4 @@ https://github.com/Kineis/ArduinoKim.git|Contributed|KIM
 https://github.com/khoih-prog/Blynk_Async_GSM_Manager.git|Contributed|Blynk_Async_GSM_Manager
 https://github.com/soburi/IoTivity-Lite_arduino-porting.git|Contributed|IoTivity-Lite_Arduino-porting
 https://github.com/soburi/IoTivity-Lite.git|Contributed|IoTivity-Lite
+https://github.com/JoeyStrandnes/Arduino-Toggl-API.git|Contributed|Toggl API v8 - Arduino Implementation
