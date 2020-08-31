@@ -3391,3 +3391,4 @@ https://github.com/adafruit/Adafruit_MS8607.git|Contributed|Adafruit MS8607
 https://github.com/d03n3rfr1tz3/HC-SR04.git|Contributed|HC-SR04
 https://github.com/WPIRoboticsEngineering/wpi-32u4-library.git|Contributed|wpi-32u4-library
 https://github.com/freaklabs/cmdArduino.git|Contributed|cmdArduino
+https://github.com/keimochizuki/cgnuino.git|Contributed|cgnuino
