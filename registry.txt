@@ -3432,3 +3432,4 @@ https://github.com/witnessmenow/arduino-slack-api.git|Contributed|SlackAPI
 https://github.com/ZachEnglish/NanoProtoShield.git|Contributed|NanoProtoShield
 https://github.com/Laserlicht/MaerklinMotorola.git|Contributed|MaerklinMotorola
 https://github.com/asukiaaa/I2cControlPanel_asukiaaa.git|Contributed|I2cControlPanel_asukiaaa
+https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG_Arduino_Library.git|Contributed|SparkFun ProDriver TC78G670FTG Arduino Library
