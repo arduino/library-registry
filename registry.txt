@@ -77,8 +77,7 @@ https://github.com/arduino-libraries/Arduino_KNN.git|Arduino|Arduino_KNN
 https://github.com/arduino-libraries/Arduino_OV767X.git|Arduino|Arduino_OV767X
 https://github.com/arduino-libraries/Arduino_BQ24195.git|Arduino|Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_MKRIoTCarrier.git|Arduino|Arduino_MKRIoTCarrier
-# Removed due to license issues
-# https://github.com/arduino-libraries/Arduino_QTouch.git|Arduino|Arduino_QTouch
+https://github.com/arduino-libraries/Arduino_MCHPTouch.git|Arduino|Arduino_MCHPTouch
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
