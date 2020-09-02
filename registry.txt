@@ -3429,3 +3429,4 @@ https://github.com/khoih-prog/ESPAsync_WiFiManager.git|Contributed|ESPAsync_WiFi
 https://github.com/DaniFoldi/Async_Operations.git|Contributed|Async_Operations
 https://github.com/sstaub/Ticker.git|Contributed|Ticker
 https://github.com/witnessmenow/arduino-slack-api.git|Contributed|SlackAPI
+https://github.com/ZachEnglish/NanoProtoShield.git|Contributed|NanoProtoShield
