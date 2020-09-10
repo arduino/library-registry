@@ -78,6 +78,7 @@ https://github.com/arduino-libraries/Arduino_OV767X.git|Arduino|Arduino_OV767X
 https://github.com/arduino-libraries/Arduino_BQ24195.git|Arduino|Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_MKRIoTCarrier.git|Arduino|Arduino_MKRIoTCarrier
 https://github.com/arduino-libraries/Arduino_MCHPTouch.git|Arduino|Arduino_MCHPTouch
+https://github.com/arduino-libraries/Arduino_ScienceJournal.git|Arduino|Arduino_ScienceJournal
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
