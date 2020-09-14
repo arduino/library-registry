@@ -3450,3 +3450,4 @@ https://github.com/khoih-prog/AsyncDNSServer_STM32.git|Contributed|AsyncDNSServe
 https://github.com/blazer82/FT81x_Arduino_Driver.git|Contributed|FT81x Arduino Driver
 https://github.com/tomoto/Arduino_Tomoto_HM330X.git|Contributed|HM330X by Tomoto
 https://github.com/khoih-prog/AsyncUDP_STM32.git|Contributed|AsyncUDP_STM32
+https://github.com/DaleGia/Nano33BLESensor.git|Contributed|Nano33BLESensor
