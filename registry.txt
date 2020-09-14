@@ -2402,11 +2402,6 @@ https://github.com/Infineon/TLI4970-D050T4-Current-Sensor.git|Contributed|TLI497
 https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202.git|Contributed|RGB LED Lighting Shield XMC1202
 https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300.git|Contributed|IFX9201_XMC1300_StepperMotor
 https://github.com/Infineon/OPTIGA-Trust-E-Security-Controller.git|Contributed|OPTIGATrustE
-https://github.com/obdevel/CBUS.git|Contributed|CBUS
-https://github.com/obdevel/CBUS2515.git|Contributed|CBUS2515
-https://github.com/obdevel/CBUSconfig.git|Contributed|CBUSconfig
-https://github.com/obdevel/CBUSLED.git|Contributed|CBUSLED
-https://github.com/obdevel/CBUSswitch.git|Contributed|CBUSSwitch
 https://github.com/adafruit/Adafruit_Arcada_GifDecoder.git|Contributed|Adafruit Arcada GifDecoder
 https://github.com/haimoz/SoftFilters.git|Contributed|SoftFilters
 https://github.com/drewfish/arduino-TrimWright.git|Contributed|TrimWright
@@ -3437,3 +3432,8 @@ https://github.com/ocrdu/Arduino_SAMD21_Audio_Player.git|Contributed|SAMD21 Audi
 https://github.com/khoih-prog/AsyncHTTPRequest_Generic.git|Contributed|AsyncHTTPRequest_Generic
 https://github.com/TechnoPhysCAL/TGP_Decodeur.git|Contributed|TGP Decodeur
 https://github.com/khoih-prog/DDNS_Generic.git|Contributed|DDNS_Generic
+https://github.com/MERG-DEV/CBUS.git|Contributed|CBUS
+https://github.com/MERG-DEV/CBUS2515.git|Contributed|CBUS2515
+https://github.com/MERG-DEV/CBUSLED.git|Contributed|CBUSLED
+https://github.com/MERG-DEV/CBUSswitch.git|Contributed|CBUSSwitch
+https://github.com/MERG-DEV/CBUSconfig.git|Contributed|CBUSconfig
