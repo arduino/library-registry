@@ -3452,3 +3452,4 @@ https://github.com/tomoto/Arduino_Tomoto_HM330X.git|Contributed|HM330X by Tomoto
 https://github.com/khoih-prog/AsyncUDP_STM32.git|Contributed|AsyncUDP_STM32
 https://github.com/DaleGia/Nano33BLESensor.git|Contributed|Nano33BLESensor
 https://github.com/PowerBroker2/Autopilot.git|Contributed|Autopilot
+https://github.com/khoih-prog/AsyncWebServer_STM32.git|Contributed|AsyncWebServer_STM32
