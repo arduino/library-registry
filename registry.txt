@@ -3448,3 +3448,4 @@ https://github.com/rocketscream/RocketScream_RTCAVRZero.git|Contributed|Rocket S
 https://github.com/RobTillaart/FastTrig.git|Contributed|FastTrig
 https://github.com/khoih-prog/AsyncDNSServer_STM32.git|Contributed|AsyncDNSServer_STM32
 https://github.com/blazer82/FT81x_Arduino_Driver.git|Contributed|FT81x Arduino Driver
+https://github.com/tomoto/Arduino_Tomoto_HM330X.git|Contributed|HM330X by Tomoto
