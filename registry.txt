@@ -3437,3 +3437,5 @@ https://github.com/MERG-DEV/CBUS2515.git|Contributed|CBUS2515
 https://github.com/MERG-DEV/CBUSLED.git|Contributed|CBUSLED
 https://github.com/MERG-DEV/CBUSswitch.git|Contributed|CBUSSwitch
 https://github.com/MERG-DEV/CBUSconfig.git|Contributed|CBUSconfig
+https://github.com/MERG-DEV/CBUSBUZZER.git|Contributed|CBUSBUZZER
+https://github.com/CsCrazy85/SCA100T.git|Contributed|SCA100T
