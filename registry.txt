@@ -3435,3 +3435,4 @@ https://github.com/asukiaaa/I2cControlPanel_asukiaaa.git|Contributed|I2cControlP
 https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG_Arduino_Library.git|Contributed|SparkFun ProDriver TC78G670FTG Arduino Library
 https://github.com/ocrdu/Arduino_SAMD21_Audio_Player.git|Contributed|SAMD21 Audio Player
 https://github.com/khoih-prog/AsyncHTTPRequest_Generic.git|Contributed|AsyncHTTPRequest_Generic
+https://github.com/TechnoPhysCAL/TGP_Decodeur.git|Contributed|TGP Decodeur
