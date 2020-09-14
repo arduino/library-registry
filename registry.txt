@@ -3444,3 +3444,4 @@ https://github.com/xreef/DHT12_sensor_library.git|Contributed|DHT12 sensor libra
 https://github.com/Infineon/TLI493D-W2BW.git|Contributed|TLI493D
 https://github.com/plapointe6/HAMqttDevice.git|Contributed|HAMqttDevice
 https://github.com/rocketscream/RocketScream_LowPowerAVRZero.git|Contributed|Rocket Scream LowPowerAVRZero
+https://github.com/rocketscream/RocketScream_RTCAVRZero.git|Contributed|Rocket Scream RTCAVRZero
