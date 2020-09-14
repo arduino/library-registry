@@ -3439,3 +3439,4 @@ https://github.com/MERG-DEV/CBUSswitch.git|Contributed|CBUSSwitch
 https://github.com/MERG-DEV/CBUSconfig.git|Contributed|CBUSconfig
 https://github.com/MERG-DEV/CBUSBUZZER.git|Contributed|CBUSBUZZER
 https://github.com/CsCrazy85/SCA100T.git|Contributed|SCA100T
+https://github.com/sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library.git|Contributed|SparkFun Particle Sensor Panasonic SN-GCJA5
