@@ -3446,3 +3446,4 @@ https://github.com/plapointe6/HAMqttDevice.git|Contributed|HAMqttDevice
 https://github.com/rocketscream/RocketScream_LowPowerAVRZero.git|Contributed|Rocket Scream LowPowerAVRZero
 https://github.com/rocketscream/RocketScream_RTCAVRZero.git|Contributed|Rocket Scream RTCAVRZero
 https://github.com/RobTillaart/FastTrig.git|Contributed|FastTrig
+https://github.com/khoih-prog/AsyncDNSServer_STM32.git|Contributed|AsyncDNSServer_STM32
