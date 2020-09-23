@@ -3459,3 +3459,4 @@ https://github.com/TechnoPhysCAL/TGP_Bouton.git|Contributed|TGP Bouton
 https://github.com/TechnoPhysCAL/TGP_Del.git|Contributed|TGP Del
 https://github.com/TechnoPhysCAL/TGP_Ecran.git|Contributed|TGP Ecran
 https://github.com/TechnoPhysCAL/TGP_ProtoTGP.git|Contributed|TGP ProtoTGP
+https://github.com/TechnoPhysCAL/TGP_MenuOLED.git|Contributed|TGP Menu OLED
