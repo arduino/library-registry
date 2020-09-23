@@ -3454,3 +3454,4 @@ https://github.com/DaleGia/Nano33BLESensor.git|Contributed|Nano33BLESensor
 https://github.com/PowerBroker2/Autopilot.git|Contributed|Autopilot
 https://github.com/khoih-prog/AsyncWebServer_STM32.git|Contributed|AsyncWebServer_STM32
 https://github.com/lorol/LITTLEFS.git|Contributed|LittleFS_esp32
+https://github.com/aptinex/Aptinex_DAC.git|Contributed|APTINEX DAC
