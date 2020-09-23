@@ -3477,3 +3477,4 @@ https://github.com/adafruit/Adafruit_BNO08x_RVC.git|Contributed|Adafruit BNO08x 
 https://github.com/khoih-prog/UPnP_Generic.git|Contributed|UPnP_Generic
 https://github.com/stm32duino/VL53L1.git|Contributed|STM32duino VL53L1
 https://github.com/stm32duino/X-NUCLEO-53L1A2.git|Contributed|STM32duino X-NUCLEO-53L1A2
+https://github.com/stm32duino/VL53L3CX.git|Contributed|STM32duino VL53L3CX
