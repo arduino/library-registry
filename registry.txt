@@ -3457,3 +3457,4 @@ https://github.com/lorol/LITTLEFS.git|Contributed|LittleFS_esp32
 https://github.com/aptinex/Aptinex_DAC.git|Contributed|APTINEX DAC
 https://github.com/TechnoPhysCAL/TGP_Bouton.git|Contributed|TGP Bouton
 https://github.com/TechnoPhysCAL/TGP_Del.git|Contributed|TGP Del
+https://github.com/TechnoPhysCAL/TGP_Ecran.git|Contributed|TGP Ecran
