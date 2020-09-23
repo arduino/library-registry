@@ -3462,3 +3462,4 @@ https://github.com/TechnoPhysCAL/TGP_MenuOLED.git|Contributed|TGP Menu OLED
 https://github.com/jandrassy/EthernetENC.git|Contributed|EthernetENC
 https://github.com/bxparks/AceUtils.git|Contributed|AceUtils
 https://github.com/Quirkbot/QuirkbotArduinoLibrary.git|Contributed|Strawbees Quirkbot
+https://github.com/1IoT/cloud-connectivity-lib.git|Contributed|OneIoT Connectivity
