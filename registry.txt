@@ -3470,3 +3470,4 @@ https://github.com/thebigpotatoe/Feature-Variables.git|Contributed|Feature-Varia
 https://github.com/UBTEDU/uKitExplore-library.git|Contributed|uKit Explore
 https://github.com/blues/note-arduino.git|Contributed|Blues Wireless Notecard
 https://github.com/xreef/ABB_Aurora_Solar_Inverter_Library.git|Contributed|ABB PowerOne Aurora inverter communication protocol
+https://github.com/pacocatech/LedUtil.git|Contributed|LedUtil
