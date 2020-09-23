@@ -3466,3 +3466,4 @@ https://github.com/1IoT/cloud-connectivity-lib.git|Contributed|OneIoT Connectivi
 https://github.com/Robokishan/Arduino-Scheduler.git|Contributed|Taskrunner
 https://github.com/HuangYuTse/GM1602lib.git|Contributed|GM1602lib
 https://github.com/GGorAA/MorsDuino.git|Contributed|MorseDuino
+https://github.com/thebigpotatoe/Feature-Variables.git|Contributed|Feature-Variables
