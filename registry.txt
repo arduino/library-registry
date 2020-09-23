@@ -3461,3 +3461,4 @@ https://github.com/TechnoPhysCAL/TGP_Ecran.git|Contributed|TGP Ecran
 https://github.com/TechnoPhysCAL/TGP_ProtoTGP.git|Contributed|TGP ProtoTGP
 https://github.com/TechnoPhysCAL/TGP_MenuOLED.git|Contributed|TGP Menu OLED
 https://github.com/jandrassy/EthernetENC.git|Contributed|EthernetENC
+https://github.com/bxparks/AceUtils.git|Contributed|AceUtils
