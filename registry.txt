@@ -3479,3 +3479,4 @@ https://github.com/stm32duino/VL53L1.git|Contributed|STM32duino VL53L1
 https://github.com/stm32duino/X-NUCLEO-53L1A2.git|Contributed|STM32duino X-NUCLEO-53L1A2
 https://github.com/stm32duino/VL53L3CX.git|Contributed|STM32duino VL53L3CX
 https://github.com/stm32duino/X-NUCLEO-53L3A2.git|Contributed|STM32duino X-NUCLEO-53L3A2
+https://github.com/stm32duino/X-NUCLEO-IHM05A1.git|Contributed|STM32duino X-NUCLEO-IHM05A1
