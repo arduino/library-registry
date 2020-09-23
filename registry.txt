@@ -389,7 +389,6 @@ https://github.com/pololu/a-star-32u4-arduino-library.git|Contributed|AStar32U4
 https://github.com/pololu/maestro-arduino.git|Contributed|PololuMaestro
 https://github.com/pololu/zumo-32u4-arduino-library.git|Contributed|Zumo32U4
 https://github.com/printoo/printoo_library.git|Contributed|Printoo_Library
-https://github.com/Quirkbot/QuirkbotArduinoLibrary.git|Contributed|Quirkbot
 https://github.com/RedBearLab/nRF8001.git|Contributed|RBL_nRF8001
 https://github.com/ReefPOM/OSPOM.git|Contributed|Ospom
 https://github.com/rlogiacco/AnalogButtons.git|Contributed|Analog Buttons
@@ -3462,3 +3461,4 @@ https://github.com/TechnoPhysCAL/TGP_ProtoTGP.git|Contributed|TGP ProtoTGP
 https://github.com/TechnoPhysCAL/TGP_MenuOLED.git|Contributed|TGP Menu OLED
 https://github.com/jandrassy/EthernetENC.git|Contributed|EthernetENC
 https://github.com/bxparks/AceUtils.git|Contributed|AceUtils
+https://github.com/Quirkbot/QuirkbotArduinoLibrary.git|Contributed|Strawbees Quirkbot
