@@ -3468,3 +3468,4 @@ https://github.com/HuangYuTse/GM1602lib.git|Contributed|GM1602lib
 https://github.com/GGorAA/MorsDuino.git|Contributed|MorseDuino
 https://github.com/thebigpotatoe/Feature-Variables.git|Contributed|Feature-Variables
 https://github.com/UBTEDU/uKitExplore-library.git|Contributed|uKit Explore
+https://github.com/blues/note-arduino.git|Contributed|Blues Wireless Notecard
