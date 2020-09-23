@@ -3473,3 +3473,4 @@ https://github.com/xreef/ABB_Aurora_Solar_Inverter_Library.git|Contributed|ABB P
 https://github.com/pacocatech/LedUtil.git|Contributed|LedUtil
 https://github.com/buelowp/sunset.git|Contributed|sunset
 https://github.com/adafruit/Adafruit_BNO08x.git|Contributed|Adafruit BNO08x
+https://github.com/adafruit/Adafruit_BNO08x_RVC.git|Contributed|Adafruit BNO08x RVC
