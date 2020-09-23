@@ -3464,3 +3464,4 @@ https://github.com/bxparks/AceUtils.git|Contributed|AceUtils
 https://github.com/Quirkbot/QuirkbotArduinoLibrary.git|Contributed|Strawbees Quirkbot
 https://github.com/1IoT/cloud-connectivity-lib.git|Contributed|OneIoT Connectivity
 https://github.com/Robokishan/Arduino-Scheduler.git|Contributed|Taskrunner
+https://github.com/HuangYuTse/GM1602lib.git|Contributed|GM1602lib
