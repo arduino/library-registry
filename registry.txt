@@ -3484,3 +3484,4 @@ https://github.com/m5stack/TimerCam-arduino.git|Contributed|Timer-CAM
 https://github.com/asukiaaa/I2cMultipleMotors_asukiaaa.git|Contributed|I2cMultipleMotors_asukiaaa
 https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library.git|Contributed|SparkFun Qwiic GPIO TCA9534 Arduino Library
 https://github.com/phlpjo/MkrGsm1400IoT.git|Contributed|MkrGsm1400IoT
+https://github.com/Kongduino/LoRandom.git|Contributed|LoRandom
