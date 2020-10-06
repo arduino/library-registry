@@ -3496,3 +3496,4 @@ https://github.com/BrushlessPower/SBUS2-Telemetry.git|Contributed|SBUS2
 https://github.com/KravitzLabDevices/FED3_library.git|Contributed|FED3
 https://github.com/jedp/PMSensor-HPMA115.git|Contributed|PMSensor-HPMA115
 https://github.com/mcci-catena/MCCI_Catena_SDP.git|Contributed|MCCI Catena SDP
+https://github.com/asukiaaa/arduino-button.git|Contributed|button_asukiaaa
