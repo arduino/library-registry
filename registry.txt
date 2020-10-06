@@ -3500,3 +3500,4 @@ https://github.com/asukiaaa/arduino-button.git|Contributed|button_asukiaaa
 https://github.com/asukiaaa/arduino-string.git|Contributed|string_asukiaaa
 https://github.com/asukiaaa/arduino-wire.git|Contributed|wire_asukiaaa
 https://github.com/budryerson/TFLuna-I2C.git|Contributed|TFLI2C
+https://github.com/will2055/AS6212-Temperature-Sensor-Breakout.git|Contributed|AS6212 Temperature Sensor
