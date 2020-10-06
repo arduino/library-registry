@@ -3489,3 +3489,4 @@ https://github.com/asukiaaa/arduino-rs485.git|Contributed|rs485_asukiaaa
 https://github.com/lucalas/StreamlabsArduinoAlerts.git|Contributed|StreamlabsArduinoAlerts
 https://github.com/DjamesSuhanko/EasyPCF8574.git|Contributed|EasyPCF8574
 https://github.com/killer0071234/esp_abus.git|Contributed|esp_abus
+https://github.com/JSC-electronics/Ticker.git|Contributed|SimpleTicker
