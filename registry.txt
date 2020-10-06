@@ -3490,3 +3490,4 @@ https://github.com/lucalas/StreamlabsArduinoAlerts.git|Contributed|StreamlabsArd
 https://github.com/DjamesSuhanko/EasyPCF8574.git|Contributed|EasyPCF8574
 https://github.com/killer0071234/esp_abus.git|Contributed|esp_abus
 https://github.com/JSC-electronics/Ticker.git|Contributed|SimpleTicker
+https://github.com/blackhack/LCD_I2C.git|Contributed|LCD_I2C
