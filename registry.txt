@@ -3499,3 +3499,4 @@ https://github.com/mcci-catena/MCCI_Catena_SDP.git|Contributed|MCCI Catena SDP
 https://github.com/asukiaaa/arduino-button.git|Contributed|button_asukiaaa
 https://github.com/asukiaaa/arduino-string.git|Contributed|string_asukiaaa
 https://github.com/asukiaaa/arduino-wire.git|Contributed|wire_asukiaaa
+https://github.com/budryerson/TFLuna-I2C.git|Contributed|TFLI2C
