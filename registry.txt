@@ -3493,3 +3493,4 @@ https://github.com/JSC-electronics/Ticker.git|Contributed|SimpleTicker
 https://github.com/blackhack/LCD_I2C.git|Contributed|LCD_I2C
 https://github.com/codecodecodec/CCC_Lib.git|Contributed|CodeCodeCodec Library
 https://github.com/BrushlessPower/SBUS2-Telemetry.git|Contributed|SBUS2
+https://github.com/KravitzLabDevices/FED3_library.git|Contributed|FED3
