@@ -3485,3 +3485,4 @@ https://github.com/asukiaaa/I2cMultipleMotors_asukiaaa.git|Contributed|I2cMultip
 https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library.git|Contributed|SparkFun Qwiic GPIO TCA9534 Arduino Library
 https://github.com/phlpjo/MkrGsm1400IoT.git|Contributed|MkrGsm1400IoT
 https://github.com/Kongduino/LoRandom.git|Contributed|LoRandom
+https://github.com/asukiaaa/arduino-rs485.git|Contributed|rs485_asukiaaa
