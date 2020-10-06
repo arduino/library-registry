@@ -3486,3 +3486,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library.git|Contributed|SparkFun
 https://github.com/phlpjo/MkrGsm1400IoT.git|Contributed|MkrGsm1400IoT
 https://github.com/Kongduino/LoRandom.git|Contributed|LoRandom
 https://github.com/asukiaaa/arduino-rs485.git|Contributed|rs485_asukiaaa
+https://github.com/lucalas/StreamlabsArduinoAlerts.git|Contributed|StreamlabsArduinoAlerts
