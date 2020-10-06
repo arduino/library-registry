@@ -3492,3 +3492,4 @@ https://github.com/killer0071234/esp_abus.git|Contributed|esp_abus
 https://github.com/JSC-electronics/Ticker.git|Contributed|SimpleTicker
 https://github.com/blackhack/LCD_I2C.git|Contributed|LCD_I2C
 https://github.com/codecodecodec/CCC_Lib.git|Contributed|CodeCodeCodec Library
+https://github.com/BrushlessPower/SBUS2-Telemetry.git|Contributed|SBUS2
