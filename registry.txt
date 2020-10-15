@@ -38,6 +38,7 @@ https://github.com/arduino-libraries/ArduinoSound.git|Arduino|ArduinoSound
 https://github.com/arduino-libraries/ArduinoMDNS.git|Arduino|ArduinoMDNS
 https://github.com/arduino-libraries/MKRGSM.git|Arduino|MKRGSM
 https://github.com/arduino-libraries/MKRWAN.git|Arduino|MKRWAN
+https://github.com/arduino-libraries/MKRWAN_v2.git|Arduino|MKRWAN_v2
 https://github.com/arduino-libraries/MKRMotorCarrier.git|Arduino|MKRMotorCarrier
 https://github.com/arduino-libraries/ArduinoMotorCarrier.git|Arduino|ArduinoMotorCarrier
 https://github.com/arduino-libraries/BNO055.git|Arduino|BNO055
