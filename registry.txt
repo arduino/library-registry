@@ -3501,7 +3501,6 @@ https://github.com/asukiaaa/arduino-button.git|Contributed|button_asukiaaa
 https://github.com/asukiaaa/arduino-string.git|Contributed|string_asukiaaa
 https://github.com/asukiaaa/arduino-wire.git|Contributed|wire_asukiaaa
 https://github.com/budryerson/TFLuna-I2C.git|Contributed|TFLI2C
-https://github.com/will2055/AS6212-Temperature-Sensor-Breakout.git|Contributed|AS6212 Temperature Sensor
 https://github.com/YashuYathi/controlKeyboard.git|Contributed|controlKeyboard
 https://github.com/ArminJo/PWMMotorControl.git|Contributed|PWMMotorControl
 https://github.com/lbernstone/plotutils.git|Contributed|plotutils
@@ -3520,3 +3519,4 @@ https://github.com/HomeControlAS/homecontrol-mqtt.git|Contributed|homecontrol-mq
 https://github.com/Qudor-Engineer/DMD32.git|Contributed|DMD32
 https://github.com/MCUdude/SigmaDSP.git|Contributed|SigmaDSP
 https://github.com/ponoor/Ponoor_PowerSTEP01_Library.git|Contributed|Ponoor PowerSTEP01 Library
+https://github.com/will2055/AS6212-Arduino-Library.git|Contributed|AS6212 Temperature Sensor
