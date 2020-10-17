@@ -3509,3 +3509,4 @@ https://github.com/melopero/Melopero_BME280_Arduino_Library.git|Contributed|Melo
 https://github.com/hideakitai/HyperDeck.git|Contributed|HyperDeck
 https://github.com/WitchCraftWorks/arduino-MCP2515-nb.git|Contributed|MCP2515-nb
 https://github.com/melopero/Melopero_RV-3028_Arduino_Library.git|Contributed|Melopero RV3028
+https://github.com/Locoduino/LightEffect.git|Contributed|LightEffect
