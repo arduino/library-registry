@@ -3516,3 +3516,4 @@ https://github.com/melopero/Melopero_VL53L1X_Arduino_Library.git|Contributed|Mel
 https://github.com/adafruit/Adafruit_MLX90395.git|Contributed|Adafruit MLX90395
 https://github.com/lathoub/Arduino-BLE-MIDI.git|Contributed|BLE-MIDI
 https://github.com/adafruit/Adafruit_TLA202x.git|Contributed|Adafruit TLA202x
+https://github.com/HomeControlAS/homecontrol-mqtt.git|Contributed|homecontrol-mqtt
