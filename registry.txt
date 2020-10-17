@@ -3504,3 +3504,4 @@ https://github.com/budryerson/TFLuna-I2C.git|Contributed|TFLI2C
 https://github.com/will2055/AS6212-Temperature-Sensor-Breakout.git|Contributed|AS6212 Temperature Sensor
 https://github.com/YashuYathi/controlKeyboard.git|Contributed|controlKeyboard
 https://github.com/ArminJo/PWMMotorControl.git|Contributed|PWMMotorControl
+https://github.com/lbernstone/plotutils.git|Contributed|plotutils
