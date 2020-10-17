@@ -3512,3 +3512,4 @@ https://github.com/melopero/Melopero_RV-3028_Arduino_Library.git|Contributed|Mel
 https://github.com/Locoduino/LightEffect.git|Contributed|LightEffect
 https://github.com/dajtxx/ZeroTC45.git|Contributed|ZeroTC45
 https://github.com/SiddheshNan/ThingESP-Arduino-Library.git|Contributed|ThingESP
+https://github.com/melopero/Melopero_VL53L1X_Arduino_Library.git|Contributed|Melopero VL53L1X
