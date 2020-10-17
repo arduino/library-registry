@@ -3517,3 +3517,4 @@ https://github.com/adafruit/Adafruit_MLX90395.git|Contributed|Adafruit MLX90395
 https://github.com/lathoub/Arduino-BLE-MIDI.git|Contributed|BLE-MIDI
 https://github.com/adafruit/Adafruit_TLA202x.git|Contributed|Adafruit TLA202x
 https://github.com/HomeControlAS/homecontrol-mqtt.git|Contributed|homecontrol-mqtt
+https://github.com/Qudor-Engineer/DMD32.git|Contributed|DMD32
