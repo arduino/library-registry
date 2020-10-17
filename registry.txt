@@ -3505,3 +3505,4 @@ https://github.com/will2055/AS6212-Temperature-Sensor-Breakout.git|Contributed|A
 https://github.com/YashuYathi/controlKeyboard.git|Contributed|controlKeyboard
 https://github.com/ArminJo/PWMMotorControl.git|Contributed|PWMMotorControl
 https://github.com/lbernstone/plotutils.git|Contributed|plotutils
+https://github.com/melopero/Melopero_BME280_Arduino_Library.git|Contributed|Melopero BME280
