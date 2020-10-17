@@ -3508,3 +3508,4 @@ https://github.com/lbernstone/plotutils.git|Contributed|plotutils
 https://github.com/melopero/Melopero_BME280_Arduino_Library.git|Contributed|Melopero BME280
 https://github.com/hideakitai/HyperDeck.git|Contributed|HyperDeck
 https://github.com/WitchCraftWorks/arduino-MCP2515-nb.git|Contributed|MCP2515-nb
+https://github.com/melopero/Melopero_RV-3028_Arduino_Library.git|Contributed|Melopero RV3028
