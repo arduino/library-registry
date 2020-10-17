@@ -3519,3 +3519,4 @@ https://github.com/adafruit/Adafruit_TLA202x.git|Contributed|Adafruit TLA202x
 https://github.com/HomeControlAS/homecontrol-mqtt.git|Contributed|homecontrol-mqtt
 https://github.com/Qudor-Engineer/DMD32.git|Contributed|DMD32
 https://github.com/MCUdude/SigmaDSP.git|Contributed|SigmaDSP
+https://github.com/ponoor/Ponoor_PowerSTEP01_Library.git|Contributed|Ponoor PowerSTEP01 Library
