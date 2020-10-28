@@ -3535,3 +3535,4 @@ https://github.com/xreef/PCF8575_library.git|Contributed|PCF8575 library
 https://github.com/xreef/PCF8591_library.git|Contributed|PCF8591 library
 https://github.com/max22-/ESP32-BLE-MIDI.git|Contributed|ESP32-BLE-MIDI
 https://github.com/sparkfun/SparkFun_MAX1704x_Fuel_Gauge_Arduino_Library.git|Contributed|SparkFun MAX1704x Fuel Gauge Arduino Library
+https://github.com/DjamesSuhanko/EasyColor.git|Contributed|EasyColor
