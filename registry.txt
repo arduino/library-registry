@@ -3542,3 +3542,4 @@ https://github.com/LILCMU/GoGoBoard-Arduino.git|Contributed|GoGoBoard Arduino Li
 https://github.com/NHBSystems/NHB_AD7794.git|Contributed|NHB_AD7794
 https://github.com/sparkfun/HyperDisplay_ILI9341_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay ILI9341
 https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary.git|Contributed|SparkFun HyperDisplay 4DLCD-320240
+https://github.com/sparkfun/SparkFun_MicroMod_Button_Arduino_Library.git|Contributed|SparkFun MicroMod Button
