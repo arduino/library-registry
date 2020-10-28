@@ -3547,3 +3547,4 @@ https://github.com/bxparks/AceCommon.git|Contributed|AceCommon
 https://github.com/khoih-prog/Timezone_Generic.git|Contributed|Timezone_Generic
 https://github.com/stdevPavelmc/ft817.git|Contributed|ft817
 https://github.com/khoih-prog/DS323x_Generic.git|Contributed|DS323x_Generic
+https://github.com/andrasbiro/AmigaMouseJoyEmu.git|Contributed|AmigaMouseJoyEmu
