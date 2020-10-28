@@ -3532,3 +3532,4 @@ https://github.com/akkoyun/GE910.git|Contributed|Telit GE910 GSM Library
 https://github.com/khoih-prog/NTPClient_Generic.git|Contributed|NTPClient_Generic
 https://github.com/adafruit/Adafruit_EMC2101.git|Contributed|Adafruit EMC2101
 https://github.com/xreef/PCF8575_library.git|Contributed|PCF8575 library
+https://github.com/xreef/PCF8591_library.git|Contributed|PCF8591 library
