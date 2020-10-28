@@ -3523,3 +3523,4 @@ https://github.com/will2055/AS6212-Arduino-Library.git|Contributed|AS6212 Temper
 https://github.com/RobTillaart/runningAngle.git|Contributed|runningAngle
 https://github.com/Protocentral/protocentral_mlx90632_arduino.git|Contributed|ProtoCentral MLX90632 Non-contact temperature Library
 https://github.com/ChrisDinhNZ/SMoS-cpp.git|Contributed|SMoS
+https://github.com/dualB/Melody.git|Contributed|Melody
