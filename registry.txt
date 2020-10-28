@@ -3545,3 +3545,4 @@ https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary.git|Contrib
 https://github.com/sparkfun/SparkFun_MicroMod_Button_Arduino_Library.git|Contributed|SparkFun MicroMod Button
 https://github.com/bxparks/AceCommon.git|Contributed|AceCommon
 https://github.com/khoih-prog/Timezone_Generic.git|Contributed|Timezone_Generic
+https://github.com/stdevPavelmc/ft817.git|Contributed|ft817
