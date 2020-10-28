@@ -3528,3 +3528,4 @@ https://github.com/dualB/Musician.git|Contributed|Musician
 https://github.com/ArsaLearn/Arsa-Main.git|Contributed|ArsaLearn
 https://github.com/neroroxxx/BMC.git|Contributed|BMC
 https://github.com/bitbank2/TIFF_G4.git|Contributed|TIFF_G4
+https://github.com/akkoyun/GE910.git|Contributed|Telit GE910 GSM Library
