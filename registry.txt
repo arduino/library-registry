@@ -3560,3 +3560,4 @@ https://github.com/khoih-prog/SAMD_TimerInterrupt.git|Contributed|SAMD_TimerInte
 https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR.git|Contributed|Grove-3-Axis-Digital-Accelerometer-2g-to-16g-LIS3DHTR
 https://github.com/MrYsLab/Telemetrix4Arduino.git|Contributed|Telemetrix4Arduino
 https://github.com/zkemble/nRF905-arduino.git|Contributed|nRF905 Radio Library
+https://github.com/gicking/NeoHWSerial.git|Contributed|NeoHWSerial
