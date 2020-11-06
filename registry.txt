@@ -3564,3 +3564,4 @@ https://github.com/gicking/NeoHWSerial.git|Contributed|NeoHWSerial
 https://github.com/gavinlyonsrepo/ERM19264_UC1609.git|Contributed|ERM19264_UC1609
 https://github.com/Protocentral/protocentral-ads1292r-arduino.git|Contributed|ProtoCentral ADS1292R ECG and Respiration boards library
 https://github.com/limiteddata/SchedulerESP8266.git|Contributed|SchedulerESP8266
+https://github.com/khoih-prog/STM32_TimerInterrupt.git|Contributed|STM32_TimerInterrupt
