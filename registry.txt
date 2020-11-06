@@ -3570,3 +3570,4 @@ https://github.com/lucyamy/SevenSegInt.git|Contributed|SevenSegInt
 https://github.com/Protocentral/ProtoCentral_ads1262.git|Contributed|ProtoCentral ADS1262 32-bit precision ADC Library
 https://gitlab.com/konnekting/KonnektingFlashStorage.git|Contributed|KonnektingFlashStorage
 https://github.com/Edinburgh-College-of-Art/DesignInformaticsPCB.git|Contributed|Design Informatics Base
+https://github.com/kike-canaries/canairio_sensorlib.git|Contributed|CanAirIO Air Quality Sensors Library
