@@ -3556,3 +3556,4 @@ https://github.com/akkoyun/LinearRegression.git|Contributed|LinearRegression
 https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerInterrupt
 https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
 https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library.git|Contributed|SparkFun ADXL313 Arduino Library
+https://github.com/khoih-prog/SAMD_TimerInterrupt.git|Contributed|SAMD_TimerInterrupt
