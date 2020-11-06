@@ -3551,3 +3551,4 @@ https://github.com/andrasbiro/AmigaMouseJoyEmu.git|Contributed|AmigaMouseJoyEmu
 https://github.com/GerLech/LG_Matrix_Print.git|Contributed|LG_Matrix_Print
 https://github.com/khoih-prog/Teensy_TimerInterrupt.git|Contributed|Teensy_TimerInterrupt
 https://github.com/lexus2k/tinyhal.git|Contributed|tinyhal
+https://github.com/m5stack/M5-CoreInk.git|Contributed|M5-CoreInk
