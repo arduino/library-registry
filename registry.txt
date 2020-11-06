@@ -3557,3 +3557,4 @@ https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerIn
 https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
 https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library.git|Contributed|SparkFun ADXL313 Arduino Library
 https://github.com/khoih-prog/SAMD_TimerInterrupt.git|Contributed|SAMD_TimerInterrupt
+https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR.git|Contributed|Grove-3-Axis-Digital-Accelerometer-2g-to-16g-LIS3DHTR
