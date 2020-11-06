@@ -3567,3 +3567,4 @@ https://github.com/limiteddata/SchedulerESP8266.git|Contributed|SchedulerESP8266
 https://github.com/khoih-prog/STM32_TimerInterrupt.git|Contributed|STM32_TimerInterrupt
 https://github.com/rileyjshaw/Seg16.git|Contributed|Seg16
 https://github.com/lucyamy/SevenSegInt.git|Contributed|SevenSegInt
+https://github.com/Protocentral/ProtoCentral_ads1262.git|Contributed|ProtoCentral ADS1262 32-bit precision ADC Library
