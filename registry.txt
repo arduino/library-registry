@@ -3566,3 +3566,4 @@ https://github.com/Protocentral/protocentral-ads1292r-arduino.git|Contributed|Pr
 https://github.com/limiteddata/SchedulerESP8266.git|Contributed|SchedulerESP8266
 https://github.com/khoih-prog/STM32_TimerInterrupt.git|Contributed|STM32_TimerInterrupt
 https://github.com/rileyjshaw/Seg16.git|Contributed|Seg16
+https://github.com/lucyamy/SevenSegInt.git|Contributed|SevenSegInt
