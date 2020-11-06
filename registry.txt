@@ -3561,3 +3561,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR.git|Contributed|Grove-3-A
 https://github.com/MrYsLab/Telemetrix4Arduino.git|Contributed|Telemetrix4Arduino
 https://github.com/zkemble/nRF905-arduino.git|Contributed|nRF905 Radio Library
 https://github.com/gicking/NeoHWSerial.git|Contributed|NeoHWSerial
+https://github.com/gavinlyonsrepo/ERM19264_UC1609.git|Contributed|ERM19264_UC1609
