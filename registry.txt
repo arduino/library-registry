@@ -3554,3 +3554,4 @@ https://github.com/lexus2k/tinyhal.git|Contributed|tinyhal
 https://github.com/m5stack/M5-CoreInk.git|Contributed|M5-CoreInk
 https://github.com/akkoyun/LinearRegression.git|Contributed|LinearRegression
 https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerInterrupt
+https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
