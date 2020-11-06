@@ -3555,3 +3555,4 @@ https://github.com/m5stack/M5-CoreInk.git|Contributed|M5-CoreInk
 https://github.com/akkoyun/LinearRegression.git|Contributed|LinearRegression
 https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerInterrupt
 https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
+https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library.git|Contributed|SparkFun ADXL313 Arduino Library
