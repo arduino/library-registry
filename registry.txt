@@ -3549,3 +3549,4 @@ https://github.com/stdevPavelmc/ft817.git|Contributed|ft817
 https://github.com/khoih-prog/DS323x_Generic.git|Contributed|DS323x_Generic
 https://github.com/andrasbiro/AmigaMouseJoyEmu.git|Contributed|AmigaMouseJoyEmu
 https://github.com/GerLech/LG_Matrix_Print.git|Contributed|LG_Matrix_Print
+https://github.com/khoih-prog/Teensy_TimerInterrupt.git|Contributed|Teensy_TimerInterrupt
