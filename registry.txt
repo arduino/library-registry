@@ -3587,3 +3587,4 @@ https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library.git|Contributed|Sp
 https://github.com/sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library.git|Contributed|SparkFun ARGOS ARTIC R2 Arduino Library
 https://github.com/leaphy-robotics/leaphy-extensions-extra.git|Contributed|Leaphy Extra Extension
 https://github.com/Azure/azure-iot-arduino-socket-esp32-wifi.git|Contributed|AzureIoTSocket_WiFi
+https://github.com/lbernstone/rrdtool_ESP32.git|Contributed|rrdtool
