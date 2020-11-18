@@ -3586,3 +3586,4 @@ https://github.com/ecal-mid/ESP32Servo360.git|Contributed|ESP32Servo360
 https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library.git|Contributed|SparkFun Qwiic IR Thermometer MLX90614 Arduino Library
 https://github.com/sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library.git|Contributed|SparkFun ARGOS ARTIC R2 Arduino Library
 https://github.com/leaphy-robotics/leaphy-extensions-extra.git|Contributed|Leaphy Extra Extension
+https://github.com/Azure/azure-iot-arduino-socket-esp32-wifi.git|Contributed|AzureIoTSocket_WiFi
