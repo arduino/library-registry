@@ -3580,3 +3580,4 @@ https://github.com/lucyamy/LapX9C10X.git|Contributed|LapX9C10X
 https://github.com/khoih-prog/EthernetWebServer_SSL_STM32.git|Contributed|EthernetWebServer_SSL_STM32
 https://github.com/khoih-prog/EthernetWebServer_SSL.git|Contributed|EthernetWebServer_SSL
 https://github.com/soyantonio/simple-box.git|Contributed|SimpleBox
+https://github.com/tcoppex/mbed-ble-hid.git|Contributed|Mbed BLE HID
