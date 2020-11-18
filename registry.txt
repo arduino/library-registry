@@ -3595,3 +3595,4 @@ https://github.com/khoih-prog/TimerInterrupt_Generic.git|Contributed|TimerInterr
 https://github.com/rodrigodornelles/arduino-tone-pitch.git|Contributed|TonePitch
 https://github.com/pixetto/Pixetto.git|Contributed|Pixetto
 https://github.com/Vrekrer/Vrekrer_scpi_parser.git|Contributed|Vrekrer SCPI parser
+https://github.com/deploythefleet/arduino_esp8266_update.git|Contributed|DTF_ESP8266Update
