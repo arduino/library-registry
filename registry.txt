@@ -3575,3 +3575,4 @@ https://github.com/kike-canaries/canairio_sensorlib.git|Contributed|CanAirIO Air
 https://github.com/mikronika/BitkitRobit.git|Contributed|BitkitRobit
 https://github.com/amperka/Troyka-IMU.git|Contributed|Troyka-IMU
 https://github.com/pololu/pololu-buzzer-arduino.git|Contributed|PololuBuzzer
+https://github.com/RiversEngineering/RiversEngineering.git|Contributed|Rivers Engineering
