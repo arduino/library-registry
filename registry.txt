@@ -3577,3 +3577,4 @@ https://github.com/pololu/pololu-buzzer-arduino.git|Contributed|PololuBuzzer
 https://github.com/RiversEngineering/RiversEngineering.git|Contributed|Rivers Engineering
 https://github.com/sparkfun/SparkFun_LIDARLitev4_Arduino_Library.git|Contributed|SparkFun Garmin LIDAR-Lite v4 Arduino Library
 https://github.com/lucyamy/LapX9C10X.git|Contributed|LapX9C10X
+https://github.com/khoih-prog/EthernetWebServer_SSL_STM32.git|Contributed|EthernetWebServer_SSL_STM32
