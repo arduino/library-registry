@@ -3594,3 +3594,4 @@ https://github.com/adafruit/Adafruit_TMP117.git|Contributed|Adafruit TMP117
 https://github.com/khoih-prog/TimerInterrupt_Generic.git|Contributed|TimerInterrupt_Generic
 https://github.com/rodrigodornelles/arduino-tone-pitch.git|Contributed|TonePitch
 https://github.com/pixetto/Pixetto.git|Contributed|Pixetto
+https://github.com/Vrekrer/Vrekrer_scpi_parser.git|Contributed|Vrekrer SCPI parser
