@@ -3584,3 +3584,4 @@ https://github.com/tcoppex/mbed-ble-hid.git|Contributed|Mbed BLE HID
 https://github.com/pkoerber/SMA-SunnyBoy-Reader.git|Contributed|SMA SunnyBoy Reader
 https://github.com/ecal-mid/ESP32Servo360.git|Contributed|ESP32Servo360
 https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library.git|Contributed|SparkFun Qwiic IR Thermometer MLX90614 Arduino Library
+https://github.com/sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library.git|Contributed|SparkFun ARGOS ARTIC R2 Arduino Library
