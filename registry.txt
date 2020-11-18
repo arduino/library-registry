@@ -3572,3 +3572,4 @@ https://github.com/Protocentral/ProtoCentral_ads1262.git|Contributed|ProtoCentra
 https://gitlab.com/konnekting/KonnektingFlashStorage.git|Contributed|KonnektingFlashStorage
 https://github.com/Edinburgh-College-of-Art/DesignInformaticsPCB.git|Contributed|Design Informatics Base
 https://github.com/kike-canaries/canairio_sensorlib.git|Contributed|CanAirIO Air Quality Sensors Library
+https://github.com/mikronika/BitkitRobit.git|Contributed|BitkitRobit
