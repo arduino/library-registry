@@ -3598,3 +3598,4 @@ https://github.com/Vrekrer/Vrekrer_scpi_parser.git|Contributed|Vrekrer SCPI pars
 https://github.com/deploythefleet/arduino_esp8266_update.git|Contributed|DTF_ESP8266Update
 https://github.com/deploythefleet/arduino_esp32_update.git|Contributed|DTF_ESP32Update
 https://github.com/MacroYau/RV-3028-C7-Arduino-Library.git|Contributed|RV-3028-C7
+https://github.com/khoih-prog/SAMDUE_TimerInterrupt.git|Contributed|SAMDUE_TimerInterrupt
