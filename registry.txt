@@ -3591,3 +3591,4 @@ https://github.com/lbernstone/rrdtool_ESP32.git|Contributed|rrdtool
 https://github.com/melopero/Melopero_APDS-9960_Arduino_Library.git|Contributed|Melopero APDS9960
 https://github.com/darrenjcosborne/NextionSerialString.git|Contributed|Nextion Serial String
 https://github.com/adafruit/Adafruit_TMP117.git|Contributed|Adafruit TMP117
+https://github.com/khoih-prog/TimerInterrupt_Generic.git|Contributed|TimerInterrupt_Generic
