@@ -3617,3 +3617,4 @@ https://github.com/PribaNosati/mrm-ir-finder-can.git|Contributed|mrm-ir-finder-c
 https://github.com/PribaNosati/mrm-ir-finder2.git|Contributed|mrm-ir-finder2
 https://github.com/PribaNosati/mrm-ir-finder3.git|Contributed|mrm-ir-finder3
 https://github.com/PribaNosati/mrm-lid-can-b.git|Contributed|mrm-lid-can-b
+https://github.com/PribaNosati/mrm-lid-can-b2.git|Contributed|mrm-lid-can-b2
