@@ -3600,3 +3600,4 @@ https://github.com/deploythefleet/arduino_esp32_update.git|Contributed|DTF_ESP32
 https://github.com/MacroYau/RV-3028-C7-Arduino-Library.git|Contributed|RV-3028-C7
 https://github.com/khoih-prog/SAMDUE_TimerInterrupt.git|Contributed|SAMDUE_TimerInterrupt
 https://github.com/combs/DLxx416_Arduino.git|Contributed|DLxx416_Arduino
+http://www.github.com/jhershey69/WiFiTri.git|Contributed|WiFiTri
