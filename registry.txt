@@ -3611,3 +3611,4 @@ https://github.com/PribaNosati/mrm-bldc4x2.5.git|Contributed|mrm-bldc4x2.5
 https://github.com/PribaNosati/mrm-board.git|Contributed|mrm-board
 https://github.com/PribaNosati/mrm-can-bus.git|Contributed|mrm-can-bus
 https://github.com/PribaNosati/mrm-col.git|Contributed|mrm-col-can
+https://github.com/PribaNosati/mrm-common.git|Contributed|mrm-col-common
