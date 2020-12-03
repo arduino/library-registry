@@ -2212,7 +2212,7 @@ https://github.com/openmrn/OpenMRNLite.git|Contributed|OpenMRNLite
 https://github.com/Isaranu/IoTtweetSIEMENS_SIMATIC.git|Contributed|IoTtweetSIEMENS_SIMATIC
 https://github.com/pushdata-io/Arduino_ESP8266_SSL.git|Contributed|Pushdata_ESP8266_SSL
 https://github.com/jfjlaros/simpleRPC.git|Contributed|simpleRPC
-https://github.com/gmarty2000/arduino-BUZZER.git|Contributed|Buzzer
+https://github.com/gmarty2000-ARDUINO/arduino-BUZZER.git|Contributed|Buzzer
 https://github.com/closedcube/ClosedCube_STS35_Arduino.git|Contributed|ClosedCube_STS35
 https://github.com/closedcube/ClosedCube_I2C_Arduino.git|Contributed|ClosedCube_I2C_Driver
 https://github.com/offcircuit/Nextion.git|Contributed|Nextion
@@ -2222,8 +2222,8 @@ https://github.com/MartinL1/I2C_DMAC.git|Contributed|I2C_DMAC
 https://github.com/diegodorado/ObloqAdafruit.git|Contributed|ObloqAdafruit
 https://github.com/adafruit/Adafruit_BusIO.git|Contributed|Adafruit BusIO
 https://github.com/iq-motion-control/iq-module-communication-arduino.git|Contributed|IQ Module Communication
-https://github.com/gmarty2000/arduino-JOYSTICK.git|Contributed|Joystick
-https://github.com/gmarty2000/arduino-ULTRASONIC_SENSOR.git|Contributed|UltrasonicSensor
+https://github.com/gmarty2000-ARDUINO/arduino-JOYSTICK.git|Contributed|Joystick
+https://github.com/gmarty2000-ARDUINO/arduino-ULTRASONIC_SENSOR.git|Contributed|UltrasonicSensor
 https://github.com/mobizt/Firebase-ESP32.git|Contributed|Firebase ESP32 Client
 https://github.com/skaldek/STools.git|Contributed|STools
 https://github.com/adafruit/Adafruit_VEML7700.git|Contributed|Adafruit VEML7700 Library
@@ -2260,7 +2260,7 @@ https://github.com/closedcube/ClosedCube_TCA9548A_Arduino.git|Contributed|Closed
 https://github.com/photodude/DualVNH5019MotorShieldMod3.git|Contributed|DualVNH5019MotorShieldMod3
 https://github.com/dmadison/ArduinoXInput.git|Contributed|XInput
 https://github.com/dmadison/Xbox360ControllerLEDs.git|Contributed|Xbox 360 Controller LEDs
-https://github.com/gmarty2000/arduino-SOIL_HYGROMETER.git|Contributed|SoilHygrometer
+https://github.com/gmarty2000-ARDUINO/arduino-SOIL_HYGROMETER.git|Contributed|SoilHygrometer
 https://github.com/sparkfun/SparkFun_Displacement_Sensor_Arduino_Library.git|Contributed|SparkFun Angular Displacement Sensor Arduino Library
 https://github.com/GewoonGijs/VID28.git|Contributed|MotorVID28
 https://github.com/offcircuit/LCDIC2.git|Contributed|LCDIC2
@@ -3637,3 +3637,4 @@ https://github.com/morsisko/EasyStringStream.git|Contributed|EasyStringStream
 https://github.com/HomeSpan/HomeSpan.git|Contributed|HomeSpan
 https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA.git|Contributed|ESP32 HUB75 LED MATRIX PANEL DMA Display
 https://github.com/MrYsLab/Telemetrix4Esp8266.git|Contributed|Telemetrix4Esp8266
+https://github.com/lucadentella/WiThrottle.git|Contributed|WiThrottle
