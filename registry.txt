@@ -3643,3 +3643,4 @@ https://github.com/AlpenglowInd/FUnicorn.git|Contributed|Alpenglow FUnicorn
 https://github.com/DatavenueLiveObjects/LiveObjects_SDK_for_Arduino.git|Contributed|LiveObjectsSDK
 https://github.com/pololu/pololu-menu-arduino.git|Contributed|PololuMenu
 https://github.com/davidchatting/Approximate.git|Contributed|Approximate
+https://github.com/lucyamy/LapINA219.git|Contributed|LapINA219
