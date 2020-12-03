@@ -3613,3 +3613,4 @@ https://github.com/PribaNosati/mrm-can-bus.git|Contributed|mrm-can-bus
 https://github.com/PribaNosati/mrm-col.git|Contributed|mrm-col-can
 https://github.com/PribaNosati/mrm-common.git|Contributed|mrm-col-common
 https://github.com/PribaNosati/mrm-imu.git|Contributed|mrm-imu
+https://github.com/PribaNosati/mrm-ir-finder-can.git|Contributed|mrm-ir-finder-can
