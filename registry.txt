@@ -3622,3 +3622,4 @@ https://github.com/PribaNosati/mrm-lid1.git|Contributed|mrm-lid1
 https://github.com/PribaNosati/mrm-lid2.git|Contributed|mrm-lid2
 https://github.com/PribaNosati/mrm-mot2x50.git|Contributed|mrm-mot2x50
 https://github.com/PribaNosati/mrm-mot4x10.git|Contributed|mrm-mot4x10
+https://github.com/PribaNosati/mrm-mot4x3.6can.git|Contributed|mrm-mot4x3.6can
