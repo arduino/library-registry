@@ -3638,3 +3638,4 @@ https://github.com/HomeSpan/HomeSpan.git|Contributed|HomeSpan
 https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA.git|Contributed|ESP32 HUB75 LED MATRIX PANEL DMA Display
 https://github.com/MrYsLab/Telemetrix4Esp8266.git|Contributed|Telemetrix4Esp8266
 https://github.com/lucadentella/WiThrottle.git|Contributed|WiThrottle
+https://github.com/m5stack/M5EPD.git|Contributed|M5EPD
