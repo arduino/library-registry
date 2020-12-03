@@ -3630,3 +3630,4 @@ https://github.com/PribaNosati/mrm-robot.git|Contributed|mrm-robot
 https://github.com/PribaNosati/mrm-servo.git|Contributed|mrm-servo
 https://github.com/PribaNosati/mrm-switch.git|Contributed|mrm-switch
 https://github.com/PribaNosati/mrm-therm-b-can.git|Contributed|mrm-therm-b-can
+https://github.com/Legion2/Somfy_Remote_Lib.git|Contributed|Somfy_Remote_Lib
