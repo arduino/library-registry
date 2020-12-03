@@ -3646,3 +3646,4 @@ https://github.com/davidchatting/Approximate.git|Contributed|Approximate
 https://github.com/lucyamy/LapINA219.git|Contributed|LapINA219
 https://github.com/lucyamy/LapI2CTop.git|Contributed|LapI2CTop
 https://github.com/iotec-gmbh/M5_RTC_Module.git|Contributed|M5_RTC_Module
+https://github.com/khoih-prog/NRF52_MBED_TimerInterrupt.git|Contributed|NRF52_MBED_TimerInterrupt
