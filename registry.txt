@@ -3608,3 +3608,4 @@ https://github.com/bxparks/AceCRC.git|Contributed|AceCRC
 https://github.com/PribaNosati/mrm-8x8a.git|Contributed|mrm-8x8a
 https://github.com/PribaNosati/mrm-bldc2x50.git|Contributed|mrm-bldc2x50
 https://github.com/PribaNosati/mrm-bldc4x2.5.git|Contributed|mrm-bldc4x2.5
+https://github.com/PribaNosati/mrm-board.git|Contributed|mrm-board
