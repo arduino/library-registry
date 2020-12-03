@@ -3626,3 +3626,4 @@ https://github.com/PribaNosati/mrm-mot4x3.6can.git|Contributed|mrm-mot4x3.6can
 https://github.com/PribaNosati/mrm-node.git|Contributed|mrm-node
 https://github.com/PribaNosati/mrm-pid.git|Contributed|mrm-pid
 https://github.com/PribaNosati/mrm-ref-can.git|Contributed|mrm-ref-can
+https://github.com/PribaNosati/mrm-robot.git|Contributed|mrm-robot
