@@ -3648,3 +3648,4 @@ https://github.com/lucyamy/LapI2CTop.git|Contributed|LapI2CTop
 https://github.com/iotec-gmbh/M5_RTC_Module.git|Contributed|M5_RTC_Module
 https://github.com/khoih-prog/NRF52_MBED_TimerInterrupt.git|Contributed|NRF52_MBED_TimerInterrupt
 https://github.com/107-systems/107-Arduino-TMF8801.git|Contributed|107-Arduino-TMF8801
+https://github.com/lemmingDev/ESP32-BLE-Gamepad.git|Contributed|ESP32 BLE Gamepad
