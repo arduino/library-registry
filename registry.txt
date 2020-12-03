@@ -3620,3 +3620,4 @@ https://github.com/PribaNosati/mrm-lid-can-b.git|Contributed|mrm-lid-can-b
 https://github.com/PribaNosati/mrm-lid-can-b2.git|Contributed|mrm-lid-can-b2
 https://github.com/PribaNosati/mrm-lid1.git|Contributed|mrm-lid1
 https://github.com/PribaNosati/mrm-lid2.git|Contributed|mrm-lid2
+https://github.com/PribaNosati/mrm-mot2x50.git|Contributed|mrm-mot2x50
