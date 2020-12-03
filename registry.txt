@@ -3604,3 +3604,4 @@ https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library.git|Contributed|P
 https://github.com/pixelmatix/SmartMatrix.git|Contributed|SmartMatrix
 https://github.com/eloquentarduino/EloquentVision.git|Contributed|EloquentVision
 https://github.com/107-systems/107-Arduino-Debug.git|Contributed|107-Arduino-Debug
+https://github.com/bxparks/AceCRC.git|Contributed|AceCRC
