@@ -3650,3 +3650,4 @@ https://github.com/khoih-prog/NRF52_MBED_TimerInterrupt.git|Contributed|NRF52_MB
 https://github.com/107-systems/107-Arduino-TMF8801.git|Contributed|107-Arduino-TMF8801
 https://github.com/lemmingDev/ESP32-BLE-Gamepad.git|Contributed|ESP32 BLE Gamepad
 https://github.com/jalr/EE895.git|Contributed|EE895 Arduino Library
+https://github.com/KROIA/L298N_MotorDriver.git|Contributed|L298N_MotorDriver
