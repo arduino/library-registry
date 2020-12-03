@@ -3633,3 +3633,4 @@ https://github.com/PribaNosati/mrm-therm-b-can.git|Contributed|mrm-therm-b-can
 https://github.com/Legion2/Somfy_Remote_Lib.git|Contributed|Somfy_Remote_Lib
 https://github.com/telemetryjet/telemetryjet-arduino-sdk.git|Contributed|TelemetryJet
 https://github.com/adafruit/Adafruit_LTR390.git|Contributed|Adafruit LTR390 Library
+https://github.com/morsisko/EasyStringStream.git|Contributed|EasyStringStream
