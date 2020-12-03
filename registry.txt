@@ -3602,3 +3602,4 @@ https://github.com/combs/DLxx416_Arduino.git|Contributed|DLxx416_Arduino
 http://www.github.com/jhershey69/WiFiTri.git|Contributed|WiFiTri
 https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library.git|Contributed|Pololu3piPlus32U4
 https://github.com/pixelmatix/SmartMatrix.git|Contributed|SmartMatrix
+https://github.com/eloquentarduino/EloquentVision.git|Contributed|EloquentVision
