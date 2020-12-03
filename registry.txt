@@ -3605,3 +3605,4 @@ https://github.com/pixelmatix/SmartMatrix.git|Contributed|SmartMatrix
 https://github.com/eloquentarduino/EloquentVision.git|Contributed|EloquentVision
 https://github.com/107-systems/107-Arduino-Debug.git|Contributed|107-Arduino-Debug
 https://github.com/bxparks/AceCRC.git|Contributed|AceCRC
+https://github.com/PribaNosati/mrm-8x8a.git|Contributed|mrm-8x8a
