@@ -473,7 +473,6 @@ https://github.com/alextaujenis/RBD_WaterSensor.git|Contributed|RBD_WaterSensor
 https://github.com/arkhipenko/TM1650.git|Contributed|TM1650
 https://github.com/PaoloP74/extEEPROM.git|Contributed|extEEPROM
 https://github.com/squix78/json-streaming-parser.git|Contributed|Json Streaming Parser
-https://github.com/pixelmatix/SmartMatrix.git|Contributed|SmartMatrix3
 https://github.com/Chris--A/EEWrap.git|Contributed|EEWrap
 https://github.com/alextaujenis/RBD_Button.git|Contributed|RBD_Button
 https://github.com/Chris--A/PGMWrap.git|Contributed|PGMWrap
@@ -3602,3 +3601,4 @@ https://github.com/khoih-prog/SAMDUE_TimerInterrupt.git|Contributed|SAMDUE_Timer
 https://github.com/combs/DLxx416_Arduino.git|Contributed|DLxx416_Arduino
 http://www.github.com/jhershey69/WiFiTri.git|Contributed|WiFiTri
 https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library.git|Contributed|Pololu3piPlus32U4
+https://github.com/pixelmatix/SmartMatrix.git|Contributed|SmartMatrix
