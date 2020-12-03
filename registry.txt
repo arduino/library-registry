@@ -3635,3 +3635,4 @@ https://github.com/telemetryjet/telemetryjet-arduino-sdk.git|Contributed|Telemet
 https://github.com/adafruit/Adafruit_LTR390.git|Contributed|Adafruit LTR390 Library
 https://github.com/morsisko/EasyStringStream.git|Contributed|EasyStringStream
 https://github.com/HomeSpan/HomeSpan.git|Contributed|HomeSpan
+https://github.com/mrfaptastic/ESP32-RGB64x32MatrixPanel-I2S-DMA.git|Contributed|ESP32 HUB75 LED MATRIX PANEL DMA Display
