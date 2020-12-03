@@ -3640,3 +3640,4 @@ https://github.com/MrYsLab/Telemetrix4Esp8266.git|Contributed|Telemetrix4Esp8266
 https://github.com/lucadentella/WiThrottle.git|Contributed|WiThrottle
 https://github.com/m5stack/M5EPD.git|Contributed|M5EPD
 https://github.com/AlpenglowInd/FUnicorn.git|Contributed|Alpenglow FUnicorn
+https://github.com/DatavenueLiveObjects/LiveObjects_SDK_for_Arduino.git|Contributed|LiveObjectsSDK
