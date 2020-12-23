@@ -3667,3 +3667,4 @@ https://github.com/montoyamoraga/TinyTrainable.git|Contributed|TinyTrainable
 https://github.com/adafruit/Adafruit_SGP40.git|Contributed|Adafruit SGP40 Sensor
 https://github.com/Zanduino/RotaryEncoder.git|Contributed|RotaryEncoder_Zanduino
 https://github.com/Zanduino/Cubigel.git|Contributed|Cubigel
+https://github.com/ferkoyanagi/SevenSegmentsK.git|Contributed|Seven Segments K
