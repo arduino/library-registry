@@ -3687,3 +3687,4 @@ https://github.com/adafruit/Adafruit_SCD30.git|Contributed|Adafruit SCD30
 https://github.com/ETLCPP/etl-arduino.git|Contributed|Embedded Template Library ETL
 https://github.com/PribaNosati/mrm-us1.git|Contributed|mrm-us1
 https://github.com/IGB-Germany/IGB-Tactile-Switch.git|Contributed|TactileSwitch
+https://github.com/acrandal/RevEng_PAJ7620.git|Contributed|RevEng PAJ7620
