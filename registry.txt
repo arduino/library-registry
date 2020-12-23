@@ -3684,3 +3684,4 @@ https://github.com/dniklaus/spin-timer.git|Contributed|spin-timer
 https://github.com/Toernblom/SimpleWiFiClient.git|Contributed|SimpleWiFiClient
 https://github.com/Toernblom/SimpleUDPController.git|Contributed|SimpleUDPController
 https://github.com/mobergmann/Simple_HCSR04.git|Contributed|Simple_HCSR04
+https://github.com/adafruit/Adafruit_SCD30.git|Contributed|Adafruit SCD30
