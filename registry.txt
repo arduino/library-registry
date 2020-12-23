@@ -3660,3 +3660,4 @@ https://github.com/pilotak/MovingAverageAngle.git|Contributed|MovingAverageAngle
 https://github.com/pilotak/MovingAverage.git|Contributed|MovingAverage
 https://github.com/pilotak/MeteoFunctions.git|Contributed|MeteoFunctions
 https://github.com/pilotak/Hysteresis.git|Contributed|Hysteresis
+https://github.com/pilotak/WeatherMeters.git|Contributed|WeatherMeters
