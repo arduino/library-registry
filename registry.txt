@@ -3658,3 +3658,4 @@ https://github.com/pilotak/LPS35HW.git|Contributed|LPS35HW
 https://github.com/pilotak/MovingAverageFloat.git|Contributed|MovingAverageFloat
 https://github.com/pilotak/MovingAverageAngle.git|Contributed|MovingAverageAngle
 https://github.com/pilotak/MovingAverage.git|Contributed|MovingAverage
+https://github.com/pilotak/MeteoFunctions.git|Contributed|MeteoFunctions
