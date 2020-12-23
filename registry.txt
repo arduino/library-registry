@@ -3682,3 +3682,4 @@ https://github.com/Protocentral/protocentral-afe4490-arduino.git|Contributed|Pro
 https://github.com/khoih-prog/Ethernet_Manager_STM32.git|Contributed|Ethernet_Manager_STM32
 https://github.com/dniklaus/spin-timer.git|Contributed|spin-timer
 https://github.com/Toernblom/SimpleWiFiClient.git|Contributed|SimpleWiFiClient
+https://github.com/Toernblom/SimpleUDPController.git|Contributed|SimpleUDPController
