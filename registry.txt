@@ -3244,7 +3244,6 @@ https://github.com/adafruit/TinyDHT.git|Contributed|TinyDHT sensor library
 https://github.com/RobTillaart/PAR27979.git|Contributed|PAR27979
 https://github.com/hideakitai/Easing.git|Contributed|Easing
 https://github.com/hideakitai/Tween.git|Contributed|Tween
-https://github.com/grandeurtech/grandeurcloud-arduino-sdk.git|Contributed|Grandeur Cloud
 https://github.com/gutierrezps/ESP32_I2C_Slave.git|Contributed|ESP32 I2C Slave
 https://bitbucket.org/harmonicbionics/ease_arduinocode.git|Contributed|EASE_ArduinoCode
 https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library.git|Contributed|SparkFun ADS122C04 ADC Arduino Library
@@ -3675,3 +3674,4 @@ https://github.com/moononournation/Arduino_GFX.git|Contributed|GFX Library for A
 https://github.com/douglaslyon/AudioShieldDTMF.git|Contributed|AudioShieldDTMF
 https://github.com/khoih-prog/WIOTerminal_WiFiManager.git|Contributed|WIOTerminal_WiFiManager
 https://github.com/allenchak/TA6932.git|Contributed|TA6932
+https://github.com/grandeurtech/arduino-sdk.git|Contributed|Grandeur
