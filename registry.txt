@@ -3691,3 +3691,4 @@ https://github.com/acrandal/RevEng_PAJ7620.git|Contributed|RevEng PAJ7620
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library.git|Contributed|Yfrobot Motor Driver Library
 https://github.com/m5stack/M5StickC-Plus.git|Contributed|M5StickCPlus
 https://github.com/wollewald/ADXL345_WE.git|Contributed|ADXL345_WE
+https://github.com/LennartHennigs/M5FacesEncoder.git|Contributed|M5FacesEncoder
