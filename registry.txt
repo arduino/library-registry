@@ -2085,7 +2085,7 @@ https://github.com/STEMpedia/Dabble.git|Contributed|Dabble
 https://github.com/asukiaaa/EPD.git|Contributed|EPD
 https://github.com/GordonRudman/ExampleArduinoLibrary.git|Contributed|ExampleLibrary
 https://github.com/SV-Zanshin/INA.git|Contributed|INA2xx
-https://github.com/SV-Zanshin/MCP7940.git|Contributed|MCP7940
+https://github.com/Zanduino/MCP7940.git|Contributed|MCP7940
 https://github.com/fabriziop/TalkingLED.git|Contributed|TalkingLED
 https://github.com/chunkysteveo/FortniteAPI.git|Contributed|FortniteAPI
 https://github.com/dadul96/Arduino-Servo-Hardware-PWM-Library.git|Contributed|Servo Hardware PWM
