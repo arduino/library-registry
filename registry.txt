@@ -3685,3 +3685,4 @@ https://github.com/Toernblom/SimpleUDPController.git|Contributed|SimpleUDPContro
 https://github.com/mobergmann/Simple_HCSR04.git|Contributed|Simple_HCSR04
 https://github.com/adafruit/Adafruit_SCD30.git|Contributed|Adafruit SCD30
 https://github.com/ETLCPP/etl-arduino.git|Contributed|Embedded Template Library ETL
+https://github.com/PribaNosati/mrm-us1.git|Contributed|mrm-us1
