@@ -577,7 +577,6 @@ https://github.com/AloriumTechnology/XLR8NeoPixel.git|Contributed|XLR8NeoPixel
 https://github.com/Gamadril/DD-Booster-Library.git|Contributed|DIGI-DOT-BOOSTER Library
 https://github.com/sparkfun/SparkFun_RedBot_Arduino_Library.git|Contributed|SparkFun RedBot Library
 https://github.com/mcauser/i2cdetect.git|Contributed|i2cdetect
-https://github.com/ETLCPP/etl.git|Contributed|Embedded Template Library
 https://github.com/Schm1tz1/arduino-ms5xxx.git|Contributed|MS5xxx
 https://github.com/Schm1tz1/arduino-tsic.git|Contributed|TSIC
 https://github.com/NicoHood/RCLSwitch.git|Contributed|RCLSwitch
@@ -3685,3 +3684,4 @@ https://github.com/Toernblom/SimpleWiFiClient.git|Contributed|SimpleWiFiClient
 https://github.com/Toernblom/SimpleUDPController.git|Contributed|SimpleUDPController
 https://github.com/mobergmann/Simple_HCSR04.git|Contributed|Simple_HCSR04
 https://github.com/adafruit/Adafruit_SCD30.git|Contributed|Adafruit SCD30
+https://github.com/ETLCPP/etl-arduino.git|Contributed|Embedded Template Library ETL
