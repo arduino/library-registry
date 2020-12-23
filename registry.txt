@@ -3681,3 +3681,4 @@ https://github.com/Protocentral/protocentral-pulse-express.git|Contributed|Proto
 https://github.com/Protocentral/protocentral-afe4490-arduino.git|Contributed|ProtoCentral AFE4490 PPG and SpO2 boards library
 https://github.com/khoih-prog/Ethernet_Manager_STM32.git|Contributed|Ethernet_Manager_STM32
 https://github.com/dniklaus/spin-timer.git|Contributed|spin-timer
+https://github.com/Toernblom/SimpleWiFiClient.git|Contributed|SimpleWiFiClient
