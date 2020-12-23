@@ -3678,3 +3678,4 @@ https://github.com/grandeurtech/arduino-sdk.git|Contributed|Grandeur
 https://github.com/khoih-prog/Ethernet_Manager.git|Contributed|Ethernet_Manager
 https://github.com/Aasim-A/AsyncTimer.git|Contributed|AsyncTimer
 https://github.com/Protocentral/protocentral-pulse-express.git|Contributed|ProtoCentral Pulse Express SpO2 Heartrate and BPT sensor
+https://github.com/Protocentral/protocentral-afe4490-arduino.git|Contributed|ProtoCentral AFE4490 PPG and SpO2 boards library
