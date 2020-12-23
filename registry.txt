@@ -3652,3 +3652,4 @@ https://github.com/vintlabs/fauxmoESP.git|Contributed|FauxmoESP
 https://github.com/picodebr/PlugPiBlack.git|Contributed|PlugPiBlack
 https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA.git|Contributed|ESP32 HUB75 LED MATRIX PANEL DMA Display
 https://github.com/mobizt/ESP-Mail-Client.git|Contributed|ESP Mail Client
+https://github.com/brettmcalpine/PowerFlex4m.git|Contributed|PowerFlex4m
