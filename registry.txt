@@ -3669,3 +3669,4 @@ https://github.com/Zanduino/RotaryEncoder.git|Contributed|RotaryEncoder_Zanduino
 https://github.com/Zanduino/Cubigel.git|Contributed|Cubigel
 https://github.com/ferkoyanagi/SevenSegmentsK.git|Contributed|Seven Segments K
 https://github.com/PribaNosati/mrm-fet-can.git|Contributed|mrm-fet-can
+https://github.com/TECA-IOT/Tinyfox.git|Contributed|Tinyfox
