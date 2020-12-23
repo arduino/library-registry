@@ -3688,3 +3688,4 @@ https://github.com/ETLCPP/etl-arduino.git|Contributed|Embedded Template Library 
 https://github.com/PribaNosati/mrm-us1.git|Contributed|mrm-us1
 https://github.com/IGB-Germany/IGB-Tactile-Switch.git|Contributed|TactileSwitch
 https://github.com/acrandal/RevEng_PAJ7620.git|Contributed|RevEng PAJ7620
+https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library.git|Contributed|Yfrobot Motor Driver Library
