@@ -3674,3 +3674,4 @@ https://github.com/TECA-IOT/Ufox.git|Contributed|Ufox
 https://github.com/moononournation/Arduino_GFX.git|Contributed|GFX Library for Arduino
 https://github.com/douglaslyon/AudioShieldDTMF.git|Contributed|AudioShieldDTMF
 https://github.com/khoih-prog/WIOTerminal_WiFiManager.git|Contributed|WIOTerminal_WiFiManager
+https://github.com/allenchak/TA6932.git|Contributed|TA6932
