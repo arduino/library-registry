@@ -3664,3 +3664,4 @@ https://github.com/pilotak/WeatherMeters.git|Contributed|WeatherMeters
 https://github.com/sparkfun/SparkFun_SGP40_Arduino_Library.git|Contributed|SparkFun SGP40 Arduino Library
 https://github.com/vishnumaiea/ptScheduler.git|Contributed|ptScheduler
 https://github.com/montoyamoraga/TinyTrainable.git|Contributed|TinyTrainable
+https://github.com/adafruit/Adafruit_SGP40.git|Contributed|Adafruit SGP40 Sensor
