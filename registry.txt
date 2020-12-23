@@ -2132,7 +2132,7 @@ https://github.com/antaresdocumentation/antares-esp8266-mqtt.git|Contributed|Ant
 https://github.com/iotize-sas/Arduino-Tap.git|Contributed|ArdTap
 https://github.com/ricki-z/MMA7455.git|Contributed|MMA7455 sensor Library
 https://github.com/Isaranu/pm25senses.git|Contributed|pm25senses
-https://github.com/SV-Zanshin/MAX31855.git|Contributed|MAX31855
+https://github.com/Zanduino/MAX31855.git|Contributed|MAX31855
 https://github.com/purwar2016/ArduinoBlue-library.git|Contributed|ArduinoBlue
 https://github.com/ElectronicCats/mpu6050.git|Contributed|MPU6050
 https://github.com/LaCocoRoco/DataVisualizer.git|Contributed|DataVisualizer
