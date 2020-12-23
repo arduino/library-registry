@@ -2111,12 +2111,12 @@ https://github.com/nathanRamaNoodles/TinkerController-Library.git|Contributed|Ti
 https://github.com/Zanduino/VCNL4010.git|Contributed|VCNL4010
 https://github.com/nathanRamaNoodles/SensorToButton.git|Contributed|SensorToButton
 https://github.com/Zanduino/MicrochipSRAM.git|Contributed|MicrochipSRAM
-https://github.com/SV-Zanshin/BME680.git|Contributed|BME680
+https://github.com/Zanduino/BME680.git|Contributed|BME680
 https://github.com/LoganTraceur/LogansGreatButton.git|Contributed|LogansGreatButton
 https://github.com/MicroGamerConsole/MicroGamer-Arduino.git|Contributed|MicroGamer
-https://github.com/SV-Zanshin/DS1631.git|Contributed|DS1631
-https://github.com/SV-Zanshin/DS3231M.git|Contributed|DS3231M
-https://github.com/SV-Zanshin/DSFamily.git|Contributed|DSFamily
+https://github.com/Zanduino/DS1631.git|Contributed|DS1631
+https://github.com/Zanduino/DS3231M.git|Contributed|DS3231M
+https://github.com/Zanduino/DSFamily.git|Contributed|DSFamily
 https://github.com/Warlib1975/ModbusConfig.git|Contributed|ModbusConfig
 https://github.com/WifWaf/MH-Z19.git|Contributed|MH-Z19
 https://github.com/Zanduino/MB85_FRAM.git|Contributed|MB85_FRAM
