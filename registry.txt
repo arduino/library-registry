@@ -3717,3 +3717,4 @@ https://github.com/khoih-prog/ESP_MultiResetDetector.git|Contributed|ESP_MultiRe
 https://github.com/0015/TP_Arduino_DigitalRain_Anim.git|Contributed|Digital Rain Animation for TFT_eSPI
 https://github.com/Seeed-Studio/Seeed_Arduino_mbedtls.git|Contributed|Seeed_Arduino_mbedtls
 https://github.com/designer2k2/EMUcan.git|Contributed|EMUcan
+https://github.com/designer2k2/EMUcanT4.git|Contributed|EMUcanT4
