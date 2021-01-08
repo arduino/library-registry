@@ -3696,3 +3696,4 @@ https://github.com/dawidchyrzynski/arduino-home-assistant.git|Contributed|home-a
 https://github.com/eloquentarduino/EloquentArduino.git|Contributed|EloquentArduino
 https://github.com/N-Magi/CliTerminal.git|Contributed|CliTerminal
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver.git|Contributed|NST1001
+https://github.com/zfields/nes-rob.git|Contributed|NesRob
