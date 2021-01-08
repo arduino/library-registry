@@ -3701,3 +3701,4 @@ https://github.com/SunitRaut/Smart-Duty-Cycling-Arduino.git|Contributed|Smart_Du
 https://github.com/aszopko/somfy-esp8266.git|Contributed|Somfy_RTS
 https://github.com/fabriziop/EEWL.git|Contributed|EEWL
 https://github.com/eccnil/ESPNow2Mqtt.git|Contributed|EspNow2Mqtt
+https://github.com/micro-bitcoin/uBitcoin.git|Contributed|uBitcoin
