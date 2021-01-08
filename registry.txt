@@ -3705,3 +3705,4 @@ https://github.com/abaskin/MAX72XX.git|Contributed|MAX7XX-7-Segment
 https://github.com/MichaelUray/muTimer.git|Contributed|muTimer
 https://github.com/pribaNosati/mrm-col-can.git|Contributed|mrm-col-can
 https://github.com/jonas-merkle/AS5047P.git|Contributed|AS5047P
+https://github.com/Protocentral/protocentral_max30003.git|Contributed|ProtoCentral MAX30003 ECG AFE Sensor Library
