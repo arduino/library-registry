@@ -3719,3 +3719,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_mbedtls.git|Contributed|Seeed_Ardu
 https://github.com/designer2k2/EMUcan.git|Contributed|EMUcan
 https://github.com/designer2k2/EMUcanT4.git|Contributed|EMUcanT4
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi.git|Contributed|Seeed Arduino WiFi
+https://github.com/Seeed-Studio/Seeed_Arduino_rpcUnified.git|Contributed|Seeed Arduino rpcUnified
