@@ -3692,3 +3692,4 @@ https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library.git|Contributed|Yfrob
 https://github.com/m5stack/M5StickC-Plus.git|Contributed|M5StickCPlus
 https://github.com/wollewald/ADXL345_WE.git|Contributed|ADXL345_WE
 https://github.com/LennartHennigs/M5FacesEncoder.git|Contributed|M5FacesEncoder
+https://github.com/dawidchyrzynski/arduino-home-assistant.git|Contributed|home-assistant-integration
