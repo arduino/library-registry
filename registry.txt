@@ -3698,3 +3698,4 @@ https://github.com/N-Magi/CliTerminal.git|Contributed|CliTerminal
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver.git|Contributed|NST1001
 https://github.com/zfields/nes-rob.git|Contributed|NesRob
 https://github.com/SunitRaut/Smart-Duty-Cycling-Arduino.git|Contributed|Smart_Duty_Cycling
+https://github.com/aszopko/somfy-esp8266.git|Contributed|Somfy_RTS
