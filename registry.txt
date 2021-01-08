@@ -3722,3 +3722,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi.git|Contributed|Seeed Ardu
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcUnified.git|Contributed|Seeed Arduino rpcUnified
 https://github.com/Seeed-Studio/Seeed_Arduino_FS.git|Contributed|Seeed Arduino FS
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD.git|Contributed|Seeed Arduino SFUD
+https://github.com/Seeed-Studio/Seeed_Arduino_IR.git|Contributed|Seeed Arduino IR
