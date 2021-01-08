@@ -3606,7 +3606,6 @@ https://github.com/PribaNosati/mrm-bldc2x50.git|Contributed|mrm-bldc2x50
 https://github.com/PribaNosati/mrm-bldc4x2.5.git|Contributed|mrm-bldc4x2.5
 https://github.com/PribaNosati/mrm-board.git|Contributed|mrm-board
 https://github.com/PribaNosati/mrm-can-bus.git|Contributed|mrm-can-bus
-https://github.com/PribaNosati/mrm-col.git|Contributed|mrm-col-can
 https://github.com/PribaNosati/mrm-common.git|Contributed|mrm-common
 https://github.com/PribaNosati/mrm-imu.git|Contributed|mrm-imu
 https://github.com/PribaNosati/mrm-ir-finder-can.git|Contributed|mrm-ir-finder-can
@@ -3704,3 +3703,4 @@ https://github.com/eccnil/ESPNow2Mqtt.git|Contributed|EspNow2Mqtt
 https://github.com/micro-bitcoin/uBitcoin.git|Contributed|uBitcoin
 https://github.com/abaskin/MAX72XX.git|Contributed|MAX7XX-7-Segment
 https://github.com/MichaelUray/muTimer.git|Contributed|muTimer
+https://github.com/pribaNosati/mrm-col-can.git|Contributed|mrm-col-can
