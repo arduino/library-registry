@@ -3708,3 +3708,4 @@ https://github.com/jonas-merkle/AS5047P.git|Contributed|AS5047P
 https://github.com/Protocentral/protocentral_max30003.git|Contributed|ProtoCentral MAX30003 ECG AFE Sensor Library
 https://github.com/ShubhamAnnigeri/tinyECC-ArduinoIDE.git|Contributed|tinyECC
 https://github.com/aaryaapg/SPC-Library.git|Contributed|SPC
+https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab.git|Contributed|WSN_RFM69
