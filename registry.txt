@@ -3714,3 +3714,4 @@ https://github.com/BroadwellConsultingInc/SerialWombatArdLib.git|Contributed|Ser
 https://github.com/LennartHennigs/OTAWrapper.git|Contributed|OTAWrapper
 https://github.com/khoih-prog/MultiResetDetector_Generic.git|Contributed|MultiResetDetector_Generic
 https://github.com/khoih-prog/ESP_MultiResetDetector.git|Contributed|ESP_MultiResetDetector
+https://github.com/0015/TP_Arduino_DigitalRain_Anim.git|Contributed|Digital Rain Animation for TFT_eSPI
