@@ -3711,3 +3711,4 @@ https://github.com/aaryaapg/SPC-Library.git|Contributed|SPC
 https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab.git|Contributed|WSN_RFM69
 https://github.com/roverwing/RoverWingLibrary.git|Contributed|RoverWing
 https://github.com/BroadwellConsultingInc/SerialWombatArdLib.git|Contributed|SerialWombat
+https://github.com/LennartHennigs/OTAWrapper.git|Contributed|OTAWrapper
