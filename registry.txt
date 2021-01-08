@@ -3694,3 +3694,4 @@ https://github.com/wollewald/ADXL345_WE.git|Contributed|ADXL345_WE
 https://github.com/LennartHennigs/M5FacesEncoder.git|Contributed|M5FacesEncoder
 https://github.com/dawidchyrzynski/arduino-home-assistant.git|Contributed|home-assistant-integration
 https://github.com/eloquentarduino/EloquentArduino.git|Contributed|EloquentArduino
+https://github.com/N-Magi/CliTerminal.git|Contributed|CliTerminal
