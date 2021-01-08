@@ -3712,3 +3712,4 @@ https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab.git|Contributed|WSN_RFM69
 https://github.com/roverwing/RoverWingLibrary.git|Contributed|RoverWing
 https://github.com/BroadwellConsultingInc/SerialWombatArdLib.git|Contributed|SerialWombat
 https://github.com/LennartHennigs/OTAWrapper.git|Contributed|OTAWrapper
+https://github.com/khoih-prog/MultiResetDetector_Generic.git|Contributed|MultiResetDetector_Generic
