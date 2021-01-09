@@ -3725,3 +3725,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_SFUD.git|Contributed|Seeed Arduino
 https://github.com/Seeed-Studio/Seeed_Arduino_IR.git|Contributed|Seeed Arduino IR
 https://github.com/jhershey69/MoonStruck.git|Contributed|MoonStruck
 https://github.com/gelraen/Arduino-PID-Library.git|Contributed|PID_v2
+https://github.com/dvernier/GDXLib.git|Contributed|GDXLIb
