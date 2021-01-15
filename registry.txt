@@ -3727,3 +3727,4 @@ https://github.com/jhershey69/MoonStruck.git|Contributed|MoonStruck
 https://github.com/gelraen/Arduino-PID-Library.git|Contributed|PID_v2
 https://github.com/dvernier/GDXLib.git|Contributed|GDXLIb
 https://github.com/GerLech/Talking_Display.git|Contributed|Talking_Display
+https://github.com/telleropnul/BigFont01.git|Contributed|BigFont01
