@@ -255,22 +255,19 @@ jobs:
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
 
-      - name: Checkout index source file repo
-        uses: actions/checkout@v2
-        with:
-          repository: bcmi-labs/libraries-repository-engine
-          ref: production
-          token: ${{ secrets.REPO_SCOPE_TOKEN }}
-
-      - name: Add entry to index source file
+      - name: Set environment variables
         run: |
-          INDEX_SOURCE_FILE_PATH="${{ github.workspace }}/repositories.txt"
-          echo "${{ needs.parse.outputs.index-entry }}" >> "$INDEX_SOURCE_FILE_PATH"
-          git config --global user.email "bot@arduino.cc"
-          git config --global user.name "ArduinoBot"
-          git add --update "$INDEX_SOURCE_FILE_PATH"
-          echo -e "Add submission # ${{ github.event.pull_request.number }}${{ github.event.issue.number }}\n\n${{ github.event.repository.html_url }}/pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}" | git commit --file -
-          git push
+          echo "INDEX_ENTRY_FILE_PATH=${{ runner.temp }}/index-entry.txt" >> "$GITHUB_ENV"
+
+      - name: Write index entry to file
+        run: |
+          echo "${{ needs.parse.outputs.index-entry }}" >> "${{ env.INDEX_ENTRY_FILE_PATH }}"
+
+      - name: Upload index entry file to workflow artifact
+        uses: actions/upload-artifact@v2
+        with:
+          path: ${{ env.INDEX_ENTRY_FILE_PATH }}
+          name: index-entry
 
   request-review:
     needs:
