@@ -1,0 +1,37 @@
+name: Spell Check
+
+on:
+  pull_request:
+    paths-ignore:
+      - "repositories.txt"
+  push:
+    paths-ignore:
+      - "repositories.txt"
+  schedule:
+    # Run every Tuesday at 03:00 UTC to catch breakage caused by updates to the dictionary
+    - cron: "0 3 * * 2"
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+
+      - name: Install Poetry
+        run: pip install poetry
+
+      - name: Install Taskfile
+        uses: arduino/actions/setup-taskfile@master
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          version: 3.x
+
+      - name: Spell check
+        run: task check-spelling

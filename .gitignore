@@ -1,0 +1,13 @@
+# Build artifacts
+/manager/manager
+/manager/manager.exe
+
+# Test artifacts
+coverage_unit.txt
+
+# IDEs
+.idea/
+.vscode/
+*.bak
+*.code-workspace
+*.sublime-workspace

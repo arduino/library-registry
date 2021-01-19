@@ -1,0 +1,6 @@
+[codespell]
+# In the event of a false positive, add the problematic word, in all lowercase, to a comma-separated list here:
+ignore-words-list = ,
+check-filenames =
+check-hidden =
+skip = go.mod,go.sum,./repositories.txt,./.git,./manager/manager,./manager/manager.exe

@@ -1,0 +1,148 @@
+version: "3"
+
+vars:
+  DEFAULT_GO_PACKAGES:
+    sh: echo `cd manager && go list ./... | tr '\n' ' '`
+  DEFAULT_GO_PATHS:
+    sh: echo '`cd manager && go list -f '{{"{{"}}.Dir{{"}}"}}' ./...`'
+
+  PRETTIER: prettier@2.1.2
+
+tasks:
+  go:build:
+    desc: Build the project
+    dir: manager
+    cmds:
+      - go build -v {{.GO_BUILD_FLAGS}}
+
+  check:
+    desc: Test, lint, and check formatting of everything
+    deps:
+      - task: go:check
+      - task: docs:check
+      - task: config:check
+
+  go:check:
+    desc: Test, lint, and check formatting of Go code
+    deps:
+      - task: go:lint
+      - task: go:test
+      - task: go:check-formatting
+
+  go:lint:
+    desc: Lint Go code
+    dir: manager
+    cmds:
+      - go vet {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
+      - go get golang.org/x/lint/golint
+      - |
+        GOLINT_PATH="$(go list -f '{{"{{"}}.Target{{"}}"}}' golang.org/x/lint/golint || echo "false")"
+        "$GOLINT_PATH" {{default "-min_confidence 0.8 -set_exit_status" .GO_LINT_FLAGS}} "{{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}"
+
+  go:test:
+    desc: Run unit tests
+    dir: manager
+    cmds:
+      - go test -v -short -run '{{default ".*" .GO_TEST_REGEX}}' {{default "-timeout 10m -coverpkg=./... -covermode=atomic" .GO_TEST_FLAGS}} -coverprofile=coverage_unit.txt {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
+
+  go:check-formatting:
+    desc: Check Go code formatting
+    dir: manager
+    cmds:
+      - |
+        RESULTS="$(gofmt -l {{default .DEFAULT_GO_PATHS .GO_PATHS}})"
+        echo "$RESULTS"
+        test -z "$RESULTS"
+
+  docs:check:
+    desc: Lint and check formatting of documentation files
+    deps:
+      - task: docs:check-license
+      - task: docs:check-links
+      - task: docs:check-formatting
+      - task: check-spelling
+
+  docs:check-license:
+    desc: Check if the license file is correctly formatted
+    cmds:
+      - |
+        EXPECTED_LICENSE_FILE="\"LICENSE.txt\""
+        EXPECTED_LICENSE_TYPE="\"GPL-3.0\"" # https://spdx.org/licenses/
+
+        # See: https://github.com/licensee/licensee
+        LICENSEE_OUTPUT="$(licensee detect --json --confidence=100)"
+
+        DETECTED_LICENSE_FILE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].filename | tr --delete '\r')"
+        echo "Detected license file: $DETECTED_LICENSE_FILE"
+        if [ "$DETECTED_LICENSE_FILE" != "$EXPECTED_LICENSE_FILE" ]; then
+          echo "ERROR: detected license file doesn't match expected: $EXPECTED_LICENSE_FILE"
+          exit 1
+        fi
+
+        DETECTED_LICENSE_TYPE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].matched_license | tr --delete '\r')"
+        echo "Detected license type: $DETECTED_LICENSE_TYPE"
+        if [ "$DETECTED_LICENSE_TYPE" != "$EXPECTED_LICENSE_TYPE" ]; then
+          echo "ERROR: detected license type doesn't match expected $EXPECTED_LICENSE_TYPE"
+          exit 1
+        fi
+
+  docs:check-links:
+    desc: Check for dead links in documentation
+    cmds:
+      - |
+        npx --package markdown-link-check --call '
+        STATUS=0
+        for file in $(find -name "*.md"); do
+          markdown-link-check --quiet "$file"
+          STATUS=$(( $STATUS + $? ))
+        done
+        exit $STATUS'
+
+  docs:check-formatting:
+    desc: Check formatting of documentation files
+    cmds:
+      - npx {{.PRETTIER}} --check "**/*.md"
+
+  check-spelling:
+    desc: Check for commonly misspelled words
+    cmds:
+      - poetry install --no-root
+      - poetry run codespell {{.CODESPELL_SKIP_OPTION}} {{.CODESPELL_IGNORE_WORDS_OPTION}}
+
+  config:check:
+    desc: Lint and check formatting of configuration files
+    deps:
+      - task: config:check-formatting
+
+  config:check-formatting:
+    desc: Check formatting of configuration files
+    cmds:
+      - npx {{.PRETTIER}} --check "**/*.{yml,yaml,json}"
+
+  format:
+    desc: Format all files
+    deps:
+      - task: go:format
+      - task: docs:format
+      - task: config:format
+
+  go:format:
+    desc: Format Go code
+    cmds:
+      - gofmt -l -w {{default .DEFAULT_GO_PATHS .GO_PATHS}}
+
+  docs:format:
+    desc: Format documentation files
+    cmds:
+      - npx {{.PRETTIER}} --write "**/*.md"
+
+  config:format:
+    desc: Format configuration files
+    cmds:
+      - npx {{.PRETTIER}} --write "**/*.{yml,yaml,json}"
+
+  correct-spelling:
+    desc: Correct commonly misspelled words where possible
+    cmds:
+      - poetry install --no-root
+      - poetry run codespell --write-changes {{.CODESPELL_SKIP_OPTION}} {{.CODESPELL_IGNORE_WORDS_OPTION}}
