@@ -13,7 +13,6 @@
 package main
 
 import (
-	"fmt"
 	"net/url"
 	"testing"
 
@@ -154,14 +153,11 @@ func Test_normalizeURL(t *testing.T) {
 		testName              string
 		rawURL                string
 		expectedNormalizedURL string
-		expectedError         string
 	}{
-		{"Trailing slash", "https://github.com/foo/bar/", "https://github.com/foo/bar.git", ""},
-		{".git suffix", "https://github.com/foo/bar.git", "https://github.com/foo/bar.git", ""},
-		{"Too few path elements", "https://github.com/foo", "", "Submission URL must point to the root of the repository"},
-		{"Too many path elements", "https://github.com/foo/bar/baz", "", "Submission URL must point to the root of the repository"},
-		{"http://", "http://github.com/foo/bar", "https://github.com/foo/bar.git", ""},
-		{"git://", "git://github.com/foo/bar", "https://github.com/foo/bar.git", ""},
+		{"Trailing slash", "https://github.com/foo/bar/", "https://github.com/foo/bar.git"},
+		{".git suffix", "https://github.com/foo/bar.git", "https://github.com/foo/bar.git"},
+		{"http://", "http://github.com/foo/bar", "https://github.com/foo/bar.git"},
+		{"git://", "git://github.com/foo/bar", "https://github.com/foo/bar.git"},
 	}
 
 	for _, testTable := range testTables {
@@ -170,13 +166,7 @@ func Test_normalizeURL(t *testing.T) {
 		expectedNormalizedURL, err := url.Parse(testTable.expectedNormalizedURL)
 		require.Nil(t, err)
 
-		normalizedURL, err := normalizeURL(rawURL)
-		assert.Equal(t, *expectedNormalizedURL, normalizedURL, testTable.testName)
-		if testTable.expectedError == "" {
-			assert.Nil(t, err, testTable.testName)
-		} else {
-			assert.Equal(t, fmt.Errorf(testTable.expectedError), err, testTable.testName)
-		}
+		assert.Equal(t, *expectedNormalizedURL, normalizeURL(rawURL), testTable.testName)
 	}
 }
 

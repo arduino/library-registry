@@ -227,11 +227,7 @@ func populateSubmission(submissionURL string, listPath *paths.Path) (submissionT
 	}
 
 	// Resolve redirects and normalize.
-	normalizedURLObject, err := normalizeURL(httpResponse.Request.URL)
-	if err != nil {
-		submission.Error = err.Error()
-		return submission, ""
-	}
+	normalizedURLObject := normalizeURL(httpResponse.Request.URL)
 
 	submission.NormalizedURL = normalizedURLObject.String()
 
@@ -239,6 +235,17 @@ func populateSubmission(submissionURL string, listPath *paths.Path) (submissionT
 	if !uRLIsUnder(normalizedURLObject, supportedHosts) {
 		submission.Error = normalizedURLObject.Host + " is not currently supported as a Git hosting website for Library Manager.%0ASee: https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ#how-can-i-add-my-library-to-library-manager"
 		return submission, ""
+	}
+
+	// Check if URL is a Git repository
+	err = exec.Command("git", "ls-remote", normalizedURLObject.String()).Run()
+	if err != nil {
+		if _, ok := err.(*exec.ExitError); ok {
+			submission.Error = "Submission URL is not a Git clone URL (e.g., https://github.com/arduino-libraries/Servo)."
+			return submission, ""
+		}
+
+		panic(err)
 	}
 
 	// Check if the URL is already in the index.
@@ -249,11 +256,8 @@ func populateSubmission(submissionURL string, listPath *paths.Path) (submissionT
 		if err != nil {
 			panic(err) // All list items have already passed parsing so something is broken if this happens.
 		}
-		normalizedListURLObject, err := normalizeURL(listURLObject)
-		if err != nil {
-			panic(fmt.Errorf("When processing list item %s: %s", listURL, err)) // All list items have already been through normalization without error so something is broken if this happens.
-		}
 
+		normalizedListURLObject := normalizeURL(listURLObject)
 		if normalizedListURLObject.String() == normalizedURLObject.String() {
 			occurrences++
 			if occurrences > 1 {
@@ -350,21 +354,17 @@ func populateSubmission(submissionURL string, listPath *paths.Path) (submissionT
 }
 
 // normalizeURL converts the URL into the standardized format used in the index.
-func normalizeURL(rawURL *url.URL) (url.URL, error) {
+func normalizeURL(rawURL *url.URL) url.URL {
 	normalizedPath := strings.TrimRight(rawURL.Path, "/")
 	if !strings.HasSuffix(normalizedPath, ".git") {
 		normalizedPath += ".git"
 	}
-	if len(strings.Split(normalizedPath, "/")) != 3 {
-		return url.URL{}, fmt.Errorf("Submission URL must point to the root of the repository")
-	}
 
 	return url.URL{
-			Scheme: "https",
-			Host:   rawURL.Host,
-			Path:   normalizedPath,
-		},
-		nil
+		Scheme: "https",
+		Host:   rawURL.Host,
+		Path:   normalizedPath,
+	}
 }
 
 func uRLIsUnder(childURL url.URL, parentCandidates []string) bool {
