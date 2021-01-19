@@ -49,8 +49,6 @@ jobs:
         run: |
           # See: https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-commands-for-github-actions#setting-an-environment-variable
           echo "MANAGER_PATH=${{ runner.temp }}/manager" >> "$GITHUB_ENV"
-          echo "INDEX_SOURCE_REPOSITORY_CHECKOUT_PATH=bcmi-labs/libraries-repository-engine" >> "$GITHUB_ENV"
-          echo "INDEX_SOURCE_PATH=repositories.txt" >> "$GITHUB_ENV" # Path of the LM index file under its repository.
 
       - name: Checkout local repository
         uses: actions/checkout@v2
@@ -77,18 +75,10 @@ jobs:
           git fetch origin pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}/head:pr-branch
           git checkout pr-branch
 
-      - name: Checkout index source list
-        uses: actions/checkout@v2
-        with:
-          repository: bcmi-labs/libraries-repository-engine
-          ref: production
-          token: ${{ secrets.REPO_SCOPE_TOKEN }}
-          path: ${{ env.INDEX_SOURCE_REPOSITORY_CHECKOUT_PATH }}
-
       - name: Parse request
         id: parse-request
         run: |
-          REQUEST="$("$MANAGER_PATH" --baseref="${{ github.sha }}" --repopath="${{ github.workspace }}" --listname="repositories.txt" --indexsourcepath="${{ env.INDEX_SOURCE_REPOSITORY_CHECKOUT_PATH }}/${{ env.INDEX_SOURCE_PATH }}")"
+          REQUEST="$("$MANAGER_PATH" --baseref="${{ github.sha }}" --repopath="${{ github.workspace }}" --listname="repositories.txt")"
           # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in certain workflow fields.
           echo "::set-output name=type::$(echo "$REQUEST" | jq -r -c '.type')"
           echo "::set-output name=submissions::$(echo "$REQUEST" | jq -c '.submissions')"

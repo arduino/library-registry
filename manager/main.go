@@ -78,7 +78,6 @@ type submissionType struct {
 var baseRef = flag.String("baseref", "", "")
 var repoPath = flag.String("repopath", "", "")
 var listName = flag.String("listname", "", "")
-var indexSourcePath = flag.String("indexsourcepath", "", "")
 
 func main() {
 	// Validate flag input.
@@ -105,19 +104,6 @@ func main() {
 		errorExit(fmt.Sprintf("list file %s not found", listPath))
 	}
 
-	if *indexSourcePath == "" {
-		errorExit("--indexsourcepath flag is required")
-	}
-
-	indexSourcePath := paths.New(*indexSourcePath)
-	exist, err = indexSourcePath.ExistCheck()
-	if err != nil {
-		panic(err)
-	}
-	if !exist {
-		errorExit(fmt.Sprintf("index source file %s not found", indexSourcePath))
-	}
-
 	// Get the PR diff.
 	err = os.Chdir(*repoPath)
 	if err != nil {
@@ -137,7 +123,7 @@ func main() {
 	// Process the submissions.
 	var indexEntries []string
 	for _, submissionURL := range submissionURLs {
-		submission, indexEntry := populateSubmission(submissionURL, indexSourcePath)
+		submission, indexEntry := populateSubmission(submissionURL, listPath)
 		request.Submissions = append(request.Submissions, submission)
 		indexEntries = append(indexEntries, indexEntry)
 	}
@@ -216,7 +202,7 @@ func parseDiff(rawDiff []byte, listName string) (string, []string) {
 }
 
 // populateSubmission does the checks on the submission that aren't provided by Arduino Lint and gathers the necessary data on it.
-func populateSubmission(submissionURL string, indexSourcePath *paths.Path) (submissionType, string) {
+func populateSubmission(submissionURL string, listPath *paths.Path) (submissionType, string) {
 	indexSourceSeparator := "|"
 	var submission submissionType
 
@@ -256,11 +242,24 @@ func populateSubmission(submissionURL string, indexSourcePath *paths.Path) (subm
 	}
 
 	// Check if the URL is already in the index.
-	indexSourceLines, err := indexSourcePath.ReadFileAsLines()
-	for _, indexSourceLine := range indexSourceLines {
-		if strings.HasPrefix(indexSourceLine, fmt.Sprintf("%s%s", normalizedURLObject.String(), indexSourceSeparator)) {
-			submission.Error = "Submission URL is already in the Library Manager index."
-			return submission, ""
+	listLines, err := listPath.ReadFileAsLines()
+	occurrences := 0
+	for _, listURL := range listLines {
+		listURLObject, err := url.Parse(strings.TrimSpace(listURL))
+		if err != nil {
+			panic(err) // All list items have already passed parsing so something is broken if this happens.
+		}
+		normalizedListURLObject, err := normalizeURL(listURLObject)
+		if err != nil {
+			panic(fmt.Errorf("When processing list item %s: %s", listURL, err)) // All list items have already been through normalization without error so something is broken if this happens.
+		}
+
+		if normalizedListURLObject.String() == normalizedURLObject.String() {
+			occurrences++
+			if occurrences > 1 {
+				submission.Error = "Submission URL is already in the Library Manager index."
+				return submission, ""
+			}
 		}
 	}
 
