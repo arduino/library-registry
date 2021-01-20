@@ -3740,3 +3740,4 @@ https://github.com/telleropnul/BigFont02.git|Contributed|BigFont02
 https://github.com/telleropnul/BigFont02_I2C.git|Contributed|BigFont02_I2C
 https://github.com/adafruit/Adafruit_HTU31D.git|Contributed|Adafruit HTU31D Library
 https://github.com/adafruit/Adafruit_SHT4X.git|Contributed|Adafruit SHT4x Library
+https://github.com/fbiego/ESP32Time.git|Contributed|ESP32Time
