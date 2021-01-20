@@ -3736,3 +3736,4 @@ https://github.com/Jacobllc/SDU_AGS.git|Contributed|SDU AGS SensorBoard
 https://github.com/Zanduino/SmoothLED.git|Contributed|Zanduino SmoothLED Library 10-bit
 https://github.com/meteolab/MeteoLabBeacon.git|Contributed|MeteoLabBeacon
 https://github.com/adafruit/Adafruit_AW9523.git|Contributed|Adafruit AW9523
+https://github.com/telleropnul/BigFont02.git|Contributed|BigFont02
