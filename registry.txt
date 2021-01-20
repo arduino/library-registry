@@ -3747,3 +3747,4 @@ https://github.com/xreef/LoRa_E32_Series_Library.git|Contributed|EByte LoRa E32 
 https://github.com/sp6q/maidenhead.git|Contributed|Maidenhead
 https://github.com/Dlloydev/QuickPID.git|Contributed|QuickPID
 https://github.com/pa-pa/AskSinPP.git|Contributed|AskSinPP
+https://github.com/felias-fogg/DotMatrix5x7.git|Contributed|DotMatrix5x7
