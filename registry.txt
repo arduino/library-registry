@@ -3751,3 +3751,4 @@ https://github.com/felias-fogg/DotMatrix5x7.git|Contributed|DotMatrix5x7
 https://github.com/mobizt/Firebase-ESP-Client.git|Contributed|Firebase Arduino Client Library for ESP8266 and ESP32
 https://github.com/NickvanTholen/pca9634-lib.git|Contributed|PCA9634 Arduino Library
 https://github.com/PribaNosati/mrm-us-b.git|Contributed|mrm-us-b
+https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino.git|Contributed|light_CD74HC4067
