@@ -3732,3 +3732,4 @@ https://github.com/telleropnul/BigFont01_I2C.git|Contributed|BigFont01_I2C
 https://github.com/totemmaker/TotemArduino.git|Contributed|Totem Library
 https://github.com/mchwalfajar/jeager-one.git|Contributed|jeager-one
 https://github.com/RobTillaart/CRC.git|Contributed|CRC
+https://github.com/Jacobllc/SDU_AGS.git|Contributed|SDU AGS SensorBoard
