@@ -3742,3 +3742,4 @@ https://github.com/adafruit/Adafruit_HTU31D.git|Contributed|Adafruit HTU31D Libr
 https://github.com/adafruit/Adafruit_SHT4X.git|Contributed|Adafruit SHT4x Library
 https://github.com/fbiego/ESP32Time.git|Contributed|ESP32Time
 https://github.com/RobTillaart/Multiplex.git|Contributed|Multiplex
+https://github.com/xreef/PCF8574_library.git|Contributed|PCF8574 library
