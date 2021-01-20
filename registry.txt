@@ -3749,3 +3749,4 @@ https://github.com/Dlloydev/QuickPID.git|Contributed|QuickPID
 https://github.com/pa-pa/AskSinPP.git|Contributed|AskSinPP
 https://github.com/felias-fogg/DotMatrix5x7.git|Contributed|DotMatrix5x7
 https://github.com/mobizt/Firebase-ESP-Client.git|Contributed|Firebase Arduino Client Library for ESP8266 and ESP32
+https://github.com/NickvanTholen/pca9634-lib.git|Contributed|PCA9634 Arduino Library
