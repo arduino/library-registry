@@ -3734,3 +3734,4 @@ https://github.com/mchwalfajar/jeager-one.git|Contributed|jeager-one
 https://github.com/RobTillaart/CRC.git|Contributed|CRC
 https://github.com/Jacobllc/SDU_AGS.git|Contributed|SDU AGS SensorBoard
 https://github.com/Zanduino/SmoothLED.git|Contributed|Zanduino SmoothLED Library 10-bit
+https://github.com/meteolab/MeteoLabBeacon.git|Contributed|MeteoLabBeacon
