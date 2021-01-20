@@ -3738,3 +3738,4 @@ https://github.com/meteolab/MeteoLabBeacon.git|Contributed|MeteoLabBeacon
 https://github.com/adafruit/Adafruit_AW9523.git|Contributed|Adafruit AW9523
 https://github.com/telleropnul/BigFont02.git|Contributed|BigFont02
 https://github.com/telleropnul/BigFont02_I2C.git|Contributed|BigFont02_I2C
+https://github.com/adafruit/Adafruit_HTU31D.git|Contributed|Adafruit HTU31D Library
