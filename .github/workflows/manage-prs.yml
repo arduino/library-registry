@@ -33,10 +33,48 @@ jobs:
     steps:
       - name: Dummy step to make job valid
         run: ""
+  diff:
+    needs:
+      - enabled
+    runs-on: ubuntu-latest
+
+    outputs:
+      artifact: ${{ steps.configuration.outputs.artifact }}
+      path: ${{ steps.configuration.outputs.path }}
+      filename: ${{ steps.configuration.outputs.filename }}
+
+    steps:
+      - name: Set configuration outputs
+        id: configuration
+        run: |
+          echo "::set-output name=artifact::diff"
+          echo "::set-output name=path::${{ runner.temp }}"
+          echo "::set-output name=filename::diff.txt"
+
+      - name: Checkout local repository
+        uses: actions/checkout@v2
+
+      - name: Checkout PR branch
+        run: |
+          # https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/checking-out-pull-requests-locally
+          # It's necessary to reference both pull_request.number and issue.number because only one of the two are defined depending on whether the workflow is triggered by PR or comment event.
+          git fetch origin pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}/head:pr-branch
+          git checkout pr-branch
+
+      - name: Generate diff file
+        run: |
+          git diff --unified=0 --ignore-blank-lines --ignore-space-at-eol --output="${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}" ${{ github.sha }}
+
+      - name: Upload diff file to workflow artifact
+        uses: actions/upload-artifact@v2
+        with:
+          path: ${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}
+          name: ${{ steps.configuration.outputs.artifact }}
 
   parse:
     needs:
       - enabled
+      - diff
     runs-on: ubuntu-latest
 
     outputs:
@@ -62,23 +100,21 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           version: 3.x
 
-      # For security reasons, this must be done before checking out the PR branch.
       - name: Build manager
         env:
           GO_BUILD_FLAGS: -o $MANAGER_PATH
         run: task go:build
 
-      - name: Checkout PR branch
-        run: |
-          # https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/checking-out-pull-requests-locally
-          # It's necessary to reference both pull_request.number and issue.number because only one of the two are defined depending on whether the workflow is triggered by PR or comment event.
-          git fetch origin pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}/head:pr-branch
-          git checkout pr-branch
+      - name: Download diff
+        uses: actions/download-artifact@v2
+        with:
+          path: ${{ needs.diff.outputs.path }}
+          name: ${{ needs.diff.outputs.artifact }}
 
       - name: Parse request
         id: parse-request
         run: |
-          REQUEST="$("$MANAGER_PATH" --baseref="${{ github.sha }}" --repopath="${{ github.workspace }}" --listname="repositories.txt")"
+          REQUEST="$("$MANAGER_PATH" --diffpath="${{ needs.diff.outputs.path }}/${{ needs.diff.outputs.filename }}" --repopath="${{ github.workspace }}" --listname="repositories.txt")"
           # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in certain workflow fields.
           echo "::set-output name=type::$(echo "$REQUEST" | jq -r -c '.type')"
           echo "::set-output name=submissions::$(echo "$REQUEST" | jq -c '.submissions')"

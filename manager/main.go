@@ -75,50 +75,46 @@ type submissionType struct {
 }
 
 // Command line flags.
-var baseRef = flag.String("baseref", "", "")
-var repoPath = flag.String("repopath", "", "")
-var listName = flag.String("listname", "", "")
+var diffPathArgument = flag.String("diffpath", "", "")
+var repoPathArgument = flag.String("repopath", "", "")
+var listNameArgument = flag.String("listname", "", "")
 
 func main() {
 	// Validate flag input.
 	flag.Parse()
 
-	if *baseRef == "" {
-		errorExit("--baseref flag is required")
+	if *diffPathArgument == "" {
+		errorExit("--diffpath flag is required")
 	}
 
-	if *repoPath == "" {
+	if *repoPathArgument == "" {
 		errorExit("--repopath flag is required")
 	}
 
-	if *listName == "" {
+	if *listNameArgument == "" {
 		errorExit("--listname flag is required")
 	}
 
-	listPath := paths.New(*repoPath, *listName)
-	exist, err := listPath.ExistCheck()
-	if err != nil {
-		panic(err)
+	diffPath := paths.New(*diffPathArgument)
+	exist, err := diffPath.ExistCheck()
+	if !exist {
+		errorExit("diff file not found")
 	}
+
+	listPath := paths.New(*repoPathArgument, *listNameArgument)
+	exist, err = listPath.ExistCheck()
 	if !exist {
 		errorExit(fmt.Sprintf("list file %s not found", listPath))
 	}
 
-	// Get the PR diff.
-	err = os.Chdir(*repoPath)
-	if err != nil {
-		panic(err)
-	}
-
-	rawDiff, err := exec.Command("git", "diff", "--unified=0", "--ignore-blank-lines", "--ignore-space-at-eol", *baseRef).Output()
-	if err != nil {
-		panic(err)
-	}
-
 	// Parse the PR diff.
+	rawDiff, err := diffPath.ReadFile()
+	if err != nil {
+		panic(err)
+	}
 	var request requestType
 	var submissionURLs []string
-	request.Type, submissionURLs = parseDiff(rawDiff, *listName)
+	request.Type, submissionURLs = parseDiff(rawDiff, *listNameArgument)
 
 	// Process the submissions.
 	var indexEntries []string
