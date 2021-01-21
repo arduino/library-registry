@@ -287,19 +287,20 @@ jobs:
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
 
-      - name: Set environment variables
-        run: |
-          echo "INDEX_ENTRY_FILE_PATH=${{ runner.temp }}/index-entry.txt" >> "$GITHUB_ENV"
-
-      - name: Write index entry to file
-        run: |
-          echo "${{ needs.parse.outputs.index-entry }}" >> "${{ env.INDEX_ENTRY_FILE_PATH }}"
-
-      - name: Upload index entry file to workflow artifact
-        uses: actions/upload-artifact@v2
+      - name: Checkout index source branch
+        uses: actions/checkout@v2
         with:
-          path: ${{ env.INDEX_ENTRY_FILE_PATH }}
-          name: index-entry
+          ref: production
+
+      - name: Add index source file entry for submissions
+        run: |
+          INDEX_SOURCE_FILE_PATH="${{ github.workspace }}/repositories.txt"
+          git config --global user.email "bot@arduino.cc"
+          git config --global user.name "ArduinoBot"
+          echo "${{ needs.parse.outputs.index-entry }}" >> "$INDEX_SOURCE_FILE_PATH"
+          git add --update "$INDEX_SOURCE_FILE_PATH"
+          echo -e "Add submission # ${{ github.event.pull_request.number }}${{ github.event.issue.number }}\n\n${{ github.event.repository.html_url }}/pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}" | git commit --file -
+          git push
 
   request-review:
     needs:
