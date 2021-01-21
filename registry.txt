@@ -3754,3 +3754,4 @@ https://github.com/PribaNosati/mrm-us-b.git|Contributed|mrm-us-b
 https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino.git|Contributed|light_CD74HC4067
 https://github.com/mcci-catena/MCCI_Catena_SCD30.git|Contributed|MCCI Catena SCD30
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library.git|Contributed|SparkFun u-blox GNSS Arduino Library
+https://github.com/RobTillaart/infiniteAverage.git|Contributed|infiniteAverage
