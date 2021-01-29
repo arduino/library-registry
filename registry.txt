@@ -3767,3 +3767,4 @@ https://github.com/fmgrafikdesign/simplewebserial-arduino-library.git|Contribute
 https://github.com/adafruit/arduino-CAN.git|Contributed|CAN Adafruit Fork
 https://github.com/NickvanTholen/Youless-Arduino-lib.git|Contributed|Youless Arduino Library
 https://github.com/lyvewave/arduino-serial-data-exporter.git|Contributed|Serial Data Exporter
+https://github.com/asukiaaa/arduino-XboxControllerNotificationParser.git|Contributed|XboxControllerNotificationParser
