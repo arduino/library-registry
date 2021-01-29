@@ -3763,3 +3763,4 @@ https://github.com/felias-fogg/Vcc.git|Contributed|Vcc
 https://github.com/mudmin/ESPCanary.git|Contributed|ESPCanary
 https://github.com/khoih-prog/FlashStorage_STM32.git|Contributed|FlashStorage_STM32
 https://github.com/rv701/SPL06-007.git|Contributed|SPL06-007
+https://github.com/fmgrafikdesign/simplewebserial-arduino-library.git|Contributed|Simple Web Serial
