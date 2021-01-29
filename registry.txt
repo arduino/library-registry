@@ -3769,3 +3769,4 @@ https://github.com/NickvanTholen/Youless-Arduino-lib.git|Contributed|Youless Ard
 https://github.com/lyvewave/arduino-serial-data-exporter.git|Contributed|Serial Data Exporter
 https://github.com/asukiaaa/arduino-XboxControllerNotificationParser.git|Contributed|XboxControllerNotificationParser
 https://github.com/michaelgranz/UniversalTimer.git|Contributed|UniversalTimer
+https://github.com/tinyMLx/arduino-library.git|Contributed|Harvard_TinyMLx
