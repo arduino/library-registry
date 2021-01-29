@@ -3765,3 +3765,4 @@ https://github.com/khoih-prog/FlashStorage_STM32.git|Contributed|FlashStorage_ST
 https://github.com/rv701/SPL06-007.git|Contributed|SPL06-007
 https://github.com/fmgrafikdesign/simplewebserial-arduino-library.git|Contributed|Simple Web Serial
 https://github.com/adafruit/arduino-CAN.git|Contributed|CAN Adafruit Fork
+https://github.com/NickvanTholen/Youless-Arduino-lib.git|Contributed|Youless Arduino Library
