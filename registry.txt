@@ -3770,3 +3770,4 @@ https://github.com/lyvewave/arduino-serial-data-exporter.git|Contributed|Serial 
 https://github.com/asukiaaa/arduino-XboxControllerNotificationParser.git|Contributed|XboxControllerNotificationParser
 https://github.com/michaelgranz/UniversalTimer.git|Contributed|UniversalTimer
 https://github.com/tinyMLx/arduino-library.git|Contributed|Harvard_TinyMLx
+https://github.com/paulpavish/MotorDriver_GuiNE_Bot.git|Contributed|MotorDriver_GuiNE_Bot
