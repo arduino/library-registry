@@ -3760,3 +3760,4 @@ https://github.com/BitsAndDroids/BitsAndDroidsFlightSimLibrary.git|Contributed|B
 https://github.com/jason-rietzke/SensorPlot_WebInterface.git|Contributed|SensorPlot WebInterface
 https://github.com/sensirion/arduino-core.git|Contributed|Sensirion Core
 https://github.com/felias-fogg/Vcc.git|Contributed|Vcc
+https://github.com/mudmin/ESPCanary.git|Contributed|ESPCanary
