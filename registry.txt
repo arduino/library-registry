@@ -3756,3 +3756,4 @@ https://github.com/mcci-catena/MCCI_Catena_SCD30.git|Contributed|MCCI Catena SCD
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library.git|Contributed|SparkFun u-blox GNSS Arduino Library
 https://github.com/RobTillaart/infiniteAverage.git|Contributed|infiniteAverage
 https://github.com/BitsAndDroids/BitsAndDroidsFlightSimLibrary.git|Contributed|Bits and Droids flight sim library
+https://github.com/jason-rietzke/SensorPlot_WebInterface.git|Contributed|SensorPlot WebInterface
