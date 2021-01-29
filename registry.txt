@@ -3757,3 +3757,4 @@ https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library.git|Contributed
 https://github.com/RobTillaart/infiniteAverage.git|Contributed|infiniteAverage
 https://github.com/BitsAndDroids/BitsAndDroidsFlightSimLibrary.git|Contributed|Bits and Droids flight sim library
 https://github.com/jason-rietzke/SensorPlot_WebInterface.git|Contributed|SensorPlot WebInterface
+https://github.com/sensirion/arduino-core.git|Contributed|Sensirion Core
