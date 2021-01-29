@@ -3771,3 +3771,4 @@ https://github.com/asukiaaa/arduino-XboxControllerNotificationParser.git|Contrib
 https://github.com/michaelgranz/UniversalTimer.git|Contributed|UniversalTimer
 https://github.com/tinyMLx/arduino-library.git|Contributed|Harvard_TinyMLx
 https://github.com/paulpavish/MotorDriver_GuiNE_Bot.git|Contributed|MotorDriver_GuiNE_Bot
+https://github.com/Sensirion/arduino-ble-gadget.git|Contributed|Sensirion Gadget BLE Arduino Lib
