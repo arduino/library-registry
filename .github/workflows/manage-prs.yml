@@ -47,19 +47,21 @@ jobs:
           echo "::set-output name=path::${{ runner.temp }}"
           echo "::set-output name=filename::diff.txt"
 
-      - name: Checkout local repository
-        uses: actions/checkout@v2
+      - name: Get PR diff
+        id: get-diff
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          mediaType: |
+            format: diff
+          route: GET /repos/{owner}/{repo}/pulls/{pull_number}
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
 
-      - name: Checkout PR branch
-        run: |
-          # https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/checking-out-pull-requests-locally
-          # It's necessary to reference both pull_request.number and issue.number because only one of the two are defined depending on whether the workflow is triggered by PR or comment event.
-          git fetch origin pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}/head:pr-branch
-          git checkout pr-branch
-
-      - name: Generate diff file
-        run: |
-          git diff --unified=0 --ignore-blank-lines --ignore-space-at-eol --output="${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}" ${{ github.sha }}
+      - name: Write diff to file
+        run: printf -- '%b' ${{ steps.get-diff.outputs.data }} > "${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}"
 
       - name: Upload diff file to workflow artifact
         uses: actions/upload-artifact@v2
