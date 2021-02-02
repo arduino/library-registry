@@ -48,20 +48,16 @@ jobs:
           echo "::set-output name=filename::diff.txt"
 
       - name: Get PR diff
-        id: get-diff
-        uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          mediaType: |
-            format: diff
-          route: GET /repos/{owner}/{repo}/pulls/{pull_number}
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-
-      - name: Write diff to file
-        run: printf -- '%b' ${{ steps.get-diff.outputs.data }} > "${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}"
+        run: |
+          # It's necessary to reference both pull_request.number and issue.number because only one of the two are defined depending on whether the workflow is triggered by PR or comment event.
+          curl \
+            --fail \
+            --output "${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}" \
+            --header "Authorization: token $GITHUB_TOKEN" \
+            --header "Accept: application/vnd.github.v3.diff" \
+            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/pulls/${{ github.event.pull_request.number }}${{ github.event.issue.number }}
 
       - name: Upload diff file to workflow artifact
         uses: actions/upload-artifact@v2
