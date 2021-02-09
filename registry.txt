@@ -3799,3 +3799,4 @@ https://github.com/ayushsharma82/ESPConnect.git|Contributed|ESPConnect
 https://github.com/Zanduino/SmoothLED_8bit.git|Contributed|Zanduino SmoothLED Library 8-bit
 https://github.com/jancoow/BH1730-Library.git|Contributed|BH1730
 https://github.com/mrmx/AW9523B.git|Contributed|MrMx - AW9523B
+https://github.com/mrmx/Arduino-SI4012.git|Contributed|MrMx - Arduino SI4012
