@@ -3788,3 +3788,4 @@ https://github.com/Sensirion/arduino-uart-sfa3x.git|Contributed|Sensirion UART S
 https://github.com/yellobyte/SoapESP32.git|Contributed|SoapESP32
 https://github.com/khoih-prog/WiFiManager_Generic_Lite.git|Contributed|WiFiManager_Generic_Lite
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library.git|Contributed|SparkFun u-blox SARA-R5 Arduino Library
+https://github.com/Patrick-Thomas/Sparkpad-Arduino.git|Contributed|Sparkpad
