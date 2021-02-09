@@ -3791,3 +3791,4 @@ https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library.git|Contribu
 https://github.com/Patrick-Thomas/Sparkpad-Arduino.git|Contributed|Sparkpad
 https://github.com/asukiaaa/arduino-HX711.git|Contributed|HX711_asukiaaa
 https://github.com/RobTillaart/MCP_DAC.git|Contributed|MCP_DAC
+https://github.com/baggio63446333/QZQSM.git|Contributed|QZQSM
