@@ -3778,3 +3778,4 @@ https://github.com/alikabeel/Letters-and-Numbers-Seven-Segment-Display-Library.g
 https://github.com/StarsoftAnalysis/ESP8266RTTTLPlus.git|Contributed|ESP8266RTTTLPlus
 https://github.com/khoih-prog/ESPAsync_WiFiManager_Lite.git|Contributed|ESPAsync_WiFiManager_Lite
 https://github.com/khoih-prog/ESP_WiFiManager_Lite.git|Contributed|ESP_WiFiManager_Lite
+https://github.com/thewknd/VEML6040.git|Contributed|VEML6040
