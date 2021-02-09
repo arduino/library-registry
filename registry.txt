@@ -3781,3 +3781,4 @@ https://github.com/khoih-prog/ESP_WiFiManager_Lite.git|Contributed|ESP_WiFiManag
 https://github.com/thewknd/VEML6040.git|Contributed|VEML6040
 https://github.com/gabriel-milan/Arduino-MAX30100.git|Contributed|MAX30100_milan
 https://github.com/pu2clr/MCP23008.git|Contributed|PU2CLR MCP23008
+https://github.com/EasyG0ing1/BlockNot.git|Contributed|BlockNot
