@@ -3785,3 +3785,4 @@ https://github.com/paulpavish/GuiNE_Bot_Arduino_Library.git|Contributed|GuiN-E B
 https://github.com/Sensirion/arduino-i2c-scd4x.git|Contributed|Sensirion I2C SCD4x
 https://github.com/Sensirion/arduino-i2c-sfa3x.git|Contributed|Sensirion I2C SFA3x
 https://github.com/Sensirion/arduino-uart-sfa3x.git|Contributed|Sensirion UART SFA3x
+https://github.com/yellobyte/SoapESP32.git|Contributed|SoapESP32
