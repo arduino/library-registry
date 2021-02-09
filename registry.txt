@@ -3772,7 +3772,6 @@ https://github.com/lyvewave/arduino-serial-data-exporter.git|Contributed|Serial 
 https://github.com/asukiaaa/arduino-XboxControllerNotificationParser.git|Contributed|XboxControllerNotificationParser
 https://github.com/michaelgranz/UniversalTimer.git|Contributed|UniversalTimer
 https://github.com/tinyMLx/arduino-library.git|Contributed|Harvard_TinyMLx
-https://github.com/paulpavish/MotorDriver_GuiNE_Bot.git|Contributed|MotorDriver_GuiNE_Bot
 https://github.com/Sensirion/arduino-ble-gadget.git|Contributed|Sensirion Gadget BLE Arduino Lib
 https://github.com/alikabeel/Letters-and-Numbers-Seven-Segment-Display-Library.git|Contributed|Letters and Numbers Seven Segment Display Library
 https://github.com/StarsoftAnalysis/ESP8266RTTTLPlus.git|Contributed|ESP8266RTTTLPlus
@@ -3782,3 +3781,4 @@ https://github.com/thewknd/VEML6040.git|Contributed|VEML6040
 https://github.com/gabriel-milan/Arduino-MAX30100.git|Contributed|MAX30100_milan
 https://github.com/pu2clr/MCP23008.git|Contributed|PU2CLR MCP23008
 https://github.com/EasyG0ing1/BlockNot.git|Contributed|BlockNot
+https://github.com/paulpavish/GuiNE_Bot_Arduino_Library.git|Contributed|GuiN-E Bot
