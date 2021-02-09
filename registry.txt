@@ -1989,7 +1989,6 @@ https://github.com/mcci-catena/arduino-lorawan.git|Contributed|MCCI Arduino LoRa
 https://github.com/mcci-catena/Catena-Arduino-Platform.git|Contributed|MCCI Catena Arduino Platform
 https://github.com/werktag/Adaino.git|Contributed|Adaino
 https://github.com/tommag/DS2431_Arduino.git|Contributed|DS2431
-https://github.com/ElectronicCats/ElectronicCats_InternalTemperatureZero.git|Contributed|Electronic Cats Internal Temperature Zero Library
 https://github.com/kingmathers313/FHEM_Arduino.git|Contributed|FHEM
 https://github.com/VizIoT-com/viziot-mqtt-client-arduino.git|Contributed|VizIoTMqttClient
 https://github.com/sixfab/Sixfab_Arduino_NBIoT_Shield.git|Contributed|Sixfab_NBIoT
@@ -3795,3 +3794,4 @@ https://github.com/baggio63446333/QZQSM.git|Contributed|QZQSM
 https://github.com/sparkfun/SparkFun_SDP3x_Arduino_Library.git|Contributed|SparkFun SDP3x Arduino Library
 https://github.com/ultimaterobotics/uECG_library.git|Contributed|uECG
 https://github.com/petruspierre/EasyHTTP.git|Contributed|EasyHTTP
+https://github.com/ElectronicCats/ElectronicCats_InternalTemperatureZero.git|Contributed|TemperatureZero
