@@ -3795,3 +3795,4 @@ https://github.com/sparkfun/SparkFun_SDP3x_Arduino_Library.git|Contributed|Spark
 https://github.com/ultimaterobotics/uECG_library.git|Contributed|uECG
 https://github.com/petruspierre/EasyHTTP.git|Contributed|EasyHTTP
 https://github.com/ElectronicCats/ElectronicCats_InternalTemperatureZero.git|Contributed|TemperatureZero
+https://github.com/ayushsharma82/ESPConnect.git|Contributed|ESPConnect
