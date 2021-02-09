@@ -3792,3 +3792,4 @@ https://github.com/Patrick-Thomas/Sparkpad-Arduino.git|Contributed|Sparkpad
 https://github.com/asukiaaa/arduino-HX711.git|Contributed|HX711_asukiaaa
 https://github.com/RobTillaart/MCP_DAC.git|Contributed|MCP_DAC
 https://github.com/baggio63446333/QZQSM.git|Contributed|QZQSM
+https://github.com/sparkfun/SparkFun_SDP3x_Arduino_Library.git|Contributed|SparkFun SDP3x Arduino Library
