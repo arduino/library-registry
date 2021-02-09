@@ -3783,3 +3783,4 @@ https://github.com/pu2clr/MCP23008.git|Contributed|PU2CLR MCP23008
 https://github.com/EasyG0ing1/BlockNot.git|Contributed|BlockNot
 https://github.com/paulpavish/GuiNE_Bot_Arduino_Library.git|Contributed|GuiN-E Bot
 https://github.com/Sensirion/arduino-i2c-scd4x.git|Contributed|Sensirion I2C SCD4x
+https://github.com/Sensirion/arduino-i2c-sfa3x.git|Contributed|Sensirion I2C SFA3x
