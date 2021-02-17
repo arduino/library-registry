@@ -3815,3 +3815,4 @@ https://github.com/muwerk/mupplet-core.git|Contributed|mupplet-core
 https://github.com/Invzblio/SerialToWifi.git|Contributed|SerialToWifi
 https://github.com/TheVaporTrail/TheVaporTrail_SubPixel.git|Contributed|TheVaporTrail SubPixel
 https://github.com/chegewara/EspTinyUSB.git|Contributed|ESP32 TinyUSB
+https://github.com/Velleman/VMA430_GPS_Module.git|Contributed|WPI430-VMA430 GPS
