@@ -3813,3 +3813,4 @@ https://github.com/argandas/serialEEPROM.git|Contributed|serialEEPROM
 https://github.com/argandas/SerialCommand.git|Contributed|SerialCommand
 https://github.com/muwerk/mupplet-core.git|Contributed|mupplet-core
 https://github.com/Invzblio/SerialToWifi.git|Contributed|SerialToWifi
+https://github.com/TheVaporTrail/TheVaporTrail_SubPixel.git|Contributed|TheVaporTrail SubPixel
