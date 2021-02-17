@@ -3811,3 +3811,4 @@ https://github.com/stm32duino/X-NUCLEO-6180A1.git|Contributed|STM32duino X-NUCLE
 https://github.com/muwerk/mufonts.git|Contributed|mufonts
 https://github.com/argandas/serialEEPROM.git|Contributed|serialEEPROM
 https://github.com/argandas/SerialCommand.git|Contributed|SerialCommand
+https://github.com/muwerk/mupplet-core.git|Contributed|mupplet-core
