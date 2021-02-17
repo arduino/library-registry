@@ -3809,3 +3809,4 @@ https://github.com/lifely-cc/agruminoLemon-libraries.git|Contributed|Lifely Agru
 https://github.com/stm32duino/VL6180.git|Contributed|STM32duino VL6180
 https://github.com/stm32duino/X-NUCLEO-6180A1.git|Contributed|STM32duino X-NUCLEO-6180A1
 https://github.com/muwerk/mufonts.git|Contributed|mufonts
+https://github.com/argandas/serialEEPROM.git|Contributed|serialEEPROM
