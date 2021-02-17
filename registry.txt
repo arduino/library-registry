@@ -3806,3 +3806,4 @@ https://github.com/Infineon/arduino-rgb-led-lighting-shield.git|Contributed|RGB-
 https://github.com/LeemanGeophysicalLLC/LGLearningShieldLibrary.git|Contributed|Leeman Geophysical Learning Shield
 https://github.com/LowPowerLab/LowPower.git|Contributed|LowPower_LowPowerLab
 https://github.com/lifely-cc/agruminoLemon-libraries.git|Contributed|Lifely Agrumino Lemon
+https://github.com/stm32duino/VL6180.git|Contributed|STM32duino VL6180
