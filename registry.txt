@@ -3802,3 +3802,4 @@ https://github.com/mrmx/AW9523B.git|Contributed|MrMx - AW9523B
 https://github.com/mrmx/Arduino-SI4012.git|Contributed|MrMx - Arduino SI4012
 https://github.com/Jan-NiklasB/MH-Z14A-Library.git|Contributed|MH-Z14A Library
 https://github.com/SirSundays/LDC1312-Arduino.git|Contributed|LDC1312-1314 I2C Library
+https://github.com/Infineon/arduino-rgb-led-lighting-shield.git|Contributed|RGB-LED-Lighting-Shield
