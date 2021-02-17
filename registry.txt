@@ -3804,3 +3804,4 @@ https://github.com/Jan-NiklasB/MH-Z14A-Library.git|Contributed|MH-Z14A Library
 https://github.com/SirSundays/LDC1312-Arduino.git|Contributed|LDC1312-1314 I2C Library
 https://github.com/Infineon/arduino-rgb-led-lighting-shield.git|Contributed|RGB-LED-Lighting-Shield
 https://github.com/LeemanGeophysicalLLC/LGLearningShieldLibrary.git|Contributed|Leeman Geophysical Learning Shield
+https://github.com/LowPowerLab/LowPower.git|Contributed|LowPower_LowPowerLab
