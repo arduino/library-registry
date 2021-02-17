@@ -3818,3 +3818,4 @@ https://github.com/chegewara/EspTinyUSB.git|Contributed|ESP32 TinyUSB
 https://github.com/Velleman/VMA430_GPS_Module.git|Contributed|WPI430-VMA430 GPS
 https://github.com/PribaNosati/mrm-col-b.git|Contributed|mrm-col-b
 https://github.com/Sensirion/arduino-i2c-svm40.git|Contributed|Sensirion I2C SVM40
+https://github.com/Sensirion/arduino-uart-svm40.git|Contributed|Sensirion UART SVM40
