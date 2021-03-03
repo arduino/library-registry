@@ -3824,3 +3824,4 @@ https://github.com/antcolag/runner.git|Contributed|runner
 https://github.com/turn-a-round/Arduino-Charlieplexing.git|Contributed|MatrixCharlieplex
 https://github.com/joshnishikawa/MIDIcontroller.git|Contributed|MIDIcontroller
 https://github.com/MaximIntegrated/MAX31328-Arduino-Driver.git|Contributed|Max31328RTC
+https://github.com/RobTillaart/Currency.git|Contributed|currency
