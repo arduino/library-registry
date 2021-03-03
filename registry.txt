@@ -3839,3 +3839,4 @@ https://github.com/TheFidax/Rcn600.git|Contributed|Rcn600
 https://github.com/dlyckelid/KX023-1025-IMU.git|Contributed|KX0231025IMU
 https://github.com/IowaScaledEngineering/arduino-mcp3427.git|Contributed|ISE I2C-MCP3427 Library
 https://github.com/pu2clr/PCF8574.git|Contributed|PU2CLR PCF8574
+https://github.com/Protocentral/protocentral-ads1293-arduino.git|Contributed|ProtoCentral ADS1293 ECG Library
