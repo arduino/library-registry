@@ -3820,3 +3820,4 @@ https://github.com/PribaNosati/mrm-col-b.git|Contributed|mrm-col-b
 https://github.com/Sensirion/arduino-i2c-svm40.git|Contributed|Sensirion I2C SVM40
 https://github.com/Sensirion/arduino-uart-svm40.git|Contributed|Sensirion UART SVM40
 https://github.com/mhoseini967/AdvancedSevenSegment.git|Contributed|Advance Seven Segment
+https://github.com/antcolag/runner.git|Contributed|runner
