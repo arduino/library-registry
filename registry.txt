@@ -3823,3 +3823,4 @@ https://github.com/mhoseini967/AdvancedSevenSegment.git|Contributed|Advance Seve
 https://github.com/antcolag/runner.git|Contributed|runner
 https://github.com/turn-a-round/Arduino-Charlieplexing.git|Contributed|MatrixCharlieplex
 https://github.com/joshnishikawa/MIDIcontroller.git|Contributed|MIDIcontroller
+https://github.com/MaximIntegrated/MAX31328-Arduino-Driver.git|Contributed|Max31328RTC
