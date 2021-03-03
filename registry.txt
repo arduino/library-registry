@@ -3841,3 +3841,4 @@ https://github.com/IowaScaledEngineering/arduino-mcp3427.git|Contributed|ISE I2C
 https://github.com/pu2clr/PCF8574.git|Contributed|PU2CLR PCF8574
 https://github.com/Protocentral/protocentral-ads1293-arduino.git|Contributed|ProtoCentral ADS1293 ECG Library
 https://github.com/muwerk/mupplet-display.git|Contributed|mupplet-display
+https://github.com/shortbloke/Arduino_SNMP_Manager.git|Contributed|SNMP Manager
