@@ -3829,3 +3829,4 @@ https://github.com/igorantolic/ai-esp32-rotary-encoder.git|Contributed|Ai Esp32 
 https://github.com/stnkl/ESPEssentials.git|Contributed|ESPEssentials
 https://github.com/heisenware/arduino-vrpc.git|Contributed|VRPC
 https://github.com/gpb01/NVSRAM.git|Contributed|NVSRAM
+https://github.com/viamgr/Arduino-Awesome-Click-Button.git|Contributed|AwesomeClickButton
