@@ -3720,7 +3720,6 @@ https://github.com/0015/TP_Arduino_DigitalRain_Anim.git|Contributed|Digital Rain
 https://github.com/Seeed-Studio/Seeed_Arduino_mbedtls.git|Contributed|Seeed_Arduino_mbedtls
 https://github.com/designer2k2/EMUcan.git|Contributed|EMUcan
 https://github.com/designer2k2/EMUcanT4.git|Contributed|EMUcanT4
-https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi.git|Contributed|Seeed Arduino WiFi
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcUnified.git|Contributed|Seeed Arduino rpcUnified
 https://github.com/Seeed-Studio/Seeed_Arduino_FS.git|Contributed|Seeed Arduino FS
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD.git|Contributed|Seeed Arduino SFUD
@@ -3825,3 +3824,4 @@ https://github.com/turn-a-round/Arduino-Charlieplexing.git|Contributed|MatrixCha
 https://github.com/joshnishikawa/MIDIcontroller.git|Contributed|MIDIcontroller
 https://github.com/MaximIntegrated/MAX31328-Arduino-Driver.git|Contributed|Max31328RTC
 https://github.com/RobTillaart/Currency.git|Contributed|currency
+https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi.git|Contributed|Seeed Arduino rpcWiFi
