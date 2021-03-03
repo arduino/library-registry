@@ -3835,3 +3835,4 @@ https://github.com/ArduinoGetStarted/buzzer.git|Contributed|ezBuzzer
 https://github.com/mggates39/MyDelay.git|Contributed|MyDelay
 https://github.com/polohpi/AT24C256.git|Contributed|AT24C256
 https://github.com/aggregate/LCLV.git|Contributed|LCLV
+https://github.com/TheFidax/Rcn600.git|Contributed|Rcn600
