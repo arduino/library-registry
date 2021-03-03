@@ -3826,3 +3826,4 @@ https://github.com/RobTillaart/Currency.git|Contributed|currency
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi.git|Contributed|Seeed Arduino rpcWiFi
 https://github.com/mrfaptastic/Easy-IoT-Arduino-CC1101-LORA.git|Contributed|Easy IoT with CC1101 - Sub-1GHz LORA-like
 https://github.com/igorantolic/ai-esp32-rotary-encoder.git|Contributed|Ai Esp32 Rotary Encoder
+https://github.com/stnkl/ESPEssentials.git|Contributed|ESPEssentials
