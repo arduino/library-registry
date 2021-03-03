@@ -3843,3 +3843,4 @@ https://github.com/Protocentral/protocentral-ads1293-arduino.git|Contributed|Pro
 https://github.com/muwerk/mupplet-display.git|Contributed|mupplet-display
 https://github.com/shortbloke/Arduino_SNMP_Manager.git|Contributed|SNMP Manager
 https://github.com/argandas/ardubson.git|Contributed|ardubson
+https://github.com/arnakazim/TwiLiquidCrystal-library.git|Contributed|TwiLiquidCrytal by Arnakazim
