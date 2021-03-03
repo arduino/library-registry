@@ -3822,3 +3822,4 @@ https://github.com/Sensirion/arduino-uart-svm40.git|Contributed|Sensirion UART S
 https://github.com/mhoseini967/AdvancedSevenSegment.git|Contributed|Advance Seven Segment
 https://github.com/antcolag/runner.git|Contributed|runner
 https://github.com/turn-a-round/Arduino-Charlieplexing.git|Contributed|MatrixCharlieplex
+https://github.com/joshnishikawa/MIDIcontroller.git|Contributed|MIDIcontroller
