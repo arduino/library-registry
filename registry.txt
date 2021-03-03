@@ -3828,3 +3828,4 @@ https://github.com/mrfaptastic/Easy-IoT-Arduino-CC1101-LORA.git|Contributed|Easy
 https://github.com/igorantolic/ai-esp32-rotary-encoder.git|Contributed|Ai Esp32 Rotary Encoder
 https://github.com/stnkl/ESPEssentials.git|Contributed|ESPEssentials
 https://github.com/heisenware/arduino-vrpc.git|Contributed|VRPC
+https://github.com/gpb01/NVSRAM.git|Contributed|NVSRAM
