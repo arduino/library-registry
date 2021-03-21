@@ -3856,3 +3856,4 @@ https://github.com/vivitainc/VivicoreSerial.git|Contributed|VivicoreSerial
 https://github.com/WhaddaMakers/bar_graph_module.git|Contributed|Whadda LED bar graph
 https://github.com/khoih-prog/GSM_Generic.git|Contributed|GSM_Generic
 https://github.com/morcibacsi/esp32_rmt_midea_ir_tx.git|Contributed|Midea AC infrared remote controller with ESP32 RMT Peripheral
+https://github.com/caiofrota/cf-arduino-lib-pushbutton.git|Contributed|CFPushButton
