@@ -3852,3 +3852,4 @@ https://github.com/mmmarinho/umirobot-arduino.git|Contributed|UMIRobot
 https://github.com/Sensirion/arduino-uart-sen44.git|Contributed|Sensirion UART SEN44
 https://github.com/Sensirion/arduino-i2c-sen44.git|Contributed|Sensirion I2C SEN44
 https://github.com/Sensirion/arduino-i2c-stc3x.git|Contributed|Sensirion I2C STC3x
+https://github.com/vivitainc/VivicoreSerial.git|Contributed|VivicoreSerial
