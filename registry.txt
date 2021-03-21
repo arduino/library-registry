@@ -3845,3 +3845,4 @@ https://github.com/shortbloke/Arduino_SNMP_Manager.git|Contributed|SNMP Manager
 https://github.com/argandas/ardubson.git|Contributed|ardubson
 https://github.com/arnakazim/TwiLiquidCrystal-library.git|Contributed|TwiLiquidCrytal by Arnakazim
 https://github.com/rudydelorenzo/ELMo.git|Contributed|ELMo
+https://github.com/Seeed-Studio/Seeed_Arduino_rpcBLE.git|Contributed|Seeed Arduino rpcBLE
