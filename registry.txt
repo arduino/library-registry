@@ -3858,3 +3858,4 @@ https://github.com/khoih-prog/GSM_Generic.git|Contributed|GSM_Generic
 https://github.com/morcibacsi/esp32_rmt_midea_ir_tx.git|Contributed|Midea AC infrared remote controller with ESP32 RMT Peripheral
 https://github.com/caiofrota/cf-arduino-lib-pushbutton.git|Contributed|CFPushButton
 https://github.com/kk4das/IC746CAT.git|Contributed|ICOM 746 CAT Control
+https://github.com/RobTillaart/SHT85.git|Contributed|SHT85
