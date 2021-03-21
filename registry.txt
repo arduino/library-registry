@@ -3862,3 +3862,4 @@ https://github.com/RobTillaart/SHT85.git|Contributed|SHT85
 https://github.com/Wh1teRabbitHU/DAC121C08x-Driver.git|Contributed|DAC121C08x
 https://github.com/BadASszZ/IoTWebConf_for_Visuino_modified_by_IoT_Jedi.git|Contributed|IoTWebConf_for_Visuino_modified_by_IoT_Jedi
 https://github.com/Wh1teRabbitHU/Arduino-I2C.git|Contributed|I2C
+https://github.com/sparkfun/SparkFun_QwiicNES_Arduino_Library.git|Contributed|SparkFun QwiicNES Arduino Library
