@@ -3860,3 +3860,4 @@ https://github.com/caiofrota/cf-arduino-lib-pushbutton.git|Contributed|CFPushBut
 https://github.com/kk4das/IC746CAT.git|Contributed|ICOM 746 CAT Control
 https://github.com/RobTillaart/SHT85.git|Contributed|SHT85
 https://github.com/Wh1teRabbitHU/DAC121C08x-Driver.git|Contributed|DAC121C08x
+https://github.com/BadASszZ/IoTWebConf_for_Visuino_modified_by_IoT_Jedi.git|Contributed|IoTWebConf_for_Visuino_modified_by_IoT_Jedi
