@@ -3850,3 +3850,4 @@ https://github.com/sensboston/esp32_moga.git|Contributed|esp32_moga
 https://github.com/Seeed-Studio/Seeed_Arduino_RTC.git|Contributed|Seeed Arduino RTC
 https://github.com/mmmarinho/umirobot-arduino.git|Contributed|UMIRobot
 https://github.com/Sensirion/arduino-uart-sen44.git|Contributed|Sensirion UART SEN44
+https://github.com/Sensirion/arduino-i2c-sen44.git|Contributed|Sensirion I2C SEN44
