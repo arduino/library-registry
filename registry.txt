@@ -3854,3 +3854,4 @@ https://github.com/Sensirion/arduino-i2c-sen44.git|Contributed|Sensirion I2C SEN
 https://github.com/Sensirion/arduino-i2c-stc3x.git|Contributed|Sensirion I2C STC3x
 https://github.com/vivitainc/VivicoreSerial.git|Contributed|VivicoreSerial
 https://github.com/WhaddaMakers/bar_graph_module.git|Contributed|Whadda LED bar graph
+https://github.com/khoih-prog/GSM_Generic.git|Contributed|GSM_Generic
