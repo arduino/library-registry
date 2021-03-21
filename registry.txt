@@ -3868,3 +3868,4 @@ https://github.com/RobTillaart/TCA9548.git|Contributed|TCA9548
 https://github.com/khoih-prog/NB_Generic.git|Contributed|NB_Generic
 https://github.com/MajicDesigns/MD_PWM.git|Contributed|MD_PWM
 https://github.com/sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library.git|Contributed|SparkFun ACS37800 Power Monitor Arduino Library
+https://github.com/PlayingWithFusion/PWFusion_MAX31865.git|Contributed|PWFusion_Max31865
