@@ -3847,3 +3847,4 @@ https://github.com/arnakazim/TwiLiquidCrystal-library.git|Contributed|TwiLiquidC
 https://github.com/rudydelorenzo/ELMo.git|Contributed|ELMo
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcBLE.git|Contributed|Seeed Arduino rpcBLE
 https://github.com/sensboston/esp32_moga.git|Contributed|esp32_moga
+https://github.com/Seeed-Studio/Seeed_Arduino_RTC.git|Contributed|Seeed Arduino RTC
