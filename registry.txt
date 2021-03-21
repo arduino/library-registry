@@ -3859,3 +3859,4 @@ https://github.com/morcibacsi/esp32_rmt_midea_ir_tx.git|Contributed|Midea AC inf
 https://github.com/caiofrota/cf-arduino-lib-pushbutton.git|Contributed|CFPushButton
 https://github.com/kk4das/IC746CAT.git|Contributed|ICOM 746 CAT Control
 https://github.com/RobTillaart/SHT85.git|Contributed|SHT85
+https://github.com/Wh1teRabbitHU/DAC121C08x-Driver.git|Contributed|DAC121C08x
