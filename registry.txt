@@ -3870,3 +3870,4 @@ https://github.com/MajicDesigns/MD_PWM.git|Contributed|MD_PWM
 https://github.com/sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library.git|Contributed|SparkFun ACS37800 Power Monitor Arduino Library
 https://github.com/PlayingWithFusion/PWFusion_MAX31865.git|Contributed|PWFusion_Max31865
 https://github.com/PlayingWithFusion/PWFusion_VL53L3C.git|Contributed|PWFusion_VL53L3C
+https://github.com/PlayingWithFusion/PWFusion_TCA9548A.git|Contributed|PWFusion_TCA9548A
