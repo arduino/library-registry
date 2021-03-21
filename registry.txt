@@ -3872,3 +3872,4 @@ https://github.com/PlayingWithFusion/PWFusion_MAX31865.git|Contributed|PWFusion_
 https://github.com/PlayingWithFusion/PWFusion_VL53L3C.git|Contributed|PWFusion_VL53L3C
 https://github.com/PlayingWithFusion/PWFusion_TCA9548A.git|Contributed|PWFusion_TCA9548A
 https://github.com/PlayingWithFusion/PWFusion_Mcp960x.git|Contributed|PWFusion_Mcp960x
+https://github.com/VertorixAU/Vertorix_VT1100_Mini.git|Contributed|VT1100_Mini
