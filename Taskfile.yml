@@ -1,59 +1,9 @@
 version: "3"
 
 vars:
-  DEFAULT_GO_PACKAGES:
-    sh: echo `cd manager && go list ./... | tr '\n' ' '`
-  DEFAULT_GO_PATHS:
-    sh: echo '`cd manager && go list -f '{{"{{"}}.Dir{{"}}"}}' ./...`'
-
   PRETTIER: prettier@2.1.2
 
 tasks:
-  go:build:
-    desc: Build the project
-    dir: manager
-    cmds:
-      - go build -v {{.GO_BUILD_FLAGS}}
-
-  check:
-    desc: Test, lint, and check formatting of everything
-    deps:
-      - task: go:check
-      - task: docs:check
-      - task: config:check
-
-  go:check:
-    desc: Test, lint, and check formatting of Go code
-    deps:
-      - task: go:lint
-      - task: go:test
-      - task: go:check-formatting
-
-  go:lint:
-    desc: Lint Go code
-    dir: manager
-    cmds:
-      - go vet {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
-      - go get golang.org/x/lint/golint
-      - |
-        GOLINT_PATH="$(go list -f '{{"{{"}}.Target{{"}}"}}' golang.org/x/lint/golint || echo "false")"
-        "$GOLINT_PATH" {{default "-min_confidence 0.8 -set_exit_status" .GO_LINT_FLAGS}} "{{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}"
-
-  go:test:
-    desc: Run unit tests
-    dir: manager
-    cmds:
-      - go test -v -short -run '{{default ".*" .GO_TEST_REGEX}}' {{default "-timeout 10m -coverpkg=./... -covermode=atomic" .GO_TEST_FLAGS}} -coverprofile=coverage_unit.txt {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
-
-  go:check-formatting:
-    desc: Check Go code formatting
-    dir: manager
-    cmds:
-      - |
-        RESULTS="$(gofmt -l {{default .DEFAULT_GO_PATHS .GO_PATHS}})"
-        echo "$RESULTS"
-        test -z "$RESULTS"
-
   docs:check:
     desc: Lint and check formatting of documentation files
     deps:
@@ -118,18 +68,6 @@ tasks:
     desc: Check formatting of configuration files
     cmds:
       - npx {{.PRETTIER}} --check "**/*.{yml,yaml,json}"
-
-  format:
-    desc: Format all files
-    deps:
-      - task: go:format
-      - task: docs:format
-      - task: config:format
-
-  go:format:
-    desc: Format Go code
-    cmds:
-      - gofmt -l -w {{default .DEFAULT_GO_PATHS .GO_PATHS}}
 
   docs:format:
     desc: Format documentation files
