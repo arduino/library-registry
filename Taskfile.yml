@@ -10,7 +10,6 @@ tasks:
       - task: docs:check-license
       - task: docs:check-links
       - task: docs:check-formatting
-      - task: check-spelling
 
   docs:check-license:
     desc: Check if the license file is correctly formatted
@@ -53,11 +52,6 @@ tasks:
     cmds:
       - npx {{.PRETTIER}} --check "**/*.md"
 
-  check-spelling:
-    desc: Check for commonly misspelled words
-    cmds:
-      - poetry install --no-root
-      - poetry run codespell {{.CODESPELL_SKIP_OPTION}} {{.CODESPELL_IGNORE_WORDS_OPTION}}
 
   config:check:
     desc: Lint and check formatting of configuration files
@@ -79,8 +73,3 @@ tasks:
     cmds:
       - npx {{.PRETTIER}} --write "**/*.{yml,yaml,json}"
 
-  correct-spelling:
-    desc: Correct commonly misspelled words where possible
-    cmds:
-      - poetry install --no-root
-      - poetry run codespell --write-changes {{.CODESPELL_SKIP_OPTION}} {{.CODESPELL_IGNORE_WORDS_OPTION}}
