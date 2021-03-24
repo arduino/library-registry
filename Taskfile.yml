@@ -1,16 +1,6 @@
 version: "3"
 
-vars:
-  PRETTIER: prettier@2.1.2
-
 tasks:
-  docs:check:
-    desc: Lint and check formatting of documentation files
-    deps:
-      - task: docs:check-license
-      - task: docs:check-links
-      - task: docs:check-formatting
-
   docs:check-license:
     desc: Check if the license file is correctly formatted
     cmds:
@@ -34,42 +24,4 @@ tasks:
           echo "ERROR: detected license type doesn't match expected $EXPECTED_LICENSE_TYPE"
           exit 1
         fi
-
-  docs:check-links:
-    desc: Check for dead links in documentation
-    cmds:
-      - |
-        npx --package markdown-link-check --call '
-        STATUS=0
-        for file in $(find -name "*.md"); do
-          markdown-link-check --quiet "$file"
-          STATUS=$(( $STATUS + $? ))
-        done
-        exit $STATUS'
-
-  docs:check-formatting:
-    desc: Check formatting of documentation files
-    cmds:
-      - npx {{.PRETTIER}} --check "**/*.md"
-
-
-  config:check:
-    desc: Lint and check formatting of configuration files
-    deps:
-      - task: config:check-formatting
-
-  config:check-formatting:
-    desc: Check formatting of configuration files
-    cmds:
-      - npx {{.PRETTIER}} --check "**/*.{yml,yaml,json}"
-
-  docs:format:
-    desc: Format documentation files
-    cmds:
-      - npx {{.PRETTIER}} --write "**/*.md"
-
-  config:format:
-    desc: Format configuration files
-    cmds:
-      - npx {{.PRETTIER}} --write "**/*.{yml,yaml,json}"
 
