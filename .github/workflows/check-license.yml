@@ -3,7 +3,7 @@ name: Check license
 env:
   EXPECTED_LICENSE_FILENAME: LICENSE.txt
   # SPDX identifier: https://spdx.org/licenses/
-  EXPECTED_LICENSE_TYPE: GPL-3.0
+  EXPECTED_LICENSE_TYPE: CC0-1.0
 
 on:
   push:
