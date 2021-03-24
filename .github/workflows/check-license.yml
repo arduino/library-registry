@@ -1,22 +1,28 @@
 name: Check license
 
+env:
+  EXPECTED_LICENSE_FILENAME: LICENSE.txt
+  # SPDX identifier: https://spdx.org/licenses/
+  EXPECTED_LICENSE_TYPE: GPL-3.0
+
 on:
   push:
     paths:
       - ".github/workflows/check-license.yml"
-      - "Taskfile.yml"
       # Recognized license files. See: https://github.com/licensee/licensee/blob/master/docs/what-we-look-at.md#detecting-the-license-file
-      - "COPYING*"
-      - "LICENCE*"
-      - "LICENSE*"
+      - "[cC][oO][pP][yY][iI][nN][gG]*"
+      - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
+      - "[lL][iI][cC][eE][nN][cCsS][eE]*"
+      - "[oO][fF][lL]*"
+      - "[pP][aA][tT][eE][nN][tT][sS]*"
   pull_request:
     paths:
       - ".github/workflows/check-license.yml"
-      - "Taskfile.yml"
-      # Recognized license files. See: https://github.com/licensee/licensee/blob/master/docs/what-we-look-at.md#detecting-the-license-file
-      - "COPYING*"
-      - "LICENCE*"
-      - "LICENSE*"
+      - "[cC][oO][pP][yY][iI][nN][gG]*"
+      - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
+      - "[lL][iI][cC][eE][nN][cCsS][eE]*"
+      - "[oO][fF][lL]*"
+      - "[pP][aA][tT][eE][nN][tT][sS]*"
 
 jobs:
   check:
@@ -25,12 +31,6 @@ jobs:
     steps:
       - name: Checkout local repository
         uses: actions/checkout@v2
-
-      - name: Install Taskfile
-        uses: arduino/actions/setup-taskfile@master
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          version: 3.x
 
       - uses: ruby/setup-ruby@v1
         with:
@@ -41,4 +41,20 @@ jobs:
 
       # See: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository
       - name: Check license file
-        run: task --silent docs:check-license
+        run: |
+          # See: https://github.com/licensee/licensee
+          LICENSEE_OUTPUT="$(licensee detect --json --confidence=100)"
+
+          DETECTED_LICENSE_FILE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].filename | tr --delete '\r')"
+          echo "Detected license file: $DETECTED_LICENSE_FILE"
+          if [ "$DETECTED_LICENSE_FILE" != "\"$EXPECTED_LICENSE_FILENAME\"" ]; then
+            echo "ERROR: detected license file doesn't match expected: $EXPECTED_LICENSE_FILENAME"
+            exit 1
+          fi
+
+          DETECTED_LICENSE_TYPE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].matched_license | tr --delete '\r')"
+          echo "Detected license type: $DETECTED_LICENSE_TYPE"
+          if [ "$DETECTED_LICENSE_TYPE" != "\"$EXPECTED_LICENSE_TYPE\"" ]; then
+            echo "ERROR: detected license type doesn't match expected $EXPECTED_LICENSE_TYPE"
+            exit 1
+          fi
