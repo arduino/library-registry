@@ -3882,3 +3882,4 @@ https://github.com/TechnoPhysCAL/TGP_LCD_Keypad.git|Contributed|TGP LCD Keypad
 https://github.com/TechnoPhysCAL/TGP_Suiveur.git|Contributed|TGP Suiveur
 https://github.com/iitaka1142/NullSerial.git|Contributed|NullSerial
 https://github.com/Robertndrei/SCD30-Modbus.git|Contributed|scd30_modbus
+https://github.com/androbi-com/MqttLogger.git|Contributed|MqttLogger
