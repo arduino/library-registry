@@ -3891,3 +3891,4 @@ https://github.com/tgolla/GCodeParser.git|Contributed|GCodeParser
 https://github.com/AntonioPrevitali/DueAdcFast.git|Contributed|DueAdcFast
 https://github.com/tgolla/EEPROMTyped.git|Contributed|EEPROMTyped
 https://github.com/caiofrota/cf-arduino-lib-rotary-encoder.git|Contributed|CF Rotary Encoder
+https://github.com/MajicDesigns/MD_MIDIFile.git|Contributed|MD_MIDIFile
