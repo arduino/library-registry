@@ -3879,3 +3879,4 @@ https://github.com/edumardo/DifferentialSteering.git|Contributed|Differential St
 https://github.com/SUPLA/supla-arduino.git|Contributed|SuplaDevice
 https://github.com/SukkoPera/N64PadForArduino.git|Contributed|N64Pad
 https://github.com/TechnoPhysCAL/TGP_LCD_Keypad.git|Contributed|TGP LCD Keypad
+https://github.com/TechnoPhysCAL/TGP_Suiveur.git|Contributed|TGP Suiveur
