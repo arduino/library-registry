@@ -3878,3 +3878,4 @@ https://github.com/wollewald/MPU9250_WE.git|Contributed|MPU9250_WE
 https://github.com/edumardo/DifferentialSteering.git|Contributed|Differential Steering
 https://github.com/SUPLA/supla-arduino.git|Contributed|SuplaDevice
 https://github.com/SukkoPera/N64PadForArduino.git|Contributed|N64Pad
+https://github.com/TechnoPhysCAL/TGP_LCD_Keypad.git|Contributed|TGP LCD Keypad
