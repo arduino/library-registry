@@ -3875,3 +3875,4 @@ https://github.com/PlayingWithFusion/PWFusion_Mcp960x.git|Contributed|PWFusion_M
 https://github.com/VertorixAU/Vertorix_VT1100_Mini.git|Contributed|VT1100_Mini
 https://github.com/VertorixAU/Vertorix_VT1300_Shield.git|Contributed|VT1300_Shield
 https://github.com/wollewald/MPU9250_WE.git|Contributed|MPU9250_WE
+https://github.com/edumardo/DifferentialSteering.git|Contributed|Differential Steering
