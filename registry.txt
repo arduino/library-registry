@@ -3893,3 +3893,4 @@ https://github.com/tgolla/EEPROMTyped.git|Contributed|EEPROMTyped
 https://github.com/caiofrota/cf-arduino-lib-rotary-encoder.git|Contributed|CF Rotary Encoder
 https://github.com/MajicDesigns/MD_MIDIFile.git|Contributed|MD_MIDIFile
 https://github.com/leftCoast/LC_neoPixel.git|Contributed|LC_neoPixel
+https://github.com/hsaturn/TinyMqtt.git|Contributed|TinyMqtt
