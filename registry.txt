@@ -3885,3 +3885,4 @@ https://github.com/Robertndrei/SCD30-Modbus.git|Contributed|scd30_modbus
 https://github.com/androbi-com/MqttLogger.git|Contributed|MqttLogger
 https://github.com/EngineeringRoom/Engineer_Regulator.git|Contributed|Engineer Regulator
 https://github.com/leresteux/BOF.git|Contributed|BOF-Bling_On_ofF
+https://github.com/sparkfun/SparkFun_Qwiic_PIR_Arduino_Library.git|Contributed|SparkFun Qwiic PIR Library
