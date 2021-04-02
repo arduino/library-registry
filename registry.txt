@@ -3894,3 +3894,4 @@ https://github.com/caiofrota/cf-arduino-lib-rotary-encoder.git|Contributed|CF Ro
 https://github.com/MajicDesigns/MD_MIDIFile.git|Contributed|MD_MIDIFile
 https://github.com/leftCoast/LC_neoPixel.git|Contributed|LC_neoPixel
 https://github.com/hsaturn/TinyMqtt.git|Contributed|TinyMqtt
+https://github.com/SmartElecRu/ArduinoIDE_SE_EEPROM.git|Contributed|SE_EEPROM
