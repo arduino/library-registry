@@ -3881,3 +3881,4 @@ https://github.com/SukkoPera/N64PadForArduino.git|Contributed|N64Pad
 https://github.com/TechnoPhysCAL/TGP_LCD_Keypad.git|Contributed|TGP LCD Keypad
 https://github.com/TechnoPhysCAL/TGP_Suiveur.git|Contributed|TGP Suiveur
 https://github.com/iitaka1142/NullSerial.git|Contributed|NullSerial
+https://github.com/Robertndrei/SCD30-Modbus.git|Contributed|scd30_modbus
