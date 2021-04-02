@@ -3888,3 +3888,4 @@ https://github.com/leresteux/BOF.git|Contributed|BOF-Bling_On_ofF
 https://github.com/sparkfun/SparkFun_Qwiic_PIR_Arduino_Library.git|Contributed|SparkFun Qwiic PIR Library
 https://github.com/TheFidax/digitalPinFast.git|Contributed|digitalPinFast
 https://github.com/tgolla/GCodeParser.git|Contributed|GCodeParser
+https://github.com/AntonioPrevitali/DueAdcFast.git|Contributed|DueAdcFast
