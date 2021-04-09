@@ -37,8 +37,9 @@ https://github.com/arduino/arduino-lint-action
 - Ensure your library is compliant with [1.5 format](https://arduino.github.io/arduino-cli/latest/library-specification/) (1.5 format folder layout is not required)
 - Your library must not have the same library.properties `name` value (regardless of case) as another library previously added to the Library Manager index.
 - [Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) it and push the tag (or create a release if you web hosting offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/))
-- Open an issue on [Arduino's GitHub](https://github.com/arduino/Arduino/issues), specifying the URL of the repository from where to download your library. If you have multiple libraries to submit you are welcome to do them all in a single issue.
-- After some days, a member of the Arduino team will add your library to the Library Manager index and close the issue. Shortly after that your library will be available for installation via Library Manager.
+- Follow the submission instructions [here](README.md#adding-a-library-to-library-manager).
+
+Shortly after the pull request is merged by the automated system, your library will be available for installation via Library Manager.
 
 ### How can I publish a new release once my library is in the list?
 
@@ -51,7 +52,7 @@ In order to change contents of an already published library version, you can rec
 
 In order to **un**publish a library version, delete its related tag/release.
 
-Once you have done that, open an issue on [Arduino's GitHub](https://github.com/arduino/Arduino/issues), specifying the URL of the library repository and requesting that the library be updated.
+Once you have done that, open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
 
 ### Why aren't releases of my library being picked up by Library Manager?
 
@@ -67,7 +68,7 @@ For the sake of continuity, libraries in the Library Manager list are locked in 
 
 1. Change the `name` value in your [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
 1. Create a release or tag that matches the updated `version` value in library.properties.
-1. Submit an [issue report](https://github.com/arduino/Arduino/issues/new) requesting the name be changed and the URL of your library's repository.
+1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and the URL of your library's repository.
 
 ### How can I delete a library?
 
