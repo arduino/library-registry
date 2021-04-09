@@ -2,7 +2,11 @@
 
 ### What is the Arduino Library Manager?
 
-The Arduino Library Manager is a feature of the Arduino IDE (**Sketch > Include Library > Manage Libraries...**) which makes it easy for users to find, install, and update both official and 3rd party libraries. When your library is added to the library list, every release/tag version of the library in your repository will automatically be made available for installation via Library Manager. The users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks. More information: <br />
+Library Manager is a feature of the Arduino IDE (**Sketch > Include Library > Manage Libraries...**) which makes it easy for users to find, install, and update both official and 3rd party libraries.
+
+When a library is [added to the library list](README.md#adding-a-library-to-library-manager), every release of the library will automatically be made available for installation via Library Manager. The users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
+
+More information: <br />
 https://www.arduino.cc/en/Guide/Libraries#toc3
 
 ### What are the requirements for a library to be added to Library Manager?
@@ -42,13 +46,13 @@ Every hour, the automated Library Manager indexer system:
 
 ### How can I add my library to Library Manager?
 
-Follow the submission instructions [here](README.md#adding-a-library-to-library-manager).
+Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 
 ### How can I publish a new release once my library is in the list?
 
 1. Make sure the library is compliant with [all requirements](#update-requirements).
-1. Update the `version` in your `library.properties`.
-1. Tag your library once more and push the new tag (or create a release if your web hosting offers a way to do it, for example with GitHub "releases").
+1. Update the `version` in your [`library.properties`](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata)).
+1. Tag your library once more and push the new tag (or create a release if your Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/)).
 
 [Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish your new release.
 
@@ -60,7 +64,7 @@ Follow the submission instructions [here](README.md#adding-a-library-to-library-
 - [ ] The `name` property in library.properties must not have changed from the value it had when the library was submitted. If you must change the library name, see [this](#how-can-i-change-my-librarys-name).
 - [ ] The `version` property in library.properties must not be the same as it was in a tag previously added to the Library Manager index.
 
-### Sorry, I did something wrong! How can I change or unpublish an already published library?
+### I did something wrong! How can I change or unpublish an already published library?
 
 In order to change contents of an already published library version, you can recreate its related tag.
 
@@ -79,20 +83,20 @@ For the sake of continuity, libraries in the Library Manager list are locked to 
 If you wish to change the name it will need to be done manually by request:
 
 1. Change the `name` value in your [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
-1. Create a release or tag that matches the updated `version` value in library.properties.
-1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and the URL of your library's repository.
+1. Create a release or tag.
+1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and stating the URL of your library's repository.
 
-### How can I delete a library?
+### How can I remove a library I installed via Library Manager?
 
-Open your sketchbook's `libraries` folder with your OS file explorer (Windows: Explorer, Mac: Finder, Linux: Nautilus, kfiles...) and delete the folder containing your library.
+Open your sketchbook's `libraries` folder with your operating system's file explorer (Windows: Explorer, Mac: Finder, Linux: Nautilus, kfiles...) and delete the folder containing the library.
 
 ##### Rationale
 
-No, we don't have a delete button. Libraries managed by the Library Manager are mixed with those you've manually installed, maybe libraries you've written: making a mistake and deleting the wrong library is too easy. That's why trash bins exist. Since the IDE has no knowledge of your trash bin, we didn't implement a "delete" button.
+No, we don't have a delete button. Libraries managed by the Library Manager are mixed with those you've manually installed, maybe libraries you've written: making a mistake and deleting the wrong library is too easy. That's why Trash bins exist. Since the IDE has no knowledge of your Trash bin, we didn't implement a "delete" button.
 
 ## Limitations
 
-### Is my Git repo OK?
+### Is my Git repository OK?
 
 Your repo is OK if it meets all [the requirements listed here](#submission-requirements).
 
