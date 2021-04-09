@@ -2,12 +2,19 @@
 
 ### What is the Arduino Library Manager?
 
-Library Manager is a feature of the Arduino IDE (**Sketch > Include Library > Manage Libraries...**) which makes it easy for users to find, install, and update both official and 3rd party libraries.
+Library Manager is a feature of the Arduino development software which makes it easy for users to find, install, and update both official and 3rd party libraries.
 
-When a library is [added to the library list](README.md#adding-a-library-to-library-manager), every release of the library will automatically be made available for installation via Library Manager. The users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
+- In the Arduino IDE: **Sketch > Include Library > Manage Libraries...**
+- In Arduino CLI: `arduino-cli lib --help`
+- In Arduino Web Editor: all Library Manager libraries are pre-installed.
 
-More information: <br />
-https://www.arduino.cc/en/Guide/Libraries#toc3
+When a library is [added to the library list](README.md#adding-a-library-to-library-manager), every release of the library will automatically be made available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
+
+More information:
+
+- https://www.arduino.cc/en/Guide/Libraries#toc3
+- https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/
+- https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a
 
 ### What are the requirements for a library to be added to Library Manager?
 
@@ -88,11 +95,17 @@ If you wish to change the name it will need to be done manually by request:
 
 ### How can I remove a library I installed via Library Manager?
 
-Open your sketchbook's `libraries` folder with your operating system's file explorer (Windows: Explorer, Mac: Finder, Linux: Nautilus, kfiles...) and delete the folder containing the library.
+#### Arduino IDE 2.x
 
-##### Rationale
+Hover the mouse pointer over the "INSTALLED" label on the library listing in Library Manager. It will now change to "UNINSTALL", which you can click to uninstall that library.
 
-No, we don't have a delete button. Libraries managed by the Library Manager are mixed with those you've manually installed, maybe libraries you've written: making a mistake and deleting the wrong library is too easy. That's why Trash bins exist. Since the IDE has no knowledge of your Trash bin, we didn't implement a "delete" button.
+#### Classic Arduino IDE
+
+This version of the Arduino IDE does not have an integrated uninstall functionality, so you will need to remove the library manually. Open your sketchbook's `libraries` folder with your operating system's file explorer (Windows: Explorer, Mac: Finder, Linux: Nautilus, kfiles...) and delete the folder containing the library.
+
+#### Arduino CLI
+
+Libraries can be uninstalled via [the `arduino-cli lib uninstall` command](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib_uninstall/).
 
 ## Limitations
 
@@ -106,12 +119,14 @@ No. The library archive distributed by Library Manager will only contain an empt
 
 ### Can I add my own URL with my own library index?
 
-No. At the moment, the IDE handles one URL only, and that's written into the code (dev jargon: it's hardcoded), this is a known limitation.
+No. At the moment, the Arduino development software handles one URL only, and that's written into the code (dev jargon: it's hardcoded), this is a known limitation.
 However, if you know your way through the code, you can change that URL with another one.
 
 ### When I install a library that I know depends on another library, will this other library be installed as well?
 
-You can specify the dependencies of your library in the `depends` field of library.properties. As of Arduino IDE 1.8.10, the user will be prompted to install those libraries when they install your library via Library Manager. For more information, see the [`library.properties` file format documentation](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format).
+As of Arduino IDE 1.8.10 and Arduino CLI 0.7.0, you can specify the dependencies of your library in the `depends` field of library.properties. Those libraries can be installed automatically when someone installs your library via Library Manager.
+
+For more information, see the [`library.properties` file format documentation](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format).
 
 ### Can I install multiple versions of one library and use the proper one in my sketches?
 
