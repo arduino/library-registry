@@ -5,15 +5,14 @@
 The Arduino Library Manager is a feature of the Arduino IDE (**Sketch > Include Library > Manage Libraries...**) which makes it easy for users to find, install, and update both official and 3rd party libraries. When your library is added to the library list, every release/tag version of the library in your repository will automatically be made available for installation via Library Manager. The users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks. More information: <br />
 https://www.arduino.cc/en/Guide/Libraries#toc3
 
-
-### What are the requirements for a library to be added to the Library Manager index?
+### What are the requirements for a library to be added to Library Manager?
 
 <a id="submission-requirements"></a>
 
 - [ ] The library must be fully compliant with the [Arduino Library Specification](https://arduino.github.io/arduino-cli/latest/library-specification).
 - [ ] The library must have [a library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata), in compliance with the Arduino Library 1.5 format.
 - [ ] The library.properties file must be located in the root of the repository.
-- [ ] The library must not have the same library.properties `name` value (regardless of case) as another library previously added to the Library Manager index.
+- [ ] The library must not have the same library.properties `name` value (regardless of case) as another library previously added to the Library Manager list.
 - [ ] For 3rd party libraries, the `name` field in library.properties must not start with `Arduino`.
 - [ ] The library repository must not contain any `.exe` files.
 - [ ] The library repository must not contain a [`.development` file](https://arduino.github.io/arduino-cli/latest/library-specification/#development-flag-file).
@@ -30,12 +29,16 @@ Arduino Lint is also available as a GitHub Actions action that can be used in th
 
 https://github.com/arduino/arduino-lint-action
 
-### How is the library list generated?
+### How is the Library Manager index generated?
 
-From a list of public Git repos, a job (a small program that runs regularly) fetches every tag, checks compliance with [the requirements](#requirements), and pushes the updated [list](http://downloads.arduino.cc/libraries/library_index.json) onto the Arduino download server.
-Only valid libraries and their tags are published.
+[The Library Manager index](http://downloads.arduino.cc/libraries/library_index.json) contains the data for every release of every one of the thousands of libraries that have been added to the Library Manager list. This index is used by Library Manager to provide installation and updates of the libraries as well as to generate automated documentation pages for the [Arduino Library Reference](https://www.arduino.cc/reference/en/libraries/).
 
-**The job runs every hour. If a new library has been released, you can expect it to be listed within the hour, but it might take longer**.
+Every hour, the automated Library Manager indexer system:
+
+1. checks every repository in the Library Manager list for new tags
+1. checks whether those tags meet [the requirements for addition to the index](#update-requirements)
+1. adds entries to the index for compliant tags
+1. pushes the updated index to Arduino's download server
 
 ### How can I add my library to Library Manager?
 
@@ -47,9 +50,9 @@ Follow the submission instructions [here](README.md#adding-a-library-to-library-
 1. Update the `version` in your `library.properties`.
 1. Tag your library once more and push the new tag (or create a release if your web hosting offers a way to do it, for example with GitHub "releases").
 
-Our indexer checks for new releases every hour and will eventually fetch and publish your new release.
+[Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish your new release.
 
-### What are the requirements for publishing new releases of libraries already in the Library Manager index?
+### What are the requirements for publishing new releases of libraries already in the Library Manager list?
 
 <a id="update-requirements"></a>
 
@@ -95,7 +98,7 @@ Your repo is OK if it meets all [the requirements listed here](#submission-requi
 
 No. The library archive distributed by Library Manager will only contain an empty folder where the submodule should be.
 
-### Can I add my own URL with my own library list?
+### Can I add my own URL with my own library index?
 
 No. At the moment, the IDE handles one URL only, and that's written into the code (dev jargon: it's hardcoded), this is a known limitation.
 However, if you know your way through the code, you can change that URL with another one.
