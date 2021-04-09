@@ -1,6 +1,6 @@
 # Arduino Library Manager FAQ
 
-### Library Manager overview
+### What is the Arduino Library Manager?
 
 The Arduino Library Manager is a feature of the Arduino IDE (**Sketch > Include Library > Manage Libraries...**) which makes it easy for users to find, install, and update both official and 3rd party libraries. When your library is added to the library list, every release/tag version of the library in your repository will automatically be made available for installation via Library Manager. The users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks. More information: <br />
 https://www.arduino.cc/en/Guide/Libraries#toc3
