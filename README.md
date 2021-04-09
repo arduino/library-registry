@@ -3,6 +3,21 @@
 This repository contains the list of libraries in the
 [Arduino Library Manager](https://www.arduino.cc/en/guide/libraries#toc3) index.
 
+## Table of Contents
+
+<!-- toc -->
+
+- [Frequently asked questions](#frequently-asked-questions)
+- [Adding a library to Library Manager](#adding-a-library-to-library-manager)
+  - [Instructions](#instructions)
+    - [If the problem is with the pull request:](#if-the-problem-is-with-the-pull-request)
+    - [If the problem is with the library:](#if-the-problem-is-with-the-library)
+- [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
+- [Removing the URL of a library already in Library Manager](#removing-the-url-of-a-library-already-in-library-manager)
+- [Report a problem with Library Manager](#report-a-problem-with-library-manager)
+
+<!-- tocstop -->
+
 ## Frequently asked questions
 
 For more information about Arduino Library Manager and how the index is maintained, please see [the FAQ](FAQ.md).

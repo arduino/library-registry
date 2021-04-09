@@ -1,5 +1,32 @@
 # Arduino Library Manager FAQ
 
+## Table of Contents
+
+<!-- toc -->
+
+- [General](#general)
+  - [What is the Arduino Library Manager?](#what-is-the-arduino-library-manager)
+  - [How is the Library Manager index generated?](#how-is-the-library-manager-index-generated)
+- [Submission](#submission)
+  - [How can I add my library to Library Manager?](#how-can-i-add-my-library-to-library-manager)
+  - [What are the requirements for a library to be added to Library Manager?](#what-are-the-requirements-for-a-library-to-be-added-to-library-manager)
+- [Updates](#updates)
+  - [How can I publish a new release once my library is in the list?](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list)
+  - [What are the requirements for publishing new releases of libraries already in the Library Manager list?](#what-are-the-requirements-for-publishing-new-releases-of-libraries-already-in-the-library-manager-list)
+  - [Why aren't releases of my library being picked up by Library Manager?](#why-arent-releases-of-my-library-being-picked-up-by-library-manager)
+  - [I did something wrong! How can I change or unpublish an already published library?](#i-did-something-wrong-how-can-i-change-or-unpublish-an-already-published-library)
+  - [How can I change my library's name?](#how-can-i-change-my-librarys-name)
+- [Limitations](#limitations)
+  - [Is my Git repository OK?](#is-my-git-repository-ok)
+  - [Are Git submodules supported?](#are-git-submodules-supported)
+- [Usage](#usage)
+  - [Can I add my own URL with my own library index?](#can-i-add-my-own-url-with-my-own-library-index)
+  - [When I install a library that I know depends on another library, will this other library be installed as well?](#when-i-install-a-library-that-i-know-depends-on-another-library-will-this-other-library-be-installed-as-well)
+  - [Can I install multiple versions of one library and use the proper one in my sketches?](#can-i-install-multiple-versions-of-one-library-and-use-the-proper-one-in-my-sketches)
+  - [How can I remove a library I installed via Library Manager?](#how-can-i-remove-a-library-i-installed-via-library-manager)
+
+<!-- tocstop -->
+
 ## General
 
 ### What is the Arduino Library Manager?
