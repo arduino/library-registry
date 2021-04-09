@@ -1,0 +1,60 @@
+name: Check license
+
+env:
+  EXPECTED_LICENSE_FILENAME: LICENSE.txt
+  # SPDX identifier: https://spdx.org/licenses/
+  EXPECTED_LICENSE_TYPE: CC0-1.0
+
+on:
+  push:
+    paths:
+      - ".github/workflows/check-license.yml"
+      # Recognized license files. See: https://github.com/licensee/licensee/blob/master/docs/what-we-look-at.md#detecting-the-license-file
+      - "[cC][oO][pP][yY][iI][nN][gG]*"
+      - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
+      - "[lL][iI][cC][eE][nN][cCsS][eE]*"
+      - "[oO][fF][lL]*"
+      - "[pP][aA][tT][eE][nN][tT][sS]*"
+  pull_request:
+    paths:
+      - ".github/workflows/check-license.yml"
+      - "[cC][oO][pP][yY][iI][nN][gG]*"
+      - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
+      - "[lL][iI][cC][eE][nN][cCsS][eE]*"
+      - "[oO][fF][lL]*"
+      - "[pP][aA][tT][eE][nN][tT][sS]*"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout local repository
+        uses: actions/checkout@v2
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ruby # Install latest version
+
+      - name: Install licensee
+        run: gem install licensee
+
+      # See: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository
+      - name: Check license file
+        run: |
+          # See: https://github.com/licensee/licensee
+          LICENSEE_OUTPUT="$(licensee detect --json --confidence=100)"
+
+          DETECTED_LICENSE_FILE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].filename | tr --delete '\r')"
+          echo "Detected license file: $DETECTED_LICENSE_FILE"
+          if [ "$DETECTED_LICENSE_FILE" != "\"$EXPECTED_LICENSE_FILENAME\"" ]; then
+            echo "ERROR: detected license file doesn't match expected: $EXPECTED_LICENSE_FILENAME"
+            exit 1
+          fi
+
+          DETECTED_LICENSE_TYPE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].matched_license | tr --delete '\r')"
+          echo "Detected license type: $DETECTED_LICENSE_TYPE"
+          if [ "$DETECTED_LICENSE_TYPE" != "\"$EXPECTED_LICENSE_TYPE\"" ]; then
+            echo "ERROR: detected license type doesn't match expected $EXPECTED_LICENSE_TYPE"
+            exit 1
+          fi

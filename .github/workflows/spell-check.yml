@@ -1,0 +1,32 @@
+name: Spell Check
+
+on:
+  pull_request:
+    paths-ignore:
+      - "repositories.txt"
+  push:
+    paths-ignore:
+      - "repositories.txt"
+  schedule:
+    # Run every Tuesday at 03:00 UTC to catch breakage caused by updates to the dictionary
+    - cron: "0 3 * * 2"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Spell check
+        uses: codespell-project/actions-codespell@master
+        with:
+          # In the event of a false positive, add the problematic word, in all lowercase, to a comma-separated list here:
+          ignore_words_list:
+          builtin: clear,informal,en-GB_to_en-US
+          check_filenames: true
+          check_hidden: true
+          skip: ./.git,./repositories.txt

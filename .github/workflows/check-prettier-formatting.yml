@@ -1,0 +1,224 @@
+name: Check Prettier Formatting
+
+# See: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/check-prettier-formatting.yml"
+      - "**/.prettierignore"
+      - "**/.prettierrc*"
+      # CSS
+      - "**.css"
+      - "**.wxss"
+      # PostCSS
+      - "**.pcss"
+      - "**.postcss"
+      # Less
+      - "**.less"
+      # SCSS
+      - "**.scss"
+      # GraphQL
+      - "**.graphqls?"
+      - "**.gql"
+      # handlebars
+      - "**.handlebars"
+      - "**.hbs"
+      # HTML
+      - "**.mjml"
+      - "**.html?"
+      - "**.html.hl"
+      - "**.st"
+      - "**.xht"
+      - "**.xhtml"
+      # Vue
+      - "**.vue"
+      # JavaScript
+      - "**.flow"
+      - "**._?jsb?"
+      - "**.bones"
+      - "**.cjs"
+      - "**.es6?"
+      - "**.frag"
+      - "**.gs"
+      - "**.jake"
+      - "**.jscad"
+      - "**.jsfl"
+      - "**.js[ms]"
+      - "**.[mn]js"
+      - "**.pac"
+      - "**.wxs"
+      - "**.[xs]s?js"
+      - "**.xsjslib"
+      # JSX
+      - "**.jsx"
+      # TypeScript
+      - "**.ts"
+      # TSX
+      - "**.tsx"
+      # JSON
+      - "**/.eslintrc"
+      - "**.json"
+      - "**.avsc"
+      - "**.geojson"
+      - "**.gltf"
+      - "**.har"
+      - "**.ice"
+      - "**.JSON-tmLanguage"
+      - "**.mcmeta"
+      - "**.tfstate"
+      - "**.topojson"
+      - "**.webapp"
+      - "**.webmanifest"
+      - "**.yyp?"
+      # JSONC
+      - "**/.babelrc"
+      - "**/.jscsrc"
+      - "**/.js[hl]intrc"
+      - "**.jsonc"
+      - "**.sublime-*"
+      # JSON5
+      - "**.json5"
+      # Markdown
+      - "**.mdx?"
+      - "**.markdown"
+      - "**.mk?down"
+      - "**.mdwn"
+      - "**.mkdn?"
+      - "**.ronn"
+      - "**.workbook"
+      # YAML
+      - "**/.clang-format"
+      - "**/.clang-tidy"
+      - "**/.gemrc"
+      - "**/glide.lock"
+      - "**.yml"
+      - "**.mir"
+      - "**.reek"
+      - "**.rviz"
+      - "**.sublime-syntax"
+      - "**.syntax"
+      - "**.yaml"
+      - "**.yaml-tmlanguage"
+      - "**.yaml.sed"
+      - "**.yml.mysql"
+  pull_request:
+    paths:
+      - ".github/workflows/check-prettier-formatting.yml"
+      - "**/.prettierignore"
+      - "**/.prettierrc*"
+      # CSS
+      - "**.css"
+      - "**.wxss"
+      # PostCSS
+      - "**.pcss"
+      - "**.postcss"
+      # Less
+      - "**.less"
+      # SCSS
+      - "**.scss"
+      # GraphQL
+      - "**.graphqls?"
+      - "**.gql"
+      # handlebars
+      - "**.handlebars"
+      - "**.hbs"
+      # HTML
+      - "**.mjml"
+      - "**.html?"
+      - "**.html.hl"
+      - "**.st"
+      - "**.xht"
+      - "**.xhtml"
+      # Vue
+      - "**.vue"
+      # JavaScript
+      - "**.flow"
+      - "**._?jsb?"
+      - "**.bones"
+      - "**.cjs"
+      - "**.es6?"
+      - "**.frag"
+      - "**.gs"
+      - "**.jake"
+      - "**.jscad"
+      - "**.jsfl"
+      - "**.js[ms]"
+      - "**.[mn]js"
+      - "**.pac"
+      - "**.wxs"
+      - "**.[xs]s?js"
+      - "**.xsjslib"
+      # JSX
+      - "**.jsx"
+      # TypeScript
+      - "**.ts"
+      # TSX
+      - "**.tsx"
+      # JSON
+      - "**/.eslintrc"
+      - "**.json"
+      - "**.avsc"
+      - "**.geojson"
+      - "**.gltf"
+      - "**.har"
+      - "**.ice"
+      - "**.JSON-tmLanguage"
+      - "**.mcmeta"
+      - "**.tfstate"
+      - "**.topojson"
+      - "**.webapp"
+      - "**.webmanifest"
+      - "**.yyp?"
+      # JSONC
+      - "**/.babelrc"
+      - "**/.jscsrc"
+      - "**/.js[hl]intrc"
+      - "**.jsonc"
+      - "**.sublime-*"
+      # JSON5
+      - "**.json5"
+      # Markdown
+      - "**.mdx?"
+      - "**.markdown"
+      - "**.mk?down"
+      - "**.mdwn"
+      - "**.mkdn?"
+      - "**.ronn"
+      - "**.workbook"
+      # YAML
+      - "**/.clang-format"
+      - "**/.clang-tidy"
+      - "**/.gemrc"
+      - "**/glide.lock"
+      - "**.yml"
+      - "**.mir"
+      - "**.reek"
+      - "**.rviz"
+      - "**.sublime-syntax"
+      - "**.syntax"
+      - "**.yaml"
+      - "**.yaml-tmlanguage"
+      - "**.yaml.sed"
+      - "**.yml.mysql"
+  schedule:
+    # Run every Tuesday at 8 AM UTC to catch breakage caused by changes to Prettier.
+    - cron: "0 8 * * TUE"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Prettier
+        run: sudo npm install --global prettier
+
+      - name: Format with Prettier
+        run: prettier --write .
+
+      - name: Check formatting
+        run: git diff --color --exit-code

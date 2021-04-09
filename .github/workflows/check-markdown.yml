@@ -1,0 +1,67 @@
+name: Check Markdown
+
+# See: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/check-markdown.yml"
+      - ".github/.markdown-link-check.json"
+      - "**/.markdownlint*"
+      - "**.md"
+      - "**.mdx"
+      - "**.mkdn"
+      - "**.mdown"
+      - "**.markdown"
+  pull_request:
+    paths:
+      - ".github/workflows/check-markdown.yml"
+      - ".github/.markdown-link-check.json"
+      - "**/.markdownlint*"
+      - "**.md"
+      - "**.mdx"
+      - "**.mkdn"
+      - "**.mdown"
+      - "**.markdown"
+  schedule:
+    # Run every Tuesday at 8 AM UTC to catch breakage caused by changes to markdownlint.
+    - cron: "0 8 * * TUE"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Initialize markdownlint-cli problem matcher
+        uses: xt0rted/markdownlint-problem-matcher@v1
+
+      - name: Install markdownlint-cli
+        run: sudo npm install --global markdownlint-cli
+
+      - name: Run markdownlint
+        run: markdownlint --config "${{ github.workspace }}/.github/.markdownlint.yml" "**/*.md"
+
+  links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Determine whether only modified files should be checked
+        id: check-modified
+        if: github.event_name == 'pull_request'
+        run: |
+          echo "::set-output name=value::yes"
+
+      - name: Check links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: .github/.markdown-link-check.json
+          use-quiet-mode: "yes"
+          check-modified-files-only: ${{ steps.check-modified.outputs.value }}
+          base-branch: ${{ github.base_ref }}
