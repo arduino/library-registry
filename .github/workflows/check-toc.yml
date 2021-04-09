@@ -1,0 +1,58 @@
+name: Check ToC
+
+# See: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/check-toc.yml"
+      - "README.md"
+      - "FAQ.md"
+  pull_request:
+    paths:
+      - ".github/workflows/check-toc.yml"
+      - "README.md"
+      - "FAQ.md"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  check:
+    name: ${{ matrix.file.name }}
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+      matrix:
+        file:
+          - name: README.md
+            # Max ToC depth, for use with the markdown-toc --maxdepth flag.
+            maxdepth: 4
+          - name: FAQ.md
+            maxdepth: 3
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get week number for use in cache key
+        id: get-date
+        run: |
+          echo "::set-output name=week-number::$(date --utc '+%V')"
+
+      - name: Load dependencies cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-markdown-toc-${{ steps.get-date.outputs.week-number }}
+          restore-keys: |
+            ${{ runner.os }}-node-markdown-toc-
+
+      - name: Install markdown-toc
+        run: sudo npm install --global markdown-toc
+
+      - name: Rebuild ToC
+        run: markdown-toc --bullets=- --maxdepth=${{ matrix.file.maxdepth }} -i "${{ github.workspace }}/${{ matrix.file.name }}"
+
+      - name: Check ToC
+        run: git diff --color --exit-code

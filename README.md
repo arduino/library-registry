@@ -3,6 +3,25 @@
 This repository contains the list of libraries in the
 [Arduino Library Manager](https://www.arduino.cc/en/guide/libraries#toc3) index.
 
+## Table of Contents
+
+<!-- toc -->
+
+- [Frequently asked questions](#frequently-asked-questions)
+- [Adding a library to Library Manager](#adding-a-library-to-library-manager)
+  - [Instructions](#instructions)
+    - [If the problem is with the pull request:](#if-the-problem-is-with-the-pull-request)
+    - [If the problem is with the library:](#if-the-problem-is-with-the-library)
+- [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
+- [Removing the URL of a library already in Library Manager](#removing-the-url-of-a-library-already-in-library-manager)
+- [Report a problem with Library Manager](#report-a-problem-with-library-manager)
+
+<!-- tocstop -->
+
+## Frequently asked questions
+
+For more information about Arduino Library Manager and how the index is maintained, please see [the FAQ](FAQ.md).
+
 ## Adding a library to Library Manager
 
 If you would like to have your library available for installation via Library Manager, just submit a
@@ -14,8 +33,8 @@ See the instructions below for detailed instructions on how to do this via the G
 ### Instructions
 
 1. You may want to first take a look at
-   [the requirements for admission into the Arduino Library Manager index](https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ).
-   Each submission will be checked for compliance before being accepted.
+   [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
+   compliance before being accepted.
 1. Open this link to [fork](https://guides.github.com/activities/forking/) this repository and edit the list via the
    GitHub web interface: https://github.com/arduino/library-registry/edit/main/repositories.txt
 1. Add the library repository's URL to the list. This should be the URL of the repository home page. For example:
@@ -70,10 +89,8 @@ description, making it clear that the URL is intentionally being removed.
 
 ## Report a problem with Library Manager
 
-Please first take a look at
-[the Arduino Library Manager FAQ](https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ). If a library release is
-missing from Library Manager, it is usually because it was not compliant with all the requirements listed in that
-document.
+Please first take a look at [the FAQ](FAQ.md). If a library release is missing from Library Manager, it is usually
+because it was not compliant with all [the requirements](FAQ.md#update-requirements) listed in that document.
 
 This repository is not an appropriate place to request support or report problems with a library. Check the library's
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
