@@ -18,7 +18,7 @@ See the instructions below for detailed instructions on how to do this via the G
 ### Instructions
 
 1. You may want to first take a look at
-   [the requirements for admission into the Arduino Library Manager index](FAQ.md). Each submission will be checked for
+   [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
    compliance before being accepted.
 1. Open this link to [fork](https://guides.github.com/activities/forking/) this repository and edit the list via the
    GitHub web interface: https://github.com/arduino/library-registry/edit/main/repositories.txt
@@ -75,7 +75,7 @@ description, making it clear that the URL is intentionally being removed.
 ## Report a problem with Library Manager
 
 Please first take a look at [the FAQ](FAQ.md). If a library release is missing from Library Manager, it is usually
-because it was not compliant with all the requirements listed in that document.
+because it was not compliant with all [the requirements](FAQ.md#update-requirements) listed in that document.
 
 This repository is not an appropriate place to request support or report problems with a library. Check the library's
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).

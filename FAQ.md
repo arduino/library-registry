@@ -5,23 +5,22 @@
 The Arduino Library Manager is a feature of the Arduino IDE (**Sketch > Include Library > Manage Libraries...**) which makes it easy for users to find, install, and update both official and 3rd party libraries. When your library is added to the library list, every release/tag version of the library in your repository will automatically be made available for installation via Library Manager. The users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks. More information: <br />
 https://www.arduino.cc/en/Guide/Libraries#toc3
 
-### How is the library list generated?
 
-From a list of public Git repos, a job (a small program that runs regularly) fetches every tag, verifies library files and pushes the updated [list](http://downloads.arduino.cc/libraries/library_index.json) onto the Arduino download server.
-Only valid libraries and their tags are published.
+### What are the requirements for a library to be added to the Library Manager index?
 
-A library is **not valid** when:
+<a id="submission-requirements"></a>
 
-- it's not in [1.5 format](https://arduino.github.io/arduino-cli/latest/library-specification) and in particular it misses a [library.properties](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata) file (1.5 format folder layout is not required)
-- its `name` field in library.properties starts with `Arduino`
-- its `url` field in library.properties is left blank
-- its version number is not [semver compliant](http://semver.org/)
-- it contains `.exe` files
-- it contains a `.development` file
-- it contains symlinks
-- our antivirus finds infected files
-
-**The job runs every hour. If a new library has been released, you can expect it to be listed within the hour, but it might take longer**.
+- [ ] The library must be fully compliant with the [Arduino Library Specification](https://arduino.github.io/arduino-cli/latest/library-specification).
+- [ ] The library must have [a library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata), in compliance with the Arduino Library 1.5 format.
+- [ ] The library.properties file must be located in the root of the repository.
+- [ ] The library must not have the same library.properties `name` value (regardless of case) as another library previously added to the Library Manager index.
+- [ ] For 3rd party libraries, the `name` field in library.properties must not start with `Arduino`.
+- [ ] The library repository must not contain any `.exe` files.
+- [ ] The library repository must not contain a [`.development` file](https://arduino.github.io/arduino-cli/latest/library-specification/#development-flag-file).
+- [ ] The library repository must not contain any [symlinks](https://en.wikipedia.org/wiki/Symbolic_link).
+- [ ] The library repository must not contain any files detected as infected by our antivirus scan.
+- [ ] The library repository must have a [Git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) (or [release](https://help.github.com/articles/creating-releases/)) and must have been compliant with all the above requirements at the time of that tag.
+- [ ] The library repository must be hosted on a major Git-hosting website like GitHub, BitBucket or GitLab (other hosting sites may be considered on request).
 
 Arduino has created a command line tool to check libraries for compliance with all the Library Manager requirements:
 
@@ -31,20 +30,32 @@ Arduino Lint is also available as a GitHub Actions action that can be used in th
 
 https://github.com/arduino/arduino-lint-action
 
+### How is the library list generated?
+
+From a list of public Git repos, a job (a small program that runs regularly) fetches every tag, checks compliance with [the requirements](#requirements), and pushes the updated [list](http://downloads.arduino.cc/libraries/library_index.json) onto the Arduino download server.
+Only valid libraries and their tags are published.
+
+**The job runs every hour. If a new library has been released, you can expect it to be listed within the hour, but it might take longer**.
+
 ### How can I add my library to Library Manager?
 
-- Your library repository must be hosted on a major Git-hosting website like GitHub, BitBucket or GitLab (other hosting sites may be considered on request).
-- Ensure your library is compliant with [1.5 format](https://arduino.github.io/arduino-cli/latest/library-specification/) (1.5 format folder layout is not required)
-- Your library must not have the same library.properties `name` value (regardless of case) as another library previously added to the Library Manager index.
-- [Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) it and push the tag (or create a release if you web hosting offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/))
-- Follow the submission instructions [here](README.md#adding-a-library-to-library-manager).
-
-Shortly after the pull request is merged by the automated system, your library will be available for installation via Library Manager.
+Follow the submission instructions [here](README.md#adding-a-library-to-library-manager).
 
 ### How can I publish a new release once my library is in the list?
 
-Ensure you've changed version in your `library.properties`. Then tag your library once more and push the new tag (or create a release if your web hosting offers a way to do it, for example with GitHub "releases").
+1. Make sure the library is compliant with [all requirements](#update-requirements).
+1. Update the `version` in your `library.properties`.
+1. Tag your library once more and push the new tag (or create a release if your web hosting offers a way to do it, for example with GitHub "releases").
+
 Our indexer checks for new releases every hour and will eventually fetch and publish your new release.
+
+### What are the requirements for publishing new releases of libraries already in the Library Manager index?
+
+<a id="update-requirements"></a>
+
+- [ ] The library must be compliant with all the same [requirements that apply to submissions](#submission-requirements).
+- [ ] The `name` property in library.properties must not have changed from the value it had when the library was submitted. If you must change the library name, see [this](#how-can-i-change-my-librarys-name).
+- [ ] The `version` property in library.properties must not be the same as it was in a tag previously added to the Library Manager index.
 
 ### Sorry, I did something wrong! How can I change or unpublish an already published library?
 
@@ -56,11 +67,7 @@ Once you have done that, open an issue in [the issue tracker of this repository]
 
 ### Why aren't releases of my library being picked up by Library Manager?
 
-The Library Manager indexer job will not pick up releases which don't have a unique `version` value in library.properties. Remember to always update the `version` value in your library.properties _before_ creating the tag or release.
-
-Make sure your library meets all the requirements listed [here](#how-is-the-library-list-generated).
-
-Changing the `name` value in your library.properties from the one it had at the time when the library was added to the Library Manager index will cause releases to be ignored. You need to request a name change, as explained [here](#how-can-i-change-my-librarys-name).
+The Library Manager indexer job will reject any releases which aren't compliant with all [the requirements](#update-requirements).
 
 ### How can I change my library's name?
 
@@ -82,7 +89,7 @@ No, we don't have a delete button. Libraries managed by the Library Manager are 
 
 ### Is my Git repo OK?
 
-Your repo is OK if its root folder contains the file `library.properties` and the rest of the library source code. If your library is stored in a subfolder, your repo is not OK and we can't include your library in the list.
+Your repo is OK if it meets all [the requirements listed here](#submission-requirements).
 
 ### Are Git submodules supported?
 
