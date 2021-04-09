@@ -74,7 +74,9 @@ The Library Manager indexer job will reject any releases which aren't compliant 
 
 ### How can I change my library's name?
 
-For the sake of continuity, libraries in the Library Manager list are locked in to the name they had at the time they were added to the list. If you wish to change the name it will need to be done manually by request:
+For the sake of continuity, libraries in the Library Manager list are locked to the name they had at the time they were added to the list. Changing the library name can be disruptive to its users because this is the unique identifier for the library used by the Arduino development software [command line interfaces](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/), sketch [metadata](https://arduino.github.io/arduino-cli/latest/sketch-specification/#metadata), library [dependencies](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format), and installation location.
+
+If you wish to change the name it will need to be done manually by request:
 
 1. Change the `name` value in your [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
 1. Create a release or tag that matches the updated `version` value in library.properties.
