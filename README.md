@@ -17,7 +17,7 @@ See the instructions below for detailed instructions on how to do this via the G
    [the requirements for admission into the Arduino Library Manager index](https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ).
    Each submission will be checked for compliance before being accepted.
 1. Open this link to [fork](https://guides.github.com/activities/forking/) this repository and edit the list via the
-   GitHub web interface: https://github.com/arduino/library-manager-list/edit/main/repositories.txt
+   GitHub web interface: https://github.com/arduino/library-registry/edit/main/repositories.txt
 1. Add the library repository's URL to the list. This should be the URL of the repository home page. For example:
    `https://github.com/arduino-libraries/Servo`.
 1. At the bottom of the page, select the radio button next to "Create a new branch for this commit and start a pull
@@ -36,7 +36,7 @@ with your pull request or with the library.
 
 Edit the file in the
 [branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) you submitted the
-pull request from in your fork of the `arduino/library-manager-list` repository, then commit.
+pull request from in your fork of the `arduino/library-registry` repository, then commit.
 
 Doing this will update the pull request and cause the automated checks to run again.
 
@@ -49,7 +49,7 @@ Doing this will update the pull request and cause the automated checks to run ag
    [tag](https://git-scm.com/docs/git-tag). The Library Manager index always uses tagged versions of the libraries, so
    even if the development version of the library is compliant, it can't be accepted until the latest release or tag is
    compliant. Alternatively, you can redo the existing release/tag if you prefer.
-1. Comment on your pull request here in the `arduino/library-manager-list` repository, mentioning **@ArduinoBot** in the
+1. Comment on your pull request here in the `arduino/library-registry` repository, mentioning **@ArduinoBot** in the
    comment. Doing this will cause the automated check to run again.
 
 ## Changing the URL of a library already in Library Manager
@@ -79,4 +79,4 @@ This repository is not an appropriate place to request support or report problem
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
 
 If the problem is about something else, please make an issue report here:
-https://github.com/arduino/library-manager-list/issues?q=is%3Aissue
+https://github.com/arduino/library-registry/issues?q=is%3Aissue
