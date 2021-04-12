@@ -33,19 +33,6 @@ jobs:
           location: ${{ runner.temp }}/github-workflow-schema
           file-name: github-workflow.json
 
-      - name: Get week number for use in cache key
-        id: get-date
-        run: |
-          echo "::set-output name=week-number::$(date --utc '+%V')"
-
-      - name: Load dependencies cache
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-ajv-cli-${{ steps.get-date.outputs.week-number }}
-          restore-keys: |
-            ${{ runner.os }}-node-ajv-cli-
-
       - name: Install JSON schema validator
         run: sudo npm install --global ajv-cli
 
