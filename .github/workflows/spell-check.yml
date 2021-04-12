@@ -25,7 +25,7 @@ jobs:
         uses: codespell-project/actions-codespell@master
         with:
           # In the event of a false positive, add the problematic word, in all lowercase, to a comma-separated list here:
-          ignore_words_list:
+          ignore_words_list: ""
           builtin: clear,informal,en-GB_to_en-US
           check_filenames: true
           check_hidden: true
