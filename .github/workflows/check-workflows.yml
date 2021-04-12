@@ -39,7 +39,7 @@ jobs:
           echo "::set-output name=week-number::$(date --utc '+%V')"
 
       - name: Load dependencies cache
-        uses: actions/cache@v2
+        uses: actions/cache@v2.1.4
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-ajv-cli-${{ steps.get-date.outputs.week-number }}
