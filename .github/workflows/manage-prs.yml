@@ -4,8 +4,10 @@ env:
   SUBMISSION_PARSER_VERSION: 1.0.0-rc2 # See: https://github.com/arduino/library-manager-submission-parser/releases
 
 on:
-  # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to comment and merge.
-  # Note that this means the version of the workflow from the PR base ref will be used as opposed to the head ref, as is the case with pull_request triggered workflows.
+  # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
+  # comment and merge.
+  # Note that this means the version of the workflow from the PR base ref will be used as opposed to the head ref, as is
+  # the case with pull_request triggered workflows.
   # See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request_target
   pull_request_target:
     types:
@@ -53,7 +55,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # It's necessary to reference both pull_request.number and issue.number because only one of the two are defined depending on whether the workflow is triggered by PR or comment event.
+          # It's necessary to reference both pull_request.number and issue.number because only one of the two are
+          # defined depending on whether the workflow is triggered by PR or comment event.
           curl \
             --fail \
             --output "${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}" \
@@ -99,8 +102,14 @@ jobs:
         id: parse-request
         run: |
           chmod u+x "${{ steps.download-parser.outputs.file-path }}"
-          REQUEST="$("${{ steps.download-parser.outputs.file-path }}" --diffpath="${{ needs.diff.outputs.path }}/${{ needs.diff.outputs.filename }}" --repopath="${{ github.workspace }}" --listname="repositories.txt")"
-          # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in certain workflow fields.
+          REQUEST="$( \
+            "${{ steps.download-parser.outputs.file-path }}" \
+              --diffpath="${{ needs.diff.outputs.path }}/${{ needs.diff.outputs.filename }}" \
+              --repopath="${{ github.workspace }}" \
+              --listname="repositories.txt" \
+          )"
+          # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in
+          # certain workflow fields.
           echo "::set-output name=type::$(echo "$REQUEST" | jq -r -c '.type')"
           echo "::set-output name=submissions::$(echo "$REQUEST" | jq -c '.submissions')"
           echo "::set-output name=index-entry::$(echo "$REQUEST" | jq -r -c '.indexEntry')"
@@ -149,7 +158,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # NOTE: "Unexpected input(s) ..." warnings for the arbitrary octokit/request-action inputs are normal and expected.
+          # NOTE: "Unexpected input(s) ..." warnings for the arbitrary octokit/request-action inputs are normal and
+          # expected.
           route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
@@ -167,7 +177,11 @@ jobs:
           exit 1
 
       - name: Clone submission
-        run: git clone --branch ${{ matrix.submission.tag }} --depth 1 ${{ matrix.submission.normalizedURL }} "${{ matrix.submission.name }}"
+        run: |
+          git clone \
+            --branch ${{ matrix.submission.tag }} \
+            --depth 1 ${{ matrix.submission.normalizedURL }} \
+            "${{ matrix.submission.name }}"
 
       - name: Lint submission
         id: arduino-lint
@@ -187,7 +201,9 @@ jobs:
           echo "::set-output name=report::$(jq -c . "${{ env.REPORT_PATH }}")"
 
       - name: Comment on Arduino Lint warning
-        if: fromJson(steps.read-lint-report.outputs.report).summary.warningCount > 0 && fromJson(steps.read-lint-report.outputs.report).summary.errorCount == 0
+        if: >
+          fromJson(steps.read-lint-report.outputs.report).summary.warningCount > 0
+          && fromJson(steps.read-lint-report.outputs.report).summary.errorCount == 0
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -255,7 +271,8 @@ jobs:
             - Commit the required change to the branch you submitted this pull request from.
             - Comment here, mentioning @ArduinoBot in the comment
 
-            More information: https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request"
+            More information:
+            https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
 
   merge:
     needs:
@@ -288,7 +305,12 @@ jobs:
           git config --global user.name "ArduinoBot"
           echo "${{ needs.parse.outputs.index-entry }}" >> "$INDEX_SOURCE_FILE_PATH"
           git add --update "$INDEX_SOURCE_FILE_PATH"
-          echo -e "Add submission # ${{ github.event.pull_request.number }}${{ github.event.issue.number }}\n\n${{ github.event.repository.html_url }}/pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}" | git commit --file -
+          echo \
+            -e \
+            "Add submission # ${{ github.event.pull_request.number }}${{ github.event.issue.number }}\n\n${{ github.event.repository.html_url }}/pull/${{ github.event.pull_request.number }}${{ github.event.issue.number }}" \
+            | \
+              git commit \
+                --file -
           git push
 
   request-review:
@@ -322,7 +344,9 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            Hi @${{ github.actor }}. Your pull request has been detected as something other than a Library Manager submission. A maintainer will need to review it before it can be merged.
+            Hi @${{ github.actor }}.
+            Your pull request has been detected as something other than a Library Manager submission.
+            A maintainer will need to review it before it can be merged.
 
             If you intended to submit a library, please check the instructions and update your pull request if necessary:
             https://github.com/${{ github.repository }}/blob/main/README.md#instructions

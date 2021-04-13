@@ -9,7 +9,8 @@ on:
   push:
     paths:
       - ".github/workflows/check-license.yml"
-      # Recognized license files. See: https://github.com/licensee/licensee/blob/master/docs/what-we-look-at.md#detecting-the-license-file
+      # Recognized license files.
+      # See: https://github.com/licensee/licensee/blob/master/docs/what-we-look-at.md#detecting-the-license-file
       - "[cC][oO][pP][yY][iI][nN][gG]*"
       - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
       - "[lL][iI][cC][eE][nN][cCsS][eE]*"
