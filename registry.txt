@@ -3914,3 +3914,4 @@ https://github.com/Freenove/Freenove_VK16K33_Lib.git|Contributed|Freenove VK16K3
 https://github.com/ncmreynolds/retroTerm.git|Contributed|retroTerm
 https://github.com/tttttx2/ddcvcp.git|Contributed|DDC-CI VPC library
 https://github.com/lionrocker/better-joystick.git|Contributed|Better Joystick
+https://github.com/kmpelectronics/KMP_MCP23S08.git|Contributed|KMP_MCP23S08
