@@ -3905,3 +3905,4 @@ https://github.com/kkloesener/MFRC522_I2C.git|Contributed|MFRC522_I2C
 https://github.com/RAKWireless/RAK14002-CAP1293-Library.git|Contributed|RAKwireless CAP1293 Touch Pad library
 https://github.com/RAKWireless/RAK14001-NCP5623-Library.git|Contributed|RAKwireless NCP5623 RGB LED library
 https://github.com/blues/notecard-pseudo-sensor.git|Contributed|Blues Wireless Notecard Pseudo Sensor
+https://github.com/khoih-prog/SmallProjects.git|Contributed|SmallProjects
