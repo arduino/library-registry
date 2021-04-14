@@ -3902,3 +3902,4 @@ https://github.com/sparkfun/SparkFun_TMF8801_Arduino_Library.git|Contributed|Spa
 https://github.com/Dlloydev/ESP32-ESP32S2-AnalogWrite.git|Contributed|ESP32 ESP32S2 AnalogWrite
 https://github.com/yannidd/ukesf-sixth-formers.git|Contributed|UKESF Sixth-Formers
 https://github.com/kkloesener/MFRC522_I2C.git|Contributed|MFRC522_I2C
+https://github.com/RAKWireless/RAK14002-CAP1293-Library.git|Contributed|RAKwireless CAP1293 Touch Pad library
