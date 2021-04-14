@@ -24,7 +24,7 @@ For more information about Arduino Library Manager and how the index is maintain
 
 ## Adding a library to Library Manager
 
-If you would like to have your library available for installation via Library Manager, just submit a
+If you would like to make a library available for installation via Library Manager, just submit a
 [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) that
 adds the repository URL to [the list](repositories.txt). You are welcome to add multiple libraries at once.
 
