@@ -3897,3 +3897,4 @@ https://github.com/hsaturn/TinyMqtt.git|Contributed|TinyMqtt
 https://github.com/SmartElecRu/ArduinoIDE_SE_EEPROM.git|Contributed|SE_EEPROM
 https://github.com/SmartElecRu/AlphaSE_BasicUnit.git|Contributed|SE_BasicUnit
 https://github.com/onelife/RTT-CMSIS-OS.git|Contributed|RTT-CMSIS-OS
+https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library.git|Contributed|SparkFun Qwiic AS7341L 10-Channel Spectral Sensor
