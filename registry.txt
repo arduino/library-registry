@@ -3899,3 +3899,4 @@ https://github.com/SmartElecRu/AlphaSE_BasicUnit.git|Contributed|SE_BasicUnit
 https://github.com/onelife/RTT-CMSIS-OS.git|Contributed|RTT-CMSIS-OS
 https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library.git|Contributed|SparkFun Qwiic AS7341L 10-Channel Spectral Sensor
 https://github.com/sparkfun/SparkFun_TMF8801_Arduino_Library.git|Contributed|SparkFun Qwiic TMF-8801 Time-of-flight Library
+https://github.com/Dlloydev/ESP32-ESP32S2-AnalogWrite.git|Contributed|ESP32 ESP32S2 AnalogWrite
