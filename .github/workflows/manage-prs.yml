@@ -125,6 +125,7 @@ jobs:
             - ${{ needs.parse.outputs.type }}
 
   check-submissions:
+    name: Check ${{ matrix.submission.submissionURL }}
     needs:
       - enabled
       - parse
