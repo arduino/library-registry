@@ -3913,3 +3913,4 @@ https://github.com/asukiaaa/arduino-MotorCVD.git|Contributed|MotorCVD_asukiaaa
 https://github.com/Freenove/Freenove_VK16K33_Lib.git|Contributed|Freenove VK16K33 Lib
 https://github.com/ncmreynolds/retroTerm.git|Contributed|retroTerm
 https://github.com/tttttx2/ddcvcp.git|Contributed|DDC-CI VPC library
+https://github.com/lionrocker/better-joystick.git|Contributed|Better Joystick
