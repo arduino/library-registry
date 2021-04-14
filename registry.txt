@@ -3896,3 +3896,4 @@ https://github.com/leftCoast/LC_neoPixel.git|Contributed|LC_neoPixel
 https://github.com/hsaturn/TinyMqtt.git|Contributed|TinyMqtt
 https://github.com/SmartElecRu/ArduinoIDE_SE_EEPROM.git|Contributed|SE_EEPROM
 https://github.com/SmartElecRu/AlphaSE_BasicUnit.git|Contributed|SE_BasicUnit
+https://github.com/onelife/RTT-CMSIS-OS.git|Contributed|RTT-CMSIS-OS
