@@ -8,14 +8,15 @@
   - [What is the Arduino Library Manager?](#what-is-the-arduino-library-manager)
   - [How is the Library Manager index generated?](#how-is-the-library-manager-index-generated)
 - [Submission](#submission)
-  - [How can I add my library to Library Manager?](#how-can-i-add-my-library-to-library-manager)
+  - [How can I add a library to Library Manager?](#how-can-i-add-a-library-to-library-manager)
   - [What are the requirements for a library to be added to Library Manager?](#what-are-the-requirements-for-a-library-to-be-added-to-library-manager)
+  - [Who is allowed to add a library to Library Manager?](#who-is-allowed-to-add-a-library-to-library-manager)
 - [Updates](#updates)
   - [How can I publish a new release once my library is in the list?](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list)
   - [What are the requirements for publishing new releases of libraries already in the Library Manager list?](#what-are-the-requirements-for-publishing-new-releases-of-libraries-already-in-the-library-manager-list)
   - [Why aren't releases of my library being picked up by Library Manager?](#why-arent-releases-of-my-library-being-picked-up-by-library-manager)
   - [I did something wrong! How can I change or unpublish an already published library?](#i-did-something-wrong-how-can-i-change-or-unpublish-an-already-published-library)
-  - [How can I change my library's name?](#how-can-i-change-my-librarys-name)
+  - [How can I change a library's name?](#how-can-i-change-a-librarys-name)
 - [Limitations](#limitations)
   - [Is my Git repository OK?](#is-my-git-repository-ok)
   - [Are Git submodules supported?](#are-git-submodules-supported)
@@ -58,7 +59,9 @@ Every hour, the automated Library Manager indexer system:
 
 ## Submission
 
-### How can I add my library to Library Manager?
+### How can I add a library to Library Manager?
+
+<a id="how-can-i-add-my-library-to-library-manager"></a>
 
 Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 
@@ -86,15 +89,21 @@ Arduino Lint is also available as a GitHub Actions action that can be used in th
 
 https://github.com/arduino/arduino-lint-action
 
+### Who is allowed to add a library to Library Manager?
+
+Everyone is welcome to submit libraries for inclusion in Library Manager, regardless of whether you are involved in the library's development.
+
+Note that libraries will need to be compliant with [all requirements](#update-requirements) in order to be accepted. If not, you will need to work with the library maintainer to achieve compliance.
+
 ## Updates
 
 ### How can I publish a new release once my library is in the list?
 
 1. Make sure the library is compliant with [all requirements](#update-requirements).
-1. Update the `version` in your [`library.properties`](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata)).
-1. Tag your library once more and push the new tag (or create a release if your Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/)).
+1. Update the `version` in the library's [`library.properties`](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata)).
+1. Tag the library's repository once more and push the new tag (or create a release if the library's Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/)).
 
-[Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish your new release.
+[Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish the new release.
 
 ### What are the requirements for publishing new releases of libraries already in the Library Manager list?
 
@@ -116,15 +125,17 @@ In order to **un**publish a library version, delete its related tag/release.
 
 Once you have done that, open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
 
-### How can I change my library's name?
+### How can I change a library's name?
+
+<a id="how-can-i-change-my-librarys-name"></a>
 
 For the sake of continuity, libraries in the Library Manager list are locked to the name they had at the time they were added to the list. Changing the library name can be disruptive to its users because this is the unique identifier for the library used by the Arduino development software [command line interfaces](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/), sketch [metadata](https://arduino.github.io/arduino-cli/latest/sketch-specification/#metadata), library [dependencies](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format), and installation location.
 
 If you wish to change the name it will need to be done manually by request:
 
-1. Change the `name` value in your [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
+1. Change the `name` value in the [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
 1. Create a release or tag.
-1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and stating the URL of your library's repository.
+1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and stating the URL of the library's repository.
 
 ## Limitations
 
@@ -145,7 +156,7 @@ However, if you know your way through the code, you can change that URL with ano
 
 ### When I install a library that I know depends on another library, will this other library be installed as well?
 
-As of Arduino IDE 1.8.10 and Arduino CLI 0.7.0, you can specify the dependencies of your library in the `depends` field of library.properties. Those libraries can be installed automatically when someone installs your library via Library Manager.
+As of Arduino IDE 1.8.10 and Arduino CLI 0.7.0, you can specify the dependencies of a library in the `depends` field of library.properties. Those libraries can be installed automatically when someone installs that library via Library Manager.
 
 For more information, see the [`library.properties` file format documentation](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format).
 
