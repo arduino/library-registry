@@ -3908,3 +3908,4 @@ https://github.com/blues/notecard-pseudo-sensor.git|Contributed|Blues Wireless N
 https://github.com/khoih-prog/SmallProjects.git|Contributed|SmallProjects
 https://github.com/Matrix-Robotics/MatrixColorSensor.git|Contributed|Matrix Color Sensor Library
 https://github.com/seralo/ZzzMovingAvg.git|Contributed|ZzzMovingAvg
+https://github.com/lnlp/EasyLed.git|Contributed|EasyLed
