@@ -39,7 +39,12 @@ jobs:
         run: sudo npm install --global markdown-toc
 
       - name: Rebuild ToC
-        run: markdown-toc --bullets=- --maxdepth=${{ matrix.file.maxdepth }} -i "${{ github.workspace }}/${{ matrix.file.name }}"
+        run: |
+          markdown-toc \
+            --bullets=- \
+            --maxdepth=${{ matrix.file.maxdepth }} \
+            -i \
+            "${{ github.workspace }}/${{ matrix.file.name }}"
 
       - name: Check ToC
         run: git diff --color --exit-code
