@@ -31,8 +31,23 @@ jobs:
       )
     runs-on: ubuntu-latest
     steps:
-      - name: Dummy step to make job valid
-        run: ""
+      - name: Comment on comment trigger to provide feedback
+        if: github.event_name == 'issue_comment'
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            Hello! I'm checking your submission again.
+
+            You can see the progress here:
+            https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/actions/workflows/manage-prs.yml
+
   diff:
     needs:
       - enabled
