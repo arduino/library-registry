@@ -3921,3 +3921,4 @@ https://github.com/Roger-random/ESP_8_BIT_composite.git|Contributed|ESP_8_BIT Co
 https://github.com/ponoor/Ponoor_L6470_Library.git|Contributed|Ponoor L6470 Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library.git|Contributed|SparkFun SPI SerialFlash Arduino Library
 https://github.com/mbratch/TaskJockey.git|Contributed|TaskJockey
+https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library.git|Contributed|SparkFun USB Hub Qwiic USB251x
