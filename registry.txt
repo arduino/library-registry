@@ -3922,3 +3922,4 @@ https://github.com/ponoor/Ponoor_L6470_Library.git|Contributed|Ponoor L6470 Libr
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library.git|Contributed|SparkFun SPI SerialFlash Arduino Library
 https://github.com/mbratch/TaskJockey.git|Contributed|TaskJockey
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library.git|Contributed|SparkFun USB Hub Qwiic USB251x
+https://github.com/pierremolinaro/acan-esp32.git|Contributed|ACAN_ESP32
