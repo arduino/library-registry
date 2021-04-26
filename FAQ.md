@@ -15,6 +15,7 @@
   - [How can I publish a new release once my library is in the list?](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list)
   - [What are the requirements for publishing new releases of libraries already in the Library Manager list?](#what-are-the-requirements-for-publishing-new-releases-of-libraries-already-in-the-library-manager-list)
   - [Why aren't releases of my library being picked up by Library Manager?](#why-arent-releases-of-my-library-being-picked-up-by-library-manager)
+  - [Can I check on library releases being added to Library Manager?](#can-i-check-on-library-releases-being-added-to-library-manager)
   - [I did something wrong! How can I change or unpublish an already published library?](#i-did-something-wrong-how-can-i-change-or-unpublish-an-already-published-library)
   - [How can I change a library's name?](#how-can-i-change-a-librarys-name)
 - [Limitations](#limitations)
@@ -52,7 +53,7 @@ More information:
 
 Every hour, the automated Library Manager indexer system:
 
-1. checks every repository in the Library Manager list for new tags
+1. checks every repository in the Library Manager list for new tags, updating [the logs](#can-i-check-on-library-releases-being-added-to-library-manager) accordingly
 1. checks whether those tags meet [the requirements for addition to the index](#update-requirements)
 1. adds entries to the index for compliant tags
 1. pushes the updated index to Arduino's download server
@@ -116,6 +117,20 @@ Note that libraries will need to be compliant with [all requirements](#update-re
 ### Why aren't releases of my library being picked up by Library Manager?
 
 The Library Manager indexer job will reject any releases which aren't compliant with all [the requirements](#update-requirements).
+
+You can check [the indexer logs](#can-i-check-on-library-releases-being-added-to-library-manager) for information about what happened.
+
+### Can I check on library releases being added to Library Manager?
+
+There is a dedicated web page for each library that shows the logs from the Library Manager indexer. The URL of the logs page is based on the library's repository URL:
+
+```
+http://downloads.arduino.cc/libraries/logs/<host>/<repository slug>/
+```
+
+For example, the Servo library is hosted at https://github.com/arduino-libraries/Servo, so its logs are at:
+
+http://downloads.arduino.cc/libraries/logs/github.com/arduino-libraries/Servo/
 
 ### I did something wrong! How can I change or unpublish an already published library?
 
