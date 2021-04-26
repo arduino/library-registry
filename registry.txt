@@ -3917,3 +3917,4 @@ https://github.com/lionrocker/better-joystick.git|Contributed|Better Joystick
 https://github.com/kmpelectronics/KMP_MCP23S08.git|Contributed|KMP_MCP23S08
 https://github.com/coderfls/Arduino_MultiFunctionShield.git|Contributed|MultiFunctionShield
 https://github.com/khoih-prog/megaAVR_TimerInterrupt.git|Contributed|megaAVR_TimerInterrupt
+https://github.com/Roger-random/ESP_8_BIT_composite.git|Contributed|ESP_8_BIT Color Composite Video Library
