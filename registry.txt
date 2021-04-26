@@ -3925,3 +3925,4 @@ https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library.git|Contributed|Spa
 https://github.com/pierremolinaro/acan-esp32.git|Contributed|ACAN_ESP32
 https://github.com/geekbleofficial/Geekble_Oscillator.git|Contributed|Geekble_Oscillator
 https://github.com/MajicDesigns/MD_SmartCar.git|Contributed|MD_SmartCar
+https://github.com/FTTechBrasil/FTTech_SAMD51_Clicks.git|Contributed|FTTech SAMD51 Clicks
