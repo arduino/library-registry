@@ -3923,3 +3923,4 @@ https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library.git|Contrib
 https://github.com/mbratch/TaskJockey.git|Contributed|TaskJockey
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library.git|Contributed|SparkFun USB Hub Qwiic USB251x
 https://github.com/pierremolinaro/acan-esp32.git|Contributed|ACAN_ESP32
+https://github.com/geekbleofficial/Geekble_Oscillator.git|Contributed|Geekble_Oscillator
