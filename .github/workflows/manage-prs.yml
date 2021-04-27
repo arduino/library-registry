@@ -338,6 +338,42 @@ jobs:
             You can check the logs from the Library Manager indexer for your library(s) here:
             ${{ needs.parse.outputs.indexer-logs-urls }}
 
+  merge-fail:
+    needs:
+      - merge
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on merge failure
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            Your submission meets all requirements. However, the pull request could not be merged.
+
+            Please follow this guide to resolve a merge conflict:
+            https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github
+
+            Once that is done, it will be merged automatically.
+
+      - name: Request a review in case assistance is required
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          team_reviewers: |
+            - arduino/team_tooling
+
   request-review:
     needs:
       - parse
