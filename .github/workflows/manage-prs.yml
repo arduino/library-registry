@@ -40,7 +40,7 @@ jobs:
           route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
-          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          issue_number: ${{ github.event.issue.number }}
           body: |
             |
             Hello! I'm checking your submission again.
