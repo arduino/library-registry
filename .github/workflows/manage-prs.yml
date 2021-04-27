@@ -310,6 +310,7 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          merge_method: squash
 
       - name: Checkout index source branch
         uses: actions/checkout@v2
