@@ -20,7 +20,7 @@ on:
       - edited
 
 jobs:
-  enabled:
+  diff:
     if: >
       github.event_name == 'pull_request_target' ||
       (
@@ -30,7 +30,19 @@ jobs:
         contains(github.event.comment.body, 'ArduinoBot')
       )
     runs-on: ubuntu-latest
+    outputs:
+      artifact: ${{ steps.configuration.outputs.artifact }}
+      path: ${{ steps.configuration.outputs.path }}
+      filename: ${{ steps.configuration.outputs.filename }}
+
     steps:
+      - name: Set configuration outputs
+        id: configuration
+        run: |
+          echo "::set-output name=artifact::diff"
+          echo "::set-output name=path::${{ runner.temp }}"
+          echo "::set-output name=filename::diff.txt"
+
       - name: Comment on comment trigger to provide feedback
         if: github.event_name == 'issue_comment'
         uses: octokit/request-action@v2.x
@@ -47,24 +59,6 @@ jobs:
 
             You can see the progress here:
             https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/actions/workflows/manage-prs.yml
-
-  diff:
-    needs:
-      - enabled
-    runs-on: ubuntu-latest
-
-    outputs:
-      artifact: ${{ steps.configuration.outputs.artifact }}
-      path: ${{ steps.configuration.outputs.path }}
-      filename: ${{ steps.configuration.outputs.filename }}
-
-    steps:
-      - name: Set configuration outputs
-        id: configuration
-        run: |
-          echo "::set-output name=artifact::diff"
-          echo "::set-output name=path::${{ runner.temp }}"
-          echo "::set-output name=filename::diff.txt"
 
       - name: Get PR diff
         env:
@@ -87,7 +81,6 @@ jobs:
 
   parse:
     needs:
-      - enabled
       - diff
     runs-on: ubuntu-latest
 
@@ -133,7 +126,6 @@ jobs:
 
   label:
     needs:
-      - enabled
       - parse
     runs-on: ubuntu-latest
 
@@ -153,7 +145,6 @@ jobs:
   check-submissions:
     name: Check ${{ matrix.submission.submissionURL }}
     needs:
-      - enabled
       - parse
     if: needs.parse.outputs.type == 'submission'
     runs-on: ubuntu-latest
@@ -264,7 +255,6 @@ jobs:
 
   check-submissions-fail:
     needs:
-      - enabled
       - check-submissions
     if: failure() # This job will only run if the submission checks failed
     runs-on: ubuntu-latest
@@ -294,7 +284,6 @@ jobs:
 
   merge:
     needs:
-      - enabled
       - parse
       - check-submissions
     if: success() # This job will only run if the submission checks passed
@@ -351,7 +340,6 @@ jobs:
 
   request-review:
     needs:
-      - enabled
       - parse
     if: needs.parse.outputs.type != 'submission' # These request types can't be automatically approved.
     runs-on: ubuntu-latest
