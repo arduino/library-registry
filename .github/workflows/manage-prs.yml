@@ -49,6 +49,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          # NOTE: "Unexpected input(s) ..." warnings for the arbitrary octokit/request-action inputs are normal and
+          # expected.
           route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
@@ -167,8 +169,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # NOTE: "Unexpected input(s) ..." warnings for the arbitrary octokit/request-action inputs are normal and
-          # expected.
           route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
