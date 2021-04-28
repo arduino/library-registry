@@ -413,3 +413,52 @@ jobs:
 
             If you intended to submit a library, please check the instructions and update your pull request if necessary:
             https://github.com/${{ github.repository }}/blob/main/README.md#instructions
+
+  unexpected-fail:
+    needs:
+      - label
+    # Run if label or any of its job dependencies failed
+    if: failure()
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Label PR to indicate need for maintenance
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: PUT /repos/{owner}/{repo}/issues/{issue_number}/labels
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          labels: |
+            - "status: maintenance required"
+
+      - name: Request pull request review
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          team_reviewers: |
+            - arduino/team_tooling
+
+      - name: Comment on unexpected failure
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            Hi @${{ github.actor }}.
+            There was an unexpected failure during automated processing of your pull request.
+            This error is unrelated to the content of your pull request.
+
+            A maintainer has been notified and will investigate as soon as possible.
