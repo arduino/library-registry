@@ -256,7 +256,8 @@ jobs:
   check-submissions-fail:
     needs:
       - check-submissions
-    if: failure() # This job will only run if the submission checks failed
+    # Only run if the check-submissions job failed
+    if: failure() && needs.check-submissions.result == 'failure'
     runs-on: ubuntu-latest
 
     steps:
@@ -342,7 +343,8 @@ jobs:
   merge-fail:
     needs:
       - merge
-    if: failure()
+    # Only run if the merge job failed
+    if: failure() && needs.merge.result == 'failure'
     runs-on: ubuntu-latest
     steps:
       - name: Comment on merge failure
