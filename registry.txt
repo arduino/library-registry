@@ -84,6 +84,7 @@ https://github.com/arduino-libraries/Arduino_SensorKit.git|Arduino|Arduino_Senso
 https://github.com/arduino-libraries/Arduino_AVRSTL.git|Arduino|Arduino_AVRSTL
 https://github.com/arduino-libraries/Arduino_Portenta_OTA.git|Arduino|Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials.git|Arduino|Arduino_Pro_Tutorials
+https://github.com/arduino-libraries/Arduino_EdgeControl.git|Arduino|Arduino_EdgeControl
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
