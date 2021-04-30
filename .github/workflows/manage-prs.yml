@@ -1,7 +1,7 @@
 name: Manage PRs
 
 env:
-  SUBMISSION_PARSER_VERSION: 1.0.0-rc3 # See: https://github.com/arduino/library-manager-submission-parser/releases
+  SUBMISSION_PARSER_VERSION: 1.0.0-rc5 # See: https://github.com/arduino/library-manager-submission-parser/releases
 
 on:
   # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
@@ -91,6 +91,7 @@ jobs:
 
     outputs:
       type: ${{ steps.parse-request.outputs.type }}
+      arduinoLintLibraryManagerSetting: ${{ steps.parse-request.outputs.arduinoLintLibraryManagerSetting }}
       submissions: ${{ steps.parse-request.outputs.submissions }}
       index-entry: ${{ steps.parse-request.outputs.index-entry }}
       indexer-logs-urls: ${{ steps.parse-request.outputs.indexer-logs-urls }}
@@ -130,6 +131,7 @@ jobs:
           # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in
           # certain workflow fields.
           echo "::set-output name=type::$(echo "$REQUEST" | jq -r -c '.type')"
+          echo "::set-output name=arduinoLintLibraryManagerSetting::$(echo "$REQUEST" | jq -r -c '.arduinoLintLibraryManagerSetting')"
           echo "::set-output name=submissions::$(echo "$REQUEST" | jq -c '.submissions')"
           echo "::set-output name=index-entry::$(echo "$REQUEST" | jq -r -c '.indexEntry')"
           echo "::set-output name=indexer-logs-urls::$(echo "$REQUEST" | jq -r -c '.indexerLogsURLs')"
@@ -156,9 +158,10 @@ jobs:
     name: Check ${{ matrix.submission.submissionURL }}
     needs:
       - parse
-    if: needs.parse.outputs.type == 'submission'
+    if: >
+      needs.parse.outputs.type == 'submission' ||
+      needs.parse.outputs.type == 'modification'
     runs-on: ubuntu-latest
-
     strategy:
       fail-fast: false
 
@@ -221,7 +224,7 @@ jobs:
           "${{ env.ARDUINO_LINT_INSTALLATION_PATH }}/arduino-lint" \
             --compliance=permissive \
             --format=text \
-            --library-manager=submit \
+            --library-manager=${{ needs.parse.outputs.arduinoLintLibraryManagerSetting }} \
             --project-type=library \
             --recursive=false \
             --report-file="${{ env.JSON_REPORT_PATH }}" \
@@ -318,7 +321,8 @@ jobs:
     needs:
       - parse
       - check-submissions
-    if: success() # This job will only run if the submission checks passed
+    # Only merge submissions that passed all checks
+    if: success() && needs.parse.outputs.type == 'submission'
     runs-on: ubuntu-latest
 
     steps:
