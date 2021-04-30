@@ -169,7 +169,9 @@ jobs:
     steps:
       - name: Set environment variables
         run: |
-          echo "REPORT_PATH=${{ runner.temp }}/report.json" >> "$GITHUB_ENV"
+          echo "JSON_REPORT_PATH=${{ runner.temp }}/report.json" >> "$GITHUB_ENV"
+          echo "TEXT_REPORT_PATH=${{ runner.temp }}/report.txt" >> "$GITHUB_ENV"
+          echo "ARDUINO_LINT_INSTALLATION_PATH=${{ runner.temp }}/arduino-lint" >> "$GITHUB_ENV"
 
       - name: Comment on error detected while parsing submission
         if: matrix.submission.error != ''
@@ -193,6 +195,16 @@ jobs:
           echo "::error::Error found with submission"
           exit 1
 
+      - name: Install Arduino Lint
+        run: |
+          mkdir --parents "${{ env.ARDUINO_LINT_INSTALLATION_PATH }}"
+          curl \
+            -fsSL \
+            https://raw.githubusercontent.com/arduino/arduino-lint/main/etc/install.sh \
+          | \
+          BINDIR="${{ env.ARDUINO_LINT_INSTALLATION_PATH }}" \
+          sh
+
       - name: Clone submission
         run: |
           git clone \
@@ -202,25 +214,36 @@ jobs:
 
       - name: Lint submission
         id: arduino-lint
-        uses: arduino/arduino-lint-action@v1
         continue-on-error: true # Continue the job so the report can be commented to the PR
-        with:
-          library-manager: submit
-          project-type: library
-          compliance: permissive
-          official: ${{ matrix.submission.official }}
-          path: ${{ matrix.submission.name }}
-          report-file: ${{ env.REPORT_PATH }}
+        run: |
+          export ARDUINO_LINT_OFFICIAL="${{ matrix.submission.official }}"
 
-      - name: Read Arduino Lint report
+          "${{ env.ARDUINO_LINT_INSTALLATION_PATH }}/arduino-lint" \
+            --compliance=permissive \
+            --format=text \
+            --library-manager=submit \
+            --project-type=library \
+            --recursive=false \
+            --report-file="${{ env.JSON_REPORT_PATH }}" \
+            "${{ matrix.submission.name }}" > \
+              "${{ env.TEXT_REPORT_PATH }}"
+
+      - name: Read Arduino Lint reports
         id: read-lint-report
         run: |
-          echo "::set-output name=report::$(jq -c . "${{ env.REPORT_PATH }}")"
+          echo "::set-output name=json-report::$(jq -c . "${{ env.JSON_REPORT_PATH }}")"
+
+          # In order to use the text format report as a step output, it's necessary to do some character replacements.
+          TEXT_REPORT=$(cat "${{ env.TEXT_REPORT_PATH }}")
+          TEXT_REPORT="${TEXT_REPORT//'%'/'%25'}"
+          TEXT_REPORT="${TEXT_REPORT//$'\n'/'%0A'}"
+          TEXT_REPORT="${TEXT_REPORT//$'\r'/'%0D'}"
+          echo "::set-output name=text-report::$TEXT_REPORT"
 
       - name: Comment on Arduino Lint warning
         if: >
-          fromJson(steps.read-lint-report.outputs.report).summary.warningCount > 0
-          && fromJson(steps.read-lint-report.outputs.report).summary.errorCount == 0
+          fromJson(steps.read-lint-report.outputs.json-report).summary.warningCount > 0
+          && fromJson(steps.read-lint-report.outputs.json-report).summary.errorCount == 0
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -233,12 +256,12 @@ jobs:
             |
             [Arduino Lint](https://github.com/arduino/arduino-lint) has suggestions for possible improvements to ${{ matrix.submission.submissionURL }}:
 
-            ```json
-            ${{ toJson(fromJson(steps.read-lint-report.outputs.report).projects) }}
+            ```
+            ${{ steps.read-lint-report.outputs.text-report }}
             ```
 
       - name: Comment on Arduino Lint error
-        if: fromJson(steps.read-lint-report.outputs.report).summary.errorCount > 0
+        if: fromJson(steps.read-lint-report.outputs.json-report).summary.errorCount > 0
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -251,8 +274,8 @@ jobs:
             |
             [Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
 
-            ```json
-            ${{ toJson(fromJson(steps.read-lint-report.outputs.report).projects) }}
+            ```
+            ${{ steps.read-lint-report.outputs.text-report }}
             ```
 
       - name: Fail on Arduino Lint error
