@@ -208,6 +208,7 @@ jobs:
           BINDIR="${{ env.ARDUINO_LINT_INSTALLATION_PATH }}" \
           sh
 
+      # actions/checkout can't be used because it only supports GitHub repos, while libraries may use other Git hosts
       - name: Clone submission
         run: |
           git clone \
