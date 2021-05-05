@@ -3936,3 +3936,4 @@ https://github.com/lfhohmann/MMA8653.git|Contributed|MMA8653
 https://github.com/shashank3199/Cytron_PS2_Shield.git|Contributed|Cytron_PS2_Shield
 https://github.com/shashank3199/LSA08.git|Contributed|LSA08
 https://github.com/shashank3199/RazorIMU_9DOF.git|Contributed|RazorIMU_9DOF
+https://github.com/shashank3199/RhinoServo.git|Contributed|RhinoServo
