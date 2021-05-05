@@ -3947,3 +3947,4 @@ https://github.com/siktec-lab/SIKTEC-SdExplore.git|Contributed|SIKTEC_SdExplore
 https://github.com/joshua-8/Derivs_Limiter.git|Contributed|Derivs_Limiter
 https://github.com/kchemorion/MBEDSpeech.git|Contributed|MBEDSpeech
 https://github.com/KravitzLabDevices/FORCE_library.git|Contributed|Force
+https://github.com/siktec-lab/SIK-Rotary-Encoder.git|Contributed|SIKTEC_Rotary
