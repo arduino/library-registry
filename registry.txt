@@ -3945,3 +3945,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library.
 https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115.git|Contributed|ER_OLEDM1_CH1115
 https://github.com/siktec-lab/SIKTEC-SdExplore.git|Contributed|SIKTEC_SdExplore
 https://github.com/joshua-8/Derivs_Limiter.git|Contributed|Derivs_Limiter
+https://github.com/kchemorion/MBEDSpeech.git|Contributed|MBEDSpeech
