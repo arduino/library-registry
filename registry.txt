@@ -3941,3 +3941,4 @@ https://github.com/lyriarte/StripDisplay.git|Contributed|StripDisplay
 https://github.com/onelife/RTT-Ethernet.git|Contributed|RTT-Ethernet
 https://github.com/hideakitai/MQTTPubSubClient.git|Contributed|MQTTPubSubClient
 https://github.com/MartinXBcn/ESP32Logger.git|Contributed|ESP32Logger
+https://github.com/sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library.git|Contributed|SparkFun Qwiic Haptic Driver DA7280 Library
