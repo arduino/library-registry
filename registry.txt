@@ -3934,3 +3934,4 @@ https://github.com/stm32duino/STM32duinoBLE.git|Contributed|STM32duinoBLE
 https://github.com/Falven/ad-oprintstream.git|Contributed|oprintstream
 https://github.com/lfhohmann/MMA8653.git|Contributed|MMA8653
 https://github.com/shashank3199/Cytron_PS2_Shield.git|Contributed|Cytron_PS2_Shield
+https://github.com/shashank3199/LSA08.git|Contributed|LSA08
