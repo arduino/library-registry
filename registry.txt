@@ -3939,3 +3939,4 @@ https://github.com/shashank3199/RazorIMU_9DOF.git|Contributed|RazorIMU_9DOF
 https://github.com/shashank3199/RhinoServo.git|Contributed|RhinoServo
 https://github.com/lyriarte/StripDisplay.git|Contributed|StripDisplay
 https://github.com/onelife/RTT-Ethernet.git|Contributed|RTT-Ethernet
+https://github.com/hideakitai/MQTTPubSubClient.git|Contributed|MQTTPubSubClient
