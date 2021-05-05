@@ -3930,3 +3930,4 @@ https://github.com/FTTechBrasil/FTTech_SAMD51_Clicks.git|Contributed|FTTech SAMD
 https://github.com/jordancrubin/sprinkler-system.git|Contributed|sprinkler-system
 https://github.com/RobTillaart/TM1637_RT.git|Contributed|TM1637_RT
 https://github.com/FuzzyNoodle/Fuzzy-Spooder.git|Contributed|Fuzzy Spooder
+https://github.com/stm32duino/STM32duinoBLE.git|Contributed|STM32duinoBLE
