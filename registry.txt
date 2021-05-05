@@ -3943,3 +3943,4 @@ https://github.com/hideakitai/MQTTPubSubClient.git|Contributed|MQTTPubSubClient
 https://github.com/MartinXBcn/ESP32Logger.git|Contributed|ESP32Logger
 https://github.com/sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library.git|Contributed|SparkFun Qwiic Haptic Driver DA7280 Library
 https://github.com/gavinlyonsrepo/ER_OLEDM1_CH1115.git|Contributed|ER_OLEDM1_CH1115
+https://github.com/siktec-lab/SIKTEC-SdExplore.git|Contributed|SIKTEC_SdExplore
