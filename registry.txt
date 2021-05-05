@@ -3931,3 +3931,4 @@ https://github.com/jordancrubin/sprinkler-system.git|Contributed|sprinkler-syste
 https://github.com/RobTillaart/TM1637_RT.git|Contributed|TM1637_RT
 https://github.com/FuzzyNoodle/Fuzzy-Spooder.git|Contributed|Fuzzy Spooder
 https://github.com/stm32duino/STM32duinoBLE.git|Contributed|STM32duinoBLE
+https://github.com/Falven/ad-oprintstream.git|Contributed|oprintstream
