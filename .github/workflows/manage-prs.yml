@@ -405,6 +405,7 @@ jobs:
             Once that is done, it will be merged automatically.
 
       - name: Request a review in case assistance is required
+        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Don't attempt to request review from PR author.
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -423,6 +424,7 @@ jobs:
 
     steps:
       - name: Request pull request review
+        if: contains(toJSON(env.MAINTAINERS), github.actor) != true
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -472,6 +474,7 @@ jobs:
             - "status: maintenance required"
 
       - name: Request pull request review
+        if: contains(toJSON(env.MAINTAINERS), github.actor) != true
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
