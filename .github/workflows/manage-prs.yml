@@ -2,6 +2,9 @@ name: Manage PRs
 
 env:
   SUBMISSION_PARSER_VERSION: 1.0.0-rc6 # See: https://github.com/arduino/library-manager-submission-parser/releases
+  MAINTAINERS: |
+    # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
+    - per1234
 
 on:
   # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
@@ -410,8 +413,7 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          team_reviewers: |
-            - arduino/team_tooling
+          reviewers: ${{ env.MAINTAINERS }}
 
   not-submission:
     needs:
@@ -429,8 +431,7 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          team_reviewers: |
-            - arduino/team_tooling
+          reviewers: ${{ env.MAINTAINERS }}
 
       - name: Comment on required review
         uses: octokit/request-action@v2.x
@@ -479,8 +480,7 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          team_reviewers: |
-            - arduino/team_tooling
+          reviewers: ${{ env.MAINTAINERS }}
 
       - name: Comment on unexpected failure
         uses: octokit/request-action@v2.x
