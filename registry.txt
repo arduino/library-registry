@@ -3956,3 +3956,4 @@ https://github.com/YuuichiAkagawa/Arduino-UHS2MIDI.git|Contributed|UHS2-MIDI
 https://github.com/joshua-8/ESP32_easy_wifi_data.git|Contributed|ESP32_easy_wifi_data
 https://github.com/seralo/ZzzButton.git|Contributed|ZzzButton
 https://github.com/khoih-prog/FlashStorage_SAMD.git|Contributed|FlashStorage_SAMD
+https://github.com/akvavit01/MissionList.git|Contributed|MissionList
