@@ -3954,3 +3954,4 @@ https://github.com/tobozo/ESP32-PsRamFS.git|Contributed|ESP32-PSRamFS
 https://github.com/RobTillaart/rotaryDecoder.git|Contributed|rotaryDecoder
 https://github.com/YuuichiAkagawa/Arduino-UHS2MIDI.git|Contributed|UHS2-MIDI
 https://github.com/joshua-8/ESP32_easy_wifi_data.git|Contributed|ESP32_easy_wifi_data
+https://github.com/seralo/ZzzButton.git|Contributed|ZzzButton
