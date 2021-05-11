@@ -3958,3 +3958,4 @@ https://github.com/seralo/ZzzButton.git|Contributed|ZzzButton
 https://github.com/khoih-prog/FlashStorage_SAMD.git|Contributed|FlashStorage_SAMD
 https://github.com/akvavit01/MissionList.git|Contributed|MissionList
 https://github.com/marcinbor85/microshell.git|Contributed|MicroShell
+https://github.com/victorsvi/MatrixKeypad.git|Contributed|MatrixKeypad
