@@ -3962,3 +3962,4 @@ https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library.git|Contributed|Spa
 https://github.com/maximebohrer/SimpleKeypad.git|Contributed|SimpleKeypad
 https://github.com/sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library.git|Contributed|SparkFun Flying Jalapeno 2 Arduino Library
 https://github.com/sparkfun/SparkFun_KX13X_Arduino_Library.git|Contributed|SparkFun KX13X Arduino Library
+https://github.com/fabriziop/TalkingButton.git|Contributed|TalkingButton
