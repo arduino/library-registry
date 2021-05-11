@@ -3950,3 +3950,4 @@ https://github.com/KravitzLabDevices/FORCE_library.git|Contributed|Force
 https://github.com/siktec-lab/SIK-Rotary-Encoder.git|Contributed|SIKTEC_Rotary
 https://github.com/RobTillaart/ShiftOutSlow.git|Contributed|ShiftOutSlow
 https://github.com/RobTillaart/ShiftInSlow.git|Contributed|ShiftInSlow
+https://github.com/tobozo/ESP32-PsRamFS.git|Contributed|ESP32-PSRamFS
