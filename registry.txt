@@ -3952,3 +3952,4 @@ https://github.com/RobTillaart/ShiftOutSlow.git|Contributed|ShiftOutSlow
 https://github.com/RobTillaart/ShiftInSlow.git|Contributed|ShiftInSlow
 https://github.com/tobozo/ESP32-PsRamFS.git|Contributed|ESP32-PSRamFS
 https://github.com/RobTillaart/rotaryDecoder.git|Contributed|rotaryDecoder
+https://github.com/YuuichiAkagawa/Arduino-UHS2MIDI.git|Contributed|UHS2-MIDI
