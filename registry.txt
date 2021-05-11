@@ -3965,3 +3965,4 @@ https://github.com/sparkfun/SparkFun_KX13X_Arduino_Library.git|Contributed|Spark
 https://github.com/fabriziop/TalkingButton.git|Contributed|TalkingButton
 https://github.com/tuya/tuya-wifi-mcu-sdk-arduino-library.git|Contributed|Tuya_WiFi_MCU_SDK
 https://github.com/khoih-prog/ESP32_S2_TimerInterrupt.git|Contributed|ESP32_S2_TimerInterrupt
+https://github.com/gq97a6/IoT_Modules-Buttons.git|Contributed|IoT_Modules-Buttons
