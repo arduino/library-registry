@@ -2323,7 +2323,6 @@ https://github.com/pstolarz/nrfhal_arduino.git|Contributed|NRF_HAL
 https://github.com/ukw100/IRMP.git|Contributed|IRMP
 https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary.git|Contributed|SparkFun 9DoF IMU Breakout - ICM 20948 - Arduino Library
 https://github.com/mehtajainam/VCNL36687.git|Contributed|VCNL36687
-https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_Arduino_Library.git|Contributed|SparkFun Capacitive Touch Slider - CAP1203
 https://github.com/smartmeio/arancino-library.git|Contributed|Arancino
 https://github.com/Samyz/CESmartCamp.git|Contributed|CESmartCamp
 https://github.com/ERROPiX/ESP32_AnalogWrite.git|Contributed|ESP32 AnalogWrite
@@ -3959,3 +3958,4 @@ https://github.com/khoih-prog/FlashStorage_SAMD.git|Contributed|FlashStorage_SAM
 https://github.com/akvavit01/MissionList.git|Contributed|MissionList
 https://github.com/marcinbor85/microshell.git|Contributed|MicroShell
 https://github.com/victorsvi/MatrixKeypad.git|Contributed|MatrixKeypad
+https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library.git|Contributed|SparkFun CAP1203 Arduino Library
