@@ -3959,3 +3959,4 @@ https://github.com/akvavit01/MissionList.git|Contributed|MissionList
 https://github.com/marcinbor85/microshell.git|Contributed|MicroShell
 https://github.com/victorsvi/MatrixKeypad.git|Contributed|MatrixKeypad
 https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library.git|Contributed|SparkFun CAP1203 Arduino Library
+https://github.com/maximebohrer/SimpleKeypad.git|Contributed|SimpleKeypad
