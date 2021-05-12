@@ -101,7 +101,7 @@ jobs:
 
     steps:
       - name: Checkout local repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.4
 
       - name: Download submission parser
         id: download-parser
@@ -354,7 +354,7 @@ jobs:
           merge_method: squash
 
       - name: Checkout index source branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.4
         with:
           ref: production
 
