@@ -86,7 +86,7 @@ https://github.com/arduino-libraries/Arduino_Portenta_OTA.git|Arduino|Arduino_Po
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials.git|Arduino|Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_EdgeControl.git|Arduino|Arduino_EdgeControl
 https://github.com/arduino-libraries/Arduino_NineAxesMotion.git|Arduino|Arduino_NineAxesMotion
-https://github.com/arduino-libraries/Arduino_MachineControl|Arduino|Arduino_MachineControl
+https://github.com/arduino-libraries/Arduino_MachineControl.git|Arduino|Arduino_MachineControl
 
 https://github.com/vidor-libraries/VidorGraphics.git|Arduino|VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals.git|Arduino|VidorPeripherals
