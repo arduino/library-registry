@@ -513,3 +513,14 @@ jobs:
             This error is unrelated to the content of your pull request.
 
             A maintainer has been notified and will investigate as soon as possible.
+
+      - name: Slack notification of unexpected failure
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.TEAM_TOOLING_CHANNEL_SLACK_WEBHOOK }}
+          SLACK_MESSAGE: |
+            :warning::warning::warning::warning:
+            WARNING: ${{ github.repository }} ${{ github.workflow }} workflow run had an unexpected failure!!!
+            :warning::warning::warning::warning:
+          SLACK_COLOR: danger
+          MSG_MINIMAL: true
