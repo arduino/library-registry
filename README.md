@@ -90,7 +90,7 @@ description, making it clear that the URL is intentionally being removed.
 
 ## Report a problem with Library Manager
 
-Please first take a look at [the FAQ](FAQ.md). If a library release is missing from Library Manager, it is usually
+First, please take a look at [the FAQ](FAQ.md). If a library release is missing from Library Manager, it is usually
 because it was not compliant with all [the requirements](FAQ.md#update-requirements) listed in that document.
 
 This repository is not an appropriate place to request support or report problems with a library. Check the library's
