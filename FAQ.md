@@ -79,7 +79,7 @@ Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 - [ ] The library repository must not contain a [`.development` file](https://arduino.github.io/arduino-cli/latest/library-specification/#development-flag-file).
 - [ ] The library repository must not contain any [symlinks](https://en.wikipedia.org/wiki/Symbolic_link).
 - [ ] The library repository must not contain any files detected as infected by our antivirus scan.
-- [ ] The library repository must have a [Git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) (or [release](https://help.github.com/articles/creating-releases/)) and must have been compliant with all the above requirements at the time of that tag.
+- [ ] The library repository must have a [Git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) (or [release](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)) and must have been compliant with all the above requirements at the time of that tag.
 - [ ] The library repository must be hosted on a major Git-hosting website like GitHub, BitBucket or GitLab (other hosting sites may be considered on request).
 
 Arduino has created a command line tool to check libraries for compliance with all the Library Manager requirements:
@@ -102,7 +102,7 @@ Note that libraries will need to be compliant with [all requirements](#update-re
 
 1. Make sure the library is compliant with [all requirements](#update-requirements).
 1. Update the `version` in the library's [`library.properties`](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata)).
-1. Tag the library's repository once more and push the new tag (or create a release if the library's Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://help.github.com/articles/creating-releases/)).
+1. Tag the library's repository once more and push the new tag (or create a release if the library's Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)).
 
 [Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish the new release.
 
