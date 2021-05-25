@@ -13,7 +13,7 @@ This repository contains the list of libraries in the
     - [If the problem is with the pull request:](#if-the-problem-is-with-the-pull-request)
     - [If the problem is with the library:](#if-the-problem-is-with-the-library)
 - [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
-- [Removing the URL of a library already in Library Manager](#removing-the-url-of-a-library-already-in-library-manager)
+- [Removing a library from Library Manager](#removing-a-library-from-library-manager)
 - [Report a problem with Library Manager](#report-a-problem-with-library-manager)
 
 <!-- tocstop -->
@@ -80,7 +80,7 @@ following [the instructions above](#instructions).
 Since this type of request must be reviewed by a human maintainer, please write an explanation in the pull request
 description, making it clear that the URL is intentionally being changed.
 
-## Removing the URL of a library already in Library Manager
+## Removing a library from Library Manager
 
 Submit a pull request that removes the URL from [repositories.txt](repositories.txt). This can be done by following
 [the instructions above](#instructions).
