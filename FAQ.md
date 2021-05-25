@@ -183,7 +183,7 @@ Library Manager installs libraries into your sketchbook's `libraries` folder. Si
 
 #### Arduino IDE 2.x
 
-Hover the mouse pointer over the "INSTALLED" label on the library listing in Library Manager. It will now change to "UNINSTALL", which you can click to uninstall that library.
+Hover the mouse pointer over the <kbd>INSTALLED</kbd> label on the library listing in Library Manager. It will now change to <kbd>UNINSTALL</kbd>, which you can click to uninstall that library.
 
 #### Classic Arduino IDE
 
