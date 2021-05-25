@@ -60,15 +60,15 @@ Every hour, the automated Library Manager indexer system:
 
 ## Submission
 
-### How can I add a library to Library Manager?
-
 <a id="how-can-i-add-my-library-to-library-manager"></a>
+
+### How can I add a library to Library Manager?
 
 Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 
-### What are the requirements for a library to be added to Library Manager?
-
 <a id="submission-requirements"></a>
+
+### What are the requirements for a library to be added to Library Manager?
 
 - [ ] The library must be fully compliant with the [Arduino Library Specification](https://arduino.github.io/arduino-cli/latest/library-specification).
 - [ ] The library must have [a library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata), in compliance with the Arduino Library 1.5 format.
@@ -106,9 +106,9 @@ Note that libraries will need to be compliant with [all requirements](#update-re
 
 [Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish the new release.
 
-### What are the requirements for publishing new releases of libraries already in the Library Manager list?
-
 <a id="update-requirements"></a>
+
+### What are the requirements for publishing new releases of libraries already in the Library Manager list?
 
 - [ ] The library must be compliant with all the same [requirements that apply to submissions](#submission-requirements).
 - [ ] The `name` property in library.properties must not have changed from the value it had when the library was submitted. If you must change the library name, see [this](#how-can-i-change-my-librarys-name).
@@ -140,9 +140,9 @@ In order to **un**publish a library version, delete its related tag/release.
 
 Once you have done that, open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
 
-### How can I change a library's name?
-
 <a id="how-can-i-change-my-librarys-name"></a>
+
+### How can I change a library's name?
 
 For the sake of continuity, libraries in the Library Manager list are locked to the name they had at the time they were added to the list. Changing the library name can be disruptive to its users because this is the unique identifier for the library used by the Arduino development software [command line interfaces](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/), sketch [metadata](https://arduino.github.io/arduino-cli/latest/sketch-specification/#metadata), library [dependencies](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format), and installation location.
 
