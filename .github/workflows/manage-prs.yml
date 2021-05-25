@@ -360,7 +360,7 @@ jobs:
 
       - name: Add index source file entry for submissions
         run: |
-          INDEX_SOURCE_FILE_PATH="${{ github.workspace }}/repositories.txt"
+          INDEX_SOURCE_FILE_PATH="${{ github.workspace }}/registry.txt"
           git config --global user.email "bot@arduino.cc"
           git config --global user.name "ArduinoBot"
           echo "${{ needs.parse.outputs.index-entry }}" >> "$INDEX_SOURCE_FILE_PATH"
