@@ -4024,3 +4024,4 @@ https://github.com/GyverLibs/Forecaster.git|Contributed|Forecaster
 https://github.com/GyverLibs/fixed.git|Contributed|fixed
 https://github.com/GyverLibs/FFT_C.git|Contributed|FFT_C
 https://github.com/GyverLibs/BitPack.git|Contributed|BitPack
+https://github.com/GyverLibs/Clap.git|Contributed|Clap
