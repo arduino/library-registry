@@ -3972,3 +3972,4 @@ https://github.com/khoih-prog/ESP32_S2_TimerInterrupt.git|Contributed|ESP32_S2_T
 https://github.com/gq97a6/IoT_Modules-Buttons.git|Contributed|IoT_Modules-Buttons
 https://github.com/m5stack/M5GFX.git|Contributed|M5GFX
 https://github.com/RobTillaart/PID_RT.git|Contributed|PID_RT
+https://github.com/RobTillaart/I2C_24LC1025.git|Contributed|I2C_24LC1025
