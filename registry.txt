@@ -4027,3 +4027,4 @@ https://github.com/GyverLibs/BitPack.git|Contributed|BitPack
 https://github.com/GyverLibs/Clap.git|Contributed|Clap
 https://github.com/GyverLibs/CRT.git|Contributed|CRT
 https://github.com/GyverLibs/FastBot.git|Contributed|FastBot
+https://github.com/GyverLibs/Gyver433.git|Contributed|Gyver433
