@@ -4013,3 +4013,4 @@ https://github.com/GyverLibs/directADC.git|Contributed|directADC
 https://github.com/GyverLibs/GyverFilters.git|Contributed|GyverFilters
 https://github.com/GyverLibs/GyverPID.git|Contributed|GyverPID
 https://github.com/GyverLibs/mString.git|Contributed|mString
+https://github.com/GyverLibs/VolAnalyzer.git|Contributed|VolAnalyzer
