@@ -3976,3 +3976,4 @@ https://github.com/RobTillaart/I2C_24LC1025.git|Contributed|I2C_24LC1025
 https://github.com/RobTillaart/AnalogKeypad.git|Contributed|AnalogKeypad
 https://github.com/lbernstone/UncleRus-drivers.git|Contributed|UncleRus
 https://github.com/RobTillaart/INA226.git|Contributed|INA226
+https://github.com/sfekilou/M5STACK_4RELAY.git|Contributed|M5 Stack 4Relay Library
