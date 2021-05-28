@@ -4039,3 +4039,4 @@ https://github.com/GyverLibs/GyverPower.git|Contributed|GyverPower
 https://github.com/GyverLibs/GyverOS.git|Contributed|GyverOS
 https://github.com/GyverLibs/buildTime.git|Contributed|buildTime
 https://github.com/abishur/ms5x.git|Contributed|MS5x
+https://github.com/onelife/Arduino_wolfssl.git|Contributed|wolfssl
