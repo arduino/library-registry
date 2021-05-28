@@ -3997,3 +3997,4 @@ https://github.com/GyverLibs/GyverButton.git|Contributed|GyverButton
 https://github.com/GyverLibs/GyverEncoder.git|Contributed|GyverEncoder
 https://github.com/GyverLibs/GRGB.git|Contributed|GRGB
 https://github.com/GyverLibs/microLED.git|Contributed|microLED
+https://github.com/GyverLibs/ServoSmooth.git|Contributed|ServoSmooth
