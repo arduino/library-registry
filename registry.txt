@@ -4026,3 +4026,4 @@ https://github.com/GyverLibs/FFT_C.git|Contributed|FFT_C
 https://github.com/GyverLibs/BitPack.git|Contributed|BitPack
 https://github.com/GyverLibs/Clap.git|Contributed|Clap
 https://github.com/GyverLibs/CRT.git|Contributed|CRT
+https://github.com/GyverLibs/FastBot.git|Contributed|FastBot
