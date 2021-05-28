@@ -4050,3 +4050,4 @@ https://github.com/hpssjellis/portenta-pro-community-solutions.git|Contributed|p
 https://github.com/RobTillaart/rotaryDecoderSwitch.git|Contributed|rotaryDecoderSwitch
 https://github.com/dantudose/AT24C256.git|Contributed|AT24C256 library
 https://github.com/RobTillaart/LTC2991.git|Contributed|LTC2991
+https://github.com/RobTillaart/AD5144A.git|Contributed|AD5144A
