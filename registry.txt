@@ -4015,3 +4015,4 @@ https://github.com/GyverLibs/GyverPID.git|Contributed|GyverPID
 https://github.com/GyverLibs/mString.git|Contributed|mString
 https://github.com/GyverLibs/VolAnalyzer.git|Contributed|VolAnalyzer
 https://github.com/GyverLibs/Random16.git|Contributed|Random16
+https://github.com/GyverLibs/Hamming.git|Contributed|Hamming
