@@ -3979,3 +3979,4 @@ https://github.com/RobTillaart/INA226.git|Contributed|INA226
 https://github.com/sfekilou/M5STACK_4RELAY.git|Contributed|M5 Stack 4Relay Library
 https://github.com/joshua-8/JMotor.git|Contributed|JMotor
 https://github.com/jostlowe/Pico-DMX.git|Contributed|Pico-DMX
+https://github.com/GyverLibs/SevenSegmentsDisp.git|Contributed|SevenSegmentsDisp
