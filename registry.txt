@@ -3984,3 +3984,4 @@ https://github.com/GyverLibs/GyverTM1637.git|Contributed|GyverTM1637
 https://github.com/GyverLibs/GyverOLED.git|Contributed|GyverOLED
 https://github.com/GyverLibs/GyverMAX7219.git|Contributed|GyverMAX7219
 https://github.com/GyverLibs/microDS18B20.git|Contributed|microDS18B20
+https://github.com/GyverLibs/microDS3231.git|Contributed|microDS3231
