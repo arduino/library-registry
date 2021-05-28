@@ -3995,3 +3995,4 @@ https://github.com/GyverLibs/NecDecoder.git|Contributed|NecDecoder
 https://github.com/GyverLibs/AnalogKey.git|Contributed|AnalogKey
 https://github.com/GyverLibs/GyverButton.git|Contributed|GyverButton
 https://github.com/GyverLibs/GyverEncoder.git|Contributed|GyverEncoder
+https://github.com/GyverLibs/GRGB.git|Contributed|GRGB
