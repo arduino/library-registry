@@ -3999,3 +3999,4 @@ https://github.com/GyverLibs/GRGB.git|Contributed|GRGB
 https://github.com/GyverLibs/microLED.git|Contributed|microLED
 https://github.com/GyverLibs/ServoSmooth.git|Contributed|ServoSmooth
 https://github.com/GyverLibs/SoftServo.git|Contributed|SoftServo
+https://github.com/GyverLibs/GyverRelay.git|Contributed|GyverRelay
