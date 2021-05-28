@@ -4049,3 +4049,4 @@ https://github.com/RobTillaart/SRF05.git|Contributed|SRF05
 https://github.com/hpssjellis/portenta-pro-community-solutions.git|Contributed|portenta-pro-community-solutions
 https://github.com/RobTillaart/rotaryDecoderSwitch.git|Contributed|rotaryDecoderSwitch
 https://github.com/dantudose/AT24C256.git|Contributed|AT24C256 library
+https://github.com/RobTillaart/LTC2991.git|Contributed|LTC2991
