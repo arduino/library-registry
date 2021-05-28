@@ -4031,3 +4031,4 @@ https://github.com/GyverLibs/Gyver433.git|Contributed|Gyver433
 https://github.com/GyverLibs/GyverBus.git|Contributed|GyverBus
 https://github.com/GyverLibs/GParser.git|Contributed|GParser
 https://github.com/GyverLibs/AsyncStream.git|Contributed|AsyncStream
+https://github.com/GyverLibs/GyverPWM.git|Contributed|GyverPWM
