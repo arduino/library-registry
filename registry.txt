@@ -3992,3 +3992,4 @@ https://github.com/GyverLibs/GyverHX711.git|Contributed|GyverHX711
 https://github.com/GyverLibs/GyverBME280.git|Contributed|GyverBME280
 https://github.com/GyverLibs/EncButton.git|Contributed|EncButton
 https://github.com/GyverLibs/NecDecoder.git|Contributed|NecDecoder
+https://github.com/GyverLibs/AnalogKey.git|Contributed|AnalogKey
