@@ -3974,3 +3974,4 @@ https://github.com/m5stack/M5GFX.git|Contributed|M5GFX
 https://github.com/RobTillaart/PID_RT.git|Contributed|PID_RT
 https://github.com/RobTillaart/I2C_24LC1025.git|Contributed|I2C_24LC1025
 https://github.com/RobTillaart/AnalogKeypad.git|Contributed|AnalogKeypad
+https://github.com/lbernstone/UncleRus-drivers.git|Contributed|UncleRus
