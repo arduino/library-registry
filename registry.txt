@@ -3987,3 +3987,4 @@ https://github.com/GyverLibs/microDS18B20.git|Contributed|microDS18B20
 https://github.com/GyverLibs/microDS3231.git|Contributed|microDS3231
 https://github.com/GyverLibs/Psychrometer.git|Contributed|Psychrometer
 https://github.com/GyverLibs/Tachometer.git|Contributed|Tachometer
+https://github.com/GyverLibs/GyverNTC.git|Contributed|GyverNTC
