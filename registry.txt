@@ -4022,3 +4022,4 @@ https://github.com/GyverLibs/GyverGFX.git|Contributed|GyverGFX
 https://github.com/GyverLibs/GyverFIFO.git|Contributed|GyverFIFO
 https://github.com/GyverLibs/Forecaster.git|Contributed|Forecaster
 https://github.com/GyverLibs/fixed.git|Contributed|fixed
+https://github.com/GyverLibs/FFT_C.git|Contributed|FFT_C
