@@ -4052,3 +4052,4 @@ https://github.com/dantudose/AT24C256.git|Contributed|AT24C256 library
 https://github.com/RobTillaart/LTC2991.git|Contributed|LTC2991
 https://github.com/RobTillaart/AD5144A.git|Contributed|AD5144A
 https://github.com/wollewald/ICM20948_WE.git|Contributed|ICM20948_WE
+https://github.com/khoih-prog/RPI_PICO_TimerInterrupt.git|Contributed|RPI_PICO_TimerInterrupt
