@@ -4009,3 +4009,4 @@ https://github.com/GyverLibs/GyverWDT.git|Contributed|GyverWDT
 https://github.com/GyverLibs/microWire.git|Contributed|microWire
 https://github.com/GyverLibs/GyverTimers.git|Contributed|GyverTimers
 https://github.com/GyverLibs/directTimers.git|Contributed|directTimers
+https://github.com/GyverLibs/directADC.git|Contributed|directADC
