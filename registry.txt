@@ -4003,3 +4003,4 @@ https://github.com/GyverLibs/GyverRelay.git|Contributed|GyverRelay
 https://github.com/GyverLibs/PWMrelay.git|Contributed|PWMrelay
 https://github.com/GyverLibs/GyverStepper.git|Contributed|GyverStepper
 https://github.com/GyverLibs/GyverMotor.git|Contributed|GyverMotor
+https://github.com/GyverLibs/GyverDimmer.git|Contributed|GyverDimmer
