@@ -3989,3 +3989,4 @@ https://github.com/GyverLibs/Psychrometer.git|Contributed|Psychrometer
 https://github.com/GyverLibs/Tachometer.git|Contributed|Tachometer
 https://github.com/GyverLibs/GyverNTC.git|Contributed|GyverNTC
 https://github.com/GyverLibs/GyverHX711.git|Contributed|GyverHX711
+https://github.com/GyverLibs/GyverBME280.git|Contributed|GyverBME280
