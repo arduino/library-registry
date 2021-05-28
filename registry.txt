@@ -4037,3 +4037,4 @@ https://github.com/GyverLibs/GyverUART.git|Contributed|GyverUART
 https://github.com/GyverLibs/TimerMs.git|Contributed|TimerMs
 https://github.com/GyverLibs/GyverPower.git|Contributed|GyverPower
 https://github.com/GyverLibs/GyverOS.git|Contributed|GyverOS
+https://github.com/GyverLibs/buildTime.git|Contributed|buildTime
