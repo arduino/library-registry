@@ -4035,3 +4035,4 @@ https://github.com/GyverLibs/GyverPWM.git|Contributed|GyverPWM
 https://github.com/GyverLibs/GyverTimer.git|Contributed|GyverTimer
 https://github.com/GyverLibs/GyverUART.git|Contributed|GyverUART
 https://github.com/GyverLibs/TimerMs.git|Contributed|TimerMs
+https://github.com/GyverLibs/GyverPower.git|Contributed|GyverPower
