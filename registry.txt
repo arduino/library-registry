@@ -4019,3 +4019,4 @@ https://github.com/GyverLibs/Hamming.git|Contributed|Hamming
 https://github.com/GyverLibs/TimeRandom.git|Contributed|TimeRandom
 https://github.com/GyverLibs/UnixTime.git|Contributed|UnixTime
 https://github.com/GyverLibs/GyverGFX.git|Contributed|GyverGFX
+https://github.com/GyverLibs/GyverFIFO.git|Contributed|GyverFIFO
