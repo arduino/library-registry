@@ -4046,3 +4046,4 @@ https://github.com/DLE-Dev/OttoArduinoLib.git|Contributed|OttoArduinoLib
 https://github.com/EmbedUI/EmbedUI-Library.git|Contributed|EmbedUI
 https://github.com/rasmushedeager/sducar.git|Contributed|SDU_CAR
 https://github.com/RobTillaart/SRF05.git|Contributed|SRF05
+https://github.com/hpssjellis/portenta-pro-community-solutions.git|Contributed|portenta-pro-community-solutions
