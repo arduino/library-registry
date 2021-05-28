@@ -4044,3 +4044,4 @@ https://github.com/asukiaaa/CanBusData-arduino.git|Contributed|CanBusData_asukia
 https://github.com/asukiaaa/CanBusMCP2515-arduino.git|Contributed|CanBusMCP2515_asukiaaa
 https://github.com/DLE-Dev/OttoArduinoLib.git|Contributed|OttoArduinoLib
 https://github.com/EmbedUI/EmbedUI-Library.git|Contributed|EmbedUI
+https://github.com/rasmushedeager/sducar.git|Contributed|SDU_CAR
