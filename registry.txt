@@ -4011,3 +4011,4 @@ https://github.com/GyverLibs/GyverTimers.git|Contributed|GyverTimers
 https://github.com/GyverLibs/directTimers.git|Contributed|directTimers
 https://github.com/GyverLibs/directADC.git|Contributed|directADC
 https://github.com/GyverLibs/GyverFilters.git|Contributed|GyverFilters
+https://github.com/GyverLibs/GyverPID.git|Contributed|GyverPID
