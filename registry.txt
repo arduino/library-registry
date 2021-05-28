@@ -4006,3 +4006,4 @@ https://github.com/GyverLibs/GyverMotor.git|Contributed|GyverMotor
 https://github.com/GyverLibs/GyverDimmer.git|Contributed|GyverDimmer
 https://github.com/GyverLibs/AccelMotor.git|Contributed|AccelMotor
 https://github.com/GyverLibs/GyverWDT.git|Contributed|GyverWDT
+https://github.com/GyverLibs/microWire.git|Contributed|microWire
