@@ -4034,3 +4034,4 @@ https://github.com/GyverLibs/AsyncStream.git|Contributed|AsyncStream
 https://github.com/GyverLibs/GyverPWM.git|Contributed|GyverPWM
 https://github.com/GyverLibs/GyverTimer.git|Contributed|GyverTimer
 https://github.com/GyverLibs/GyverUART.git|Contributed|GyverUART
+https://github.com/GyverLibs/TimerMs.git|Contributed|TimerMs
