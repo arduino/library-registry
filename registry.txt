@@ -4020,3 +4020,4 @@ https://github.com/GyverLibs/TimeRandom.git|Contributed|TimeRandom
 https://github.com/GyverLibs/UnixTime.git|Contributed|UnixTime
 https://github.com/GyverLibs/GyverGFX.git|Contributed|GyverGFX
 https://github.com/GyverLibs/GyverFIFO.git|Contributed|GyverFIFO
+https://github.com/GyverLibs/Forecaster.git|Contributed|Forecaster
