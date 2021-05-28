@@ -4042,3 +4042,4 @@ https://github.com/abishur/ms5x.git|Contributed|MS5x
 https://github.com/onelife/Arduino_wolfssl.git|Contributed|wolfssl
 https://github.com/asukiaaa/CanBusData-arduino.git|Contributed|CanBusData_asukiaaa
 https://github.com/asukiaaa/CanBusMCP2515-arduino.git|Contributed|CanBusMCP2515_asukiaaa
+https://github.com/DLE-Dev/OttoArduinoLib.git|Contributed|OttoArduinoLib
