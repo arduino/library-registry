@@ -2730,7 +2730,7 @@ https://github.com/Protocentral/protocentral-afe4490-arduino
 https://github.com/Protocentral/protocentral-pulse-express
 https://github.com/pseudoVella/shift7seg
 https://github.com/pstolarz/CoopThreads
-https://github.com/pstolarz/nrfhal_arduino
+https://github.com/pstolarz/NRF_HAL
 https://github.com/pstolarz/OneWireNg
 https://github.com/psychogenic/Chronos
 https://github.com/psychogenic/SerialUI
