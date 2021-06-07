@@ -4061,3 +4061,4 @@ https://github.com/RobTillaart/TSL235R.git|Contributed|TSL235R
 https://github.com/RobTillaart/relativity.git|Contributed|relativity
 https://github.com/atc1441/NETSGPClient.git|Contributed|NETSGPClient
 https://github.com/noah1510/generic-Arduino.git|Contributed|generic-Arduino
+https://github.com/bitbank2/PNGdec.git|Contributed|PNGdec
