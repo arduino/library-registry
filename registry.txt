@@ -4064,3 +4064,7 @@ https://github.com/noah1510/generic-Arduino.git|Contributed|generic-Arduino
 https://github.com/bitbank2/PNGdec.git|Contributed|PNGdec
 https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library.git|Contributed|SparkFun Qwiic 6Dof - LSM6DS0
 https://github.com/RobTillaart/MAX14661.git|Contributed|MAX14661
+https://github.com/RCmags/vector_datatype.git|Contributed|Vector datatype
+https://github.com/RCmags/ADNS3080.git|Contributed|ADNS3080
+https://github.com/RCmags/basicMPU6050.git|Contributed|basicMPU6050
+https://github.com/RCmags/imuFilter.git|Contributed|imuFilter
