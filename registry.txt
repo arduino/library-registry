@@ -4063,3 +4063,4 @@ https://github.com/atc1441/NETSGPClient.git|Contributed|NETSGPClient
 https://github.com/noah1510/generic-Arduino.git|Contributed|generic-Arduino
 https://github.com/bitbank2/PNGdec.git|Contributed|PNGdec
 https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library.git|Contributed|SparkFun Qwiic 6Dof - LSM6DS0
+https://github.com/RobTillaart/MAX14661.git|Contributed|MAX14661
