@@ -4059,3 +4059,4 @@ https://github.com/ARTS37/SerialMenuCmd.git|Contributed|SerialMenuCmd
 https://github.com/ArduinoShop/Seg7.git|Contributed|Seg7
 https://github.com/RobTillaart/TSL235R.git|Contributed|TSL235R
 https://github.com/RobTillaart/relativity.git|Contributed|relativity
+https://github.com/atc1441/NETSGPClient.git|Contributed|NETSGPClient
