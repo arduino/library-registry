@@ -1,3 +1,4 @@
+https://github.com/ArduinoShop/Seg7
 https://github.com/ARTS37/SerialMenuCmd
 https://bitbucket.org/amotzek/cooperative-multitasking
 https://bitbucket.org/amotzek/mqtt-client
