@@ -4055,3 +4055,4 @@ https://github.com/wollewald/ICM20948_WE.git|Contributed|ICM20948_WE
 https://github.com/khoih-prog/RPI_PICO_TimerInterrupt.git|Contributed|RPI_PICO_TimerInterrupt
 https://github.com/dpnebert/TLC5916_Lite.git|Contributed|TLC5916_Lite
 https://github.com/kulbhushanchand/MCP4251.git|Contributed|MCP4251
+https://github.com/ARTS37/SerialMenuCmd.git|Contributed|SerialMenuCmd
