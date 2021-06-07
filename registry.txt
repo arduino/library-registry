@@ -4068,3 +4068,4 @@ https://github.com/RCmags/vector_datatype.git|Contributed|Vector datatype
 https://github.com/RCmags/ADNS3080.git|Contributed|ADNS3080
 https://github.com/RCmags/basicMPU6050.git|Contributed|basicMPU6050
 https://github.com/RCmags/imuFilter.git|Contributed|imuFilter
+https://github.com/pierremolinaro/rp2040-charlieplexing.git|Contributed|RP2040_PIO_Charlieplexing
