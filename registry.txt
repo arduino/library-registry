@@ -4071,3 +4071,4 @@ https://github.com/RCmags/imuFilter.git|Contributed|imuFilter
 https://github.com/pierremolinaro/rp2040-charlieplexing.git|Contributed|RP2040_PIO_Charlieplexing
 https://github.com/Mysues/ERO.git|Contributed|ERO
 https://github.com/dimag0g/PPM-reader.git|Contributed|PPM-reader
+https://github.com/FPGAArcade/replay_mkrvidor4000.git|Contributed|FPGAArcade Replay MKR Vidor 4000
