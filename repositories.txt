@@ -1,3 +1,4 @@
+https://github.com/RobTillaart/MAX14661
 https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library
 https://github.com/bitbank2/PNGdec
 https://github.com/noah1510/generic-Arduino
