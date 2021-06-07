@@ -1,3 +1,7 @@
+https://github.com/RCmags/vector_datatype
+https://github.com/RCmags/ADNS3080
+https://github.com/RCmags/basicMPU6050
+https://github.com/RCmags/imuFilter
 https://github.com/RobTillaart/MAX14661
 https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library
 https://github.com/bitbank2/PNGdec
