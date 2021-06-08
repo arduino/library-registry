@@ -3969,3 +3969,4 @@ https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-ardui
 https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/FPGAArcade/replay_mkrvidor4000
+https://github.com/Picovoice/picovoice-arduino-en
