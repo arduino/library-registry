@@ -4073,3 +4073,4 @@ https://github.com/Mysues/ERO.git|Contributed|ERO
 https://github.com/dimag0g/PPM-reader.git|Contributed|PPM-reader
 https://github.com/FPGAArcade/replay_mkrvidor4000.git|Contributed|FPGAArcade Replay MKR Vidor 4000
 https://github.com/Picovoice/picovoice-arduino-en.git|Contributed|Picovoice_EN
+https://github.com/khoih-prog/MBED_RPI_PICO_TimerInterrupt.git|Contributed|MBED_RPI_PICO_TimerInterrupt
