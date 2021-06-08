@@ -4075,3 +4075,4 @@ https://github.com/FPGAArcade/replay_mkrvidor4000.git|Contributed|FPGAArcade Rep
 https://github.com/Picovoice/picovoice-arduino-en.git|Contributed|Picovoice_EN
 https://github.com/khoih-prog/MBED_RPI_PICO_TimerInterrupt.git|Contributed|MBED_RPI_PICO_TimerInterrupt
 https://github.com/tigoe/sACNSource.git|Contributed|sACNSource
+https://github.com/Infineon/arduino-radar-bgt60.git|Contributed|radar-bgt60
