@@ -1935,6 +1935,7 @@ https://github.com/LennartHennigs/ESPRotary
 https://github.com/LennartHennigs/ESPTelnet
 https://github.com/LennartHennigs/M5FacesEncoder
 https://github.com/LennartHennigs/OTAWrapper
+https://github.com/lenvm/SercomSPISlave
 https://github.com/leomil72/analogComp
 https://github.com/leomil72/leOS
 https://github.com/leomil72/leOS2
