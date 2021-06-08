@@ -3970,3 +3970,4 @@ https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/FPGAArcade/replay_mkrvidor4000
 https://github.com/Picovoice/picovoice-arduino-en
+https://github.com/khoih-prog/MBED_RPI_PICO_TimerInterrupt
