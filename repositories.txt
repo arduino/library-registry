@@ -1548,6 +1548,7 @@ https://github.com/INFICON-Spot/inficon-spot-lib
 https://github.com/Infineon/arduino-optiga-trust-m
 https://github.com/Infineon/arduino-optiga-trust-x
 https://github.com/Infineon/arduino-rgb-led-lighting-shield
+https://github.com/Infineon/arduino-radar-bgt60
 https://github.com/Infineon/DC-Motor-Control-TLE94112EL
 https://github.com/Infineon/DPS310-Pressure-Sensor
 https://github.com/Infineon/hall-switch
