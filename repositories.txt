@@ -3979,3 +3979,4 @@ https://github.com/PodgroupConnectivity/PodEnoSim
 https://github.com/bitbank2/unzipLIB
 https://github.com/maxmacstn/ESP32-Canon-BLE-Remote
 https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X
+https://github.com/PribaNosati/mrm-fet-can
