@@ -4080,3 +4080,4 @@ https://github.com/PodgroupConnectivity/PodEnoSim.git|Contributed|PodEnoSim
 https://github.com/lenvm/SercomSPISlave.git|Contributed|Sercom SPI Slave
 https://github.com/bitbank2/unzipLIB.git|Contributed|unzipLIB
 https://github.com/maxmacstn/ESP32-Canon-BLE-Remote.git|Contributed|Canon BLE remote
+https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X.git|Contributed|Grove Ranging sensor - VL53L0X
