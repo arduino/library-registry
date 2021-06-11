@@ -4082,3 +4082,4 @@ https://github.com/bitbank2/unzipLIB.git|Contributed|unzipLIB
 https://github.com/maxmacstn/ESP32-Canon-BLE-Remote.git|Contributed|Canon BLE remote
 https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X.git|Contributed|Grove Ranging sensor - VL53L0X
 https://github.com/RobTillaart/TCA9555.git|Contributed|TCA9555
+https://github.com/khoih-prog/LittleFS_Mbed_RP2040.git|Contributed|LittleFS_Mbed_RP2040
