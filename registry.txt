@@ -4083,3 +4083,7 @@ https://github.com/maxmacstn/ESP32-Canon-BLE-Remote.git|Contributed|Canon BLE re
 https://github.com/Seeed-Studio/Grove-Ranging-sensor-VL53L0X.git|Contributed|Grove Ranging sensor - VL53L0X
 https://github.com/RobTillaart/TCA9555.git|Contributed|TCA9555
 https://github.com/khoih-prog/LittleFS_Mbed_RP2040.git|Contributed|LittleFS_Mbed_RP2040
+https://github.com/grafana/arduino-snappy-proto.git|Contributed|SnappyProto
+https://github.com/grafana/arduino-prom-loki-transport.git|Contributed|PromLokiTransport
+https://github.com/grafana/loki-arduino.git|Contributed|GrafanaLoki
+https://github.com/grafana/prometheus-arduino.git|Contributed|PrometheusArduino
