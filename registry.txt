@@ -4087,3 +4087,4 @@ https://github.com/grafana/arduino-snappy-proto.git|Contributed|SnappyProto
 https://github.com/grafana/arduino-prom-loki-transport.git|Contributed|PromLokiTransport
 https://github.com/grafana/loki-arduino.git|Contributed|GrafanaLoki
 https://github.com/grafana/prometheus-arduino.git|Contributed|PrometheusArduino
+https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary.git|Contributed|PLCustomDevices
