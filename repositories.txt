@@ -3987,3 +3987,4 @@ https://github.com/grafana/arduino-prom-loki-transport
 https://github.com/grafana/loki-arduino
 https://github.com/grafana/prometheus-arduino
 https://github.com/fbiego/MpesaSTK
+https://github.com/khoih-prog/RP2040_RTC
