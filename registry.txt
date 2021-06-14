@@ -4088,3 +4088,4 @@ https://github.com/grafana/arduino-prom-loki-transport.git|Contributed|PromLokiT
 https://github.com/grafana/loki-arduino.git|Contributed|GrafanaLoki
 https://github.com/grafana/prometheus-arduino.git|Contributed|PrometheusArduino
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary.git|Contributed|PLCustomDevices
+https://github.com/fbiego/MpesaSTK.git|Contributed|MpesaSTK
