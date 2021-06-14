@@ -4090,3 +4090,4 @@ https://github.com/grafana/prometheus-arduino.git|Contributed|PrometheusArduino
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary.git|Contributed|PLCustomDevices
 https://github.com/fbiego/MpesaSTK.git|Contributed|MpesaSTK
 https://github.com/franalvarez21/Arduboy-BistercianNumbers.git|Contributed|Arduboy-BistercianNumbers
+https://github.com/khoih-prog/RP2040_RTC.git|Contributed|RP2040_RTC
