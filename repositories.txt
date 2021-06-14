@@ -1213,6 +1213,7 @@ https://github.com/FastLED/FastLED
 https://github.com/FatBeard/vbus-arduino-library
 https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatpat/arduino-dra818
+https://github.com/franalvarez21/Arduboy-BistercianNumbers
 https://github.com/fbiego/ESP32Time
 https://github.com/fdivitto/FabGL
 https://github.com/feilipu/Arduino_FreeRTOS_Library
