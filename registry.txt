@@ -4092,3 +4092,4 @@ https://github.com/fbiego/MpesaSTK.git|Contributed|MpesaSTK
 https://github.com/franalvarez21/Arduboy-BistercianNumbers.git|Contributed|Arduboy-BistercianNumbers
 https://github.com/khoih-prog/RP2040_RTC.git|Contributed|RP2040_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_Audio.git|Contributed|Seeed Arduino Audio
+https://github.com/rneurink/VL53L1X_ULD.git|Contributed|VL53L1X_ULD
