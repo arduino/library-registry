@@ -4094,3 +4094,4 @@ https://github.com/khoih-prog/RP2040_RTC.git|Contributed|RP2040_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_Audio.git|Contributed|Seeed Arduino Audio
 https://github.com/rneurink/VL53L1X_ULD.git|Contributed|VL53L1X_ULD
 https://github.com/kmpelectronics/KMP_RS485.git|Contributed|KMP_RS485
+https://github.com/GLEE2023/GLEE2023.git|Contributed|GLEE2023
