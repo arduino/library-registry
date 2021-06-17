@@ -4095,3 +4095,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_Audio.git|Contributed|Seeed Arduin
 https://github.com/rneurink/VL53L1X_ULD.git|Contributed|VL53L1X_ULD
 https://github.com/kmpelectronics/KMP_RS485.git|Contributed|KMP_RS485
 https://github.com/GLEE2023/GLEE2023.git|Contributed|GLEE2023
+https://github.com/ianhattwick/controlVoltage.git|Contributed|modularCV
