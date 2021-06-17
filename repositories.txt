@@ -3992,3 +3992,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_Audio
 https://github.com/rneurink/VL53L1X_ULD
 https://github.com/kmpelectronics/KMP_RS485
 https://github.com/GLEE2023/GLEE2023
+https://github.com/ianhattwick/controlVoltage/tree/v1.0.0
