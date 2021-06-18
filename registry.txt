@@ -4099,3 +4099,4 @@ https://github.com/ianhattwick/controlVoltage.git|Contributed|modularCV
 https://github.com/jihoonkimtech/ClockForSeg_Lib.git|Contributed|ClockForSeg_Lib
 https://github.com/sebmillet/RF433any.git|Contributed|RF433any
 https://github.com/sebmillet/DelayExec.git|Contributed|DelayExec
+https://github.com/otadrive/OTAdriveESP.git|Contributed|OTAdrive_ESP
