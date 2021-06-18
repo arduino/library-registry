@@ -3994,3 +3994,5 @@ https://github.com/kmpelectronics/KMP_RS485
 https://github.com/GLEE2023/GLEE2023
 https://github.com/ianhattwick/controlVoltage
 https://github.com/jihoonkimtech/ClockForSeg_Lib
+https://github.com/sebmillet/RF433any
+https://github.com/sebmillet/DelayExec
