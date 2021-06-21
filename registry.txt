@@ -4102,3 +4102,4 @@ https://github.com/sebmillet/DelayExec.git|Contributed|DelayExec
 https://github.com/otadrive/OTAdriveESP.git|Contributed|OTAdrive_ESP
 https://github.com/khoih-prog/RP2040_SD.git|Contributed|RP2040_SD
 https://github.com/neosarchizo/am1008w_k_i2c.git|Contributed|AM1008W-K I2C
+https://github.com/musicplayer0/solar2lunar.git|Contributed|solar2lunar
