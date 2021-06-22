@@ -2103,6 +2103,7 @@ https://github.com/madhephaestus/lx16a-servo
 https://github.com/madhephaestus/PVision
 https://github.com/madhephaestus/SimplePacketComs
 https://github.com/madhephaestus/TeensySimplePacketComs
+https://github.com/madhephaestus/TinyUSBSimplePacketComs
 https://github.com/madhephaestus/WiiChuck
 https://github.com/madleech/Button
 https://github.com/madleech/TurnoutPulser
