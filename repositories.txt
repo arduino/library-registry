@@ -369,6 +369,7 @@ https://github.com/almavios/almavios-lit-mqtt
 https://github.com/AloriumTechnology/evo_bsp
 https://github.com/AloriumTechnology/evo_build_template
 https://github.com/AloriumTechnology/evo_pmux_csr
+https://github.com/AloriumTechnology/evo_servo
 https://github.com/AloriumTechnology/UbidotsXLR8
 https://github.com/AloriumTechnology/XLR8ADC
 https://github.com/AloriumTechnology/XLR8AddrPack
