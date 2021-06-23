@@ -4105,3 +4105,4 @@ https://github.com/neosarchizo/am1008w_k_i2c.git|Contributed|AM1008W-K I2C
 https://github.com/musicplayer0/solar2lunar.git|Contributed|solar2lunar
 https://github.com/AloriumTechnology/evo_servo.git|Contributed|evo_servo
 https://github.com/madhephaestus/TinyUSBSimplePacketComs.git|Contributed|TinyUSBSimplePacketComs
+https://github.com/cotestatnt/esp-fs-webserver.git|Contributed|esp-fs-webserver
