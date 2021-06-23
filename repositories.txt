@@ -4003,3 +4003,4 @@ https://github.com/khoih-prog/RP2040_SD
 https://github.com/neosarchizo/am1008w_k_i2c
 https://github.com/musicplayer0/solar2lunar
 https://github.com/cotestatnt/esp-fs-webserver
+https://github.com/sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library
