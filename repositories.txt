@@ -813,6 +813,7 @@ https://github.com/casanovg/Nb_TwiBus
 https://github.com/casanovg/nb-twi-cmd
 https://github.com/cattanimarco/Grafici-GFX
 https://github.com/cDnNeMeSiS/xbee_serial_array
+https://github.com/CelliesProjects/ESP32_VS1053_Stream
 https://github.com/CelliesProjects/moonPhase-esp32
 https://github.com/CelliesProjects/wm8978-esp32
 https://github.com/cerebro11101/CerebroBoards
