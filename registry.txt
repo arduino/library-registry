@@ -4110,3 +4110,4 @@ https://github.com/sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library.
 https://github.com/jgOhYeah/LCDGraph.git|Contributed|LCDGraph
 https://github.com/jgOhYeah/TunePlayer.git|Contributed|TunePlayer
 https://github.com/KevinMiller77/TwoWayESP.git|Contributed|Two Way ESP
+https://github.com/CelliesProjects/ESP32_VS1053_Stream.git|Contributed|ESP32_VS1053_Stream
