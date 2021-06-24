@@ -1681,6 +1681,8 @@ https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04
 https://github.com/jeroenvermeulen/JeVe_EasyOTA
 https://github.com/jfitter/MLX90614
 https://github.com/jfjlaros/simpleRPC
+https://github.com/jgOhYeah/LCDGraph
+https://github.com/jgOhYeah/TunePlayer
 https://github.com/jgromes/RadioLib
 https://github.com/JHershey69/DarkSkySevenDay
 https://github.com/jhershey69/MoonStruck
