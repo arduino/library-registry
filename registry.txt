@@ -4107,3 +4107,5 @@ https://github.com/AloriumTechnology/evo_servo.git|Contributed|evo_servo
 https://github.com/madhephaestus/TinyUSBSimplePacketComs.git|Contributed|TinyUSBSimplePacketComs
 https://github.com/cotestatnt/esp-fs-webserver.git|Contributed|esp-fs-webserver
 https://github.com/sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library.git|Contributed|SparkFun Serial Fingerprint Scanners AS-108M and AD-013
+https://github.com/jgOhYeah/LCDGraph.git|Contributed|LCDGraph
+https://github.com/jgOhYeah/TunePlayer.git|Contributed|TunePlayer
