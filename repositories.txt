@@ -2276,6 +2276,7 @@ https://github.com/miguelbalboa/rfid
 https://github.com/MiguelPynto/ShiftDisplay
 https://github.com/mihai-dinculescu/arduino-gravity-soil-moisture-sensor
 https://github.com/mikalhart/IridiumSBD
+https://github.com/mikalhart/TinyGPSPlus
 https://github.com/mike-matera/ArduinoSTL
 https://github.com/mike-matera/FastPID
 https://github.com/MikeDombo/HV518_Arduino
