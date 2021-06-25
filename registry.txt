@@ -4117,3 +4117,5 @@ https://github.com/newdigate/teensy-variable-playback.git|Contributed|TeensyVari
 https://github.com/RobTillaart/SGP30.git|Contributed|SGP30
 https://github.com/Incuvers/macro-logger.git|Contributed|MacroLogger
 https://github.com/nailujx86/ESP8266_multipart.git|Contributed|ESP8266_multipart
+https://github.com/skabrits/StringAction.git|Contributed|StringAction
+https://github.com/skabrits/SpeedMeasurer.git|Contributed|SpeedMeasurer
