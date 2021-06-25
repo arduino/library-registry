@@ -4014,3 +4014,5 @@ https://github.com/FANTM/libdevlpr
 https://github.com/Matrix-Robotics/MatrixMotionSensor
 https://github.com/Incuvers/macro-logger
 https://github.com/nailujx86/ESP8266_multipart
+https://github.com/skabrits/StringAction
+https://github.com/skabrits/SpeedMeasurer
