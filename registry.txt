@@ -4114,3 +4114,4 @@ https://github.com/CelliesProjects/ESP32_VS1053_Stream.git|Contributed|ESP32_VS1
 https://github.com/FANTM/libdevlpr.git|Contributed|Libdevlpr
 https://github.com/Matrix-Robotics/MatrixMotionSensor.git|Contributed|Matrix Motion Sensor Library
 https://github.com/newdigate/teensy-variable-playback.git|Contributed|TeensyVariablePlayback
+https://github.com/RobTillaart/SGP30.git|Contributed|SGP30
