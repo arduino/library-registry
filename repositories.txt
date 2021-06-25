@@ -2981,6 +2981,7 @@ https://github.com/RobTillaart/runningAngle
 https://github.com/RobTillaart/RunningAverage
 https://github.com/RobTillaart/RunningMedian
 https://github.com/RobTillaart/SET
+https://github.com/RobTillaart/SGP30
 https://github.com/RobTillaart/SHEX
 https://github.com/RobTillaart/ShiftInSlow
 https://github.com/RobTillaart/ShiftOutSlow
