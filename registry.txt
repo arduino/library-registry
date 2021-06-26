@@ -4119,3 +4119,4 @@ https://github.com/Incuvers/macro-logger.git|Contributed|MacroLogger
 https://github.com/nailujx86/ESP8266_multipart.git|Contributed|ESP8266_multipart
 https://github.com/skabrits/StringAction.git|Contributed|StringAction
 https://github.com/skabrits/SpeedMeasurer.git|Contributed|SpeedMeasurer
+https://github.com/sebmillet/rf433send.git|Contributed|RF433send
