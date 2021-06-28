@@ -3910,7 +3910,6 @@ https://github.com/RAKWireless/RAK14002-CAP1293-Library.git|Contributed|RAKwirel
 https://github.com/RAKWireless/RAK14001-NCP5623-Library.git|Contributed|RAKwireless NCP5623 RGB LED library
 https://github.com/blues/notecard-pseudo-sensor.git|Contributed|Blues Wireless Notecard Pseudo Sensor
 https://github.com/khoih-prog/SmallProjects.git|Contributed|SmallProjects
-https://github.com/Matrix-Robotics/MatrixColorSensor.git|Contributed|Matrix Color Sensor Library
 https://github.com/seralo/ZzzMovingAvg.git|Contributed|ZzzMovingAvg
 https://github.com/lnlp/EasyLed.git|Contributed|EasyLed
 https://github.com/asukiaaa/arduino-MotorCVD.git|Contributed|MotorCVD_asukiaaa
