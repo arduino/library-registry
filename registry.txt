@@ -4122,3 +4122,4 @@ https://github.com/skabrits/SpeedMeasurer.git|Contributed|SpeedMeasurer
 https://github.com/sebmillet/rf433send.git|Contributed|RF433send
 https://github.com/cvmanjoo/AT24Cxx.git|Contributed|AT24Cxx
 https://github.com/ekkai/WizFi360.git|Contributed|WizFi360
+https://github.com/mathertel/RFCodes.git|Contributed|RFCodes
