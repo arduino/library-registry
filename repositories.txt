@@ -2188,6 +2188,7 @@ https://github.com/mathertel/DMXSerial2
 https://github.com/mathertel/LiquidCrystal_PCF8574
 https://github.com/mathertel/OneButton
 https://github.com/mathertel/Radio
+https://github.com/mathertel/RFCodes
 https://github.com/mathertel/RotaryEncoder
 https://github.com/mathworks/thingspeak-arduino
 https://github.com/matmunk/DS18B20
