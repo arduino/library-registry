@@ -2192,7 +2192,6 @@ https://github.com/mathertel/RotaryEncoder
 https://github.com/mathworks/thingspeak-arduino
 https://github.com/matmunk/DS18B20
 https://github.com/matmunk/LiquidCrystal_74HC595
-https://github.com/Matrix-Robotics/MatrixColorSensor
 https://github.com/MatrixOrbital/MatrixOrbitalGTTClientLibrary
 https://github.com/matsujirushi/MjGrove
 https://github.com/mattairtech/EEPROM_CAT25
@@ -4011,7 +4010,6 @@ https://github.com/cotestatnt/esp-fs-webserver
 https://github.com/sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library
 https://github.com/KevinMiller77/TwoWayESP
 https://github.com/FANTM/libdevlpr
-https://github.com/Matrix-Robotics/MatrixMotionSensor
 https://github.com/Incuvers/macro-logger
 https://github.com/nailujx86/ESP8266_multipart
 https://github.com/skabrits/StringAction
