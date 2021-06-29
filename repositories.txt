@@ -3404,6 +3404,7 @@ https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
 https://github.com/sparkfun/SparkFun_RV-1805_Arduino_Library
 https://github.com/sparkfun/SparkFun_RV-8803_Arduino_Library
 https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library
+https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library
 https://github.com/sparkfun/SparkFun_SDP3x_Arduino_Library
 https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library
 https://github.com/sparkfun/SparkFun_SerLCD_Arduino_Library
