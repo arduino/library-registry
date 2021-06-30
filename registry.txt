@@ -4126,3 +4126,4 @@ https://github.com/mathertel/RFCodes.git|Contributed|RFCodes
 https://github.com/arduino-libraries/Arduino_PortentaBreakoutLibrary.git|Arduino|Arduino_PortentaBreakoutCarrier
 https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library.git|Contributed|SparkFun SCD4x Arduino Library
 https://github.com/Silver-Fang/TimersOneForAll.git|Contributed|TimersOneForAll
+https://github.com/Rupakpoddar/ESP8266Firebase.git|Contributed|ESP8266 Firebase
