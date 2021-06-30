@@ -3910,7 +3910,6 @@ https://github.com/RAKWireless/RAK14002-CAP1293-Library.git|Contributed|RAKwirel
 https://github.com/RAKWireless/RAK14001-NCP5623-Library.git|Contributed|RAKwireless NCP5623 RGB LED library
 https://github.com/blues/notecard-pseudo-sensor.git|Contributed|Blues Wireless Notecard Pseudo Sensor
 https://github.com/khoih-prog/SmallProjects.git|Contributed|SmallProjects
-https://github.com/Matrix-Robotics/MatrixColorSensor.git|Contributed|Matrix Color Sensor Library
 https://github.com/seralo/ZzzMovingAvg.git|Contributed|ZzzMovingAvg
 https://github.com/lnlp/EasyLed.git|Contributed|EasyLed
 https://github.com/asukiaaa/arduino-MotorCVD.git|Contributed|MotorCVD_asukiaaa
@@ -4112,7 +4111,6 @@ https://github.com/jgOhYeah/TunePlayer.git|Contributed|TunePlayer
 https://github.com/KevinMiller77/TwoWayESP.git|Contributed|Two Way ESP
 https://github.com/CelliesProjects/ESP32_VS1053_Stream.git|Contributed|ESP32_VS1053_Stream
 https://github.com/FANTM/libdevlpr.git|Contributed|Libdevlpr
-https://github.com/Matrix-Robotics/MatrixMotionSensor.git|Contributed|Matrix Motion Sensor Library
 https://github.com/newdigate/teensy-variable-playback.git|Contributed|TeensyVariablePlayback
 https://github.com/RobTillaart/SGP30.git|Contributed|SGP30
 https://github.com/Incuvers/macro-logger.git|Contributed|MacroLogger
