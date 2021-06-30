@@ -491,7 +491,6 @@ https://github.com/arduino-libraries/Arduino_MKRTHERM
 https://github.com/arduino-libraries/Arduino_NineAxesMotion
 https://github.com/arduino-libraries/Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_OV767X
-https://github.com/arduino-libraries/Arduino_PortentaBreakoutLibrary
 https://github.com/arduino-libraries/Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_ScienceJournal
@@ -1039,6 +1038,7 @@ https://github.com/Dlloydev/ESP32-ESP32S2-AnalogWrite
 https://github.com/Dlloydev/QuickPID
 https://github.com/dlyckelid/KX023-1025-IMU
 https://github.com/dmadison/ArduinoXInput
+https://github.com/dmadison/CtrlUtil
 https://github.com/dmadison/HID_Buttons
 https://github.com/dmadison/NintendoExtensionCtrl
 https://github.com/dmadison/ServoInput
@@ -3862,6 +3862,7 @@ https://github.com/Wiznet/WizFi250_arduino_library
 https://github.com/Wiznet/WizFi310_arduino_library
 https://github.com/wloche/LcdProgressBar
 https://github.com/wloche/LcdProgressBarDouble
+https://github.com/wokwi/TinyDebug
 https://github.com/wolfv6/keybrd
 https://github.com/Wolkabout/WolkConnect-Arduino
 https://github.com/wollewald/ADS1115_WE
@@ -4021,3 +4022,6 @@ https://github.com/skabrits/SpeedMeasurer
 https://github.com/sebmillet/rf433send
 https://github.com/cvmanjoo/AT24Cxx
 https://github.com/ekkai/WizFi360
+https://github.com/Silver-Fang/TimersOneForAll
+https://github.com/Rupakpoddar/ESP8266Firebase
+https://github.com/Rupakpoddar/ESP8266Webhook
