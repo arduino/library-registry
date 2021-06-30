@@ -4129,3 +4129,4 @@ https://github.com/Silver-Fang/TimersOneForAll.git|Contributed|TimersOneForAll
 https://github.com/Rupakpoddar/ESP8266Firebase.git|Contributed|ESP8266 Firebase
 https://github.com/dmadison/CtrlUtil.git|Contributed|Controller Utilities
 https://github.com/Rupakpoddar/ESP8266Webhook.git|Contributed|ESP8266 Webhooks
+https://github.com/wokwi/TinyDebug.git|Contributed|TinyDebug
