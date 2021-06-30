@@ -3861,6 +3861,7 @@ https://github.com/Wiznet/WizFi250_arduino_library
 https://github.com/Wiznet/WizFi310_arduino_library
 https://github.com/wloche/LcdProgressBar
 https://github.com/wloche/LcdProgressBarDouble
+https://github.com/wokwi/TinyDebug
 https://github.com/wolfv6/keybrd
 https://github.com/Wolkabout/WolkConnect-Arduino
 https://github.com/wollewald/ADS1115_WE
