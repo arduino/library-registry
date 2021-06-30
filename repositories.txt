@@ -598,7 +598,6 @@ https://github.com/arpruss/vectordisplayarduino
 https://github.com/ARSadri/PushButtonClicks
 https://github.com/ArsaLearn/Arsa-Main
 https://github.com/arsalmaner/Arduino-Libraries
-https://github.com/arturo182/arduino_bbq10kbd
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
 https://github.com/aspenforest/SIM800
@@ -3278,6 +3277,7 @@ https://github.com/SofaPirate/Plaquette
 https://github.com/SofaPirate/SlipMassage
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
+https://github.com/solderparty/arduino_bbq10kbd
 https://github.com/solidsnake745/MIDI_Device_Controller
 https://github.com/somefunAgba/ModernPIDControlSS
 https://github.com/somsinchai/IBot
