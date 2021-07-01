@@ -491,6 +491,7 @@ https://github.com/arduino-libraries/Arduino_MKRTHERM
 https://github.com/arduino-libraries/Arduino_NineAxesMotion
 https://github.com/arduino-libraries/Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_OV767X
+https://github.com/arduino-libraries/Arduino_PortentaBreakout
 https://github.com/arduino-libraries/Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_ScienceJournal
