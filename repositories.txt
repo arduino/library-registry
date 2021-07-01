@@ -1785,6 +1785,7 @@ https://github.com/kd8bxp/Word100
 https://github.com/kdhooper/arduino-CheapLCD
 https://github.com/keigan-motor/Arduino-I2C-KM1
 https://github.com/keimochizuki/cgnuino
+https://github.com/kevinstadler/TCS34725AutoGain
 https://github.com/keyro90/AFArray
 https://github.com/khoih-prog/AsyncDNSServer_STM32
 https://github.com/khoih-prog/AsyncHTTPRequest_Generic
