@@ -4129,3 +4129,4 @@ https://github.com/Rupakpoddar/ESP8266Webhook.git|Contributed|ESP8266 Webhooks
 https://github.com/wokwi/TinyDebug.git|Contributed|TinyDebug
 https://github.com/chochain/nanoFORTH.git|Contributed|nanoFORTH
 https://github.com/kevinstadler/TCS34725AutoGain.git|Contributed|TCS34725AutoGain
+https://github.com/arduino-libraries/Arduino_PortentaBreakout.git|Arduino|Arduino_PortentaBreakout
