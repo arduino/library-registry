@@ -4132,3 +4132,4 @@ https://github.com/kevinstadler/TCS34725AutoGain.git|Contributed|TCS34725AutoGai
 https://github.com/arduino-libraries/Arduino_PortentaBreakout.git|Arduino|Arduino_PortentaBreakout
 https://github.com/Ant2000/CustomJWT.git|Contributed|CustomJWT
 https://github.com/maquinitas/MaquinitasParameters.git|Contributed|MaquinitasParameters
+https://github.com/DavidArmstrong/SiderealPlanets.git|Contributed|SiderealPlanets
