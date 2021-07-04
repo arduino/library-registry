@@ -4030,3 +4030,4 @@ https://github.com/Rupakpoddar/ESP8266Firebase
 https://github.com/Rupakpoddar/ESP8266Webhook
 https://github.com/Ant2000/CustomJWT
 https://github.com/DavidArmstrong/SiderealPlanets
+https://github.com/rneurink/LP50XX/
