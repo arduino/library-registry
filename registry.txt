@@ -4134,3 +4134,4 @@ https://github.com/Ant2000/CustomJWT.git|Contributed|CustomJWT
 https://github.com/maquinitas/MaquinitasParameters.git|Contributed|MaquinitasParameters
 https://github.com/DavidArmstrong/SiderealPlanets.git|Contributed|SiderealPlanets
 https://github.com/rneurink/LP50XX.git|Contributed|LP50XX
+https://github.com/Treboada/Ds1302.git|Contributed|Ds1302
