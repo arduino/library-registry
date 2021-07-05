@@ -4034,3 +4034,4 @@ https://github.com/Ant2000/CustomJWT
 https://github.com/DavidArmstrong/SiderealPlanets
 https://github.com/rneurink/LP50XX/
 https://github.com/Treboada/Ds1302
+https://github.com/Fraunhofer-IMS/AIfES_for_Arduino
