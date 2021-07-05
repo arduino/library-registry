@@ -2806,6 +2806,8 @@ https://github.com/rafaelnsantos/Relay
 https://github.com/rahulstva/Motor_RS
 https://github.com/RAKWireless/RAK14001-NCP5623-Library
 https://github.com/RAKWireless/RAK14002-CAP1293-Library
+https://github.com/RAKWireless/RAK-MQx-Library
+https://github.com/RAKWireless/RAK13005-TLE7259-Library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/rasmushedeager/sducar
