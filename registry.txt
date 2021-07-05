@@ -4135,3 +4135,5 @@ https://github.com/maquinitas/MaquinitasParameters.git|Contributed|MaquinitasPar
 https://github.com/DavidArmstrong/SiderealPlanets.git|Contributed|SiderealPlanets
 https://github.com/rneurink/LP50XX.git|Contributed|LP50XX
 https://github.com/Treboada/Ds1302.git|Contributed|Ds1302
+https://github.com/RAKWireless/RAK-MQx-Library.git|Contributed|RAKwireless MQx library
+https://github.com/RAKWireless/RAK13005-TLE7259-Library.git|Contributed|RAKwireless TLE7259 LIN Bus library
