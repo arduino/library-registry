@@ -4145,3 +4145,4 @@ https://github.com/Matrix-Robotics/MatrixMotorExtension.git|Contributed|Matrix M
 https://github.com/Matrix-Robotics/MatrixController.git|Contributed|Matrix Controller
 https://github.com/Matrix-Robotics/MatrixServoExtension.git|Contributed|Matrix Servo Extension
 https://github.com/Matrix-Robotics/MatrixMotionSensor.git|Contributed|Matrix Motion Sensor
+https://github.com/khoih-prog/WebServer_WT32_ETH01.git|Contributed|WebServer_WT32_ETH01
