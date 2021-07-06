@@ -4147,3 +4147,4 @@ https://github.com/Matrix-Robotics/MatrixServoExtension.git|Contributed|Matrix S
 https://github.com/Matrix-Robotics/MatrixMotionSensor.git|Contributed|Matrix Motion Sensor
 https://github.com/khoih-prog/WebServer_WT32_ETH01.git|Contributed|WebServer_WT32_ETH01
 https://github.com/tig/FlashStringTable.git|Contributed|FlashStringTable
+https://github.com/solderparty/arduino_tsc2004.git|Contributed|TSC2004
