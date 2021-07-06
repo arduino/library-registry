@@ -4131,7 +4131,7 @@ https://github.com/chochain/nanoFORTH.git|Contributed|nanoFORTH
 https://github.com/kevinstadler/TCS34725AutoGain.git|Contributed|TCS34725AutoGain
 https://github.com/arduino-libraries/Arduino_PortentaBreakout.git|Arduino|Arduino_PortentaBreakout
 https://github.com/Ant2000/CustomJWT.git|Contributed|CustomJWT
-https://github.com/maquinitas/MaquinitasParameters.git|Contributed|MaquinitasParams
+https://github.com/maquinitas/MaquinitasParams.git|Contributed|MaquinitasParams
 https://github.com/DavidArmstrong/SiderealPlanets.git|Contributed|SiderealPlanets
 https://github.com/rneurink/LP50XX.git|Contributed|LP50XX
 https://github.com/Treboada/Ds1302.git|Contributed|Ds1302
