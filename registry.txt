@@ -4138,3 +4138,4 @@ https://github.com/Treboada/Ds1302.git|Contributed|Ds1302
 https://github.com/RAKWireless/RAK-MQx-Library.git|Contributed|RAKwireless MQx library
 https://github.com/RAKWireless/RAK13005-TLE7259-Library.git|Contributed|RAKwireless TLE7259 LIN Bus library
 https://github.com/Fraunhofer-IMS/AIfES_for_Arduino.git|Contributed|AIfES for Arduino
+https://github.com/RobotGrrl/PolylineArduino.git|Contributed|Polyline
