@@ -3285,6 +3285,7 @@ https://github.com/SofaPirate/SlipMassage
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
 https://github.com/solderparty/arduino_bbq10kbd
+https://github.com/solderparty/arduino_tsc2004
 https://github.com/solidsnake745/MIDI_Device_Controller
 https://github.com/somefunAgba/ModernPIDControlSS
 https://github.com/somsinchai/IBot
