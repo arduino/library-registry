@@ -4036,3 +4036,9 @@ https://github.com/DavidArmstrong/SiderealPlanets
 https://github.com/rneurink/LP50XX/
 https://github.com/Treboada/Ds1302
 https://github.com/Fraunhofer-IMS/AIfES_for_Arduino
+https://github.com/Matrix-Robotics/MatrixUltrasonicSensor
+https://github.com/Matrix-Robotics/MatrixColorSensor
+https://github.com/Matrix-Robotics/MatrixMotorExtension
+https://github.com/Matrix-Robotics/MatrixController
+https://github.com/Matrix-Robotics/MatrixServoExtension
+https://github.com/Matrix-Robotics/MatrixMotionSensor
