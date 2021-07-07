@@ -4151,3 +4151,4 @@ https://github.com/solderparty/arduino_tsc2004.git|Contributed|TSC2004
 https://github.com/radariq/arduino-library.git|Contributed|RadarIQ
 https://github.com/Infineon/arduino-pas-co2-sensor.git|Contributed|pas-co2-sensor
 https://gitlab.com/riva-lab/fastIO.git|Contributed|fastIO
+https://gitlab.com/riva-lab/SevenSegmentPanel.git|Contributed|SevenSegmentPanel
