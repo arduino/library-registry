@@ -4048,3 +4048,4 @@ https://github.com/khoih-prog/WebServer_WT32_ETH01
 https://github.com/tig/FlashStringTable
 https://github.com/radariq/arduino-library
 https://gitlab.com/riva-lab/fastIO
+https://gitlab.com/riva-lab/SevenSegmentPanel
