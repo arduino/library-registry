@@ -1562,6 +1562,7 @@ https://github.com/Infineon/hall-switch
 https://github.com/Infineon/high-side-switch
 https://github.com/Infineon/IFX007T-Motor-Control
 https://github.com/Infineon/OPTIGA-Trust-E-Security-Controller
+https://github.com/Infineon/arduino-pas-co2-sensor
 https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202
 https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300
 https://github.com/Infineon/TLE493D-3DMagnetic-Sensor
