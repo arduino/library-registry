@@ -2321,6 +2321,7 @@ https://github.com/monolithicpower/MagAlpha-Arduino-Library
 https://github.com/monoxit/RTC4543lib
 https://github.com/MonsieurV/ArduinoPocketGeiger
 https://github.com/monstrenyatko/ArduinoMqtt
+https://github.com/montoyamoraga/SiguesAhi
 https://github.com/montoyamoraga/TinyTrainable
 https://github.com/moononournation/Arduino_GFX
 https://github.com/morcibacsi/arduino_tss463_van
