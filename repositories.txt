@@ -2155,6 +2155,7 @@ https://github.com/Makuna/Task
 https://github.com/maly/edushield
 https://github.com/MannyPeterson/HeliOS
 https://github.com/maquinitas/MaquinitasParams
+https://github.com/maquinitas/MaquinitasRitmos
 https://github.com/marccolemont/CRMX_TimoTwo
 https://github.com/marcinbor85/BlinkCode
 https://github.com/marcinbor85/microshell
