@@ -4154,3 +4154,4 @@ https://gitlab.com/riva-lab/fastIO.git|Contributed|fastIO
 https://gitlab.com/riva-lab/SevenSegmentPanel.git|Contributed|SevenSegmentPanel
 https://github.com/montoyamoraga/SiguesAhi.git|Contributed|SiguesAhi
 https://github.com/miathedev/KomootBLEConnect.git|Contributed|KomootBLEConnect
+https://github.com/maquinitas/MaquinitasRitmos.git|Contributed|MaquinitasRitmos
