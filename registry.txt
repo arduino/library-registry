@@ -4153,3 +4153,4 @@ https://github.com/Infineon/arduino-pas-co2-sensor.git|Contributed|pas-co2-senso
 https://gitlab.com/riva-lab/fastIO.git|Contributed|fastIO
 https://gitlab.com/riva-lab/SevenSegmentPanel.git|Contributed|SevenSegmentPanel
 https://github.com/montoyamoraga/SiguesAhi.git|Contributed|SiguesAhi
+https://github.com/miathedev/KomootBLEConnect.git|Contributed|KomootBLEConnect
