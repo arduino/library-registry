@@ -4155,3 +4155,4 @@ https://gitlab.com/riva-lab/SevenSegmentPanel.git|Contributed|SevenSegmentPanel
 https://github.com/montoyamoraga/SiguesAhi.git|Contributed|SiguesAhi
 https://github.com/miathedev/KomootBLEConnect.git|Contributed|KomootBLEConnect
 https://github.com/maquinitas/MaquinitasRitmos.git|Contributed|MaquinitasRitmos
+https://github.com/konikoni428/BM64_arduino.git|Contributed|BM64 Library
