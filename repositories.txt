@@ -4052,3 +4052,4 @@ https://github.com/tig/FlashStringTable
 https://github.com/radariq/arduino-library
 https://gitlab.com/riva-lab/fastIO
 https://gitlab.com/riva-lab/SevenSegmentPanel
+https://github.com/konikoni428/BM64_arduino
