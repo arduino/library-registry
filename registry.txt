@@ -4156,3 +4156,4 @@ https://github.com/montoyamoraga/SiguesAhi.git|Contributed|SiguesAhi
 https://github.com/miathedev/KomootBLEConnect.git|Contributed|KomootBLEConnect
 https://github.com/maquinitas/MaquinitasRitmos.git|Contributed|MaquinitasRitmos
 https://github.com/konikoni428/BM64_arduino.git|Contributed|BM64 Library
+https://github.com/MarlinFirmware/U8glib-HAL.git|Contributed|U8glib-HAL
