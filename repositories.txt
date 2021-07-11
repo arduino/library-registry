@@ -920,7 +920,7 @@ https://github.com/contrem/arduino-timer
 https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
 https://github.com/Controllino/ControllinoLibrary
 https://github.com/corneliusmunz/legoino
-https://github.com/cotestatnt/AsyncTelegram
+https://github.com/cotestatnt/AsyncTelegram2
 https://github.com/cotestatnt/YA_FSM
 https://github.com/CreativeRobotics/Commander
 https://github.com/cristborges/IRRemoteControl
