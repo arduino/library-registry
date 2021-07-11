@@ -3948,6 +3948,7 @@ https://github.com/Zanduino/RotaryEncoder
 https://github.com/Zanduino/SmoothLED_8bit
 https://github.com/Zanduino/SmoothLED
 https://github.com/Zanduino/VCNL4010
+https://github.com/Zerfoinder/EasyPin
 https://github.com/zerokol/eFLL
 https://github.com/zfields/nes-rob
 https://github.com/zharijs/FDC2214
