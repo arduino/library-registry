@@ -4057,3 +4057,4 @@ https://github.com/konikoni428/BM64_arduino
 https://github.com/MarlinFirmware/U8glib-HAL
 https://github.com/Abdurraziq/ZMPT101B-arduino
 https://github.com/khoih-prog/AsyncUDP_WT32_ETH01
+https://github.com/bitbank2/PNGenc
