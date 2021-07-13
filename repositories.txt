@@ -3866,6 +3866,7 @@ https://github.com/witnessmenow/arduino-youtube-api
 https://github.com/witnessmenow/BPLib
 https://github.com/witnessmenow/tindie-api-arduino
 https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+https://github.com/witnessmenow/youtube-livestream-arduino
 https://github.com/wizard97/ArduinoProcessScheduler
 https://github.com/wizard97/ArduinoRingBuffer
 https://github.com/wizard97/Embedded_RingBuf_CPP
