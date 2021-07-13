@@ -39,8 +39,6 @@ See the instructions below for detailed instructions on how to do this via the G
    GitHub web interface: https://github.com/arduino/library-registry/edit/main/repositories.txt
 1. Add the library repository's URL to the list. This should be the URL of the repository home page. For example:
    `https://github.com/arduino-libraries/Servo`.
-1. At the bottom of the page, select the radio button next to **"Create a new branch for this commit and start a pull
-   request."**
 1. Click the <kbd>Propose changes</kbd> button.
 1. In the **"Open a pull request"** window that opens, click the <kbd>Create pull request</kbd> button.
 
