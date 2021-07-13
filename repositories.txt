@@ -4060,3 +4060,4 @@ https://github.com/Abdurraziq/ZMPT101B-arduino
 https://github.com/khoih-prog/AsyncUDP_WT32_ETH01
 https://github.com/bitbank2/PNGenc
 https://github.com/italo-coelho/pushButton
+https://github.com/Flinduino/Flinduino_SensorKit
