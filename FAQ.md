@@ -136,9 +136,12 @@ http://downloads.arduino.cc/libraries/logs/github.com/arduino-libraries/Servo/
 
 ### How can I remove a release of my library from Library Manager?
 
-In order to **un**publish a problematic library version, delete its related tag/release.
+If you discover a problem with the library release, simply fix the problem and make a new [release](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list). Library Manager defaults to installing the latest version of the library and offers updates to those with an older version installed, so this is the fastest and most effective method for distributing a fix to the users.
 
-Once you have done that, open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
+In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
+
+1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
+1. Open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
 
 <a id="how-can-i-change-my-librarys-name"></a>
 
