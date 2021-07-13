@@ -4163,3 +4163,4 @@ https://github.com/Zerfoinder/EasyPin.git|Contributed|EasyPin
 https://github.com/bitbank2/PNGenc.git|Contributed|PNGenc
 https://github.com/tfeldmann/Arduino-SchmittTrigger.git|Contributed|Schmitt trigger
 https://github.com/italo-coelho/pushButton.git|Contributed|pushButton
+https://github.com/Flinduino/Flinduino_SensorKit.git|Contributed|Flinduino_Sensorkit
