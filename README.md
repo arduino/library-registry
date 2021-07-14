@@ -35,7 +35,7 @@ See the instructions below for detailed instructions on how to do this via the G
 1. You may want to first take a look at
    [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
    compliance before being accepted.
-1. Open this link to [fork](https://guides.github.com/activities/forking/) this repository and edit the list via the
+1. Open this link to fork this repository and edit the list via the
    GitHub web interface: https://github.com/arduino/library-registry/edit/main/repositories.txt
 1. Add the library repository's URL to the list. This should be the URL of the repository home page. For example:
    `https://github.com/arduino-libraries/Servo`.
