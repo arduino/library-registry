@@ -342,6 +342,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Approve pull request
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/reviews
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          event: APPROVE
+
       - name: Merge pull request
         uses: octokit/request-action@v2.x
         env:
