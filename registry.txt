@@ -4161,7 +4161,7 @@ https://github.com/Abdurraziq/ZMPT101B-arduino.git|Contributed|ZMPT101B
 https://github.com/khoih-prog/AsyncUDP_WT32_ETH01.git|Contributed|AsyncUDP_WT32_ETH01
 https://github.com/Zerfoinder/EasyPin.git|Contributed|EasyPin
 https://github.com/bitbank2/PNGenc.git|Contributed|PNGenc
-https://github.com/tfeldmann/Arduino-SchmittTrigger.git|Contributed|Schmitt trigger
+https://github.com/tfeldmann/Arduino-SchmittTrigger.git|Contributed|SchmittTrigger
 https://github.com/italo-coelho/pushButton.git|Contributed|pushButton
 https://github.com/Flinduino/Flinduino_SensorKit.git|Contributed|Flinduino_Sensorkit
 https://github.com/witnessmenow/youtube-livestream-arduino.git|Contributed|YouTubeLiveStreamArduino
