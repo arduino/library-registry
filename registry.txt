@@ -4166,3 +4166,4 @@ https://github.com/italo-coelho/pushButton.git|Contributed|pushButton
 https://github.com/Flinduino/Flinduino_SensorKit.git|Contributed|Flinduino_Sensorkit
 https://github.com/witnessmenow/youtube-livestream-arduino.git|Contributed|YouTubeLiveStreamArduino
 https://github.com/cotestatnt/AsyncTelegram2.git|Contributed|AsyncTelegram2
+https://github.com/khoih-prog/WiFiWebServer_RTL8720.git|Contributed|WiFiWebServer_RTL8720
