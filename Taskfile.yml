@@ -1,0 +1,14 @@
+# See: https://taskfile.dev/#/usage
+version: "3"
+
+tasks:
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-general-formatting-task/Taskfile.yml
+  general:check-formatting:
+    desc: Check basic formatting style of all files
+    cmds:
+      - |
+        if ! which ec &>/dev/null; then
+          echo "ec not found or not in PATH. Please install: https://github.com/editorconfig-checker/editorconfig-checker#installation"
+          exit 1
+        fi
+      - ec
