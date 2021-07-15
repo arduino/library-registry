@@ -1,0 +1,60 @@
+# Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/check-taskfiles.md
+name: Check Taskfiles
+
+# See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/check-taskfiles.ya?ml"
+      - "**/Taskfile.ya?ml"
+  pull_request:
+    paths:
+      - ".github/workflows/check-taskfiles.ya?ml"
+      - "**/Taskfile.ya?ml"
+  schedule:
+    # Run every Tuesday at 8 AM UTC to catch breakage resulting from changes to the JSON schema.
+    - cron: "0 8 * * TUE"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  validate:
+    name: Validate ${{ matrix.file }}
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+      matrix:
+        file:
+          # TODO: add paths to any additional Taskfiles here
+          - ./**/Taskfile.yml
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download JSON schema for Taskfiles
+        id: download-schema
+        uses: carlosperate/download-file-action@v1.0.3
+        with:
+          # See: https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/taskfile.json
+          file-url: https://json.schemastore.org/taskfile.json
+          location: ${{ runner.temp }}/taskfile-schema
+
+      - name: Install JSON schema validator
+        run: |
+          sudo npm install \
+            --global \
+            ajv-cli \
+            ajv-formats
+
+      - name: Validate ${{ matrix.file }}
+        run: |
+          # See: https://github.com/ajv-validator/ajv-cli#readme
+          ajv validate \
+            --all-errors \
+            --strict=false \
+            -c ajv-formats \
+            -s "${{ steps.download-schema.outputs.file-path }}" \
+            -d "${{ matrix.file }}"
