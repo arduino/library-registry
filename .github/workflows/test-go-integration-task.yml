@@ -1,0 +1,63 @@
+# Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/test-go-integration-task.md
+name: Test Integration
+
+env:
+  # See: https://github.com/actions/setup-go/tree/v2#readme
+  GO_VERSION: "1.14"
+  # See: https://github.com/actions/setup-python/tree/v2#available-versions-of-python
+  PYTHON_VERSION: "3.9"
+
+# See: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/test-go-integration-task.ya?ml"
+      - "Taskfile.ya?ml"
+      - "**.go"
+      - "**/go.mod"
+      - "**/go.sum"
+      - "poetry.lock"
+      - "pyproject.toml"
+      - ".github/workflows/assets/validate-registry/tests/**"
+  pull_request:
+    paths:
+      - ".github/workflows/test-go-integration-task.ya?ml"
+      - "Taskfile.ya?ml"
+      - "**.go"
+      - "**/go.mod"
+      - "**/go.sum"
+      - "poetry.lock"
+      - "pyproject.toml"
+      - ".github/workflows/assets/validate-registry/tests/**"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: ${{ env.GO_VERSION }}
+
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install Poetry
+        run: pip install poetry
+
+      - name: Install Taskfile
+        uses: arduino/setup-task@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          version: 3.x
+
+      - name: Run integration tests
+        run: task go:test-integration

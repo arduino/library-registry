@@ -24,6 +24,28 @@ tasks:
     cmds:
       - go build -v {{.LDFLAGS}}
 
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/test-go-integration-task/Taskfile.yml
+  go:test-integration:
+    desc: Run integration tests
+    dir: "{{.GO_PROJECT_PATH}}"
+    deps:
+      - task: go:build
+      - task: poetry:install-deps
+    cmds:
+      - poetry run pytest tests
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/poetry-task/Taskfile.yml
+  poetry:install-deps:
+    desc: Install dependencies managed by Poetry
+    cmds:
+      - poetry install --no-root
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/poetry-task/Taskfile.yml
+  poetry:update-deps:
+    desc: Update all dependencies managed by Poetry to their newest versions
+    cmds:
+      - poetry update
+
   registry:validate:
     desc: Validate registry data file
     deps:
