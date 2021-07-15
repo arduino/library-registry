@@ -1,0 +1,53 @@
+# Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/check-general-formatting-task.md
+name: Check General Formatting
+
+# See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+on:
+  push:
+  pull_request:
+  schedule:
+    # Run every Tuesday at 8 AM UTC to catch breakage caused by changes to tools.
+    - cron: "0 8 * * TUE"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set environment variables
+        run: |
+          # See: https://docs.github.com/en/actions/reference/workflow-commands-for-github-actions#setting-an-environment-variable
+          echo "EC_INSTALL_PATH=${{ runner.temp }}/editorconfig-checker" >> "$GITHUB_ENV"
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Task
+        uses: arduino/setup-task@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          version: 3.x
+
+      - name: Download latest editorconfig-checker release binary package
+        id: download
+        uses: MrOctopus/download-asset-action@1.0
+        with:
+          repository: editorconfig-checker/editorconfig-checker
+          excludes: prerelease, draft
+          asset: linux-amd64.tar.gz
+          target: ${{ env.EC_INSTALL_PATH }}
+
+      - name: Install editorconfig-checker
+        run: |
+          cd "${{ env.EC_INSTALL_PATH }}"
+          tar --extract --file="${{ steps.download.outputs.name }}"
+          # Give the binary a standard name
+          mv "${{ env.EC_INSTALL_PATH }}/bin/ec-linux-amd64" "${{ env.EC_INSTALL_PATH }}/bin/ec"
+          # Add installation to PATH:
+          # See: https://docs.github.com/en/actions/reference/workflow-commands-for-github-actions#adding-a-system-path
+          echo "${{ env.EC_INSTALL_PATH }}/bin" >> "$GITHUB_PATH"
+
+      - name: Check formatting
+        run: task --silent general:check-formatting
