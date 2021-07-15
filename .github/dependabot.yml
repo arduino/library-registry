@@ -10,3 +10,10 @@ updates:
       interval: daily
     labels:
       - "topic: infrastructure"
+  - package-ecosystem: github-actions
+    target-branch: production
+    directory: /
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
