@@ -1,0 +1,35 @@
+# Source: https://github.com/arduino/tooling-project-assets/blob/master/workflow-templates/check-workflows-task.md
+name: Check Workflows
+
+# See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/*.ya?ml"
+      - "Taskfile.ya?ml"
+  pull_request:
+    paths:
+      - ".github/workflows/*.ya?ml"
+      - "Taskfile.ya?ml"
+  schedule:
+    # Run every Tuesday at 8 AM UTC to catch breakage resulting from changes to the JSON schema.
+    - cron: "0 8 * * TUE"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Task
+        uses: arduino/setup-task@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          version: 3.x
+
+      - name: Validate workflows
+        run: task --silent ci:validate

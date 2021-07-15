@@ -8,6 +8,32 @@ vars:
     sh: cd "{{.GO_PROJECT_PATH}}" && echo $(go list ./... | tr '\n' ' ')
 
 tasks:
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml
+  ci:validate:
+    desc: Validate GitHub Actions workflows against their JSON schema
+    vars:
+      # Source: https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/github-workflow.json
+      WORKFLOW_SCHEMA_URL: https://json.schemastore.org/github-workflow
+      WORKFLOW_SCHEMA_PATH:
+        sh: mktemp -t workflow-schema-XXXXXXXXXX.json
+      WORKFLOWS_DATA_PATH: "./.github/workflows/*.{yml,yaml}"
+    cmds:
+      - |
+        wget \
+          --quiet \
+          --output-document="{{.WORKFLOW_SCHEMA_PATH}}" \
+          {{.WORKFLOW_SCHEMA_URL}}
+      - |
+        npx \
+          --package=ajv-cli \
+          --package=ajv-formats \
+          ajv validate \
+            --all-errors \
+            --strict=false \
+            -c ajv-formats \
+            -s "{{.WORKFLOW_SCHEMA_PATH}}" \
+            -d "{{.WORKFLOWS_DATA_PATH}}"
+
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-general-formatting-task/Taskfile.yml
   general:check-formatting:
     desc: Check basic formatting style of all files
