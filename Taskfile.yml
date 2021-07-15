@@ -19,6 +19,12 @@ tasks:
         fi
       - ec
 
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-prettier-formatting-task/Taskfile.yml
+  general:format-prettier:
+    desc: Format all supported files with Prettier
+    cmds:
+      - npx prettier --write .
+
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/go-task/Taskfile.yml
   go:build:
     desc: Build the Go code
