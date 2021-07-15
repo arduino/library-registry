@@ -713,7 +713,6 @@ https://github.com/AloriumTechnology/XLR8BuildTemplate.git|Contributed|XLR8Build
 https://github.com/AloriumTechnology/XLR8Core.git|Contributed|XLR8Core
 https://github.com/AloriumTechnology/XLR8Pong.git|Contributed|XLR8Pong
 
-https://github.com/Syncano/syncano-arduino.git|Contributed|Syncano
 https://github.com/thesolarnomad/lora-serialization.git|Contributed|LoRa Serialization
 https://github.com/johnnyb/Shifty.git|Contributed|Shifty
 https://github.com/johnnyb/Eventually.git|Contributed|Eventually
@@ -1526,7 +1525,6 @@ https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino.git|Contributed|Zaber
 https://github.com/sparkfun/Fingerprint_Scanner-TTL.git|Contributed|Fingerprint Scanner TTL
 https://github.com/amperpirat/MAX77650-Arduino-Library.git|Contributed|MAX77650-Arduino-Library
 https://github.com/horihiro/esp8266-google-tts.git|Contributed|esp8266-google-tts
-https://github.com/thinger-io/ClimaStick.git|Contributed|ClimaStick
 https://github.com/bxparks/AUnit.git|Contributed|AUnit
 https://github.com/ekkai/PMsensor.git|Contributed|PMsensor
 https://github.com/Hieromon/AutoConnect.git|Contributed|AutoConnect
