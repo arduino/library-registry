@@ -1,0 +1,46 @@
+name: Check Registry Data File
+
+env:
+  # See: https://github.com/actions/setup-go/tree/v2#readme
+  GO_VERSION: "1.14"
+
+# See: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
+on:
+  push:
+    paths:
+      - ".github/workflows/check-registry.ya?ml"
+      - "Taskfile.ya?ml"
+      - "**.go"
+      - "**/go.mod"
+      - "**/go.sum"
+  pull_request:
+    paths:
+      - ".github/workflows/check-registry.ya?ml"
+      - "Taskfile.ya?ml"
+      - "**.go"
+      - "**/go.mod"
+      - "**/go.sum"
+  workflow_dispatch:
+  repository_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: ${{ env.GO_VERSION }}
+
+      - name: Install Taskfile
+        uses: arduino/setup-task@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          version: 3.x
+
+      - name: Validate registry data file
+        run: task registry:validate

@@ -1,6 +1,10 @@
 # See: https://taskfile.dev/#/usage
 version: "3"
 
+vars:
+  GO_PROJECT_PATH: .github/workflows/assets/validate-registry
+  LDFLAGS:
+
 tasks:
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-general-formatting-task/Taskfile.yml
   general:check-formatting:
@@ -12,3 +16,18 @@ tasks:
           exit 1
         fi
       - ec
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/go-task/Taskfile.yml
+  go:build:
+    desc: Build the Go code
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - go build -v {{.LDFLAGS}}
+
+  registry:validate:
+    desc: Validate registry data file
+    deps:
+      - task: go:build
+    cmds:
+      - |
+        "{{.GO_PROJECT_PATH}}/validate-registry" registry.txt
