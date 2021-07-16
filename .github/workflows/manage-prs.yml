@@ -205,7 +205,7 @@ jobs:
             |
             A problem was found with your submission ${{ matrix.submission.submissionURL }}
 
-            ${{ matrix.submission.error }}
+            :x: **ERROR:** ${{ matrix.submission.error }}
 
       - name: Fail on error detected while parsing
         if: matrix.submission.error != ''
@@ -291,7 +291,7 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            [Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
+            :x: **ERROR:** [Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
 
             ```
             ${{ steps.read-lint-report.outputs.text-report }}
@@ -342,6 +342,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Approve pull request
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/reviews
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          event: APPROVE
+
       - name: Merge pull request
         uses: octokit/request-action@v2.x
         env:
@@ -409,7 +420,7 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            Your submission meets all requirements. However, the pull request could not be merged.
+            :x: **ERROR:** Your submission meets all requirements. However, the pull request could not be merged.
 
             Please follow this guide to resolve a merge conflict:
             https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github

@@ -1,3 +1,7 @@
+https://github.com/tfeldmann/Arduino-SchmittTrigger
+https://github.com/miathedev/KomootBLEConnect
+https://github.com/RobotGrrl/PolylineArduino
+https://github.com/chochain/nanoFORTH
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
 https://github.com/Mysues/ERO
@@ -490,6 +494,7 @@ https://github.com/arduino-libraries/Arduino_MKRTHERM
 https://github.com/arduino-libraries/Arduino_NineAxesMotion
 https://github.com/arduino-libraries/Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_OV767X
+https://github.com/arduino-libraries/Arduino_PortentaBreakout
 https://github.com/arduino-libraries/Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_ScienceJournal
@@ -598,7 +603,6 @@ https://github.com/arpruss/vectordisplayarduino
 https://github.com/ARSadri/PushButtonClicks
 https://github.com/ArsaLearn/Arsa-Main
 https://github.com/arsalmaner/Arduino-Libraries
-https://github.com/arturo182/arduino_bbq10kbd
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
 https://github.com/aspenforest/SIM800
@@ -1037,6 +1041,7 @@ https://github.com/Dlloydev/ESP32-ESP32S2-AnalogWrite
 https://github.com/Dlloydev/QuickPID
 https://github.com/dlyckelid/KX023-1025-IMU
 https://github.com/dmadison/ArduinoXInput
+https://github.com/dmadison/CtrlUtil
 https://github.com/dmadison/HID_Buttons
 https://github.com/dmadison/NintendoExtensionCtrl
 https://github.com/dmadison/ServoInput
@@ -1173,7 +1178,7 @@ https://github.com/fabiopjve/ULWOS2
 https://github.com/fabiuz7/Dimmable-Light-Arduino
 https://github.com/fabiuz7/esp-logger-lib
 https://github.com/fabiuz7/melody-player-arduino
-https://github.com/fabiuz7/rtc-memory-esp8266
+https://github.com/fabianoriccardi/RTCMemory-ESP8266
 https://github.com/fablab-bayreuth/WTV020SD16P
 https://github.com/FaBoPlatform/FaBo3Axis-ADXL345-Library
 https://github.com/FaBoPlatform/FaBo7Seg-TLC59208-Library
@@ -1559,6 +1564,7 @@ https://github.com/Infineon/hall-switch
 https://github.com/Infineon/high-side-switch
 https://github.com/Infineon/IFX007T-Motor-Control
 https://github.com/Infineon/OPTIGA-Trust-E-Security-Controller
+https://github.com/Infineon/arduino-pas-co2-sensor
 https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202
 https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300
 https://github.com/Infineon/TLE493D-3DMagnetic-Sensor
@@ -1784,6 +1790,7 @@ https://github.com/kd8bxp/Word100
 https://github.com/kdhooper/arduino-CheapLCD
 https://github.com/keigan-motor/Arduino-I2C-KM1
 https://github.com/keimochizuki/cgnuino
+https://github.com/kevinstadler/TCS34725AutoGain
 https://github.com/keyro90/AFArray
 https://github.com/khoih-prog/AsyncDNSServer_STM32
 https://github.com/khoih-prog/AsyncHTTPRequest_Generic
@@ -2148,6 +2155,8 @@ https://github.com/Makuna/Rtc
 https://github.com/Makuna/Task
 https://github.com/maly/edushield
 https://github.com/MannyPeterson/HeliOS
+https://github.com/maquinitas/MaquinitasParams
+https://github.com/maquinitas/MaquinitasRitmos
 https://github.com/marccolemont/CRMX_TimoTwo
 https://github.com/marcinbor85/BlinkCode
 https://github.com/marcinbor85/microshell
@@ -2188,11 +2197,11 @@ https://github.com/mathertel/DMXSerial2
 https://github.com/mathertel/LiquidCrystal_PCF8574
 https://github.com/mathertel/OneButton
 https://github.com/mathertel/Radio
+https://github.com/mathertel/RFCodes
 https://github.com/mathertel/RotaryEncoder
 https://github.com/mathworks/thingspeak-arduino
 https://github.com/matmunk/DS18B20
 https://github.com/matmunk/LiquidCrystal_74HC595
-https://github.com/Matrix-Robotics/MatrixColorSensor
 https://github.com/MatrixOrbital/MatrixOrbitalGTTClientLibrary
 https://github.com/matsujirushi/MjGrove
 https://github.com/mattairtech/EEPROM_CAT25
@@ -2315,6 +2324,7 @@ https://github.com/monolithicpower/MagAlpha-Arduino-Library
 https://github.com/monoxit/RTC4543lib
 https://github.com/MonsieurV/ArduinoPocketGeiger
 https://github.com/monstrenyatko/ArduinoMqtt
+https://github.com/montoyamoraga/SiguesAhi
 https://github.com/montoyamoraga/TinyTrainable
 https://github.com/moononournation/Arduino_GFX
 https://github.com/morcibacsi/arduino_tss463_van
@@ -2802,6 +2812,8 @@ https://github.com/rafaelnsantos/Relay
 https://github.com/rahulstva/Motor_RS
 https://github.com/RAKWireless/RAK14001-NCP5623-Library
 https://github.com/RAKWireless/RAK14002-CAP1293-Library
+https://github.com/RAKWireless/RAK-MQx-Library
+https://github.com/RAKWireless/RAK13005-TLE7259-Library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/rasmushedeager/sducar
@@ -2981,6 +2993,7 @@ https://github.com/RobTillaart/runningAngle
 https://github.com/RobTillaart/RunningAverage
 https://github.com/RobTillaart/RunningMedian
 https://github.com/RobTillaart/SET
+https://github.com/RobTillaart/SGP30
 https://github.com/RobTillaart/SHEX
 https://github.com/RobTillaart/ShiftInSlow
 https://github.com/RobTillaart/ShiftOutSlow
@@ -3276,6 +3289,8 @@ https://github.com/SofaPirate/Plaquette
 https://github.com/SofaPirate/SlipMassage
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
+https://github.com/solderparty/arduino_bbq10kbd
+https://github.com/solderparty/arduino_tsc2004
 https://github.com/solidsnake745/MIDI_Device_Controller
 https://github.com/somefunAgba/ModernPIDControlSS
 https://github.com/somsinchai/IBot
@@ -3402,6 +3417,7 @@ https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
 https://github.com/sparkfun/SparkFun_RV-1805_Arduino_Library
 https://github.com/sparkfun/SparkFun_RV-8803_Arduino_Library
 https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library
+https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library
 https://github.com/sparkfun/SparkFun_SDP3x_Arduino_Library
 https://github.com/sparkfun/SparkFun_Serial_Controlled_Motor_Driver_Arduino_Library
 https://github.com/sparkfun/SparkFun_SerLCD_Arduino_Library
@@ -3850,6 +3866,7 @@ https://github.com/witnessmenow/arduino-youtube-api
 https://github.com/witnessmenow/BPLib
 https://github.com/witnessmenow/tindie-api-arduino
 https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+https://github.com/witnessmenow/youtube-livestream-arduino
 https://github.com/wizard97/ArduinoProcessScheduler
 https://github.com/wizard97/ArduinoRingBuffer
 https://github.com/wizard97/Embedded_RingBuf_CPP
@@ -3858,6 +3875,7 @@ https://github.com/Wiznet/WizFi250_arduino_library
 https://github.com/Wiznet/WizFi310_arduino_library
 https://github.com/wloche/LcdProgressBar
 https://github.com/wloche/LcdProgressBarDouble
+https://github.com/wokwi/TinyDebug
 https://github.com/wolfv6/keybrd
 https://github.com/Wolkabout/WolkConnect-Arduino
 https://github.com/wollewald/ADS1115_WE
@@ -3932,6 +3950,7 @@ https://github.com/Zanduino/RotaryEncoder
 https://github.com/Zanduino/SmoothLED_8bit
 https://github.com/Zanduino/SmoothLED
 https://github.com/Zanduino/VCNL4010
+https://github.com/Zerfoinder/EasyPin
 https://github.com/zerokol/eFLL
 https://github.com/zfields/nes-rob
 https://github.com/zharijs/FDC2214
@@ -4010,4 +4029,39 @@ https://github.com/cotestatnt/esp-fs-webserver
 https://github.com/sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library
 https://github.com/KevinMiller77/TwoWayESP
 https://github.com/FANTM/libdevlpr
+https://github.com/Incuvers/macro-logger
+https://github.com/nailujx86/ESP8266_multipart
+https://github.com/skabrits/StringAction
+https://github.com/skabrits/SpeedMeasurer
+https://github.com/sebmillet/rf433send
+https://github.com/cvmanjoo/AT24Cxx
+https://github.com/ekkai/WizFi360
+https://github.com/Silver-Fang/TimersOneForAll
+https://github.com/Rupakpoddar/ESP8266Firebase
+https://github.com/Rupakpoddar/ESP8266Webhook
+https://github.com/Ant2000/CustomJWT
+https://github.com/DavidArmstrong/SiderealPlanets
+https://github.com/rneurink/LP50XX/
+https://github.com/Treboada/Ds1302
+https://github.com/Fraunhofer-IMS/AIfES_for_Arduino
+https://github.com/Matrix-Robotics/MatrixUltrasonicSensor
+https://github.com/Matrix-Robotics/MatrixColorSensor
+https://github.com/Matrix-Robotics/MatrixMotorExtension
+https://github.com/Matrix-Robotics/MatrixController
+https://github.com/Matrix-Robotics/MatrixServoExtension
 https://github.com/Matrix-Robotics/MatrixMotionSensor
+https://github.com/khoih-prog/WebServer_WT32_ETH01
+https://github.com/tig/FlashStringTable
+https://github.com/radariq/arduino-library
+https://gitlab.com/riva-lab/fastIO
+https://gitlab.com/riva-lab/SevenSegmentPanel
+https://github.com/konikoni428/BM64_arduino
+https://github.com/MarlinFirmware/U8glib-HAL
+https://github.com/Abdurraziq/ZMPT101B-arduino
+https://github.com/khoih-prog/AsyncUDP_WT32_ETH01
+https://github.com/bitbank2/PNGenc
+https://github.com/italo-coelho/pushButton
+https://github.com/Flinduino/Flinduino_SensorKit
+https://github.com/cotestatnt/AsyncTelegram2
+https://github.com/khoih-prog/WiFiWebServer_RTL8720
+https://github.com/geeny/geenymodem
