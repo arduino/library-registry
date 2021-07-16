@@ -2413,6 +2413,7 @@ https://github.com/netpieio/microgear-nbiot-arduino
 https://github.com/neu-rah/ArduinoMenu
 https://github.com/neu-rah/Dump
 https://github.com/newdigate/teensy-variable-playback
+https://github.com/newdigate/teensy-sample-flashloader
 https://github.com/NHBSystems/NHB_AD7794
 https://github.com/niccokunzmann/UC121902-TNARX-A
 https://github.com/NicholasBerryman/GenericMotorDriver
