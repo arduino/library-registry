@@ -4167,3 +4167,4 @@ https://github.com/cotestatnt/AsyncTelegram2.git|Contributed|AsyncTelegram2
 https://github.com/khoih-prog/WiFiWebServer_RTL8720.git|Contributed|WiFiWebServer_RTL8720
 https://github.com/geeny/geenymodem.git|Contributed|GEENYmodem
 https://github.com/newdigate/teensy-sample-flashloader.git|Contributed|TeensyAudioFlashLoader
+https://github.com/newdigate/teensy-polyphony.git|Contributed|TeensyAudioSampler
