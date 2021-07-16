@@ -17,3 +17,17 @@ updates:
       interval: daily
     labels:
       - "topic: infrastructure"
+  - package-ecosystem: gomod
+    target-branch: production
+    directory: /.github/workflows/assets/validate-registry/
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
+  - package-ecosystem: pip
+    target-branch: production
+    directory: /
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
