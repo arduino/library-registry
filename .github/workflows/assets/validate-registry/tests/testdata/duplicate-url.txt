@@ -1,0 +1,4 @@
+https://github.com/arduino-libraries/Scheduler.git|Arduino|Scheduler
+https://github.com/arduino-libraries/SD.git|Partner|SD
+https://github.com/arduino-libraries/Servo.git|Recommended|Servo
+https://github.com/arduino-libraries/SD.git|Contributed|Foo

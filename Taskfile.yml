@@ -1,7 +1,39 @@
 # See: https://taskfile.dev/#/usage
 version: "3"
 
+vars:
+  GO_PROJECT_PATH: .github/workflows/assets/validate-registry
+  LDFLAGS:
+  DEFAULT_GO_PACKAGES:
+    sh: cd "{{.GO_PROJECT_PATH}}" && echo $(go list ./... | tr '\n' ' ')
+
 tasks:
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml
+  ci:validate:
+    desc: Validate GitHub Actions workflows against their JSON schema
+    vars:
+      # Source: https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/github-workflow.json
+      WORKFLOW_SCHEMA_URL: https://json.schemastore.org/github-workflow
+      WORKFLOW_SCHEMA_PATH:
+        sh: mktemp -t workflow-schema-XXXXXXXXXX.json
+      WORKFLOWS_DATA_PATH: "./.github/workflows/*.{yml,yaml}"
+    cmds:
+      - |
+        wget \
+          --quiet \
+          --output-document="{{.WORKFLOW_SCHEMA_PATH}}" \
+          {{.WORKFLOW_SCHEMA_URL}}
+      - |
+        npx \
+          --package=ajv-cli \
+          --package=ajv-formats \
+          ajv validate \
+            --all-errors \
+            --strict=false \
+            -c ajv-formats \
+            -s "{{.WORKFLOW_SCHEMA_PATH}}" \
+            -d "{{.WORKFLOWS_DATA_PATH}}"
+
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-general-formatting-task/Taskfile.yml
   general:check-formatting:
     desc: Check basic formatting style of all files
@@ -12,3 +44,122 @@ tasks:
           exit 1
         fi
       - ec
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-prettier-formatting-task/Taskfile.yml
+  general:format-prettier:
+    desc: Format all supported files with Prettier
+    cmds:
+      - npx prettier --write .
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/go-task/Taskfile.yml
+  go:build:
+    desc: Build the Go code
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - go build -v {{.LDFLAGS}}
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
+  go:check:
+    desc: Check for problems with Go code
+    dir: "{{.GO_PROJECT_PATH}}"
+    deps:
+      - task: go:vet
+      - task: go:lint
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
+  go:vet:
+    desc: Check for errors in Go code
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - go vet {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
+  go:fix:
+    desc: Modernize usages of outdated APIs
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - go fix {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
+  go:lint:
+    desc: Lint Go code
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - |
+        PROJECT_PATH="$PWD"
+        # `go get` and `go list` commands must be run from a temporary folder to avoid polluting go.mod
+        cd "$(mktemp -d "${TMPDIR-${TMP-/tmp}}/task-temporary-XXXXX")"
+        go get golang.org/x/lint/golint
+        GOLINT_PATH="$(go list -f '{{"{{"}}.Target{{"}}"}}' golang.org/x/lint/golint || echo "false")"
+        # `golint` must be run from the module folder
+        cd "$PROJECT_PATH"
+        "$GOLINT_PATH" \
+          {{default "-min_confidence 0.8 -set_exit_status" .GO_LINT_FLAGS}} \
+          {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
+  go:format:
+    desc: Format Go code
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - go fmt {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
+
+  go:tidy:
+    desc: Run go mod tidy
+    dir: "{{.GO_PROJECT_PATH}}"
+    cmds:
+      - go mod tidy
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/test-go-integration-task/Taskfile.yml
+  go:test-integration:
+    desc: Run integration tests
+    dir: "{{.GO_PROJECT_PATH}}"
+    deps:
+      - task: go:build
+      - task: poetry:install-deps
+    cmds:
+      - poetry run pytest tests
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/poetry-task/Taskfile.yml
+  poetry:install-deps:
+    desc: Install dependencies managed by Poetry
+    cmds:
+      - poetry install --no-root
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/poetry-task/Taskfile.yml
+  poetry:update-deps:
+    desc: Update all dependencies managed by Poetry to their newest versions
+    cmds:
+      - poetry update
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-python-task/Taskfile.yml
+  python:lint:
+    desc: Lint Python code
+    deps:
+      - task: poetry:install-deps
+    cmds:
+      - poetry run flake8 --show-source
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-python-task/Taskfile.yml
+  python:format:
+    desc: Format Python files
+    deps:
+      - task: poetry:install-deps
+    cmds:
+      - poetry run black .
+
+  registry:validate:
+    desc: Validate registry data file
+    deps:
+      - task: go:build
+    cmds:
+      - |
+        "{{.GO_PROJECT_PATH}}/validate-registry" registry.txt
+
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-yaml-task/Taskfile.yml
+  yaml:lint:
+    desc: Check for problems with YAML files
+    deps:
+      - task: poetry:install-deps
+    cmds:
+      - poetry run yamllint --format {{default "colored" .YAMLLINT_FORMAT}} .
