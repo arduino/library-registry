@@ -4169,3 +4169,4 @@ https://github.com/geeny/geenymodem.git|Contributed|GEENYmodem
 https://github.com/newdigate/teensy-sample-flashloader.git|Contributed|TeensyAudioFlashLoader
 https://github.com/newdigate/teensy-polyphony.git|Contributed|TeensyAudioSampler
 https://github.com/mandulaj/PZEM-004T-v30.git|Contributed|PZEM004Tv30
+https://github.com/Silver-Fang/Low-level-quick-digital-IO.git|Contributed|Low level quick digital IO
