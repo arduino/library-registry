@@ -3754,13 +3754,13 @@ https://github.com/Tvde1/WiFiPicker
 https://github.com/tyhenry/CheapStepper
 https://github.com/tyrkelko/sn76489
 https://github.com/tzapu/WiFiManager
-https://github.com/u-fire/ECSalinity
-https://github.com/u-fire/ISE_Probe
 https://github.com/u-fire/Isolated_EC
 https://github.com/u-fire/Isolated_ISE
-https://github.com/u-fire/pHProbe
 https://github.com/u-fire/uFire_PAR
 https://github.com/u-fire/uFire_SHT20
+https://github.com/u-fire/Mod-EC
+https://github.com/u-fire/Mod-pH
+https://github.com/u-fire/Mod-ORP
 https://github.com/u0078867/Arduino-Websocket-Fast
 https://github.com/uArm-Developer/UArmForArduino
 https://github.com/Uberi/Arduino-CommandParser
