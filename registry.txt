@@ -4170,3 +4170,4 @@ https://github.com/newdigate/teensy-sample-flashloader.git|Contributed|TeensyAud
 https://github.com/newdigate/teensy-polyphony.git|Contributed|TeensyAudioSampler
 https://github.com/mandulaj/PZEM-004T-v30.git|Contributed|PZEM004Tv30
 https://github.com/Silver-Fang/Low-level-quick-digital-IO.git|Contributed|Low level quick digital IO
+https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01.git|Contributed|AsyncWebServer_WT32_ETH01
