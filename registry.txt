@@ -4174,3 +4174,4 @@ https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01.git|Contributed|AsyncWeb
 https://github.com/akkoyun/Statistical.git|Contributed|Statistical
 https://github.com/akkoyun/Battery.git|Contributed|Battery
 https://github.com/aikopras/RSbus.git|Contributed|RSbus
+https://github.com/lbussy/mDNSResolver.git|Contributed|mDNSResolver
