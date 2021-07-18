@@ -4070,3 +4070,4 @@ https://github.com/geeny/geenymodem
 https://github.com/mandulaj/PZEM-004T-v30/
 https://github.com/Silver-Fang/Low-level-quick-digital-IO
 https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01
+https://github.com/akkoyun/Statistical
