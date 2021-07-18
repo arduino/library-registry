@@ -4075,3 +4075,4 @@ https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01
 https://github.com/akkoyun/Statistical
 https://github.com/akkoyun/Battery
 https://github.com/ciniml/WireGuard-ESP32-Arduino
+https://github.com/SergeSkor/SSVRGBGradientCalc
