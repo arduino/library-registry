@@ -4175,3 +4175,4 @@ https://github.com/akkoyun/Statistical.git|Contributed|Statistical
 https://github.com/akkoyun/Battery.git|Contributed|Battery
 https://github.com/aikopras/RSbus.git|Contributed|RSbus
 https://github.com/lbussy/mDNSResolver.git|Contributed|mDNSResolver
+https://github.com/ciniml/WireGuard-ESP32-Arduino.git|Contributed|WireGuard-ESP32
