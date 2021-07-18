@@ -4177,3 +4177,6 @@ https://github.com/aikopras/RSbus.git|Contributed|RSbus
 https://github.com/lbussy/mDNSResolver.git|Contributed|mDNSResolver
 https://github.com/ciniml/WireGuard-ESP32-Arduino.git|Contributed|WireGuard-ESP32
 https://github.com/SergeSkor/SSVRGBGradientCalc.git|Contributed|SSVRGBGradientCalc
+https://github.com/u-fire/Mod-EC.git|Contributed|Microfire_Mod-EC
+https://github.com/u-fire/Mod-pH.git|Contributed|Microfire_Mod-pH
+https://github.com/u-fire/Mod-ORP.git|Contributed|Microfire_Mod-ORP
