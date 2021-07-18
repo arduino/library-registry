@@ -43,7 +43,7 @@ https://github.com/107-systems/107-Arduino-NMEA-Parser
 https://github.com/107-systems/107-Arduino-TMF8801
 https://github.com/107-systems/107-Arduino-UAVCAN
 https://github.com/1IoT/cloud-connectivity-lib
-https://github.com/1oginov/UbxGps
+https://github.com/loginov-rocks/UbxGps
 https://github.com/256dpi/arduino-mqtt
 https://github.com/2dom/PxMatrix
 https://github.com/4-20ma/i2c_adc_ads7828
