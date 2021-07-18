@@ -1920,6 +1920,7 @@ https://github.com/lbernstone/plotutils
 https://github.com/lbernstone/rrdtool_ESP32
 https://github.com/lbernstone/UncleRus-drivers
 https://github.com/lbussy/LCBUrl
+https://github.com/lbussy/mDNSResolver
 https://github.com/ldab/ESP32_FTPClient
 https://github.com/ldab/KXTJ3-1057
 https://github.com/ldab/lis3dh-motion-detection
