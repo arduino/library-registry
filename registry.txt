@@ -1166,7 +1166,6 @@ https://github.com/PulseRain/M10JTAG.git|Contributed|M10JTAG
 https://github.com/helium/helium-arduino.git|Contributed|Helium
 https://github.com/aharshac/EasyNTPClient.git|Contributed|EasyNTPClient
 https://github.com/grzesl/ESPMail.git|Contributed|ESPMail
-https://github.com/u-fire/ECSalinity.git|Contributed|EC_Salinity
 https://github.com/PulseRain/M10SerialAUX.git|Contributed|M10SerialAUX
 https://github.com/PulseRain/M10SRAM.git|Contributed|M10SRAM
 https://github.com/PulseRain/M10I2C.git|Contributed|M10I2C
@@ -1275,7 +1274,6 @@ https://github.com/stm32duino/LSM6DSL.git|Contributed|STM32duino LSM6DSL
 https://github.com/stm32duino/LPS22HB.git|Contributed|STM32duino LPS22HB
 https://github.com/stm32duino/VL53L0X.git|Contributed|STM32duino VL53L0X
 https://github.com/stm32duino/LIS3MDL.git|Contributed|STM32duino LIS3MDL
-https://github.com/u-fire/pHProbe.git|Contributed|pH Probe Interface
 https://github.com/cujomalainey/antplus-arduino.git|Contributed|ANTPLUS-Arduino
 https://github.com/evert-arias/EasyBuzzer.git|Contributed|EasyBuzzer
 https://github.com/Pharap/FixedPointsArduino.git|Contributed|FixedPoints
@@ -1478,7 +1476,6 @@ https://github.com/jeremycole/AllSensors_DLV.git|Contributed|AllSensors DLV
 https://github.com/tomstewart89/StateSpaceControl.git|Contributed|StateSpaceControl
 https://github.com/planetk/ArduinoFritzApi.git|Contributed|ArduinoFritzApi
 https://github.com/byteAgenten/ArduinoArcherPanelClient.git|Contributed|ArduinoArcherPanelClient
-https://github.com/u-fire/ISE_Probe.git|Contributed|ISE Probe Interface
 https://github.com/closedcube/ClosedCube_TMP116_Arduino.git|Contributed|ClosedCube TMP116
 https://github.com/Naguissa/uTimerLib.git|Contributed|uTimerLib
 https://github.com/LowPowerLab/SPIFlash.git|Contributed|SPIFlash_LowPowerLab
