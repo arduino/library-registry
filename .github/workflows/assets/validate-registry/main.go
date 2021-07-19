@@ -39,7 +39,16 @@ func main() {
 	}
 
 	if !reflect.DeepEqual(rawRepos, filteredRepos) {
-		fmt.Fprintln(os.Stderr, "error: Registry data file contains duplicate entries")
+		fmt.Fprintln(os.Stderr, "error: Registry data file contains duplicate URLs")
 		os.Exit(1)
+	}
+
+	nameMap := make(map[string]bool)
+	for _, entry := range rawRepos {
+		if _, found := nameMap[entry.LibraryName]; found {
+			fmt.Fprintf(os.Stderr, "error: Registry data file contains duplicates of name %s\n", entry.LibraryName)
+			os.Exit(1)
+		}
+		nameMap[entry.LibraryName] = true
 	}
 }
