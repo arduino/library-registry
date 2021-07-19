@@ -701,7 +701,6 @@ https://github.com/finson-release/FirmataWithDeviceFeature.git|Contributed|Firma
 https://github.com/iotpipe/esp8266-arduino-iotpipe.git|Contributed|IoT Pipe
 https://github.com/olikraus/U8g2_Arduino.git|Contributed|U8g2
 https://github.com/abderraouf-adjal/ArduinoSpritzCipher.git|Contributed|SpritzCipher
-https://github.com/EscaVic/ROKduino.git|Contributed|ROKduino
 https://github.com/dxinteractive/ResponsiveAnalogRead.git|Contributed|ResponsiveAnalogRead
 https://github.com/FaBoPlatform/FaBoBLE-BLE113-Library.git|Contributed|FaBo 301 BLE SiliconLabs
 
