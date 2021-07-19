@@ -7,7 +7,6 @@ https://github.com/arduino-libraries/AudioZero.git|Arduino|AudioZero
 https://github.com/arduino-libraries/Bridge.git|Arduino|Bridge
 https://github.com/arduino-libraries/Esplora.git|Arduino|Esplora
 https://github.com/arduino-libraries/Ethernet.git|Arduino|Ethernet
-https://github.com/arduino-libraries/Firmata-Old.git|Arduino|Firmata
 https://github.com/arduino-libraries/GSM.git|Arduino|GSM
 https://github.com/arduino-libraries/LiquidCrystal.git|Arduino|LiquidCrystal
 https://github.com/arduino-libraries/Robot_Control.git|Arduino|Robot Control
