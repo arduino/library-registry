@@ -4182,3 +4182,5 @@ https://github.com/u-fire/Mod-pH.git|Contributed|Microfire_Mod-pH
 https://github.com/u-fire/Mod-ORP.git|Contributed|Microfire_Mod-ORP
 https://github.com/filoconnesso/Tweakly.git|Contributed|Tweakly
 https://github.com/Infineon/arduino-multi-half-bridge.git|Contributed|multi-half-bridge
+https://github.com/akkoyun/B100AA.git|Contributed|B100AA
+https://github.com/akkoyun/B902AA.git|Contributed|B902AA
