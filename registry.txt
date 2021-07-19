@@ -4181,3 +4181,4 @@ https://github.com/u-fire/Mod-EC.git|Contributed|Microfire_Mod-EC
 https://github.com/u-fire/Mod-pH.git|Contributed|Microfire_Mod-pH
 https://github.com/u-fire/Mod-ORP.git|Contributed|Microfire_Mod-ORP
 https://github.com/filoconnesso/Tweakly.git|Contributed|Tweakly
+https://github.com/Infineon/arduino-multi-half-bridge.git|Contributed|multi-half-bridge
