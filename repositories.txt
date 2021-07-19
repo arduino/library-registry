@@ -4078,3 +4078,4 @@ https://github.com/akkoyun/Battery
 https://github.com/ciniml/WireGuard-ESP32-Arduino
 https://github.com/SergeSkor/SSVRGBGradientCalc
 https://github.com/filoconnesso/Tweakly
+https://github.com/akkoyun/B100AA
