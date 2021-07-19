@@ -66,9 +66,6 @@ jobs:
             |
             Hello! I'm checking your submission again.
 
-            You can see the progress here:
-            https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/actions/workflows/manage-prs.yml
-
       - name: Get PR diff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
