@@ -13,6 +13,7 @@ on:
       - "**.go"
       - "**/go.mod"
       - "**/go.sum"
+      - "registry.txt"
   pull_request:
     paths:
       - ".github/workflows/check-registry.ya?ml"
@@ -20,6 +21,7 @@ on:
       - "**.go"
       - "**/go.mod"
       - "**/go.sum"
+      - "registry.txt"
   workflow_dispatch:
   repository_dispatch:
 
