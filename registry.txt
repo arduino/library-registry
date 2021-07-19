@@ -4186,3 +4186,4 @@ https://github.com/akkoyun/B100AA.git|Contributed|B100AA
 https://github.com/akkoyun/B902AA.git|Contributed|B902AA
 https://github.com/lequan81/vn_lunar.git|Contributed|vn_lunar
 https://github.com/SergeSkor/SSVTimer.git|Contributed|SSVTimer
+https://github.com/bigsmalloverall/SimpleTaskManager.git|Contributed|SimpleTaskManager
