@@ -5,6 +5,7 @@ env:
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
+  CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT: check-submissions-failed
 
 on:
   # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
@@ -178,6 +179,8 @@ jobs:
           echo "JSON_REPORT_PATH=${{ runner.temp }}/report.json" >> "$GITHUB_ENV"
           echo "TEXT_REPORT_PATH=${{ runner.temp }}/report.txt" >> "$GITHUB_ENV"
           echo "ARDUINO_LINT_INSTALLATION_PATH=${{ runner.temp }}/arduino-lint" >> "$GITHUB_ENV"
+          echo "PASS=true" >> "$GITHUB_ENV" # This variable stores the checks result
+          echo "FAIL_FLAG_PATH=${{ runner.temp }}/.check-submissions-failed" >> "$GITHUB_ENV"
 
       # Submission PRs can be handled without maintainer involvement
       - name: Remove prior review requests
@@ -207,13 +210,12 @@ jobs:
 
             :x: **ERROR:** ${{ matrix.submission.error }}
 
-      - name: Fail on error detected while parsing
+      - name: Set checks result to fail if error detected by submission parser
         if: matrix.submission.error != ''
-        run: |
-          echo "::error::Error found with submission"
-          exit 1
+        run: echo "PASS=false" >> "$GITHUB_ENV"
 
       - name: Install Arduino Lint
+        if: env.PASS == 'true'
         run: |
           mkdir --parents "${{ env.ARDUINO_LINT_INSTALLATION_PATH }}"
           curl \
@@ -225,6 +227,7 @@ jobs:
 
       # actions/checkout can't be used because it only supports GitHub repos, while libraries may use other Git hosts
       - name: Clone submission
+        if: env.PASS == 'true'
         run: |
           git clone \
             --branch ${{ matrix.submission.tag }} \
@@ -233,7 +236,8 @@ jobs:
 
       - name: Lint submission
         id: arduino-lint
-        continue-on-error: true # Continue the job so the report can be commented to the PR
+        if: env.PASS == 'true'
+        continue-on-error: true # Error on linter rule violations is expected
         run: |
           export ARDUINO_LINT_OFFICIAL="${{ matrix.submission.official }}"
 
@@ -249,6 +253,7 @@ jobs:
 
       - name: Read Arduino Lint reports
         id: read-lint-report
+        if: env.PASS == 'true'
         run: |
           echo "::set-output name=json-report::$(jq -c . "${{ env.JSON_REPORT_PATH }}")"
 
@@ -261,7 +266,8 @@ jobs:
 
       - name: Comment on Arduino Lint warning
         if: >
-          fromJson(steps.read-lint-report.outputs.json-report).summary.warningCount > 0
+          env.PASS == 'true'
+          && fromJson(steps.read-lint-report.outputs.json-report).summary.warningCount > 0
           && fromJson(steps.read-lint-report.outputs.json-report).summary.errorCount == 0
         uses: octokit/request-action@v2.x
         env:
@@ -280,7 +286,9 @@ jobs:
             ```
 
       - name: Comment on Arduino Lint error
-        if: fromJson(steps.read-lint-report.outputs.json-report).summary.errorCount > 0
+        if: >
+          env.PASS == 'true'
+          && fromJson(steps.read-lint-report.outputs.json-report).summary.errorCount > 0
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -297,17 +305,45 @@ jobs:
             ${{ steps.read-lint-report.outputs.text-report }}
             ```
 
-      - name: Fail on Arduino Lint error
-        if: steps.arduino-lint.outcome == 'failure'
-        run: |
-          echo "::error::Arduino Lint detected an error"
-          exit 1
+      - name: Set checks result to fail if error detected by Arduino Lint
+        if: >
+          env.PASS == 'true'
+          && steps.arduino-lint.outcome == 'failure'
+        run: echo "PASS=false" >> "$GITHUB_ENV"
+
+      - name: Create failure flag file
+        if: env.PASS == 'false'
+        run: touch ${{ env.FAIL_FLAG_PATH }} # Arbitrary file to provide content for the flag artifact
+
+      # The value of a job matrix output is set by whichever job happened to run last, not of use for this application.
+      # So it's necessary to use an alternative means of indicating that at least one submission failed the checks.
+      - name: Upload failure flag artifact
+        if: env.PASS == 'false'
+        uses: actions/upload-artifact@v2
+        with:
+          if-no-files-found: error
+          path: ${{ env.FAIL_FLAG_PATH }}
+          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+
+  check-submissions-result:
+    needs: check-submissions
+    runs-on: ubuntu-latest
+
+    outputs:
+      pass: ${{ steps.failure-flag-exists.outcome == 'failure' }}
+
+    steps:
+      - name: Check for existence of submission check failure flag artifact
+        id: failure-flag-exists
+        uses: actions/download-artifact@v2
+        continue-on-error: true
+        with:
+          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
 
   check-submissions-fail:
     needs:
-      - check-submissions
-    # Only run if the check-submissions job failed
-    if: failure() && needs.check-submissions.result == 'failure'
+      - check-submissions-result
+    if: needs.check-submissions-result.outputs.pass == 'false'
     runs-on: ubuntu-latest
 
     steps:
@@ -336,10 +372,14 @@ jobs:
   merge:
     needs:
       - parse
-      - check-submissions
+      - check-submissions-result
     # Only merge submissions that passed all checks
-    if: success() && needs.parse.outputs.type == 'submission'
+    if: >
+      needs.parse.outputs.type == 'submission'
+      && needs.check-submissions-result.outputs.pass == 'true'
     runs-on: ubuntu-latest
+    outputs:
+      pass: ${{ steps.merge.outcome == 'success' }}
 
     steps:
       - name: Approve pull request
@@ -354,6 +394,8 @@ jobs:
           event: APPROVE
 
       - name: Merge pull request
+        id: merge
+        continue-on-error: true # Error on merge conflict is expected
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -365,11 +407,13 @@ jobs:
           merge_method: squash
 
       - name: Checkout index source branch
+        if: steps.merge.outcome == 'success'
         uses: actions/checkout@v2
         with:
           ref: production
 
       - name: Add index source file entry for submissions
+        if: steps.merge.outcome == 'success'
         run: |
           INDEX_SOURCE_FILE_PATH="${{ github.workspace }}/registry.txt"
           git config --global user.email "bot@arduino.cc"
@@ -385,6 +429,7 @@ jobs:
           git push
 
       - name: Comment that submission was accepted
+        if: steps.merge.outcome == 'success'
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -405,8 +450,8 @@ jobs:
   merge-fail:
     needs:
       - merge
-    # Only run if the merge job failed
-    if: failure() && needs.merge.result == 'failure'
+    # Only run if the PR could not be merged
+    if: needs.merge.outputs.pass == 'false'
     runs-on: ubuntu-latest
     steps:
       - name: Comment on merge failure
@@ -478,8 +523,12 @@ jobs:
 
   unexpected-fail:
     needs:
+      # Run after all other jobs
+      - merge-fail
+      - check-submissions-fail
       - label
-    # Run if label or any of its job dependencies failed
+      - not-submission
+    # Run if any job failed. The workflow is configured so that jobs only fail when there is an unexpected error.
     if: failure()
     runs-on: ubuntu-latest
 
