@@ -3631,6 +3631,7 @@ https://github.com/technosf/ESPxRGB
 https://github.com/techpaul/PS2KeyAdvanced
 https://github.com/techpaul/PS2KeyMap
 https://github.com/techpaul/PS2KeyRaw
+https://github.com/techpaul/XMC_Servo
 https://github.com/techwillsaveus/Gamer
 https://github.com/techwillsaveus/GamerIR
 https://github.com/teckel12/arduino-toneac
