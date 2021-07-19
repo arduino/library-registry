@@ -1,3 +1,4 @@
+https://github.com/Infineon/arduino-multi-half-bridge
 https://github.com/aikopras/RSbus
 https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/miathedev/KomootBLEConnect
