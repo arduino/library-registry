@@ -4188,3 +4188,4 @@ https://github.com/bigsmalloverall/SimpleTaskManager.git|Contributed|SimpleTaskM
 https://github.com/dattasaurabh82/RV8803TinyMegaCore.git|Contributed|RV8803 For MegaTinyCore
 https://github.com/dattasaurabh82/tiny-i2c.git|Contributed|tiny-mega-i2c
 https://github.com/careyi3/MovingAverage.git|Contributed|MovingAverager
+https://github.com/SergeSkor/SSVXYMatrix.git|Contributed|SSVXYMatrix
