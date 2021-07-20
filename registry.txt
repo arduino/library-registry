@@ -4185,5 +4185,3 @@ https://github.com/akkoyun/B902AA.git|Contributed|B902AA
 https://github.com/lequan81/vn_lunar.git|Contributed|vn_lunar
 https://github.com/SergeSkor/SSVTimer.git|Contributed|SSVTimer
 https://github.com/bigsmalloverall/SimpleTaskManager.git|Contributed|SimpleTaskManager
-https://github.com/dattasaurabh82/RV8803TinyMegaCore.git|Contributed|RV8803 For MegaTinyCore
-https://github.com/dattasaurabh82/tiny-i2c.git|Contributed|tiny-mega-i2c
