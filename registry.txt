@@ -7,7 +7,6 @@ https://github.com/arduino-libraries/AudioZero.git|Arduino|AudioZero
 https://github.com/arduino-libraries/Bridge.git|Arduino|Bridge
 https://github.com/arduino-libraries/Esplora.git|Arduino|Esplora
 https://github.com/arduino-libraries/Ethernet.git|Arduino|Ethernet
-https://github.com/arduino-libraries/Firmata-Old.git|Arduino|Firmata
 https://github.com/arduino-libraries/GSM.git|Arduino|GSM
 https://github.com/arduino-libraries/LiquidCrystal.git|Arduino|LiquidCrystal
 https://github.com/arduino-libraries/Robot_Control.git|Arduino|Robot Control
@@ -702,7 +701,6 @@ https://github.com/finson-release/FirmataWithDeviceFeature.git|Contributed|Firma
 https://github.com/iotpipe/esp8266-arduino-iotpipe.git|Contributed|IoT Pipe
 https://github.com/olikraus/U8g2_Arduino.git|Contributed|U8g2
 https://github.com/abderraouf-adjal/ArduinoSpritzCipher.git|Contributed|SpritzCipher
-https://github.com/EscaVic/ROKduino.git|Contributed|ROKduino
 https://github.com/dxinteractive/ResponsiveAnalogRead.git|Contributed|ResponsiveAnalogRead
 https://github.com/FaBoPlatform/FaBoBLE-BLE113-Library.git|Contributed|FaBo 301 BLE SiliconLabs
 
@@ -1597,7 +1595,7 @@ https://github.com/elhayra/Strober.git|Contributed|Strober
 https://github.com/elhayra/SandTimer.git|Contributed|SandTimer
 https://github.com/elhayra/MilliStopper.git|Contributed|MilliStopper
 https://github.com/mike-matera/FastPID.git|Contributed|FastPID
-https://github.com/ettoreleandrotognoli/ArcPID.git|Contributed|PID
+https://github.com/ettoreleandrotognoli/ArcPID.git|Contributed|ArcPID
 https://github.com/nathanRamaNoodles/MusicWithoutDelay-LIbrary.git|Contributed|MusicWithoutDelay
 https://github.com/eagleSIA/eBoard.git|Contributed|eBoard shackle the Arduino
 https://github.com/ssilverman/TeensyDMX.git|Contributed|TeensyDMX
