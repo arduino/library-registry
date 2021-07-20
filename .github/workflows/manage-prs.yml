@@ -361,7 +361,7 @@ jobs:
             After resolving the issue, trigger this check again by doing one of the following:
 
             - Commit the required change to the branch you submitted this pull request from.
-            - Comment here, mentioning @ArduinoBot in the comment
+            - Comment here, mentioning `@ArduinoBot` in the comment
 
             More information:
             https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
