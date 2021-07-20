@@ -4084,3 +4084,4 @@ https://github.com/akkoyun/B902AA
 https://github.com/lequan81/vn_lunar
 https://github.com/SergeSkor/SSVTimer
 https://github.com/dattasaurabh82/RV8803TinyMegaCore
+https://github.com/dattasaurabh82/tiny-i2c
