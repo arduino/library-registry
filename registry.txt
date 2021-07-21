@@ -4190,3 +4190,4 @@ https://github.com/dattasaurabh82/tiny-i2c.git|Contributed|tiny-mega-i2c
 https://github.com/careyi3/MovingAverage.git|Contributed|MovingAverager
 https://github.com/SergeSkor/SSVXYMatrix.git|Contributed|SSVXYMatrix
 https://github.com/dattasaurabh82/TinyMegaI2C.git|Contributed|TinyMegaI2C
+https://github.com/dattasaurabh82/RV8803Tiny.git|Contributed|RV8803Tiny
