@@ -4199,3 +4199,4 @@ https://github.com/m5stack/ATOM_DTU_LoRaWAN.git|Contributed|ATOM_DTU_LoRaWAN
 https://github.com/Guswib/Potentiostat_Shield.git|Contributed|Potentiostat_Shield
 https://github.com/DmytroKorniienko/EmbUI.git|Contributed|EmbUI
 https://github.com/SergeSkor/SSVXYMatrixText.git|Contributed|SSVXYMatrixText
+https://github.com/danilopinotti/Battery18650Stats.git|Contributed|Battery_18650_Stats
