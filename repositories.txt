@@ -4095,3 +4095,4 @@ https://github.com/m5stack/ATOM_DTU_NB
 https://github.com/m5stack/ATOM_DTU_LoRaWAN
 https://github.com/DmytroKorniienko/EmbUI
 https://github.com/SergeSkor/SSVXYMatrixText
+https://github.com/danilopinotti/Battery18650Stats
