@@ -4196,3 +4196,4 @@ https://github.com/m5stack/UNIT_4RELAY.git|Contributed|UNIT_4RELAY
 https://github.com/m5stack/UNIT_ENV_III.git|Contributed|UNIT_ENV_III
 https://github.com/m5stack/ATOM_DTU_NB.git|Contributed|ATOM_DTU_NB
 https://github.com/m5stack/ATOM_DTU_LoRaWAN.git|Contributed|ATOM_DTU_LoRaWAN
+https://github.com/Guswib/Potentiostat_Shield.git|Contributed|Potentiostat_Shield
