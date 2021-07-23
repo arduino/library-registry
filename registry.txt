@@ -4200,3 +4200,4 @@ https://github.com/Guswib/Potentiostat_Shield.git|Contributed|Potentiostat_Shiel
 https://github.com/DmytroKorniienko/EmbUI.git|Contributed|EmbUI
 https://github.com/SergeSkor/SSVXYMatrixText.git|Contributed|SSVXYMatrixText
 https://github.com/danilopinotti/Battery18650Stats.git|Contributed|Battery_18650_Stats
+https://github.com/MrYsLab/NeoPixelConnect.git|Contributed|NeoPixelConnect
