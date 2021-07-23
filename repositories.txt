@@ -2663,6 +2663,7 @@ https://github.com/pololu/pololu-buzzer-arduino
 https://github.com/pololu/pololu-hd44780-arduino
 https://github.com/pololu/pololu-led-strip-arduino
 https://github.com/pololu/pololu-menu-arduino
+https://github.com/pololu/pololu-oled-arduino
 https://github.com/pololu/pololu-rpi-slave-arduino-library
 https://github.com/pololu/pushbutton-arduino
 https://github.com/pololu/qik-arduino
