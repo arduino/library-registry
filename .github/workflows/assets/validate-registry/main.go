@@ -43,8 +43,29 @@ func main() {
 		os.Exit(1)
 	}
 
+	validTypes := map[string]bool{
+		"Arduino":     true,
+		"Contributed": true,
+		"Partner":     true,
+		"Recommended": true,
+		"Retired":     true,
+	}
+
 	nameMap := make(map[string]bool)
 	for _, entry := range rawRepos {
+		// Check entry types
+		if len(entry.Types) == 0 {
+			fmt.Fprintf(os.Stderr, "error: Type not specified for library \"%s\"\n", entry.LibraryName)
+			os.Exit(1)
+		}
+		for _, entryType := range entry.Types {
+			if _, valid := validTypes[entryType]; !valid {
+				fmt.Fprintf(os.Stderr, "error: Invalid type \"%s\" used by library \"%s\"\n", entryType, entry.LibraryName)
+				os.Exit(1)
+			}
+		}
+
+		// Check library name of the entry
 		if _, found := nameMap[entry.LibraryName]; found {
 			fmt.Fprintf(os.Stderr, "error: Registry data file contains duplicates of name %s\n", entry.LibraryName)
 			os.Exit(1)
