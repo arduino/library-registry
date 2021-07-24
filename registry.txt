@@ -4203,3 +4203,4 @@ https://github.com/danilopinotti/Battery18650Stats.git|Contributed|Battery_18650
 https://github.com/MrYsLab/NeoPixelConnect.git|Contributed|NeoPixelConnect
 https://github.com/pololu/pololu-oled-arduino.git|Contributed|PololuOLED
 https://github.com/jspark311/ManuvrDrivers.git|Contributed|ManuvrDrivers
+https://github.com/WonderCRM/CRMui3.git|Contributed|CRMui3
