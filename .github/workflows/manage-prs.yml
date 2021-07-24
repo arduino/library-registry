@@ -6,6 +6,7 @@ env:
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
   CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT: check-submissions-failed
+  ERROR_MESSAGE_PREFIX: ":x: **ERROR:** "
 
 on:
   # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
@@ -205,7 +206,7 @@ jobs:
             |
             A problem was found with your submission ${{ matrix.submission.submissionURL }}
 
-            :x: **ERROR:** ${{ matrix.submission.error }}
+            ${{ env.ERROR_MESSAGE_PREFIX }}${{ matrix.submission.error }}
 
       - name: Set checks result to fail if error detected by submission parser
         if: matrix.submission.error != ''
@@ -296,7 +297,7 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            :x: **ERROR:** [Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
+            ${{ env.ERROR_MESSAGE_PREFIX }}[Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
 
             ```
             ${{ steps.read-lint-report.outputs.text-report }}
@@ -462,7 +463,7 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            :x: **ERROR:** Your submission meets all requirements. However, the pull request could not be merged.
+            ${{ env.ERROR_MESSAGE_PREFIX }}Your submission meets all requirements. However, the pull request could not be merged.
 
             Please follow this guide to resolve a merge conflict:
             https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github
