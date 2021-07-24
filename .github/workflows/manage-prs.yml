@@ -470,37 +470,12 @@ jobs:
 
             Once that is done, it will be merged automatically.
 
-      - name: Request a review in case assistance is required
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Don't attempt to request review from PR author.
-        uses: octokit/request-action@v2.x
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          reviewers: ${{ env.MAINTAINERS }}
-
   not-submission:
     needs:
       - parse
     if: needs.parse.outputs.type != 'submission' # These request types can't be automatically approved.
     runs-on: ubuntu-latest
-
     steps:
-      - name: Request pull request review
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true
-        uses: octokit/request-action@v2.x
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          reviewers: ${{ env.MAINTAINERS }}
-
       - name: Comment on required review
         uses: octokit/request-action@v2.x
         env:
@@ -543,18 +518,6 @@ jobs:
           labels: |
             - "status: maintenance required"
 
-      - name: Request pull request review
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true
-        uses: octokit/request-action@v2.x
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          reviewers: ${{ env.MAINTAINERS }}
-
       - name: Comment on unexpected failure
         uses: octokit/request-action@v2.x
         env:
@@ -582,3 +545,29 @@ jobs:
             :warning::warning::warning::warning:
           SLACK_COLOR: danger
           MSG_MINIMAL: true
+
+  request-review:
+    needs:
+      - merge-fail
+      - not-submission
+      - unexpected-fail
+    if: >
+      always() &&
+      (
+        needs.merge-fail.result != 'skipped' ||
+        needs.not-submission.result != 'skipped' ||
+        needs.unexpected-fail.result != 'skipped'
+      )
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request pull request review from maintainer
+        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Don't attempt to request review from PR author.
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          reviewers: ${{ env.MAINTAINERS }}
