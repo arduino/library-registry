@@ -4101,3 +4101,4 @@ https://github.com/DmytroKorniienko/EmbUI
 https://github.com/SergeSkor/SSVXYMatrixText
 https://github.com/danilopinotti/Battery18650Stats
 https://github.com/WonderCRM/CRMui3
+https://github.com/ricardoquesada/bluepad32-arduino
