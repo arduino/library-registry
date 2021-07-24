@@ -1,3 +1,4 @@
+https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
