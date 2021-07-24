@@ -3460,6 +3460,7 @@ https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
 https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
+https://github.com/sparkfun/vexMotor
 https://github.com/sparkfun/SparkFunDMX
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
