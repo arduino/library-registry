@@ -1769,6 +1769,7 @@ https://github.com/jspark311/Arduino-DS1881
 https://github.com/jspark311/Arduino-SX150x
 https://github.com/jspark311/Arduino-SX8634
 https://github.com/jspark311/CppPotpourri
+https://github.com/jspark311/ManuvrDrivers
 https://github.com/jspayneco/Debugger
 https://github.com/Juerd/ESP-WiFiSettings
 https://github.com/JulStrat/LibYxml
