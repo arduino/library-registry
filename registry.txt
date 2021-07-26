@@ -4206,3 +4206,4 @@ https://github.com/jspark311/ManuvrDrivers.git|Contributed|ManuvrDrivers
 https://github.com/WonderCRM/CRMui3.git|Contributed|CRMui3
 https://github.com/MrYsLab/NanoConnectHcSr04.git|Contributed|NanoConnectHcSr04
 https://github.com/ricardoquesada/bluepad32-arduino.git|Contributed|Bluepad32
+https://github.com/AeroboticsGlobalTeam/AEBO.git|Contributed|AEBO
