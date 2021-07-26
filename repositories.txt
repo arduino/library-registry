@@ -3203,7 +3203,6 @@ https://github.com/shashikg/PixhawkArduinoMAVLink
 https://github.com/shielddx/oatmeal-protocol
 https://github.com/shortbloke/Arduino_SNMP_Manager
 https://github.com/ShubhamAnnigeri/tinyECC-ArduinoIDE
-https://github.com/shubhamtivedi95/UltraDistSensor
 https://github.com/shurillu/CTBot
 https://github.com/shuvangkar/RingEEPROM
 https://github.com/siara-cc/esp_arduino_sqlite3_lib
