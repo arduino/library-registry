@@ -30,6 +30,8 @@ test_data_path = pathlib.Path(__file__).resolve().parent.joinpath("testdata")
         ("nonexistent.txt", False),
         ("invalid-data-format.txt", False),
         ("invalid-url-format.txt", False),
+        ("no-type.txt", False),
+        ("invalid-type.txt", False),
         ("duplicate-url.txt", False),
         ("duplicate-name.txt", False),
         ("valid.txt", True),
