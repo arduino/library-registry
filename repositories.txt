@@ -4064,6 +4064,8 @@ https://github.com/tig/FlashStringTable
 https://github.com/radariq/arduino-library
 https://gitlab.com/riva-lab/fastIO
 https://gitlab.com/riva-lab/SevenSegmentPanel
+https://gitlab.com/riva-lab/SimpleBME280
+https://gitlab.com/riva-lab/SimpleMeteoCalc
 https://github.com/konikoni428/BM64_arduino
 https://github.com/MarlinFirmware/U8glib-HAL
 https://github.com/Abdurraziq/ZMPT101B-arduino
