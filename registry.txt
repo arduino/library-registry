@@ -4211,3 +4211,4 @@ https://github.com/m5stack/MODULE_GRBL13.2.git|Contributed|MODULE_GRBL13.2
 https://gitlab.com/riva-lab/SimpleBME280.git|Contributed|SimpleBME280
 https://gitlab.com/riva-lab/SimpleMeteoCalc.git|Contributed|SimpleMeteoCalc
 https://github.com/hideakitai/ESP32SPISlave.git|Contributed|ESP32SPISlave
+https://github.com/Zentser/esp-zentser-sdk.git|Contributed|Zentser ESP SDK
