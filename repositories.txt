@@ -1183,7 +1183,7 @@ https://github.com/fabiopjve/ULWOS2
 https://github.com/fabiuz7/Dimmable-Light-Arduino
 https://github.com/fabiuz7/esp-logger-lib
 https://github.com/fabiuz7/melody-player-arduino
-https://github.com/fabianoriccardi/RTCMemory-ESP8266
+https://github.com/fabianoriccardi/rtcmemory
 https://github.com/fablab-bayreuth/WTV020SD16P
 https://github.com/FaBoPlatform/FaBo3Axis-ADXL345-Library
 https://github.com/FaBoPlatform/FaBo7Seg-TLC59208-Library
