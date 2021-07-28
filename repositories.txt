@@ -4107,3 +4107,4 @@ https://github.com/ricardoquesada/bluepad32-arduino
 https://github.com/AeroboticsGlobalTeam/AEBO
 https://github.com/shubhamtrivedi95/UltraDistSensor
 https://github.com/m5stack/MODULE_GRBL13.2
+https://github.com/Zentser/esp-zentser-sdk
