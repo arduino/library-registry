@@ -4111,3 +4111,4 @@ https://github.com/Zentser/esp-zentser-sdk
 https://github.com/SergeSkor/SSVLongTime
 https://github.com/SergeSkor/SSVAnySensor
 https://github.com/SergeSkor/SSVNTPCoreClass
+https://github.com/SergeSkor/SSVQueueStackArray
