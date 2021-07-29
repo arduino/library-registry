@@ -4213,3 +4213,4 @@ https://gitlab.com/riva-lab/SimpleMeteoCalc.git|Contributed|SimpleMeteoCalc
 https://github.com/hideakitai/ESP32SPISlave.git|Contributed|ESP32SPISlave
 https://github.com/Zentser/esp-zentser-sdk.git|Contributed|Zentser ESP SDK
 https://github.com/SergeSkor/SSVLongTime.git|Contributed|SSVLongTime
+https://github.com/SergeSkor/SSVAnySensor.git|Contributed|SSVAnySensor
