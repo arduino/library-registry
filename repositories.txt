@@ -4112,3 +4112,4 @@ https://github.com/SergeSkor/SSVLongTime
 https://github.com/SergeSkor/SSVAnySensor
 https://github.com/SergeSkor/SSVNTPCoreClass
 https://github.com/SergeSkor/SSVQueueStackArray
+https://github.com/SergeSkor/SSVWaitForStringInStream
