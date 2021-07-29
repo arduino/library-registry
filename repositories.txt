@@ -4110,3 +4110,4 @@ https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/Zentser/esp-zentser-sdk
 https://github.com/SergeSkor/SSVLongTime
 https://github.com/SergeSkor/SSVAnySensor
+https://github.com/SergeSkor/SSVNTPCoreClass
