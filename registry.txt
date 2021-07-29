@@ -4217,3 +4217,4 @@ https://github.com/SergeSkor/SSVAnySensor.git|Contributed|SSVAnySensor
 https://github.com/SergeSkor/SSVNTPCoreClass.git|Contributed|SSVNTPCoreClass
 https://github.com/SergeSkor/SSVQueueStackArray.git|Contributed|SSVQueueStackArray
 https://github.com/SergeSkor/SSVWaitForStringInStream.git|Contributed|SSVWaitForStringInStream
+https://github.com/khoih-prog/ESP32_C3_TimerInterrupt.git|Contributed|ESP32_C3_TimerInterrupt
