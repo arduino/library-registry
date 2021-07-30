@@ -4220,3 +4220,4 @@ https://github.com/SergeSkor/SSVWaitForStringInStream.git|Contributed|SSVWaitFor
 https://github.com/khoih-prog/ESP32_C3_TimerInterrupt.git|Contributed|ESP32_C3_TimerInterrupt
 https://github.com/PowerBroker2/MotorController.git|Contributed|MotorController
 https://github.com/FTTechBrasil/AqualaboSensor.git|Contributed|FTTech Aqualabo Sensors
+https://github.com/guttih/DisplayMenu.git|Contributed|DisplayMenu
