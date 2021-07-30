@@ -408,6 +408,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       pass: ${{ steps.merge.outcome == 'success' }}
+      status: ${{ steps.merge.outputs.status }}
 
     steps:
       - name: Approve pull request
@@ -482,7 +483,8 @@ jobs:
     if: needs.merge.outputs.pass == 'false'
     runs-on: ubuntu-latest
     steps:
-      - name: Comment on merge failure
+      - name: Comment on merge conflict
+        if: needs.merge.outputs.status == '405'
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -499,6 +501,10 @@ jobs:
             https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github
 
             Once that is done, it will be merged automatically.
+
+      - name: Fail on unidentified merge failure
+        if: needs.merge.outputs.status != '405'
+        run: exit 1 # Trigger the `unexpected-fail` job
 
   not-submission:
     needs:
