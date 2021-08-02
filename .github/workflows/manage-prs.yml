@@ -1,11 +1,12 @@
 name: Manage PRs
 
 env:
-  SUBMISSION_PARSER_VERSION: 1.0.0 # See: https://github.com/arduino/library-manager-submission-parser/releases
+  SUBMISSION_PARSER_VERSION: 1.1.0 # See: https://github.com/arduino/library-manager-submission-parser/releases
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
   CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT: check-submissions-failed
+  ERROR_MESSAGE_PREFIX: ":x: **ERROR:** "
 
 on:
   # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
@@ -41,6 +42,12 @@ jobs:
       artifact: ${{ steps.configuration.outputs.artifact }}
       path: ${{ steps.configuration.outputs.path }}
       filename: ${{ steps.configuration.outputs.filename }}
+      head: ${{ steps.head.outputs.head }}
+
+    env:
+      # See: https://docs.github.com/en/rest/reference/pulls#custom-media-types-for-pull-requests
+      DIFF_IDENTIFIER: diff
+      JSON_IDENTIFIER: raw+json
 
     steps:
       - name: Set configuration outputs
@@ -48,7 +55,7 @@ jobs:
         run: |
           echo "::set-output name=artifact::diff"
           echo "::set-output name=path::${{ runner.temp }}"
-          echo "::set-output name=filename::diff.txt"
+          echo "::set-output name=filename::${{ env.DIFF_IDENTIFIER }}"
 
       - name: Comment on comment trigger to provide feedback
         if: github.event_name == 'issue_comment'
@@ -66,18 +73,29 @@ jobs:
             |
             Hello! I'm checking your submission again.
 
-      - name: Get PR diff
+      - name: Get PR data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Two API requests are necessary, one for the PR diff and another for the metadata.
           # It's necessary to reference both pull_request.number and issue.number because only one of the two are
           # defined depending on whether the workflow is triggered by PR or comment event.
-          curl \
-            --fail \
-            --output "${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}" \
-            --header "Authorization: token $GITHUB_TOKEN" \
-            --header "Accept: application/vnd.github.v3.diff" \
-            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/pulls/${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          parallel \
+            ' \
+              curl \
+                --fail \
+                --output "${{ steps.configuration.outputs.path }}/{}" \
+                --header "Authorization: token $GITHUB_TOKEN" \
+                --header "Accept: application/vnd.github.v3.{}" \
+                https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/pulls/${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+            ' \
+            ::: \
+              ${{ env.DIFF_IDENTIFIER }} \
+              ${{ env.JSON_IDENTIFIER }}
+
+      - name: Get head SHA of diff
+        id: head
+        run: echo "::set-output name=head::$(jq -c .head.sha "${{ steps.configuration.outputs.path }}/${{ env.JSON_IDENTIFIER }}")"
 
       - name: Upload diff file to workflow artifact
         uses: actions/upload-artifact@v2
@@ -92,6 +110,7 @@ jobs:
 
     outputs:
       type: ${{ steps.parse-request.outputs.type }}
+      error: ${{ steps.parse-request.outputs.error }}
       arduinoLintLibraryManagerSetting: ${{ steps.parse-request.outputs.arduinoLintLibraryManagerSetting }}
       submissions: ${{ steps.parse-request.outputs.submissions }}
       index-entry: ${{ steps.parse-request.outputs.index-entry }}
@@ -132,6 +151,7 @@ jobs:
           # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in
           # certain workflow fields.
           echo "::set-output name=type::$(echo "$REQUEST" | jq -r -c '.type')"
+          echo "::set-output name=error::$(echo "$REQUEST" | jq -r -c '.error')"
           echo "::set-output name=arduinoLintLibraryManagerSetting::$(echo "$REQUEST" | jq -r -c '.arduinoLintLibraryManagerSetting')"
           echo "::set-output name=submissions::$(echo "$REQUEST" | jq -c '.submissions')"
           echo "::set-output name=index-entry::$(echo "$REQUEST" | jq -r -c '.indexEntry')"
@@ -154,6 +174,34 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           labels: |
             - ${{ needs.parse.outputs.type }}
+
+  parse-fail:
+    needs:
+      - parse
+    if: needs.parse.outputs.error != ''
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on error detected while parsing PR
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            Hi @${{ github.actor }}
+            A problem was found with your pull request:
+
+            ${{ env.ERROR_MESSAGE_PREFIX }}${{ needs.parse.outputs.error }}
+
+            Please resolve this error. The checks will automatically run again once that is done.
+
+            More information:
+            https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
 
   check-submissions:
     name: Check ${{ matrix.submission.submissionURL }}
@@ -205,7 +253,7 @@ jobs:
             |
             A problem was found with your submission ${{ matrix.submission.submissionURL }}
 
-            :x: **ERROR:** ${{ matrix.submission.error }}
+            ${{ env.ERROR_MESSAGE_PREFIX }}${{ matrix.submission.error }}
 
       - name: Set checks result to fail if error detected by submission parser
         if: matrix.submission.error != ''
@@ -296,7 +344,7 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            :x: **ERROR:** [Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
+            ${{ env.ERROR_MESSAGE_PREFIX }}[Arduino Lint](https://github.com/arduino/arduino-lint) found errors with ${{ matrix.submission.submissionURL }}:
 
             ```
             ${{ steps.read-lint-report.outputs.text-report }}
@@ -361,13 +409,14 @@ jobs:
             After resolving the issue, trigger this check again by doing one of the following:
 
             - Commit the required change to the branch you submitted this pull request from.
-            - Comment here, mentioning @ArduinoBot in the comment
+            - Comment here, mentioning `@ArduinoBot` in the comment
 
             More information:
             https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
 
   merge:
     needs:
+      - diff
       - parse
       - check-submissions-result
     # Only merge submissions that passed all checks
@@ -377,6 +426,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       pass: ${{ steps.merge.outcome == 'success' }}
+      status: ${{ steps.merge.outputs.status }}
 
     steps:
       - name: Approve pull request
@@ -401,6 +451,7 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          sha: ${{ needs.diff.outputs.head }}
           merge_method: squash
 
       - name: Checkout index source branch
@@ -451,7 +502,8 @@ jobs:
     if: needs.merge.outputs.pass == 'false'
     runs-on: ubuntu-latest
     steps:
-      - name: Comment on merge failure
+      - name: Comment on merge conflict
+        if: needs.merge.outputs.status == '405'
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -462,44 +514,42 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           body: |
             |
-            :x: **ERROR:** Your submission meets all requirements. However, the pull request could not be merged.
+            ${{ env.ERROR_MESSAGE_PREFIX }}Your submission meets all requirements. However, the pull request could not be merged.
 
             Please follow this guide to resolve a merge conflict:
             https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github
 
             Once that is done, it will be merged automatically.
 
-      - name: Request a review in case assistance is required
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Don't attempt to request review from PR author.
+      - name: Comment on diff head/PR head mismatch
+        if: needs.merge.outputs.status == '409'
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          reviewers: ${{ env.MAINTAINERS }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            It looks like there may have been an update to the pull request. If so, I'll check it again now.
+
+      - name: Fail on unidentified merge failure
+        if: >
+          needs.merge.outputs.status != '405' &&
+          needs.merge.outputs.status != '409'
+        run: exit 1 # Trigger the `unexpected-fail` job
 
   not-submission:
     needs:
       - parse
-    if: needs.parse.outputs.type != 'submission' # These request types can't be automatically approved.
+    # These request types can't be automatically approved.
+    if: >
+      needs.parse.outputs.type != 'submission' &&
+      needs.parse.outputs.type != 'invalid'
     runs-on: ubuntu-latest
-
     steps:
-      - name: Request pull request review
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true
-        uses: octokit/request-action@v2.x
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          reviewers: ${{ env.MAINTAINERS }}
-
       - name: Comment on required review
         uses: octokit/request-action@v2.x
         env:
@@ -521,6 +571,7 @@ jobs:
   unexpected-fail:
     needs:
       # Run after all other jobs
+      - parse-fail
       - merge-fail
       - check-submissions-fail
       - label
@@ -541,18 +592,6 @@ jobs:
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           labels: |
             - "status: maintenance required"
-
-      - name: Request pull request review
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true
-        uses: octokit/request-action@v2.x
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.event.repository.name }}
-          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-          reviewers: ${{ env.MAINTAINERS }}
 
       - name: Comment on unexpected failure
         uses: octokit/request-action@v2.x
@@ -581,3 +620,31 @@ jobs:
             :warning::warning::warning::warning:
           SLACK_COLOR: danger
           MSG_MINIMAL: true
+
+  request-review:
+    needs:
+      - parse-fail
+      - merge-fail
+      - not-submission
+      - unexpected-fail
+    if: >
+      always() &&
+      (
+        needs.parse-fail.result != 'skipped' ||
+        needs.merge-fail.result != 'skipped' ||
+        needs.not-submission.result != 'skipped' ||
+        needs.unexpected-fail.result != 'skipped'
+      )
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request pull request review from maintainer
+        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Don't attempt to request review from PR author.
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/pulls/{pull_number}/requested_reviewers
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          reviewers: ${{ env.MAINTAINERS }}
