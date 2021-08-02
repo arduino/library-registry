@@ -4225,3 +4225,4 @@ https://github.com/noah1510/unit-system-adruino.git|Contributed|unit-system
 https://github.com/sakabug/Bugtton.git|Contributed|Bugtton
 https://github.com/geekbleofficial/Geekble_LieDetector.git|Contributed|Geekble_LieDetector
 https://github.com/xiongyu0523/AzureRTOS-ThreadX-For-Arduino.git|Contributed|Azure RTOS ThreadX
+https://github.com/techpaul/XMC_Servo.git|Contributed|XMC_Servo
