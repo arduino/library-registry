@@ -1305,6 +1305,7 @@ https://github.com/gavinlyonsrepo/TM1638plus
 https://github.com/gbrd/arduino-teleinfo
 https://github.com/Geabong/ModbusRTUSlaveArduino
 https://github.com/geekbleofficial/Geekble_Oscillator
+https://github.com/geekbleofficial/Geekble_LieDetector
 https://github.com/gelraen/Arduino-PID-Library
 https://github.com/Gemelon/Pushbutton
 https://github.com/GerLech/LG_Matrix_Print
