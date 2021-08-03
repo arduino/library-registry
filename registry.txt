@@ -4227,3 +4227,4 @@ https://github.com/geekbleofficial/Geekble_LieDetector.git|Contributed|Geekble_L
 https://github.com/xiongyu0523/AzureRTOS-ThreadX-For-Arduino.git|Contributed|Azure RTOS ThreadX
 https://github.com/techpaul/XMC_Servo.git|Contributed|XMC_Servo
 https://github.com/dhi-nikhil/indhi-lib-arduino-esp32.git|Contributed|indhilib
+https://github.com/siktec-lab/SIKTEC-Keys.git|Contributed|SIKTEC Keys
