@@ -4124,4 +4124,8 @@ https://github.com/noah1510/unit-system-adruino
 https://github.com/sakabug/Bugtton
 https://github.com/xiongyu0523/AzureRTOS-ThreadX-For-Arduino
 https://github.com/dhi-nikhil/indhi-lib-arduino-esp32
+ttps://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library
+https://github.com/khoih-prog/ESP32_S2_ISR_Servo
+https://github.com/khoih-prog/ESP32_C3_ISR_Servo
+https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/Deadshot0x7/sonic
