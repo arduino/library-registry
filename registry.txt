@@ -4229,3 +4229,4 @@ https://github.com/techpaul/XMC_Servo.git|Contributed|XMC_Servo
 https://github.com/dhi-nikhil/indhi-lib-arduino-esp32.git|Contributed|indhilib
 https://github.com/siktec-lab/SIKTEC-Keys.git|Contributed|SIKTEC Keys
 https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library.git|Contributed|SparkFun Tsunami Super WAV Trigger Qwiic
+https://github.com/khoih-prog/ESP32_S2_ISR_Servo.git|Contributed|ESP32_S2_ISR_Servo
