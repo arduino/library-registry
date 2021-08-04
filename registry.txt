@@ -4232,3 +4232,4 @@ https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library.git|Contribut
 https://github.com/khoih-prog/ESP32_S2_ISR_Servo.git|Contributed|ESP32_S2_ISR_Servo
 https://github.com/khoih-prog/ESP32_C3_ISR_Servo.git|Contributed|ESP32_C3_ISR_Servo
 https://github.com/crmoratelli/SupmeaDO7016.git|Contributed|SupmeaDO7016
+https://github.com/siktec-lab/SIKTEC-AVR-Controller.git|Contributed|SIKTEC_AVR_Controller
