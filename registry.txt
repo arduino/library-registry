@@ -4231,3 +4231,4 @@ https://github.com/siktec-lab/SIKTEC-Keys.git|Contributed|SIKTEC Keys
 https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library.git|Contributed|SparkFun Tsunami Super WAV Trigger Qwiic
 https://github.com/khoih-prog/ESP32_S2_ISR_Servo.git|Contributed|ESP32_S2_ISR_Servo
 https://github.com/khoih-prog/ESP32_C3_ISR_Servo.git|Contributed|ESP32_C3_ISR_Servo
+https://github.com/crmoratelli/SupmeaDO7016.git|Contributed|SupmeaDO7016
