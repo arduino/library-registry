@@ -4235,3 +4235,4 @@ https://github.com/crmoratelli/SupmeaDO7016.git|Contributed|SupmeaDO7016
 https://github.com/siktec-lab/SIKTEC-AVR-Controller.git|Contributed|SIKTEC_AVR_Controller
 https://github.com/todd-herbert/heltec-eink-modules.git|Contributed|heltec-eink-modules
 https://gitlab.com/F-Schmidt/uulm-mcp23008.git|Contributed|UULM-MCP23008
+https://github.com/FTTechBrasil/FTTech_XBee.git|Contributed|FTTech SAMD51 XBee
