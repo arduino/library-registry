@@ -4132,3 +4132,4 @@ https://github.com/khoih-prog/ESP32_C3_ISR_Servo
 https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/todd-herbert/heltec-eink-modules
 https://gitlab.com/F-Schmidt/uulm-mcp23008
+https://github.com/Tinyu-Zhao/TinyGPSPlus
