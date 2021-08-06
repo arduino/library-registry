@@ -1151,6 +1151,7 @@ https://github.com/end2endzone/SoftTimers
 https://github.com/EngineeringRoom/Engineer_Regulator
 https://github.com/EnhancedRadioDevices/DDS
 https://github.com/EnhancedRadioDevices/HamShield_KISS
+https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/EnhancedRadioDevices/HamShield
 https://github.com/EnviroDIY/Arduino-SDI-12
 https://github.com/EnviroDIY/KellerModbus
