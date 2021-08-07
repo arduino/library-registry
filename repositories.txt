@@ -1,6 +1,7 @@
 https://github.com/FTTechBrasil/FTTech_XBee
 https://github.com/siktec-lab/SIKTEC-AVR-Controller
 https://github.com/siktec-lab/SIKTEC-Keys
+https://github.com/seanboe/SimpleFusion
 https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
