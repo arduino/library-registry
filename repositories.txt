@@ -4133,3 +4133,4 @@ https://github.com/khoih-prog/ESP32_C3_ISR_Servo
 https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/todd-herbert/heltec-eink-modules
 https://github.com/DavidArmstrong/WMM_Tinier
+https://github.com/khoih-prog/FlashStorage_RTL8720
