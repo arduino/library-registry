@@ -4237,3 +4237,4 @@ https://github.com/todd-herbert/heltec-eink-modules.git|Contributed|heltec-eink-
 https://gitlab.com/F-Schmidt/uulm-mcp23008.git|Contributed|UULM-MCP23008
 https://github.com/FTTechBrasil/FTTech_XBee.git|Contributed|FTTech SAMD51 XBee
 https://github.com/seanboe/SimpleFusion.git|Contributed|SimpleFsion
+https://github.com/DavidArmstrong/WMM_Tinier.git|Contributed|WMM_Tinier
