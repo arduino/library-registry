@@ -4240,3 +4240,4 @@ https://github.com/seanboe/SimpleFusion.git|Contributed|SimpleFsion
 https://github.com/DavidArmstrong/WMM_Tinier.git|Contributed|WMM_Tinier
 https://github.com/khoih-prog/FlashStorage_RTL8720.git|Contributed|FlashStorage_RTL8720
 https://gitlab.com/F-Schmidt/uulm_mcp23008_core.git|Contributed|UULM-MCP23008-CORE
+https://github.com/Basirk/I2CHelper.git|Contributed|I2C Helper
