@@ -4242,3 +4242,4 @@ https://github.com/khoih-prog/FlashStorage_RTL8720.git|Contributed|FlashStorage_
 https://gitlab.com/F-Schmidt/uulm_mcp23008_core.git|Contributed|UULM-MCP23008-CORE
 https://github.com/Basirk/I2CHelper.git|Contributed|I2C Helper
 https://github.com/khoih-prog/RTL8720_TimerInterrupt.git|Contributed|RTL8720_TimerInterrupt
+https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library.git|Contributed|SparkFun STC3x Arduino Library
