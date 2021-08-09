@@ -3445,6 +3445,7 @@ https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
+https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library
 https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library
 https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library
 https://github.com/sparkfun/SparkFun_T5403_Barometric_Sensor_Arduino_Library
