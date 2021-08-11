@@ -3,7 +3,7 @@ name: Check Go
 
 env:
   # See: https://github.com/actions/setup-go/tree/v2#readme
-  GO_VERSION: "1.14"
+  GO_VERSION: "1.16"
 
 # See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 on:
@@ -87,6 +87,9 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           version: 3.x
+
+      - name: Install golint
+        run: go install golang.org/x/lint/golint@latest
 
       - name: Check style
         run: task --silent go:lint
