@@ -4141,3 +4141,4 @@ https://github.com/Basirk/I2CHelper
 https://github.com/khoih-prog/RTL8720_TimerInterrupt
 https://github.com/astuder/SwarmTile
 https://github.com/khoih-prog/RTL8720_RTC
+https://github.com/fbiego/CST816S
