@@ -46,6 +46,7 @@ jobs:
 
       - name: Check license file
         run: |
+          EXIT_STATUS=0
           # See: https://github.com/licensee/licensee
           LICENSEE_OUTPUT="$(licensee detect --json --confidence=100)"
 
@@ -53,12 +54,14 @@ jobs:
           echo "Detected license file: $DETECTED_LICENSE_FILE"
           if [ "$DETECTED_LICENSE_FILE" != "\"$EXPECTED_LICENSE_FILENAME\"" ]; then
             echo "ERROR: detected license file doesn't match expected: $EXPECTED_LICENSE_FILENAME"
-            exit 1
+            EXIT_STATUS=1
           fi
 
           DETECTED_LICENSE_TYPE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].matched_license | tr --delete '\r')"
           echo "Detected license type: $DETECTED_LICENSE_TYPE"
           if [ "$DETECTED_LICENSE_TYPE" != "\"$EXPECTED_LICENSE_TYPE\"" ]; then
             echo "ERROR: detected license type doesn't match expected $EXPECTED_LICENSE_TYPE"
-            exit 1
+            EXIT_STATUS=1
           fi
+
+          exit $EXIT_STATUS
