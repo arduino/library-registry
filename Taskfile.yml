@@ -86,14 +86,12 @@ tasks:
     dir: "{{.GO_PROJECT_PATH}}"
     cmds:
       - |
-        PROJECT_PATH="$PWD"
-        # `go get` and `go list` commands must be run from a temporary folder to avoid polluting go.mod
-        cd "$(mktemp -d "${TMPDIR-${TMP-/tmp}}/task-temporary-XXXXX")"
-        go get golang.org/x/lint/golint
-        GOLINT_PATH="$(go list -f '{{"{{"}}.Target{{"}}"}}' golang.org/x/lint/golint || echo "false")"
-        # `golint` must be run from the module folder
-        cd "$PROJECT_PATH"
-        "$GOLINT_PATH" \
+        if ! which golint &>/dev/null; then
+          echo "golint not installed or not in PATH. Please install: https://github.com/golang/lint#installation"
+          exit 1
+        fi
+      - |
+        golint \
           {{default "-min_confidence 0.8 -set_exit_status" .GO_LINT_FLAGS}} \
           {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
 
