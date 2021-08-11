@@ -1,3 +1,4 @@
+# Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/check-license.md
 name: Check License
 
 env:
