@@ -4247,3 +4247,4 @@ https://github.com/astuder/SwarmTile.git|Contributed|SwarmTile
 https://github.com/RAKWireless/RAK12010-VEML7700-Library.git|Contributed|RAKwireless VEML Light Sensor
 https://github.com/khoih-prog/RTL8720_RTC.git|Contributed|RTL8720_RTC
 https://github.com/fbiego/CST816S.git|Contributed|CST816S
+https://github.com/bitbank2/JPEGENC.git|Contributed|JPEGENC
