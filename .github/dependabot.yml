@@ -1,11 +1,33 @@
-# See: https://docs.github.com/en/github/administering-a-repository/configuration-options-for-dependency-updates#about-the-dependabotyml-file
+# See: https://docs.github.com/en/code-security/supply-chain-security/configuration-options-for-dependency-updates#about-the-dependabotyml-file
 version: 2
 
 updates:
   # Configure check for outdated GitHub Actions actions in workflows.
-  # See: https://docs.github.com/en/github/administering-a-repository/keeping-your-actions-up-to-date-with-dependabot
+  # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/dependabot/README.md
+  # See: https://docs.github.com/en/code-security/supply-chain-security/keeping-your-actions-up-to-date-with-dependabot
   - package-ecosystem: github-actions
     directory: / # Check the repository's workflows under /.github/workflows/
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
+  - package-ecosystem: github-actions
+    target-branch: production
+    directory: /
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
+  - package-ecosystem: gomod
+    target-branch: production
+    directory: /.github/workflows/assets/validate-registry/
+    schedule:
+      interval: daily
+    labels:
+      - "topic: infrastructure"
+  - package-ecosystem: pip
+    target-branch: production
+    directory: /
     schedule:
       interval: daily
     labels:
