@@ -2915,6 +2915,7 @@ https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADS1X15
 https://github.com/RobTillaart/ADT7470
+https://github.com/RobTillaart/AGS02MA
 https://github.com/RobTillaart/AM232X
 https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
