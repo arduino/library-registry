@@ -4,7 +4,7 @@
 #
 # This software is released under the GNU General Public License version 3,
 # The terms of this license can be found at:
-# https: // www.gnu.org/licenses/gpl-3.0.en.html
+# https://www.gnu.org/licenses/gpl-3.0.en.html
 #
 # You can be released from the requirements of the above licenses by purchasing
 # a commercial license. Buying such a license is mandatory if you want to
