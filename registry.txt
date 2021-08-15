@@ -4250,3 +4250,4 @@ https://github.com/fbiego/CST816S.git|Contributed|CST816S
 https://github.com/bitbank2/JPEGENC.git|Contributed|JPEGENC
 https://github.com/JulStrat/uCDB.git|Contributed|uCDB
 https://github.com/RobTillaart/AGS02MA.git|Contributed|AGS02MA
+https://github.com/khoih-prog/ESP32_New_TimerInterrupt.git|Contributed|ESP32_New_TimerInterrupt
