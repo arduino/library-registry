@@ -4145,3 +4145,4 @@ https://github.com/astuder/SwarmTile
 https://github.com/khoih-prog/RTL8720_RTC
 https://github.com/fbiego/CST816S
 https://github.com/bitbank2/JPEGENC
+https://github.com/khoih-prog/ESP32_New_TimerInterrupt
