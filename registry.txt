@@ -4254,3 +4254,4 @@ https://github.com/khoih-prog/ESP32_New_TimerInterrupt.git|Contributed|ESP32_New
 https://github.com/khoih-prog/ESP32_New_ISR_Servo.git|Contributed|ESP32_New_ISR_Servo
 https://github.com/BEAT-System/SerialCom.git|Contributed|SerialCom
 https://github.com/SchooMyDevelopment/SchooMyUtilities.git|Contributed|SchooMyUtilities
+https://github.com/khoih-prog/FlashStorage_STM32F1.git|Contributed|FlashStorage_STM32F1
