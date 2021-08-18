@@ -4255,3 +4255,4 @@ https://github.com/khoih-prog/ESP32_New_ISR_Servo.git|Contributed|ESP32_New_ISR_
 https://github.com/BEAT-System/SerialCom.git|Contributed|SerialCom
 https://github.com/SchooMyDevelopment/SchooMyUtilities.git|Contributed|SchooMyUtilities
 https://github.com/khoih-prog/FlashStorage_STM32F1.git|Contributed|FlashStorage_STM32F1
+https://github.com/m5stack/M5_ADS1100.git|Contributed|M5_ADS1100
