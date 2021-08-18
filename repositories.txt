@@ -769,6 +769,7 @@ https://github.com/Bodmer/JPEGDecoder
 https://github.com/Bodmer/TFT_eSPI
 https://github.com/Bodmer/TJpg_Decoder
 https://github.com/bogde/HX711
+https://github.com/m5stack/M5_ADS1100
 https://github.com/bolderflight/AMS5812
 https://github.com/bolderflight/AMS5915
 https://github.com/bolderflight/BME280
