@@ -6,6 +6,7 @@ https://github.com/seanboe/SimpleFusion
 https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
+https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
