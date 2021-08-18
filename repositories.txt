@@ -814,6 +814,11 @@ https://github.com/bxparks/AceCRC
 https://github.com/bxparks/AceRoutine
 https://github.com/bxparks/AceTime
 https://github.com/bxparks/AceUtils
+https://github.com/bxparks/AceSegment
+https://github.com/bxparks/AceSegmentWriter
+https://github.com/bxparks/AceSPI
+https://github.com/bxparks/AceTMI
+https://github.com/bxparks/AceWire
 https://github.com/bxparks/AUnit
 https://github.com/byronholldorf/uMulti
 https://github.com/byteAgenten/ArduinoArcherPanelClient
