@@ -4262,3 +4262,4 @@ https://github.com/bxparks/AceSegmentWriter.git|Contributed|AceSegmentWriter
 https://github.com/bxparks/AceSPI.git|Contributed|AceSPI
 https://github.com/bxparks/AceTMI.git|Contributed|AceTMI
 https://github.com/bxparks/AceWire.git|Contributed|AceWire
+https://github.com/m5stack/M5_BMM150.git|Contributed|M5_BMM150
