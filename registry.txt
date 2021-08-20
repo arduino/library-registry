@@ -4266,3 +4266,4 @@ https://github.com/m5stack/M5_BMM150.git|Contributed|M5_BMM150
 https://github.com/m5stack/M5_ADS1115.git|Contributed|M5_ADS1115
 https://github.com/PowerBroker2/ArduPID.git|Contributed|ArduPID
 https://github.com/m5stack/M5_AD9833.git|Contributed|M5_AD9833
+https://github.com/Tinyu-Zhao/PCA9554.git|Contributed|PCA9554
