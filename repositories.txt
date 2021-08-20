@@ -386,6 +386,7 @@ https://github.com/allthingstalk/arduino-lorawan-sdk
 https://github.com/allthingstalk/arduino-ltem-sdk
 https://github.com/allthingstalk/arduino-wifi-sdk
 https://github.com/AllWize/allwize
+https://github.com/AlexTutorial/KrokoTS
 https://github.com/AllWize/mbus-payload
 https://github.com/almavios/almavios-lit-mqtt
 https://github.com/AloriumTechnology/evo_bsp
@@ -485,6 +486,7 @@ https://github.com/ardnew/ILI9341-Layout-Manager
 https://github.com/ardnew/STUSB4500
 https://github.com/ardnew/XPT2046_Calibrated
 https://github.com/Arduboy/Arduboy
+https://github.com/AlexTutorial/KrokoTS
 https://github.com/Arduboy/ArduboyPlaytune
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
