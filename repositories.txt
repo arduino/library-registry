@@ -7,7 +7,6 @@ https://github.com/seanboe/SimpleFusion
 https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
-https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
@@ -18,6 +17,8 @@ https://github.com/aikopras/RSbus
 https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/RobotGrrl/PolylineArduino
+https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/Tinyu-Zhao/PCA9554
 https://github.com/chochain/nanoFORTH
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
