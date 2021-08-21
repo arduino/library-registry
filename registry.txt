@@ -4271,3 +4271,4 @@ https://github.com/AlexTutorial/KrokoTS.git|Contributed|KrokoTS
 https://bitbucket.org/David_Such/nexgen_motorshield.git|Contributed|NexgenMotorShield
 https://github.com/khoih-prog/STM32_ISR_Servo.git|Contributed|STM32_ISR_Servo
 https://github.com/edge-ml/arduino.git|Contributed|EdgeML
+https://github.com/Rad-hi/MyButton_Arduino.git|Contributed|MyButton
