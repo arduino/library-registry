@@ -4274,3 +4274,4 @@ https://github.com/edge-ml/arduino.git|Contributed|EdgeML
 https://github.com/Rad-hi/MyButton_Arduino.git|Contributed|MyButton
 https://github.com/khoih-prog/RP2040_ISR_Servo.git|Contributed|RP2040_ISR_Servo
 https://github.com/micromouseonline/BasicEncoder.git|Contributed|BasicEncoder
+https://github.com/khoih-prog/SAMD_ISR_Servo.git|Contributed|SAMD_ISR_Servo
