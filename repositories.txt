@@ -4169,3 +4169,4 @@ https://bitbucket.org/David_Such/nexgen_motorshield
 https://github.com/khoih-prog/STM32_ISR_Servo
 https://github.com/edge-ml/arduino
 https://github.com/khoih-prog/RP2040_ISR_Servo
+https://github.com/khoih-prog/SAMD_ISR_Servo
