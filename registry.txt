@@ -4277,3 +4277,4 @@ https://github.com/micromouseonline/BasicEncoder.git|Contributed|BasicEncoder
 https://github.com/khoih-prog/SAMD_ISR_Servo.git|Contributed|SAMD_ISR_Servo
 https://github.com/khoih-prog/NRF52_ISR_Servo.git|Contributed|NRF52_ISR_Servo
 https://github.com/RobTillaart/MTP40C.git|Contributed|MTP40C
+https://github.com/adrian200223/Simple5641AS.git|Contributed|Simple5641AS
