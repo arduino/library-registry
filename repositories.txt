@@ -4171,3 +4171,4 @@ https://github.com/edge-ml/arduino
 https://github.com/khoih-prog/RP2040_ISR_Servo
 https://github.com/khoih-prog/SAMD_ISR_Servo
 https://github.com/khoih-prog/NRF52_ISR_Servo
+https://github.com/adafruit/DHT-sensor-library
