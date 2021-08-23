@@ -827,6 +827,7 @@ https://github.com/bxparks/AceSegmentWriter
 https://github.com/bxparks/AceSPI
 https://github.com/bxparks/AceTMI
 https://github.com/bxparks/AceWire
+https://github.com/bxparks/AceSorting
 https://github.com/bxparks/AUnit
 https://github.com/byronholldorf/uMulti
 https://github.com/byteAgenten/ArduinoArcherPanelClient
