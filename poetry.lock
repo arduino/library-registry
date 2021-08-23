@@ -254,7 +254,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "yamllint"
-version = "1.26.2"
+version = "1.26.3"
 description = "A linter for YAML files."
 category = "dev"
 optional = false
@@ -267,7 +267,7 @@ pyyaml = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "0b6df3915ae7716a2a3dc4836ffc71cf7cb45f7e53f301a4ed0f9533414b1c07"
+content-hash = "8e80eb5216010493fc810f917ddcee58a0a26bb6ad156d470e7d2ab256a44418"
 
 [metadata.files]
 appdirs = [
@@ -454,5 +454,5 @@ tomli = [
     {file = "tomli-1.0.4.tar.gz", hash = "sha256:be670d0d8d7570fd0ea0113bd7bb1ba3ac6706b4de062cc4c952769355c9c268"},
 ]
 yamllint = [
-    {file = "yamllint-1.26.2.tar.gz", hash = "sha256:0b08a96750248fdf21f1e8193cb7787554ef75ed57b27f621cd6b3bf09af11a1"},
+    {file = "yamllint-1.26.3.tar.gz", hash = "sha256:3934dcde484374596d6b52d8db412929a169f6d9e52e20f9ade5bf3523d9b96e"},
 ]
