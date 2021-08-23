@@ -30,7 +30,6 @@ https://github.com/RCmags/vector_datatype
 https://github.com/RCmags/ADNS3080
 https://github.com/RCmags/basicMPU6050
 https://github.com/RCmags/imuFilter
-https://github.com/RobTillaart/MAX14661
 https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library
 https://github.com/bitbank2/PNGdec
 https://github.com/noah1510/generic-Arduino
@@ -2991,6 +2990,7 @@ https://github.com/RobTillaart/Kelvin2RGB
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/M62429
+https://github.com/RobTillaart/MAX14661
 https://github.com/RobTillaart/MAX31855_RT
 https://github.com/RobTillaart/Max44009
 https://github.com/RobTillaart/MCP_ADC
@@ -3001,6 +3001,7 @@ https://github.com/RobTillaart/MCP9808_RT
 https://github.com/RobTillaart/ML8511
 https://github.com/RobTillaart/MS5611
 https://github.com/RobTillaart/MT8870
+https://github.com/RobTillaart/MTP40C
 https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/nibbleArray
