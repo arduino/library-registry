@@ -1,3 +1,6 @@
+https://github.com/micromouseonline/BasicEncoder
+https://github.com/Rad-hi/MyButton_Arduino
+https://github.com/PowerBroker2/ArduPID
 https://github.com/JulStrat/uCDB
 https://github.com/FTTechBrasil/FTTech_XBee
 https://github.com/siktec-lab/SIKTEC-AVR-Controller
@@ -6,6 +9,10 @@ https://github.com/seanboe/SimpleFusion
 https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
+https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/m5stack/M5_ADS1115
+https://github.com/m5stack/M5_AD9833
+https://github.com/m5stack/M5_BMM150
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -13,6 +20,7 @@ https://github.com/aikopras/RSbus
 https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/RobotGrrl/PolylineArduino
+https://github.com/Tinyu-Zhao/PCA9554
 https://github.com/chochain/nanoFORTH
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
@@ -479,6 +487,7 @@ https://github.com/ardnew/ILI9341-Layout-Manager
 https://github.com/ardnew/STUSB4500
 https://github.com/ardnew/XPT2046_Calibrated
 https://github.com/Arduboy/Arduboy
+https://github.com/AlexTutorial/KrokoTS
 https://github.com/Arduboy/ArduboyPlaytune
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
@@ -769,6 +778,7 @@ https://github.com/Bodmer/JPEGDecoder
 https://github.com/Bodmer/TFT_eSPI
 https://github.com/Bodmer/TJpg_Decoder
 https://github.com/bogde/HX711
+https://github.com/m5stack/M5_ADS1100
 https://github.com/bolderflight/AMS5812
 https://github.com/bolderflight/AMS5915
 https://github.com/bolderflight/BME280
@@ -812,6 +822,11 @@ https://github.com/bxparks/AceCRC
 https://github.com/bxparks/AceRoutine
 https://github.com/bxparks/AceTime
 https://github.com/bxparks/AceUtils
+https://github.com/bxparks/AceSegment
+https://github.com/bxparks/AceSegmentWriter
+https://github.com/bxparks/AceSPI
+https://github.com/bxparks/AceTMI
+https://github.com/bxparks/AceWire
 https://github.com/bxparks/AUnit
 https://github.com/byronholldorf/uMulti
 https://github.com/byteAgenten/ArduinoArcherPanelClient
@@ -4145,3 +4160,14 @@ https://github.com/astuder/SwarmTile
 https://github.com/khoih-prog/RTL8720_RTC
 https://github.com/fbiego/CST816S
 https://github.com/bitbank2/JPEGENC
+https://github.com/khoih-prog/ESP32_New_TimerInterrupt
+https://github.com/khoih-prog/ESP32_New_ISR_Servo
+https://github.com/BEAT-System/SerialCom
+https://github.com/SchooMyDevelopment/SchooMyUtilities
+https://github.com/khoih-prog/FlashStorage_STM32F1
+https://bitbucket.org/David_Such/nexgen_motorshield
+https://github.com/khoih-prog/STM32_ISR_Servo
+https://github.com/edge-ml/arduino
+https://github.com/khoih-prog/RP2040_ISR_Servo
+https://github.com/khoih-prog/SAMD_ISR_Servo
+https://github.com/khoih-prog/NRF52_ISR_Servo
