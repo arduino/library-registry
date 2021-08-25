@@ -4280,3 +4280,4 @@ https://github.com/RobTillaart/MTP40C.git|Contributed|MTP40C
 https://github.com/adrian200223/Simple5641AS.git|Contributed|Simple5641AS
 https://github.com/pablo-sampaio/easy_mfrc522.git|Contributed|Easy MFRC522
 https://github.com/bxparks/AceSorting.git|Contributed|AceSorting
+https://github.com/treeaa/BME33M251.git|Contributed|BME33M251
