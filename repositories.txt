@@ -4177,5 +4177,3 @@ https://github.com/adrian200223/Simple5641AS
 https://github.com/pablo-sampaio/easy_mfrc522/
 https://github.com/treeaa/BME33M251
 https://github.com/lozziboy/arduino-serial-variable-table
-https://github.com/levkovigor/MMC34160PJ
-https://github.com/levkovigor/ppposclient
