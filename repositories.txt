@@ -13,6 +13,7 @@ https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
+https://github.com/m5stack/M5_Finger
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
