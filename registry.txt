@@ -4286,3 +4286,4 @@ https://github.com/levkovigor/MMC34160PJ.git|Contributed|MMC34160PJ
 https://github.com/levkovigor/ppposclient.git|Contributed|PPPOSClient
 https://github.com/levkovigor/GT811.git|Contributed|GT811 Library
 https://github.com/m5stack/M5_Finger.git|Contributed|M5_Finger
+https://github.com/iotkaran/Arduino.git|Contributed|Iotkaran
