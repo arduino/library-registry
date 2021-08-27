@@ -4289,3 +4289,4 @@ https://github.com/m5stack/M5_Finger.git|Contributed|M5_Finger
 https://github.com/iotkaran/Arduino.git|Contributed|Iotkaran
 https://github.com/levkovigor/LTR390.git|Contributed|LTR390
 https://github.com/Tinyu-Zhao/FFT.git|Contributed|FFT
+https://github.com/masadaruma/TB67H450-arduino-library.git|Contributed|TB67H450-arduino-library
