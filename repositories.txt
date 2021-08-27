@@ -22,6 +22,7 @@ https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/RobotGrrl/PolylineArduino
 https://github.com/Tinyu-Zhao/PCA9554
+https://github.com/Tinyu-Zhao/FFT
 https://github.com/chochain/nanoFORTH
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
