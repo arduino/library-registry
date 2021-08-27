@@ -2254,6 +2254,7 @@ https://github.com/MaximIntegrated/MAX31328-Arduino-Driver
 https://github.com/maxpautsch/mPower
 https://github.com/maxpautsch/SvgParser
 https://github.com/maykon/ButtonDebounce
+https://github.com/masadaruma/TB67H450-arduino-library
 https://github.com/mbratch/TaskJockey
 https://github.com/mcauser/i2cdetect
 https://github.com/mcci-catena/arduino-lmic
