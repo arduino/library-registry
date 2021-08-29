@@ -2955,6 +2955,7 @@ https://github.com/RobTillaart/CountDown
 https://github.com/RobTillaart/Cozir
 https://github.com/RobTillaart/CRC
 https://github.com/RobTillaart/Currency
+https://github.com/RobTillaart/DAC8550
 https://github.com/RobTillaart/DAC8551
 https://github.com/RobTillaart/DAC8552
 https://github.com/RobTillaart/DAC8554
