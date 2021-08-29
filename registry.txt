@@ -4294,3 +4294,4 @@ https://github.com/Tinyu-Zhao/TFTTerminal.git|Contributed|TFTTerminal
 https://github.com/1452206376/CH9328-Keyboard.git|Contributed|CH9328-Keyboard
 https://github.com/cygig/DailyStruggleButton.git|Contributed|DailyStrugleButton
 https://github.com/9glt/arduino-attiny85-mcp23017-library.git|Contributed|MCP23017_Attiny85
+https://github.com/RobTillaart/DAC8550.git|Contributed|DAC8550
