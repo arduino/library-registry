@@ -1,3 +1,4 @@
+https://github.com/cygig/DailyStruggleButton
 https://github.com/micromouseonline/BasicEncoder
 https://github.com/Rad-hi/MyButton_Arduino
 https://github.com/PowerBroker2/ArduPID
@@ -13,6 +14,7 @@ https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
+https://github.com/m5stack/M5_Finger
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -21,6 +23,8 @@ https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/RobotGrrl/PolylineArduino
 https://github.com/Tinyu-Zhao/PCA9554
+https://github.com/Tinyu-Zhao/FFT
+https://github.com/Tinyu-Zhao/TFTTerminal
 https://github.com/chochain/nanoFORTH
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
@@ -827,6 +831,7 @@ https://github.com/bxparks/AceSegmentWriter
 https://github.com/bxparks/AceSPI
 https://github.com/bxparks/AceTMI
 https://github.com/bxparks/AceWire
+https://github.com/bxparks/AceSorting
 https://github.com/bxparks/AUnit
 https://github.com/byronholldorf/uMulti
 https://github.com/byteAgenten/ArduinoArcherPanelClient
@@ -2251,6 +2256,7 @@ https://github.com/MaximIntegrated/MAX31328-Arduino-Driver
 https://github.com/maxpautsch/mPower
 https://github.com/maxpautsch/SvgParser
 https://github.com/maykon/ButtonDebounce
+https://github.com/masadaruma/TB67H450-arduino-library
 https://github.com/mbratch/TaskJockey
 https://github.com/mcauser/i2cdetect
 https://github.com/mcci-catena/arduino-lmic
@@ -4172,3 +4178,14 @@ https://github.com/edge-ml/arduino
 https://github.com/khoih-prog/RP2040_ISR_Servo
 https://github.com/khoih-prog/SAMD_ISR_Servo
 https://github.com/khoih-prog/NRF52_ISR_Servo
+https://github.com/adrian200223/Simple5641AS
+https://github.com/pablo-sampaio/easy_mfrc522/
+https://github.com/treeaa/BME33M251
+https://github.com/lozziboy/arduino-serial-variable-table
+https://github.com/levkovigor/MMC34160PJ
+https://github.com/levkovigor/ppposclient
+https://github.com/levkovigor/GT811
+https://github.com/iotkaran/Arduino
+https://github.com/levkovigor/LTR390
+https://github.com/1452206376/CH9328-Keyboard
+https://github.com/9glt/arduino-attiny85-mcp23017-library
