@@ -1670,6 +1670,7 @@ https://github.com/jandrassy/UnoWiFiDevEdSerial1
 https://github.com/jandrassy/WiFiEspAT
 https://github.com/janelia-arduino/AD57X4R
 https://github.com/janelia-arduino/Array
+https://github.com/janelia-arduino/AT42QT
 https://github.com/janelia-arduino/Functor
 https://github.com/janelia-arduino/JsmnStream
 https://github.com/janelia-arduino/MPR121
