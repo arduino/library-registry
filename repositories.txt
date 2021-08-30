@@ -8,6 +8,7 @@ https://github.com/siktec-lab/SIKTEC-AVR-Controller
 https://github.com/siktec-lab/SIKTEC-Keys
 https://github.com/seanboe/SimpleFusion
 https://github.com/FTTechBrasil/AqualaboSensor
+https://github.com/ncdcommunity/Arduino_Library_ADS1115_16Bit_4Channel_ADC
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/Tinyu-Zhao/TinyGPSPlus
