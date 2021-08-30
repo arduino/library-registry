@@ -4195,3 +4195,4 @@ https://github.com/9glt/arduino-attiny85-mcp23017-library
 https://github.com/khoih-prog/FS_Nano33BLE
 https://github.com/EscapeAutomate/ArduinoLib
 https://github.com/107-systems/107-Arduino-BoostUnits
+https://github.com/107-systems/107-Arduino-Sensor
