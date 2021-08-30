@@ -4296,3 +4296,4 @@ https://github.com/cygig/DailyStruggleButton.git|Contributed|DailyStrugleButton
 https://github.com/9glt/arduino-attiny85-mcp23017-library.git|Contributed|MCP23017_Attiny85
 https://github.com/RobTillaart/DAC8550.git|Contributed|DAC8550
 https://github.com/khoih-prog/FS_Nano33BLE.git|Contributed|FS_Nano33BLE
+https://github.com/arduino-libraries/Arduino_APA102.git|Arduino|Arduino_APA102
