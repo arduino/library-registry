@@ -23,6 +23,7 @@ https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/RobotGrrl/PolylineArduino
 https://github.com/Tinyu-Zhao/PCA9554
+https://github.com/ncdcommunity/Arduino_Library_ADS1115_16Bit_4Channel_ADC
 https://github.com/Tinyu-Zhao/FFT
 https://github.com/Tinyu-Zhao/TFTTerminal
 https://github.com/chochain/nanoFORTH
