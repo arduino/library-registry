@@ -4300,3 +4300,4 @@ https://github.com/arduino-libraries/Arduino_APA102.git|Arduino|Arduino_APA102
 https://github.com/EscapeAutomate/ArduinoLib.git|Contributed|EscapeAutomate
 https://github.com/107-systems/107-Arduino-BoostUnits.git|Contributed|107-Arduino-BoostUnits
 https://github.com/janelia-arduino/AT42QT.git|Contributed|AT42QT
+https://github.com/107-systems/107-Arduino-Sensor.git|Contributed|107-Arduino-Sensor
