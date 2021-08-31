@@ -4285,7 +4285,7 @@ https://github.com/lozziboy/arduino-serial-variable-table.git|Contributed|cSeria
 https://github.com/levkovigor/MMC34160PJ.git|Contributed|MMC34160PJ
 https://github.com/levkovigor/ppposclient.git|Contributed|PPPOSClient
 https://github.com/levkovigor/GT811.git|Contributed|GT811 Library
-https://github.com/m5stack/M5_FPC1020A.git|Contributed|M5_Finger
+https://github.com/m5stack/M5_FPC1020A.git|Contributed|M5_FPC1020A
 https://github.com/iotkaran/Arduino.git|Contributed|Iotkaran
 https://github.com/levkovigor/LTR390.git|Contributed|LTR390
 https://github.com/Tinyu-Zhao/FFT.git|Contributed|FFT
