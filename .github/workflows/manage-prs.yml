@@ -408,8 +408,10 @@ jobs:
 
             After resolving the issue, trigger this check again by doing one of the following:
 
-            - Commit the required change to the branch you submitted this pull request from.
-            - Comment here, mentioning `@ArduinoBot` in the comment
+            - **Commit the required change to the branch you submitted this pull request from.**
+            - **Comment here, mentioning `@ArduinoBot` in the comment.**
+
+            :exclamation: **NOTE**: It is not necessary to open a new pull request. :exclamation:
 
             More information:
             https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
