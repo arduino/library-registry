@@ -4304,3 +4304,4 @@ https://github.com/107-systems/107-Arduino-Sensor.git|Contributed|107-Arduino-Se
 https://github.com/9glt/arduino-attiny85-fastpin-library.git|Contributed|attiny85FasterPin
 https://github.com/Dirk-/NanoBLEFlashPrefs.git|Contributed|NanoBLEFlashPrefs
 https://github.com/janelia-arduino/PrintCppVersion.git|Contributed|PrintCppVersion
+https://github.com/sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library.git|Contributed|SparkFun AS6212 Qwiic Arduino Library
