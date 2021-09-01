@@ -3369,6 +3369,7 @@ https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_APDS9301_Library
 https://github.com/sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library
+https://github.com/sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library
