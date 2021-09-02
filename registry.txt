@@ -4306,3 +4306,4 @@ https://github.com/janelia-arduino/PrintCppVersion.git|Contributed|PrintCppVersi
 https://github.com/sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library.git|Contributed|SparkFun AS6212 Qwiic Arduino Library
 https://github.com/natnqweb/Motor_PID.git|Contributed|Motor_PID
 https://github.com/natnqweb/Simpletimer.git|Contributed|Simpletimer
+https://github.com/natnqweb/SD_card_logger.git|Contributed|SD_card_logger
