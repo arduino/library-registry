@@ -4202,3 +4202,4 @@ https://github.com/Dirk-/NanoBLEFlashPrefs
 https://github.com/natnqweb/Motor_PID
 https://github.com/natnqweb/Simpletimer
 https://github.com/natnqweb/SD_card_logger
+https://github.com/francobasaglia/MagicPot
