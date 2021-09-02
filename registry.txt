@@ -1359,7 +1359,7 @@ https://github.com/SeeedJP/WioLTEforArduino.git|Contributed|Wio LTE for Arduino
 https://github.com/SMFSW/sarmfsw.git|Contributed|sarmfsw
 https://github.com/sadika9/TFTLCD-SPFD5408.git|Contributed|SPFD5408 TFT Library
 https://gitlab.com/dariusmihai/Arduino_Lib_MorePins.git|Contributed|MorePins
-https://github.com/1oginov/UbxGps.git|Contributed|UbxGps
+https://github.com/loginov-rocks/UbxGps.git|Contributed|UbxGps
 https://github.com/s00500/SimpleExpressions.git|Contributed|SimpleExpressions
 https://github.com/DimitriGilbert/RGBProgress.git|Contributed|RGBProgress
 https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04.git|Contributed|Bifrost library for HC-SR04
