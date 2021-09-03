@@ -4309,3 +4309,6 @@ https://github.com/natnqweb/Simpletimer.git|Contributed|Simpletimer
 https://github.com/natnqweb/SD_card_logger.git|Contributed|SD_card_logger
 https://github.com/francobasaglia/MagicPot.git|Contributed|MagicPot
 https://github.com/jkingsman/Z80Mega.git|Contributed|Z80
+https://github.com/stm32duino/NFC-RFAL.git|Contributed|STM32duino NFC-RFAL
+https://github.com/stm32duino/ST25R3911B.git|Contributed|STM32duino ST25R3911B
+https://github.com/stm32duino/X-NUCLEO-NFC05A1.git|Contributed|STM32duino X-NUCLEO-NFC05A1
