@@ -4308,3 +4308,4 @@ https://github.com/natnqweb/Motor_PID.git|Contributed|Motor_PID
 https://github.com/natnqweb/Simpletimer.git|Contributed|Simpletimer
 https://github.com/natnqweb/SD_card_logger.git|Contributed|SD_card_logger
 https://github.com/francobasaglia/MagicPot.git|Contributed|MagicPot
+https://github.com/jkingsman/Z80Mega.git|Contributed|Z80
