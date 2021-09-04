@@ -1503,6 +1503,7 @@ https://github.com/hideakitai/EmbeddedUtils
 https://github.com/hideakitai/ES920
 https://github.com/hideakitai/ESP32DMASPI
 https://github.com/hideakitai/ESP32SPISlave
+https://github.com/hideakitai/FastLEDManager
 https://github.com/hideakitai/Filters
 https://github.com/hideakitai/HyperDeck
 https://github.com/hideakitai/I2CExtension
