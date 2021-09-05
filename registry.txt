@@ -4314,3 +4314,4 @@ https://github.com/stm32duino/ST25R3911B.git|Contributed|STM32duino ST25R3911B
 https://github.com/stm32duino/X-NUCLEO-NFC05A1.git|Contributed|STM32duino X-NUCLEO-NFC05A1
 https://github.com/hideakitai/FastLEDManager.git|Contributed|FastLEDManager
 https://github.com/MajicDesigns/MD_OnePin.git|Contributed|MD_OnePin
+https://github.com/natnqweb/SkyMap.git|Contributed|SkyMap
