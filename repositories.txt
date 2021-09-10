@@ -1,4 +1,5 @@
 https://github.com/MajicDesigns/MD_OnePin
+https://github.com/Kees-van-der-Oord/Arduino-Nano-Every-Timer-Controller-B.git
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
 https://github.com/micromouseonline/BasicEncoder
