@@ -3812,6 +3812,7 @@ https://github.com/u-fire/uFire_SHT20
 https://github.com/u-fire/Mod-EC
 https://github.com/u-fire/Mod-pH
 https://github.com/u-fire/Mod-ORP
+https://github.com/u-fire/SHT3x
 https://github.com/u0078867/Arduino-Websocket-Fast
 https://github.com/uArm-Developer/UArmForArduino
 https://github.com/Uberi/Arduino-CommandParser
