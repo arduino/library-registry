@@ -714,6 +714,7 @@ https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/SHT1x-ESP
 https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
+https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/BeelanMX/arduino-LoRaWAN
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/belidzs/PreciseLM35
@@ -2861,6 +2862,7 @@ https://github.com/RAKWireless/RAK14002-CAP1293-Library
 https://github.com/RAKWireless/RAK-MQx-Library
 https://github.com/RAKWireless/RAK13005-TLE7259-Library
 https://github.com/RAKWireless/RAK12010-VEML7700-Library
+https://github.com/RAKWireless/RAK-ADS7830-Library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/rasmushedeager/sducar
