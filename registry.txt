@@ -4322,3 +4322,5 @@ https://github.com/Flowduino/LithiumPowered.git|Contributed|Lithium-Powered
 https://github.com/Z01NE/MyAlarm.git|Contributed|MyAlarm
 https://github.com/khoih-prog/LittleFS_Portenta_H7.git|Contributed|LittleFS_Portenta_H7
 https://github.com/sparkfun/SparkFun_FS3000_Arduino_Library.git|Contributed|SparkFun_FS3000_Arduino_Library
+https://github.com/beegee-tokyo/WisBlock-API.git|Contributed|WisBlock-API
+https://github.com/RAKWireless/RAK-ADS7830-Library.git|Contributed|RAKwireless ADS7830 library
