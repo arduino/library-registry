@@ -1111,7 +1111,7 @@ https://github.com/duinoWitchery/hd44780
 https://github.com/durydevelop/arduino-lib-oled
 https://github.com/dushyantahuja/IPGeolocation
 https://github.com/dushyantahuja/TFL-Status
-https://github.com/Dustpancake/MQ7
+https://github.com/fjebaker/MQ7
 https://github.com/dvernier/GDXLib
 https://github.com/dvernier/VernierLib
 https://github.com/dwrobel/TrivialKalmanFilter
