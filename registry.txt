@@ -4325,3 +4325,4 @@ https://github.com/sparkfun/SparkFun_FS3000_Arduino_Library.git|Contributed|Spar
 https://github.com/beegee-tokyo/WisBlock-API.git|Contributed|WisBlock-API
 https://github.com/RAKWireless/RAK-ADS7830-Library.git|Contributed|RAKwireless ADS7830 library
 https://github.com/u-fire/SHT3x.git|Contributed|Microfire_SHT3x
+https://github.com/someweisguy/esp_dmx.git|Contributed|esp_dmx
