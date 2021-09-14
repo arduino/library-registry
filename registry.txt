@@ -4327,3 +4327,4 @@ https://github.com/RAKWireless/RAK-ADS7830-Library.git|Contributed|RAKwireless A
 https://github.com/u-fire/SHT3x.git|Contributed|Microfire_SHT3x
 https://github.com/someweisguy/esp_dmx.git|Contributed|esp_dmx
 https://github.com/jaredliw/PikaBot.git|Contributed|Pikabot
+https://github.com/Open-Acidification/TankController.git|Contributed|TankController
