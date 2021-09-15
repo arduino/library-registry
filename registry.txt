@@ -4331,3 +4331,4 @@ https://github.com/Open-Acidification/TankController.git|Contributed|TankControl
 https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite.git|Contributed|WiFiManager_Portenta_H7_Lite
 https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7.git|Contributed|Ethernet_Manager_Portenta_H7
 https://github.com/DFRobot/DFRobot_GDL.git|Contributed|DFRobot GDL
+https://github.com/DFRobot/DFRobot_RTU.git|Contributed|DFRobot_RTU
