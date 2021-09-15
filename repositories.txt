@@ -168,6 +168,7 @@ https://github.com/adafruit/Adafruit_INA219
 https://github.com/adafruit/Adafruit_INA260
 https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
+https://github.com/adafruit/Adafruit_IS31FL3741
 https://github.com/adafruit/Adafruit_Keypad
 https://github.com/adafruit/Adafruit_L3GD20_U
 https://github.com/adafruit/Adafruit_LC709203F
