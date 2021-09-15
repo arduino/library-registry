@@ -4329,3 +4329,4 @@ https://github.com/someweisguy/esp_dmx.git|Contributed|esp_dmx
 https://github.com/jaredliw/PikaBot.git|Contributed|Pikabot
 https://github.com/Open-Acidification/TankController.git|Contributed|TankController
 https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite.git|Contributed|WiFiManager_Portenta_H7_Lite
+https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7.git|Contributed|Ethernet_Manager_Portenta_H7
