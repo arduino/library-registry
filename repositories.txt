@@ -4224,3 +4224,4 @@ https://github.com/someweisguy/esp_dmx
 https://github.com/jaredliw/PikaBot
 https://github.com/Open-Acidification/TankController
 https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite
+https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7
