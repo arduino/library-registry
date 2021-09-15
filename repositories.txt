@@ -1,4 +1,7 @@
+https://github.com/DFRobot/DFRobot_GDL
+https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
+https://github.com/FTTechBrasil/FTTech-LoRaWAN
 https://github.com/micromouseonline/BasicEncoder
 https://github.com/Rad-hi/MyButton_Arduino
 https://github.com/PowerBroker2/ArduPID
@@ -14,7 +17,7 @@ https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
-https://github.com/m5stack/M5_Finger
+https://github.com/m5stack/M5_FPC1020A
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -493,6 +496,7 @@ https://github.com/ardnew/XPT2046_Calibrated
 https://github.com/Arduboy/Arduboy
 https://github.com/AlexTutorial/KrokoTS
 https://github.com/Arduboy/ArduboyPlaytune
+https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
 https://github.com/arduino-libraries/Arduino_BQ24195
@@ -711,6 +715,7 @@ https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/SHT1x-ESP
 https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
+https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/BeelanMX/arduino-LoRaWAN
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/belidzs/PreciseLM35
@@ -1107,7 +1112,7 @@ https://github.com/duinoWitchery/hd44780
 https://github.com/durydevelop/arduino-lib-oled
 https://github.com/dushyantahuja/IPGeolocation
 https://github.com/dushyantahuja/TFL-Status
-https://github.com/Dustpancake/MQ7
+https://github.com/fjebaker/MQ7
 https://github.com/dvernier/GDXLib
 https://github.com/dvernier/VernierLib
 https://github.com/dwrobel/TrivialKalmanFilter
@@ -1502,6 +1507,7 @@ https://github.com/hideakitai/EmbeddedUtils
 https://github.com/hideakitai/ES920
 https://github.com/hideakitai/ESP32DMASPI
 https://github.com/hideakitai/ESP32SPISlave
+https://github.com/hideakitai/FastLEDManager
 https://github.com/hideakitai/Filters
 https://github.com/hideakitai/HyperDeck
 https://github.com/hideakitai/I2CExtension
@@ -1669,10 +1675,12 @@ https://github.com/jandrassy/UnoWiFiDevEdSerial1
 https://github.com/jandrassy/WiFiEspAT
 https://github.com/janelia-arduino/AD57X4R
 https://github.com/janelia-arduino/Array
+https://github.com/janelia-arduino/AT42QT
 https://github.com/janelia-arduino/Functor
 https://github.com/janelia-arduino/JsmnStream
 https://github.com/janelia-arduino/MPR121
 https://github.com/janelia-arduino/PCA9685
+https://github.com/janelia-arduino/PrintCppVersion
 https://github.com/janelia-arduino/Streaming
 https://github.com/janelia-arduino/TLE72X
 https://github.com/janelia-arduino/TMC2130
@@ -2855,6 +2863,7 @@ https://github.com/RAKWireless/RAK14002-CAP1293-Library
 https://github.com/RAKWireless/RAK-MQx-Library
 https://github.com/RAKWireless/RAK13005-TLE7259-Library
 https://github.com/RAKWireless/RAK12010-VEML7700-Library
+https://github.com/RAKWireless/RAK-ADS7830-Library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/rasmushedeager/sducar
@@ -3366,6 +3375,7 @@ https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_APDS9301_Library
 https://github.com/sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library
+https://github.com/sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library
@@ -3495,6 +3505,7 @@ https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
 https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
+https://github.com/sparkfun/SparkFun_FS3000_Arduino_Library
 https://github.com/sparkfun/SparkFunDMX
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
@@ -3802,6 +3813,7 @@ https://github.com/u-fire/uFire_SHT20
 https://github.com/u-fire/Mod-EC
 https://github.com/u-fire/Mod-pH
 https://github.com/u-fire/Mod-ORP
+https://github.com/u-fire/SHT3x
 https://github.com/u0078867/Arduino-Websocket-Fast
 https://github.com/uArm-Developer/UArmForArduino
 https://github.com/Uberi/Arduino-CommandParser
@@ -4181,7 +4193,6 @@ https://github.com/khoih-prog/SAMD_ISR_Servo
 https://github.com/khoih-prog/NRF52_ISR_Servo
 https://github.com/adrian200223/Simple5641AS
 https://github.com/pablo-sampaio/easy_mfrc522/
-https://github.com/treeaa/BME33M251
 https://github.com/lozziboy/arduino-serial-variable-table
 https://github.com/levkovigor/MMC34160PJ
 https://github.com/levkovigor/ppposclient
@@ -4190,3 +4201,28 @@ https://github.com/iotkaran/Arduino
 https://github.com/levkovigor/LTR390
 https://github.com/1452206376/CH9328-Keyboard
 https://github.com/9glt/arduino-attiny85-mcp23017-library
+https://github.com/9glt/arduino-attiny85-fastpin-library
+https://github.com/khoih-prog/FS_Nano33BLE
+https://github.com/EscapeAutomate/ArduinoLib
+https://github.com/Seeed-Studio/Seeed_Arduino_Mic
+https://github.com/107-systems/107-Arduino-BoostUnits
+https://github.com/107-systems/107-Arduino-Sensor
+https://github.com/Dirk-/NanoBLEFlashPrefs
+https://github.com/natnqweb/Motor_PID
+https://github.com/natnqweb/Simpletimer
+https://github.com/natnqweb/SD_card_logger
+https://github.com/francobasaglia/MagicPot
+https://github.com/jkingsman/Z80Mega
+https://github.com/stm32duino/NFC-RFAL
+https://github.com/stm32duino/ST25R3911B
+https://github.com/stm32duino/X-NUCLEO-NFC05A1
+https://github.com/natnqweb/SkyMap
+https://github.com/andhieSetyabudi/hx710b_arduino
+https://github.com/Flowduino/LithiumPowered
+https://github.com/Z01NE/MyAlarm
+https://github.com/khoih-prog/LittleFS_Portenta_H7
+https://github.com/someweisguy/esp_dmx
+https://github.com/jaredliw/PikaBot
+https://github.com/Open-Acidification/TankController
+https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite
+https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7
