@@ -1,3 +1,4 @@
+https://github.com/MajicDesigns/MD_Stepper
 https://github.com/cygig/DailyStruggleButton
 https://github.com/micromouseonline/BasicEncoder
 https://github.com/Rad-hi/MyButton_Arduino
