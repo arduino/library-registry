@@ -4334,3 +4334,4 @@ https://github.com/DFRobot/DFRobot_GDL.git|Contributed|DFRobot GDL
 https://github.com/DFRobot/DFRobot_RTU.git|Contributed|DFRobot_RTU
 https://github.com/andriell/arduino-library-WT2003M02-mp3-decoder.git|Contributed|AndreyRybalko WT2003M02 MP3 Decoder
 https://github.com/adafruit/Adafruit_IS31FL3741.git|Recommended|Adafruit IS31FL3741 Library
+https://github.com/khoih-prog/Portenta_H7_TimerInterrupt.git|Contributed|Portenta_H7_TimerInterrupt
