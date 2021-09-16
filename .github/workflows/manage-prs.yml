@@ -444,7 +444,7 @@ jobs:
 
       - name: Merge pull request
         id: merge
-        continue-on-error: true # Error on merge conflict is expected
+        continue-on-error: true # Error in some situations (e.g., merge conflict) is expected
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -504,6 +504,25 @@ jobs:
     if: needs.merge.outputs.pass == 'false'
     runs-on: ubuntu-latest
     steps:
+      - name: Comment on merge fail due to out of sync PR head branch causing downgraded token
+        if: needs.merge.outputs.status == '403'
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            ${{ env.ERROR_MESSAGE_PREFIX }}Your submission meets all requirements. However, the pull request could not be merged.
+
+            Please follow this guide to sync your fork:
+            https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+
+            Once that is done, it will be merged automatically.
+
       - name: Comment on merge conflict
         if: needs.merge.outputs.status == '405'
         uses: octokit/request-action@v2.x
@@ -539,6 +558,7 @@ jobs:
 
       - name: Fail on unidentified merge failure
         if: >
+          needs.merge.outputs.status != '403' &&
           needs.merge.outputs.status != '405' &&
           needs.merge.outputs.status != '409'
         run: exit 1 # Trigger the `unexpected-fail` job
