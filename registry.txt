@@ -4337,3 +4337,4 @@ https://github.com/adafruit/Adafruit_IS31FL3741.git|Recommended|Adafruit IS31FL3
 https://github.com/khoih-prog/Portenta_H7_TimerInterrupt.git|Contributed|Portenta_H7_TimerInterrupt
 https://github.com/MajicDesigns/MD_Stepper.git|Contributed|MD_Stepper
 https://github.com/BreadBoardMates/Arduino-Mates-Controller.git|Contributed|Mates Controller
+https://github.com/DFRobot/DFRobot_DHT20.git|Contributed|DFRobot_DHT20
