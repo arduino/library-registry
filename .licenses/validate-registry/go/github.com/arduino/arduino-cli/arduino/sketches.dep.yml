@@ -2,9 +2,9 @@
 name: github.com/arduino/arduino-cli/arduino/sketches
 version: v0.0.0-20210520100059-2666b6ec51e9
 type: go
-summary: 
+summary:
 homepage: https://pkg.go.dev/github.com/arduino/arduino-cli/arduino/sketches
-license: other
+license: gpl-3.0-only
 licenses:
 - sources: arduino-cli@v0.0.0-20210520100059-2666b6ec51e9/LICENSE.txt
   text: |

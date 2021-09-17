@@ -6,7 +6,7 @@ summary: Package knownhosts implements a parser for the OpenSSH known_hosts host
   database, and provides utility functions for writing OpenSSH compliant known_hosts
   files.
 homepage: https://pkg.go.dev/golang.org/x/crypto/ssh/knownhosts
-license: other
+license: bsd-3-clause
 licenses:
 - sources: crypto@v0.0.0-20210421170649-83a5a9bb288b/LICENSE
   text: |

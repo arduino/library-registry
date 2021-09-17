@@ -2,9 +2,9 @@
 name: github.com/arduino/libraries-repository-engine/libraries
 version: v0.0.0-20210715160651-710946ea85e3
 type: go
-summary: 
+summary:
 homepage: https://pkg.go.dev/github.com/arduino/libraries-repository-engine/libraries
-license: agpl-3.0
+license: agpl-3.0-or-later
 licenses:
 - sources: libraries-repository-engine@v0.0.0-20210715160651-710946ea85e3/LICENSE.txt
   text: |2
