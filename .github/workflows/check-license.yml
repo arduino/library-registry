@@ -1,36 +1,45 @@
 # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/check-license.md
 name: Check License
 
-env:
-  EXPECTED_LICENSE_FILENAME: LICENSE.txt
-  # SPDX identifier: https://spdx.org/licenses/
-  EXPECTED_LICENSE_TYPE: CC0-1.0
-
 # See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 on:
   push:
     paths:
       - ".github/workflows/check-license.ya?ml"
       # See: https://github.com/licensee/licensee/blob/master/docs/what-we-look-at.md#detecting-the-license-file
-      - "[cC][oO][pP][yY][iI][nN][gG]*"
-      - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
-      - "[lL][iI][cC][eE][nN][cCsS][eE]*"
-      - "[oO][fF][lL]*"
-      - "[pP][aA][tT][eE][nN][tT][sS]*"
+      - "**/[cC][oO][pP][yY][iI][nN][gG]*"
+      - "**/[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
+      - "**/[lL][iI][cC][eE][nN][cCsS][eE]*"
+      - "**/[oO][fF][lL]*"
+      - "**/[pP][aA][tT][eE][nN][tT][sS]*"
   pull_request:
     paths:
       - ".github/workflows/check-license.ya?ml"
-      - "[cC][oO][pP][yY][iI][nN][gG]*"
-      - "[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
-      - "[lL][iI][cC][eE][nN][cCsS][eE]*"
-      - "[oO][fF][lL]*"
-      - "[pP][aA][tT][eE][nN][tT][sS]*"
+      - "**/[cC][oO][pP][yY][iI][nN][gG]*"
+      - "**/[cC][oO][pP][yY][rR][iI][gG][hH][tH]*"
+      - "**/[lL][iI][cC][eE][nN][cCsS][eE]*"
+      - "**/[oO][fF][lL]*"
+      - "**/[pP][aA][tT][eE][nN][tT][sS]*"
   workflow_dispatch:
   repository_dispatch:
 
 jobs:
   check-license:
+    name: check-license (${{ matrix.project.path }})
     runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+      matrix:
+        project:
+          - path: ./
+            expected-license-filename: LICENSE.txt
+            # SPDX identifier: https://spdx.org/licenses/
+            expected-license-type: CC0-1.0
+          - path: .github/workflows/assets/validate-registry/
+            expected-license-filename: LICENSE.txt
+            expected-license-type: AGPL-3.0
 
     steps:
       - name: Checkout repository
@@ -45,6 +54,7 @@ jobs:
         run: gem install licensee
 
       - name: Check license file
+        working-directory: ${{ matrix.project.path }}
         run: |
           EXIT_STATUS=0
           # See: https://github.com/licensee/licensee
@@ -52,15 +62,15 @@ jobs:
 
           DETECTED_LICENSE_FILE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].filename | tr --delete '\r')"
           echo "Detected license file: $DETECTED_LICENSE_FILE"
-          if [ "$DETECTED_LICENSE_FILE" != "\"${EXPECTED_LICENSE_FILENAME}\"" ]; then
-            echo "::error file=${DETECTED_LICENSE_FILE}::detected license file $DETECTED_LICENSE_FILE doesn't match expected: $EXPECTED_LICENSE_FILENAME"
+          if [ "$DETECTED_LICENSE_FILE" != "\"${{ matrix.project.expected-license-filename }}\"" ]; then
+            echo "::error file=${DETECTED_LICENSE_FILE}::detected license file $DETECTED_LICENSE_FILE doesn't match expected: ${{ matrix.project.expected-license-filename }}"
             EXIT_STATUS=1
           fi
 
           DETECTED_LICENSE_TYPE="$(echo "$LICENSEE_OUTPUT" | jq .matched_files[0].matched_license | tr --delete '\r')"
           echo "Detected license type: $DETECTED_LICENSE_TYPE"
-          if [ "$DETECTED_LICENSE_TYPE" != "\"${EXPECTED_LICENSE_TYPE}\"" ]; then
-            echo "::error file=${DETECTED_LICENSE_FILE}::detected license type $DETECTED_LICENSE_TYPE doesn't match expected \"${EXPECTED_LICENSE_TYPE}\""
+          if [ "$DETECTED_LICENSE_TYPE" != "\"${{ matrix.project.expected-license-type }}\"" ]; then
+            echo "::error file=${DETECTED_LICENSE_FILE}::detected license type $DETECTED_LICENSE_TYPE doesn't match expected \"${{ matrix.project.expected-license-type }}\""
             EXIT_STATUS=1
           fi
 
