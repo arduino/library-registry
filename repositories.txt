@@ -61,7 +61,7 @@ https://bitbucket.org/geekfactory/gfbutton
 https://bitbucket.org/geekfactory/shell
 https://bitbucket.org/harmonicbionics/ease_arduinocode
 https://bitbucket.org/pjhardy/arduinosinspace
-https://bitbucket.org/pjhardy/kerbalsimpit-arduino
+https://github.com/Simpit-team/KerbalSimpitRevamped-Arduino
 https://bitbucket.org/teckel12/arduino-new-ping
 https://bitbucket.org/xoseperez/pcf8583
 https://git.antares.id/lorawan-loraid/arduino-loraid
