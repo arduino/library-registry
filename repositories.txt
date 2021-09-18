@@ -4236,3 +4236,4 @@ https://github.com/andriell/arduino-library-WT2003M02-mp3-decoder
 https://github.com/khoih-prog/Portenta_H7_TimerInterrupt
 https://github.com/khoih-prog/Portenta_H7_ISR_Servo
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook
+https://github.com/terrorsl/sMQTTBroker
