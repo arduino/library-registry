@@ -4343,3 +4343,4 @@ https://github.com/khoih-prog/Portenta_H7_ISR_Servo.git|Contributed|Portenta_H7_
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook.git|Contributed|Seeed Arduino Sketchbook
 https://github.com/DFRobot/DFRobot_BMP3XX.git|Contributed|DFRobot_BMP3XX
 https://github.com/terrorsl/sMQTTBroker.git|Contributed|sMQTTBroker
+https://github.com/FeralAI/MPG.git|Contributed|MPG
