@@ -4344,3 +4344,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook.git|Contributed|Seeed A
 https://github.com/DFRobot/DFRobot_BMP3XX.git|Contributed|DFRobot_BMP3XX
 https://github.com/terrorsl/sMQTTBroker.git|Contributed|sMQTTBroker
 https://github.com/FeralAI/MPG.git|Contributed|MPG
+https://github.com/winner10920/ESPSerialFlasher.git|Contributed|ESPSerialFlasher
