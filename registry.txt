@@ -4336,7 +4336,7 @@ https://github.com/andriell/arduino-library-WT2003M02-mp3-decoder.git|Contribute
 https://github.com/adafruit/Adafruit_IS31FL3741.git|Recommended|Adafruit IS31FL3741 Library
 https://github.com/khoih-prog/Portenta_H7_TimerInterrupt.git|Contributed|Portenta_H7_TimerInterrupt
 https://github.com/MajicDesigns/MD_Stepper.git|Contributed|MD_Stepper
-https://github.com/BreadBoardMates/Arduino-Mates-Controller.git|Contributed|Mates Controller
+https://github.com/BreadBoardMates/Arduino-Mates-Controller.git|Contributed|MatesController
 https://github.com/DFRobot/DFRobot_DHT20.git|Contributed|DFRobot_DHT20
 https://github.com/newdigate/teensy-audio-launch-ctrl.git|Contributed|TeensyAudioLaunchCtrl
 https://github.com/khoih-prog/Portenta_H7_ISR_Servo.git|Contributed|Portenta_H7_ISR_Servo
