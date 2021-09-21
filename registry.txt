@@ -4347,3 +4347,4 @@ https://github.com/FeralAI/MPG.git|Contributed|MPG
 https://github.com/winner10920/ESPSerialFlasher.git|Contributed|ESPSerialFlasher
 https://github.com/Frederik-Eberhard/Excelsior.git|Contributed|Excelsior
 https://github.com/khoih-prog/ESP32_PWM.git|Contributed|ESP32_PWM
+https://gitlab.com/tamctec/ft62x6-arduino.git|Contributed|TAMC_FT62X6
