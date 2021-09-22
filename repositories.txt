@@ -4244,3 +4244,4 @@ https://github.com/winner10920/ESPSerialFlasher
 https://github.com/khoih-prog/ESP32_PWM
 https://gitlab.com/tamctec/ft62x6-arduino
 https://github.com/khoih-prog/ESP8266_PWM
+https://github.com/khoih-prog/Portenta_H7_PWM
