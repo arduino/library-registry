@@ -4358,3 +4358,4 @@ https://github.com/tgtakaoka/libasm.git|Contributed|libasm
 https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library.git|Contributed|SparkFun AVR ISP Programming Library
 https://github.com/awgrover/Every-for-arduino.git|Contributed|Every
 https://github.com/bobboteck/CWLibrary.git|Contributed|CWLibrary
+https://github.com/khoih-prog/Portenta_H7_Slow_PWM.git|Contributed|Portenta_H7_Slow_PWM
