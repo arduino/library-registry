@@ -1,3 +1,4 @@
+https://github.com/Phoenix1747/MQ135
 https://github.com/BreadBoardMates/Arduino-Mates-Controller
 https://github.com/MajicDesigns/MD_Stepper
 https://github.com/DFRobot/DFRobot_BMP3XX
@@ -4241,4 +4242,5 @@ https://github.com/terrorsl/sMQTTBroker
 https://github.com/FeralAI/MPG/
 https://github.com/winner10920/ESPSerialFlasher
 https://github.com/khoih-prog/ESP32_PWM
+https://github.com/khoih-prog/ESP8266_PWM
 https://github.com/tamctec/ft62x6-arduino
