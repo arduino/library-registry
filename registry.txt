@@ -4354,3 +4354,4 @@ https://github.com/khoih-prog/Portenta_H7_PWM.git|Contributed|Portenta_H7_PWM
 https://github.com/tgtakaoka/libcli.git|Contributed|libcli
 https://github.com/Aidywady/NXTBluetooth.git|Contributed|NXTBluetooth
 https://github.com/TawalMc/TinyDatabase_Arduino.git|Contributed|TinyDatabase_Arduino
+https://github.com/tgtakaoka/libasm.git|Contributed|libasm
