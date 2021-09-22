@@ -3711,6 +3711,7 @@ https://github.com/texie/TeXie_arduino
 https://github.com/tfeldmann/Arduino-Timeout
 https://github.com/tgolla/EEPROMTyped
 https://github.com/tgolla/GCodeParser
+https://github.com/tgtakaoka/libasm
 https://github.com/tgtakaoka/libcli
 https://github.com/ThaiEasyElec/TEE_UC20_Shield
 https://github.com/thapakorn613/GoGoBoard-Library
