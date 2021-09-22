@@ -3391,6 +3391,7 @@ https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library
+https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library
 https://github.com/sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library
