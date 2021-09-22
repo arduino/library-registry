@@ -4241,4 +4241,4 @@ https://github.com/terrorsl/sMQTTBroker
 https://github.com/FeralAI/MPG/
 https://github.com/winner10920/ESPSerialFlasher
 https://github.com/khoih-prog/ESP32_PWM
-https://gitlab.com/tamctec/ft62x6-arduino
+https://github.com/tamctec/ft62x6-arduino
