@@ -4352,3 +4352,4 @@ https://github.com/Phoenix1747/MQ135.git|Contributed|MQ135
 https://github.com/khoih-prog/ESP8266_PWM.git|Contributed|ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM.git|Contributed|Portenta_H7_PWM
 https://github.com/tgtakaoka/libcli.git|Contributed|libcli
+https://github.com/Aidywady/NXTBluetooth.git|Contributed|NXTBluetooth
