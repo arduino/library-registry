@@ -4355,3 +4355,4 @@ https://github.com/tgtakaoka/libcli.git|Contributed|libcli
 https://github.com/Aidywady/NXTBluetooth.git|Contributed|NXTBluetooth
 https://github.com/TawalMc/TinyDatabase_Arduino.git|Contributed|TinyDatabase_Arduino
 https://github.com/tgtakaoka/libasm.git|Contributed|libasm
+https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library.git|Contributed|SparkFun AVR ISP Programming Library
