@@ -1122,7 +1122,7 @@ https://github.com/DarkDust/MHGroveBLE.git|Contributed|MHGroveBLE
 https://github.com/SodaqMoja/Sodaq_LIS3DE.git|Contributed|Sodaq_LIS3DE
 https://github.com/connornishijima/TinySnore.git|Contributed|TinySnore
 https://github.com/kmackay/micro-ecc.git|Contributed|micro-ecc
-https://bitbucket.org/pjhardy/kerbalsimpit-arduino.git|Contributed|Kerbal Sim Pit
+https://github.com/Simpit-team/KerbalSimpitRevamped-Arduino.git|Contributed|KerbalSimpit
 https://github.com/ghaemshop/ghaemShopSmSim.git|Contributed|ghaemShopSmSim
 https://github.com/ssuhrid/EmSevenSegment.git|Contributed|EmSevenSegment
 https://github.com/aelse/ArduinoStatsd.git|Contributed|StatsD
