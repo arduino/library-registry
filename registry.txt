@@ -4230,7 +4230,7 @@ https://github.com/crmoratelli/SupmeaDO7016.git|Contributed|SupmeaDO7016
 https://github.com/siktec-lab/SIKTEC-AVR-Controller.git|Contributed|SIKTEC_AVR_Controller
 https://github.com/todd-herbert/heltec-eink-modules.git|Contributed|heltec-eink-modules
 https://github.com/FTTechBrasil/FTTech_XBee.git|Contributed|FTTech SAMD51 XBee
-https://github.com/seanboe/SimpleFusion.git|Contributed|SimpleFsion
+https://github.com/seanboe/SimpleFusion.git|Contributed|SimpleFusion
 https://github.com/DavidArmstrong/WMM_Tinier.git|Contributed|WMM_Tinier
 https://github.com/khoih-prog/FlashStorage_RTL8720.git|Contributed|FlashStorage_RTL8720
 https://gitlab.com/F-Schmidt/uulm_mcp23008_core.git|Contributed|UULM-MCP23008-CORE
