@@ -4352,3 +4352,4 @@ https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library.git|Contributed
 https://github.com/awgrover/Every-for-arduino.git|Contributed|Every
 https://github.com/bobboteck/CWLibrary.git|Contributed|CWLibrary
 https://github.com/khoih-prog/Portenta_H7_Slow_PWM.git|Contributed|Portenta_H7_Slow_PWM
+https://github.com/SpaceTrekKSC/EasyStarterKit.git|Contributed|SpaceTrek EasyStarterKit
