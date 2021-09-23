@@ -4340,7 +4340,7 @@ https://github.com/FeralAI/MPG.git|Contributed|MPG
 https://github.com/winner10920/ESPSerialFlasher.git|Contributed|ESPSerialFlasher
 https://github.com/Frederik-Eberhard/Excelsior.git|Contributed|Excelsior
 https://github.com/khoih-prog/ESP32_PWM.git|Contributed|ESP32_PWM
-https://gitlab.com/tamctec/ft62x6-arduino.git|Contributed|TAMC_FT62X6
+https://github.com/tamctec/ft62x6-arduino.git|Contributed|TAMC_FT62X6
 https://github.com/Phoenix1747/MQ135.git|Contributed|MQ135
 https://github.com/khoih-prog/ESP8266_PWM.git|Contributed|ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM.git|Contributed|Portenta_H7_PWM
