@@ -55,3 +55,6 @@ indent_style = space
 [*.{yaml,yml}]
 indent_size = 2
 indent_style = space
+
+[{.gitconfig,.gitmodules}]
+indent_style = tab

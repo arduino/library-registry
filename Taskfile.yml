@@ -2,10 +2,11 @@
 version: "3"
 
 vars:
-  GO_PROJECT_PATH: .github/workflows/assets/validate-registry
   LDFLAGS:
+  DEFAULT_GO_MODULE_PATH: .github/workflows/assets/validate-registry/
   DEFAULT_GO_PACKAGES:
-    sh: cd "{{.GO_PROJECT_PATH}}" && echo $(go list ./... | tr '\n' ' ')
+    sh: |
+      echo $(cd {{default .DEFAULT_GO_MODULE_PATH .GO_MODULE_PATH}} && go list ./... | tr '\n' ' ' || echo '"ERROR: Unable to discover Go packages"')
 
 tasks:
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-workflows-task/Taskfile.yml
@@ -54,14 +55,13 @@ tasks:
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/go-task/Taskfile.yml
   go:build:
     desc: Build the Go code
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{.DEFAULT_GO_MODULE_PATH}}"
     cmds:
       - go build -v {{.LDFLAGS}}
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
   go:check:
     desc: Check for problems with Go code
-    dir: "{{.GO_PROJECT_PATH}}"
     deps:
       - task: go:vet
       - task: go:lint
@@ -69,51 +69,49 @@ tasks:
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
   go:vet:
     desc: Check for errors in Go code
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{default .DEFAULT_GO_MODULE_PATH .GO_MODULE_PATH}}"
     cmds:
       - go vet {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
   go:fix:
     desc: Modernize usages of outdated APIs
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{default .DEFAULT_GO_MODULE_PATH .GO_MODULE_PATH}}"
     cmds:
       - go fix {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
   go:lint:
     desc: Lint Go code
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{default .DEFAULT_GO_MODULE_PATH .GO_MODULE_PATH}}"
     cmds:
       - |
-        PROJECT_PATH="$PWD"
-        # `go get` and `go list` commands must be run from a temporary folder to avoid polluting go.mod
-        cd "$(mktemp -d "${TMPDIR-${TMP-/tmp}}/task-temporary-XXXXX")"
-        go get golang.org/x/lint/golint
-        GOLINT_PATH="$(go list -f '{{"{{"}}.Target{{"}}"}}' golang.org/x/lint/golint || echo "false")"
-        # `golint` must be run from the module folder
-        cd "$PROJECT_PATH"
-        "$GOLINT_PATH" \
+        if ! which golint &>/dev/null; then
+          echo "golint not installed or not in PATH. Please install: https://github.com/golang/lint#installation"
+          exit 1
+        fi
+      - |
+        golint \
           {{default "-min_confidence 0.8 -set_exit_status" .GO_LINT_FLAGS}} \
           {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-go-task/Taskfile.yml
   go:format:
     desc: Format Go code
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{default .DEFAULT_GO_MODULE_PATH .GO_MODULE_PATH}}"
     cmds:
       - go fmt {{default .DEFAULT_GO_PACKAGES .GO_PACKAGES}}
 
   go:tidy:
     desc: Run go mod tidy
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{default .DEFAULT_GO_MODULE_PATH .GO_MODULE_PATH}}"
     cmds:
       - go mod tidy
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/test-go-integration-task/Taskfile.yml
   go:test-integration:
     desc: Run integration tests
-    dir: "{{.GO_PROJECT_PATH}}"
+    dir: "{{.DEFAULT_GO_MODULE_PATH}}"
     deps:
       - task: go:build
       - task: poetry:install-deps
@@ -154,7 +152,7 @@ tasks:
       - task: go:build
     cmds:
       - |
-        "{{.GO_PROJECT_PATH}}/validate-registry" registry.txt
+        "{{.DEFAULT_GO_MODULE_PATH}}/validate-registry" registry.txt
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-yaml-task/Taskfile.yml
   yaml:lint:
