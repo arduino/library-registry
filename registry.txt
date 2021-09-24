@@ -4356,3 +4356,4 @@ https://github.com/SpaceTrekKSC/EasyStarterKit.git|Contributed|SpaceTrek EasySta
 https://github.com/khoih-prog/RP2040_PWM.git|Contributed|RP2040_PWM
 https://github.com/khoih-prog/MBED_RP2040_Slow_PWM.git|Contributed|MBED_RP2040_Slow_PWM
 https://github.com/khoih-prog/RP2040_Slow_PWM.git|Contributed|RP2040_Slow_PWM
+https://github.com/m5stack/STAMP-PICO.git|Contributed|STAMP-PICO
