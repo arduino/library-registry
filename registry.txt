@@ -4355,3 +4355,4 @@ https://github.com/khoih-prog/Portenta_H7_Slow_PWM.git|Contributed|Portenta_H7_S
 https://github.com/SpaceTrekKSC/EasyStarterKit.git|Contributed|SpaceTrek EasyStarterKit
 https://github.com/khoih-prog/RP2040_PWM.git|Contributed|RP2040_PWM
 https://github.com/khoih-prog/MBED_RP2040_Slow_PWM.git|Contributed|MBED_RP2040_Slow_PWM
+https://github.com/khoih-prog/RP2040_Slow_PWM.git|Contributed|RP2040_Slow_PWM
