@@ -25,6 +25,7 @@ https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_FPC1020A
+https://github.com/m5stack/STAMP-PICO
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
