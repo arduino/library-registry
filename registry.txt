@@ -4358,3 +4358,4 @@ https://github.com/khoih-prog/MBED_RP2040_Slow_PWM.git|Contributed|MBED_RP2040_S
 https://github.com/khoih-prog/RP2040_Slow_PWM.git|Contributed|RP2040_Slow_PWM
 https://github.com/m5stack/STAMP-PICO.git|Contributed|STAMP-PICO
 https://github.com/mgaman/PDUlib.git|Contributed|pdulib
+https://github.com/khoih-prog/nRF52_MBED_Slow_PWM.git|Contributed|nRF52_MBED_Slow_PWM
