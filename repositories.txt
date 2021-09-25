@@ -4259,3 +4259,4 @@ https://github.com/SpaceTrekKSC/EasyStarterKit
 https://github.com/khoih-prog/RP2040_PWM
 https://github.com/khoih-prog/MBED_RP2040_Slow_PWM
 https://github.com/khoih-prog/RP2040_Slow_PWM
+https://github.com/khoih-prog/nRF52_MBED_Slow_PWM
