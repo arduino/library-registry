@@ -4360,3 +4360,4 @@ https://github.com/m5stack/STAMP-PICO.git|Contributed|STAMP-PICO
 https://github.com/mgaman/PDUlib.git|Contributed|pdulib
 https://github.com/khoih-prog/nRF52_MBED_Slow_PWM.git|Contributed|nRF52_MBED_Slow_PWM
 https://github.com/khoih-prog/nRF52_Slow_PWM.git|Contributed|nRF52_Slow_PWM
+https://github.com/Wh1teRabbitHU/ADS1115-Driver.git|Contributed|ADS1115-Driver
