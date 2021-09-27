@@ -1,0 +1,36 @@
+# Used by the "Sync Labels" workflow
+# See: https://github.com/Financial-Times/github-label-sync#label-config-file
+
+- name: "status: maintenance required"
+  color: "ff0000"
+  description: Infrastructure failure unrelated to request
+- name: "topic: invalid"
+  color: "ff0000"
+  description: Request could not be processed
+- name: "topic: modification"
+  color: "00ffff"
+  description: Change existing list entry
+- name: "topic: other"
+  color: "00ffff"
+  description: Something other than a library list request
+- name: "topic: release removal"
+  color: "00ffff"
+  description: Remove a library release
+- name: "topic: removal"
+  color: "00ffff"
+  description: Remove library from the list
+- name: "topic: rename"
+  color: "00ffff"
+  description: Change registered library name
+- name: "topic: security"
+  color: "ff0000"
+  description: Related to the protection of user data
+  notes: |
+    Vulnerability disclosures are made following the procedure at:
+    https://github.com/arduino/.github/blob/master/SECURITY.md
+- name: "topic: submission"
+  color: "00ffff"
+  description: Add library to the list
+- name: "topic: URL change"
+  color: "00ffff"
+  description: Change library repository URL
