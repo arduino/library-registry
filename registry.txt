@@ -4361,3 +4361,6 @@ https://github.com/mgaman/PDUlib.git|Contributed|pdulib
 https://github.com/khoih-prog/nRF52_MBED_Slow_PWM.git|Contributed|nRF52_MBED_Slow_PWM
 https://github.com/khoih-prog/nRF52_Slow_PWM.git|Contributed|nRF52_Slow_PWM
 https://github.com/Wh1teRabbitHU/ADS1115-Driver.git|Contributed|ADS1115-Driver
+https://github.com/DFRobot/DFRobot_B_LUX_V30B.git|Contributed|DFRobot_B_LUX_V30B
+https://github.com/DFRobot/DFRobot_SGP40.git|Contributed|DFRobot_SGP40
+https://github.com/DFRobot/DFRobot_TCS3430.git|Contributed|DFRobot_TCS3430
