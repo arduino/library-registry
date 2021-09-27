@@ -4364,3 +4364,4 @@ https://github.com/Wh1teRabbitHU/ADS1115-Driver.git|Contributed|ADS1115-Driver
 https://github.com/DFRobot/DFRobot_B_LUX_V30B.git|Contributed|DFRobot_B_LUX_V30B
 https://github.com/DFRobot/DFRobot_SGP40.git|Contributed|DFRobot_SGP40
 https://github.com/DFRobot/DFRobot_TCS3430.git|Contributed|DFRobot_TCS3430
+https://github.com/khoih-prog/AVR_Slow_PWM.git|Contributed|AVR_Slow_PWM
