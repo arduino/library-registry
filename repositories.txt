@@ -1,3 +1,5 @@
+https://github.com/MrYsLab/Telemetrix4Connect2040
+https://github.com/mgaman/PDUlib
 https://github.com/Aidywady/NXTBluetooth/
 https://github.com/TawalMc/TinyDatabase_Arduino
 https://github.com/Phoenix1747/MQ135
@@ -6,6 +8,9 @@ https://github.com/MajicDesigns/MD_Stepper
 https://github.com/DFRobot/DFRobot_BMP3XX
 https://github.com/DFRobot/DFRobot_DHT20
 https://github.com/DFRobot/DFRobot_RTU
+https://github.com/DFRobot/DFRobot_B_LUX_V30B
+https://github.com/DFRobot/DFRobot_SGP40
+https://github.com/DFRobot/DFRobot_TCS3430
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
@@ -25,6 +30,7 @@ https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_FPC1020A
+https://github.com/m5stack/STAMP-PICO
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -4250,3 +4256,15 @@ https://github.com/khoih-prog/ESP32_PWM
 https://github.com/khoih-prog/ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM
 https://github.com/tamctec/ft62x6-arduino
+https://github.com/awgrover/Every-for-arduino
+https://github.com/bobboteck/CWLibrary
+https://github.com/khoih-prog/Portenta_H7_Slow_PWM
+https://github.com/SpaceTrekKSC/EasyStarterKit
+https://github.com/khoih-prog/RP2040_PWM
+https://github.com/khoih-prog/MBED_RP2040_Slow_PWM
+https://github.com/khoih-prog/RP2040_Slow_PWM
+https://github.com/khoih-prog/nRF52_MBED_Slow_PWM
+https://github.com/khoih-prog/nRF52_Slow_PWM
+https://github.com/Wh1teRabbitHU/ADS1115-Driver
+https://github.com/khoih-prog/AVR_Slow_PWM
+https://github.com/khoih-prog/megaAVR_Slow_PWM
