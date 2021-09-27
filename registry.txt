@@ -4365,3 +4365,4 @@ https://github.com/DFRobot/DFRobot_B_LUX_V30B.git|Contributed|DFRobot_B_LUX_V30B
 https://github.com/DFRobot/DFRobot_SGP40.git|Contributed|DFRobot_SGP40
 https://github.com/DFRobot/DFRobot_TCS3430.git|Contributed|DFRobot_TCS3430
 https://github.com/khoih-prog/AVR_Slow_PWM.git|Contributed|AVR_Slow_PWM
+https://github.com/MrYsLab/Telemetrix4Connect2040.git|Contributed|Telemetrix4Connect2040
