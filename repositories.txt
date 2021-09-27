@@ -7,6 +7,9 @@ https://github.com/MajicDesigns/MD_Stepper
 https://github.com/DFRobot/DFRobot_BMP3XX
 https://github.com/DFRobot/DFRobot_DHT20
 https://github.com/DFRobot/DFRobot_RTU
+https://github.com/DFRobot/DFRobot_B_LUX_V30B
+https://github.com/DFRobot/DFRobot_SGP40
+https://github.com/DFRobot/DFRobot_TCS3430
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
