@@ -3066,6 +3066,7 @@ https://github.com/RobTillaart/SGP30
 https://github.com/RobTillaart/SHEX
 https://github.com/RobTillaart/ShiftInSlow
 https://github.com/RobTillaart/ShiftOutSlow
+https://github.com/RobTillaart/SHT2x
 https://github.com/RobTillaart/SHT31
 https://github.com/RobTillaart/SHT85
 https://github.com/RobTillaart/SRF05
