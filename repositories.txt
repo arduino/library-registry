@@ -11,6 +11,8 @@ https://github.com/DFRobot/DFRobot_RTU
 https://github.com/DFRobot/DFRobot_B_LUX_V30B
 https://github.com/DFRobot/DFRobot_SGP40
 https://github.com/DFRobot/DFRobot_TCS3430
+https://github.com/DFRobot/DFRobot_VL6180X
+https://github.com/DFRobot/DFRobot_RGBLCD1602
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
@@ -4269,3 +4271,5 @@ https://github.com/khoih-prog/nRF52_Slow_PWM
 https://github.com/Wh1teRabbitHU/ADS1115-Driver
 https://github.com/khoih-prog/AVR_Slow_PWM
 https://github.com/khoih-prog/megaAVR_Slow_PWM
+https://github.com/khoih-prog/Teensy_Slow_PWM
+https://github.com/khoih-prog/SAMDUE_Slow_PWM
