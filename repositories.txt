@@ -2967,6 +2967,7 @@ https://github.com/RobTillaart/AGS02MA
 https://github.com/RobTillaart/AM232X
 https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
+https://github.com/RobTillaart/AnalogUVSensor
 https://github.com/RobTillaart/Angle
 https://github.com/RobTillaart/ANSI
 https://github.com/RobTillaart/AsyncAnalog
