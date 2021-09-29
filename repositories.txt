@@ -648,6 +648,7 @@ https://github.com/arpruss/USBHID_stm32f1
 https://github.com/arpruss/vectordisplayarduino
 https://github.com/ARSadri/PushButtonClicks
 https://github.com/ArsaLearn/Arsa-Main
+https://github.com/RodolfoPrieto/MCP3208
 https://github.com/arsalmaner/Arduino-Libraries
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
