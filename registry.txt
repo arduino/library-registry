@@ -4372,3 +4372,4 @@ https://github.com/DFRobot/DFRobot_VL6180X.git|Contributed|DFRobot_VL6180X
 https://github.com/khoih-prog/Teensy_Slow_PWM.git|Contributed|Teensy_Slow_PWM
 https://github.com/khoih-prog/SAMDUE_Slow_PWM.git|Contributed|SAMDUE_Slow_PWM
 https://github.com/DFRobot/DFRobot_RGBLCD1602.git|Contributed|DFRobot_RGBLCD1602
+https://github.com/RobTillaart/AnalogUVSensor.git|Contributed|AnalogUVSensor
