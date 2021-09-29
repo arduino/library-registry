@@ -4370,3 +4370,4 @@ https://github.com/khoih-prog/megaAVR_Slow_PWM.git|Contributed|megaAVR_Slow_PWM
 https://github.com/RobTillaart/SHT2x.git|Contributed|SHT2x
 https://github.com/DFRobot/DFRobot_VL6180X.git|Contributed|DFRobot_VL6180X
 https://github.com/khoih-prog/Teensy_Slow_PWM.git|Contributed|Teensy_Slow_PWM
+https://github.com/khoih-prog/SAMDUE_Slow_PWM.git|Contributed|SAMDUE_Slow_PWM
