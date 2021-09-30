@@ -4375,3 +4375,4 @@ https://github.com/DFRobot/DFRobot_RGBLCD1602.git|Contributed|DFRobot_RGBLCD1602
 https://github.com/RobTillaart/AnalogUVSensor.git|Contributed|AnalogUVSensor
 https://github.com/RodolfoPrieto/MCP3208.git|Contributed|MCP3208
 https://github.com/khoih-prog/STM32_Slow_PWM.git|Contributed|STM32_Slow_PWM
+https://github.com/shkoo/MeshGnome.git|Contributed|MeshGnome
