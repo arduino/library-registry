@@ -648,6 +648,7 @@ https://github.com/arpruss/USBHID_stm32f1
 https://github.com/arpruss/vectordisplayarduino
 https://github.com/ARSadri/PushButtonClicks
 https://github.com/ArsaLearn/Arsa-Main
+https://github.com/RodolfoPrieto/MCP3208
 https://github.com/arsalmaner/Arduino-Libraries
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
@@ -4274,3 +4275,4 @@ https://github.com/khoih-prog/AVR_Slow_PWM
 https://github.com/khoih-prog/megaAVR_Slow_PWM
 https://github.com/khoih-prog/Teensy_Slow_PWM
 https://github.com/khoih-prog/SAMDUE_Slow_PWM
+https://github.com/khoih-prog/STM32_Slow_PWM
