@@ -173,7 +173,7 @@ jobs:
           repo: ${{ github.event.repository.name }}
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           labels: |
-            - ${{ needs.parse.outputs.type }}
+            - "topic: ${{ needs.parse.outputs.type }}"
 
   parse-fail:
     needs:

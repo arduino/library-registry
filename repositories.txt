@@ -12,6 +12,7 @@ https://github.com/DFRobot/DFRobot_B_LUX_V30B
 https://github.com/DFRobot/DFRobot_SGP40
 https://github.com/DFRobot/DFRobot_TCS3430
 https://github.com/DFRobot/DFRobot_VL6180X
+https://github.com/DFRobot/DFRobot_RGBLCD1602
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
@@ -647,6 +648,7 @@ https://github.com/arpruss/USBHID_stm32f1
 https://github.com/arpruss/vectordisplayarduino
 https://github.com/ARSadri/PushButtonClicks
 https://github.com/ArsaLearn/Arsa-Main
+https://github.com/RodolfoPrieto/MCP3208
 https://github.com/arsalmaner/Arduino-Libraries
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
@@ -2966,6 +2968,7 @@ https://github.com/RobTillaart/AGS02MA
 https://github.com/RobTillaart/AM232X
 https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
+https://github.com/RobTillaart/AnalogUVSensor
 https://github.com/RobTillaart/Angle
 https://github.com/RobTillaart/ANSI
 https://github.com/RobTillaart/AsyncAnalog
@@ -4272,3 +4275,8 @@ https://github.com/khoih-prog/AVR_Slow_PWM
 https://github.com/khoih-prog/megaAVR_Slow_PWM
 https://github.com/khoih-prog/Teensy_Slow_PWM
 https://github.com/arduino-libraries/Arduino_OplaUI
+https://github.com/khoih-prog/SAMDUE_Slow_PWM
+https://github.com/khoih-prog/STM32_Slow_PWM
+https://github.com/shkoo/MeshGnome
+https://github.com/khoih-prog/STM32_PWM
+
