@@ -4380,3 +4380,4 @@ https://github.com/khoih-prog/STM32_PWM.git|Contributed|STM32_PWM
 https://github.com/arduino-libraries/Arduino_OplaUI.git|Arduino|Arduino_OplaUI
 https://github.com/michpro/XTEA-Cipher.git|Contributed|XTEA-Cipher
 https://github.com/khoih-prog/SAMD_Slow_PWM.git|Contributed|SAMD_Slow_PWM
+https://github.com/StrathbogieBrewing/VEDirect.git|Contributed|VEDirect
