@@ -4384,3 +4384,4 @@ https://github.com/StrathbogieBrewing/VEDirect.git|Contributed|VEDirect
 https://github.com/StrathbogieBrewing/TinBus.git|Contributed|TinBus
 https://github.com/khoih-prog/Portenta_H7_AsyncTCP.git|Contributed|Portenta_H7_AsyncTCP
 https://github.com/khoih-prog/Portenta_H7_AsyncWebServer.git|Contributed|Portenta_H7_AsyncWebServer
+https://github.com/arduino-libraries/Arduino_BHY2.git|Arduino|Arduino_BHY2
