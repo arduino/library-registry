@@ -4285,3 +4285,4 @@ https://github.com/michpro/XTEA-Cipher
 https://github.com/khoih-prog/SAMD_Slow_PWM
 https://github.com/khoih-prog/Portenta_H7_AsyncTCP
 https://github.com/khoih-prog/Portenta_H7_AsyncWebServer
+https://github.com/arduino-libraries/Arduino_BHY2
