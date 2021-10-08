@@ -4383,3 +4383,4 @@ https://github.com/khoih-prog/SAMD_Slow_PWM.git|Contributed|SAMD_Slow_PWM
 https://github.com/StrathbogieBrewing/VEDirect.git|Contributed|VEDirect
 https://github.com/StrathbogieBrewing/TinBus.git|Contributed|TinBus
 https://github.com/khoih-prog/Portenta_H7_AsyncTCP.git|Contributed|Portenta_H7_AsyncTCP
+https://github.com/khoih-prog/Portenta_H7_AsyncWebServer.git|Contributed|Portenta_H7_AsyncWebServer
