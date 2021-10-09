@@ -4386,3 +4386,4 @@ https://github.com/khoih-prog/Portenta_H7_AsyncTCP.git|Contributed|Portenta_H7_A
 https://github.com/khoih-prog/Portenta_H7_AsyncWebServer.git|Contributed|Portenta_H7_AsyncWebServer
 https://github.com/arduino-libraries/Arduino_BHY2.git|Arduino|Arduino_BHY2
 https://github.com/arduino-libraries/Arduino_BHY2Host.git|Arduino|Arduino_BHY2Host
+https://github.com/khoih-prog/Portenta_H7_AsyncUDP.git|Contributed|Portenta_H7_AsyncUDP
