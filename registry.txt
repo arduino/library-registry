@@ -4389,3 +4389,4 @@ https://github.com/arduino-libraries/Arduino_BHY2Host.git|Arduino|Arduino_BHY2Ho
 https://github.com/khoih-prog/Portenta_H7_AsyncUDP.git|Contributed|Portenta_H7_AsyncUDP
 https://github.com/mkhuthir/Si4703.git|Contributed|Si4703
 https://github.com/tamctec/gt911-arduino.git|Contributed|TAMC_GT911
+https://github.com/FrankBoesing/FastCRC.git|Contributed|FastCRC
