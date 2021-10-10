@@ -4263,6 +4263,7 @@ https://github.com/khoih-prog/ESP32_PWM
 https://github.com/khoih-prog/ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM
 https://github.com/tamctec/ft62x6-arduino
+https://github.com/tamctec/gt911-arduino
 https://github.com/awgrover/Every-for-arduino
 https://github.com/bobboteck/CWLibrary
 https://github.com/khoih-prog/Portenta_H7_Slow_PWM
