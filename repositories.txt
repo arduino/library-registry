@@ -1513,6 +1513,7 @@ https://github.com/hideakitai/ADS1x1x
 https://github.com/hideakitai/ArduinoOSC
 https://github.com/hideakitai/ArtNet
 https://github.com/hideakitai/ArxContainer
+https://github.com/hideakitai/ArduinoEigen
 https://github.com/hideakitai/ArxSmartPtr
 https://github.com/hideakitai/ArxStringUtils
 https://github.com/hideakitai/ArxTypeTraits
