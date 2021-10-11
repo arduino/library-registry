@@ -4293,3 +4293,4 @@ https://github.com/arduino-libraries/Arduino_BHY2Host
 https://github.com/khoih-prog/Portenta_H7_AsyncUDP
 https://github.com/mkhuthir/Si4703
 https://github.com/FrankBoesing/FastCRC
+https://github.com/Wh1teRabbitHU/SiC45x
