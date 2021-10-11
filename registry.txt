@@ -4392,3 +4392,4 @@ https://github.com/tamctec/gt911-arduino.git|Contributed|TAMC_GT911
 https://github.com/FrankBoesing/FastCRC.git|Contributed|FastCRC
 https://github.com/hideakitai/ArduinoEigen.git|Contributed|Eigen
 https://github.com/arduino-libraries/Arduino_BuiltIn.git|Arduino|Arduino_BuiltIn
+https://github.com/Wh1teRabbitHU/SiC45x.git|Contributed|SiC45x
