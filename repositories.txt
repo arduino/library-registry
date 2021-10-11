@@ -519,6 +519,7 @@ https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
 https://github.com/arduino-libraries/Arduino_BQ24195
+https://github.com/arduino-libraries/Arduino_BuiltIn
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP
 https://github.com/arduino-libraries/Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_CRC32
