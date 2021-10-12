@@ -4294,3 +4294,5 @@ https://github.com/khoih-prog/Portenta_H7_AsyncUDP
 https://github.com/mkhuthir/Si4703
 https://github.com/FrankBoesing/FastCRC
 https://github.com/Wh1teRabbitHU/SiC45x
+https://github.com/stm32duino/ST25R3916
+https://github.com/stm32duino/X-NUCLEO-NFC06A1
