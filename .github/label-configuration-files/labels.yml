@@ -31,6 +31,9 @@
 - name: "topic: submission"
   color: "00ffff"
   description: Add library to the list
+- name: "topic: type change"
+  color: "00ffff"
+  description: Change library types data
 - name: "topic: URL change"
   color: "00ffff"
   description: Change library repository URL
