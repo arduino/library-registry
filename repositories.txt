@@ -4201,7 +4201,6 @@ https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/todd-herbert/heltec-eink-modules
 https://github.com/DavidArmstrong/WMM_Tinier
 https://github.com/khoih-prog/FlashStorage_RTL8720
-https://gitlab.com/F-Schmidt/uulm_mcp23008_core
 https://github.com/Basirk/I2CHelper
 https://github.com/khoih-prog/RTL8720_TimerInterrupt
 https://github.com/astuder/SwarmTile
