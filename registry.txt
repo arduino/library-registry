@@ -4395,3 +4395,4 @@ https://github.com/arduino-libraries/Arduino_BuiltIn.git|Arduino|Arduino_BuiltIn
 https://github.com/Wh1teRabbitHU/SiC45x.git|Contributed|SiC45x
 https://github.com/stm32duino/ST25R3916.git|Contributed|STM32duino ST25R3916
 https://github.com/stm32duino/X-NUCLEO-NFC06A1.git|Contributed|STM32duino X-NUCLEO-NFC06A1
+https://github.com/DFRobot/DFRobot_MGC3130.git|Contributed|DFRobot_MGC3130
