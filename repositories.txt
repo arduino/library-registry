@@ -1101,6 +1101,7 @@ https://github.com/Dlloydev/QuickPID
 https://github.com/dlyckelid/KX023-1025-IMU
 https://github.com/dmadison/ArduinoXInput
 https://github.com/dmadison/CtrlUtil
+https://github.com/dmadison/FastLED_NeoPixel
 https://github.com/dmadison/HID_Buttons
 https://github.com/dmadison/NintendoExtensionCtrl
 https://github.com/dmadison/ServoInput
