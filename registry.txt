@@ -4398,3 +4398,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC06A1.git|Contributed|STM32duino X-NUCL
 https://github.com/DFRobot/DFRobot_MGC3130.git|Contributed|DFRobot_MGC3130
 https://github.com/dmadison/FastLED_NeoPixel.git|Contributed|FastLED NeoPixel
 https://github.com/hideakitai/MsgPackRosInterfaces.git|Contributed|MsgPackRosInterfaces
+https://github.com/RobTillaart/MINMAX.git|Contributed|MINMAX
