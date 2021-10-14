@@ -1,3 +1,5 @@
+https://github.com/StrathbogieBrewing/TinBus.git
+https://github.com/StrathbogieBrewing/VEDirect.git
 https://github.com/MrYsLab/Telemetrix4Connect2040
 https://github.com/mgaman/PDUlib
 https://github.com/Aidywady/NXTBluetooth/
@@ -13,6 +15,7 @@ https://github.com/DFRobot/DFRobot_SGP40
 https://github.com/DFRobot/DFRobot_TCS3430
 https://github.com/DFRobot/DFRobot_VL6180X
 https://github.com/DFRobot/DFRobot_RGBLCD1602
+https://github.com/DFRobot/DFRobot_MGC3130
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
@@ -517,6 +520,7 @@ https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
 https://github.com/arduino-libraries/Arduino_BQ24195
+https://github.com/arduino-libraries/Arduino_BuiltIn
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP
 https://github.com/arduino-libraries/Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_CRC32
@@ -1097,6 +1101,7 @@ https://github.com/Dlloydev/QuickPID
 https://github.com/dlyckelid/KX023-1025-IMU
 https://github.com/dmadison/ArduinoXInput
 https://github.com/dmadison/CtrlUtil
+https://github.com/dmadison/FastLED_NeoPixel
 https://github.com/dmadison/HID_Buttons
 https://github.com/dmadison/NintendoExtensionCtrl
 https://github.com/dmadison/ServoInput
@@ -1511,6 +1516,7 @@ https://github.com/hideakitai/ADS1x1x
 https://github.com/hideakitai/ArduinoOSC
 https://github.com/hideakitai/ArtNet
 https://github.com/hideakitai/ArxContainer
+https://github.com/hideakitai/ArduinoEigen
 https://github.com/hideakitai/ArxSmartPtr
 https://github.com/hideakitai/ArxStringUtils
 https://github.com/hideakitai/ArxTypeTraits
@@ -1535,6 +1541,7 @@ https://github.com/hideakitai/MPU9250
 https://github.com/hideakitai/MQTTPubSubClient
 https://github.com/hideakitai/MsgPack
 https://github.com/hideakitai/MsgPacketizer
+https://github.com/hideakitai/MsgPackRosInterfaces
 https://github.com/hideakitai/MTCParser
 https://github.com/hideakitai/Packetizer
 https://github.com/hideakitai/PCA9536
@@ -4197,7 +4204,6 @@ https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/todd-herbert/heltec-eink-modules
 https://github.com/DavidArmstrong/WMM_Tinier
 https://github.com/khoih-prog/FlashStorage_RTL8720
-https://gitlab.com/F-Schmidt/uulm_mcp23008_core
 https://github.com/Basirk/I2CHelper
 https://github.com/khoih-prog/RTL8720_TimerInterrupt
 https://github.com/astuder/SwarmTile
@@ -4261,6 +4267,7 @@ https://github.com/khoih-prog/ESP32_PWM
 https://github.com/khoih-prog/ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM
 https://github.com/tamctec/ft62x6-arduino
+https://github.com/tamctec/gt911-arduino
 https://github.com/awgrover/Every-for-arduino
 https://github.com/bobboteck/CWLibrary
 https://github.com/khoih-prog/Portenta_H7_Slow_PWM
@@ -4274,5 +4281,20 @@ https://github.com/Wh1teRabbitHU/ADS1115-Driver
 https://github.com/khoih-prog/AVR_Slow_PWM
 https://github.com/khoih-prog/megaAVR_Slow_PWM
 https://github.com/khoih-prog/Teensy_Slow_PWM
+https://github.com/arduino-libraries/Arduino_OplaUI
 https://github.com/khoih-prog/SAMDUE_Slow_PWM
 https://github.com/khoih-prog/STM32_Slow_PWM
+https://github.com/shkoo/MeshGnome
+https://github.com/khoih-prog/STM32_PWM
+https://github.com/michpro/XTEA-Cipher
+https://github.com/khoih-prog/SAMD_Slow_PWM
+https://github.com/khoih-prog/Portenta_H7_AsyncTCP
+https://github.com/khoih-prog/Portenta_H7_AsyncWebServer
+https://github.com/arduino-libraries/Arduino_BHY2
+https://github.com/arduino-libraries/Arduino_BHY2Host
+https://github.com/khoih-prog/Portenta_H7_AsyncUDP
+https://github.com/mkhuthir/Si4703
+https://github.com/FrankBoesing/FastCRC
+https://github.com/Wh1teRabbitHU/SiC45x
+https://github.com/stm32duino/ST25R3916
+https://github.com/stm32duino/X-NUCLEO-NFC06A1
