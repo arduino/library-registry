@@ -10,6 +10,7 @@
 [![Check Workflows status](https://github.com/arduino/library-registry/actions/workflows/check-workflows-task.yml/badge.svg)](https://github.com/arduino/library-registry/actions/workflows/check-workflows-task.yml)
 [![Check YAML status](https://github.com/arduino/library-registry/actions/workflows/check-yaml-task.yml/badge.svg)](https://github.com/arduino/library-registry/actions/workflows/check-yaml-task.yml)
 [![Check License status](https://github.com/arduino/library-registry/actions/workflows/check-license.yml/badge.svg)](https://github.com/arduino/library-registry/actions/workflows/check-license.yml)
+[![Check Go Dependencies status](https://github.com/arduino/library-registry/actions/workflows/check-go-dependencies-task.yml/badge.svg)](https://github.com/arduino/library-registry/actions/workflows/check-go-dependencies-task.yml)
 
 This branch contains the generated source file for the Arduino Library Manager index. If you want to add a library to
 the Arduino Library Manager index, please follow these instructions:
