@@ -4399,3 +4399,4 @@ https://github.com/DFRobot/DFRobot_MGC3130.git|Contributed|DFRobot_MGC3130
 https://github.com/dmadison/FastLED_NeoPixel.git|Contributed|FastLED NeoPixel
 https://github.com/hideakitai/MsgPackRosInterfaces.git|Contributed|MsgPackRosInterfaces
 https://github.com/RobTillaart/MINMAX.git|Contributed|MINMAX
+https://github.com/khoih-prog/Portenta_H7_AsyncHTTPRequest.git|Contributed|Portenta_H7_AsyncHTTPRequest
