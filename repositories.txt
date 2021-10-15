@@ -4300,3 +4300,4 @@ https://github.com/Wh1teRabbitHU/SiC45x
 https://github.com/stm32duino/ST25R3916
 https://github.com/stm32duino/X-NUCLEO-NFC06A1
 https://github.com/khoih-prog/Portenta_H7_AsyncHTTPRequest
+https://github.com/maxint-rd/TM16xx
