@@ -852,6 +852,7 @@ https://github.com/bxparks/AceCommon
 https://github.com/bxparks/AceCRC
 https://github.com/bxparks/AceRoutine
 https://github.com/bxparks/AceTime
+https://github.com/bxparks/AceTimeClock
 https://github.com/bxparks/AceUtils
 https://github.com/bxparks/AceSegment
 https://github.com/bxparks/AceSegmentWriter
