@@ -4401,3 +4401,4 @@ https://github.com/hideakitai/MsgPackRosInterfaces.git|Contributed|MsgPackRosInt
 https://github.com/RobTillaart/MINMAX.git|Contributed|MINMAX
 https://github.com/khoih-prog/Portenta_H7_AsyncHTTPRequest.git|Contributed|Portenta_H7_AsyncHTTPRequest
 https://github.com/maxint-rd/TM16xx.git|Contributed|TM16xx LEDs and Buttons
+https://github.com/bxparks/AceTimeClock.git|Contributed|AceTimeClock
