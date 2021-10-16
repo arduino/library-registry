@@ -1547,6 +1547,7 @@ https://github.com/hideakitai/MTCParser
 https://github.com/hideakitai/Packetizer
 https://github.com/hideakitai/PCA9536
 https://github.com/hideakitai/PCA9547
+https://github.com/hideakitai/PCA9624
 https://github.com/hideakitai/PCF2129
 https://github.com/hideakitai/PollingTimer
 https://github.com/hideakitai/SceneManager
