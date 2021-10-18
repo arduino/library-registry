@@ -4403,3 +4403,4 @@ https://github.com/khoih-prog/Portenta_H7_AsyncHTTPRequest.git|Contributed|Porte
 https://github.com/maxint-rd/TM16xx.git|Contributed|TM16xx LEDs and Buttons
 https://github.com/bxparks/AceTimeClock.git|Contributed|AceTimeClock
 https://github.com/hideakitai/PCA9624.git|Contributed|PCA9624
+https://github.com/ktsai69/Vishay_VCNL4200.git|Contributed|Vishay_VCNL4200
