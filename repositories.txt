@@ -1073,6 +1073,7 @@ https://github.com/descampsa/ardyno
 https://github.com/designer2k2/EMUcan
 https://github.com/designer2k2/EMUcanT4
 https://github.com/desklab/desklab-arduino-lib
+https://github.com/devxplained/HTU21D-Sensor-Library
 https://github.com/devxplained/MAX3010x-Sensor-Library
 https://github.com/devinaconley/arduino-plotter
 https://github.com/DFRobot/DFRobotDFPlayerMini
