@@ -4407,3 +4407,4 @@ https://github.com/ktsai69/Vishay_VCNL4200.git|Contributed|Vishay_VCNL4200
 https://github.com/rei-vilo/PDLS_EXT3_Basic.git|Contributed|PDLS_EXT3_Basic
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast.git|Contributed|PDLS_EXT3_Basic_Fast
 https://github.com/devxplained/MAX3010x-Sensor-Library.git|Contributed|MAX3010x Sensor Library
+https://github.com/devxplained/HTU21D-Sensor-Library.git|Contributed|HTU21D Sensor Library
