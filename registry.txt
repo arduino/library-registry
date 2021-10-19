@@ -4406,3 +4406,4 @@ https://github.com/hideakitai/PCA9624.git|Contributed|PCA9624
 https://github.com/ktsai69/Vishay_VCNL4200.git|Contributed|Vishay_VCNL4200
 https://github.com/rei-vilo/PDLS_EXT3_Basic.git|Contributed|PDLS_EXT3_Basic
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast.git|Contributed|PDLS_EXT3_Basic_Fast
+https://github.com/devxplained/MAX3010x-Sensor-Library.git|Contributed|MAX3010x Sensor Library
