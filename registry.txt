@@ -4409,3 +4409,4 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast.git|Contributed|PDLS_EXT3_Basic
 https://github.com/devxplained/MAX3010x-Sensor-Library.git|Contributed|MAX3010x Sensor Library
 https://github.com/devxplained/HTU21D-Sensor-Library.git|Contributed|HTU21D Sensor Library
 https://github.com/DFRobot/DFRobot_VEML6075.git|Contributed|DFRobot_VEML6075
+https://github.com/DFRobot/DFRobot_DF1201S.git|Contributed|DFRobot_DF1201S
