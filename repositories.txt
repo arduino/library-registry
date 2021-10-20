@@ -1,4 +1,5 @@
 https://github.com/StrathbogieBrewing/TinBus.git
+https://github.com/hardwareliberopinerolo/ESP32QRCodeReader
 https://github.com/StrathbogieBrewing/VEDirect.git
 https://github.com/MrYsLab/Telemetrix4Connect2040
 https://github.com/mgaman/PDUlib
