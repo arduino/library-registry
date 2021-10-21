@@ -4411,3 +4411,4 @@ https://github.com/devxplained/HTU21D-Sensor-Library.git|Contributed|HTU21D Sens
 https://github.com/DFRobot/DFRobot_VEML6075.git|Contributed|DFRobot_VEML6075
 https://github.com/DFRobot/DFRobot_DF1201S.git|Contributed|DFRobot_DF1201S
 https://github.com/A-Vision-Software/AVision_ESP8266.git|Contributed|AVision_ESP8266
+https://github.com/DFRobot/DFRobot_URM13.git|Contributed|DFRobot_URM13
