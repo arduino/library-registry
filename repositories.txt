@@ -1680,6 +1680,7 @@ https://github.com/ivanseidel/Gaussian
 https://github.com/ivanseidel/LinkedList
 https://github.com/J-Rios/uTLGBotLib-arduino
 https://github.com/Jaapdedood/ArxRobot-Library
+https://github.com/Jackal28/MCP3304
 https://github.com/jackrobotics/HONEYLemon
 https://github.com/jackrobotics/iSYNC_BC95_Arduino
 https://github.com/jackrobotics/iSYNC
