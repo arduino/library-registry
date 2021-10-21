@@ -4313,3 +4313,4 @@ https://github.com/ktsai69/Vishay_VCNL4200
 https://github.com/rei-vilo/PDLS_EXT3_Basic
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/A-Vision-Software/AVision_ESP8266
+https://github.com/pixelmatix/SmartMatrix
