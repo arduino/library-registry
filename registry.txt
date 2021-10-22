@@ -4415,3 +4415,4 @@ https://github.com/DFRobot/DFRobot_URM13.git|Contributed|DFRobot_URM13
 https://github.com/Jackal28/MCP3304.git|Contributed|MCP3304
 https://gitlab.com/yanranxiaoxi/AntiKeyRepetition.h.git|Contributed|AntiKeyRepetition
 https://github.com/Phoenix1747/Arduino-Pico-Analog-Correction.git|Contributed|PicoAnalogCorrection
+https://github.com/khoih-prog/AsyncTCP_SSL.git|Contributed|AsyncTCP_SSL
