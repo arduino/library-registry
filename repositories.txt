@@ -81,6 +81,7 @@ https://bitbucket.org/geekfactory/gfbutton
 https://bitbucket.org/geekfactory/shell
 https://bitbucket.org/harmonicbionics/ease_arduinocode
 https://bitbucket.org/pjhardy/arduinosinspace
+https://github.com/EndlessParadox7/GFX_Thaana
 https://github.com/Simpit-team/KerbalSimpitRevamped-Arduino
 https://bitbucket.org/teckel12/arduino-new-ping
 https://bitbucket.org/xoseperez/pcf8583
