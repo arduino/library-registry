@@ -4418,3 +4418,4 @@ https://github.com/Phoenix1747/Arduino-Pico-Analog-Correction.git|Contributed|Pi
 https://github.com/khoih-prog/AsyncTCP_SSL.git|Contributed|AsyncTCP_SSL
 https://github.com/RoboCore/RoboCore_Vespa.git|Contributed|RoboCore - Vespa
 https://github.com/khoih-prog/AsyncHTTPSRequest_Generic.git|Contributed|AsyncHTTPSRequest_Generic
+https://github.com/EndlessParadox7/GFX_Thaana.git|Contributed|GFX_Thaana
