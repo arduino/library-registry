@@ -4322,3 +4322,4 @@ https://github.com/A-Vision-Software/AVision_ESP8266
 https://gitlab.com/yanranxiaoxi/AntiKeyRepetition.h
 https://github.com/khoih-prog/AsyncTCP_SSL
 https://github.com/khoih-prog/AsyncHTTPSRequest_Generic
+https://github.com/stm32duino/ST25R95
