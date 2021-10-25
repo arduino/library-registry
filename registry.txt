@@ -4419,3 +4419,5 @@ https://github.com/khoih-prog/AsyncTCP_SSL.git|Contributed|AsyncTCP_SSL
 https://github.com/RoboCore/RoboCore_Vespa.git|Contributed|RoboCore - Vespa
 https://github.com/khoih-prog/AsyncHTTPSRequest_Generic.git|Contributed|AsyncHTTPSRequest_Generic
 https://github.com/EndlessParadox7/GFX_Thaana.git|Contributed|GFX_Thaana
+https://github.com/DFRobot/DFRobot_BMX160.git|Contributed|DFRobot_BMX160
+https://github.com/DFRobot/DFRobot_PAJ7620U2.git|Contributed|DFRobot_PAJ7620U2
