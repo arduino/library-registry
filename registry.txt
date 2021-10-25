@@ -4423,3 +4423,4 @@ https://github.com/DFRobot/DFRobot_BMX160.git|Contributed|DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2.git|Contributed|DFRobot_PAJ7620U2
 https://github.com/m5stack/M5_EzData.git|Contributed|M5_EzData
 https://github.com/stm32duino/ST25R95.git|Contributed|STM32duino ST25R95
+https://github.com/adafruit/Adafruit_VL53L1X.git|Recommended|Adafruit VL53L1X
