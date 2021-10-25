@@ -303,6 +303,7 @@ https://github.com/adafruit/Adafruit_VEML6070
 https://github.com/adafruit/Adafruit_VEML6075
 https://github.com/adafruit/Adafruit_VEML7700
 https://github.com/adafruit/Adafruit_VL53L0X
+https://github.com/adafruit/Adafruit_VL53L1X
 https://github.com/adafruit/Adafruit_VL6180X
 https://github.com/adafruit/Adafruit_VS1053_Library
 https://github.com/adafruit/Adafruit_WavePlayer
