@@ -4421,3 +4421,4 @@ https://github.com/khoih-prog/AsyncHTTPSRequest_Generic.git|Contributed|AsyncHTT
 https://github.com/EndlessParadox7/GFX_Thaana.git|Contributed|GFX_Thaana
 https://github.com/DFRobot/DFRobot_BMX160.git|Contributed|DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2.git|Contributed|DFRobot_PAJ7620U2
+https://github.com/m5stack/M5_EzData.git|Contributed|M5_EzData
