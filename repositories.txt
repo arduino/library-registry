@@ -2370,6 +2370,7 @@ https://github.com/MicroGamerConsole/MicroGamer-Arduino
 https://github.com/miguel5612/Arduino-ThermistorLibrary
 https://github.com/miguel5612/MQSensorsLib
 https://github.com/miguelbalboa/rfid
+https://github.com/OSSLibraries/Arduino_MFRC522v2
 https://github.com/MiguelPynto/ShiftDisplay
 https://github.com/mihai-dinculescu/arduino-gravity-soil-moisture-sensor
 https://github.com/mikalhart/IridiumSBD
