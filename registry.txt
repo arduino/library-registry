@@ -4428,3 +4428,4 @@ https://github.com/DFRobot/DFRobot_DS323X.git|Contributed|DFRobot_DS323X
 https://github.com/Gbertaz/NonBlockingDallas.git|Contributed|NonBlockingDallas
 https://github.com/OSSLibraries/Arduino_MFRC522v2.git|Contributed|RFID_MFRC522v2
 https://github.com/Sensirion/arduino-i2c-sht4x.git|Contributed|Sensirion I2C SHT4x
+https://github.com/smartmeio/microcontroller-id-library.git|Contributed|Microcontroller-id
