@@ -3347,6 +3347,7 @@ https://github.com/smaffer/vgaxua
 https://github.com/SmartElecRu/AlphaSE_BasicUnit
 https://github.com/SmartElecRu/ArduinoIDE_SE_EEPROM
 https://github.com/smartmeio/arancino-library
+https://github.com/smartmeio/microcontroller-id-library
 https://github.com/Smartphone-Companions/ESP32-ANCS-Notifications
 https://github.com/SMFSW/CaptureTimer
 https://github.com/SMFSW/cI2C
