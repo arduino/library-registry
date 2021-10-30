@@ -4431,3 +4431,4 @@ https://github.com/Sensirion/arduino-i2c-sht4x.git|Contributed|Sensirion I2C SHT
 https://github.com/smartmeio/microcontroller-id-library.git|Contributed|Microcontroller-id
 https://github.com/connornishijima/Pixie_Chroma.git|Contributed|Pixie_Chroma
 https://github.com/natnqweb/Functional_button.git|Contributed|functional_button
+https://github.com/natnqweb/Mapf.git|Contributed|Mapf
