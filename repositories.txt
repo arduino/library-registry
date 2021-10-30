@@ -4330,3 +4330,4 @@ https://gitlab.com/yanranxiaoxi/AntiKeyRepetition.h
 https://github.com/khoih-prog/AsyncTCP_SSL
 https://github.com/khoih-prog/AsyncHTTPSRequest_Generic
 https://github.com/stm32duino/ST25R95
+https://github.com/natnqweb/Functional_button
