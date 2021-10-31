@@ -4432,3 +4432,4 @@ https://github.com/smartmeio/microcontroller-id-library.git|Contributed|Microcon
 https://github.com/connornishijima/Pixie_Chroma.git|Contributed|Pixie_Chroma
 https://github.com/natnqweb/Functional_button.git|Contributed|functional_button
 https://github.com/natnqweb/Mapf.git|Contributed|Mapf
+https://github.com/nitz/Cie1931.git|Contributed|CIE1931 Brightness Ramp
