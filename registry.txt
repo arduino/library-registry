@@ -4437,3 +4437,4 @@ https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library.git|Contri
 https://github.com/XiloXL/Powerbaas.git|Contributed|Powerbaas
 https://github.com/heiloworodl/StepMotor4windings.git|Contributed|StepMotor4windings
 https://github.com/ArminJo/AvrTracing.git|Contributed|AvrTracing
+https://github.com/m5stack/M5_BM8563.git|Contributed|M5_BM8563
