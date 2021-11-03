@@ -4436,3 +4436,4 @@ https://github.com/domiluci/LiquidCrystal_NKC.git|Contributed|LiquidCrystal NKC
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library.git|Contributed|SparkFun smol Power Board Arduino Library
 https://github.com/XiloXL/Powerbaas.git|Contributed|Powerbaas
 https://github.com/heiloworodl/StepMotor4windings.git|Contributed|StepMotor4windings
+https://github.com/ArminJo/AvrTracing.git|Contributed|AvrTracing
