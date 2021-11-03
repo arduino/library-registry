@@ -4438,3 +4438,4 @@ https://github.com/XiloXL/Powerbaas.git|Contributed|Powerbaas
 https://github.com/heiloworodl/StepMotor4windings.git|Contributed|StepMotor4windings
 https://github.com/ArminJo/AvrTracing.git|Contributed|AvrTracing
 https://github.com/m5stack/M5_BM8563.git|Contributed|M5_BM8563
+https://github.com/bolderflight/circle_buf.git|Contributed|Bolder Flight Systems Circular Buffer
