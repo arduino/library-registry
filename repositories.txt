@@ -1,3 +1,4 @@
+https://github.com/bolderflight/circle_buf
 https://github.com/connornishijima/Pixie_Chroma
 https://github.com/Gbertaz/NonBlockingDallas
 https://github.com/RoboCore/RoboCore_Vespa
