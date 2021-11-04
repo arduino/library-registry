@@ -4443,3 +4443,4 @@ https://github.com/bolderflight/statistics.git|Contributed|Bolder Flight Systems
 https://github.com/DFRobot/DFRobot_Lora.git|Contributed|DFRobot_LoRa
 https://github.com/DFRobot/DFRobot_CCS811.git|Contributed|DFRobot_CCS811
 https://github.com/bolderflight/units.git|Contributed|Bolder Flight Systems Unit Conversions
+https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library.git|Contributed|SparkFun VL53L5CX Arduino Library
