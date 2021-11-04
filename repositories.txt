@@ -28,6 +28,8 @@ https://github.com/DFRobot/DFRobot_URM13
 https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_DS323X
+https://github.com/DFRobot/DFRobot_Lora
+https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
