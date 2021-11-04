@@ -4442,3 +4442,4 @@ https://github.com/bolderflight/circle_buf.git|Contributed|Bolder Flight Systems
 https://github.com/bolderflight/statistics.git|Contributed|Bolder Flight Systems Statistics
 https://github.com/DFRobot/DFRobot_Lora.git|Contributed|DFRobot_LoRa
 https://github.com/DFRobot/DFRobot_CCS811.git|Contributed|DFRobot_CCS811
+https://github.com/bolderflight/units.git|Contributed|Bolder Flight Systems Unit Conversions
