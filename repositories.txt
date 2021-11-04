@@ -3506,6 +3506,7 @@ https://github.com/sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Button_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library
+https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library
