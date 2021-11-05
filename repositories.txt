@@ -4346,3 +4346,5 @@ https://github.com/nitz/Cie1931
 https://github.com/domiluci/LiquidCrystal_NKC
 https://github.com/XiloXL/Powerbaas
 https://github.com/heiloworodl/StepMotor4windings
+https://github.com/xreef/SimpleFTPServer
+https://github.com/xreef/EByte_LoRa_E22_Series_Library
