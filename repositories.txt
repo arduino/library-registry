@@ -1320,7 +1320,7 @@ https://github.com/ferkoyanagi/SevenSegmentsK
 https://github.com/fesselk/everytime
 https://github.com/fhessel/esp32_https_server_compat
 https://github.com/fhessel/esp32_https_server
-https://github.com/finani/Arduino_ICM20689
+https://github.com/finani/ICM20689
 https://github.com/finitespace/BME280
 https://github.com/finson-release/FirmataWithDeviceFeature
 https://github.com/finson-release/Luni
