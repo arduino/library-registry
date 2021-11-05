@@ -4445,3 +4445,5 @@ https://github.com/DFRobot/DFRobot_CCS811.git|Contributed|DFRobot_CCS811
 https://github.com/bolderflight/units.git|Contributed|Bolder Flight Systems Unit Conversions
 https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library.git|Contributed|SparkFun VL53L5CX Arduino Library
 https://github.com/finani/ICM20689.git|Contributed|ICM20689
+https://github.com/xreef/SimpleFTPServer.git|Contributed|Simple FTP Server
+https://github.com/xreef/EByte_LoRa_E22_Series_Library.git|Contributed|EByte LoRa E22 library
