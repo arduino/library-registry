@@ -2917,6 +2917,7 @@ https://github.com/RAKWireless/RAK-MQx-Library
 https://github.com/RAKWireless/RAK13005-TLE7259-Library
 https://github.com/RAKWireless/RAK12010-VEML7700-Library
 https://github.com/RAKWireless/RAK-ADS7830-Library
+https://github.com/RAKWireless/RAKwireless_Storage
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/rasmushedeager/sducar
