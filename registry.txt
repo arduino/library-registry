@@ -4449,3 +4449,4 @@ https://github.com/xreef/SimpleFTPServer.git|Contributed|Simple FTP Server
 https://github.com/xreef/EByte_LoRa_E22_Series_Library.git|Contributed|EByte LoRa E22 library
 https://github.com/RAKWireless/RAKwireless_Storage.git|Contributed|RAKwireless Storage
 https://github.com/SantiagoSaldana/SBC.git|Contributed|SBC
+https://github.com/AlexIII/incbin-arduino.git|Contributed|incbin
