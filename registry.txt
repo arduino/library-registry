@@ -4450,3 +4450,4 @@ https://github.com/xreef/EByte_LoRa_E22_Series_Library.git|Contributed|EByte LoR
 https://github.com/RAKWireless/RAKwireless_Storage.git|Contributed|RAKwireless Storage
 https://github.com/SantiagoSaldana/SBC.git|Contributed|SBC
 https://github.com/AlexIII/incbin-arduino.git|Contributed|incbin
+https://github.com/monkcs/devuino.git|Contributed|Devuino
