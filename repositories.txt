@@ -1,3 +1,7 @@
+https://github.com/AlexIII/incbin-arduino
+https://github.com/bolderflight/units
+https://github.com/bolderflight/statistics
+https://github.com/bolderflight/circle_buf
 https://github.com/connornishijima/Pixie_Chroma
 https://github.com/Gbertaz/NonBlockingDallas
 https://github.com/RoboCore/RoboCore_Vespa
@@ -26,6 +30,8 @@ https://github.com/DFRobot/DFRobot_URM13
 https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_DS323X
+https://github.com/DFRobot/DFRobot_Lora
+https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
@@ -42,6 +48,7 @@ https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/m5stack/M5_ADS1115
+https://github.com/m5stack/M5_BM8563
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_FPC1020A
@@ -651,6 +658,7 @@ https://github.com/arkhipenko/TM1650
 https://github.com/ArminJo/Arduino-BlueDisplay
 https://github.com/ArminJo/Arduino-FrequencyDetector
 https://github.com/ArminJo/ATtinySerialOut
+https://github.com/ArminJo/AvrTracing
 https://github.com/ArminJo/EasyButtonAtInt01
 https://github.com/ArminJo/NeoPatterns
 https://github.com/ArminJo/PlayRtttl
@@ -1313,6 +1321,7 @@ https://github.com/ferkoyanagi/SevenSegmentsK
 https://github.com/fesselk/everytime
 https://github.com/fhessel/esp32_https_server_compat
 https://github.com/fhessel/esp32_https_server
+https://github.com/finani/ICM20689
 https://github.com/finitespace/BME280
 https://github.com/finson-release/FirmataWithDeviceFeature
 https://github.com/finson-release/Luni
@@ -2909,6 +2918,7 @@ https://github.com/RAKWireless/RAK-MQx-Library
 https://github.com/RAKWireless/RAK13005-TLE7259-Library
 https://github.com/RAKWireless/RAK12010-VEML7700-Library
 https://github.com/RAKWireless/RAK-ADS7830-Library
+https://github.com/RAKWireless/RAKwireless_Storage
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/rasmushedeager/sducar
@@ -3165,6 +3175,7 @@ https://github.com/sandeepmistry/arduino-BLEPeripheral
 https://github.com/sandeepmistry/arduino-CAN
 https://github.com/sandeepmistry/arduino-LoRa
 https://github.com/sandeepmistry/arduino-OBD2
+https://github.com/SantiagoSaldana/SBC
 https://github.com/Saruccio/ESPpassthrough
 https://github.com/sauttefk/RS485HwSerial
 https://github.com/sblantipodi/arduino_bootstrapper
@@ -3499,6 +3510,7 @@ https://github.com/sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Button_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library
+https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Haptic_Driver_DA7280_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Humidity_AHT20_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library
@@ -4335,3 +4347,8 @@ https://github.com/natnqweb/Functional_button
 https://github.com/natnqweb/Mapf
 https://github.com/nitz/Cie1931
 https://github.com/domiluci/LiquidCrystal_NKC
+https://github.com/XiloXL/Powerbaas
+https://github.com/heiloworodl/StepMotor4windings
+https://github.com/xreef/SimpleFTPServer
+https://github.com/xreef/EByte_LoRa_E22_Series_Library
+https://github.com/monkcs/devuino
