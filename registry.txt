@@ -4451,3 +4451,4 @@ https://github.com/RAKWireless/RAKwireless_Storage.git|Contributed|RAKwireless S
 https://github.com/SantiagoSaldana/SBC.git|Contributed|SBC
 https://github.com/AlexIII/incbin-arduino.git|Contributed|incbin
 https://github.com/monkcs/devuino.git|Contributed|Devuino
+https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library.git|Contributed|SparkFun VEML7700 Arduino Library
