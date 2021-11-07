@@ -3564,6 +3564,7 @@ https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library
 https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library
 https://github.com/sparkfun/SparkFun_VEML6075_Arduino_Library
+https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library
 https://github.com/sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
 https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library
