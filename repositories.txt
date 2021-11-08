@@ -1975,6 +1975,7 @@ https://github.com/kniwwelino/KniwwelinoLib
 https://github.com/knolleary/pubsubclient
 https://github.com/koendv/SerialWireOutput
 https://github.com/koendv/STM32duino-Semihosting
+https://github.com/koendv/Arduino-RttStream
 https://github.com/Kongduino/LoRandom
 https://github.com/KONNEKTING/KonnektingDeviceLibrary
 https://github.com/kontakt/MAX30100
