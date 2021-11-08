@@ -3776,6 +3776,7 @@ https://github.com/thebigpotatoe/Effortless-SPIFFS
 https://github.com/thebigpotatoe/Feature-Variables
 https://github.com/TheFidax/digitalPinFast
 https://github.com/TheFidax/Rcn600
+https://github.com/TheFidax/SusiOverI2c
 https://github.com/thehapyone/BareBoneSim800
 https://github.com/TheJLifeX/ScrollingText8x8Display
 https://github.com/thesolarnomad/lora-serialization
