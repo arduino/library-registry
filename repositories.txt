@@ -4357,3 +4357,4 @@ https://github.com/heiloworodl/StepMotor4windings
 https://github.com/xreef/SimpleFTPServer
 https://github.com/xreef/EByte_LoRa_E22_Series_Library
 https://github.com/monkcs/devuino
+https://github.com/TheFidax/WireSusi
