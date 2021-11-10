@@ -4458,3 +4458,4 @@ https://github.com/DFRobot/DFRobot_MLX90614.git|Contributed|DFRobot_MLX90614
 https://github.com/m5stack/M5Unified.git|Contributed|M5Unified
 https://github.com/TheFidax/WireSusi.git|Contributed|WireSusi
 https://github.com/ncmreynolds/pimoroniTrackball.git|Contributed|pimoroniTrackball
+https://github.com/felias-fogg/SoftI2CMaster.git|Contributed|SoftI2CMaster
