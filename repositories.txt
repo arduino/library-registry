@@ -1315,6 +1315,7 @@ https://github.com/feilipu/Goldilocks_Analogue_DAC_Library
 https://github.com/feilipu/Goldilocks_Analogue_SPIRAM_Library
 https://github.com/feklee/MultiTrans
 https://github.com/felias-fogg/DotMatrix5x7
+https://github.com/felias-fogg/SoftI2CMaster
 https://github.com/felias-fogg/Vcc
 https://github.com/felis/USB_Host_Shield_2.0
 https://github.com/fenichelar/Pin
