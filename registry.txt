@@ -4455,3 +4455,4 @@ https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library.git|Contributed|Sp
 https://github.com/koendv/Arduino-RttStream.git|Contributed|RTT Stream
 https://github.com/TheFidax/SusiOverI2c.git|Contributed|SusiOverI2c
 https://github.com/DFRobot/DFRobot_MLX90614.git|Contributed|DFRobot_MLX90614
+https://github.com/m5stack/M5Unified.git|Contributed|M5Unified
