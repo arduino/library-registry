@@ -4457,3 +4457,4 @@ https://github.com/TheFidax/SusiOverI2c.git|Contributed|SusiOverI2c
 https://github.com/DFRobot/DFRobot_MLX90614.git|Contributed|DFRobot_MLX90614
 https://github.com/m5stack/M5Unified.git|Contributed|M5Unified
 https://github.com/TheFidax/WireSusi.git|Contributed|WireSusi
+https://github.com/ncmreynolds/pimoroniTrackball.git|Contributed|pimoroniTrackball
