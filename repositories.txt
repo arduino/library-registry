@@ -33,6 +33,8 @@ https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_DS323X
 https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_CCS811
+https://github.com/ZinggJM/ILI9486_SPI
+https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
