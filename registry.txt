@@ -4459,3 +4459,5 @@ https://github.com/m5stack/M5Unified.git|Contributed|M5Unified
 https://github.com/TheFidax/WireSusi.git|Contributed|WireSusi
 https://github.com/ncmreynolds/pimoroniTrackball.git|Contributed|pimoroniTrackball
 https://github.com/felias-fogg/SoftI2CMaster.git|Contributed|SoftI2CMaster
+https://github.com/ZinggJM/ILI9486_SPI.git|Contributed|ILI9486_SPI
+https://github.com/ZinggJM/GFX_Extensions.git|Contributed|GFX_Extensions
