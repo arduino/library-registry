@@ -4463,3 +4463,4 @@ https://github.com/ZinggJM/ILI9486_SPI.git|Contributed|ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions.git|Contributed|GFX_Extensions
 https://github.com/lansium-dev/lansium-arduino.git|Contributed|lansium-arduino
 https://github.com/asukiaaa/arduino-A89306.git|Contributed|A89306_asukiaaa
+https://github.com/Jueff/SoftwareSerialTX.git|Contributed|SoftwareSerialTX
