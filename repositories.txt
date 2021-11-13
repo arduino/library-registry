@@ -4361,3 +4361,4 @@ https://github.com/xreef/SimpleFTPServer
 https://github.com/xreef/EByte_LoRa_E22_Series_Library
 https://github.com/monkcs/devuino
 https://github.com/TheFidax/WireSusi
+https://github.com/lansium-dev/lansium-arduino
