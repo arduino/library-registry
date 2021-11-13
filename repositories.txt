@@ -689,6 +689,7 @@ https://github.com/aster94/Utilities
 https://github.com/astuder/icp-101xx
 https://github.com/asukiaaa/AD5254_asukiaaa
 https://github.com/asukiaaa/AM2320_asukiaaa
+https://github.com/asukiaaa/arduino-A89306
 https://github.com/asukiaaa/arduino-button
 https://github.com/asukiaaa/arduino-HX711
 https://github.com/asukiaaa/arduino-MotorCVD
