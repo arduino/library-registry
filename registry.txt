@@ -4461,3 +4461,4 @@ https://github.com/ncmreynolds/pimoroniTrackball.git|Contributed|pimoroniTrackba
 https://github.com/felias-fogg/SoftI2CMaster.git|Contributed|SoftI2CMaster
 https://github.com/ZinggJM/ILI9486_SPI.git|Contributed|ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions.git|Contributed|GFX_Extensions
+https://github.com/lansium-dev/lansium-arduino.git|Contributed|lansium-arduino
