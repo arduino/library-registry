@@ -4466,3 +4466,4 @@ https://github.com/asukiaaa/arduino-A89306.git|Contributed|A89306_asukiaaa
 https://github.com/Jueff/SoftwareSerialTX.git|Contributed|SoftwareSerialTX
 https://github.com/cygig/MonteCarloPi.git|Contributed|MonteCarloPi
 https://github.com/ProjectoOfficial/Oscup.git|Contributed|Oscup
+https://github.com/Franzininho/Franzininho_LiquidCrystal.git|Contributed|Franzininho_LiquidCrystal
