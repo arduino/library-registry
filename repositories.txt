@@ -1,3 +1,4 @@
+https://github.com/ProjectoOfficial/Oscup
 https://github.com/ncmreynolds/pimoroniTrackball
 https://github.com/AlexIII/incbin-arduino
 https://github.com/bolderflight/units
