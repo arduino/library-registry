@@ -1,4 +1,3 @@
-https://github.com/ProjectoOfficial/Oscup
 https://github.com/cygig/MonteCarloPi
 https://github.com/ncmreynolds/pimoroniTrackball
 https://github.com/AlexIII/incbin-arduino
