@@ -4465,3 +4465,4 @@ https://github.com/lansium-dev/lansium-arduino.git|Contributed|lansium-arduino
 https://github.com/asukiaaa/arduino-A89306.git|Contributed|A89306_asukiaaa
 https://github.com/Jueff/SoftwareSerialTX.git|Contributed|SoftwareSerialTX
 https://github.com/cygig/MonteCarloPi.git|Contributed|MonteCarloPi
+https://github.com/ProjectoOfficial/Oscup.git|Contributed|Oscup
