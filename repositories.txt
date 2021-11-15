@@ -66,6 +66,7 @@ https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
 https://github.com/aikopras/RSbus
 https://github.com/tfeldmann/Arduino-SchmittTrigger
+https://github.com/tfeldmann/Arduino-Indicator
 https://github.com/miathedev/KomootBLEConnect
 https://github.com/RobotGrrl/PolylineArduino
 https://github.com/Tinyu-Zhao/PCA9554
