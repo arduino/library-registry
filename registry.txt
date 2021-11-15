@@ -4468,3 +4468,4 @@ https://github.com/cygig/MonteCarloPi.git|Contributed|MonteCarloPi
 https://github.com/ProjectoOfficial/Oscup.git|Contributed|Oscup
 https://github.com/Franzininho/Franzininho_LiquidCrystal.git|Contributed|Franzininho_LiquidCrystal
 https://github.com/0neblock/Arduino_SNMP.git|Contributed|SNMP_Agent
+https://github.com/tfeldmann/Arduino-Indicator.git|Contributed|Indicator
