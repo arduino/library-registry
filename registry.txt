@@ -4470,3 +4470,4 @@ https://github.com/Franzininho/Franzininho_LiquidCrystal.git|Contributed|Franzin
 https://github.com/0neblock/Arduino_SNMP.git|Contributed|SNMP_Agent
 https://github.com/tfeldmann/Arduino-Indicator.git|Contributed|Indicator
 https://github.com/GerLech/AsyncWebConfig.git|Contributed|AsyncWebConfig
+https://github.com/ohad32/FireBase32.git|Contributed|FireBase32
