@@ -4474,3 +4474,4 @@ https://github.com/ohad32/FireBase32.git|Contributed|FireBase32
 https://github.com/ruiseixasm/Robust-EEPROM.git|Contributed|Robust-EEPROM
 https://github.com/stm32duino/VL53L5CX.git|Contributed|STM32duino VL53L5CX
 https://github.com/stm32duino/X-NUCLEO-53L5A1.git|Contributed|STM32duino X-NUCLEO-53L5A1
+https://github.com/FTTechBrasil/FTTech_Swarm.git|Contributed|FTTech Swarm
