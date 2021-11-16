@@ -1372,6 +1372,7 @@ https://github.com/freetronics/FTOLED
 https://github.com/freetronics/FTRGBLED
 https://github.com/fterrier/dwarf433
 https://github.com/FTTechBrasil/FTTech_SAMD51_Clicks
+https://github.com/FTTechBrasil/FTTech_Swarm
 https://github.com/fu-hsi/FuGPS
 https://github.com/fu-hsi/PMS
 https://github.com/full-stack-ex/tiny-template-engine-arduino
