@@ -4372,3 +4372,5 @@ https://github.com/TheFidax/WireSusi
 https://github.com/lansium-dev/lansium-arduino
 https://github.com/Jueff/SoftwareSerialTX
 https://github.com/0neblock/Arduino_SNMP
+https://github.com/stm32duino/VL53L5CX
+https://github.com/stm32duino/X-NUCLEO-53L5A1
