@@ -33,6 +33,7 @@ https://github.com/DFRobot/DFRobot_MGC3130
 https://github.com/DFRobot/DFRobot_VEML6075
 https://github.com/DFRobot/DFRobot_DF1201S
 https://github.com/DFRobot/DFRobot_URM13
+https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_DS323X
