@@ -4476,3 +4476,4 @@ https://github.com/stm32duino/VL53L5CX.git|Contributed|STM32duino VL53L5CX
 https://github.com/stm32duino/X-NUCLEO-53L5A1.git|Contributed|STM32duino X-NUCLEO-53L5A1
 https://github.com/FTTechBrasil/FTTech_Swarm.git|Contributed|FTTech Swarm
 https://github.com/ArduinoGetStarted/Analog-Keypad.git|Contributed|ezAnalogKeypad
+https://github.com/ArtronShop/Artron_DS1338.git|Contributed|Artron DS1338
