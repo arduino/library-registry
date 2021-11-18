@@ -2560,6 +2560,7 @@ https://github.com/NitrofMtl/TimeOut
 https://github.com/NitrofMtl/weeklyAlarm
 https://github.com/njh/EtherCard
 https://github.com/njh/EtherSia
+https://github.com/nkaaf/Arduino-List
 https://github.com/Nkawu/TFT_22_ILI9225
 https://github.com/nkolban/ESP32_BLE_Arduino
 https://github.com/noah1510/LedController
