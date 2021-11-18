@@ -4478,3 +4478,4 @@ https://github.com/FTTechBrasil/FTTech_Swarm.git|Contributed|FTTech Swarm
 https://github.com/ArduinoGetStarted/Analog-Keypad.git|Contributed|ezAnalogKeypad
 https://github.com/ArtronShop/Artron_DS1338.git|Contributed|Artron DS1338
 https://github.com/Matrix-Robotics/MatrixLaserSensor.git|Contributed|Matrix Laser Sensor
+https://github.com/verdanatech/glpi_esp8266.git|Contributed|glpi_esp8266
