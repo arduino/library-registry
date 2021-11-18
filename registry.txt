@@ -4479,3 +4479,4 @@ https://github.com/ArduinoGetStarted/Analog-Keypad.git|Contributed|ezAnalogKeypa
 https://github.com/ArtronShop/Artron_DS1338.git|Contributed|Artron DS1338
 https://github.com/Matrix-Robotics/MatrixLaserSensor.git|Contributed|Matrix Laser Sensor
 https://github.com/verdanatech/glpi_esp8266.git|Contributed|glpi_esp8266
+https://github.com/dl9sec/AioP13.git|Contributed|AioP13
