@@ -4477,3 +4477,4 @@ https://github.com/stm32duino/X-NUCLEO-53L5A1.git|Contributed|STM32duino X-NUCLE
 https://github.com/FTTechBrasil/FTTech_Swarm.git|Contributed|FTTech Swarm
 https://github.com/ArduinoGetStarted/Analog-Keypad.git|Contributed|ezAnalogKeypad
 https://github.com/ArtronShop/Artron_DS1338.git|Contributed|Artron DS1338
+https://github.com/Matrix-Robotics/MatrixLaserSensor.git|Contributed|Matrix Laser Sensor
