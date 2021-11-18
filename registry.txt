@@ -4481,3 +4481,4 @@ https://github.com/Matrix-Robotics/MatrixLaserSensor.git|Contributed|Matrix Lase
 https://github.com/verdanatech/glpi_esp8266.git|Contributed|glpi_esp8266
 https://github.com/dl9sec/AioP13.git|Contributed|AioP13
 https://github.com/NeMaksym/Arduino-EasySevenSeg.git|Contributed|Easy SevenSeg
+https://github.com/nkaaf/Arduino-List.git|Contributed|List
