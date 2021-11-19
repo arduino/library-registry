@@ -4483,3 +4483,4 @@ https://github.com/dl9sec/AioP13.git|Contributed|AioP13
 https://github.com/NeMaksym/Arduino-EasySevenSeg.git|Contributed|Easy SevenSeg
 https://github.com/nkaaf/Arduino-List.git|Contributed|List
 https://github.com/m5stack/UNIT_SONIC.git|Contributed|UNIT_SONIC
+https://github.com/ncmreynolds/TapCode.git|Contributed|TapCode
