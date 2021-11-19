@@ -4484,3 +4484,4 @@ https://github.com/NeMaksym/Arduino-EasySevenSeg.git|Contributed|Easy SevenSeg
 https://github.com/nkaaf/Arduino-List.git|Contributed|List
 https://github.com/m5stack/UNIT_SONIC.git|Contributed|UNIT_SONIC
 https://github.com/ncmreynolds/TapCode.git|Contributed|TapCode
+https://github.com/RobTillaart/tinySHT2x.git|Contributed|tinySHT2x
