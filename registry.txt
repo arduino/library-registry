@@ -4486,3 +4486,4 @@ https://github.com/m5stack/UNIT_SONIC.git|Contributed|UNIT_SONIC
 https://github.com/ncmreynolds/TapCode.git|Contributed|TapCode
 https://github.com/RobTillaart/tinySHT2x.git|Contributed|tinySHT2x
 https://github.com/gravitech-engineer/AIS_IoT_4G.git|Contributed|AIS 4G board
+https://github.com/BCISOFT/OvhAPI.git|Contributed|OvhAPI
