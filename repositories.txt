@@ -857,9 +857,6 @@ https://github.com/bolderflight/UBLOX
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/BoschSensortec/BSEC-Arduino-library
-https://github.com/boseji/PString-Arduino-lib
-https://github.com/boseji/rBASE64
-https://github.com/boseji/xxtea-iot-crypt
 https://github.com/Botly-Studio/Botly-Library
 https://github.com/boxtec/Witty
 https://github.com/bportaluri/ALA
