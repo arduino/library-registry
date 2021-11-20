@@ -1,4 +1,4 @@
-https://github.com.MajicDesigns/SmartCar2
+https://github.com/MajicDesigns/SmartCar2
 https://github.com/ncmreynolds/TapCode
 https://github.com/NeMaksym/Arduino-EasySevenSeg
 https://github.com/ArduinoGetStarted/Analog-Keypad
