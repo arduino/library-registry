@@ -3,7 +3,6 @@ https://github.com/ncmreynolds/TapCode
 https://github.com/NeMaksym/Arduino-EasySevenSeg
 https://github.com/ArduinoGetStarted/Analog-Keypad
 https://github.com/GerLech/AsyncWebConfig
-https://github.com/ohad32/FireBase32
 https://github.com/Franzininho/Franzininho_LiquidCrystal
 https://github.com/ProjectoOfficial/Oscup
 https://github.com/cygig/MonteCarloPi
