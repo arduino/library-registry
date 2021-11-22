@@ -4144,7 +4144,13 @@ https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/FPGAArcade/replay_mkrvidor4000
 https://github.com/Picovoice/picovoice-arduino-en
+https://github.com/Picovoice/picovoice-arduino-de
+https://github.com/Picovoice/picovoice-arduino-es
+https://github.com/Picovoice/picovoice-arduino-fr
 https://github.com/Picovoice/porcupine-arduino-en
+https://github.com/Picovoice/porcupine-arduino-de
+https://github.com/Picovoice/porcupine-arduino-fr
+https://github.com/Picovoice/porcupine-arduino-es
 https://github.com/khoih-prog/MBED_RPI_PICO_TimerInterrupt
 https://github.com/tigoe/sACNSource
 https://github.com/PodgroupConnectivity/PodEnoSim
