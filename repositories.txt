@@ -4390,3 +4390,4 @@ https://github.com/BertanT/Arduino-RGBWConverter
 https://github.com/michaellee8/TimedState
 https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library
 https://github.com/cbm80amiga/RREFont.git
+https://github.com/iotexproject/arduino-sdk
