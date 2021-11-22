@@ -4490,3 +4490,4 @@ https://github.com/BCISOFT/OvhAPI.git|Contributed|OvhAPI
 https://github.com/BertanT/Arduino-RGBWConverter.git|Contributed|RGBWConverter
 https://github.com/michaellee8/TimedState.git|Contributed|TimedState
 https://github.com/MajicDesigns/MD_SmartCar2.git|Contributed|MD_SmartCar2
+https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library.git|Contributed|Tuya_BLE_MCU_SDK
