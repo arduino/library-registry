@@ -4387,3 +4387,4 @@ https://github.com/gravitech-engineer/AIS_IoT_4G
 https://github.com/BCISOFT/OvhAPI
 https://github.com/BertanT/Arduino-RGBWConverter
 https://github.com/michaellee8/TimedState
+https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library
