@@ -4493,3 +4493,4 @@ https://github.com/MajicDesigns/MD_SmartCar2.git|Contributed|MD_SmartCar2
 https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library.git|Contributed|Tuya_BLE_MCU_SDK
 https://github.com/cbm80amiga/RREFont.git|Contributed|RRE Font Library
 https://github.com/Picovoice/porcupine-arduino-en.git|Contributed|Porcupine_EN
+https://github.com/iotexproject/arduino-sdk.git|Contributed|IoTeX-blockchain-client
