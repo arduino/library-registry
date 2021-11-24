@@ -3433,7 +3433,7 @@ https://github.com/souliss/souliss
 https://github.com/souviksaha97/DAC7611
 https://github.com/souviksaha97/MCP3202
 https://github.com/sp6q/maidenhead
-https://github.com/spacehuhn/SimpleCLI
+https://github.com/spacehuhntech/SimpleCLI
 https://github.com/Spaguetron/ST_HW_HC_SR04
 https://github.com/sparkfun/Fingerprint_Scanner-TTL
 https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary
