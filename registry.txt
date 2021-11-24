@@ -2245,7 +2245,7 @@ https://github.com/smurf0969/WiFiConnect.git|Contributed|WiFiConnect
 https://github.com/mobizt/Firebase-ESP8266.git|Contributed|Firebase ESP8266 Client
 https://github.com/bmellink/IBusBM.git|Contributed|IBusBM
 https://github.com/sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library.git|Contributed|SparkFun Qwiic Keypad Arduino Library
-https://github.com/spacehuhn/SimpleCLI.git|Contributed|SimpleCLI
+https://github.com/spacehuhntech/SimpleCLI.git|Contributed|SimpleCLI
 https://github.com/offcircuit/Charset.git|Contributed|Charset
 https://github.com/ayushsharma82/ElegantOTA.git|Contributed|ElegantOTA
 https://github.com/lime-labs/HDC2080-Arduino.git|Contributed|Lime Labs HDC2080
