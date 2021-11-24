@@ -4507,3 +4507,4 @@ https://github.com/sensirion/arduino-i2c-sgp40.git|Contributed|Sensirion I2C SGP
 https://github.com/sensirion/arduino-i2c-sgp41.git|Contributed|Sensirion I2C SGP41
 https://github.com/sensirion/arduino-i2c-svm41.git|Contributed|Sensirion I2C SVM41
 https://github.com/sensirion/arduino-uart-svm41.git|Contributed|Sensirion UART Svm41
+https://github.com/edge-ml/EdgeML-Arduino.git|Contributed|EdgeML-Arduino
