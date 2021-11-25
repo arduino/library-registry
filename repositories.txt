@@ -4405,3 +4405,4 @@ https://github.com/sensirion/arduino-i2c-sgp41
 https://github.com/sensirion/arduino-i2c-svm41
 https://github.com/sensirion/arduino-uart-svm41
 https://github.com/edge-ml/EdgeML-Arduino
+https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
