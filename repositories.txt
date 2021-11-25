@@ -1,3 +1,4 @@
+https://github.com/MajicDesigns/MD_SmartCar2
 https://github.com/ncmreynolds/TapCode
 https://github.com/NeMaksym/Arduino-EasySevenSeg
 https://github.com/ArduinoGetStarted/Analog-Keypad
@@ -68,6 +69,7 @@ https://github.com/m5stack/M5_FPC1020A
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/UNIT_SONIC
+https://github.com/m5stack/PoE_CAM
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -857,9 +859,6 @@ https://github.com/bolderflight/UBLOX
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/BoschSensortec/BSEC-Arduino-library
-https://github.com/boseji/PString-Arduino-lib
-https://github.com/boseji/rBASE64
-https://github.com/boseji/xxtea-iot-crypt
 https://github.com/Botly-Studio/Botly-Library
 https://github.com/boxtec/Witty
 https://github.com/bportaluri/ALA
@@ -3434,7 +3433,7 @@ https://github.com/souliss/souliss
 https://github.com/souviksaha97/DAC7611
 https://github.com/souviksaha97/MCP3202
 https://github.com/sp6q/maidenhead
-https://github.com/spacehuhn/SimpleCLI
+https://github.com/spacehuhntech/SimpleCLI
 https://github.com/Spaguetron/ST_HW_HC_SR04
 https://github.com/sparkfun/Fingerprint_Scanner-TTL
 https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary
@@ -4146,6 +4145,13 @@ https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/FPGAArcade/replay_mkrvidor4000
 https://github.com/Picovoice/picovoice-arduino-en
+https://github.com/Picovoice/picovoice-arduino-de
+https://github.com/Picovoice/picovoice-arduino-es
+https://github.com/Picovoice/picovoice-arduino-fr
+https://github.com/Picovoice/porcupine-arduino-en
+https://github.com/Picovoice/porcupine-arduino-de
+https://github.com/Picovoice/porcupine-arduino-fr
+https://github.com/Picovoice/porcupine-arduino-es
 https://github.com/khoih-prog/MBED_RPI_PICO_TimerInterrupt
 https://github.com/tigoe/sACNSource
 https://github.com/PodgroupConnectivity/PodEnoSim
@@ -4385,3 +4391,18 @@ https://github.com/ArtronShop/Artron_DS1338
 https://github.com/Matrix-Robotics/MatrixLaserSensor
 https://github.com/verdanatech/glpi_esp8266.git
 https://github.com/dl9sec/AioP13
+https://github.com/gravitech-engineer/AIS_IoT_4G
+https://github.com/BCISOFT/OvhAPI
+https://github.com/BertanT/Arduino-RGBWConverter
+https://github.com/michaellee8/TimedState
+https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library
+https://github.com/cbm80amiga/RREFont.git
+https://github.com/iotexproject/arduino-sdk
+https://github.com/sensirion/arduino-gas-index-algorithm
+https://github.com/sensirion/arduino-i2c-sdp
+https://github.com/sensirion/arduino-i2c-sgp40
+https://github.com/sensirion/arduino-i2c-sgp41
+https://github.com/sensirion/arduino-i2c-svm41
+https://github.com/sensirion/arduino-uart-svm41
+https://github.com/edge-ml/EdgeML-Arduino
+https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
