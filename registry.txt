@@ -4509,3 +4509,4 @@ https://github.com/sensirion/arduino-i2c-svm41.git|Contributed|Sensirion I2C SVM
 https://github.com/sensirion/arduino-uart-svm41.git|Contributed|Sensirion UART Svm41
 https://github.com/edge-ml/EdgeML-Arduino.git|Contributed|EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library.git|Contributed|Tuya_ZIGBEE_MCU_SDK
+https://github.com/RobTillaart/pressure.git|Contributed|pressure
