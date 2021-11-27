@@ -4511,3 +4511,4 @@ https://github.com/edge-ml/EdgeML-Arduino.git|Contributed|EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library.git|Contributed|Tuya_ZIGBEE_MCU_SDK
 https://github.com/RobTillaart/pressure.git|Contributed|pressure
 https://github.com/RAKWireless/RAK12035_SoilMoisture.git|Contributed|RAK12035_SoilMoisture
+https://github.com/RobTillaart/float16.git|Contributed|float16
