@@ -4519,3 +4519,4 @@ https://github.com/GyverLibs/MicroUART.git|Contributed|MicroUART
 https://github.com/GyverLibs/GyverINA.git|Contributed|GyverINA
 https://github.com/GyverLibs/Approxy.git|Contributed|Approxy
 https://github.com/bolderflight/airdata.git|Contributed|Bolder Flight Systems Airdata Calculations
+https://github.com/bolderflight/checksum.git|Contributed|Bolder Flight Systems Checksum
