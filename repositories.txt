@@ -1,3 +1,9 @@
+https://github.com/GyverLibs/GyverTransfer
+https://github.com/GyverLibs/GyverLBUF
+https://github.com/GyverLibs/EEManager
+https://github.com/GyverLibs/MicroUART
+https://github.com/GyverLibs/GyverINA
+https://github.com/GyverLibs/Approxy
 https://github.com/MajicDesigns/MD_SmartCar2
 https://github.com/ncmreynolds/TapCode
 https://github.com/NeMaksym/Arduino-EasySevenSeg
