@@ -4512,3 +4512,9 @@ https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library.git|Contributed|Tuya
 https://github.com/RobTillaart/pressure.git|Contributed|pressure
 https://github.com/RAKWireless/RAK12035_SoilMoisture.git|Contributed|RAK12035_SoilMoisture
 https://github.com/RobTillaart/float16.git|Contributed|float16
+https://github.com/GyverLibs/GyverTransfer.git|Contributed|GyverTransfer
+https://github.com/GyverLibs/GyverLBUF.git|Contributed|GyverLBUF
+https://github.com/GyverLibs/EEManager.git|Contributed|EEManager
+https://github.com/GyverLibs/MicroUART.git|Contributed|MicroUART
+https://github.com/GyverLibs/GyverINA.git|Contributed|GyverINA
+https://github.com/GyverLibs/Approxy.git|Contributed|Approxy
