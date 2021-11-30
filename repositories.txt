@@ -4421,3 +4421,4 @@ https://github.com/edge-ml/EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
 https://github.com/dizcza/sdpsensor-esp-arduino
 https://github.com/jpiat/PIOSpi
+https://github.com/cyborg5/IRLib/blob/master/IRLib.h
