@@ -4521,3 +4521,4 @@ https://github.com/GyverLibs/Approxy.git|Contributed|Approxy
 https://github.com/bolderflight/airdata.git|Contributed|Bolder Flight Systems Airdata Calculations
 https://github.com/bolderflight/checksum.git|Contributed|Bolder Flight Systems Checksum
 https://github.com/bolderflight/framing.git|Contributed|Bolder Flight Systems Message Framing
+https://github.com/dizcza/sdpsensor-esp-arduino.git|Contributed|SDPSensor-ESP
