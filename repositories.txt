@@ -4419,3 +4419,4 @@ https://github.com/sensirion/arduino-uart-svm41
 https://github.com/edge-ml/EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
 https://github.com/dizcza/sdpsensor-esp-arduino
+https://github.com/jpiat/PIOSpi
