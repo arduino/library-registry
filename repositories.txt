@@ -4,6 +4,8 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/GyverHC595
+https://github.com/GyverLibs/OVS
 https://github.com/GyverLibs/GyverTransfer
 https://github.com/GyverLibs/GyverLBUF
 https://github.com/GyverLibs/EEManager
