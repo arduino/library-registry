@@ -4527,3 +4527,5 @@ https://github.com/bolderflight/leb128.git|Contributed|Bolder Flight Systems LEB
 https://github.com/bolderflight/uleb128.git|Contributed|Bolder Flight Systems ULEB128
 https://github.com/bolderflight/imap.git|Contributed|Bolder Flight Systems Imap
 https://github.com/mobizt/ESP-Line-Notify.git|Contributed|ESP Line Notify
+https://github.com/GyverLibs/GyverHC595.git|Contributed|GyverHC595
+https://github.com/GyverLibs/OVS.git|Contributed|OVS
