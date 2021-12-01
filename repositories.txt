@@ -2754,6 +2754,8 @@ https://github.com/planetk/ArduinoFritzApi
 https://github.com/plapointe6/EspHtmlTemplateProcessor
 https://github.com/plapointe6/EspMQTTClient
 https://github.com/plapointe6/HAMqttDevice
+https://github.com/plapointe6/EspSimpleRemoteUpdate
+https://github.com/plapointe6/EspSimpleWifiHandler
 https://github.com/plasticrake/OpcServer
 https://github.com/platisd/nokia-5110-lcd-library
 https://github.com/platisd/smartcar_shield
