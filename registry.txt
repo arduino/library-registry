@@ -4525,3 +4525,4 @@ https://github.com/dizcza/sdpsensor-esp-arduino.git|Contributed|SDPSensor-ESP
 https://github.com/jpiat/PIOSpi.git|Contributed|PioSPI
 https://github.com/bolderflight/leb128.git|Contributed|Bolder Flight Systems LEB128
 https://github.com/bolderflight/uleb128.git|Contributed|Bolder Flight Systems ULEB128
+https://github.com/bolderflight/imap.git|Contributed|Bolder Flight Systems Imap
