@@ -4423,3 +4423,4 @@ https://github.com/edge-ml/EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
 https://github.com/dizcza/sdpsensor-esp-arduino
 https://github.com/jpiat/PIOSpi
+https://github.com/mobizt/ESP-Line-Notify
