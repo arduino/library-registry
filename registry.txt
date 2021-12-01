@@ -4530,3 +4530,5 @@ https://github.com/mobizt/ESP-Line-Notify.git|Contributed|ESP Line Notify
 https://github.com/GyverLibs/GyverHC595.git|Contributed|GyverHC595
 https://github.com/GyverLibs/OVS.git|Contributed|OVS
 https://github.com/bolderflight/control.git|Contributed|Bolder Flight Systems Controls
+https://github.com/plapointe6/EspSimpleRemoteUpdate.git|Contributed|EspSimpleRemoteUpdate
+https://github.com/plapointe6/EspSimpleWifiHandler.git|Contributed|EspSimpleWifiHandler
