@@ -1,3 +1,4 @@
+https://github.com/bolderflight/eigen
 https://github.com/bolderflight/control
 https://github.com/bolderflight/imap
 https://github.com/bolderflight/uleb128
