@@ -4532,3 +4532,4 @@ https://github.com/GyverLibs/OVS.git|Contributed|OVS
 https://github.com/bolderflight/control.git|Contributed|Bolder Flight Systems Controls
 https://github.com/plapointe6/EspSimpleRemoteUpdate.git|Contributed|EspSimpleRemoteUpdate
 https://github.com/plapointe6/EspSimpleWifiHandler.git|Contributed|EspSimpleWifiHandler
+https://github.com/bolderflight/eigen.git|Contributed|Bolder Flight Systems Eigen
