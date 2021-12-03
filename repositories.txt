@@ -1,3 +1,20 @@
+https://github.com/bolderflight/polytools
+https://github.com/bolderflight/eigen
+https://github.com/bolderflight/control
+https://github.com/bolderflight/imap
+https://github.com/bolderflight/uleb128
+https://github.com/bolderflight/leb128
+https://github.com/bolderflight/framing
+https://github.com/bolderflight/checksum
+https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/GyverHC595
+https://github.com/GyverLibs/OVS
+https://github.com/GyverLibs/GyverTransfer
+https://github.com/GyverLibs/GyverLBUF
+https://github.com/GyverLibs/EEManager
+https://github.com/GyverLibs/MicroUART
+https://github.com/GyverLibs/GyverINA
+https://github.com/GyverLibs/Approxy
 https://github.com/MajicDesigns/MD_SmartCar2
 https://github.com/ncmreynolds/TapCode
 https://github.com/NeMaksym/Arduino-EasySevenSeg
@@ -2739,6 +2756,8 @@ https://github.com/planetk/ArduinoFritzApi
 https://github.com/plapointe6/EspHtmlTemplateProcessor
 https://github.com/plapointe6/EspMQTTClient
 https://github.com/plapointe6/HAMqttDevice
+https://github.com/plapointe6/EspSimpleRemoteUpdate
+https://github.com/plapointe6/EspSimpleWifiHandler
 https://github.com/plasticrake/OpcServer
 https://github.com/platisd/nokia-5110-lcd-library
 https://github.com/platisd/smartcar_shield
@@ -4409,3 +4428,6 @@ https://github.com/sensirion/arduino-i2c-svm41
 https://github.com/sensirion/arduino-uart-svm41
 https://github.com/edge-ml/EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
+https://github.com/dizcza/sdpsensor-esp-arduino
+https://github.com/jpiat/PIOSpi
+https://github.com/mobizt/ESP-Line-Notify
