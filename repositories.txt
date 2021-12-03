@@ -697,6 +697,7 @@ https://github.com/ArminJo/EasyButtonAtInt01
 https://github.com/ArminJo/NeoPatterns
 https://github.com/ArminJo/PlayRtttl
 https://github.com/ArminJo/PWMMotorControl
+https://github.com/icomedit/Arduino-KIMlib
 https://github.com/ArminJo/ServoEasing
 https://github.com/ArminJo/Talkie
 https://github.com/arms22/SoftModem
