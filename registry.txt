@@ -4536,3 +4536,4 @@ https://github.com/bolderflight/eigen.git|Contributed|Bolder Flight Systems Eige
 https://github.com/bolderflight/polytools.git|Contributed|Bolder Flight Systems Polytools
 https://github.com/RobTillaart/palindrome.git|Contributed|palindrome
 https://github.com/jpb10/SolarCalculator.git|Contributed|SolarCalculator
+https://github.com/icomedit/Arduino-KIMlib.git|Contributed|KIMlib
