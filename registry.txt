@@ -4535,3 +4535,4 @@ https://github.com/plapointe6/EspSimpleWifiHandler.git|Contributed|EspSimpleWifi
 https://github.com/bolderflight/eigen.git|Contributed|Bolder Flight Systems Eigen
 https://github.com/bolderflight/polytools.git|Contributed|Bolder Flight Systems Polytools
 https://github.com/RobTillaart/palindrome.git|Contributed|palindrome
+https://github.com/jpb10/SolarCalculator.git|Contributed|SolarCalculator
