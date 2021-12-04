@@ -697,6 +697,7 @@ https://github.com/ArminJo/EasyButtonAtInt01
 https://github.com/ArminJo/NeoPatterns
 https://github.com/ArminJo/PlayRtttl
 https://github.com/ArminJo/PWMMotorControl
+https://github.com/icomedit/Arduino-KIMlib
 https://github.com/ArminJo/ServoEasing
 https://github.com/ArminJo/Talkie
 https://github.com/arms22/SoftModem
@@ -1877,6 +1878,7 @@ https://github.com/joshua-8/ESP32_easy_wifi_data
 https://github.com/joshua-8/JMotor
 https://github.com/jostlowe/Pico-DMX
 https://github.com/joysfera/arduino-tasker
+https://github.com/jpb10/SolarCalculator/
 https://github.com/jpraus/arduino-opentherm
 https://github.com/jrcape/ADSWeather
 https://github.com/jrullan/neotimer
