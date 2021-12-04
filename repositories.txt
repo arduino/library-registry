@@ -4435,3 +4435,4 @@ https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
 https://github.com/dizcza/sdpsensor-esp-arduino
 https://github.com/jpiat/PIOSpi
 https://github.com/mobizt/ESP-Line-Notify
+https://github.com/yourapiexpert/ATCommands
