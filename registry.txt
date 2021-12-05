@@ -4539,3 +4539,6 @@ https://github.com/jpb10/SolarCalculator.git|Contributed|SolarCalculator
 https://github.com/icomedit/Arduino-KIMlib.git|Contributed|KIMlib
 https://github.com/RobTillaart/map2colour.git|Contributed|map2colour
 https://github.com/yourapiexpert/ATCommands.git|Contributed|ATCommands
+https://github.com/m5stack/M5_RoverC.git|Contributed|M5_RoverC
+https://github.com/m5stack/M5_JoyC.git|Contributed|M5_JoyC
+https://github.com/m5stack/UNIT_UHF_RFID.git|Contributed|UNIT_UHF_RFID
