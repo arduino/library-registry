@@ -4543,3 +4543,4 @@ https://github.com/m5stack/M5_RoverC.git|Contributed|M5_RoverC
 https://github.com/m5stack/M5_JoyC.git|Contributed|M5_JoyC
 https://github.com/m5stack/UNIT_UHF_RFID.git|Contributed|UNIT_UHF_RFID
 https://github.com/bolderflight/filter.git|Contributed|Bolder Flight Systems Filter
+https://github.com/0015/ESP32-OV5640-AF.git|Contributed|OV5640 Auto Focus for ESP32 Camera
