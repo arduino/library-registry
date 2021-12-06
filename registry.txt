@@ -4545,3 +4545,6 @@ https://github.com/m5stack/UNIT_UHF_RFID.git|Contributed|UNIT_UHF_RFID
 https://github.com/bolderflight/filter.git|Contributed|Bolder Flight Systems Filter
 https://github.com/0015/ESP32-OV5640-AF.git|Contributed|OV5640 Auto Focus for ESP32 Camera
 https://github.com/bolderflight/excitation.git|Contributed|Bolder Flight Systems Excitation
+https://github.com/DFRobot/DFRobot_VEML7700.git|Contributed|DFRobot_VEML7700
+https://github.com/DFRobot/DFRobot_A111.git|Contributed|DFRobot_A111
+https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_VisualRotaryEncoder
