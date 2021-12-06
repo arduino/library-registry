@@ -4551,3 +4551,4 @@ https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_V
 https://github.com/GyverLibs/GyverHTU21D.git|Contributed|GyverHTU21D
 https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
 https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
+https://github.com/Azure/azure-sdk-for-c-arduino.git|Partner|Azure SDK for C
