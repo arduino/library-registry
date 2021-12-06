@@ -1105,6 +1105,7 @@ https://github.com/datacute/TinyOLED-Fonts
 https://github.com/DatavenueLiveObjects/LiveObjects_SDK_for_Arduino
 https://github.com/davetcc/IoAbstraction
 https://github.com/davetcc/LiquidCrystalIO
+https://github.com/davetcc/SimpleCollections
 https://github.com/davetcc/TaskManagerIO
 https://github.com/davetcc/tcMenuLib
 https://github.com/david1983/eBtn
