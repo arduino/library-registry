@@ -781,6 +781,7 @@ https://github.com/Azure/azure-iot-arduino-protocol-mqtt
 https://github.com/Azure/azure-iot-arduino-socket-esp32-wifi
 https://github.com/Azure/azure-iot-arduino-utility
 https://github.com/Azure/azure-iot-arduino
+https://github.com/Azure/azure-sdk-for-c-arduino
 https://github.com/BadASszZ/IoTWebConf_for_Visuino_modified_by_IoT_Jedi
 https://github.com/baggio63446333/QZQSM
 https://github.com/baghayi/Nokia_5110
