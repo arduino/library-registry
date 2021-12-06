@@ -4549,3 +4549,4 @@ https://github.com/DFRobot/DFRobot_VEML7700.git|Contributed|DFRobot_VEML7700
 https://github.com/DFRobot/DFRobot_A111.git|Contributed|DFRobot_A111
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_VisualRotaryEncoder
 https://github.com/GyverLibs/GyverHTU21D.git|Contributed|GyverHTU21D
+https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
