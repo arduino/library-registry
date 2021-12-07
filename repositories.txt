@@ -1,3 +1,5 @@
+https://github.com/bolderflight/excitation
+https://github.com/bolderflight/filter
 https://github.com/bolderflight/polytools
 https://github.com/bolderflight/eigen
 https://github.com/bolderflight/control
@@ -7,6 +9,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/GyverHTU21D
 https://github.com/GyverLibs/GyverHC595
 https://github.com/GyverLibs/OVS
 https://github.com/GyverLibs/GyverTransfer
@@ -60,6 +63,9 @@ https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_DS323X
 https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_CCS811
+https://github.com/DFRobot/DFRobot_VEML7700
+https://github.com/DFRobot/DFRobot_A111
+https://github.com/DFRobot/DFRobot_VisualRotaryEncoder
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -87,6 +93,9 @@ https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/UNIT_SONIC
 https://github.com/m5stack/PoE_CAM
+https://github.com/m5stack/M5_RoverC
+https://github.com/m5stack/M5_JoyC
+https://github.com/m5stack/UNIT_UHF_RFID
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -133,6 +142,7 @@ https://github.com/Simpit-team/KerbalSimpitRevamped-Arduino
 https://bitbucket.org/teckel12/arduino-new-ping
 https://bitbucket.org/xoseperez/pcf8583
 https://git.antares.id/lorawan-loraid/arduino-loraid
+https://github.com/0015/ESP32-OV5640-AF
 https://github.com/0015/TP_Arduino_DigitalRain_Anim
 https://github.com/0xCAFEDECAF/VanBus
 https://github.com/107-systems/107-Arduino-BMP388
@@ -697,6 +707,7 @@ https://github.com/ArminJo/EasyButtonAtInt01
 https://github.com/ArminJo/NeoPatterns
 https://github.com/ArminJo/PlayRtttl
 https://github.com/ArminJo/PWMMotorControl
+https://github.com/icomedit/Arduino-KIMlib
 https://github.com/ArminJo/ServoEasing
 https://github.com/ArminJo/Talkie
 https://github.com/arms22/SoftModem
@@ -770,6 +781,7 @@ https://github.com/Azure/azure-iot-arduino-protocol-mqtt
 https://github.com/Azure/azure-iot-arduino-socket-esp32-wifi
 https://github.com/Azure/azure-iot-arduino-utility
 https://github.com/Azure/azure-iot-arduino
+https://github.com/Azure/azure-sdk-for-c-arduino
 https://github.com/BadASszZ/IoTWebConf_for_Visuino_modified_by_IoT_Jedi
 https://github.com/baggio63446333/QZQSM
 https://github.com/baghayi/Nokia_5110
@@ -1094,6 +1106,7 @@ https://github.com/datacute/TinyOLED-Fonts
 https://github.com/DatavenueLiveObjects/LiveObjects_SDK_for_Arduino
 https://github.com/davetcc/IoAbstraction
 https://github.com/davetcc/LiquidCrystalIO
+https://github.com/davetcc/SimpleCollections
 https://github.com/davetcc/TaskManagerIO
 https://github.com/davetcc/tcMenuLib
 https://github.com/david1983/eBtn
@@ -1877,6 +1890,7 @@ https://github.com/joshua-8/ESP32_easy_wifi_data
 https://github.com/joshua-8/JMotor
 https://github.com/jostlowe/Pico-DMX
 https://github.com/joysfera/arduino-tasker
+https://github.com/jpb10/SolarCalculator/
 https://github.com/jpraus/arduino-opentherm
 https://github.com/jrcape/ADSWeather
 https://github.com/jrullan/neotimer
@@ -3104,6 +3118,7 @@ https://github.com/RobTillaart/Kelvin2RGB
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/M62429
+https://github.com/RobTillaart/map2colour
 https://github.com/RobTillaart/MAX31855_RT
 https://github.com/RobTillaart/Max44009
 https://github.com/RobTillaart/MCP_ADC
@@ -3120,6 +3135,7 @@ https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/nibbleArray
 https://github.com/RobTillaart/Optoma
+https://github.com/RobTillaart/palindrome
 https://github.com/RobTillaart/PAR27979
 https://github.com/RobTillaart/ParallelPrinter
 https://github.com/RobTillaart/PCA9635
@@ -4431,3 +4447,6 @@ https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
 https://github.com/dizcza/sdpsensor-esp-arduino
 https://github.com/jpiat/PIOSpi
 https://github.com/mobizt/ESP-Line-Notify
+https://github.com/yourapiexpert/ATCommands
+https://github.com/kolabse/KolabseCarsCan
+https://github.com/Coder-X15/MCUOS.git
