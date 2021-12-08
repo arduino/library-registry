@@ -4451,3 +4451,4 @@ https://github.com/mobizt/ESP-Line-Notify
 https://github.com/yourapiexpert/ATCommands
 https://github.com/kolabse/KolabseCarsCan
 https://github.com/Coder-X15/MCUOS.git
+https://github.com/John-Karatka/24LC64F
