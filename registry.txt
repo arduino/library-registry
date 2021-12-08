@@ -4553,3 +4553,4 @@ https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
 https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
 https://github.com/Azure/azure-sdk-for-c-arduino.git|Partner|Azure SDK for C
 https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
+https://github.com/m5stack/UNIT_MQTT.git|Contributed|UNIT_MQTT
