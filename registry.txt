@@ -4555,3 +4555,4 @@ https://github.com/Azure/azure-sdk-for-c-arduino.git|Partner|Azure SDK for C
 https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
 https://github.com/m5stack/UNIT_MQTT.git|Contributed|UNIT_MQTT
 https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
+https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
