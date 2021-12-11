@@ -4453,4 +4453,4 @@ https://github.com/kolabse/KolabseCarsCan
 https://github.com/Coder-X15/MCUOS.git
 https://github.com/John-Karatka/24LC64F
 https://github.com/dndubins/QuickStats
-https://git.fh-aachen.de/embedded-arduino/uc-os3-arduino-due
+https://github.com/vChavezB/uc-os3-arduino-due.git
