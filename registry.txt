@@ -4557,3 +4557,4 @@ https://github.com/m5stack/UNIT_MQTT.git|Contributed|UNIT_MQTT
 https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
 https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
 https://github.com/vChavezB/uc-os3-arduino-due.git|Contributed|uCOS-III_Due
+https://github.com/fabriziop/FIFOEE.git|Contributed|FIFOEE
