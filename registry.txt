@@ -4558,3 +4558,4 @@ https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
 https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
 https://github.com/vChavezB/uc-os3-arduino-due.git|Contributed|uCOS-III_Due
 https://github.com/fabriziop/FIFOEE.git|Contributed|FIFOEE
+https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library.git|Contributed|SparkFun Qwiic Fan Arduino Library
