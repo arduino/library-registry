@@ -4456,3 +4456,4 @@ https://github.com/dndubins/QuickStats
 https://github.com/vChavezB/uc-os3-arduino-due.git
 https://github.com/fabriziop/FIFOEE.git
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
+https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy
