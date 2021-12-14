@@ -3647,6 +3647,7 @@ https://github.com/squix78/json-streaming-parser
 https://github.com/squix78/minigrafx
 https://github.com/ssilverman/libCBOR
 https://github.com/ssilverman/LiteOSCParser
+https://github.com/ssilverman/QNEthernet
 https://github.com/ssilverman/SLIPStream
 https://github.com/ssilverman/TeensyDMX
 https://github.com/sstaub/Ticker
