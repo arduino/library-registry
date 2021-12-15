@@ -91,6 +91,7 @@ https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_FPC1020A
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/M5_EzData
+https://github.com/m5stack/UNIT_MQTT
 https://github.com/m5stack/UNIT_SONIC
 https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5_RoverC
@@ -3646,6 +3647,7 @@ https://github.com/squix78/json-streaming-parser
 https://github.com/squix78/minigrafx
 https://github.com/ssilverman/libCBOR
 https://github.com/ssilverman/LiteOSCParser
+https://github.com/ssilverman/QNEthernet
 https://github.com/ssilverman/SLIPStream
 https://github.com/ssilverman/TeensyDMX
 https://github.com/sstaub/Ticker
@@ -4450,3 +4452,9 @@ https://github.com/mobizt/ESP-Line-Notify
 https://github.com/yourapiexpert/ATCommands
 https://github.com/kolabse/KolabseCarsCan
 https://github.com/Coder-X15/MCUOS.git
+https://github.com/John-Karatka/24LC64F
+https://github.com/dndubins/QuickStats
+https://github.com/vChavezB/uc-os3-arduino-due.git
+https://github.com/fabriziop/FIFOEE.git
+https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
+https://github.com/viralinkio/ViraLink-MQTT-Client
