@@ -4565,3 +4565,4 @@ https://github.com/RAKWireless/RAK13600-PN532.git|Contributed|RAKwireless RAK136
 https://github.com/RAKWireless/RAK12019_LTR390.git|Contributed|RAK12019_LTR390_UV_Light
 https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy.git|Contributed|RobbusKidsy
 https://github.com/xiaoming-sun6/SerialDebugger.git|Contributed|SerialDebugger
+https://github.com/janelia-arduino/TMC2209.git|Contributed|TMC2209
