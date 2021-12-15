@@ -4461,3 +4461,4 @@ https://github.com/fabriziop/FIFOEE.git
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
 https://github.com/viralinkio/ViraLink-MQTT-Client
 https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy
+https://github.com/autowp/arduino-mcp2515
