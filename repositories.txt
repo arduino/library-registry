@@ -4461,3 +4461,4 @@ https://github.com/fabriziop/FIFOEE.git
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
 https://github.com/viralinkio/ViraLink-Arduino-SDK
 https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy
+https://github.com/xiaoming-sun6/Arduino-SerialDebugger
