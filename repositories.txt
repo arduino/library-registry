@@ -1784,6 +1784,7 @@ https://github.com/janelia-arduino/PrintCppVersion
 https://github.com/janelia-arduino/Streaming
 https://github.com/janelia-arduino/TLE72X
 https://github.com/janelia-arduino/TMC2130
+https://github.com/janelia-arduino/TMC2209
 https://github.com/janelia-arduino/TMC429
 https://github.com/janelia-arduino/Vector
 https://github.com/janelia-arduino/Watchdog
@@ -3592,6 +3593,7 @@ https://github.com/sparkfun/SparkFun_QwiicRF_Library
 https://github.com/sparkfun/SparkFun_RedBot_Arduino_Library
 https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library
 https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
+https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library
 https://github.com/sparkfun/SparkFun_RV-1805_Arduino_Library
 https://github.com/sparkfun/SparkFun_RV-8803_Arduino_Library
 https://github.com/sparkfun/SparkFun_SCD30_Arduino_Library
@@ -4459,6 +4461,8 @@ https://github.com/dndubins/QuickStats
 https://github.com/vChavezB/uc-os3-arduino-due.git
 https://github.com/fabriziop/FIFOEE.git
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
-https://github.com/viralinkio/ViraLink-MQTT-Client
+https://github.com/viralinkio/ViraLink-Arduino-SDK
 https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy
 https://github.com/autowp/arduino-mcp2515
+https://github.com/xiaoming-sun6/SerialDebugger
+https://github.com/coryjfowler/MCP_CAN_lib
