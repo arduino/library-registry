@@ -4567,3 +4567,4 @@ https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy.git|Contributed
 https://github.com/xiaoming-sun6/SerialDebugger.git|Contributed|SerialDebugger
 https://github.com/janelia-arduino/TMC2209.git|Contributed|TMC2209
 https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library.git|Contributed|SparkFun RHT03 Arduino Library
+https://github.com/coryjfowler/MCP_CAN_lib.git|Contributed|mcp_can
