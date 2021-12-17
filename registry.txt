@@ -4570,3 +4570,4 @@ https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library.git|Contributed|Spark
 https://github.com/coryjfowler/MCP_CAN_lib.git|Contributed|mcp_can
 https://github.com/dmdhrumilmistry/DeviceController.git|Contributed|DeviceController
 https://github.com/soracom-labs/soracom-arc-esp32-arduino.git|Contributed|SoracomArcESP32
+https://github.com/bolderflight/pwm.git|Contributed|Bolder Flight Systems PWM
