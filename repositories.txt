@@ -1,3 +1,4 @@
+https://github.com/bolderflight/pwm
 https://github.com/bolderflight/excitation
 https://github.com/bolderflight/filter
 https://github.com/bolderflight/polytools
@@ -4466,3 +4467,6 @@ https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy
 https://github.com/autowp/arduino-mcp2515
 https://github.com/xiaoming-sun6/SerialDebugger
 https://github.com/coryjfowler/MCP_CAN_lib
+https://github.com/dmdhrumilmistry/DeviceController
+https://github.com/soracom-labs/soracom-arc-esp32-arduino
+https://github.com/neosarchizo/ps_33d_i2c
