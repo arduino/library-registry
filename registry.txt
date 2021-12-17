@@ -686,7 +686,7 @@ https://github.com/shaduzlabs/synapse.git|Contributed|Synapse
 https://github.com/ArduinoMax/TLC5615.git|Contributed|TLC5615
 https://github.com/PaulStoffregen/PWMServo.git|Contributed|PWMServo
 https://github.com/Martinsos/arduino-lib-hc-sr04.git|Contributed|HCSR04
-https://github.com/boseji/xxtea-iot-crypt.git|Contributed|xxtea-iot-crypt
+
 https://github.com/cujomalainey/ant-arduino.git|Contributed|ANT-Arduino
 https://github.com/sabas1080/FXAS21002C_Arduino_Library.git|Contributed|FXAS21002C Gyroscope 3-Axis Sensor
 https://github.com/finson-release/Luni.git|Contributed|Luni
@@ -2190,7 +2190,7 @@ https://github.com/offcircuit/SDHT.git|Contributed|SDHT
 https://github.com/janthefischer/SerialVariable.git|Contributed|SerialVariable
 https://github.com/rootfrogs/Arduino-GetInTouch-library.git|Contributed|GetInTouch
 https://github.com/funkyfisch/arduino-knock-detector.git|Contributed|Knock Detector
-https://github.com/IoTGuruLive/theiotguru-arduino-library.git|Contributed|The IoT Guru integration
+https://github.com/IoTGuruLive/theiotguru-arduino-library.git|Contributed|IoTGuru
 https://github.com/JoaoLopesF/RemoteDebugger.git|Contributed|RemoteDebugger
 https://github.com/torsteinnh/conductivityLib.git|Contributed|ConductivityLib
 https://github.com/stm32duino/X-NUCLEO-IKS01A3.git|Contributed|STM32duino X-NUCLEO-IKS01A3
@@ -3839,7 +3839,7 @@ https://github.com/Protocentral/protocentral-ads1293-arduino.git|Contributed|Pro
 https://github.com/muwerk/mupplet-display.git|Contributed|mupplet-display
 https://github.com/shortbloke/Arduino_SNMP_Manager.git|Contributed|SNMP Manager
 https://github.com/argandas/ardubson.git|Contributed|ardubson
-https://github.com/arnakazim/TwiLiquidCrystal-library.git|Contributed|TwiLiquidCrytal by Arnakazim
+https://github.com/arnakazim/TwiLiquidCrystal-library.git|Contributed|TwiLiquidCrystal by Arnakazim
 https://github.com/rudydelorenzo/ELMo.git|Contributed|ELMo
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcBLE.git|Contributed|Seeed Arduino rpcBLE
 https://github.com/sensboston/esp32_moga.git|Contributed|esp32_moga
@@ -4086,7 +4086,7 @@ https://github.com/Seeed-Studio/Seeed_Arduino_Audio.git|Contributed|Seeed Arduin
 https://github.com/rneurink/VL53L1X_ULD.git|Contributed|VL53L1X_ULD
 https://github.com/kmpelectronics/KMP_RS485.git|Contributed|KMP_RS485
 https://github.com/GLEE2023/GLEE2023.git|Contributed|GLEE2023
-https://github.com/ianhattwick/controlVoltage.git|Contributed|modularCV
+https://github.com/ianhattwick/controlVoltage.git|Contributed|controlVoltage
 https://github.com/jihoonkimtech/ClockForSeg_Lib.git|Contributed|ClockForSeg_Lib
 https://github.com/sebmillet/RF433any.git|Contributed|RF433any
 https://github.com/sebmillet/DelayExec.git|Contributed|DelayExec
@@ -4444,7 +4444,7 @@ https://github.com/DFRobot/DFRobot_CCS811.git|Contributed|DFRobot_CCS811
 https://github.com/bolderflight/units.git|Contributed|Bolder Flight Systems Unit Conversions
 https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library.git|Contributed|SparkFun VL53L5CX Arduino Library
 https://github.com/finani/ICM20689.git|Contributed|ICM20689
-https://github.com/xreef/SimpleFTPServer.git|Contributed|Simple FTP Server
+https://github.com/xreef/SimpleFTPServer.git|Contributed|SimpleFTPServer
 https://github.com/xreef/EByte_LoRa_E22_Series_Library.git|Contributed|EByte LoRa E22 library
 https://github.com/RAKWireless/RAKwireless_Storage.git|Contributed|RAKwireless Storage
 https://github.com/SantiagoSaldana/SBC.git|Contributed|SBC
@@ -4452,7 +4452,6 @@ https://github.com/AlexIII/incbin-arduino.git|Contributed|incbin
 https://github.com/monkcs/devuino.git|Contributed|Devuino
 https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library.git|Contributed|SparkFun VEML7700 Arduino Library
 https://github.com/koendv/Arduino-RttStream.git|Contributed|RTT Stream
-https://github.com/TheFidax/SusiOverI2c.git|Contributed|SusiOverI2c
 https://github.com/DFRobot/DFRobot_MLX90614.git|Contributed|DFRobot_MLX90614
 https://github.com/m5stack/M5Unified.git|Contributed|M5Unified
 https://github.com/TheFidax/WireSusi.git|Contributed|WireSusi
@@ -4486,3 +4485,89 @@ https://github.com/ncmreynolds/TapCode.git|Contributed|TapCode
 https://github.com/RobTillaart/tinySHT2x.git|Contributed|tinySHT2x
 https://github.com/gravitech-engineer/AIS_IoT_4G.git|Contributed|AIS 4G board
 https://github.com/BCISOFT/OvhAPI.git|Contributed|OvhAPI
+https://github.com/BertanT/Arduino-RGBWConverter.git|Contributed|RGBWConverter
+https://github.com/michaellee8/TimedState.git|Contributed|TimedState
+https://github.com/MajicDesigns/MD_SmartCar2.git|Contributed|MD_SmartCar2
+https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library.git|Contributed|Tuya_BLE_MCU_SDK
+https://github.com/cbm80amiga/RREFont.git|Contributed|RRE Font Library
+https://github.com/Picovoice/porcupine-arduino-en.git|Contributed|Porcupine_EN
+https://github.com/iotexproject/arduino-sdk.git|Contributed|IoTeX-blockchain-client
+https://github.com/Picovoice/picovoice-arduino-de.git|Contributed|Picovoice_DE
+https://github.com/Picovoice/picovoice-arduino-es.git|Contributed|Picovoice_ES
+https://github.com/Picovoice/picovoice-arduino-fr.git|Contributed|Picovoice_FR
+https://github.com/Picovoice/porcupine-arduino-de.git|Contributed|Porcupine_DE
+https://github.com/Picovoice/porcupine-arduino-fr.git|Contributed|Porcupine_FR
+https://github.com/Picovoice/porcupine-arduino-es.git|Contributed|Porcupine_ES
+https://github.com/m5stack/PoE_CAM.git|Contributed|PoE_CAM
+https://github.com/sensirion/arduino-gas-index-algorithm.git|Contributed|Sensirion Gas Index Algorithm
+https://github.com/sensirion/arduino-i2c-sdp.git|Contributed|Sensirion I2C SDP
+https://github.com/sensirion/arduino-i2c-sgp40.git|Contributed|Sensirion I2C SGP40
+https://github.com/sensirion/arduino-i2c-sgp41.git|Contributed|Sensirion I2C SGP41
+https://github.com/sensirion/arduino-i2c-svm41.git|Contributed|Sensirion I2C SVM41
+https://github.com/sensirion/arduino-uart-svm41.git|Contributed|Sensirion UART Svm41
+https://github.com/edge-ml/EdgeML-Arduino.git|Contributed|EdgeML-Arduino
+https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library.git|Contributed|Tuya_ZIGBEE_MCU_SDK
+https://github.com/RobTillaart/pressure.git|Contributed|pressure
+https://github.com/RAKWireless/RAK12035_SoilMoisture.git|Contributed|RAK12035_SoilMoisture
+https://github.com/RobTillaart/float16.git|Contributed|float16
+https://github.com/GyverLibs/GyverTransfer.git|Contributed|GyverTransfer
+https://github.com/GyverLibs/GyverLBUF.git|Contributed|GyverLBUF
+https://github.com/GyverLibs/EEManager.git|Contributed|EEManager
+https://github.com/GyverLibs/MicroUART.git|Contributed|MicroUART
+https://github.com/GyverLibs/GyverINA.git|Contributed|GyverINA
+https://github.com/GyverLibs/Approxy.git|Contributed|Approxy
+https://github.com/bolderflight/airdata.git|Contributed|Bolder Flight Systems Airdata Calculations
+https://github.com/bolderflight/checksum.git|Contributed|Bolder Flight Systems Checksum
+https://github.com/bolderflight/framing.git|Contributed|Bolder Flight Systems Message Framing
+https://github.com/dizcza/sdpsensor-esp-arduino.git|Contributed|SDPSensor-ESP
+https://github.com/jpiat/PIOSpi.git|Contributed|PioSPI
+https://github.com/bolderflight/leb128.git|Contributed|Bolder Flight Systems LEB128
+https://github.com/bolderflight/uleb128.git|Contributed|Bolder Flight Systems ULEB128
+https://github.com/bolderflight/imap.git|Contributed|Bolder Flight Systems Imap
+https://github.com/mobizt/ESP-Line-Notify.git|Contributed|ESP Line Notify
+https://github.com/GyverLibs/GyverHC595.git|Contributed|GyverHC595
+https://github.com/GyverLibs/OVS.git|Contributed|OVS
+https://github.com/bolderflight/control.git|Contributed|Bolder Flight Systems Controls
+https://github.com/plapointe6/EspSimpleRemoteUpdate.git|Contributed|EspSimpleRemoteUpdate
+https://github.com/plapointe6/EspSimpleWifiHandler.git|Contributed|EspSimpleWifiHandler
+https://github.com/bolderflight/eigen.git|Contributed|Bolder Flight Systems Eigen
+https://github.com/bolderflight/polytools.git|Contributed|Bolder Flight Systems Polytools
+https://github.com/RobTillaart/palindrome.git|Contributed|palindrome
+https://github.com/jpb10/SolarCalculator.git|Contributed|SolarCalculator
+https://github.com/icomedit/Arduino-KIMlib.git|Contributed|KIMlib
+https://github.com/RobTillaart/map2colour.git|Contributed|map2colour
+https://github.com/yourapiexpert/ATCommands.git|Contributed|ATCommands
+https://github.com/m5stack/M5_RoverC.git|Contributed|M5_RoverC
+https://github.com/m5stack/M5_JoyC.git|Contributed|M5_JoyC
+https://github.com/m5stack/UNIT_UHF_RFID.git|Contributed|UNIT_UHF_RFID
+https://github.com/bolderflight/filter.git|Contributed|Bolder Flight Systems Filter
+https://github.com/0015/ESP32-OV5640-AF.git|Contributed|OV5640 Auto Focus for ESP32 Camera
+https://github.com/bolderflight/excitation.git|Contributed|Bolder Flight Systems Excitation
+https://github.com/DFRobot/DFRobot_VEML7700.git|Contributed|DFRobot_VEML7700
+https://github.com/DFRobot/DFRobot_A111.git|Contributed|DFRobot_A111
+https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_VisualRotaryEncoder
+https://github.com/GyverLibs/GyverHTU21D.git|Contributed|GyverHTU21D
+https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
+https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
+https://github.com/Azure/azure-sdk-for-c-arduino.git|Partner|Azure SDK for C
+https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
+https://github.com/m5stack/UNIT_MQTT.git|Contributed|UNIT_MQTT
+https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
+https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
+https://github.com/vChavezB/uc-os3-arduino-due.git|Contributed|uCOS-III_Due
+https://github.com/fabriziop/FIFOEE.git|Contributed|FIFOEE
+https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library.git|Contributed|SparkFun Qwiic Fan Arduino Library
+https://github.com/viralinkio/ViraLink-MQTT-Client.git|Contributed|ViraLink-MQTT-CLient
+https://github.com/ssilverman/QNEthernet.git|Contributed|QNEthernet
+https://github.com/RAKWireless/RAK13600-PN532.git|Contributed|RAKwireless RAK13600 RFID library
+https://github.com/RAKWireless/RAK12019_LTR390.git|Contributed|RAK12019_LTR390_UV_Light
+https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy.git|Contributed|RobbusKidsy
+https://github.com/xiaoming-sun6/SerialDebugger.git|Contributed|SerialDebugger
+https://github.com/janelia-arduino/TMC2209.git|Contributed|TMC2209
+https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library.git|Contributed|SparkFun RHT03 Arduino Library
+https://github.com/coryjfowler/MCP_CAN_lib.git|Contributed|mcp_can
+https://github.com/dmdhrumilmistry/DeviceController.git|Contributed|DeviceController
+https://github.com/soracom-labs/soracom-arc-esp32-arduino.git|Contributed|SoracomArcESP32
+https://github.com/bolderflight/pwm.git|Contributed|Bolder Flight Systems PWM
+https://github.com/neosarchizo/ps_33d_i2c.git|Contributed|PS-33D I2C
+https://github.com/m5stack/UNIT_KMeter.git|Contributed|UNIT_KMeter
