@@ -4468,3 +4468,4 @@ https://github.com/xiaoming-sun6/SerialDebugger
 https://github.com/coryjfowler/MCP_CAN_lib
 https://github.com/dmdhrumilmistry/DeviceController
 https://github.com/soracom-labs/soracom-arc-esp32-arduino
+https://github.com/neosarchizo/ps_33d_i2c
