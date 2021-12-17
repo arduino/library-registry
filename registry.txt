@@ -4572,3 +4572,4 @@ https://github.com/dmdhrumilmistry/DeviceController.git|Contributed|DeviceContro
 https://github.com/soracom-labs/soracom-arc-esp32-arduino.git|Contributed|SoracomArcESP32
 https://github.com/bolderflight/pwm.git|Contributed|Bolder Flight Systems PWM
 https://github.com/neosarchizo/ps_33d_i2c.git|Contributed|PS-33D I2C
+https://github.com/m5stack/UNIT_KMeter.git|Contributed|UNIT_KMeter
