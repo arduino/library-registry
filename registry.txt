@@ -4573,3 +4573,4 @@ https://github.com/m5stack/UNIT_KMeter.git|Contributed|UNIT_KMeter
 https://github.com/asukiaaa/arduino-TC78B009FTG.git|Contributed|TC78B009FTG_asukiaaa
 https://github.com/SyntaxHarvy/HACWifiManager.git|Contributed|HaCWifiManager
 https://github.com/SyntaxHarvy/HACTimers.git|Contributed|HaCTimers
+https://github.com/ysard/MyOwnBricks.git|Contributed|MyOwnBricks
