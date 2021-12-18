@@ -4571,3 +4571,5 @@ https://github.com/bolderflight/pwm.git|Contributed|Bolder Flight Systems PWM
 https://github.com/neosarchizo/ps_33d_i2c.git|Contributed|PS-33D I2C
 https://github.com/m5stack/UNIT_KMeter.git|Contributed|UNIT_KMeter
 https://github.com/asukiaaa/arduino-TC78B009FTG.git|Contributed|TC78B009FTG_asukiaaa
+https://github.com/SyntaxHarvy/HACWifiManager.git|Contributed|HaCWifiManager
+https://github.com/SyntaxHarvy/HACTimers.git|Contributed|HaCTimers
