@@ -1,3 +1,4 @@
+https://github.com/bolderflight/vector_nav
 https://github.com/aikopras/AP_DCC_library
 https://github.com/bolderflight/pwm
 https://github.com/bolderflight/excitation
