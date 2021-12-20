@@ -4476,3 +4476,4 @@ https://github.com/neosarchizo/ps_33d_i2c
 https://github.com/SyntaxHarvy/HACWifiManager
 https://github.com/SyntaxHarvy/HACTimers
 https://github.com/ysard/MyOwnBricks
+https://github.com/sebmillet/RF433recv
