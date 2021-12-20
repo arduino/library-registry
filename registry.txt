@@ -4576,3 +4576,4 @@ https://github.com/SyntaxHarvy/HACTimers.git|Contributed|HaCTimers
 https://github.com/ysard/MyOwnBricks.git|Contributed|MyOwnBricks
 https://github.com/asukiaaa/arduino-HzMeter.git|Contributed|HzMeter_asukiaaa
 https://github.com/aikopras/AP_DCC_library.git|Contributed|AP_DCC_Library
+https://github.com/sebmillet/RF433recv.git|Contributed|RF433recv
