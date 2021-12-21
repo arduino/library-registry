@@ -4578,3 +4578,4 @@ https://github.com/asukiaaa/arduino-HzMeter.git|Contributed|HzMeter_asukiaaa
 https://github.com/aikopras/AP_DCC_library.git|Contributed|AP_DCC_Library
 https://github.com/sebmillet/RF433recv.git|Contributed|RF433recv
 https://github.com/finani/TriSonica_Mini.git|Contributed|TriSonica_Mini
+https://github.com/spklpool/Carduino.git|Contributed|Carduino
