@@ -4478,3 +4478,4 @@ https://github.com/SyntaxHarvy/HACWifiManager
 https://github.com/SyntaxHarvy/HACTimers
 https://github.com/ysard/MyOwnBricks
 https://github.com/sebmillet/RF433recv
+https://github.com/spklpool/Carduino
