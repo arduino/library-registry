@@ -4581,3 +4581,6 @@ https://github.com/finani/TriSonica_Mini.git|Contributed|TriSonica_Mini
 https://github.com/spklpool/Carduino.git|Contributed|Carduino
 https://github.com/DFRobot/DFRobot_ENS160.git|Contributed|DFRobot_ENS160
 https://github.com/DFRobot/DFRobot_STS3X.git|Contributed|DFRobot_STS3X
+https://github.com/DFRobot/DFRobot_SIM.git|Contributed|DFRobot_SIM
+https://github.com/DFRobot/DFRobot_SIM7000.git|Contributed|DFRobot_SIM7000
+https://github.com/DFRobot/DFRobot_EnvironmentalSensor.git|Contributed|DFRobot_EnvironmentalSensor
