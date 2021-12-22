@@ -4585,3 +4585,6 @@ https://github.com/DFRobot/DFRobot_SIM.git|Contributed|DFRobot_SIM
 https://github.com/DFRobot/DFRobot_SIM7000.git|Contributed|DFRobot_SIM7000
 https://github.com/DFRobot/DFRobot_EnvironmentalSensor.git|Contributed|DFRobot_EnvironmentalSensor
 https://github.com/rneurink/PCA9622.git|Contributed|PCA9622
+https://github.com/sstaub/Ethernet3.git|Contributed|Ethernet3
+https://github.com/sstaub/TickTwo.git|Contributed|TickTwo
+https://github.com/sstaub/NextionX2.git|Contributed|NextionX2
