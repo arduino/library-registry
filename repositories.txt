@@ -1,3 +1,4 @@
+https://github.com/boothinator/TimerExtensions
 https://github.com/sstaub/Ethernet3
 https://github.com/sstaub/TickTwo
 https://github.com/sstaub/NextionX2
