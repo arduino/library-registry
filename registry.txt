@@ -4584,3 +4584,4 @@ https://github.com/DFRobot/DFRobot_STS3X.git|Contributed|DFRobot_STS3X
 https://github.com/DFRobot/DFRobot_SIM.git|Contributed|DFRobot_SIM
 https://github.com/DFRobot/DFRobot_SIM7000.git|Contributed|DFRobot_SIM7000
 https://github.com/DFRobot/DFRobot_EnvironmentalSensor.git|Contributed|DFRobot_EnvironmentalSensor
+https://github.com/rneurink/PCA9622.git|Contributed|PCA9622
