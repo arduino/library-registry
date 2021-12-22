@@ -4579,3 +4579,5 @@ https://github.com/aikopras/AP_DCC_library.git|Contributed|AP_DCC_Library
 https://github.com/sebmillet/RF433recv.git|Contributed|RF433recv
 https://github.com/finani/TriSonica_Mini.git|Contributed|TriSonica_Mini
 https://github.com/spklpool/Carduino.git|Contributed|Carduino
+https://github.com/DFRobot/DFRobot_ENS160.git|Contributed|DFRobot_ENS160
+https://github.com/DFRobot/DFRobot_STS3X.git|Contributed|DFRobot_STS3X
