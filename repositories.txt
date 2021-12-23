@@ -604,6 +604,7 @@ https://github.com/arduino-libraries/Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_CRC32
 https://github.com/arduino-libraries/Arduino_DebugUtils
 https://github.com/arduino-libraries/Arduino_EdgeControl
+https://github.com/arduino-libraries/Arduino_EMBRYO_2
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
