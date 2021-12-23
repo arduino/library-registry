@@ -4591,3 +4591,4 @@ https://github.com/sstaub/NextionX2.git|Contributed|NextionX2
 https://github.com/NHBSystems/NHB_AD7124.git|Contributed|NHB_AD7124
 https://github.com/boothinator/TimerExtensions.git|Contributed|TimerExtensions
 https://github.com/bolderflight/vector_nav.git|Contributed|Bolder Flight Systems VectorNav
+https://github.com/arduino-libraries/Arduino_EMBRYO_2.git|Arduino|Arduino_EMBRYO_2
