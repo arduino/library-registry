@@ -3209,6 +3209,7 @@ https://github.com/rocketscream/RocketScream_LowPowerAVRZero
 https://github.com/rocketscream/RocketScream_RTCAVRZero
 https://github.com/RockoonTechnologies/PadComLib
 https://github.com/RoCorbera/BlueVGA
+https://github.com/rodrigodornelles/3bc-lang
 https://github.com/rodrigodornelles/arduino-tone-pitch
 https://github.com/Roger-random/ESP_8_BIT_composite
 https://github.com/RogueRobotics/RogueMP3
