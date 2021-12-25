@@ -4493,3 +4493,4 @@ https://github.com/ysard/MyOwnBricks
 https://github.com/sebmillet/RF433recv
 https://github.com/spklpool/Carduino
 https://github.com/rneurink/PCA9622
+https://github.com/xavjb/KiddeeExpress
