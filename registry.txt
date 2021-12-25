@@ -4595,3 +4595,4 @@ https://github.com/arduino-libraries/Arduino_EMBRYO_2.git|Arduino|Arduino_EMBRYO
 https://github.com/boothinator/AnalogReadAsync.git|Contributed|AnalogReadAsync
 https://github.com/xavjb/KiddeeExpress.git|Contributed|KiddeeExpress
 https://github.com/mobizt/ESP-Google-Sheet-Client.git|Contributed|ESP-Google-Sheet-Client
+https://github.com/rodrigodornelles/3bc-lang.git|Contributed|3BC Language Virtual Machine
