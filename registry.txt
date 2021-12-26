@@ -4596,3 +4596,4 @@ https://github.com/boothinator/AnalogReadAsync.git|Contributed|AnalogReadAsync
 https://github.com/xavjb/KiddeeExpress.git|Contributed|KiddeeExpress
 https://github.com/mobizt/ESP-Google-Sheet-Client.git|Contributed|ESP-Google-Sheet-Client
 https://github.com/rodrigodornelles/3bc-lang.git|Contributed|3BC Language Virtual Machine
+https://github.com/ysard/TCS34725.git|Contributed|TCS34725 async
