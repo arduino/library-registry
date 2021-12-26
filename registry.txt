@@ -4599,3 +4599,4 @@ https://github.com/rodrigodornelles/3bc-lang.git|Contributed|3BC Language Virtua
 https://github.com/ysard/TCS34725.git|Contributed|TCS34725 async
 https://github.com/adafruit/Adafruit_TestBed.git|Recommended|Adafruit TestBed
 https://github.com/GyverLibs/SimplePortal.git|Contributed|SimplePortal
+https://github.com/dndubins/EEPROMsimple.git|Contributed|EEPROMsimple
