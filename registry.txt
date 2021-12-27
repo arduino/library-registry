@@ -4601,3 +4601,4 @@ https://github.com/adafruit/Adafruit_TestBed.git|Recommended|Adafruit TestBed
 https://github.com/GyverLibs/SimplePortal.git|Contributed|SimplePortal
 https://github.com/dndubins/EEPROMsimple.git|Contributed|EEPROMsimple
 https://github.com/dndubins/SRAMsimple.git|Contributed|SRAMsimple
+https://github.com/bobveringa/HSCDTD008A-Library.git|Contributed|HSCDTD008A
