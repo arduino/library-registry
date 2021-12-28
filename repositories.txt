@@ -4503,4 +4503,4 @@ https://github.com/mobizt/ESP-Google-Sheet-Client
 https://github.com/ysard/TCS34725
 https://github.com/dndubins/EEPROMsimple
 https://github.com/dndubins/SRAMsimple
-https://github.com/andhieSetyabudi/MCP23017_LCD12864
+https://github.com/andhieSetyabudi/MCP23017_LCD12864.git
