@@ -1,3 +1,12 @@
+https://github.com/ClemensAtElektor/Nano_Every_WS2812B
+https://github.com/JChristensen/JC_Sunrise
+https://github.com/bobveringa/HSCDTD008A-Library
+https://github.com/boothinator/AnalogReadAsync
+https://github.com/bolderflight/vector_nav
+https://github.com/boothinator/TimerExtensions
+https://github.com/sstaub/Ethernet3
+https://github.com/sstaub/TickTwo
+https://github.com/sstaub/NextionX2
 https://github.com/aikopras/AP_DCC_library
 https://github.com/bolderflight/pwm
 https://github.com/bolderflight/excitation
@@ -11,6 +20,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/SimplePortal
 https://github.com/GyverLibs/GyverHTU21D
 https://github.com/GyverLibs/GyverHC595
 https://github.com/GyverLibs/OVS
@@ -68,6 +78,11 @@ https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/DFRobot/DFRobot_VEML7700
 https://github.com/DFRobot/DFRobot_A111
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder
+https://github.com/DFRobot/DFRobot_ENS160
+https://github.com/DFRobot/DFRobot_STS3X
+https://github.com/DFRobot/DFRobot_SIM
+https://github.com/DFRobot/DFRobot_SIM7000
+https://github.com/DFRobot/DFRobot_EnvironmentalSensor
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -421,6 +436,7 @@ https://github.com/adafruit/TinyRTCLib
 https://github.com/adafruit/TinyWireM
 https://github.com/adafruit/TinyXML
 https://github.com/adafruit/WaveHC
+https://github.com/adafruit/Adafruit_TestBed
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
@@ -594,6 +610,7 @@ https://github.com/arduino-libraries/Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_CRC32
 https://github.com/arduino-libraries/Arduino_DebugUtils
 https://github.com/arduino-libraries/Arduino_EdgeControl
+https://github.com/arduino-libraries/Arduino_EMBRYO_2
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
@@ -1374,6 +1391,7 @@ https://github.com/fesselk/everytime
 https://github.com/fhessel/esp32_https_server_compat
 https://github.com/fhessel/esp32_https_server
 https://github.com/finani/ICM20689
+https://github.com/finani/TriSonica_Mini
 https://github.com/finitespace/BME280
 https://github.com/finson-release/FirmataWithDeviceFeature
 https://github.com/finson-release/Luni
@@ -2572,6 +2590,7 @@ https://github.com/newdigate/teensy-sample-flashloader
 https://github.com/newdigate/teensy-polyphony
 https://github.com/newdigate/teensy-audio-launch-ctrl
 https://github.com/NHBSystems/NHB_AD7794
+https://github.com/NHBSystems/NHB_AD7124
 https://github.com/niccokunzmann/UC121902-TNARX-A
 https://github.com/NicholasBerryman/GenericMotorDriver
 https://github.com/NicholasBerryman/USBControllerLib
@@ -3195,6 +3214,7 @@ https://github.com/rocketscream/RocketScream_LowPowerAVRZero
 https://github.com/rocketscream/RocketScream_RTCAVRZero
 https://github.com/RockoonTechnologies/PadComLib
 https://github.com/RoCorbera/BlueVGA
+https://github.com/rodrigodornelles/3bc-lang
 https://github.com/rodrigodornelles/arduino-tone-pitch
 https://github.com/Roger-random/ESP_8_BIT_composite
 https://github.com/RogueRobotics/RogueMP3
@@ -4477,3 +4497,13 @@ https://github.com/neosarchizo/ps_33d_i2c
 https://github.com/SyntaxHarvy/HACWifiManager
 https://github.com/SyntaxHarvy/HACTimers
 https://github.com/ysard/MyOwnBricks
+https://github.com/sebmillet/RF433recv
+https://github.com/spklpool/Carduino
+https://github.com/rneurink/PCA9622
+https://github.com/xavjb/KiddeeExpress
+https://github.com/mobizt/ESP-Google-Sheet-Client
+https://github.com/ysard/TCS34725
+https://github.com/dndubins/EEPROMsimple
+https://github.com/dndubins/SRAMsimple
+https://github.com/andhieSetyabudi/MCP23017_LCD12864
+https://github.com/theengs/decoder
