@@ -4607,3 +4607,4 @@ https://github.com/andhieSetyabudi/MCP23017_LCD12864.git|Contributed|MCP23017_LC
 https://github.com/theengs/decoder.git|Contributed|TheengsDecoder
 https://github.com/ClemensAtElektor/Nano_Every_WS2812B.git|Contributed|Nano_Every_WS2812B
 https://github.com/autowp/arduino-mcp2515.git|Contributed|autowp-mcp2515
+https://github.com/Gbertaz/JDI_MIP_Display.git|Contributed|JDI_MIP_Display
