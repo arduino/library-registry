@@ -4605,3 +4605,4 @@ https://github.com/bobveringa/HSCDTD008A-Library.git|Contributed|HSCDTD008A
 https://github.com/JChristensen/JC_Sunrise.git|Contributed|JC_Sunrise
 https://github.com/andhieSetyabudi/MCP23017_LCD12864.git|Contributed|MCP23017_LCD12864
 https://github.com/theengs/decoder.git|Contributed|TheengsDecoder
+https://github.com/ClemensAtElektor/Nano_Every_WS2812B.git|Contributed|Nano_Every_WS2812B
