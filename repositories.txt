@@ -4508,3 +4508,4 @@ https://github.com/dndubins/EEPROMsimple
 https://github.com/dndubins/SRAMsimple
 https://github.com/andhieSetyabudi/MCP23017_LCD12864
 https://github.com/theengs/decoder
+https://github.com/gavinlyonsrepo/MAX471
