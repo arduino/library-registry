@@ -248,6 +248,7 @@ https://github.com/adafruit/Adafruit_EMC2101
 https://github.com/adafruit/Adafruit_EPD
 https://github.com/adafruit/Adafruit_ESP8266
 https://github.com/adafruit/Adafruit_FeatherOLED
+https://github.com/adafruit/Adafruit_Floppy
 https://github.com/adafruit/Adafruit_FONA
 https://github.com/adafruit/Adafruit_FRAM_I2C
 https://github.com/adafruit/Adafruit_FRAM_SPI
