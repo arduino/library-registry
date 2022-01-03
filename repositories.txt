@@ -3168,6 +3168,7 @@ https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/palindrome
 https://github.com/RobTillaart/PAR27979
 https://github.com/RobTillaart/ParallelPrinter
+https://github.com/RobTillaart/PCA9634
 https://github.com/RobTillaart/PCA9635
 https://github.com/RobTillaart/PCA9685_RT
 https://github.com/RobTillaart/PCF8574
