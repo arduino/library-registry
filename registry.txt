@@ -4617,3 +4617,4 @@ https://github.com/RobTillaart/PCA9634.git|Contributed|PCA9634
 https://github.com/m5stack/UNIT_ENCODER.git|Contributed|UNIT_ENCODER
 https://github.com/m5stack/M5_BH1750FVI.git|Contributed|M5_BH1750FVI
 https://github.com/m5stack/DEMO-BOARD.git|Contributed|DEMO-BOARD
+https://github.com/RobTillaart/Max44007.git|Contributed|Max44007
