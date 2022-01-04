@@ -4614,3 +4614,4 @@ https://github.com/adafruit/Adafruit_Floppy.git|Recommended|Adafruit Floppy
 https://github.com/stm32duino/VL53L4CD.git|Contributed|STM32duino VL53L4CD
 https://github.com/stm32duino/X-NUCLEO-53L4A1.git|Contributed|STM32duino X-NUCLEO-53L4A1
 https://github.com/RobTillaart/PCA9634.git|Contributed|PCA9634
+https://github.com/m5stack/UNIT_ENCODER.git|Contributed|UNIT_ENCODER
