@@ -84,6 +84,7 @@ https://github.com/DFRobot/DFRobot_STS3X
 https://github.com/DFRobot/DFRobot_SIM
 https://github.com/DFRobot/DFRobot_SIM7000
 https://github.com/DFRobot/DFRobot_EnvironmentalSensor
+https://github.com/DFRobot/DFRobot_GM60
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
