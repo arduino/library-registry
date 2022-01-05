@@ -4397,3 +4397,4 @@ https://github.com/michaellee8/TimedState
 https://github.com/tuya/tuya-ble-mcu-sdk-arduino-library
 https://github.com/cbm80amiga/RREFont.git
 https://github.com/iotexproject/arduino-sdk
+https://github.com/Sensirion/arduino-i2c-sen5x
