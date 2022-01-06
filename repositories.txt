@@ -2,6 +2,9 @@ https://github.com/sstaub/gma3
 https://github.com/sstaub/NTP
 https://github.com/sstaub/TeensyID
 https://github.com/sstaub/Timer
+https://github.com/Stutchbury/EncoderButton
+https://github.com/Gbertaz/JDI_MIP_Display
+https://github.com/ClemensAtElektor/Nano_Every_WS2812B
 https://github.com/JChristensen/JC_Sunrise
 https://github.com/bobveringa/HSCDTD008A-Library
 https://github.com/boothinator/AnalogReadAsync
@@ -86,6 +89,7 @@ https://github.com/DFRobot/DFRobot_STS3X
 https://github.com/DFRobot/DFRobot_SIM
 https://github.com/DFRobot/DFRobot_SIM7000
 https://github.com/DFRobot/DFRobot_EnvironmentalSensor
+https://github.com/DFRobot/DFRobot_GM60
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -104,7 +108,9 @@ https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/m5stack/M5_BH1750FVI
 https://github.com/m5stack/M5_ADS1115
+https://github.com/m5stack/UNIT_ENCODER
 https://github.com/m5stack/M5_BM8563
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
@@ -118,6 +124,7 @@ https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5_RoverC
 https://github.com/m5stack/M5_JoyC
 https://github.com/m5stack/UNIT_UHF_RFID
+https://github.com/m5stack/DEMO-BOARD
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -250,6 +257,7 @@ https://github.com/adafruit/Adafruit_EMC2101
 https://github.com/adafruit/Adafruit_EPD
 https://github.com/adafruit/Adafruit_ESP8266
 https://github.com/adafruit/Adafruit_FeatherOLED
+https://github.com/adafruit/Adafruit_Floppy
 https://github.com/adafruit/Adafruit_FONA
 https://github.com/adafruit/Adafruit_FRAM_I2C
 https://github.com/adafruit/Adafruit_FRAM_SPI
@@ -2391,6 +2399,7 @@ https://github.com/matusm/Arduino-E2
 https://github.com/max22-/ESP32-BLE-MIDI
 https://github.com/maximebohrer/SimpleKeypad
 https://github.com/MaximIntegrated/MAX31328-Arduino-Driver
+https://github.com/MaximIntegrated/MaxEssentialToolkit
 https://github.com/maxpautsch/mPower
 https://github.com/maxpautsch/SvgParser
 https://github.com/maykon/ButtonDebounce
@@ -3086,6 +3095,7 @@ https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADS1X15
 https://github.com/RobTillaart/ADT7470
 https://github.com/RobTillaart/AGS02MA
+https://github.com/RobTillaart/AM2315
 https://github.com/RobTillaart/AM232X
 https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
@@ -3151,6 +3161,7 @@ https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/map2colour
 https://github.com/RobTillaart/MAX31855_RT
+https://github.com/RobTillaart/Max44007
 https://github.com/RobTillaart/Max44009
 https://github.com/RobTillaart/MCP_ADC
 https://github.com/RobTillaart/MCP_DAC
@@ -3169,6 +3180,7 @@ https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/palindrome
 https://github.com/RobTillaart/PAR27979
 https://github.com/RobTillaart/ParallelPrinter
+https://github.com/RobTillaart/PCA9634
 https://github.com/RobTillaart/PCA9635
 https://github.com/RobTillaart/PCA9685_RT
 https://github.com/RobTillaart/PCF8574
@@ -4491,6 +4503,7 @@ https://github.com/fabriziop/FIFOEE.git
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
 https://github.com/viralinkio/ViraLink-Arduino-SDK
 https://github.com/RocketLauncherCDMX/RocketLauncher_RobbusKidsy
+https://github.com/autowp/arduino-mcp2515
 https://github.com/xiaoming-sun6/SerialDebugger
 https://github.com/coryjfowler/MCP_CAN_lib
 https://github.com/dmdhrumilmistry/DeviceController
@@ -4509,3 +4522,8 @@ https://github.com/dndubins/EEPROMsimple
 https://github.com/dndubins/SRAMsimple
 https://github.com/andhieSetyabudi/MCP23017_LCD12864
 https://github.com/theengs/decoder
+https://github.com/gavinlyonsrepo/MAX471
+https://github.com/Dlloydev/sTune
+https://github.com/stm32duino/VL53L4CD.git
+https://github.com/stm32duino/X-NUCLEO-53L4A1.git
+https://github.com/adafruit/Adafruit_Wippersnapper_Arduino
