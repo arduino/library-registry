@@ -4623,3 +4623,7 @@ https://github.com/MaximIntegrated/MaxEssentialToolkit.git|Contributed|MaxEssent
 https://github.com/RobTillaart/AM2315.git|Contributed|AM2315
 https://github.com/Stutchbury/EncoderButton.git|Contributed|EncoderButton
 https://github.com/adafruit/Adafruit_Wippersnapper_Arduino.git|Recommended|Adafruit WipperSnapper Beta
+https://github.com/sstaub/gma3.git|Contributed|gma3
+https://github.com/sstaub/NTP.git|Contributed|NTP
+https://github.com/sstaub/TeensyID.git|Contributed|TeensyID
+https://github.com/sstaub/Timer.git|Contributed|Timer
