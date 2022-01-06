@@ -4621,3 +4621,4 @@ https://github.com/RobTillaart/Max44007.git|Contributed|Max44007
 https://github.com/DFRobot/DFRobot_GM60.git|Contributed|DFRobot_GM60
 https://github.com/MaximIntegrated/MaxEssentialToolkit.git|Contributed|MaxEssentialToolkit
 https://github.com/RobTillaart/AM2315.git|Contributed|AM2315
+https://github.com/Stutchbury/EncoderButton.git|Contributed|EncoderButton
