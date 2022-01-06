@@ -1,3 +1,4 @@
+https://github.com/Stutchbury/EncoderButton
 https://github.com/Gbertaz/JDI_MIP_Display
 https://github.com/ClemensAtElektor/Nano_Every_WS2812B
 https://github.com/JChristensen/JC_Sunrise
