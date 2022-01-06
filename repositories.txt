@@ -1,3 +1,7 @@
+https://github.com/sstaub/gma3
+https://github.com/sstaub/NTP
+https://github.com/sstaub/TeensyID
+https://github.com/sstaub/Timer
 https://github.com/Stutchbury/EncoderButton
 https://github.com/Gbertaz/JDI_MIP_Display
 https://github.com/ClemensAtElektor/Nano_Every_WS2812B
