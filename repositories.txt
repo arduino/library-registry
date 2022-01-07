@@ -3168,6 +3168,7 @@ https://github.com/RobTillaart/Max44009
 https://github.com/RobTillaart/MCP_ADC
 https://github.com/RobTillaart/MCP_DAC
 https://github.com/RobTillaart/MCP23017_RT
+https://github.com/RobTillaart/MCP23S17
 https://github.com/RobTillaart/MCP4725
 https://github.com/RobTillaart/MCP9808_RT
 https://github.com/RobTillaart/MINMAX
