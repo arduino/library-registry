@@ -4528,3 +4528,4 @@ https://github.com/Dlloydev/sTune
 https://github.com/stm32duino/VL53L4CD.git
 https://github.com/stm32duino/X-NUCLEO-53L4A1.git
 https://github.com/adafruit/Adafruit_Wippersnapper_Arduino
+https://github.com/shufflebits/GU140X32F-7703A
