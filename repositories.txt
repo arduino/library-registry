@@ -1,3 +1,8 @@
+https://github.com/sstaub/gma3
+https://github.com/sstaub/NTP
+https://github.com/sstaub/TeensyID
+https://github.com/sstaub/Timer
+https://github.com/Stutchbury/EncoderButton
 https://github.com/Gbertaz/JDI_MIP_Display
 https://github.com/ClemensAtElektor/Nano_Every_WS2812B
 https://github.com/JChristensen/JC_Sunrise
@@ -21,6 +26,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/GyverMAX6675
 https://github.com/GyverLibs/SimplePortal
 https://github.com/GyverLibs/GyverHTU21D
 https://github.com/GyverLibs/GyverHC595
@@ -85,6 +91,7 @@ https://github.com/DFRobot/DFRobot_SIM
 https://github.com/DFRobot/DFRobot_SIM7000
 https://github.com/DFRobot/DFRobot_EnvironmentalSensor
 https://github.com/DFRobot/DFRobot_GM60
+https://github.com/DFRobot/DFRobot_ICG20660L
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -4521,3 +4528,5 @@ https://github.com/gavinlyonsrepo/MAX471
 https://github.com/Dlloydev/sTune
 https://github.com/stm32duino/VL53L4CD.git
 https://github.com/stm32duino/X-NUCLEO-53L4A1.git
+https://github.com/adafruit/Adafruit_Wippersnapper_Arduino
+https://github.com/shufflebits/GU140X32F-7703A
