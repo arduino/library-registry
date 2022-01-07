@@ -4629,3 +4629,4 @@ https://github.com/sstaub/TeensyID.git|Contributed|TeensyID
 https://github.com/sstaub/Timer.git|Contributed|Timer
 https://github.com/DFRobot/DFRobot_ICG20660L.git|Contributed|DFRobot_ICG20660L
 https://github.com/shufflebits/GU140X32F-7703A.git|Contributed|GU140X32F-7703A
+https://github.com/GyverLibs/GyverMAX6675.git|Contributed|GyverMAX6675
