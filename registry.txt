@@ -4630,3 +4630,4 @@ https://github.com/sstaub/Timer.git|Contributed|Timer
 https://github.com/DFRobot/DFRobot_ICG20660L.git|Contributed|DFRobot_ICG20660L
 https://github.com/shufflebits/GU140X32F-7703A.git|Contributed|GU140X32F-7703A
 https://github.com/GyverLibs/GyverMAX6675.git|Contributed|GyverMAX6675
+https://github.com/RobTillaart/MCP23S17.git|Contributed|MCP23S17_RT
