@@ -4627,3 +4627,4 @@ https://github.com/sstaub/gma3.git|Contributed|gma3
 https://github.com/sstaub/NTP.git|Contributed|NTP
 https://github.com/sstaub/TeensyID.git|Contributed|TeensyID
 https://github.com/sstaub/Timer.git|Contributed|Timer
+https://github.com/DFRobot/DFRobot_ICG20660L.git|Contributed|DFRobot_ICG20660L
