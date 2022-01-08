@@ -4533,3 +4533,6 @@ https://github.com/stm32duino/X-NUCLEO-53L4A1.git
 https://github.com/adafruit/Adafruit_Wippersnapper_Arduino
 https://github.com/shufflebits/GU140X32F-7703A
 https://github.com/cjsgoncalves/ArduinoIDE-Utils
+https://github.com/cafeiot/CafeIOT_Arduino
+https://github.com/cafeiot/CafeIOT_Esp8266
+https://github.com/cafeiot/CafeIOT_Esp32
