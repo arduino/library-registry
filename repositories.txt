@@ -4534,3 +4534,4 @@ https://github.com/adafruit/Adafruit_Wippersnapper_Arduino
 https://github.com/shufflebits/GU140X32F-7703A
 https://github.com/cjsgoncalves/ArduinoIDE-Utils
 https://github.com/makerspaceleiden/tee-log
+https://github.com/cafeiot/CafeIOT_Arduino
