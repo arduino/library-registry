@@ -4635,3 +4635,4 @@ https://github.com/cjsgoncalves/ArduinoIDE-Utils.git|Contributed|Utils
 https://github.com/DFRobot/DFRobot_TMF8x01.git|Contributed|DFRobot_TMF8x01
 https://github.com/makerspaceleiden/tee-log.git|Contributed|TLog
 https://github.com/cafeiot/CafeIOT_Arduino.git|Contributed|CafeIot_Arduino
+https://github.com/cafeiot/CafeIOT_Esp8266.git|Contributed|CafeIOT
