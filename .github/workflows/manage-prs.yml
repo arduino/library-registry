@@ -24,6 +24,22 @@ on:
       - created
       - edited
 
+concurrency:
+  group: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+  cancel-in-progress: >-
+    ${{
+    (
+    github.event_name == 'pull_request_target' &&
+    github.event.pull_request.draft == false
+    ) ||
+    (
+    github.event_name == 'issue_comment' &&
+    github.event.issue.pull_request != '' &&
+    github.event.issue.state == 'open' &&
+    contains(github.event.comment.body, 'ArduinoBot')
+    )
+    }}
+
 jobs:
   diff:
     if: >
@@ -122,7 +138,7 @@ jobs:
 
       - name: Download submission parser
         id: download-parser
-        uses: carlosperate/download-file-action@v1.0.3
+        uses: carlosperate/download-file-action@v1
         with:
           file-url: https://github.com/arduino/library-registry-submission-parser/releases/download/${{ env.SUBMISSION_PARSER_VERSION }}/parser
           location: ${{ runner.temp }}
