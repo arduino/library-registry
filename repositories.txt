@@ -4537,3 +4537,4 @@ https://github.com/makerspaceleiden/tee-log
 https://github.com/cafeiot/CafeIOT_Arduino
 https://github.com/cafeiot/CafeIOT_Esp8266
 https://github.com/cafeiot/CafeIOT_Esp32
+https://github.com/Sensirion/arduino-i2c-sen5x
