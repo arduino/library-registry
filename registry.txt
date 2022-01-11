@@ -4640,3 +4640,4 @@ https://github.com/Sensirion/arduino-i2c-sen5x.git|Contributed|Sensirion I2C SEN
 https://github.com/RobTillaart/MCP23S08.git|Contributed|MCP23S08
 https://github.com/DFRobot/DFRobot_IICSerial.git|Contributed|DFRobot_IICSerial
 https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards.git|Contributed|UtilsBoards
+https://github.com/DFRobot/DFRobot_MCP23017.git|Contributed|DFRobot_MCP23017
