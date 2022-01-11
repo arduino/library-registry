@@ -1,3 +1,4 @@
+https://github.com/JChristensen/JC_EEPROM
 https://github.com/sstaub/gma3
 https://github.com/sstaub/NTP
 https://github.com/sstaub/TeensyID
@@ -93,6 +94,12 @@ https://github.com/DFRobot/DFRobot_EnvironmentalSensor
 https://github.com/DFRobot/DFRobot_GM60
 https://github.com/DFRobot/DFRobot_ICG20660L
 https://github.com/DFRobot/DFRobot_TMF8x01
+https://github.com/DFRobot/DFRobot_IICSerial
+https://github.com/DFRobot/DFRobot_MCP23017
+https://github.com/DFRobot/DFRobot_BMM150
+https://github.com/DFRobot/DFRobot_ICP10111
+https://github.com/DFRobot/DFRobot_URM09
+https://github.com/DFRobot/DFRobot_AS3935
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -1730,6 +1737,7 @@ https://github.com/Industruino/FRAM
 https://github.com/Industruino/Indio
 https://github.com/Industruino/UC1701
 https://github.com/INFICON-Spot/inficon-spot-lib
+https://github.com/Infineon/arduino-high-side-switch
 https://github.com/Infineon/arduino-optiga-trust-m
 https://github.com/Infineon/arduino-optiga-trust-x
 https://github.com/Infineon/arduino-rgb-led-lighting-shield
@@ -3016,9 +3024,12 @@ https://github.com/RAKWireless/RAKwireless_Storage
 https://github.com/RAKWireless/RAK12035_SoilMoisture
 https://github.com/RAKWireless/RAK13600-PN532
 https://github.com/RAKWireless/RAK12019_LTR390
+https://github.com/RAKWireless/RAK14012-LED-Matrix
+https://github.com/RAKWireless/RAK12021-TCS37725
+https://github.com/RAKWireless/RAK12025-I3G4250D
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
-https://github.com/rasmushedeager/sducar
+https://github.com/sdutek/sducar
 https://github.com/ravelab/JsonLogger
 https://github.com/RB-ENantel/RC_ESC
 https://github.com/RealTadango/FrSky
@@ -4539,3 +4550,4 @@ https://github.com/cafeiot/CafeIOT_Arduino
 https://github.com/cafeiot/CafeIOT_Esp8266
 https://github.com/cafeiot/CafeIOT_Esp32
 https://github.com/Sensirion/arduino-i2c-sen5x
+https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards
