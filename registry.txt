@@ -4649,3 +4649,4 @@ https://github.com/Infineon/arduino-high-side-switch.git|Contributed|high-side-s
 https://github.com/DFRobot/DFRobot_ICP10111.git|Contributed|DFRobot_ICP10111
 https://github.com/DFRobot/DFRobot_URM09.git|Contributed|DFRobot_URM09
 https://github.com/DFRobot/DFRobot_AS3935.git|Contributed|DFRobot_AS3935
+https://github.com/JChristensen/JC_EEPROM.git|Contributed|JC_EEPROM
