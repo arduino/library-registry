@@ -3136,6 +3136,7 @@ https://github.com/RobTillaart/DAC8554
 https://github.com/RobTillaart/DEVNULL
 https://github.com/RobTillaart/DEVRANDOM
 https://github.com/RobTillaart/DHT12
+https://github.com/RobTillaart/DHT20
 https://github.com/RobTillaart/DHT2pin
 https://github.com/RobTillaart/DHTlib
 https://github.com/RobTillaart/DHTNew
