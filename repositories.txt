@@ -1733,6 +1733,7 @@ https://github.com/Industruino/FRAM
 https://github.com/Industruino/Indio
 https://github.com/Industruino/UC1701
 https://github.com/INFICON-Spot/inficon-spot-lib
+https://github.com/Infineon/arduino-high-side-switch
 https://github.com/Infineon/arduino-optiga-trust-m
 https://github.com/Infineon/arduino-optiga-trust-x
 https://github.com/Infineon/arduino-rgb-led-lighting-shield
