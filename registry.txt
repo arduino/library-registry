@@ -4644,3 +4644,4 @@ https://github.com/DFRobot/DFRobot_MCP23017.git|Contributed|DFRobot_MCP23017
 https://github.com/RAKWireless/RAK14012-LED-Matrix.git|Contributed|RAKwireless LED Matrix
 https://github.com/RAKWireless/RAK12021-TCS37725.git|Contributed|RAKwireless-RAK12021-TCS37725
 https://github.com/RAKWireless/RAK12025-I3G4250D.git|Contributed|RAKwireless I3G4250D Gyroscope library
+https://github.com/DFRobot/DFRobot_BMM150.git|Contributed|DFRobot_BMM150
