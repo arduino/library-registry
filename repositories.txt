@@ -98,6 +98,7 @@ https://github.com/DFRobot/DFRobot_MCP23017
 https://github.com/DFRobot/DFRobot_BMM150
 https://github.com/DFRobot/DFRobot_ICP10111
 https://github.com/DFRobot/DFRobot_URM09
+https://github.com/DFRobot/DFRobot_AS3935
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
