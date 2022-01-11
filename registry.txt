@@ -4646,3 +4646,5 @@ https://github.com/RAKWireless/RAK12021-TCS37725.git|Contributed|RAKwireless-RAK
 https://github.com/RAKWireless/RAK12025-I3G4250D.git|Contributed|RAKwireless I3G4250D Gyroscope library
 https://github.com/DFRobot/DFRobot_BMM150.git|Contributed|DFRobot_BMM150
 https://github.com/Infineon/arduino-high-side-switch.git|Contributed|high-side-switch-ino
+https://github.com/DFRobot/DFRobot_ICP10111.git|Contributed|DFRobot_ICP10111
+https://github.com/DFRobot/DFRobot_URM09.git|Contributed|DFRobot_URM09
