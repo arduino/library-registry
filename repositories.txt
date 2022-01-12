@@ -4553,3 +4553,4 @@ https://github.com/cafeiot/CafeIOT_Esp8266
 https://github.com/cafeiot/CafeIOT_Esp32
 https://github.com/Sensirion/arduino-i2c-sen5x
 https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards
+https://github.com/ewertons/esp32-azureiotkit-sensors
