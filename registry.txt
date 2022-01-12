@@ -4653,3 +4653,4 @@ https://github.com/JChristensen/JC_EEPROM.git|Contributed|JC_EEPROM
 https://github.com/RobTillaart/MCP23008.git|Contributed|MCP23008
 https://github.com/RobTillaart/DHT20.git|Contributed|DHT20
 https://github.com/ewertons/esp32-azureiotkit-sensors.git|Contributed|Espressif ESP32 Azure IoT Kit Sensors
+https://github.com/Kei0208/SUSHI-IO-EXP.git|Contributed|SUSHI-EXP-BOARD
