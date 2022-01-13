@@ -4656,3 +4656,5 @@ https://github.com/ewertons/esp32-azureiotkit-sensors.git|Contributed|Espressif 
 https://github.com/Kei0208/SUSHI-IO-EXP.git|Contributed|SUSHI-EXP-BOARD
 https://github.com/RobTillaart/MAX6675.git|Contributed|MAX6675
 https://github.com/adafruit/Adafruit_InternalFlash.git|Recommended|Adafruit InternalFlash
+https://github.com/DFRobot/DFRobot_SHT20.git|Contributed|DFRobot_SHT20
+https://github.com/DFRobot/DFRobot_DS1307.git|Contributed|DFRobot_DS1307
