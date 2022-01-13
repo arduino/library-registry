@@ -4655,3 +4655,4 @@ https://github.com/RobTillaart/DHT20.git|Contributed|DHT20
 https://github.com/ewertons/esp32-azureiotkit-sensors.git|Contributed|Espressif ESP32 Azure IoT Kit Sensors
 https://github.com/Kei0208/SUSHI-IO-EXP.git|Contributed|SUSHI-EXP-BOARD
 https://github.com/RobTillaart/MAX6675.git|Contributed|MAX6675
+https://github.com/adafruit/Adafruit_InternalFlash.git|Recommended|Adafruit InternalFlash
