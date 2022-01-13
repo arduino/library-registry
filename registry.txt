@@ -4658,3 +4658,4 @@ https://github.com/RobTillaart/MAX6675.git|Contributed|MAX6675
 https://github.com/adafruit/Adafruit_InternalFlash.git|Recommended|Adafruit InternalFlash
 https://github.com/DFRobot/DFRobot_SHT20.git|Contributed|DFRobot_SHT20
 https://github.com/DFRobot/DFRobot_DS1307.git|Contributed|DFRobot_DS1307
+https://github.com/chandrawi/LoRaRF-Arduino.git|Contributed|LoRaRF
