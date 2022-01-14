@@ -100,6 +100,8 @@ https://github.com/DFRobot/DFRobot_BMM150
 https://github.com/DFRobot/DFRobot_ICP10111
 https://github.com/DFRobot/DFRobot_URM09
 https://github.com/DFRobot/DFRobot_AS3935
+https://github.com/DFRobot/DFRobot_SHT20
+https://github.com/DFRobot/DFRobot_DS1307
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -287,6 +289,7 @@ https://github.com/adafruit/Adafruit_ILI9341
 https://github.com/adafruit/Adafruit_ImageReader
 https://github.com/adafruit/Adafruit_INA219
 https://github.com/adafruit/Adafruit_INA260
+https://github.com/adafruit/Adafruit_InternalFlash
 https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
 https://github.com/adafruit/Adafruit_IS31FL3741
@@ -4556,3 +4559,4 @@ https://github.com/Sensirion/arduino-i2c-sen5x
 https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards
 https://github.com/ewertons/esp32-azureiotkit-sensors
 https://github.com/Kei0208/SUSHI-IO-EXP
+https://github.com/chandrawi/LoRaRF-Arduino
