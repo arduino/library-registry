@@ -1520,6 +1520,7 @@ https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino
 https://github.com/GordonRudman/ExampleArduinoLibrary
 https://github.com/gordonthree/pca9633
 https://github.com/gpb01/NVSRAM
+https://github.com/gpb01/SerialCmd
 https://github.com/gq97a6/IoT_Modules-Buttons
 https://github.com/gramedek/pio8255
 https://github.com/grandeurtech/arduino-sdk
