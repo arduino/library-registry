@@ -4662,3 +4662,4 @@ https://github.com/chandrawi/LoRaRF-Arduino.git|Contributed|LoRaRF
 https://github.com/MClarkDev/ArylicHTTP.git|Contributed|ArylicHTTP
 https://github.com/gpb01/SerialCmd.git|Contributed|SerialCmd
 https://github.com/malokhvii-eduard/arduino-bme280.git|Contributed|Bme280
+https://github.com/malokhvii-eduard/arduino-mhz19.git|Contributed|Mhz19
