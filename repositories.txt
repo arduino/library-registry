@@ -4562,3 +4562,4 @@ https://github.com/ewertons/esp32-azureiotkit-sensors
 https://github.com/Kei0208/SUSHI-IO-EXP
 https://github.com/chandrawi/LoRaRF-Arduino
 https://github.com/MClarkDev/ArylicHTTP
+https://github.com/malokhvii-eduard/arduino-bme280
