@@ -1093,7 +1093,6 @@ https://github.com/contrem/arduino-timer
 https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
 https://github.com/Controllino/ControllinoLibrary
 https://github.com/corneliusmunz/legoino
-https://github.com/cotestatnt/AsyncTelegram
 https://github.com/cotestatnt/YA_FSM
 https://github.com/CreativeRobotics/Commander
 https://github.com/cristborges/IRRemoteControl
@@ -1520,6 +1519,7 @@ https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino
 https://github.com/GordonRudman/ExampleArduinoLibrary
 https://github.com/gordonthree/pca9633
 https://github.com/gpb01/NVSRAM
+https://github.com/gpb01/SerialCmd
 https://github.com/gq97a6/IoT_Modules-Buttons
 https://github.com/gramedek/pio8255
 https://github.com/grandeurtech/arduino-sdk
@@ -4560,3 +4560,7 @@ https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards
 https://github.com/ewertons/esp32-azureiotkit-sensors
 https://github.com/Kei0208/SUSHI-IO-EXP
 https://github.com/chandrawi/LoRaRF-Arduino
+https://github.com/MClarkDev/ArylicHTTP
+https://github.com/malokhvii-eduard/arduino-bme280
+https://github.com/malokhvii-eduard/arduino-mhz19
+https://github.com/stm32duino/X-NUCLEO-IHM15A1
