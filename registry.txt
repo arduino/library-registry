@@ -4666,3 +4666,4 @@ https://github.com/malokhvii-eduard/arduino-mhz19.git|Contributed|Mhz19
 https://github.com/stm32duino/X-NUCLEO-IHM15A1.git|Contributed|STM32duino X-NUCLEO-IHM15A1
 https://github.com/dirkohme/MCP3421.git|Contributed|MCP3421
 https://github.com/dirkohme/LED.git|Contributed|CLed
+https://github.com/Stutchbury/DisplayUtils.git|Contributed|DisplayUtils
