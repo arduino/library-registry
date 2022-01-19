@@ -4669,3 +4669,4 @@ https://github.com/dirkohme/LED.git|Contributed|CLed
 https://github.com/Stutchbury/DisplayUtils.git|Contributed|DisplayUtils
 https://github.com/DFRobot/DFRobot_AirQualitySensor.git|Contributed|DFRobot_AirQualitySensor
 https://github.com/DFRobot/DFRobot_BloodOxygen_S.git|Contributed|DFRobot_BloodOxygen_S
+https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library.git|Contributed|bluemicro_hid
