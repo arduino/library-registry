@@ -3319,7 +3319,7 @@ https://github.com/sebaJoSt/BlaeckSerial
 https://github.com/sebnil/DueFlashStorage
 https://github.com/Seeed-Studio/Accelerometer_ADXL335
 https://github.com/Seeed-Studio/Accelerometer_ADXL345
-https://github.com/Seeed-Studio/Accelerometer_And_Gyroscope_LSM6DS3
+https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3
 https://github.com/Seeed-Studio/Accelerometer_H3LIS331DL
 https://github.com/Seeed-Studio/Accelerometer_MMA7660
 https://github.com/Seeed-Studio/CAN_BUS_Shield
