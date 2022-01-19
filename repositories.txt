@@ -1,3 +1,5 @@
+https://github.com/Stutchbury/DisplayUtils
+https://github.com/JChristensen/JC_EEPROM
 https://github.com/sstaub/gma3
 https://github.com/sstaub/NTP
 https://github.com/sstaub/TeensyID
@@ -95,6 +97,14 @@ https://github.com/DFRobot/DFRobot_ICG20660L
 https://github.com/DFRobot/DFRobot_TMF8x01
 https://github.com/DFRobot/DFRobot_IICSerial
 https://github.com/DFRobot/DFRobot_MCP23017
+https://github.com/DFRobot/DFRobot_BMM150
+https://github.com/DFRobot/DFRobot_ICP10111
+https://github.com/DFRobot/DFRobot_URM09
+https://github.com/DFRobot/DFRobot_AS3935
+https://github.com/DFRobot/DFRobot_SHT20
+https://github.com/DFRobot/DFRobot_DS1307
+https://github.com/DFRobot/DFRobot_AirQualitySensor
+https://github.com/DFRobot/DFRobot_BloodOxygen_S
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -282,6 +292,7 @@ https://github.com/adafruit/Adafruit_ILI9341
 https://github.com/adafruit/Adafruit_ImageReader
 https://github.com/adafruit/Adafruit_INA219
 https://github.com/adafruit/Adafruit_INA260
+https://github.com/adafruit/Adafruit_InternalFlash
 https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
 https://github.com/adafruit/Adafruit_IS31FL3741
@@ -1085,7 +1096,6 @@ https://github.com/contrem/arduino-timer
 https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
 https://github.com/Controllino/ControllinoLibrary
 https://github.com/corneliusmunz/legoino
-https://github.com/cotestatnt/AsyncTelegram
 https://github.com/cotestatnt/YA_FSM
 https://github.com/CreativeRobotics/Commander
 https://github.com/cristborges/IRRemoteControl
@@ -1512,6 +1522,7 @@ https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino
 https://github.com/GordonRudman/ExampleArduinoLibrary
 https://github.com/gordonthree/pca9633
 https://github.com/gpb01/NVSRAM
+https://github.com/gpb01/SerialCmd
 https://github.com/gq97a6/IoT_Modules-Buttons
 https://github.com/gramedek/pio8255
 https://github.com/grandeurtech/arduino-sdk
@@ -1732,6 +1743,7 @@ https://github.com/Industruino/FRAM
 https://github.com/Industruino/Indio
 https://github.com/Industruino/UC1701
 https://github.com/INFICON-Spot/inficon-spot-lib
+https://github.com/Infineon/arduino-high-side-switch
 https://github.com/Infineon/arduino-optiga-trust-m
 https://github.com/Infineon/arduino-optiga-trust-x
 https://github.com/Infineon/arduino-rgb-led-lighting-shield
@@ -3023,7 +3035,7 @@ https://github.com/RAKWireless/RAK12021-TCS37725
 https://github.com/RAKWireless/RAK12025-I3G4250D
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
-https://github.com/rasmushedeager/sducar
+https://github.com/sdutek/sducar
 https://github.com/ravelab/JsonLogger
 https://github.com/RB-ENantel/RC_ESC
 https://github.com/RealTadango/FrSky
@@ -3130,6 +3142,7 @@ https://github.com/RobTillaart/DAC8554
 https://github.com/RobTillaart/DEVNULL
 https://github.com/RobTillaart/DEVRANDOM
 https://github.com/RobTillaart/DHT12
+https://github.com/RobTillaart/DHT20
 https://github.com/RobTillaart/DHT2pin
 https://github.com/RobTillaart/DHTlib
 https://github.com/RobTillaart/DHTNew
@@ -3171,8 +3184,10 @@ https://github.com/RobTillaart/map2colour
 https://github.com/RobTillaart/MAX31855_RT
 https://github.com/RobTillaart/Max44007
 https://github.com/RobTillaart/Max44009
+https://github.com/RobTillaart/MAX6675
 https://github.com/RobTillaart/MCP_ADC
 https://github.com/RobTillaart/MCP_DAC
+https://github.com/RobTillaart/MCP23008
 https://github.com/RobTillaart/MCP23017_RT
 https://github.com/RobTillaart/MCP23S08
 https://github.com/RobTillaart/MCP23S17
@@ -4545,3 +4560,13 @@ https://github.com/cafeiot/CafeIOT_Esp8266
 https://github.com/cafeiot/CafeIOT_Esp32
 https://github.com/Sensirion/arduino-i2c-sen5x
 https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards
+https://github.com/ewertons/esp32-azureiotkit-sensors
+https://github.com/Kei0208/SUSHI-IO-EXP
+https://github.com/chandrawi/LoRaRF-Arduino
+https://github.com/MClarkDev/ArylicHTTP
+https://github.com/malokhvii-eduard/arduino-bme280
+https://github.com/malokhvii-eduard/arduino-mhz19
+https://github.com/stm32duino/X-NUCLEO-IHM15A1
+https://github.com/dirkohme/MCP3421
+https://github.com/dirkohme/LED
+https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
