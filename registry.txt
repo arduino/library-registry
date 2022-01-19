@@ -4604,3 +4604,69 @@ https://github.com/dndubins/SRAMsimple.git|Contributed|SRAMsimple
 https://github.com/bobveringa/HSCDTD008A-Library.git|Contributed|HSCDTD008A
 https://github.com/JChristensen/JC_Sunrise.git|Contributed|JC_Sunrise
 https://github.com/andhieSetyabudi/MCP23017_LCD12864.git|Contributed|I2C_LCD12864
+https://github.com/theengs/decoder.git|Contributed|TheengsDecoder
+https://github.com/ClemensAtElektor/Nano_Every_WS2812B.git|Contributed|Nano_Every_WS2812B
+https://github.com/autowp/arduino-mcp2515.git|Contributed|autowp-mcp2515
+https://github.com/Gbertaz/JDI_MIP_Display.git|Contributed|JDI_MIP_Display
+https://github.com/gavinlyonsrepo/MAX471.git|Contributed|MAX471
+https://github.com/Dlloydev/sTune.git|Contributed|sTune
+https://github.com/adafruit/Adafruit_Floppy.git|Recommended|Adafruit Floppy
+https://github.com/stm32duino/VL53L4CD.git|Contributed|STM32duino VL53L4CD
+https://github.com/stm32duino/X-NUCLEO-53L4A1.git|Contributed|STM32duino X-NUCLEO-53L4A1
+https://github.com/RobTillaart/PCA9634.git|Contributed|PCA9634
+https://github.com/m5stack/UNIT_ENCODER.git|Contributed|UNIT_ENCODER
+https://github.com/m5stack/M5_BH1750FVI.git|Contributed|M5_BH1750FVI
+https://github.com/m5stack/DEMO-BOARD.git|Contributed|DEMO-BOARD
+https://github.com/RobTillaart/Max44007.git|Contributed|Max44007
+https://github.com/DFRobot/DFRobot_GM60.git|Contributed|DFRobot_GM60
+https://github.com/MaximIntegrated/MaxEssentialToolkit.git|Contributed|MaxEssentialToolkit
+https://github.com/RobTillaart/AM2315.git|Contributed|AM2315
+https://github.com/Stutchbury/EncoderButton.git|Contributed|EncoderButton
+https://github.com/adafruit/Adafruit_Wippersnapper_Arduino.git|Recommended|Adafruit WipperSnapper Beta
+https://github.com/sstaub/gma3.git|Contributed|gma3
+https://github.com/sstaub/NTP.git|Contributed|NTP
+https://github.com/sstaub/TeensyID.git|Contributed|TeensyID
+https://github.com/sstaub/Timer.git|Contributed|Timer
+https://github.com/DFRobot/DFRobot_ICG20660L.git|Contributed|DFRobot_ICG20660L
+https://github.com/shufflebits/GU140X32F-7703A.git|Contributed|GU140X32F-7703A
+https://github.com/GyverLibs/GyverMAX6675.git|Contributed|GyverMAX6675
+https://github.com/RobTillaart/MCP23S17.git|Contributed|MCP23S17_RT
+https://github.com/cjsgoncalves/ArduinoIDE-Utils.git|Contributed|Utils
+https://github.com/DFRobot/DFRobot_TMF8x01.git|Contributed|DFRobot_TMF8x01
+https://github.com/makerspaceleiden/tee-log.git|Contributed|TLog
+https://github.com/cafeiot/CafeIOT_Arduino.git|Contributed|CafeIot_Arduino
+https://github.com/cafeiot/CafeIOT_Esp8266.git|Contributed|CafeIOT
+https://github.com/Sensirion/arduino-i2c-sen5x.git|Contributed|Sensirion I2C SEN5X
+https://github.com/RobTillaart/MCP23S08.git|Contributed|MCP23S08
+https://github.com/DFRobot/DFRobot_IICSerial.git|Contributed|DFRobot_IICSerial
+https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards.git|Contributed|UtilsBoards
+https://github.com/DFRobot/DFRobot_MCP23017.git|Contributed|DFRobot_MCP23017
+https://github.com/RAKWireless/RAK14012-LED-Matrix.git|Contributed|RAKwireless LED Matrix
+https://github.com/RAKWireless/RAK12021-TCS37725.git|Contributed|RAKwireless-RAK12021-TCS37725
+https://github.com/RAKWireless/RAK12025-I3G4250D.git|Contributed|RAKwireless I3G4250D Gyroscope library
+https://github.com/DFRobot/DFRobot_BMM150.git|Contributed|DFRobot_BMM150
+https://github.com/Infineon/arduino-high-side-switch.git|Contributed|high-side-switch-ino
+https://github.com/DFRobot/DFRobot_ICP10111.git|Contributed|DFRobot_ICP10111
+https://github.com/DFRobot/DFRobot_URM09.git|Contributed|DFRobot_URM09
+https://github.com/DFRobot/DFRobot_AS3935.git|Contributed|DFRobot_AS3935
+https://github.com/JChristensen/JC_EEPROM.git|Contributed|JC_EEPROM
+https://github.com/RobTillaart/MCP23008.git|Contributed|MCP23008
+https://github.com/RobTillaart/DHT20.git|Contributed|DHT20
+https://github.com/ewertons/esp32-azureiotkit-sensors.git|Contributed|Espressif ESP32 Azure IoT Kit Sensors
+https://github.com/Kei0208/SUSHI-IO-EXP.git|Contributed|SUSHI-EXP-BOARD
+https://github.com/RobTillaart/MAX6675.git|Contributed|MAX6675
+https://github.com/adafruit/Adafruit_InternalFlash.git|Recommended|Adafruit InternalFlash
+https://github.com/DFRobot/DFRobot_SHT20.git|Contributed|DFRobot_SHT20
+https://github.com/DFRobot/DFRobot_DS1307.git|Contributed|DFRobot_DS1307
+https://github.com/chandrawi/LoRaRF-Arduino.git|Contributed|LoRaRF
+https://github.com/MClarkDev/ArylicHTTP.git|Contributed|ArylicHTTP
+https://github.com/gpb01/SerialCmd.git|Contributed|SerialCmd
+https://github.com/malokhvii-eduard/arduino-bme280.git|Contributed|Bme280
+https://github.com/malokhvii-eduard/arduino-mhz19.git|Contributed|Mhz19
+https://github.com/stm32duino/X-NUCLEO-IHM15A1.git|Contributed|STM32duino X-NUCLEO-IHM15A1
+https://github.com/dirkohme/MCP3421.git|Contributed|MCP3421
+https://github.com/dirkohme/LED.git|Contributed|CLed
+https://github.com/Stutchbury/DisplayUtils.git|Contributed|DisplayUtils
+https://github.com/DFRobot/DFRobot_AirQualitySensor.git|Contributed|DFRobot_AirQualitySensor
+https://github.com/DFRobot/DFRobot_BloodOxygen_S.git|Contributed|DFRobot_BloodOxygen_S
+https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library.git|Contributed|bluemicro_hid
