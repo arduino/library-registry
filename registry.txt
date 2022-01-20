@@ -4676,3 +4676,5 @@ https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library.git|Contribut
 https://github.com/DFRobot/DFRobot_Alcohol.git|Contributed|DFRobot_Alcohol
 https://github.com/dirkohme/Clock.git|Contributed|Clock
 https://github.com/Lynxmotion/Arduino-PPM.git|Contributed|PPM
+https://github.com/PlayingWithFusion/PWFusion_Mcp2515.git|Contributed|PWFusion_Mcp2515
+https://github.com/PlayingWithFusion/PWFusion_MAX31856.git|Contributed|PWFusion_MAX31856
