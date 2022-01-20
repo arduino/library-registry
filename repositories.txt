@@ -4566,3 +4566,4 @@ https://github.com/malokhvii-eduard/arduino-mhz19
 https://github.com/stm32duino/X-NUCLEO-IHM15A1
 https://github.com/dirkohme/MCP3421
 https://github.com/dirkohme/LED
+https://github.com/dirkohme/Beeper
