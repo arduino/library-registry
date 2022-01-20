@@ -4673,3 +4673,4 @@ https://github.com/OttoDIY/OttoDIYLib.git|Contributed|OttoDIYLib
 https://github.com/dirkohme/Beeper.git|Contributed|CBeeper
 https://github.com/akkoyun/Telit_xE910.git|Contributed|Telit xE910 Series GSM Modem Library
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library.git|Contributed|Yfrobot I2C Line Follow Sensor Library
+https://github.com/DFRobot/DFRobot_Alcohol.git|Contributed|DFRobot_Alcohol
