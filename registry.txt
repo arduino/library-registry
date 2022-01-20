@@ -4670,3 +4670,4 @@ https://github.com/DFRobot/DFRobot_AirQualitySensor.git|Contributed|DFRobot_AirQ
 https://github.com/DFRobot/DFRobot_BloodOxygen_S.git|Contributed|DFRobot_BloodOxygen_S
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library.git|Contributed|bluemicro_hid
 https://github.com/OttoDIY/OttoDIYLib.git|Contributed|OttoDIYLib
+https://github.com/dirkohme/Beeper.git|Contributed|CBeeper
