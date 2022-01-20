@@ -4671,3 +4671,4 @@ https://github.com/DFRobot/DFRobot_BloodOxygen_S.git|Contributed|DFRobot_BloodOx
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library.git|Contributed|bluemicro_hid
 https://github.com/OttoDIY/OttoDIYLib.git|Contributed|OttoDIYLib
 https://github.com/dirkohme/Beeper.git|Contributed|CBeeper
+https://github.com/akkoyun/Telit_xE910.git|Contributed|Telit xE910 Series GSM Modem Library
