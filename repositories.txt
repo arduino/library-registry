@@ -105,6 +105,7 @@ https://github.com/DFRobot/DFRobot_SHT20
 https://github.com/DFRobot/DFRobot_DS1307
 https://github.com/DFRobot/DFRobot_AirQualitySensor
 https://github.com/DFRobot/DFRobot_BloodOxygen_S
+https://github.com/DFRobot/DFRobot_Alcohol
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
