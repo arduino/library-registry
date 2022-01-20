@@ -4675,3 +4675,4 @@ https://github.com/akkoyun/Telit_xE910.git|Contributed|Telit xE910 Series GSM Mo
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library.git|Contributed|Yfrobot I2C Line Follow Sensor Library
 https://github.com/DFRobot/DFRobot_Alcohol.git|Contributed|DFRobot_Alcohol
 https://github.com/dirkohme/Clock.git|Contributed|Clock
+https://github.com/Lynxmotion/Arduino-PPM.git|Contributed|PPM
