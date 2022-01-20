@@ -4572,3 +4572,4 @@ https://github.com/dirkohme/MCP3421
 https://github.com/dirkohme/LED
 https://github.com/dirkohme/Beeper
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
+https://github.com/akkoyun/Telit_xE910
