@@ -4685,3 +4685,4 @@ https://github.com/DFRobot/DFRobot_AS7341.git|Contributed|DFRobot_AS7341
 https://github.com/DFRobot/DFRobot_BT401.git|Contributed|DFRobot_BT401
 https://github.com/DFRobot/DFRobot_VoiceRecorder.git|Contributed|DFRobot_VoiceRecorder
 https://github.com/DFRobot/DFRobot_ID809_I2C.git|Contributed|DFRobot_ID809_I2C
+https://github.com/sourcesimian/uICAL.git|Contributed|uICAL
