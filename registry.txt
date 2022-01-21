@@ -4678,3 +4678,9 @@ https://github.com/dirkohme/Clock.git|Contributed|Clock
 https://github.com/Lynxmotion/Arduino-PPM.git|Contributed|PPM
 https://github.com/PlayingWithFusion/PWFusion_Mcp2515.git|Contributed|PWFusion_Mcp2515
 https://github.com/PlayingWithFusion/PWFusion_MAX31856.git|Contributed|PWFusion_MAX31856
+https://github.com/DFRobot/DFRobot_DF1101S.git|Contributed|DFRobot_DF1101S
+https://github.com/DFRobot/DFRobot_SpeechSynthesis.git|Contributed|DFRobot_SpeechSynthesis
+https://github.com/DFRobot/DFRobot_PN532.git|Contributed|DFRobot_PN532
+https://github.com/DFRobot/DFRobot_AS7341.git|Contributed|DFRobot_AS7341
+https://github.com/DFRobot/DFRobot_BT401.git|Contributed|DFRobot_BT401
+https://github.com/DFRobot/DFRobot_VoiceRecorder.git|Contributed|DFRobot_VoiceRecorder
