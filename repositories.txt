@@ -3547,6 +3547,7 @@ https://github.com/solidsnake745/MIDI_Device_Controller
 https://github.com/somefunAgba/ModernPIDControlSS
 https://github.com/somsinchai/IBot
 https://github.com/SoonerRobotics/RobotLib
+https://github.com/sourcesimian/uICAL
 https://github.com/souliss/souliss
 https://github.com/souviksaha97/DAC7611
 https://github.com/souviksaha97/MCP3202
