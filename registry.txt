@@ -4260,7 +4260,6 @@ https://github.com/Tinyu-Zhao/PCA9554.git|Contributed|PCA9554
 https://github.com/AlexTutorial/KrokoTS.git|Contributed|KrokoTS
 https://bitbucket.org/David_Such/nexgen_motorshield.git|Contributed|NexgenMotorShield
 https://github.com/khoih-prog/STM32_ISR_Servo.git|Contributed|STM32_ISR_Servo
-https://github.com/edge-ml/arduino.git|Contributed|EdgeML
 https://github.com/Rad-hi/MyButton_Arduino.git|Contributed|MyButton
 https://github.com/khoih-prog/RP2040_ISR_Servo.git|Contributed|RP2040_ISR_Servo
 https://github.com/micromouseonline/BasicEncoder.git|Contributed|BasicEncoder
