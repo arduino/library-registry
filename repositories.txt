@@ -106,6 +106,12 @@ https://github.com/DFRobot/DFRobot_DS1307
 https://github.com/DFRobot/DFRobot_AirQualitySensor
 https://github.com/DFRobot/DFRobot_BloodOxygen_S
 https://github.com/DFRobot/DFRobot_Alcohol
+https://github.com/DFRobot/DFRobot_DF1101S
+https://github.com/DFRobot/DFRobot_SpeechSynthesis
+https://github.com/DFRobot/DFRobot_PN532
+https://github.com/DFRobot/DFRobot_AS7341
+https://github.com/DFRobot/DFRobot_BT401
+https://github.com/DFRobot/DFRobot_VoiceRecorder
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
