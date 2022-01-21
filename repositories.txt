@@ -66,6 +66,7 @@ https://github.com/TawalMc/TinyDatabase_Arduino
 https://github.com/Phoenix1747/MQ135
 https://github.com/BreadBoardMates/Arduino-Mates-Controller
 https://github.com/MajicDesigns/MD_Stepper
+https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/DFRobot/DFRobot_BMP3XX
 https://github.com/DFRobot/DFRobot_DHT20
 https://github.com/DFRobot/DFRobot_RTU
@@ -78,7 +79,6 @@ https://github.com/DFRobot/DFRobot_MGC3130
 https://github.com/DFRobot/DFRobot_VEML6075
 https://github.com/DFRobot/DFRobot_DF1201S
 https://github.com/DFRobot/DFRobot_URM13
-https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_DS323X
@@ -107,8 +107,8 @@ https://github.com/DFRobot/DFRobot_AirQualitySensor
 https://github.com/DFRobot/DFRobot_BloodOxygen_S
 https://github.com/DFRobot/DFRobot_Alcohol
 https://github.com/ZinggJM/ILI9486_SPI
-https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
+https://github.com/ZinggJM/GFX_Extensions
 https://github.com/MajicDesigns/MD_OnePin
 https://github.com/cygig/DailyStruggleButton
 https://github.com/FTTechBrasil/FTTech-LoRaWAN
