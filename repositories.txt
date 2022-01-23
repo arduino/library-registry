@@ -4438,6 +4438,7 @@ https://github.com/Z01NE/MyAlarm
 https://github.com/khoih-prog/LittleFS_Portenta_H7
 https://github.com/someweisguy/esp_dmx
 https://github.com/jaredliw/PikaBot
+https://github.com/desertgreg/PixelGrid
 https://github.com/Open-Acidification/TankController
 https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite
 https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7
