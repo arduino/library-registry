@@ -4687,3 +4687,4 @@ https://github.com/DFRobot/DFRobot_VoiceRecorder.git|Contributed|DFRobot_VoiceRe
 https://github.com/DFRobot/DFRobot_ID809_I2C.git|Contributed|DFRobot_ID809_I2C
 https://github.com/sourcesimian/uICAL.git|Contributed|uICAL
 https://github.com/gpb01/wdt_samd21.git|Contributed|wdt_samd21
+https://github.com/desertgreg/PixelGrid.git|Contributed|PixelGrid
