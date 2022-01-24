@@ -4591,3 +4591,4 @@ https://github.com/akkoyun/Telit_xE910
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/Lynxmotion/Arduino-PPM
 https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor
+https://github.com/danyev3/JAREL
