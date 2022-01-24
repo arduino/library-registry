@@ -16,7 +16,7 @@
   - [What are the requirements for publishing new releases of libraries already in the Library Manager list?](#what-are-the-requirements-for-publishing-new-releases-of-libraries-already-in-the-library-manager-list)
   - [Why aren't releases of my library being picked up by Library Manager?](#why-arent-releases-of-my-library-being-picked-up-by-library-manager)
   - [Can I check on library releases being added to Library Manager?](#can-i-check-on-library-releases-being-added-to-library-manager)
-  - [I did something wrong! How can I change or unpublish an already published library?](#i-did-something-wrong-how-can-i-change-or-unpublish-an-already-published-library)
+  - [How can I remove a release of my library from Library Manager?](#how-can-i-remove-a-release-of-my-library-from-library-manager)
   - [How can I change a library's name?](#how-can-i-change-a-librarys-name)
 - [Limitations](#limitations)
   - [Is my Git repository OK?](#is-my-git-repository-ok)
@@ -132,13 +132,16 @@ For example, the Servo library is hosted at https://github.com/arduino-libraries
 
 http://downloads.arduino.cc/libraries/logs/github.com/arduino-libraries/Servo/
 
-### I did something wrong! How can I change or unpublish an already published library?
+<a id="i-did-something-wrong-how-can-i-change-or-unpublish-an-already-published-library"></a>
 
-In order to change contents of an already published library version, you can recreate its related tag.
+### How can I remove a release of my library from Library Manager?
 
-In order to **un**publish a library version, delete its related tag/release.
+If you discover a problem with the library release, simply fix the problem and make a new [release](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list). Library Manager defaults to installing the latest version of the library and offers updates to those with an older version installed, so this is the fastest and most effective method for distributing a fix to the users.
 
-Once you have done that, open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
+In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
+
+1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
+1. Open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
 
 <a id="how-can-i-change-my-librarys-name"></a>
 
