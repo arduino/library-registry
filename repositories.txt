@@ -4595,3 +4595,4 @@ https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/Lynxmotion/Arduino-PPM
 https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor
 https://github.com/danyev3/JAREL
+https://github.com/vChavezB/NoBlockEEPROM
