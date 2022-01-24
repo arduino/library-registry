@@ -4689,3 +4689,5 @@ https://github.com/sourcesimian/uICAL.git|Contributed|uICAL
 https://github.com/gpb01/wdt_samd21.git|Contributed|wdt_samd21
 https://github.com/desertgreg/PixelGrid.git|Contributed|PixelGrid
 https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor.git|Contributed|Seeed Arduino 24GHz Radar Sensor
+https://github.com/DFRobot/DFRobot_MPX5700.git|Contributed|DFRobot_MPX5700
+https://github.com/DFRobot/DFRobot_Maqueenplus.git|Contributed|DFRobot_MaqueenPlus
