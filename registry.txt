@@ -4693,3 +4693,4 @@ https://github.com/DFRobot/DFRobot_MPX5700.git|Contributed|DFRobot_MPX5700
 https://github.com/DFRobot/DFRobot_Maqueenplus.git|Contributed|DFRobot_MaqueenPlus
 https://github.com/danyev3/JAREL.git|Contributed|JAREL
 https://github.com/Stutchbury/TouchKeypad.git|Contributed|TouchKeypad
+https://github.com/mikalhart/TinyGPSPlus.git|Contributed|TinyGPSPlus
