@@ -4688,3 +4688,4 @@ https://github.com/DFRobot/DFRobot_ID809_I2C.git|Contributed|DFRobot_ID809_I2C
 https://github.com/sourcesimian/uICAL.git|Contributed|uICAL
 https://github.com/gpb01/wdt_samd21.git|Contributed|wdt_samd21
 https://github.com/desertgreg/PixelGrid.git|Contributed|PixelGrid
+https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor.git|Contributed|Seeed Arduino 24GHz Radar Sensor
