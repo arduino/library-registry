@@ -4691,3 +4691,4 @@ https://github.com/desertgreg/PixelGrid.git|Contributed|PixelGrid
 https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor.git|Contributed|Seeed Arduino 24GHz Radar Sensor
 https://github.com/DFRobot/DFRobot_MPX5700.git|Contributed|DFRobot_MPX5700
 https://github.com/DFRobot/DFRobot_Maqueenplus.git|Contributed|DFRobot_MaqueenPlus
+https://github.com/danyev3/JAREL.git|Contributed|JAREL
