@@ -4695,3 +4695,4 @@ https://github.com/danyev3/JAREL.git|Contributed|JAREL
 https://github.com/Stutchbury/TouchKeypad.git|Contributed|TouchKeypad
 https://github.com/mikalhart/TinyGPSPlus.git|Contributed|TinyGPSPlus
 https://github.com/GyverLibs/GyverPortal.git|Contributed|GyverPortal
+https://github.com/vChavezB/NoBlockEEPROM.git|Contributed|NoBlockEEPROM
