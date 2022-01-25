@@ -4596,3 +4596,4 @@ https://github.com/Lynxmotion/Arduino-PPM
 https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor
 https://github.com/danyev3/JAREL
 https://github.com/vChavezB/NoBlockEEPROM
+https://github.com/Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub
