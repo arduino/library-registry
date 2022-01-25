@@ -117,6 +117,7 @@ https://github.com/DFRobot/DFRobot_VoiceRecorder
 https://github.com/DFRobot/DFRobot_ID809_I2C
 https://github.com/DFRobot/DFRobot_MPX5700
 https://github.com/DFRobot/DFRobot_Maqueenplus
+https://github.com/DFRobot/DFRobot_RaspberryPi_A02YYUW
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -4596,4 +4597,3 @@ https://github.com/Lynxmotion/Arduino-PPM
 https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor
 https://github.com/danyev3/JAREL
 https://github.com/vChavezB/NoBlockEEPROM
-https://github.com/Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub
