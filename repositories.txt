@@ -1,3 +1,5 @@
+https://github.com/Stutchbury/TouchKeypad
+https://github.com/Stutchbury/DisplayUtils
 https://github.com/JChristensen/JC_EEPROM
 https://github.com/sstaub/gma3
 https://github.com/sstaub/NTP
@@ -27,6 +29,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/GyverPortal
 https://github.com/GyverLibs/GyverMAX6675
 https://github.com/GyverLibs/SimplePortal
 https://github.com/GyverLibs/GyverHTU21D
@@ -102,6 +105,18 @@ https://github.com/DFRobot/DFRobot_URM09
 https://github.com/DFRobot/DFRobot_AS3935
 https://github.com/DFRobot/DFRobot_SHT20
 https://github.com/DFRobot/DFRobot_DS1307
+https://github.com/DFRobot/DFRobot_AirQualitySensor
+https://github.com/DFRobot/DFRobot_BloodOxygen_S
+https://github.com/DFRobot/DFRobot_Alcohol
+https://github.com/DFRobot/DFRobot_DF1101S
+https://github.com/DFRobot/DFRobot_SpeechSynthesis
+https://github.com/DFRobot/DFRobot_PN532
+https://github.com/DFRobot/DFRobot_AS7341
+https://github.com/DFRobot/DFRobot_BT401
+https://github.com/DFRobot/DFRobot_VoiceRecorder
+https://github.com/DFRobot/DFRobot_ID809_I2C
+https://github.com/DFRobot/DFRobot_MPX5700
+https://github.com/DFRobot/DFRobot_Maqueenplus
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -1208,6 +1223,7 @@ https://github.com/DjamesSuhanko/EasyColor
 https://github.com/DjamesSuhanko/EasyPCF8574
 https://github.com/djGrrr/Int64String
 https://github.com/djuseeq/Ch376msc
+https://github.com/OttoDIY/OttoDIYLib
 https://github.com/DLE-Dev/OttoArduinoLib
 https://github.com/dleval/STLED316S
 https://github.com/dlkay0/TinyFontRenderer
@@ -1520,6 +1536,7 @@ https://github.com/GordonRudman/ExampleArduinoLibrary
 https://github.com/gordonthree/pca9633
 https://github.com/gpb01/NVSRAM
 https://github.com/gpb01/SerialCmd
+https://github.com/gpb01/wdt_samd21
 https://github.com/gq97a6/IoT_Modules-Buttons
 https://github.com/gramedek/pio8255
 https://github.com/grandeurtech/arduino-sdk
@@ -2485,6 +2502,7 @@ https://github.com/OSSLibraries/Arduino_MFRC522v2
 https://github.com/MiguelPynto/ShiftDisplay
 https://github.com/mihai-dinculescu/arduino-gravity-soil-moisture-sensor
 https://github.com/mikalhart/IridiumSBD
+https://github.com/mikalhart/TinyGPSPlus
 https://github.com/mike-matera/ArduinoSTL
 https://github.com/mike-matera/FastPID
 https://github.com/MikeDombo/HV518_Arduino
@@ -2831,6 +2849,8 @@ https://github.com/PlayingWithFusion/PWFusion_MAX31865
 https://github.com/PlayingWithFusion/PWFusion_Mcp960x
 https://github.com/PlayingWithFusion/PWFusion_TCA9548A
 https://github.com/PlayingWithFusion/PWFusion_VL53L3C
+https://github.com/PlayingWithFusion/PWFusion_Mcp2515
+https://github.com/PlayingWithFusion/PWFusion_MAX31856
 https://github.com/plenprojectcompany/PLEN5Stack
 https://github.com/plerup/espsoftwareserial
 https://github.com/ploys/arduino-logger
@@ -3316,7 +3336,7 @@ https://github.com/sebaJoSt/BlaeckSerial
 https://github.com/sebnil/DueFlashStorage
 https://github.com/Seeed-Studio/Accelerometer_ADXL335
 https://github.com/Seeed-Studio/Accelerometer_ADXL345
-https://github.com/Seeed-Studio/Accelerometer_And_Gyroscope_LSM6DS3
+https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3
 https://github.com/Seeed-Studio/Accelerometer_H3LIS331DL
 https://github.com/Seeed-Studio/Accelerometer_MMA7660
 https://github.com/Seeed-Studio/CAN_BUS_Shield
@@ -3533,6 +3553,7 @@ https://github.com/solidsnake745/MIDI_Device_Controller
 https://github.com/somefunAgba/ModernPIDControlSS
 https://github.com/somsinchai/IBot
 https://github.com/SoonerRobotics/RobotLib
+https://github.com/sourcesimian/uICAL
 https://github.com/souliss/souliss
 https://github.com/souviksaha97/DAC7611
 https://github.com/souviksaha97/MCP3202
@@ -4387,7 +4408,6 @@ https://github.com/SchooMyDevelopment/SchooMyUtilities
 https://github.com/khoih-prog/FlashStorage_STM32F1
 https://bitbucket.org/David_Such/nexgen_motorshield
 https://github.com/khoih-prog/STM32_ISR_Servo
-https://github.com/edge-ml/arduino
 https://github.com/khoih-prog/RP2040_ISR_Servo
 https://github.com/khoih-prog/SAMD_ISR_Servo
 https://github.com/khoih-prog/NRF52_ISR_Servo
@@ -4423,6 +4443,7 @@ https://github.com/Z01NE/MyAlarm
 https://github.com/khoih-prog/LittleFS_Portenta_H7
 https://github.com/someweisguy/esp_dmx
 https://github.com/jaredliw/PikaBot
+https://github.com/desertgreg/PixelGrid
 https://github.com/Open-Acidification/TankController
 https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite
 https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7
@@ -4564,3 +4585,15 @@ https://github.com/MClarkDev/ArylicHTTP
 https://github.com/malokhvii-eduard/arduino-bme280
 https://github.com/malokhvii-eduard/arduino-mhz19
 https://github.com/stm32duino/X-NUCLEO-IHM15A1
+https://github.com/dirkohme/Clock
+https://github.com/dirkohme/MCP3421
+https://github.com/dirkohme/LED
+https://github.com/dirkohme/Beeper
+https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
+https://github.com/akkoyun/Telit_xE910
+https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
+https://github.com/Lynxmotion/Arduino-PPM
+https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor
+https://github.com/danyev3/JAREL
+https://github.com/vChavezB/NoBlockEEPROM
+https://github.com/Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub
