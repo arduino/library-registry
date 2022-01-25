@@ -4701,3 +4701,4 @@ https://github.com/RobTillaart/MS5611_SPI.git|Contributed|MS5611_SPI
 https://github.com/m5stack/ATOM_DTU_CAT1.git|Contributed|ATOM_DTU_CAT1
 https://github.com/iotdevicesdev/GGreg20_V3.git|Contributed|GGreg20_V3
 https://github.com/PR-DC/PRDC_RS485HD_STM32.git|Contributed|PRDC_RS485HD_STM32
+https://github.com/PR-DC/PRDC_FreePort.git|Contributed|PRDC_FreePort
