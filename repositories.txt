@@ -117,6 +117,7 @@ https://github.com/DFRobot/DFRobot_VoiceRecorder
 https://github.com/DFRobot/DFRobot_ID809_I2C
 https://github.com/DFRobot/DFRobot_MPX5700
 https://github.com/DFRobot/DFRobot_Maqueenplus
+https://github.com/DFRobot/DFRobot_RaspberryPi_A02YYUW
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
