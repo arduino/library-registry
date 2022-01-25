@@ -3213,6 +3213,7 @@ https://github.com/RobTillaart/MCP9808_RT
 https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
 https://github.com/RobTillaart/MS5611
+https://github.com/RobTillaart/MS5611_SPI
 https://github.com/RobTillaart/MT8870
 https://github.com/RobTillaart/MTP40C
 https://github.com/RobTillaart/MultiMap
