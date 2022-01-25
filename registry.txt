@@ -4696,3 +4696,4 @@ https://github.com/Stutchbury/TouchKeypad.git|Contributed|TouchKeypad
 https://github.com/mikalhart/TinyGPSPlus.git|Contributed|TinyGPSPlus
 https://github.com/GyverLibs/GyverPortal.git|Contributed|GyverPortal
 https://github.com/vChavezB/NoBlockEEPROM.git|Contributed|NoBlockEEPROM
+https://github.com/Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub.git|Contributed|Seeed Arduino 8Channel I2C Hub
