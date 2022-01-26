@@ -4609,3 +4609,4 @@ https://github.com/PR-DC/PRDC_TMAESC
 https://github.com/PR-DC/PRDC_AD7797
 https://github.com/PR-DC/PRDC_AD7193
 https://github.com/PR-DC/PRDC_AD7194
+https://github.com/bitbank2/G4Enc
