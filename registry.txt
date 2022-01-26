@@ -4707,3 +4707,4 @@ https://github.com/PR-DC/PRDC_TMAESC.git|Contributed|PRDC_TMAESC
 https://github.com/PR-DC/PRDC_AD7797.git|Contributed|PRDC_AD7797
 https://github.com/PR-DC/PRDC_AD7193.git|Contributed|PRDC_AD7193
 https://github.com/PR-DC/PRDC_AD7194.git|Contributed|PRDC_AD7194
+https://github.com/ArduinoGetStarted/led.git|Contributed|ezLED
