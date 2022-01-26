@@ -3177,6 +3177,7 @@ https://github.com/RobTillaart/FastShiftIn
 https://github.com/RobTillaart/FastShiftOut
 https://github.com/RobTillaart/FastTrig
 https://github.com/RobTillaart/FLE
+https://github.com/RobTillaart/Fletcher
 https://github.com/RobTillaart/float16
 https://github.com/RobTillaart/Fraction
 https://github.com/RobTillaart/FRAM_I2C
