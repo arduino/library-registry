@@ -1,3 +1,5 @@
+https://github.com/ArduinoGetStarted/led
+https://github.com/iotdevicesdev/GGreg20_V3
 https://github.com/Stutchbury/TouchKeypad
 https://github.com/Stutchbury/DisplayUtils
 https://github.com/JChristensen/JC_EEPROM
@@ -152,6 +154,7 @@ https://github.com/m5stack/M5_RoverC
 https://github.com/m5stack/M5_JoyC
 https://github.com/m5stack/UNIT_UHF_RFID
 https://github.com/m5stack/DEMO-BOARD
+https://github.com/m5stack/ATOM_DTU_CAT1
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -4598,3 +4601,10 @@ https://github.com/Seeed-Studio/Seeed_Arduino_24GHz_Radar_Sensor
 https://github.com/danyev3/JAREL
 https://github.com/vChavezB/NoBlockEEPROM
 https://github.com/Seeed-Studio/Seeed_Arduino_8Channel_I2C_Hub
+https://github.com/PR-DC/PRDC_RS485HD_STM32
+https://github.com/PR-DC/PRDC_FreePort
+https://github.com/PR-DC/PRDC_ServoHT
+https://github.com/PR-DC/PRDC_TMAESC
+https://github.com/PR-DC/PRDC_AD7797
+https://github.com/PR-DC/PRDC_AD7193
+https://github.com/PR-DC/PRDC_AD7194
