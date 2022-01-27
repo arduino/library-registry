@@ -4709,3 +4709,4 @@ https://github.com/PR-DC/PRDC_AD7194.git|Contributed|PRDC_AD7194
 https://github.com/ArduinoGetStarted/led.git|Contributed|ezLED
 https://github.com/RobTillaart/Fletcher.git|Contributed|Fletcher
 https://github.com/bitbank2/G4Enc.git|Contributed|G4Enc
+https://github.com/107-systems/107-Arduino-AS504x.git|Contributed|107-Arduino-AS504x
