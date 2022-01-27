@@ -4712,3 +4712,4 @@ https://github.com/bitbank2/G4Enc.git|Contributed|G4Enc
 https://github.com/107-systems/107-Arduino-AS504x.git|Contributed|107-Arduino-AS504x
 https://github.com/RobTillaart/Adler.git|Contributed|Adler
 https://github.com/winkelict/ADXL362.git|Contributed|WinkelICT ADXL362
+https://github.com/chrmlinux/tinyUDP.git|Contributed|tinyUDP
