@@ -204,6 +204,7 @@ https://git.antares.id/lorawan-loraid/arduino-loraid
 https://github.com/0015/ESP32-OV5640-AF
 https://github.com/0015/TP_Arduino_DigitalRain_Anim
 https://github.com/0xCAFEDECAF/VanBus
+https://github.com/107-systems/107-Arduino-AS504x
 https://github.com/107-systems/107-Arduino-BMP388
 https://github.com/107-systems/107-Arduino-Debug
 https://github.com/107-systems/107-Arduino-MCP2515
@@ -4609,3 +4610,4 @@ https://github.com/PR-DC/PRDC_TMAESC
 https://github.com/PR-DC/PRDC_AD7797
 https://github.com/PR-DC/PRDC_AD7193
 https://github.com/PR-DC/PRDC_AD7194
+https://github.com/bitbank2/G4Enc
