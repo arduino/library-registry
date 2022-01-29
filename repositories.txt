@@ -1,3 +1,4 @@
+https://github.com/instanceofMA/arduino-fetch
 https://github.com/ArduinoGetStarted/led
 https://github.com/iotdevicesdev/GGreg20_V3
 https://github.com/Stutchbury/TouchKeypad
@@ -1125,6 +1126,7 @@ https://github.com/cvmanjoo/RTC
 https://github.com/cygig/SDConfigCommand
 https://github.com/cygig/SerialConfigCommand
 https://github.com/cygig/TimerEvent
+https://github.com/dbsqwerty123/CytronPikaBot
 https://github.com/CytronTechnologies/Cytron_MP3Shield
 https://github.com/CytronTechnologies/Cytron_Servo_Shield_Library
 https://github.com/CytronTechnologies/Cytron_Shield3AMotor
@@ -1434,6 +1436,7 @@ https://github.com/fesselk/everytime
 https://github.com/fhessel/esp32_https_server_compat
 https://github.com/fhessel/esp32_https_server
 https://github.com/finani/ICM20689
+https://github.com/finani/ICM42688
 https://github.com/finani/TriSonica_Mini
 https://github.com/finitespace/BME280
 https://github.com/finson-release/FirmataWithDeviceFeature
@@ -4612,3 +4615,6 @@ https://github.com/PR-DC/PRDC_AD7797
 https://github.com/PR-DC/PRDC_AD7193
 https://github.com/PR-DC/PRDC_AD7194
 https://github.com/bitbank2/G4Enc
+https://github.com/winkelict/ADXL362
+https://github.com/chrmlinux/tinyUDP
+https://github.com/chrmlinux/WiFiWire
