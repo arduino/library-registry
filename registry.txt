@@ -4716,3 +4716,4 @@ https://github.com/chrmlinux/tinyUDP.git|Contributed|tinyUDP
 https://github.com/chrmlinux/WiFiWire.git|Contributed|WiFiWire
 https://github.com/finani/ICM42688.git|Contributed|ICM42688
 https://github.com/dbsqwerty123/CytronPikaBot.git|Contributed|Cytron_PikaBot
+https://github.com/instanceofMA/arduino-fetch.git|Contributed|Fetch
