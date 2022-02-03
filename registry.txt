@@ -4722,3 +4722,4 @@ https://github.com/ahmsec/fork-webbino-ahmsec.git|Contributed|fork-webbino-ahmse
 https://github.com/turing-complete-labs/LCDDisplay10_Arduino.git|Contributed|LCDDisplay10
 https://github.com/VassilyDev/TSBridge.git|Contributed|TSBridge
 https://github.com/fish-five/BGWiFiConfig.git|Contributed|BGWiFiConfig
+https://github.com/jcomas/S8_UART.git|Contributed|S8_UART
