@@ -4721,3 +4721,4 @@ https://github.com/winkelict/TinyATCommandParser.git|Contributed|WinkelICT Tiny 
 https://github.com/ahmsec/fork-webbino-ahmsec.git|Contributed|fork-webbino-ahmsec
 https://github.com/turing-complete-labs/LCDDisplay10_Arduino.git|Contributed|LCDDisplay10
 https://github.com/VassilyDev/TSBridge.git|Contributed|TSBridge
+https://github.com/fish-five/BGWiFiConfig.git|Contributed|BGWiFiConfig
