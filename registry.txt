@@ -4724,3 +4724,4 @@ https://github.com/VassilyDev/TSBridge.git|Contributed|TSBridge
 https://github.com/fish-five/BGWiFiConfig.git|Contributed|BGWiFiConfig
 https://github.com/jcomas/S8_UART.git|Contributed|S8_UART
 https://github.com/unref-ptr/lwIOLink.git|Contributed|lwIOLink
+https://github.com/simplefoc/Arduino-FOC-drivers.git|Contributed|SimpleFOCDrivers
