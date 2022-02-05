@@ -1,3 +1,4 @@
+https://github.com/fish-five/BGWiFiConfig
 https://github.com/instanceofMA/arduino-fetch
 https://github.com/ArduinoGetStarted/led
 https://github.com/iotdevicesdev/GGreg20_V3
@@ -787,6 +788,7 @@ https://github.com/RodolfoPrieto/MCP3208
 https://github.com/arsalmaner/Arduino-Libraries
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
+https://github.com/simplefoc/Arduino-FOC-drivers
 https://github.com/aspenforest/SIM800
 https://github.com/aster94/GoProControl
 https://github.com/aster94/Keyword-Protocol-2000
@@ -3697,7 +3699,7 @@ https://github.com/sparkfun/SparkFun_SerLCD_Arduino_Library
 https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library
 https://github.com/sparkfun/SparkFun_SGP40_Arduino_Library
 https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library
-https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library
+https://github.com/sparkfun/SparkFun_Si7021_Arduino_Library
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
@@ -4618,3 +4620,9 @@ https://github.com/bitbank2/G4Enc
 https://github.com/winkelict/ADXL362
 https://github.com/chrmlinux/tinyUDP
 https://github.com/chrmlinux/WiFiWire
+https://github.com/winkelict/TinyATCommandParser
+https://github.com/ahmsec/fork-webbino-ahmsec
+https://github.com/turing-complete-labs/LCDDisplay10_Arduino
+https://github.com/VassilyDev/TSBridge
+https://github.com/jcomas/S8_UART
+https://github.com/unref-ptr/lwIOLink
