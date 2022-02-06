@@ -4727,3 +4727,4 @@ https://github.com/unref-ptr/lwIOLink.git|Contributed|lwIOLink
 https://github.com/simplefoc/Arduino-FOC-drivers.git|Contributed|SimpleFOCDrivers
 https://github.com/Stutchbury/EventButton.git|Contributed|EventButton
 https://github.com/RobTillaart/Soundex.git|Contributed|Soundex
+https://github.com/jfjlaros/serialMux.git|Contributed|serialMux
