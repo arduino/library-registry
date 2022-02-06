@@ -3265,6 +3265,7 @@ https://github.com/RobTillaart/ShiftInSlow
 https://github.com/RobTillaart/ShiftOutSlow
 https://github.com/RobTillaart/SHT2x
 https://github.com/RobTillaart/SHT31
+https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SHT85
 https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
