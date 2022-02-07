@@ -692,6 +692,7 @@ https://github.com/arduino-libraries/ArduinoIoTCloud
 https://github.com/arduino-libraries/ArduinoIoTCloudBearSSL
 https://github.com/arduino-libraries/ArduinoLowPower
 https://github.com/arduino-libraries/ArduinoMDNS
+https://github.com/arduino-libraries/SUNFingerPrint
 https://github.com/arduino-libraries/ArduinoModbus
 https://github.com/arduino-libraries/ArduinoMotorCarrier
 https://github.com/arduino-libraries/ArduinoMqttClient
