@@ -4629,3 +4629,4 @@ https://github.com/turing-complete-labs/LCDDisplay10_Arduino
 https://github.com/VassilyDev/TSBridge
 https://github.com/jcomas/S8_UART
 https://github.com/unref-ptr/lwIOLink
+https://github.com/chrmlinux/tinyI2S
