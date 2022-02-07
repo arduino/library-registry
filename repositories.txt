@@ -731,6 +731,7 @@ https://github.com/arduino-libraries/Scheduler
 https://github.com/arduino-libraries/SD
 https://github.com/arduino-libraries/Servo
 https://github.com/arduino-libraries/SigFox
+https://github.com/arduino-libraries/SUNFingerPrint
 https://github.com/arduino-libraries/SpacebrewYun
 https://github.com/arduino-libraries/Stepper
 https://github.com/arduino-libraries/Temboo
