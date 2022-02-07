@@ -122,6 +122,7 @@ https://github.com/DFRobot/DFRobot_VoiceRecorder
 https://github.com/DFRobot/DFRobot_ID809_I2C
 https://github.com/DFRobot/DFRobot_MPX5700
 https://github.com/DFRobot/DFRobot_Maqueenplus
+https://github.com/DFRobot/DFRobot_VL53L0X
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -1905,6 +1906,7 @@ https://github.com/jeremycole/TI_TCA9548A
 https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04
 https://github.com/jeroenvermeulen/JeVe_EasyOTA
 https://github.com/jfitter/MLX90614
+https://github.com/jfjlaros/serialMux
 https://github.com/jfjlaros/simpleRPC
 https://github.com/jgOhYeah/LCDGraph
 https://github.com/jgOhYeah/TunePlayer
@@ -4628,3 +4630,4 @@ https://github.com/turing-complete-labs/LCDDisplay10_Arduino
 https://github.com/VassilyDev/TSBridge
 https://github.com/jcomas/S8_UART
 https://github.com/unref-ptr/lwIOLink
+https://github.com/chrmlinux/tinyI2S
