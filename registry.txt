@@ -4728,3 +4728,4 @@ https://github.com/simplefoc/Arduino-FOC-drivers.git|Contributed|SimpleFOCDriver
 https://github.com/Stutchbury/EventButton.git|Contributed|EventButton
 https://github.com/RobTillaart/Soundex.git|Contributed|Soundex
 https://github.com/jfjlaros/serialMux.git|Contributed|serialMux
+https://github.com/chrmlinux/tinyI2S.git|Contributed|tinyI2S
