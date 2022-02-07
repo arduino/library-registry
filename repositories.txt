@@ -1,6 +1,7 @@
 https://github.com/Stutchbury/EventButton
 https://github.com/fish-five/BGWiFiConfig
 https://github.com/instanceofMA/arduino-fetch
+https://github.com/CalvinSynergyUtility/SUNFingerPrintSensor
 https://github.com/ArduinoGetStarted/led
 https://github.com/iotdevicesdev/GGreg20_V3
 https://github.com/Stutchbury/TouchKeypad
@@ -46,6 +47,7 @@ https://github.com/GyverLibs/EEManager
 https://github.com/GyverLibs/MicroUART
 https://github.com/GyverLibs/GyverINA
 https://github.com/GyverLibs/Approxy
+https://github.com/CalvinSynergyUtility/SUNFingerPrint
 https://github.com/MajicDesigns/MD_SmartCar2
 https://github.com/ncmreynolds/TapCode
 https://github.com/NeMaksym/Arduino-EasySevenSeg
@@ -132,6 +134,7 @@ https://github.com/FTTechBrasil/FTTech-LoRaWAN
 https://github.com/micromouseonline/BasicEncoder
 https://github.com/Rad-hi/MyButton_Arduino
 https://github.com/PowerBroker2/ArduPID
+https://github.com/CalvinSynergyUtility/SUNFingerPrint
 https://github.com/JulStrat/uCDB
 https://github.com/FTTechBrasil/FTTech_XBee
 https://github.com/siktec-lab/SIKTEC-AVR-Controller
