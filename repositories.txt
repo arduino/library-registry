@@ -132,6 +132,7 @@ https://github.com/FTTechBrasil/FTTech-LoRaWAN
 https://github.com/micromouseonline/BasicEncoder
 https://github.com/Rad-hi/MyButton_Arduino
 https://github.com/PowerBroker2/ArduPID
+https://github.com/CalvinSynergyUtility/SUNFingerPrint
 https://github.com/JulStrat/uCDB
 https://github.com/FTTechBrasil/FTTech_XBee
 https://github.com/siktec-lab/SIKTEC-AVR-Controller
