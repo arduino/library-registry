@@ -4734,3 +4734,4 @@ https://github.com/Stutchbury/EventAnalog.git|Contributed|EventAnalog
 https://github.com/107-systems/107-Arduino-TSL2550.git|Contributed|107-Arduino-TSL2550
 https://github.com/Stutchbury/EventJoystick.git|Contributed|EventJoystick
 https://github.com/GyverLibs/QuickCharge.git|Contributed|QuickCharge
+https://github.com/road-t/DM8BA10.git|Contributed|DM8BA10
