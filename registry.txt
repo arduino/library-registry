@@ -4732,3 +4732,4 @@ https://github.com/chrmlinux/tinyI2S.git|Contributed|tinyI2S
 https://github.com/DFRobot/DFRobot_VL53L0X.git|Contributed|DFRobot_VL53L0X
 https://github.com/Stutchbury/EventAnalog.git|Contributed|EventAnalog
 https://github.com/107-systems/107-Arduino-TSL2550.git|Contributed|107-Arduino-TSL2550
+https://github.com/Stutchbury/EventJoystick.git|Contributed|EventJoystick
