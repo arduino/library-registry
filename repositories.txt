@@ -36,6 +36,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/QuickCharge
 https://github.com/GyverLibs/GyverPortal
 https://github.com/GyverLibs/GyverMAX6675
 https://github.com/GyverLibs/SimplePortal
