@@ -2118,7 +2118,6 @@ https://github.com/kosme/fix_fft
 https://github.com/kosme/flex_DST
 https://github.com/kosme/timestamp32bits
 https://github.com/kotobuki/SetPoint
-https://github.com/kousheekc/Kinematics
 https://github.com/kpn-iot/thingsml-c-library
 https://github.com/KravitzLabDevices/FED3_library
 https://github.com/KravitzLabDevices/FORCE_library
