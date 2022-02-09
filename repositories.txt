@@ -4636,3 +4636,5 @@ https://github.com/VassilyDev/TSBridge
 https://github.com/jcomas/S8_UART
 https://github.com/unref-ptr/lwIOLink
 https://github.com/chrmlinux/tinyI2S
+https://github.com/maxint-rd/MmlMusic
+https://github.com/protostax/ProtoStax_MmlMusicPlayer
