@@ -4741,3 +4741,4 @@ https://github.com/EmotiBit/EmotiBit_External_EEPROM.git|Contributed|EmotiBit Ex
 https://github.com/107-systems/107-Arduino-TCS3472.git|Contributed|107-Arduino-TCS3472
 https://github.com/EmotiBit/EmotiBit_ADS1X15.git|Contributed|EmotiBit ADS1X15
 https://github.com/khoih-prog/MBED_RP2040_PWM.git|Contributed|MBED_RP2040_PWM
+https://github.com/cyijun/HAMqttDiscoveryHandler.git|Contributed|HAMqttDiscoveryHandler
