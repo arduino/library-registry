@@ -4639,3 +4639,4 @@ https://github.com/unref-ptr/lwIOLink
 https://github.com/chrmlinux/tinyI2S
 https://github.com/EmotiBit/EmotiBit_External_EEPROM
 https://github.com/khoih-prog/nRF52_MBED_PWM
+https://github.com/EmotiBit/EmotiBit_ADS1X15
