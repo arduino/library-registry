@@ -4737,3 +4737,4 @@ https://github.com/GyverLibs/QuickCharge.git|Contributed|QuickCharge
 https://github.com/road-t/DM8BA10.git|Contributed|DM8BA10
 https://github.com/MrYsLab/Telemetrix4Esp32.git|Contributed|Telemetrix4Esp32
 https://github.com/khoih-prog/nRF52_MBED_PWM.git|Contributed|nRF52_MBED_PWM
+https://github.com/EmotiBit/EmotiBit_External_EEPROM.git|Contributed|EmotiBit External EEPROM
