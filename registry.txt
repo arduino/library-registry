@@ -4744,3 +4744,5 @@ https://github.com/khoih-prog/MBED_RP2040_PWM.git|Contributed|MBED_RP2040_PWM
 https://github.com/cyijun/HAMqttDiscoveryHandler.git|Contributed|HAMqttDiscoveryHandler
 https://github.com/akkoyun/MAX78630.git|Contributed|MAX78630 Polyphase Energy Meter
 https://github.com/akkoyun/I2C_Functions.git|Contributed|Generic I2C Functions
+https://github.com/DFRobot/DFRobot_BMP280.git|Contributed|DFRobot_BMP280
+https://github.com/DFRobot/DFRobot_DHT11.git|Contributed|DFRobot_DHT11
