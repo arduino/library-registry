@@ -4746,3 +4746,4 @@ https://github.com/akkoyun/MAX78630.git|Contributed|MAX78630 Polyphase Energy Me
 https://github.com/akkoyun/I2C_Functions.git|Contributed|Generic I2C Functions
 https://github.com/DFRobot/DFRobot_BMP280.git|Contributed|DFRobot_BMP280
 https://github.com/DFRobot/DFRobot_DHT11.git|Contributed|DFRobot_DHT11
+https://bitbucket.org/David_Such/nexgen_timer.git|Contributed|NexgenTimer
