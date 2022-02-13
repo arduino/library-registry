@@ -1,3 +1,8 @@
+https://bitbucket.org/David_Such/nexgen_timer
+https://github.com/MrYsLab/Telemetrix4Esp32
+https://github.com/road-t/DM8BA10/
+https://github.com/Stutchbury/EventJoystick
+https://github.com/Stutchbury/EventAnalog
 https://github.com/Stutchbury/EventButton
 https://github.com/fish-five/BGWiFiConfig
 https://github.com/instanceofMA/arduino-fetch
@@ -34,6 +39,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/QuickCharge
 https://github.com/GyverLibs/GyverPortal
 https://github.com/GyverLibs/GyverMAX6675
 https://github.com/GyverLibs/SimplePortal
@@ -123,6 +129,8 @@ https://github.com/DFRobot/DFRobot_ID809_I2C
 https://github.com/DFRobot/DFRobot_MPX5700
 https://github.com/DFRobot/DFRobot_Maqueenplus
 https://github.com/DFRobot/DFRobot_VL53L0X
+https://github.com/DFRobot/DFRobot_BMP280
+https://github.com/DFRobot/DFRobot_DHT11
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -213,7 +221,9 @@ https://github.com/107-systems/107-Arduino-BMP388
 https://github.com/107-systems/107-Arduino-Debug
 https://github.com/107-systems/107-Arduino-MCP2515
 https://github.com/107-systems/107-Arduino-NMEA-Parser
+https://github.com/107-systems/107-Arduino-TCS3472
 https://github.com/107-systems/107-Arduino-TMF8801
+https://github.com/107-systems/107-Arduino-TSL2550
 https://github.com/107-systems/107-Arduino-UAVCAN
 https://github.com/1IoT/cloud-connectivity-lib
 https://github.com/loginov-rocks/UbxGps
@@ -2112,7 +2122,6 @@ https://github.com/kosme/fix_fft
 https://github.com/kosme/flex_DST
 https://github.com/kosme/timestamp32bits
 https://github.com/kotobuki/SetPoint
-https://github.com/kousheekc/Kinematics
 https://github.com/kpn-iot/thingsml-c-library
 https://github.com/KravitzLabDevices/FED3_library
 https://github.com/KravitzLabDevices/FORCE_library
@@ -4631,3 +4640,12 @@ https://github.com/VassilyDev/TSBridge
 https://github.com/jcomas/S8_UART
 https://github.com/unref-ptr/lwIOLink
 https://github.com/chrmlinux/tinyI2S
+https://github.com/EmotiBit/EmotiBit_External_EEPROM
+https://github.com/khoih-prog/nRF52_MBED_PWM
+https://github.com/EmotiBit/EmotiBit_ADS1X15
+https://github.com/khoih-prog/MBED_RP2040_PWM
+https://github.com/cyijun/HAMqttDiscoveryHandler
+https://github.com/akkoyun/MAX78630
+https://github.com/akkoyun/I2C_Functions
+https://github.com/cike-567/arduino-ps2zhuji
+https://github.com/creatingnull/null-packet-comms-arduino
