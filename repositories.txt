@@ -4647,5 +4647,5 @@ https://github.com/khoih-prog/MBED_RP2040_PWM
 https://github.com/cyijun/HAMqttDiscoveryHandler
 https://github.com/akkoyun/MAX78630
 https://github.com/akkoyun/I2C_Functions
-https://github.com/cike-567/arduino-ps2-zhuji-library
+https://github.com/cike-567/arduino-ps2zhuji
 https://github.com/creatingnull/null-packet-comms-arduino
