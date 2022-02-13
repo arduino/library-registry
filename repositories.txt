@@ -3290,6 +3290,7 @@ https://github.com/RobTillaart/tinySHT2x
 https://github.com/RobTillaart/TM1637_RT
 https://github.com/RobTillaart/Troolean
 https://github.com/RobTillaart/weight
+https://github.com/RobTillaart/X9C10X
 https://github.com/RobTillaart/XMLWriter
 https://github.com/rocketscream/Low-Power
 https://github.com/rocketscream/RocketScream_LowPowerAVRZero
