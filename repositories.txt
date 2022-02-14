@@ -258,6 +258,7 @@ https://github.com/adafruit/Adafruit_ADS1X15
 https://github.com/adafruit/Adafruit_ADT7410
 https://github.com/adafruit/Adafruit_ADXL343
 https://github.com/adafruit/Adafruit_ADXL345
+https://github.com/adafruit/Adafruit_ADXL375
 https://github.com/adafruit/Adafruit_AHRS
 https://github.com/adafruit/Adafruit_AHT10
 https://github.com/adafruit/Adafruit_AHTX0
