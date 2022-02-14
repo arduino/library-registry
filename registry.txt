@@ -4750,3 +4750,4 @@ https://bitbucket.org/David_Such/nexgen_timer.git|Contributed|NexgenTimer
 https://github.com/cike-567/arduino-ps2zhuji.git|Contributed|ps2zhuji
 https://github.com/creatingnull/null-packet-comms-arduino.git|Contributed|NullPacketComms
 https://github.com/RobTillaart/X9C10X.git|Contributed|X9C10X
+https://github.com/adafruit/Adafruit_ADXL375.git|Recommended|Adafruit ADXL375
