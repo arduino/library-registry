@@ -4752,3 +4752,4 @@ https://github.com/creatingnull/null-packet-comms-arduino.git|Contributed|NullPa
 https://github.com/RobTillaart/X9C10X.git|Contributed|X9C10X
 https://github.com/adafruit/Adafruit_ADXL375.git|Recommended|Adafruit ADXL375
 https://github.com/cike-567/arduino-ps2shebei.git|Contributed|ps2shebei
+https://github.com/arduino-libraries/Arduino_Braccio_plusplus.git|Arduino|Arduino_Braccio_plusplus
