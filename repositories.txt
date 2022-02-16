@@ -2157,6 +2157,7 @@ https://github.com/ldab/ESP32_FTPClient
 https://github.com/ldab/KXTJ3-1057
 https://github.com/ldab/lis3dh-motion-detection
 https://github.com/ldab/u-blox_GNSS
+https://github.com/Leafony/LeafonySTM32
 https://github.com/LeandroLimaPRO/Pressure
 https://github.com/leaphy-robotics/leaphy-extensions-extra
 https://github.com/leaphy-robotics/leaphy-extensions-original
