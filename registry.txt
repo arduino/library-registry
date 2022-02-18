@@ -4768,3 +4768,4 @@ https://github.com/MakerLabCRI/Max86141.git|Contributed|Max86141
 https://github.com/justcallmekoko/SwitchLib.git|Contributed|SwitchLib
 https://github.com/MClarkDev/BleepingLibrary.git|Contributed|Bleeping Library
 https://github.com/Robo-Wunderkind/RoboWunduino.git|Contributed|RoboWunduino
+https://github.com/Jueff/FireplaceMLX.git|Contributed|FireplaceMLX
