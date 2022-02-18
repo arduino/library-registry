@@ -4767,3 +4767,4 @@ https://github.com/akkoyun/Console.git|Contributed|VT100_Console
 https://github.com/MakerLabCRI/Max86141.git|Contributed|Max86141
 https://github.com/justcallmekoko/SwitchLib.git|Contributed|SwitchLib
 https://github.com/MClarkDev/BleepingLibrary.git|Contributed|Bleeping Library
+https://github.com/Robo-Wunderkind/RoboWunduino.git|Contributed|RoboWunduino
