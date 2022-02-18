@@ -4657,3 +4657,4 @@ https://github.com/arduino-libraries/Arduino_Braccio_plusplus
 https://github.com/PushDisDev/PushDis-cpp-client-library
 https://github.com/chrmlinux/tinyESPNow
 https://github.com/khoih-prog/WiFiMulti_Generic
+https://github.com/ekkai/Aicococam_Ardu/
