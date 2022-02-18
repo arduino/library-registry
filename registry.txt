@@ -4758,3 +4758,8 @@ https://github.com/khoih-prog/WiFiMulti_Generic.git|Contributed|WiFiMulti_Generi
 https://github.com/Leafony/LeafonySTM32.git|Contributed|LeafonySTM32
 https://github.com/ekkai/Aicococam_Ardu.git|Contributed|Ai COCOCAM
 https://github.com/4dsystems/ViSi-Genie-Arduino-Library-DEV.git|Contributed|genieArduinoDEV
+https://github.com/DFRobot/DFRobot_LIS.git|Contributed|DFRobot_LIS
+https://github.com/DFRobot/DFRobot_BME680.git|Contributed|DFRobot_BME680
+https://github.com/DFRobot/DFRobot_SIM808.git|Contributed|DFRobot_SIM808
+https://github.com/DFRobot/DFRobot_HX711_I2C.git|Contributed|DFRobot_HX711_I2C
+https://github.com/DFRobot/DFRobot_LWLP.git|Contributed|DFRobot_LWLP
