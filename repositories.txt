@@ -131,6 +131,11 @@ https://github.com/DFRobot/DFRobot_Maqueenplus
 https://github.com/DFRobot/DFRobot_VL53L0X
 https://github.com/DFRobot/DFRobot_BMP280
 https://github.com/DFRobot/DFRobot_DHT11
+https://github.com/DFRobot/DFRobot_LIS
+https://github.com/DFRobot/DFRobot_BME680
+https://github.com/DFRobot/DFRobot_SIM808
+https://github.com/DFRobot/DFRobot_HX711_I2C
+https://github.com/DFRobot/DFRobot_LWLP
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
