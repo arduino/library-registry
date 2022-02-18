@@ -4765,3 +4765,4 @@ https://github.com/DFRobot/DFRobot_HX711_I2C.git|Contributed|DFRobot_HX711_I2C
 https://github.com/DFRobot/DFRobot_LWLP.git|Contributed|DFRobot_LWLP
 https://github.com/akkoyun/Console.git|Contributed|VT100_Console
 https://github.com/MakerLabCRI/Max86141.git|Contributed|Max86141
+https://github.com/justcallmekoko/SwitchLib.git|Contributed|SwitchLib
