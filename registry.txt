@@ -4756,3 +4756,4 @@ https://github.com/PushDisDev/PushDis-cpp-client-library.git|Contributed|PushDis
 https://github.com/chrmlinux/tinyESPNow.git|Contributed|tinyESPNow
 https://github.com/khoih-prog/WiFiMulti_Generic.git|Contributed|WiFiMulti_Generic
 https://github.com/Leafony/LeafonySTM32.git|Contributed|LeafonySTM32
+https://github.com/ekkai/Aicococam_Ardu.git|Contributed|Ai COCOCAM
