@@ -4763,3 +4763,4 @@ https://github.com/DFRobot/DFRobot_BME680.git|Contributed|DFRobot_BME680
 https://github.com/DFRobot/DFRobot_SIM808.git|Contributed|DFRobot_SIM808
 https://github.com/DFRobot/DFRobot_HX711_I2C.git|Contributed|DFRobot_HX711_I2C
 https://github.com/DFRobot/DFRobot_LWLP.git|Contributed|DFRobot_LWLP
+https://github.com/akkoyun/Console.git|Contributed|VT100_Console
