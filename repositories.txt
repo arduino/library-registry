@@ -131,6 +131,11 @@ https://github.com/DFRobot/DFRobot_Maqueenplus
 https://github.com/DFRobot/DFRobot_VL53L0X
 https://github.com/DFRobot/DFRobot_BMP280
 https://github.com/DFRobot/DFRobot_DHT11
+https://github.com/DFRobot/DFRobot_LIS
+https://github.com/DFRobot/DFRobot_BME680
+https://github.com/DFRobot/DFRobot_SIM808
+https://github.com/DFRobot/DFRobot_HX711_I2C
+https://github.com/DFRobot/DFRobot_LWLP
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -2157,6 +2162,7 @@ https://github.com/ldab/ESP32_FTPClient
 https://github.com/ldab/KXTJ3-1057
 https://github.com/ldab/lis3dh-motion-detection
 https://github.com/ldab/u-blox_GNSS
+https://github.com/Leafony/LeafonySTM32
 https://github.com/LeandroLimaPRO/Pressure
 https://github.com/leaphy-robotics/leaphy-extensions-extra
 https://github.com/leaphy-robotics/leaphy-extensions-original
@@ -4657,3 +4663,5 @@ https://github.com/PushDisDev/PushDis-cpp-client-library
 https://github.com/chrmlinux/tinyESPNow
 https://github.com/khoih-prog/WiFiMulti_Generic
 https://github.com/MakerLabCRI/Max86141
+https://github.com/ekkai/Aicococam_Ardu/
+https://github.com/4dsystems/ViSi-Genie-Arduino-Library-DEV
