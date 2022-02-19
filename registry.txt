@@ -4769,3 +4769,4 @@ https://github.com/justcallmekoko/SwitchLib.git|Contributed|SwitchLib
 https://github.com/MClarkDev/BleepingLibrary.git|Contributed|Bleeping Library
 https://github.com/Robo-Wunderkind/RoboWunduino.git|Contributed|RoboWunduino
 https://github.com/Jueff/FireplaceMLX.git|Contributed|FireplaceMLX
+https://github.com/fellipecouto/PWMOutESP32.git|Contributed|PWMOutESP32
