@@ -4778,3 +4778,4 @@ https://github.com/Jueff/InfraredMLX.git|Contributed|InfraredMLX
 https://github.com/fellipecouto/MillisTimerLib.git|Contributed|MillisTimerLib
 https://github.com/sparkfun/SparkFun_SGP4_Arduino_Library.git|Contributed|SparkFun SGP4 Arduino Library
 https://github.com/sparkfun/SparkFun_Swarm_Satellite_Arduino_Library.git|Contributed|SparkFun Swarm Satellite Arduino Library
+https://github.com/ruiseixasm/Versatile_RotaryEncoder.git|Contributed|Versatile_RotaryEncoder
