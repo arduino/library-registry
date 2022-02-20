@@ -4776,3 +4776,4 @@ https://bitbucket.org/David_Such/nexgen_filter.git|Contributed|NexgenFilter
 https://github.com/MicroBeaut/MicroBeaut.git|Contributed|MicroBeaut
 https://github.com/Jueff/InfraredMLX.git|Contributed|InfraredMLX
 https://github.com/fellipecouto/MillisTimerLib.git|Contributed|MillisTimerLib
+https://github.com/sparkfun/SparkFun_SGP4_Arduino_Library.git|Contributed|SparkFun SGP4 Arduino Library
