@@ -4772,3 +4772,4 @@ https://github.com/Jueff/FireplaceMLX.git|Contributed|FireplaceMLX
 https://github.com/fellipecouto/PWMOutESP32.git|Contributed|PWMOutESP32
 https://github.com/fellipecouto/ShiftOutMega.git|Contributed|ShiftOutMega
 https://github.com/fellipecouto/MemoryLib.h.git|Contributed|MemoryLib
+https://bitbucket.org/David_Such/nexgen_filter.git|Contributed|NexgenFilter
