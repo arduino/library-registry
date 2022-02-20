@@ -4774,3 +4774,4 @@ https://github.com/fellipecouto/ShiftOutMega.git|Contributed|ShiftOutMega
 https://github.com/fellipecouto/MemoryLib.h.git|Contributed|MemoryLib
 https://bitbucket.org/David_Such/nexgen_filter.git|Contributed|NexgenFilter
 https://github.com/MicroBeaut/MicroBeaut.git|Contributed|MicroBeaut
+https://github.com/Jueff/InfraredMLX.git|Contributed|InfraredMLX
