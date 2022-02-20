@@ -4676,3 +4676,4 @@ https://github.com/fellipecouto/PWMOutESP32
 https://github.com/fellipecouto/ShiftOutMega
 https://github.com/fellipecouto/MemoryLib.h
 https://github.com/MicroBeaut/MicroBeaut
+https://github.com/fellipecouto/MillisTimerLib
