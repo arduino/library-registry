@@ -4680,3 +4680,4 @@ https://github.com/MicroBeaut/MicroBeaut
 https://github.com/fellipecouto/MillisTimerLib
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/akkoyun/Console
+https://github.com/akkoyun/I2C_Scanner
