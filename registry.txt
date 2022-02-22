@@ -4784,3 +4784,4 @@ https://github.com/DFRobot/DFRobot_PH.git|Contributed|DFRobot_PH
 https://github.com/DFRobot/DFRobot_BC20_Gravity.git|Contributed|DFRobot_BC20_Gravity
 https://github.com/skathir38/Rotary.git|Contributed|Rotary
 https://github.com/akkoyun/dWin_Arduino.git|Contributed|Dwin HMI LCD Screen Library
+https://github.com/stm32duino/ISM330DHCX.git|Contributed|STM32duino ISM330DHCX
