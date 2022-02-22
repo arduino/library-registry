@@ -4,6 +4,9 @@
 - name: "status: maintenance required"
   color: "ff0000"
   description: Infrastructure failure unrelated to request
+- name: "status: pending backend"
+  color: "0000ff"
+  description: Depends on backend maintenance operations
 - name: "topic: invalid"
   color: "ff0000"
   description: Request could not be processed
@@ -31,6 +34,9 @@
 - name: "topic: submission"
   color: "00ffff"
   description: Add library to the list
+- name: "topic: type change"
+  color: "00ffff"
+  description: Change library types data
 - name: "topic: URL change"
   color: "00ffff"
   description: Change library repository URL
