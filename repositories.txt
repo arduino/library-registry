@@ -4685,3 +4685,4 @@ https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/akkoyun/Console
 https://github.com/akkoyun/I2C_Scanner
 https://github.com/akkoyun/dWin_Arduino
+https://github.com/stm32duino/ISM330DHCX
