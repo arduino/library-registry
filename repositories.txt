@@ -1,3 +1,4 @@
+https://github.com/skathir38/Rotary
 https://bitbucket.org/David_Such/nexgen_filter
 https://bitbucket.org/David_Such/nexgen_timer
 https://github.com/MrYsLab/Telemetrix4Esp32
