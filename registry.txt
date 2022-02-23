@@ -4792,3 +4792,4 @@ https://github.com/CMB27/ModbusRTUSlave.git|Contributed|ModbusRTUSlave
 https://github.com/stm32duino/IIS2DLPC.git|Contributed|STM32duino IIS2DLPC
 https://github.com/stm32duino/X-NUCLEO-IKS02A1-Audio.git|Contributed|STM32duino X-NUCLEO-IKS02A1 Audio
 https://github.com/stm32duino/X-NUCLEO-IKS02A1.git|Contributed|STM32duino X-NUCLEO-IKS02A1
+https://github.com/ArmDeveloperEcosystem/DA16200-WiFi-Library-for-Arduino.git|Contributed|DA16200 Wi-Fi Library for Arduino
