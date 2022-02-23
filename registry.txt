@@ -4790,3 +4790,5 @@ https://github.com/vChavezB/SimpleJ1939.git|Contributed|SimpleJ1939
 https://github.com/Jackal28/LMT87.git|Contributed|LMT87
 https://github.com/CMB27/ModbusRTUSlave.git|Contributed|ModbusRTUSlave
 https://github.com/stm32duino/IIS2DLPC.git|Contributed|STM32duino IIS2DLPC
+https://github.com/stm32duino/X-NUCLEO-IKS02A1-Audio.git|Contributed|STM32duino X-NUCLEO-IKS02A1 Audio
+https://github.com/stm32duino/X-NUCLEO-IKS02A1.git|Contributed|STM32duino X-NUCLEO-IKS02A1
