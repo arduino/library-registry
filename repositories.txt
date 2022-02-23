@@ -4688,3 +4688,4 @@ https://github.com/akkoyun/dWin_Arduino
 https://github.com/stm32duino/ISM330DHCX
 https://github.com/bitbank2/SLIC
 https://github.com/vChavezB/SimpleJ1939
+https://github.com/Jackal28/LMT87
