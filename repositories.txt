@@ -4691,3 +4691,5 @@ https://github.com/vChavezB/SimpleJ1939
 https://github.com/Jackal28/LMT87
 https://github.com/CMB27/ModbusRTUSlave
 https://github.com/stm32duino/IIS2DLPC
+https://github.com/stm32duino/X-NUCLEO-IKS02A1-Audio
+https://github.com/stm32duino/X-NUCLEO-IKS02A1
