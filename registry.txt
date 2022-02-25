@@ -4795,3 +4795,4 @@ https://github.com/stm32duino/X-NUCLEO-IKS02A1.git|Contributed|STM32duino X-NUCL
 https://github.com/ArmDeveloperEcosystem/DA16200-WiFi-Library-for-Arduino.git|Contributed|DA16200 Wi-Fi Library for Arduino
 https://github.com/DFRobot/DFRobot_ADS1115.git|Contributed|DFRobot_ADS1115
 https://github.com/DFRobot/DFRobot_SerialScreen771.git|Contributed|DFRobot_SerialScreen771
+https://github.com/EngineeringRoom/Engineer_EasyEEPROM.git|Contributed|Engineer EasyEEPROM
