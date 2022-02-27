@@ -4797,3 +4797,4 @@ https://github.com/DFRobot/DFRobot_ADS1115.git|Contributed|DFRobot_ADS1115
 https://github.com/DFRobot/DFRobot_SerialScreen771.git|Contributed|DFRobot_SerialScreen771
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM.git|Contributed|Engineer EasyEEPROM
 https://github.com/shurik179/pov-library.git|Contributed|POV library
+https://github.com/RobTillaart/GST.git|Contributed|GST
