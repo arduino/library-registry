@@ -1,3 +1,4 @@
+https://github.com/MaiTheLord/BetterOTA
 https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
