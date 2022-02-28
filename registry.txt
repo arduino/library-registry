@@ -4799,3 +4799,4 @@ https://github.com/EngineeringRoom/Engineer_EasyEEPROM.git|Contributed|Engineer 
 https://github.com/shurik179/pov-library.git|Contributed|POV library
 https://github.com/RobTillaart/GST.git|Contributed|GST
 https://github.com/xiangfuli/Arduino-L298NDriver.git|Contributed|L298NDriver
+https://github.com/MaiTheLord/BetterOTA.git|Contributed|BetterOTA
