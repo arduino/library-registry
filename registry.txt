@@ -4800,3 +4800,4 @@ https://github.com/shurik179/pov-library.git|Contributed|POV library
 https://github.com/RobTillaart/GST.git|Contributed|GST
 https://github.com/xiangfuli/Arduino-L298NDriver.git|Contributed|L298NDriver
 https://github.com/MaiTheLord/BetterOTA.git|Contributed|BetterOTA
+https://github.com/sichel94/GUVB-C31SM.git|Contributed|GUVB-C31SM
