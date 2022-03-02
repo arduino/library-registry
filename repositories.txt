@@ -4704,3 +4704,4 @@ https://github.com/xiangfuli/Arduino-L298NDriver
 https://github.com/sichel94/GUVB-C31SM
 https://github.com/pixetto/PixettoLite
 https://github.com/centaq/arduino-modbus-slave-rtu-over-rs485
+https://github.com/centaq/arduino-simple-timers
