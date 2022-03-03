@@ -4805,3 +4805,9 @@ https://github.com/pixetto/PixettoLite.git|Contributed|PixettoLite
 https://github.com/centaq/arduino-modbus-slave-rtu-over-rs485.git|Contributed|ModBusSlave
 https://github.com/centaq/arduino-simple-timers.git|Contributed|Timers
 https://github.com/centaq/arduino-async-sms.git|Contributed|AsyncSMS
+https://github.com/DFRobot/DFRobot_AHT20.git|Contributed|DFRobot_AHT20
+https://github.com/DFRobot/DFRobot_RS01.git|Contributed|DFRobot_RS01
+https://github.com/DFRobot/DFRobot_ASR.git|Contributed|DFRobot_ASR
+https://github.com/DFRobot/DFRobot_HX711.git|Contributed|DFRobot_HX711
+https://github.com/DFRobot/DFRobot_BMI160.git|Contributed|DFRobot_BMI160
+https://github.com/DFRobot/DFRobot_MAX17043.git|Contributed|DFRobot_MAX17043
