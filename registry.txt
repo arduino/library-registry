@@ -4804,3 +4804,4 @@ https://github.com/sichel94/GUVB-C31SM.git|Contributed|GUVB-C31SM
 https://github.com/pixetto/PixettoLite.git|Contributed|PixettoLite
 https://github.com/centaq/arduino-modbus-slave-rtu-over-rs485.git|Contributed|ModBusSlave
 https://github.com/centaq/arduino-simple-timers.git|Contributed|Timers
+https://github.com/centaq/arduino-async-sms.git|Contributed|AsyncSMS
