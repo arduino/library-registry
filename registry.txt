@@ -4811,3 +4811,4 @@ https://github.com/DFRobot/DFRobot_ASR.git|Contributed|DFRobot_ASR
 https://github.com/DFRobot/DFRobot_HX711.git|Contributed|DFRobot_HX711
 https://github.com/DFRobot/DFRobot_BMI160.git|Contributed|DFRobot_BMI160
 https://github.com/DFRobot/DFRobot_MAX17043.git|Contributed|DFRobot_MAX17043
+https://github.com/akkoyun/MAX17055.git|Contributed|MAX17055
