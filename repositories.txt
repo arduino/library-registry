@@ -551,8 +551,6 @@ https://github.com/akafugu/TWILiquidCrystalLibrary
 https://github.com/akafugu/WireRtcLibrary
 https://github.com/AKJ7/TM1637
 https://github.com/akkoyun/Environment
-https://github.com/akkoyun/GE910
-https://github.com/akkoyun/LinearRegression
 https://github.com/akvavit01/MissionList
 https://github.com/Alex079/TinySuite
 https://github.com/AlexanderLL95/SerialUtil
@@ -4401,12 +4399,9 @@ https://github.com/mandulaj/PZEM-004T-v30/
 https://github.com/Silver-Fang/Low-level-quick-digital-IO
 https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01
 https://github.com/akkoyun/Statistical
-https://github.com/akkoyun/Battery
 https://github.com/ciniml/WireGuard-ESP32-Arduino
 https://github.com/SergeSkor/SSVRGBGradientCalc
 https://github.com/filoconnesso/Tweakly
-https://github.com/akkoyun/B100AA
-https://github.com/akkoyun/B902AA
 https://github.com/lequan81/vn_lunar
 https://github.com/SergeSkor/SSVTimer
 https://github.com/careyi3/MovingAverage
