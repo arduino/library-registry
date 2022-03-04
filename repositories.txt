@@ -1,3 +1,4 @@
+https://github.com/hsfl/artemis-teensy
 https://github.com/hsfl/artemis-arduino
 https://github.com/MaiTheLord/BetterOTA
 https://github.com/shurik179/pov-library
