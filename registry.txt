@@ -4709,7 +4709,7 @@ https://github.com/winkelict/ADXL362.git|Contributed|WinkelICT ADXL362
 https://github.com/chrmlinux/tinyUDP.git|Contributed|tinyUDP
 https://github.com/chrmlinux/WiFiWire.git|Contributed|WiFiWire
 https://github.com/finani/ICM42688.git|Contributed|ICM42688
-https://github.com/dbsqwerty123/CytronPikaBot.git|Contributed|Cytron_PikaBot
+https://github.com/8059blank/CytronPikaBot.git|Contributed|Cytron_PikaBot
 https://github.com/instanceofMA/arduino-fetch.git|Contributed|Fetch
 https://github.com/winkelict/TinyATCommandParser.git|Contributed|WinkelICT Tiny AT Command Parser
 https://github.com/ahmsec/fork-webbino-ahmsec.git|Contributed|fork-webbino-ahmsec
