@@ -3517,7 +3517,6 @@ https://github.com/dualB/Musician.git|Contributed|Musician
 https://github.com/ArsaLearn/Arsa-Main.git|Contributed|ArsaLearn
 https://github.com/neroroxxx/BMC.git|Contributed|BMC
 https://github.com/bitbank2/TIFF_G4.git|Contributed|TIFF_G4
-https://github.com/akkoyun/GE910.git|Contributed|Telit GE910 GSM Library
 https://github.com/khoih-prog/NTPClient_Generic.git|Contributed|NTPClient_Generic
 https://github.com/adafruit/Adafruit_EMC2101.git|Contributed|Adafruit EMC2101
 https://github.com/xreef/PCF8575_library.git|Contributed|PCF8575 library
@@ -3541,7 +3540,6 @@ https://github.com/GerLech/LG_Matrix_Print.git|Contributed|LG_Matrix_Print
 https://github.com/khoih-prog/Teensy_TimerInterrupt.git|Contributed|Teensy_TimerInterrupt
 https://github.com/lexus2k/tinyhal.git|Contributed|tinyhal
 https://github.com/m5stack/M5-CoreInk.git|Contributed|M5-CoreInk
-https://github.com/akkoyun/LinearRegression.git|Contributed|LinearRegression
 https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerInterrupt
 https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
 https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library.git|Contributed|SparkFun ADXL313 Arduino Library
@@ -4163,7 +4161,6 @@ https://github.com/mandulaj/PZEM-004T-v30.git|Contributed|PZEM004Tv30
 https://github.com/Silver-Fang/Low-level-quick-digital-IO.git|Contributed|Low level quick digital IO
 https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01.git|Contributed|AsyncWebServer_WT32_ETH01
 https://github.com/akkoyun/Statistical.git|Contributed|Statistical
-https://github.com/akkoyun/Battery.git|Contributed|Battery
 https://github.com/aikopras/RSbus.git|Contributed|RSbus
 https://github.com/lbussy/mDNSResolver.git|Contributed|mDNSResolver
 https://github.com/ciniml/WireGuard-ESP32-Arduino.git|Contributed|WireGuard-ESP32
@@ -4173,8 +4170,6 @@ https://github.com/u-fire/Mod-pH.git|Contributed|Microfire_Mod-pH
 https://github.com/u-fire/Mod-ORP.git|Contributed|Microfire_Mod-ORP
 https://github.com/filoconnesso/Tweakly.git|Contributed|Tweakly
 https://github.com/Infineon/arduino-multi-half-bridge.git|Contributed|multi-half-bridge
-https://github.com/akkoyun/B100AA.git|Contributed|B100AA
-https://github.com/akkoyun/B902AA.git|Contributed|B902AA
 https://github.com/lequan81/vn_lunar.git|Contributed|vn_lunar
 https://github.com/SergeSkor/SSVTimer.git|Contributed|SSVTimer
 https://github.com/bigsmalloverall/SimpleTaskManager.git|Contributed|SimpleTaskManager
