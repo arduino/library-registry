@@ -3517,7 +3517,6 @@ https://github.com/dualB/Musician.git|Contributed|Musician
 https://github.com/ArsaLearn/Arsa-Main.git|Contributed|ArsaLearn
 https://github.com/neroroxxx/BMC.git|Contributed|BMC
 https://github.com/bitbank2/TIFF_G4.git|Contributed|TIFF_G4
-https://github.com/akkoyun/GE910.git|Contributed|Telit GE910 GSM Library
 https://github.com/khoih-prog/NTPClient_Generic.git|Contributed|NTPClient_Generic
 https://github.com/adafruit/Adafruit_EMC2101.git|Contributed|Adafruit EMC2101
 https://github.com/xreef/PCF8575_library.git|Contributed|PCF8575 library
@@ -3541,7 +3540,6 @@ https://github.com/GerLech/LG_Matrix_Print.git|Contributed|LG_Matrix_Print
 https://github.com/khoih-prog/Teensy_TimerInterrupt.git|Contributed|Teensy_TimerInterrupt
 https://github.com/lexus2k/tinyhal.git|Contributed|tinyhal
 https://github.com/m5stack/M5-CoreInk.git|Contributed|M5-CoreInk
-https://github.com/akkoyun/LinearRegression.git|Contributed|LinearRegression
 https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerInterrupt
 https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
 https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library.git|Contributed|SparkFun ADXL313 Arduino Library
@@ -4163,7 +4161,6 @@ https://github.com/mandulaj/PZEM-004T-v30.git|Contributed|PZEM004Tv30
 https://github.com/Silver-Fang/Low-level-quick-digital-IO.git|Contributed|Low level quick digital IO
 https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01.git|Contributed|AsyncWebServer_WT32_ETH01
 https://github.com/akkoyun/Statistical.git|Contributed|Statistical
-https://github.com/akkoyun/Battery.git|Contributed|Battery
 https://github.com/aikopras/RSbus.git|Contributed|RSbus
 https://github.com/lbussy/mDNSResolver.git|Contributed|mDNSResolver
 https://github.com/ciniml/WireGuard-ESP32-Arduino.git|Contributed|WireGuard-ESP32
@@ -4173,8 +4170,6 @@ https://github.com/u-fire/Mod-pH.git|Contributed|Microfire_Mod-pH
 https://github.com/u-fire/Mod-ORP.git|Contributed|Microfire_Mod-ORP
 https://github.com/filoconnesso/Tweakly.git|Contributed|Tweakly
 https://github.com/Infineon/arduino-multi-half-bridge.git|Contributed|multi-half-bridge
-https://github.com/akkoyun/B100AA.git|Contributed|B100AA
-https://github.com/akkoyun/B902AA.git|Contributed|B902AA
 https://github.com/lequan81/vn_lunar.git|Contributed|vn_lunar
 https://github.com/SergeSkor/SSVTimer.git|Contributed|SSVTimer
 https://github.com/bigsmalloverall/SimpleTaskManager.git|Contributed|SimpleTaskManager
@@ -4742,7 +4737,7 @@ https://github.com/EmotiBit/EmotiBit_ADS1X15.git|Contributed|EmotiBit ADS1X15
 https://github.com/khoih-prog/MBED_RP2040_PWM.git|Contributed|MBED_RP2040_PWM
 https://github.com/cyijun/HAMqttDiscoveryHandler.git|Contributed|HAMqttDiscoveryHandler
 https://github.com/akkoyun/MAX78630.git|Contributed|MAX78630
-https://github.com/akkoyun/I2C_Functions.git|Contributed|Generic I2C Functions
+https://github.com/akkoyun/I2C_Functions.git|Contributed|I2C_Functions
 https://github.com/DFRobot/DFRobot_BMP280.git|Contributed|DFRobot_BMP280
 https://github.com/DFRobot/DFRobot_DHT11.git|Contributed|DFRobot_DHT11
 https://bitbucket.org/David_Such/nexgen_timer.git|Contributed|NexgenTimer
@@ -4763,7 +4758,7 @@ https://github.com/DFRobot/DFRobot_BME680.git|Contributed|DFRobot_BME680
 https://github.com/DFRobot/DFRobot_SIM808.git|Contributed|DFRobot_SIM808
 https://github.com/DFRobot/DFRobot_HX711_I2C.git|Contributed|DFRobot_HX711_I2C
 https://github.com/DFRobot/DFRobot_LWLP.git|Contributed|DFRobot_LWLP
-https://github.com/akkoyun/Console.git|Contributed|VT100_Console
+https://github.com/akkoyun/Console.git|Contributed|Console
 https://github.com/MakerLabCRI/Max86141.git|Contributed|Max86141
 https://github.com/justcallmekoko/SwitchLib.git|Contributed|SwitchLib
 https://github.com/MClarkDev/BleepingLibrary.git|Contributed|Bleeping Library
@@ -4783,7 +4778,7 @@ https://github.com/akkoyun/I2C_Scanner.git|Contributed|I2C_Scanner
 https://github.com/DFRobot/DFRobot_PH.git|Contributed|DFRobot_PH
 https://github.com/DFRobot/DFRobot_BC20_Gravity.git|Contributed|DFRobot_BC20_Gravity
 https://github.com/skathir38/Rotary.git|Contributed|Rotary
-https://github.com/akkoyun/dWin_Arduino.git|Contributed|Dwin HMI LCD Screen Library
+https://github.com/akkoyun/dWin.git|Contributed|dWin
 https://github.com/stm32duino/ISM330DHCX.git|Contributed|STM32duino ISM330DHCX
 https://github.com/bitbank2/SLIC.git|Contributed|SLIC
 https://github.com/vChavezB/SimpleJ1939.git|Contributed|SimpleJ1939
@@ -4795,3 +4790,22 @@ https://github.com/stm32duino/X-NUCLEO-IKS02A1.git|Contributed|STM32duino X-NUCL
 https://github.com/ArmDeveloperEcosystem/DA16200-WiFi-Library-for-Arduino.git|Contributed|DA16200 Wi-Fi Library for Arduino
 https://github.com/DFRobot/DFRobot_ADS1115.git|Contributed|DFRobot_ADS1115
 https://github.com/DFRobot/DFRobot_SerialScreen771.git|Contributed|DFRobot_SerialScreen771
+https://github.com/EngineeringRoom/Engineer_EasyEEPROM.git|Contributed|Engineer EasyEEPROM
+https://github.com/shurik179/pov-library.git|Contributed|POV library
+https://github.com/RobTillaart/GST.git|Contributed|GST
+https://github.com/xiangfuli/Arduino-L298NDriver.git|Contributed|L298NDriver
+https://github.com/MaiTheLord/BetterOTA.git|Contributed|BetterOTA
+https://github.com/sichel94/GUVB-C31SM.git|Contributed|GUVB-C31SM
+https://github.com/pixetto/PixettoLite.git|Contributed|PixettoLite
+https://github.com/centaq/arduino-modbus-slave-rtu-over-rs485.git|Contributed|ModBusSlave
+https://github.com/centaq/arduino-simple-timers.git|Contributed|Timers
+https://github.com/centaq/arduino-async-sms.git|Contributed|AsyncSMS
+https://github.com/DFRobot/DFRobot_AHT20.git|Contributed|DFRobot_AHT20
+https://github.com/DFRobot/DFRobot_RS01.git|Contributed|DFRobot_RS01
+https://github.com/DFRobot/DFRobot_ASR.git|Contributed|DFRobot_ASR
+https://github.com/DFRobot/DFRobot_HX711.git|Contributed|DFRobot_HX711
+https://github.com/DFRobot/DFRobot_BMI160.git|Contributed|DFRobot_BMI160
+https://github.com/DFRobot/DFRobot_MAX17043.git|Contributed|DFRobot_MAX17043
+https://github.com/akkoyun/MAX17055.git|Contributed|MAX17055
+https://github.com/hsfl/artemis-teensy.git|Contributed|artemis-teensy
+https://github.com/ekkai/kocoafabLib.git|Contributed|KOCOAFAB
