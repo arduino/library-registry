@@ -4809,3 +4809,4 @@ https://github.com/DFRobot/DFRobot_MAX17043.git|Contributed|DFRobot_MAX17043
 https://github.com/akkoyun/MAX17055.git|Contributed|MAX17055
 https://github.com/hsfl/artemis-teensy.git|Contributed|artemis-teensy
 https://github.com/ekkai/kocoafabLib.git|Contributed|KOCOAFAB
+https://github.com/plageoj/urlencode.git|Contributed|UrlEncode
