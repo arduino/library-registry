@@ -4811,3 +4811,4 @@ https://github.com/hsfl/artemis-teensy.git|Contributed|artemis-teensy
 https://github.com/ekkai/kocoafabLib.git|Contributed|KOCOAFAB
 https://github.com/plageoj/urlencode.git|Contributed|UrlEncode
 https://github.com/InqOnThat/InqPortal.git|Contributed|InqPortal
+https://github.com/shnam7/ardukit.git|Contributed|ardukit
