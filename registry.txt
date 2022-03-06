@@ -3163,7 +3163,7 @@ https://github.com/RobTillaart/PinInGroup.git|Contributed|PinInGroup
 https://github.com/LeandroLimaPRO/Pressure.git|Contributed|PressureNXPMXP
 https://github.com/claws/BH1750.git|Contributed|BH1750
 https://github.com/lesterlo/Notched-Shaft-Encoder.git|Contributed|Notched Shaft Encoder
-https://github.com/fabiuz7/melody-player-arduino.git|Contributed|Melody Player
+https://github.com/fabianoriccardi/melody-player.git|Contributed|Melody Player
 https://github.com/adafruit/Adafruit_SH110x.git|Contributed|Adafruit SH110X
 https://github.com/lebuni/ZACwire-Library.git|Contributed|ZACwire for TSic
 https://github.com/RobTillaart/PCA9635.git|Contributed|PCA9635
