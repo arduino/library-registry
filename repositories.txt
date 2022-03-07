@@ -1,4 +1,3 @@
-https://github.com/bheesma-10/mcp23017-arduino
 https://github.com/hsfl/artemis-teensy
 https://github.com/MaiTheLord/BetterOTA
 https://github.com/shurik179/pov-library
@@ -105,6 +104,7 @@ https://github.com/DFRobot/DFRobot_DS323X
 https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/DFRobot/DFRobot_VEML7700
+https://github.com/bheesma-10/mcp23017-arduino
 https://github.com/DFRobot/DFRobot_A111
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder
 https://github.com/DFRobot/DFRobot_ENS160
