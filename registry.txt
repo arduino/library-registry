@@ -4815,3 +4815,4 @@ https://github.com/shnam7/ardukit.git|Contributed|ardukit
 https://github.com/bheesma-10/mcp23017-arduino.git|Contributed|MCP23017_I2C
 https://github.com/InfiniteCoder01/BufferedOreonSSD1351.git|Contributed|Buffered Oreon SSD1351
 https://github.com/sichel94/pseudospectrum.git|Contributed|pseudospectrum
+https://github.com/centaq/arduino-async-bmp180wrapper.git|Contributed|AsyncBMP180Wrapper
