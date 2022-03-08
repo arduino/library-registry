@@ -1,3 +1,4 @@
+https://github.com/bheesma-10/MCP23008_I2C
 https://github.com/hsfl/artemis-teensy
 https://github.com/MaiTheLord/BetterOTA
 https://github.com/shurik179/pov-library
