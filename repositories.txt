@@ -1,4 +1,6 @@
+https://github.com/hsfl/artemis-teensy
 https://github.com/MaiTheLord/BetterOTA
+https://github.com/InfiniteCoder01/BufferedOreonSSD1351
 https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
@@ -103,6 +105,7 @@ https://github.com/DFRobot/DFRobot_DS323X
 https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/DFRobot/DFRobot_VEML7700
+https://github.com/bheesma-10/mcp23017-arduino
 https://github.com/DFRobot/DFRobot_A111
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder
 https://github.com/DFRobot/DFRobot_ENS160
@@ -145,6 +148,12 @@ https://github.com/DFRobot/DFRobot_PH
 https://github.com/DFRobot/DFRobot_BC20_Gravity
 https://github.com/DFRobot/DFRobot_ADS1115
 https://github.com/DFRobot/DFRobot_SerialScreen771
+https://github.com/DFRobot/DFRobot_AHT20
+https://github.com/DFRobot/DFRobot_RS01
+https://github.com/DFRobot/DFRobot_ASR
+https://github.com/DFRobot/DFRobot_HX711
+https://github.com/DFRobot/DFRobot_BMI160
+https://github.com/DFRobot/DFRobot_MAX17043
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -545,8 +554,6 @@ https://github.com/akafugu/TWILiquidCrystalLibrary
 https://github.com/akafugu/WireRtcLibrary
 https://github.com/AKJ7/TM1637
 https://github.com/akkoyun/Environment
-https://github.com/akkoyun/GE910
-https://github.com/akkoyun/LinearRegression
 https://github.com/akvavit01/MissionList
 https://github.com/Alex079/TinySuite
 https://github.com/AlexanderLL95/SerialUtil
@@ -1155,7 +1162,7 @@ https://github.com/cvmanjoo/RTC
 https://github.com/cygig/SDConfigCommand
 https://github.com/cygig/SerialConfigCommand
 https://github.com/cygig/TimerEvent
-https://github.com/dbsqwerty123/CytronPikaBot
+https://github.com/8059blank/CytronPikaBot
 https://github.com/CytronTechnologies/Cytron_MP3Shield
 https://github.com/CytronTechnologies/Cytron_Servo_Shield_Library
 https://github.com/CytronTechnologies/Cytron_Shield3AMotor
@@ -2873,6 +2880,7 @@ https://github.com/pixetto/Pixetto
 https://github.com/pkerspe/ESP-FlexyStepper
 https://github.com/pkerspe/ESP-StepperMotor-Server
 https://github.com/pkoerber/SMA-SunnyBoy-Reader
+https://github.com/plageoj/urlencode
 https://github.com/planetk/ArduinoFritzApi
 https://github.com/plapointe6/EspHtmlTemplateProcessor
 https://github.com/plapointe6/EspMQTTClient
@@ -4395,12 +4403,9 @@ https://github.com/mandulaj/PZEM-004T-v30/
 https://github.com/Silver-Fang/Low-level-quick-digital-IO
 https://github.com/khoih-prog/AsyncWebServer_WT32_ETH01
 https://github.com/akkoyun/Statistical
-https://github.com/akkoyun/Battery
 https://github.com/ciniml/WireGuard-ESP32-Arduino
 https://github.com/SergeSkor/SSVRGBGradientCalc
 https://github.com/filoconnesso/Tweakly
-https://github.com/akkoyun/B100AA
-https://github.com/akkoyun/B902AA
 https://github.com/lequan81/vn_lunar
 https://github.com/SergeSkor/SSVTimer
 https://github.com/careyi3/MovingAverage
@@ -4690,7 +4695,7 @@ https://github.com/fellipecouto/MillisTimerLib
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/akkoyun/Console
 https://github.com/akkoyun/I2C_Scanner
-https://github.com/akkoyun/dWin_Arduino
+https://github.com/akkoyun/dWin
 https://github.com/stm32duino/ISM330DHCX
 https://github.com/bitbank2/SLIC
 https://github.com/vChavezB/SimpleJ1939
@@ -4702,7 +4707,15 @@ https://github.com/stm32duino/X-NUCLEO-IKS02A1
 https://github.com/ArmDeveloperEcosystem/DA16200-WiFi-Library-for-Arduino
 https://github.com/xiangfuli/Arduino-L298NDriver
 https://github.com/sichel94/GUVB-C31SM
+https://github.com/sichel94/pseudospectrum
 https://github.com/pixetto/PixettoLite
 https://github.com/centaq/arduino-modbus-slave-rtu-over-rs485
 https://github.com/centaq/arduino-simple-timers
 https://github.com/centaq/arduino-async-sms
+https://github.com/akkoyun/MAX17055
+https://github.com/ekkai/kocoafabLib
+https://github.com/InqOnThat/InqPortal
+https://github.com/shnam7/ardukit
+https://github.com/centaq/arduino-async-bmp180wrapper
+https://github.com/centaq/arduino-led-driver
+https://github.com/akkoyun/RV3028
