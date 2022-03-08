@@ -1,6 +1,7 @@
 https://github.com/bheesma-10/MCP23008_I2C
 https://github.com/hsfl/artemis-teensy
 https://github.com/MaiTheLord/BetterOTA
+https://github.com/InfiniteCoder01/BufferedOreonSSD1351
 https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
@@ -3095,6 +3096,8 @@ https://github.com/RAKWireless/RAK12019_LTR390
 https://github.com/RAKWireless/RAK14012-LED-Matrix
 https://github.com/RAKWireless/RAK12021-TCS37725
 https://github.com/RAKWireless/RAK12025-I3G4250D
+https://github.com/RAKWireless/RAK12029-LDC1614
+https://github.com/RAKWireless/RAK13800-W5100S
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/sdutek/sducar
@@ -4707,6 +4710,7 @@ https://github.com/stm32duino/X-NUCLEO-IKS02A1
 https://github.com/ArmDeveloperEcosystem/DA16200-WiFi-Library-for-Arduino
 https://github.com/xiangfuli/Arduino-L298NDriver
 https://github.com/sichel94/GUVB-C31SM
+https://github.com/sichel94/pseudospectrum
 https://github.com/pixetto/PixettoLite
 https://github.com/centaq/arduino-modbus-slave-rtu-over-rs485
 https://github.com/centaq/arduino-simple-timers
@@ -4715,3 +4719,6 @@ https://github.com/akkoyun/MAX17055
 https://github.com/ekkai/kocoafabLib
 https://github.com/InqOnThat/InqPortal
 https://github.com/shnam7/ardukit
+https://github.com/centaq/arduino-async-bmp180wrapper
+https://github.com/centaq/arduino-led-driver
+https://github.com/akkoyun/RV3028
