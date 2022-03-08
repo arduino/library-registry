@@ -4817,3 +4817,4 @@ https://github.com/InfiniteCoder01/BufferedOreonSSD1351.git|Contributed|Buffered
 https://github.com/sichel94/pseudospectrum.git|Contributed|pseudospectrum
 https://github.com/centaq/arduino-async-bmp180wrapper.git|Contributed|AsyncBMP180Wrapper
 https://github.com/centaq/arduino-led-driver.git|Contributed|LEDDriver
+https://github.com/akkoyun/RV3028.git|Contributed|RV3028
