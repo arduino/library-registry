@@ -4820,3 +4820,4 @@ https://github.com/centaq/arduino-led-driver.git|Contributed|LEDDriver
 https://github.com/akkoyun/RV3028.git|Contributed|RV3028
 https://github.com/RAKWireless/RAK12029-LDC1614.git|Contributed|RAK12029-LDC1614
 https://github.com/RAKWireless/RAK13800-W5100S.git|Contributed|RAK13800_W5100S
+https://github.com/bheesma-10/MCP23008_I2C.git|Contributed|MCP23008_I2C
