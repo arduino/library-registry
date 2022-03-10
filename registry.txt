@@ -4823,3 +4823,4 @@ https://github.com/RAKWireless/RAK13800-W5100S.git|Contributed|RAK13800_W5100S
 https://github.com/bheesma-10/MCP23008_I2C.git|Contributed|MCP23008_I2C
 https://github.com/gianni-carbone/STM32encoder.git|Contributed|STM32encoder
 https://github.com/pierremolinaro/acanfd-feather-m4-can.git|Contributed|ACANFD_FeatherM4CAN
+https://github.com/Bobingstern/MicroFlow.git|Contributed|MicroFlow
