@@ -4729,3 +4729,4 @@ https://github.com/centaq/arduino-led-driver
 https://github.com/akkoyun/RV3028
 https://github.com/BeanieBob/GY26Compass
 https://github.com/khoih-prog/AsyncMQTT_Generic
+https://github.com/xreef/EByte_LoRa_E220_Series_Library
