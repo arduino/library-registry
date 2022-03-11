@@ -1411,9 +1411,9 @@ https://github.com/exosite-garage/arduino_exosite_library
 https://github.com/F4GOJ/AD9850SPI
 https://github.com/fabianofranca/ESP8266RestClient
 https://github.com/fabiopjve/ULWOS2
-https://github.com/fabiuz7/Dimmable-Light-Arduino
-https://github.com/fabiuz7/esp-logger-lib
-https://github.com/fabiuz7/melody-player-arduino
+https://github.com/fabianoriccardi/dimmable-light
+https://github.com/fabianoriccardi/esp-logger
+https://github.com/fabianoriccardi/melody-player
 https://github.com/fabianoriccardi/rtcmemory
 https://github.com/fablab-bayreuth/WTV020SD16P
 https://github.com/FaBoPlatform/FaBo3Axis-ADXL345-Library
