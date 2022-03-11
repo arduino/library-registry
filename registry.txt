@@ -1962,7 +1962,7 @@ https://github.com/witnessmenow/arduino_twitch_api.git|Contributed|TwitchApi
 https://github.com/adafruit/TinyLoRa.git|Contributed|TinyLoRa
 https://github.com/FaBoPlatform/FaBoUV-Si1132-Library.git|Contributed|FaBo 206 UV Si1132
 https://github.com/FaBoPlatform/FaBoEnvironment-BME680-Library.git|Contributed|FaBo 222 Environment BME680
-https://github.com/fabiuz7/esp-logger-lib.git|Contributed|ESP Logger
+https://github.com/fabianoriccardi/esp-logger.git|Contributed|ESP Logger
 https://github.com/madhephaestus/PVision.git|Contributed|PVision
 https://github.com/FaBoPlatform/FaBoGas-CCS811-Library.git|Contributed|FaBo 223 Gas CCS811
 https://github.com/LUXROBO/MODI-Arduino.git|Contributed|MODI
@@ -2064,7 +2064,7 @@ https://github.com/RobotCing/Atmega328_IO.git|Contributed|Atmega328_IO
 https://github.com/FaBoPlatform/FaBoGPIO40-PCA9698-Library.git|Contributed|FaBo GPIO40 PCA9698
 https://github.com/ArminJo/Talkie.git|Contributed|Talkie
 https://bitbucket.org/christandlg/bmx280mi.git|Contributed|BMx280MI
-https://github.com/fabiuz7/Dimmable-Light-Arduino.git|Contributed|Dimmable Light for Arduino
+https://github.com/fabianoriccardi/dimmable-light.git|Contributed|Dimmable Light for Arduino
 https://github.com/jmparatte/jm_PCF8574.git|Contributed|jm_PCF8574
 https://github.com/blemasle/arduino-sim808.git|Contributed|SIM808
 https://github.com/hideakitai/XBeeATCmds.git|Contributed|XBeeATCmds
@@ -3163,7 +3163,7 @@ https://github.com/RobTillaart/PinInGroup.git|Contributed|PinInGroup
 https://github.com/LeandroLimaPRO/Pressure.git|Contributed|PressureNXPMXP
 https://github.com/claws/BH1750.git|Contributed|BH1750
 https://github.com/lesterlo/Notched-Shaft-Encoder.git|Contributed|Notched Shaft Encoder
-https://github.com/fabiuz7/melody-player-arduino.git|Contributed|Melody Player
+https://github.com/fabianoriccardi/melody-player.git|Contributed|Melody Player
 https://github.com/adafruit/Adafruit_SH110x.git|Contributed|Adafruit SH110X
 https://github.com/lebuni/ZACwire-Library.git|Contributed|ZACwire for TSic
 https://github.com/RobTillaart/PCA9635.git|Contributed|PCA9635
