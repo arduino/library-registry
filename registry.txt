@@ -4825,3 +4825,4 @@ https://github.com/gianni-carbone/STM32encoder.git|Contributed|STM32encoder
 https://github.com/pierremolinaro/acanfd-feather-m4-can.git|Contributed|ACANFD_FeatherM4CAN
 https://github.com/Bobingstern/MicroFlow.git|Contributed|MicroFlow
 https://github.com/RobTillaart/DEVFULL.git|Contributed|DEVFULL
+https://github.com/BeanieBob/GY26Compass.git|Contributed|GY26Compass
