@@ -4827,3 +4827,4 @@ https://github.com/Bobingstern/MicroFlow.git|Contributed|MicroFlow
 https://github.com/RobTillaart/DEVFULL.git|Contributed|DEVFULL
 https://github.com/BeanieBob/GY26Compass.git|Contributed|GY26Compass
 https://github.com/kousheekc/Kinematics.git|Contributed|Kinematics
+https://github.com/khoih-prog/AsyncMQTT_Generic.git|Contributed|AsyncMQTT_Generic
