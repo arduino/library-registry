@@ -4828,3 +4828,4 @@ https://github.com/RobTillaart/DEVFULL.git|Contributed|DEVFULL
 https://github.com/BeanieBob/GY26Compass.git|Contributed|GY26Compass
 https://github.com/kousheekc/Kinematics.git|Contributed|Kinematics
 https://github.com/khoih-prog/AsyncMQTT_Generic.git|Contributed|AsyncMQTT_Generic
+https://github.com/xreef/EByte_LoRa_E220_Series_Library.git|Contributed|EByte LoRa E220 library
