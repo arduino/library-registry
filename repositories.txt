@@ -1,3 +1,4 @@
+https://github.com/kousheekc/Kinematics
 https://github.com/Bobingstern/MicroFlow
 https://github.com/gianni-carbone/STM32encoder
 https://github.com/bheesma-10/MCP23008_I2C
