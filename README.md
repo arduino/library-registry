@@ -1,7 +1,7 @@
 # Arduino Library Manager list
 
 This repository contains the list of libraries in the
-[Arduino Library Manager](https://www.arduino.cc/en/guide/libraries#toc3) index.
+[Arduino Library Manager](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager) index.
 
 ## Table of Contents
 

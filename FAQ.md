@@ -43,7 +43,7 @@ When a library is [added to the library list](README.md#adding-a-library-to-libr
 
 More information:
 
-- https://www.arduino.cc/en/Guide/Libraries#toc3
+- https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager
 - https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/
 - https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a
 
