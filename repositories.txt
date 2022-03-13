@@ -1,4 +1,7 @@
 https://github.com/gianni-carbone/STM32ad9833
+https://github.com/kousheekc/Kinematics
+https://github.com/Bobingstern/MicroFlow
+https://github.com/gianni-carbone/STM32encoder
 https://github.com/bheesma-10/MCP23008_I2C
 https://github.com/hsfl/artemis-teensy
 https://github.com/MaiTheLord/BetterOTA
@@ -1410,9 +1413,9 @@ https://github.com/exosite-garage/arduino_exosite_library
 https://github.com/F4GOJ/AD9850SPI
 https://github.com/fabianofranca/ESP8266RestClient
 https://github.com/fabiopjve/ULWOS2
-https://github.com/fabiuz7/Dimmable-Light-Arduino
-https://github.com/fabiuz7/esp-logger-lib
-https://github.com/fabiuz7/melody-player-arduino
+https://github.com/fabianoriccardi/dimmable-light
+https://github.com/fabianoriccardi/esp-logger
+https://github.com/fabianoriccardi/melody-player
 https://github.com/fabianoriccardi/rtcmemory
 https://github.com/fablab-bayreuth/WTV020SD16P
 https://github.com/FaBoPlatform/FaBo3Axis-ADXL345-Library
@@ -2868,6 +2871,7 @@ https://github.com/pierremolinaro/acan2515
 https://github.com/pierremolinaro/acan2515Tiny
 https://github.com/pierremolinaro/acan2517
 https://github.com/pierremolinaro/acan2517FD
+https://github.com/pierremolinaro/acanfd-feather-m4-can
 https://github.com/pilotak/Hysteresis
 https://github.com/pilotak/LPS35HW
 https://github.com/pilotak/MCP3X21
@@ -3206,6 +3210,7 @@ https://github.com/RobTillaart/DAC8550
 https://github.com/RobTillaart/DAC8551
 https://github.com/RobTillaart/DAC8552
 https://github.com/RobTillaart/DAC8554
+https://github.com/RobTillaart/DEVFULL
 https://github.com/RobTillaart/DEVNULL
 https://github.com/RobTillaart/DEVRANDOM
 https://github.com/RobTillaart/DHT12
@@ -4723,3 +4728,6 @@ https://github.com/shnam7/ardukit
 https://github.com/centaq/arduino-async-bmp180wrapper
 https://github.com/centaq/arduino-led-driver
 https://github.com/akkoyun/RV3028
+https://github.com/BeanieBob/GY26Compass
+https://github.com/khoih-prog/AsyncMQTT_Generic
+https://github.com/xreef/EByte_LoRa_E220_Series_Library
