@@ -192,6 +192,7 @@ https://github.com/m5stack/UNIT_KMeter
 https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5_RoverC
 https://github.com/m5stack/M5_JoyC
+https://github.com/m5stack/M5_IP5209
 https://github.com/m5stack/UNIT_UHF_RFID
 https://github.com/m5stack/DEMO-BOARD
 https://github.com/m5stack/ATOM_DTU_CAT1
