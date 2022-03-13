@@ -1,3 +1,4 @@
+https://github.com/gianni-carbone/STM32ad9833
 https://github.com/kousheekc/Kinematics
 https://github.com/Bobingstern/MicroFlow
 https://github.com/gianni-carbone/STM32encoder
