@@ -2142,7 +2142,7 @@ https://github.com/koendv/SerialWireOutput
 https://github.com/koendv/STM32duino-Semihosting
 https://github.com/koendv/Arduino-RTTStream
 https://github.com/Kongduino/LoRandom
-https://github.com/KONNEKTING/KonnektingDeviceLibrary
+https://gitlab.com/konnekting/KonnektingDeviceLibrary
 https://github.com/kontakt/MAX30100
 https://github.com/KorneliusThomas/PIDcontrollersModularProfessional
 https://github.com/kosme/arduinoFFT
