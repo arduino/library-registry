@@ -619,7 +619,7 @@ https://github.com/rlogiacco/BatterySense.git|Contributed|Battery Sense
 https://github.com/pagongamedev/PagonGameDev_GameLoop.git|Contributed|PagonGameDev GameLoop
 https://github.com/FaBoPlatform/FaBoHumidity-HTS221-Library.git|Contributed|FaBo 208 Humidity HTS221
 https://github.com/netpieio/microgear-esp8266-arduino.git|Contributed|ESP8266 Microgear
-https://github.com/KONNEKTING/KonnektingDeviceLibrary.git|Contributed|KONNEKTING Device Library
+https://gitlab.com/konnekting/KonnektingDeviceLibrary.git|Contributed|KONNEKTING Device Library
 https://github.com/CytronTechnologies/CytronWiFiShield.git|Contributed|Cytron ESPWiFi Shield
 https://github.com/MHeeres/DataServeriOS.git|Contributed|DataServeriOS
 https://github.com/arsalmaner/Arduino-Libraries.git|Contributed|RGB_LED
