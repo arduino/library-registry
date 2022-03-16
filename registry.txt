@@ -4833,3 +4833,4 @@ https://github.com/gianni-carbone/STM32ad9833.git|Contributed|STM32ad9833
 https://github.com/m5stack/M5_IP5209.git|Contributed|M5_IP5209
 https://github.com/neosarchizo/cb-hcho-v4.git|Contributed|CB-HCHO-V4
 https://github.com/felias-fogg/TXOnlySerial.git|Contributed|TXOnlySerial
+https://github.com/felias-fogg/SingleWireSerial.git|Contributed|SingleWireSerial
