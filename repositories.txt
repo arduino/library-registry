@@ -3155,6 +3155,7 @@ https://github.com/Robertndrei/SCD30-Modbus
 https://github.com/robgmsn/PureDigit
 https://github.com/RoboCore/RoboCore_MMA8452Q
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0
+https://github.com/RoboCore/RoboCore_SMW-SX1262M0
 https://github.com/RoboCore/SerialRelay
 https://github.com/robojay/_2020Bot_Library
 https://github.com/Robokishan/Arduino-Scheduler
