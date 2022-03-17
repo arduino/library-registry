@@ -2874,6 +2874,7 @@ https://github.com/pierremolinaro/acan2515Tiny
 https://github.com/pierremolinaro/acan2517
 https://github.com/pierremolinaro/acan2517FD
 https://github.com/pierremolinaro/acanfd-feather-m4-can
+https://github.com/pierremolinaro/acan-stm32
 https://github.com/pilotak/Hysteresis
 https://github.com/pilotak/LPS35HW
 https://github.com/pilotak/MCP3X21
