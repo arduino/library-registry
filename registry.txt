@@ -4835,3 +4835,4 @@ https://github.com/neosarchizo/cb-hcho-v4.git|Contributed|CB-HCHO-V4
 https://github.com/felias-fogg/TXOnlySerial.git|Contributed|TXOnlySerial
 https://github.com/felias-fogg/SingleWireSerial.git|Contributed|SingleWireSerial
 https://github.com/hideakitai/PCA95x5.git|Contributed|PCA95x5
+https://github.com/pierremolinaro/acan-stm32.git|Contributed|ACAN_STM32
