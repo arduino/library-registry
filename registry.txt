@@ -4842,3 +4842,4 @@ https://github.com/khoih-prog/Teensy41_AsyncTCP.git|Contributed|Teensy41_AsyncTC
 https://github.com/wollewald/EEPROM_SPI_WE.git|Contributed|EEPROM_SPI_WE
 https://github.com/stm32duino/VL53L4CX.git|Contributed|STM32duino VL53L4CX
 https://github.com/stm32duino/X-NUCLEO-53L4A2.git|Contributed|STM32duino X-NUCLEO-53L4A2
+https://github.com/khoih-prog/AsyncWebServer_Teensy41.git|Contributed|AsyncWebServer_Teensy41
