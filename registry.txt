@@ -4839,3 +4839,4 @@ https://github.com/pierremolinaro/acan-stm32.git|Contributed|ACAN_STM32
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0.git|Contributed|RoboCore - SMW_SX1262M0
 https://github.com/vChavezB/qpcpp_esp32.git|Contributed|QPESP32
 https://github.com/khoih-prog/Teensy41_AsyncTCP.git|Contributed|Teensy41_AsyncTCP
+https://github.com/wollewald/EEPROM_SPI_WE.git|Contributed|EEPROM_SPI_WE
