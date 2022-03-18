@@ -4837,3 +4837,4 @@ https://github.com/felias-fogg/SingleWireSerial.git|Contributed|SingleWireSerial
 https://github.com/hideakitai/PCA95x5.git|Contributed|PCA95x5
 https://github.com/pierremolinaro/acan-stm32.git|Contributed|ACAN_STM32
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0.git|Contributed|RoboCore - SMW_SX1262M0
+https://github.com/vChavezB/qpcpp_esp32.git|Contributed|QPESP32
