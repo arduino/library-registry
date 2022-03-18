@@ -4738,3 +4738,4 @@ https://github.com/xreef/EByte_LoRa_E220_Series_Library
 https://github.com/neosarchizo/cb-hcho-v4
 https://github.com/felias-fogg/TXOnlySerial
 https://github.com/felias-fogg/SingleWireSerial
+https://github.com/vChavezB/qpcpp_esp32
