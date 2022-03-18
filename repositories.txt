@@ -4744,3 +4744,4 @@ https://github.com/khoih-prog/Teensy41_AsyncTCP
 https://github.com/stm32duino/VL53L4CX.git
 https://github.com/stm32duino/X-NUCLEO-53L4A2.git
 https://github.com/khoih-prog/AsyncWebServer_Teensy41
+https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41
