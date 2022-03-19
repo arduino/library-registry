@@ -4847,3 +4847,4 @@ https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41.git|Contributed|AsyncHTT
 https://github.com/khoih-prog/AsyncUDP_Teensy41.git|Contributed|AsyncUDP_Teensy41
 https://github.com/ftjuh/AccelStepperI2C.git|Contributed|AccelStepperI2C
 https://github.com/mcci-catena/MCCI-Catena-PMS7003.git|Contributed|MCCI-Catena-PMS7003
+https://github.com/mcci-catena/MCCI-Catena-SHT3x.git|Contributed|MCCI-Catena-SHT3x
