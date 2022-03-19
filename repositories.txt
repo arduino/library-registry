@@ -2494,6 +2494,7 @@ https://github.com/mcci-catena/arduino-lorawan
 https://github.com/mcci-catena/Catena-Arduino-Platform
 https://github.com/mcci-catena/Catena-mcciadk
 https://github.com/mcci-catena/MCCI-Catena-PMS7003
+https://github.com/mcci-catena/MCCI-Catena-SHT3x
 https://github.com/mcci-catena/MCCI_Catena_SCD30
 https://github.com/mcci-catena/MCCI_Catena_SDP
 https://github.com/mcci-catena/MCCI_FRAM_I2C
