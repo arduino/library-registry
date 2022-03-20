@@ -2126,6 +2126,7 @@ https://github.com/khoih-prog/WIOTerminal_WiFiManager
 https://github.com/kigster/back-seat-driver
 https://github.com/kike-canaries/canairio_sensorlib
 https://github.com/killer0071234/esp_abus
+https://github.com/kimballa/PyArduinoDebug
 https://github.com/Kineis/ArduinoKim
 https://github.com/kingmathers313/FHEM_Arduino
 https://github.com/kiryanenko/SimpleTimer
