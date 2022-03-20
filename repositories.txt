@@ -4749,3 +4749,4 @@ https://github.com/khoih-prog/AsyncWebServer_Teensy41
 https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41
 https://github.com/khoih-prog/AsyncUDP_Teensy41
 https://github.com/ftjuh/AccelStepperI2C
+https://github.com/italia/cie-PN532
