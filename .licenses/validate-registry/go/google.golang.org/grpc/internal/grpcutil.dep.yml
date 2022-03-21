@@ -1,12 +1,12 @@
 ---
-name: google.golang.org/grpc/naming
-version: v1.27.0
+name: google.golang.org/grpc/internal/grpcutil
+version: v1.42.0
 type: go
-summary: Package naming defines the naming API and related data structures for gRPC.
-homepage: https://pkg.go.dev/google.golang.org/grpc/naming
+summary: Package grpcutil provides utility functions used across the gRPC codebase.
+homepage: https://pkg.go.dev/google.golang.org/grpc/internal/grpcutil
 license: apache-2.0
 licenses:
-- sources: grpc@v1.27.0/LICENSE
+- sources: grpc@v1.42.0/LICENSE
   text: |2
 
                                      Apache License
