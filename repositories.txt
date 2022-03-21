@@ -1,3 +1,4 @@
+https://bitbucket.org/David_Such/nexgen_AHRS
 https://github.com/gianni-carbone/STM32mcp4151
 https://github.com/wollewald/EEPROM_SPI_WE
 https://github.com/gianni-carbone/STM32ad9833
