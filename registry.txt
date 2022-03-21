@@ -4852,3 +4852,4 @@ https://github.com/italia/cie-PN532.git|Contributed|CIE-PN532
 https://github.com/kimballa/PyArduinoDebug.git|Contributed|PyArduinoDebug
 https://github.com/gianni-carbone/STM32mcp4151.git|Contributed|STM32mcp4151
 https://bitbucket.org/David_Such/nexgen_AHRS.git|Contributed|NexgenAHRS
+https://github.com/patricklaf/SNMP.git|Contributed|SNMP
