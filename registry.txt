@@ -4855,3 +4855,4 @@ https://bitbucket.org/David_Such/nexgen_AHRS.git|Contributed|NexgenAHRS
 https://github.com/patricklaf/SNMP.git|Contributed|SNMP
 https://gitlab.com/atesin/XxHash_arduino.git|Contributed|XxHash_arduino
 https://github.com/khoih-prog/AsyncDNSServer_Teensy41.git|Contributed|AsyncDNSServer_Teensy41
+https://github.com/DFRobot/DFRobot_SHT.git|Contributed|DFRobot SHT
