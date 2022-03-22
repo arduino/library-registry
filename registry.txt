@@ -4858,3 +4858,4 @@ https://github.com/khoih-prog/AsyncDNSServer_Teensy41.git|Contributed|AsyncDNSSe
 https://github.com/DFRobot/DFRobot_SHT.git|Contributed|DFRobot SHT
 https://github.com/hideakitai/MaxMtrParser.git|Contributed|MaxMtrParser
 https://github.com/vurdalakov/radsensboard.git|Contributed|RadSensBoard
+https://github.com/Kineis/KIM_Arduino_Library.git|Contributed|KIM Arduino Library
