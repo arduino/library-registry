@@ -4861,3 +4861,4 @@ https://github.com/vurdalakov/radsensboard.git|Contributed|RadSensBoard
 https://github.com/Kineis/KIM_Arduino_Library.git|Contributed|KIM Arduino Library
 https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library.git|Contributed|SparkFun Qwiic OLED Graphics Library
 https://github.com/n-wach/camino.git|Contributed|Camino
+https://github.com/PowerBroker2/navduino.git|Contributed|navduino
