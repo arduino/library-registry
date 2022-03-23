@@ -1,4 +1,5 @@
 https://github.com/PowerBroker2/navduino
+https://github.com/nap-software/libnapc-arduino-nightly-releases
 https://github.com/n-wach/camino
 https://gitlab.com/atesin/XxHash_arduino
 https://bitbucket.org/David_Such/nexgen_AHRS
