@@ -4864,3 +4864,4 @@ https://github.com/n-wach/camino.git|Contributed|Camino
 https://github.com/PowerBroker2/navduino.git|Contributed|navduino
 https://github.com/nap-software/libnapc-arduino-nightly-releases.git|Contributed|libnapc-nightly
 https://github.com/nap-software/libnapc-arduino-releases.git|Contributed|libnapc
+https://github.com/khoih-prog/MQTTPubSubClient_Generic.git|Contributed|MQTTPubSubClient_Generic
