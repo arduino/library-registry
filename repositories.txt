@@ -3916,6 +3916,7 @@ https://github.com/stm32duino/X-NUCLEO-S2868A1
 https://github.com/stm32duino/X-NUCLEO-S2868A2
 https://github.com/stm32duino/X-NUCLEO-S2915A1
 https://github.com/stnkl/ESPEssentials
+https://github.com/stnkl/FastLEDHub
 https://github.com/Strabox/Easyuino
 https://github.com/StrathbogieBrewing/AceMenu
 https://github.com/suculent/esp32-http-update
