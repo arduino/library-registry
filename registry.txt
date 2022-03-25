@@ -4868,3 +4868,4 @@ https://github.com/khoih-prog/MQTTPubSubClient_Generic.git|Contributed|MQTTPubSu
 https://github.com/usini/usini_discord_webhook.git|Contributed|Discord_WebHook
 https://github.com/stnkl/FastLEDHub.git|Contributed|FastLEDHub
 https://github.com/DFRobot/DFRobot_INA219.git|Contributed|DFRobot_INA219
+https://github.com/RobTillaart/WaveMix.git|Contributed|WaveMix
