@@ -1,3 +1,14 @@
+https://github.com/usini/usini_discord_webhook
+https://github.com/PowerBroker2/navduino
+https://github.com/nap-software/libnapc-arduino-nightly-releases
+https://github.com/nap-software/libnapc-arduino-releases
+https://github.com/n-wach/camino
+https://gitlab.com/atesin/XxHash_arduino
+https://bitbucket.org/David_Such/nexgen_AHRS
+https://github.com/gianni-carbone/STM32mcp4151
+https://github.com/wollewald/EEPROM_SPI_WE
+https://github.com/gianni-carbone/STM32ad9833
+https://github.com/kousheekc/Kinematics
 https://github.com/Bobingstern/MicroFlow
 https://github.com/gianni-carbone/STM32encoder
 https://github.com/bheesma-10/MCP23008_I2C
@@ -157,6 +168,8 @@ https://github.com/DFRobot/DFRobot_ASR
 https://github.com/DFRobot/DFRobot_HX711
 https://github.com/DFRobot/DFRobot_BMI160
 https://github.com/DFRobot/DFRobot_MAX17043
+https://github.com/DFRobot/DFRobot_SHT
+https://github.com/DFRobot/DFRobot_INA219
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -190,6 +203,7 @@ https://github.com/m5stack/UNIT_KMeter
 https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5_RoverC
 https://github.com/m5stack/M5_JoyC
+https://github.com/m5stack/M5_IP5209
 https://github.com/m5stack/UNIT_UHF_RFID
 https://github.com/m5stack/DEMO-BOARD
 https://github.com/m5stack/ATOM_DTU_CAT1
@@ -1719,6 +1733,7 @@ https://github.com/hideakitai/Filters
 https://github.com/hideakitai/HyperDeck
 https://github.com/hideakitai/I2CExtension
 https://github.com/hideakitai/MAX17048
+https://github.com/hideakitai/MaxMtrParser
 https://github.com/hideakitai/MCP4728
 https://github.com/hideakitai/MPU9250
 https://github.com/hideakitai/MQTTPubSubClient
@@ -1729,6 +1744,7 @@ https://github.com/hideakitai/MTCParser
 https://github.com/hideakitai/Packetizer
 https://github.com/hideakitai/PCA9536
 https://github.com/hideakitai/PCA9547
+https://github.com/hideakitai/PCA95x5
 https://github.com/hideakitai/PCA9624
 https://github.com/hideakitai/PCF2129
 https://github.com/hideakitai/PollingTimer
@@ -2121,6 +2137,7 @@ https://github.com/khoih-prog/WIOTerminal_WiFiManager
 https://github.com/kigster/back-seat-driver
 https://github.com/kike-canaries/canairio_sensorlib
 https://github.com/killer0071234/esp_abus
+https://github.com/kimballa/PyArduinoDebug
 https://github.com/Kineis/ArduinoKim
 https://github.com/kingmathers313/FHEM_Arduino
 https://github.com/kiryanenko/SimpleTimer
@@ -2139,7 +2156,7 @@ https://github.com/koendv/SerialWireOutput
 https://github.com/koendv/STM32duino-Semihosting
 https://github.com/koendv/Arduino-RTTStream
 https://github.com/Kongduino/LoRandom
-https://github.com/KONNEKTING/KonnektingDeviceLibrary
+https://gitlab.com/konnekting/KonnektingDeviceLibrary
 https://github.com/kontakt/MAX30100
 https://github.com/KorneliusThomas/PIDcontrollersModularProfessional
 https://github.com/kosme/arduinoFFT
@@ -2488,6 +2505,8 @@ https://github.com/mcci-catena/arduino-lmic
 https://github.com/mcci-catena/arduino-lorawan
 https://github.com/mcci-catena/Catena-Arduino-Platform
 https://github.com/mcci-catena/Catena-mcciadk
+https://github.com/mcci-catena/MCCI-Catena-PMS7003
+https://github.com/mcci-catena/MCCI-Catena-SHT3x
 https://github.com/mcci-catena/MCCI_Catena_SCD30
 https://github.com/mcci-catena/MCCI_Catena_SDP
 https://github.com/mcci-catena/MCCI_FRAM_I2C
@@ -2870,6 +2889,7 @@ https://github.com/pierremolinaro/acan2515Tiny
 https://github.com/pierremolinaro/acan2517
 https://github.com/pierremolinaro/acan2517FD
 https://github.com/pierremolinaro/acanfd-feather-m4-can
+https://github.com/pierremolinaro/acan-stm32
 https://github.com/pilotak/Hysteresis
 https://github.com/pilotak/LPS35HW
 https://github.com/pilotak/MCP3X21
@@ -3150,6 +3170,7 @@ https://github.com/Robertndrei/SCD30-Modbus
 https://github.com/robgmsn/PureDigit
 https://github.com/RoboCore/RoboCore_MMA8452Q
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0
+https://github.com/RoboCore/RoboCore_SMW-SX1262M0
 https://github.com/RoboCore/SerialRelay
 https://github.com/robojay/_2020Bot_Library
 https://github.com/Robokishan/Arduino-Scheduler
@@ -3721,6 +3742,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Joystick_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Keypad_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library
+https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_PIR_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library
@@ -3895,6 +3917,7 @@ https://github.com/stm32duino/X-NUCLEO-S2868A1
 https://github.com/stm32duino/X-NUCLEO-S2868A2
 https://github.com/stm32duino/X-NUCLEO-S2915A1
 https://github.com/stnkl/ESPEssentials
+https://github.com/stnkl/FastLEDHub
 https://github.com/Strabox/Easyuino
 https://github.com/StrathbogieBrewing/AceMenu
 https://github.com/suculent/esp32-http-update
@@ -4726,3 +4749,23 @@ https://github.com/shnam7/ardukit
 https://github.com/centaq/arduino-async-bmp180wrapper
 https://github.com/centaq/arduino-led-driver
 https://github.com/akkoyun/RV3028
+https://github.com/BeanieBob/GY26Compass
+https://github.com/khoih-prog/AsyncMQTT_Generic
+https://github.com/xreef/EByte_LoRa_E220_Series_Library
+https://github.com/neosarchizo/cb-hcho-v4
+https://github.com/felias-fogg/TXOnlySerial
+https://github.com/felias-fogg/SingleWireSerial
+https://github.com/vChavezB/qpcpp_esp32
+https://github.com/khoih-prog/Teensy41_AsyncTCP
+https://github.com/stm32duino/VL53L4CX.git
+https://github.com/stm32duino/X-NUCLEO-53L4A2.git
+https://github.com/khoih-prog/AsyncWebServer_Teensy41
+https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41
+https://github.com/khoih-prog/AsyncUDP_Teensy41
+https://github.com/ftjuh/AccelStepperI2C
+https://github.com/italia/cie-PN532
+https://github.com/patricklaf/SNMP
+https://github.com/khoih-prog/AsyncDNSServer_Teensy41
+https://github.com/vurdalakov/radsensboard
+https://github.com/Kineis/KIM_Arduino_Library
+https://github.com/khoih-prog/MQTTPubSubClient_Generic
