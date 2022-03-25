@@ -4867,3 +4867,4 @@ https://github.com/nap-software/libnapc-arduino-releases.git|Contributed|libnapc
 https://github.com/khoih-prog/MQTTPubSubClient_Generic.git|Contributed|MQTTPubSubClient_Generic
 https://github.com/usini/usini_discord_webhook.git|Contributed|Discord_WebHook
 https://github.com/stnkl/FastLEDHub.git|Contributed|FastLEDHub
+https://github.com/DFRobot/DFRobot_INA219.git|Contributed|DFRobot_INA219
