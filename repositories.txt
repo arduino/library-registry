@@ -4095,6 +4095,7 @@ https://github.com/TridentTD/TridentTD_LineNotify
 https://github.com/TridentTD/TridentTD_SimplePair
 https://github.com/tripplefox/TsicSensor
 https://github.com/tswfi/PE43xx
+https://github.com/tttmmmsss/ICM7218C/
 https://github.com/tttttx2/ddcvcp
 https://github.com/tuanpmt/ESP8266MQTTClient
 https://github.com/turbyho/DABDUINO
