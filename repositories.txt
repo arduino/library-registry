@@ -2523,6 +2523,7 @@ https://github.com/MERG-DEV/CBUSLED
 https://github.com/MERG-DEV/CBUSswitch
 https://github.com/merlinschumacher/Basecamp
 https://github.com/mertwhocodes/mwc_stepper
+https://github.com/meshtastic/Meshtastic-arduino
 https://github.com/meteolab/MeteoLabBeacon
 https://github.com/mggates39/MyDelay
 https://github.com/MHeeres/DataServeriOS
