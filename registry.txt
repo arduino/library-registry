@@ -4871,3 +4871,4 @@ https://github.com/DFRobot/DFRobot_INA219.git|Contributed|DFRobot_INA219
 https://github.com/RobTillaart/WaveMix.git|Contributed|WaveMix
 https://github.com/tttmmmsss/ICM7218C.git|Contributed|ICM7218C
 https://github.com/pololu/motoron-arduino.git|Contributed|Motoron
+https://github.com/meshtastic/Meshtastic-arduino.git|Contributed|Meshtastic
