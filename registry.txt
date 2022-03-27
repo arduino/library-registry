@@ -4873,3 +4873,4 @@ https://github.com/tttmmmsss/ICM7218C.git|Contributed|ICM7218C
 https://github.com/pololu/motoron-arduino.git|Contributed|Motoron
 https://github.com/meshtastic/Meshtastic-arduino.git|Contributed|Meshtastic
 https://github.com/cotestatnt/DigitalSignal.git|Contributed|DigitalSignalsArduino
+https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32.git|Contributed|XboxSeriesXControllerESP32_asukiaaa
