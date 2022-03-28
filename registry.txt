@@ -4874,3 +4874,4 @@ https://github.com/pololu/motoron-arduino.git|Contributed|Motoron
 https://github.com/meshtastic/Meshtastic-arduino.git|Contributed|Meshtastic
 https://github.com/cotestatnt/DigitalSignal.git|Contributed|DigitalSignalsArduino
 https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32.git|Contributed|XboxSeriesXControllerESP32_asukiaaa
+https://bitbucket.org/David_Such/nexgen_SBUS.git|Contributed|NexgenSBUS
