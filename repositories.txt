@@ -4777,3 +4777,4 @@ https://github.com/Kineis/KIM_Arduino_Library
 https://github.com/khoih-prog/MQTTPubSubClient_Generic
 https://github.com/climateguard/RadSens
 https://github.com/cotestatnt/DigitalSignal
+https://github.com/climateguard/CG-Anem
