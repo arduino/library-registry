@@ -575,7 +575,7 @@ https://github.com/akkoyun/Environment
 https://github.com/akvavit01/MissionList
 https://github.com/Alex079/TinySuite
 https://github.com/AlexanderLL95/SerialUtil
-https://github.com/AlexandreHiroyuki/MovingAverage_ArduinoLibrary
+https://github.com/AlexandreHiroyuki/MovingAveragePlus
 https://github.com/alexbertis/LibreriaLedRGB
 https://github.com/AlexIII/EEvar
 https://github.com/alextaujenis/RBD_Button
