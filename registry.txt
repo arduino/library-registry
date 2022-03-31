@@ -4878,3 +4878,5 @@ https://bitbucket.org/David_Such/nexgen_SBUS.git|Contributed|NexgenSBUS
 https://github.com/climateguard/RadSens.git|Contributed|ClimateGuard RadSens
 https://github.com/climateguard/CG-Anem.git|Contributed|ClimateGuard CG Anem
 https://github.com/suratin27/ESP32_Control.git|Contributed|ESP32 Control
+https://github.com/DFRobot/DFRobot_EOxygenSensor.git|Contributed|DFRobot_EOxygenSensor
+https://github.com/DFRobot/DFRobot_OxygenSensor.git|Contributed|DFRobot_OxygenSensor
