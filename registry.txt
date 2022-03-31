@@ -4881,3 +4881,4 @@ https://github.com/suratin27/ESP32_Control.git|Contributed|ESP32 Control
 https://github.com/DFRobot/DFRobot_EOxygenSensor.git|Contributed|DFRobot_EOxygenSensor
 https://github.com/DFRobot/DFRobot_OxygenSensor.git|Contributed|DFRobot_OxygenSensor
 https://github.com/chcbaram/HS_JOY_ESP32.git|Contributed|HS_JOY_ESP32
+https://github.com/ArtronShop/KidMotorV4-Arduino.git|Contributed|KidMotorV4-Arduino
