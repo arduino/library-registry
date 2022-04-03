@@ -469,6 +469,7 @@ https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
 https://github.com/adafruit/Adafruit_TouchScreen
 https://github.com/adafruit/Adafruit_Trellis_Library
+https://github.com/adafruit/Adafruit_TSC2007
 https://github.com/adafruit/Adafruit_TSL2561
 https://github.com/adafruit/Adafruit_TSL2591_Library
 https://github.com/adafruit/Adafruit_UNTZtrument
