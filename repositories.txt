@@ -4785,3 +4785,4 @@ https://github.com/climateguard/CG-Anem
 https://github.com/suratin27/ESP32_Control
 https://github.com/chcbaram/HS_JOY_ESP32
 https://github.com/ArtronShop/KidMotorV4-Arduino
+https://github.com/khoih-prog/Ethernet_Generic
