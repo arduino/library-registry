@@ -4402,7 +4402,7 @@ https://github.com/DFRobot/DFRobot_DF1201S.git|Contributed|DFRobot_DF1201S
 https://github.com/A-Vision-Software/AVision_ESP8266.git|Contributed|AVision_ESP8266
 https://github.com/DFRobot/DFRobot_URM13.git|Contributed|DFRobot_URM13
 https://github.com/Jackal28/MCP3304.git|Contributed|MCP3304
-https://gitlab.com/yanranxiaoxi/AntiKeyRepetition.h.git|Contributed|AntiKeyRepetition
+https://github.com/yanranxiaoxi/AntiKeyRepetition.h.git|Contributed|AntiKeyRepetition
 https://github.com/Phoenix1747/Arduino-Pico-Analog-Correction.git|Contributed|PicoAnalogCorrection
 https://github.com/khoih-prog/AsyncTCP_SSL.git|Contributed|AsyncTCP_SSL
 https://github.com/RoboCore/RoboCore_Vespa.git|Contributed|RoboCore - Vespa
