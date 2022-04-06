@@ -4889,5 +4889,4 @@ https://github.com/AntorOfficial/LiquidCrystalSerial.git|Contributed|LiquidCryst
 https://github.com/AntorOfficial/LettersKeypad.git|Contributed|LettersKeypad
 https://github.com/Sensirion/arduino-i2c-sts4x.git|Contributed|Sensirion I2C STS4x
 https://github.com/Sensirion/arduino-i2c-sf06-lf.git|Contributed|Sensirion I2C SF06-LF
-https://github.com/chrmlinux/ArreyExt.git|Contributed|ArreyExt
 https://github.com/chrmlinux/ArrayExt.git|Contributed|ArrayExt
