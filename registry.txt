@@ -4892,3 +4892,4 @@ https://github.com/Sensirion/arduino-i2c-sf06-lf.git|Contributed|Sensirion I2C S
 https://github.com/chrmlinux/ArreyExt.git|Contributed|ArreyExt
 https://github.com/chrmlinux/ArrayExt.git|Contributed|ArrayExt
 https://github.com/Pixelbo/Pelco_And_Arduino.git|Contributed|Pelco_And_Arduino
+https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library.git|Contributed|Sitron Labs OPT3001 Ambient Light Sensor Arduino Library
