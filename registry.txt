@@ -4894,3 +4894,4 @@ https://github.com/chrmlinux/ArrayExt.git|Contributed|ArrayExt
 https://github.com/Pixelbo/Pelco_And_Arduino.git|Contributed|Pelco_And_Arduino
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library.git|Contributed|Sitron Labs OPT3001 Ambient Light Sensor Arduino Library
 https://github.com/luoluomeng/HUSB238Driver.git|Contributed|HUSB238Driver
+https://github.com/luoluomeng/NST1001Driver.git|Contributed|NST1001Driver
