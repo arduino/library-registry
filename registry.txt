@@ -4897,3 +4897,4 @@ https://github.com/luoluomeng/HUSB238Driver.git|Contributed|HUSB238Driver
 https://github.com/luoluomeng/NST1001Driver.git|Contributed|NST1001Driver
 https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574.git|Contributed|HD44780_LCD_PCF8574
 https://github.com/chrmlinux/ESPDisplay.git|Contributed|ESPDisplay
+https://github.com/osteele/Arduino_SerialRecord.git|Contributed|SerialRecord
