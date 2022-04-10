@@ -4899,3 +4899,4 @@ https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574.git|Contributed|HD44780_LC
 https://github.com/chrmlinux/ESPDisplay.git|Contributed|ESPDisplay
 https://github.com/osteele/Arduino_SerialRecord.git|Contributed|SerialRecord
 https://github.com/tamctec/irm-mini-arduino.git|Contributed|IRM Mini
+https://github.com/u-fire/steamrocket.git|Contributed|steamrocket
