@@ -4798,3 +4798,4 @@ https://github.com/luoluomeng/HUSB238Driver
 https://github.com/luoluomeng/NST1001Driver
 https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574
 https://github.com/chrmlinux/ESPDisplay
+https://github.com/osteele/Arduino_SerialRecord
