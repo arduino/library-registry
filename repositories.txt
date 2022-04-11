@@ -105,6 +105,8 @@ https://github.com/TawalMc/TinyDatabase_Arduino
 https://github.com/Phoenix1747/MQ135
 https://github.com/BreadBoardMates/Arduino-Mates-Controller
 https://github.com/MajicDesigns/MD_Stepper
+https://github.com/DFRobot/DFRobot_IIS
+https://github.com/DFRobot/DFRobot_MCP9808
 https://github.com/DFRobot/DFRobot_BMP3XX
 https://github.com/DFRobot/DFRobot_DHT20
 https://github.com/DFRobot/DFRobot_RTU
