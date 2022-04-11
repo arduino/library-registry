@@ -4902,3 +4902,4 @@ https://github.com/tamctec/irm-mini-arduino.git|Contributed|IRM Mini
 https://github.com/u-fire/steamrocket.git|Contributed|steamrocket
 https://github.com/sleepnow2/ArdRTOS.git|Contributed|ArdRTOS
 https://github.com/ysard/PT6312_VFD_Arduino_Library.git|Contributed|PT6312
+https://github.com/DFRobot/DFRobot_GP8302.git|Contributed|DFRobot_GP8302
