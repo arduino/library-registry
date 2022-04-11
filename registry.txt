@@ -4908,3 +4908,4 @@ https://github.com/DFRobot/DFRobot_MCP9808.git|Contributed|DFRobot_MCP9808
 https://github.com/Tinyu-Zhao/M5-Outdepends.git|Contributed|M5-Outdepends
 https://github.com/Tinyu-Zhao/M5-Depends.git|Contributed|M5-Depends
 https://github.com/arduino-libraries/Arduino_MultiWiFi.git|Arduino|Arduino_MultiWiFi
+https://github.com/GLEE2023/Beelan-LoRaWAN.git|Contributed|GLEE Beelan LoRaWAN
