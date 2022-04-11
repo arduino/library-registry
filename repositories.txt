@@ -1,3 +1,4 @@
+https://github.com/sleepnow2/ArdRTOS/
 https://github.com/AntorOfficial/LiquidCrystalSerial
 https://github.com/AntorOfficial/LettersKeypad
 https://bitbucket.org/David_Such/nexgen_SBUS
@@ -4126,6 +4127,7 @@ https://github.com/u-fire/Mod-EC
 https://github.com/u-fire/Mod-pH
 https://github.com/u-fire/Mod-ORP
 https://github.com/u-fire/SHT3x
+https://github.com/u-fire/steamrocket
 https://github.com/u0078867/Arduino-Websocket-Fast
 https://github.com/uArm-Developer/UArmForArduino
 https://github.com/Uberi/Arduino-CommandParser
@@ -4553,6 +4555,7 @@ https://github.com/khoih-prog/ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM
 https://github.com/tamctec/ft62x6-arduino
 https://github.com/tamctec/gt911-arduino
+https://github.com/tamctec/irm-mini-arduino
 https://github.com/awgrover/Every-for-arduino
 https://github.com/bobboteck/CWLibrary
 https://github.com/khoih-prog/Portenta_H7_Slow_PWM
@@ -4798,3 +4801,5 @@ https://github.com/luoluomeng/HUSB238Driver
 https://github.com/luoluomeng/NST1001Driver
 https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574
 https://github.com/ysard/PT6312_VFD_Arduino_Library
+https://github.com/chrmlinux/ESPDisplay
+https://github.com/osteele/Arduino_SerialRecord
