@@ -4905,3 +4905,4 @@ https://github.com/ysard/PT6312_VFD_Arduino_Library.git|Contributed|PT6312
 https://github.com/DFRobot/DFRobot_GP8302.git|Contributed|DFRobot_GP8302
 https://github.com/DFRobot/DFRobot_IIS.git|Contributed|DFRobot_IIS
 https://github.com/DFRobot/DFRobot_MCP9808.git|Contributed|DFRobot_MCP9808
+https://github.com/Tinyu-Zhao/M5-Outdepends.git|Contributed|M5-Outdepends
