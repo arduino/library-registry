@@ -3742,6 +3742,7 @@ https://github.com/sparkfun/SparkFun_MiniMoto_Arduino_Library
 https://github.com/sparkfun/SparkFun_MLX90614_Arduino_Library
 https://github.com/sparkfun/SparkFun_MLX90632_Arduino_Library
 https://github.com/sparkfun/SparkFun_MMA8452Q_Arduino_Library
+https://github.com/sparkfun/SparkFun_MMC5983MA_Magnetometer_Arduino_Library
 https://github.com/sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library
