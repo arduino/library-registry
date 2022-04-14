@@ -4811,3 +4811,4 @@ https://github.com/chrmlinux/ESPDisplay
 https://github.com/osteele/Arduino_SerialRecord
 https://github.com/arduino-libraries/Arduino_MultiWiFi
 https://github.com/GLEE2023/Beelan-LoRaWAN
+https://github.com/Invisibleman1002/dynaHTML
