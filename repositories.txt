@@ -1,3 +1,15 @@
+https://github.com/sleepnow2/ArdRTOS/
+https://github.com/AntorOfficial/LiquidCrystalSerial
+https://github.com/AntorOfficial/LettersKeypad
+https://bitbucket.org/David_Such/nexgen_SBUS
+https://github.com/usini/usini_discord_webhook
+https://github.com/bheesma-10/IP5306_I2C
+https://github.com/Tinyu-Zhao/M5-Outdepends
+https://github.com/Tinyu-Zhao/M5-Depends
+https://github.com/PowerBroker2/navduino
+https://github.com/nap-software/libnapc-arduino-nightly-releases
+https://github.com/nap-software/libnapc-arduino-releases
+https://github.com/n-wach/camino
 https://gitlab.com/atesin/XxHash_arduino
 https://bitbucket.org/David_Such/nexgen_AHRS
 https://github.com/gianni-carbone/STM32mcp4151
@@ -55,6 +67,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/GyverJoy
 https://github.com/GyverLibs/QuickCharge
 https://github.com/GyverLibs/GyverPortal
 https://github.com/GyverLibs/GyverMAX6675
@@ -95,6 +108,8 @@ https://github.com/TawalMc/TinyDatabase_Arduino
 https://github.com/Phoenix1747/MQ135
 https://github.com/BreadBoardMates/Arduino-Mates-Controller
 https://github.com/MajicDesigns/MD_Stepper
+https://github.com/DFRobot/DFRobot_IIS
+https://github.com/DFRobot/DFRobot_MCP9808
 https://github.com/DFRobot/DFRobot_BMP3XX
 https://github.com/DFRobot/DFRobot_DHT20
 https://github.com/DFRobot/DFRobot_RTU
@@ -115,7 +130,6 @@ https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/DFRobot/DFRobot_VEML7700
 https://github.com/bheesma-10/mcp23017-arduino
-https://github.com/DFRobot/DFRobot_A111
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder
 https://github.com/DFRobot/DFRobot_ENS160
 https://github.com/DFRobot/DFRobot_STS3X
@@ -164,6 +178,10 @@ https://github.com/DFRobot/DFRobot_HX711
 https://github.com/DFRobot/DFRobot_BMI160
 https://github.com/DFRobot/DFRobot_MAX17043
 https://github.com/DFRobot/DFRobot_SHT
+https://github.com/DFRobot/DFRobot_INA219
+https://github.com/DFRobot/DFRobot_EOxygenSensor
+https://github.com/DFRobot/DFRobot_OxygenSensor
+https://github.com/DFRobot/DFRobot_GP8302
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -459,6 +477,7 @@ https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
 https://github.com/adafruit/Adafruit_TouchScreen
 https://github.com/adafruit/Adafruit_Trellis_Library
+https://github.com/adafruit/Adafruit_TSC2007
 https://github.com/adafruit/Adafruit_TSL2561
 https://github.com/adafruit/Adafruit_TSL2591_Library
 https://github.com/adafruit/Adafruit_UNTZtrument
@@ -568,7 +587,7 @@ https://github.com/akkoyun/Environment
 https://github.com/akvavit01/MissionList
 https://github.com/Alex079/TinySuite
 https://github.com/AlexanderLL95/SerialUtil
-https://github.com/AlexandreHiroyuki/MovingAverage_ArduinoLibrary
+https://github.com/AlexandreHiroyuki/MovingAveragePlus
 https://github.com/alexbertis/LibreriaLedRGB
 https://github.com/AlexIII/EEvar
 https://github.com/alextaujenis/RBD_Button
@@ -852,6 +871,7 @@ https://github.com/asukiaaa/arduino-string
 https://github.com/asukiaaa/arduino-TC78B009FTG
 https://github.com/asukiaaa/arduino-wire
 https://github.com/asukiaaa/arduino-XboxControllerNotificationParser
+https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32
 https://github.com/asukiaaa/BLVD20KM_asukiaaa
 https://github.com/asukiaaa/CanBusData-arduino
 https://github.com/asukiaaa/CanBusMCP2515-arduino
@@ -2532,6 +2552,7 @@ https://github.com/MERG-DEV/CBUSLED
 https://github.com/MERG-DEV/CBUSswitch
 https://github.com/merlinschumacher/Basecamp
 https://github.com/mertwhocodes/mwc_stepper
+https://github.com/meshtastic/Meshtastic-arduino
 https://github.com/meteolab/MeteoLabBeacon
 https://github.com/mggates39/MyDelay
 https://github.com/MHeeres/DataServeriOS
@@ -2939,6 +2960,7 @@ https://github.com/pololu/lps-arduino
 https://github.com/pololu/lsm303-arduino
 https://github.com/pololu/lsm6-arduino
 https://github.com/pololu/maestro-arduino
+https://github.com/pololu/motoron-arduino
 https://github.com/pololu/opt3101-arduino
 https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library
 https://github.com/pololu/pololu-buzzer-arduino
@@ -3336,6 +3358,7 @@ https://github.com/RobTillaart/timing
 https://github.com/RobTillaart/tinySHT2x
 https://github.com/RobTillaart/TM1637_RT
 https://github.com/RobTillaart/Troolean
+https://github.com/RobTillaart/WaveMix
 https://github.com/RobTillaart/weight
 https://github.com/RobTillaart/X9C10X
 https://github.com/RobTillaart/XMLWriter
@@ -3412,7 +3435,7 @@ https://github.com/Seeed-Studio/Accelerometer_ADXL345
 https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3
 https://github.com/Seeed-Studio/Accelerometer_H3LIS331DL
 https://github.com/Seeed-Studio/Accelerometer_MMA7660
-https://github.com/Seeed-Studio/CAN_BUS_Shield
+https://github.com/Seeed-Studio/Seeed_Arduino_CAN
 https://github.com/Seeed-Studio/Digital_Infrared_Temperature_Sensor_MLX90615
 https://github.com/Seeed-Studio/Ethernet_Shield_W5200
 https://github.com/Seeed-Studio/Gesture_PAJ7620
@@ -3498,8 +3521,10 @@ https://github.com/Sensirion/arduino-i2c-scd4x
 https://github.com/Sensirion/arduino-i2c-sen44
 https://github.com/Sensirion/arduino-i2c-sfa3x
 https://github.com/Sensirion/arduino-i2c-sht4x
+https://github.com/Sensirion/arduino-i2c-sts4x
 https://github.com/Sensirion/arduino-i2c-stc3x
 https://github.com/Sensirion/arduino-i2c-svm40
+https://github.com/Sensirion/arduino-i2c-sf06-lf
 https://github.com/Sensirion/arduino-sht
 https://github.com/Sensirion/arduino-sps
 https://github.com/Sensirion/arduino-uart-sen44
@@ -3912,6 +3937,7 @@ https://github.com/stm32duino/X-NUCLEO-S2868A1
 https://github.com/stm32duino/X-NUCLEO-S2868A2
 https://github.com/stm32duino/X-NUCLEO-S2915A1
 https://github.com/stnkl/ESPEssentials
+https://github.com/stnkl/FastLEDHub
 https://github.com/Strabox/Easyuino
 https://github.com/StrathbogieBrewing/AceMenu
 https://github.com/suculent/esp32-http-update
@@ -4088,6 +4114,7 @@ https://github.com/TridentTD/TridentTD_LineNotify
 https://github.com/TridentTD/TridentTD_SimplePair
 https://github.com/tripplefox/TsicSensor
 https://github.com/tswfi/PE43xx
+https://github.com/tttmmmsss/ICM7218C/
 https://github.com/tttttx2/ddcvcp
 https://github.com/tuanpmt/ESP8266MQTTClient
 https://github.com/turbyho/DABDUINO
@@ -4106,6 +4133,7 @@ https://github.com/u-fire/Mod-EC
 https://github.com/u-fire/Mod-pH
 https://github.com/u-fire/Mod-ORP
 https://github.com/u-fire/SHT3x
+https://github.com/u-fire/steamrocket
 https://github.com/u0078867/Arduino-Websocket-Fast
 https://github.com/uArm-Developer/UArmForArduino
 https://github.com/Uberi/Arduino-CommandParser
@@ -4533,6 +4561,7 @@ https://github.com/khoih-prog/ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM
 https://github.com/tamctec/ft62x6-arduino
 https://github.com/tamctec/gt911-arduino
+https://github.com/tamctec/irm-mini-arduino
 https://github.com/awgrover/Every-for-arduino
 https://github.com/bobboteck/CWLibrary
 https://github.com/khoih-prog/Portenta_H7_Slow_PWM
@@ -4762,3 +4791,23 @@ https://github.com/patricklaf/SNMP
 https://github.com/khoih-prog/AsyncDNSServer_Teensy41
 https://github.com/vurdalakov/radsensboard
 https://github.com/Kineis/KIM_Arduino_Library
+https://github.com/khoih-prog/MQTTPubSubClient_Generic
+https://github.com/climateguard/RadSens
+https://github.com/cotestatnt/DigitalSignal
+https://github.com/climateguard/CG-Anem
+https://github.com/suratin27/ESP32_Control
+https://github.com/chcbaram/HS_JOY_ESP32
+https://github.com/ArtronShop/KidMotorV4-Arduino
+https://github.com/khoih-prog/Ethernet_Generic
+https://github.com/chrmlinux/ArrayExt
+https://github.com/Pixelbo/Pelco_And_Arduino
+https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
+https://github.com/luoluomeng/HUSB238Driver
+https://github.com/luoluomeng/NST1001Driver
+https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574
+https://github.com/ysard/PT6312_VFD_Arduino_Library
+https://github.com/chrmlinux/ESPDisplay
+https://github.com/osteele/Arduino_SerialRecord
+https://github.com/arduino-libraries/Arduino_MultiWiFi
+https://github.com/GLEE2023/Beelan-LoRaWAN
+https://github.com/Invisibleman1002/dynaHTML

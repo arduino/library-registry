@@ -25,12 +25,11 @@
 - name: "topic: rename"
   color: "00ffff"
   description: Change registered library name
+# Vulnerability disclosures are made following the procedure at:
+# https://github.com/arduino/.github/blob/master/SECURITY.md
 - name: "topic: security"
   color: "ff0000"
   description: Related to the protection of user data
-  notes: |
-    Vulnerability disclosures are made following the procedure at:
-    https://github.com/arduino/.github/blob/master/SECURITY.md
 - name: "topic: submission"
   color: "00ffff"
   description: Add library to the list
