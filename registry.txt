@@ -4910,3 +4910,4 @@ https://github.com/Tinyu-Zhao/M5-Depends.git|Contributed|M5-Depends
 https://github.com/arduino-libraries/Arduino_MultiWiFi.git|Arduino|Arduino_MultiWiFi
 https://github.com/GLEE2023/Beelan-LoRaWAN.git|Contributed|GLEE Beelan LoRaWAN
 https://github.com/GyverLibs/GyverJoy.git|Contributed|GyverJoy
+https://github.com/Invisibleman1002/dynaHTML.git|Contributed|dynaHTML
