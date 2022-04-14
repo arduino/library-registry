@@ -130,7 +130,6 @@ https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/DFRobot/DFRobot_VEML7700
 https://github.com/bheesma-10/mcp23017-arduino
-https://github.com/DFRobot/DFRobot_A111
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder
 https://github.com/DFRobot/DFRobot_ENS160
 https://github.com/DFRobot/DFRobot_STS3X
