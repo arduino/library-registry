@@ -4912,3 +4912,4 @@ https://github.com/Invisibleman1002/dynaHTML.git|Contributed|dynaHTML
 https://github.com/sparkfun/SparkFun_Qwiic_TMF882X_Arduino_Library.git|Contributed|SparkFun Qwiic TMF882X Library
 https://github.com/sparkfun/SparkFun_MMC5983MA_Magnetometer_Arduino_Library.git|Contributed|SparkFun MMC5983MA Magnetometer Arduino Library
 https://github.com/khoih-prog/AsyncWebServer_Ethernet.git|Contributed|AsyncWebServer_Ethernet
+https://github.com/khoih-prog/AsyncUDP_Ethernet.git|Contributed|AsyncUDP_Ethernet
