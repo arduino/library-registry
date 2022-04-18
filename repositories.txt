@@ -182,6 +182,8 @@ https://github.com/DFRobot/DFRobot_INA219
 https://github.com/DFRobot/DFRobot_EOxygenSensor
 https://github.com/DFRobot/DFRobot_OxygenSensor
 https://github.com/DFRobot/DFRobot_GP8302
+https://github.com/DFRobot/DFRobot_GP8403
+https://github.com/DFRobot/DFRobot_LedDisplayModule
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
