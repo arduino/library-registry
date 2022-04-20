@@ -4917,3 +4917,4 @@ https://github.com/DFRobot/DFRobot_GP8403.git|Contributed|DFRobot_GP8403
 https://github.com/DFRobot/DFRobot_LedDisplayModule.git|Contributed|DFRobot_LedDisplayModule
 https://github.com/ronbentley1/eazy-switch-library.git|Contributed|ez_switch_lib
 https://github.com/GyverLibs/GyverNTP.git|Contributed|GyverNTP
+https://github.com/Tost69/ConfigStorage.git|Contributed|ConfigStorage
