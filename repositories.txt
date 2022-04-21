@@ -4819,3 +4819,4 @@ https://github.com/Invisibleman1002/dynaHTML
 https://github.com/khoih-prog/AsyncWebServer_Ethernet
 https://github.com/khoih-prog/AsyncUDP_Ethernet
 https://github.com/Tost69/ConfigStorage
+https://github.com/edge-ml/edge-fel-lib
