@@ -4919,3 +4919,4 @@ https://github.com/ronbentley1/eazy-switch-library.git|Contributed|ez_switch_lib
 https://github.com/GyverLibs/GyverNTP.git|Contributed|GyverNTP
 https://github.com/Tost69/ConfigStorage.git|Contributed|ConfigStorage
 https://github.com/edge-ml/edge-fel-lib.git|Contributed|Edge-fel
+https://github.com/chrmlinux/ThreeD.git|Contributed|ThreeD
