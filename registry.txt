@@ -4921,3 +4921,4 @@ https://github.com/Tost69/ConfigStorage.git|Contributed|ConfigStorage
 https://github.com/edge-ml/edge-fel-lib.git|Contributed|Edge-fel
 https://github.com/chrmlinux/ThreeD.git|Contributed|ThreeD
 https://github.com/ronbentley1/eazy-Shift-Registers.git|Contributed|ez_SIPO8_lib
+https://github.com/teamprof/arduino-eventethernet.git|Contributed|EventEthernet
