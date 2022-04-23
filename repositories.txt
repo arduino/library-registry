@@ -1324,6 +1324,8 @@ https://github.com/dojyorin/arduino_base64
 https://github.com/dojyorin/arduino_percent
 https://github.com/dok-net/CoopTask
 https://github.com/dok-net/esp_sds011
+https://github.com/dok-net/ad5243.git
+https://github.com/dok-net/tca9544a.git
 https://github.com/DonnyCraft1/PIDArduino
 https://github.com/douglaslyon/AudioShieldDTMF
 https://github.com/dparson55/NRFLite
