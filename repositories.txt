@@ -4825,3 +4825,4 @@ https://github.com/Tost69/ConfigStorage
 https://github.com/edge-ml/edge-fel-lib
 https://github.com/chrmlinux/ThreeD
 https://github.com/teamprof/arduino-eventethernet
+https://github.com/duinolibs/Sbutton
