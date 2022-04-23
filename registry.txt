@@ -4924,3 +4924,4 @@ https://github.com/ronbentley1/eazy-Shift-Registers.git|Contributed|ez_SIPO8_lib
 https://github.com/teamprof/arduino-eventethernet.git|Contributed|EventEthernet
 https://github.com/dok-net/ad5243.git|Contributed|ad5243
 https://github.com/dok-net/tca9544a.git|Contributed|tca9544a
+https://github.com/duinolibs/Sbutton.git|Contributed|Sbutton
