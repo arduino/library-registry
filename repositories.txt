@@ -2367,6 +2367,7 @@ https://github.com/luisllamasbinaburo/Arduino-TimeoutTask
 https://github.com/luisllamasbinaburo/Arduino-TriangleSolver
 https://github.com/luisllamasbinaburo/ArduinoLinq
 https://github.com/LuisMiCa/IRsmallDecoder
+https://github.com/luni64/EncoderTool
 https://github.com/luni64/TeensyStep
 https://github.com/luni64/TeensyTimerTool
 https://github.com/LUXROBO/MODI-Arduino
