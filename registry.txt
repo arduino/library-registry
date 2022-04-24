@@ -4927,3 +4927,4 @@ https://github.com/dok-net/tca9544a.git|Contributed|tca9544a
 https://github.com/duinolibs/Sbutton.git|Contributed|Sbutton
 https://github.com/luni64/EncoderTool.git|Contributed|EncoderTool
 https://github.com/chrmlinux/tinyTimeR.git|Contributed|tinyTimeR
+https://github.com/dani007200964/Commander-API.git|Contributed|Commander-API
