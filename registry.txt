@@ -4926,3 +4926,4 @@ https://github.com/dok-net/ad5243.git|Contributed|ad5243
 https://github.com/dok-net/tca9544a.git|Contributed|tca9544a
 https://github.com/duinolibs/Sbutton.git|Contributed|Sbutton
 https://github.com/luni64/EncoderTool.git|Contributed|EncoderTool
+https://github.com/chrmlinux/tinyTimeR.git|Contributed|tinyTimeR
