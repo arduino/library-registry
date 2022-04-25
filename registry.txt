@@ -4929,3 +4929,8 @@ https://github.com/luni64/EncoderTool.git|Contributed|EncoderTool
 https://github.com/chrmlinux/tinyTimeR.git|Contributed|tinyTimeR
 https://github.com/dani007200964/Commander-API.git|Contributed|Commander-API
 https://github.com/PowerBroker2/MultivariateNormal.git|Contributed|MultivariateNormal
+https://github.com/DFRobot/DFRobot_URM07.git|Contributed|DFRobot_URM07
+https://github.com/DFRobot/DFRobot_QMC5883.git|Contributed|DFRobot_QMC5883
+https://github.com/DFRobot/DFRobot_TCS34725.git|Contributed|DFRobot_TCS34725
+https://github.com/DFRobot/DFRobot_I2C_Multiplexer.git|Contributed|DFRobot_I2C_Multiplexer
+https://github.com/DFRobot/DFRobot_Gesture_Touch.git|Contributed|DFRobot_Gesture_Touch
