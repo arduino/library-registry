@@ -4934,3 +4934,4 @@ https://github.com/DFRobot/DFRobot_QMC5883.git|Contributed|DFRobot_QMC5883
 https://github.com/DFRobot/DFRobot_TCS34725.git|Contributed|DFRobot_TCS34725
 https://github.com/DFRobot/DFRobot_I2C_Multiplexer.git|Contributed|DFRobot_I2C_Multiplexer
 https://github.com/DFRobot/DFRobot_Gesture_Touch.git|Contributed|DFRobot_Gesture_Touch
+https://github.com/South-River/BMI085-arduino.git|Contributed|High Performance IMU BMI085
