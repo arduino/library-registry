@@ -943,6 +943,7 @@ https://github.com/barisdinc/LibAPRS_Tracker
 https://github.com/bartoszbielawski/AJSP
 https://github.com/bartoszbielawski/C-Tasks
 https://github.com/bartoszbielawski/LEDMatrixDriver
+https://github.com/bblanchon/ArduinoContinuousStepper
 https://github.com/bblanchon/ArduinoJson
 https://github.com/bblanchon/ArduinoStreamUtils
 https://github.com/bblanchon/ArduinoTrace
