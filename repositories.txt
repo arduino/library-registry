@@ -4838,3 +4838,4 @@ https://github.com/teamprof/arduino-eventethernet
 https://github.com/duinolibs/Sbutton
 https://github.com/chrmlinux/tinyTimeR
 https://github.com/shraiwi/mini-qoi
+https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino
