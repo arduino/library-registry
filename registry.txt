@@ -4938,3 +4938,4 @@ https://github.com/South-River/BMI085-arduino.git|Contributed|High Performance I
 https://github.com/shraiwi/mini-qoi.git|Contributed|Mini QOI
 https://github.com/bblanchon/ArduinoContinuousStepper.git|Contributed|ContinuousStepper
 https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino.git|Contributed|Mosiwi Basic Learning Kit
+https://github.com/nusabot-iot/dashboard-arduino.git|Contributed|Dashboard IoT
