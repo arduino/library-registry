@@ -3128,6 +3128,7 @@ https://github.com/Qudor-Engineer/DMD32
 https://github.com/queuetue/Q2-Balance-Arduino-Library
 https://github.com/queuetue/Q2-HX711-Arduino-Library
 https://github.com/QuickSander/ArduinoHttpServer
+https://github.com/nusabot-iot/dashboard-arduino
 https://github.com/Quirkbot/QuirkbotArduinoLibrary
 https://github.com/r-downing/AutoPID
 https://github.com/r-downing/EasySSDP
