@@ -4842,4 +4842,4 @@ https://github.com/chrmlinux/tinyTimeR
 https://github.com/shraiwi/mini-qoi
 https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino
 https://github.com/UnexpectedMaker/esp32s3-arduino-helper
-
+https://github.com/bsch2734/SpiShiftRegisterChain
