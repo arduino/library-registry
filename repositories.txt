@@ -868,7 +868,6 @@ https://github.com/arsalmaner/Arduino-Libraries
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
 https://github.com/simplefoc/Arduino-FOC-drivers
-https://github.com/aspenforest/SIM800
 https://github.com/aster94/GoProControl
 https://github.com/aster94/Keyword-Protocol-2000
 https://github.com/aster94/SensorFusion
