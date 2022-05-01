@@ -4849,3 +4849,4 @@ https://github.com/bsch2734/SpiShiftRegisterChain
 https://github.com/khoih-prog/FTP_Server_Teensy41
 https://github.com/SkyIsTheLimit/arduino-array-utils
 https://github.com/connornishijima/Pixie_Chroma_Lite
+https://github.com/alranel/BLESensorGateway
