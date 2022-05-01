@@ -4948,3 +4948,4 @@ https://github.com/SkyIsTheLimit/arduino-array-utils.git|Contributed|ArrayUtils
 https://github.com/connornishijima/Pixie_Chroma_Lite.git|Contributed|PixieChromaLite
 https://github.com/Francis-Magallanes/CircularQueue.git|Contributed|CircularQueue
 https://github.com/dmadison/Sim-Racing-Arduino.git|Contributed|Sim Racing Library
+https://github.com/alranel/BLESensorGateway.git|Contributed|BLESensorGateway
