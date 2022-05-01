@@ -1326,6 +1326,7 @@ https://github.com/dmadison/FastLED_NeoPixel
 https://github.com/dmadison/HID_Buttons
 https://github.com/dmadison/NintendoExtensionCtrl
 https://github.com/dmadison/ServoInput
+https://github.com/dmadison/Sim-Racing-Arduino
 https://github.com/dmadison/Xbox360ControllerLEDs
 https://github.com/dmkishi/Dusk2Dawn
 https://github.com/dniklaus/arduino-display-lcdkeypad
