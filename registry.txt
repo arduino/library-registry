@@ -4945,3 +4945,4 @@ https://github.com/bsch2734/SpiShiftRegisterChain.git|Contributed|SPIShiftRegist
 https://github.com/khoih-prog/FTP_Server_Teensy41.git|Contributed|FTP_Server_Teensy41
 https://github.com/vChavezB/lwip-Arduino.git|Contributed|lwIP
 https://github.com/SkyIsTheLimit/arduino-array-utils.git|Contributed|ArrayUtils
+https://github.com/connornishijima/Pixie_Chroma_Lite.git|Contributed|PixieChromaLite
