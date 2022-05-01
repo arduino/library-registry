@@ -4845,3 +4845,4 @@ https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino
 https://github.com/UnexpectedMaker/esp32s3-arduino-helper
 https://github.com/bsch2734/SpiShiftRegisterChain
 https://github.com/khoih-prog/FTP_Server_Teensy41
+https://github.com/SkyIsTheLimit/arduino-array-utils
