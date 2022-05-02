@@ -4950,3 +4950,4 @@ https://github.com/Francis-Magallanes/CircularQueue.git|Contributed|CircularQueu
 https://github.com/dmadison/Sim-Racing-Arduino.git|Contributed|Sim Racing Library
 https://github.com/alranel/BLESensorGateway.git|Contributed|BLESensorGateway
 https://github.com/Infineon/motor-system-ic-tle956x.git|Contributed|motor system IC TLE956x
+https://github.com/iddi/oocsi-esp.git|Contributed|OOCSI
