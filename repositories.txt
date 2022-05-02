@@ -4850,3 +4850,4 @@ https://github.com/khoih-prog/FTP_Server_Teensy41
 https://github.com/SkyIsTheLimit/arduino-array-utils
 https://github.com/connornishijima/Pixie_Chroma_Lite
 https://github.com/alranel/BLESensorGateway
+https://github.com/Infineon/motor-system-ic-tle956x
