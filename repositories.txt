@@ -4851,3 +4851,4 @@ https://github.com/SkyIsTheLimit/arduino-array-utils
 https://github.com/connornishijima/Pixie_Chroma_Lite
 https://github.com/alranel/BLESensorGateway
 https://github.com/Infineon/motor-system-ic-tle956x
+https://github.com/iddi/oocsi-esp
