@@ -4854,3 +4854,4 @@ https://github.com/alranel/BLESensorGateway
 https://github.com/Infineon/motor-system-ic-tle956x
 https://github.com/iddi/oocsi-esp
 https://github.com/MaximeLBG/CV7OEMFR
+https://github.com/Wolodia-M/btnapi-library
