@@ -4954,3 +4954,4 @@ https://github.com/iddi/oocsi-esp.git|Contributed|OOCSI
 https://github.com/Dlloydev/Toggle.git|Contributed|Toggle
 https://github.com/MaximeLBG/CV7OEMFR.git|Contributed|CV7OEMFR
 https://github.com/Wolodia-M/btnapi-library.git|Contributed|btnapi
+https://github.com/Wolodia-M/flagsapi-library.git|Contributed|flagsapi
