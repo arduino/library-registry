@@ -888,7 +888,6 @@ https://github.com/IndustrialShields/arduino-IndustrialShields.git|Contributed|I
 https://github.com/imrehorvath/BridgeHttpClient.git|Contributed|BridgeHttpClient
 https://github.com/polygondoor/Pablo.git|Contributed|Pablo
 https://github.com/Isaranu/IoTtweet.git|Contributed|IoTtweet
-https://github.com/aspenforest/SIM800.git|Contributed|Aspen SIM800
 https://github.com/connect-things/ConnectThings_ESP8266.git|Contributed|ConnectThings_ESP8266
 https://github.com/maly/edushield.git|Contributed|EduShield
 https://github.com/connornishijima/Lixie-arduino.git|Contributed|Lixie
