@@ -200,6 +200,7 @@ https://github.com/DFRobot/DFRobot_QMC5883
 https://github.com/DFRobot/DFRobot_TCS34725
 https://github.com/DFRobot/DFRobot_I2C_Multiplexer
 https://github.com/DFRobot/DFRobot_Gesture_Touch
+https://github.com/DFRobot/DFRobot_CH423
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
