@@ -4957,3 +4957,5 @@ https://github.com/Wolodia-M/flagsapi-library.git|Contributed|flagsapi
 https://github.com/MdelgadoL83/TapatioElectronics.git|Contributed|TapatioElectronics
 https://github.com/DFRobot/DFRobot_CH423.git|Contributed|DFRobot_CH423
 https://github.com/siktec-lab/SIKTEC-MDSwitch.git|Contributed|SIKTEC_MDSwitch
+https://github.com/DFRobot/DFRobot_OLED12864.git|Contributed|DFRobot_OLED12864
+https://github.com/DFRobot/DFRobot_Heartrate.git|Contributed|DFRobot_Heartrate
