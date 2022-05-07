@@ -888,6 +888,7 @@ https://github.com/asukiaaa/arduino-button
 https://github.com/asukiaaa/arduino-HX711
 https://github.com/asukiaaa/arduino-HzMeter
 https://github.com/asukiaaa/arduino-MotorCVD
+https://github.com/asukiaaa/arduino-ResistorReader
 https://github.com/asukiaaa/arduino-rs485
 https://github.com/asukiaaa/arduino-string
 https://github.com/asukiaaa/arduino-TC78B009FTG
