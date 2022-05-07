@@ -4959,3 +4959,4 @@ https://github.com/DFRobot/DFRobot_CH423.git|Contributed|DFRobot_CH423
 https://github.com/siktec-lab/SIKTEC-MDSwitch.git|Contributed|SIKTEC_MDSwitch
 https://github.com/DFRobot/DFRobot_OLED12864.git|Contributed|DFRobot_OLED12864
 https://github.com/DFRobot/DFRobot_Heartrate.git|Contributed|DFRobot_Heartrate
+https://github.com/siktec-lab/SIKTEC-SPI.git|Contributed|SIKTEC_SPI
