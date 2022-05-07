@@ -217,6 +217,7 @@ https://github.com/FTTechBrasil/FTTech_XBee
 https://github.com/siktec-lab/SIKTEC-AVR-Controller
 https://github.com/siktec-lab/SIKTEC-Keys
 https://github.com/siktec-lab/SIKTEC-MDSwitch
+https://github.com/siktec-lab/SIKTEC-SPI
 https://github.com/seanboe/SimpleFusion
 https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
@@ -3596,7 +3597,7 @@ https://github.com/siktec-lab/SIKTEC-SdExplore
 https://github.com/Silvan85/Nova_SDS011
 https://github.com/silvervest/Silvervest_OLED_0010_SPI
 https://github.com/simap/TouchWheel
-https://github.com/simonmonk/arduino_TEA5767
+https://github.com/simonmonk/arduino_TEA5767  
 https://github.com/SimpleHacks/EzDmaHelper
 https://github.com/SimpleHacks/hw_rng
 https://github.com/SimpleHacks/QDEC
