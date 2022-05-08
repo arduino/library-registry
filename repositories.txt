@@ -3284,6 +3284,7 @@ https://github.com/RobTillaart/DHT12
 https://github.com/RobTillaart/DHT20
 https://github.com/RobTillaart/DHT2pin
 https://github.com/RobTillaart/DHTlib
+https://github.com/RobTillaart/DHTINT
 https://github.com/RobTillaart/DHTNew
 https://github.com/RobTillaart/DHTstable
 https://github.com/RobTillaart/DistanceTable
