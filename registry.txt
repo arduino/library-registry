@@ -4967,3 +4967,7 @@ https://github.com/asukiaaa/arduino-Gauge.git|Contributed|Gauge_asukiaaa
 https://github.com/chrmlinux/extendFor.git|Contributed|extendFor
 https://github.com/RobTillaart/DHTINT.git|Contributed|DHTINT
 https://github.com/dani007200964/Shellminator.git|Contributed|Shellminator
+https://github.com/Narwhalsss360/NFuncs.git|Contributed|NFuncs
+https://github.com/Narwhalsss360/NRotary.git|Contributed|NRotary
+https://github.com/Narwhalsss360/NPush.git|Contributed|NPush
+https://github.com/Narwhalsss360/NColor.git|Contributed|NColor
