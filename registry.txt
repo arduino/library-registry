@@ -4963,3 +4963,4 @@ https://github.com/siktec-lab/SIKTEC-SPI.git|Contributed|SIKTEC_SPI
 https://github.com/asukiaaa/arduino-ResistorReader.git|Contributed|ResistorReader_asukiaaa
 https://github.com/siktec-lab/SIKTEC-SRAM.git|Contributed|SIKTEC_SRAM
 https://github.com/LennartHennigs/SimpleFSM.git|Contributed|SimpleFSM
+https://github.com/asukiaaa/arduino-Gauge.git|Contributed|Gauge_asukiaaa
