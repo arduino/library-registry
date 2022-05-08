@@ -4966,3 +4966,4 @@ https://github.com/LennartHennigs/SimpleFSM.git|Contributed|SimpleFSM
 https://github.com/asukiaaa/arduino-Gauge.git|Contributed|Gauge_asukiaaa
 https://github.com/chrmlinux/extendFor.git|Contributed|extendFor
 https://github.com/RobTillaart/DHTINT.git|Contributed|DHTINT
+https://github.com/dani007200964/Shellminator.git|Contributed|Shellminator
