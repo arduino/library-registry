@@ -4971,3 +4971,4 @@ https://github.com/Narwhalsss360/NFuncs.git|Contributed|NFuncs
 https://github.com/Narwhalsss360/NRotary.git|Contributed|NRotary
 https://github.com/Narwhalsss360/NPush.git|Contributed|NPush
 https://github.com/Narwhalsss360/NColor.git|Contributed|NColor
+https://github.com/janscience/ESensors.git|Contributed|ESensors
