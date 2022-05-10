@@ -4972,3 +4972,5 @@ https://github.com/Narwhalsss360/NRotary.git|Contributed|NRotary
 https://github.com/Narwhalsss360/NPush.git|Contributed|NPush
 https://github.com/Narwhalsss360/NColor.git|Contributed|NColor
 https://github.com/janscience/ESensors.git|Contributed|ESensors
+https://github.com/tobozo/ESP32-USB-Soft-Host.git|Contributed|ESP32-USB-Soft-Host
+https://github.com/tobozo/LGFXMeter.git|Contributed|LGFXMeter
