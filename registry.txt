@@ -4974,3 +4974,4 @@ https://github.com/Narwhalsss360/NColor.git|Contributed|NColor
 https://github.com/janscience/ESensors.git|Contributed|ESensors
 https://github.com/tobozo/ESP32-USB-Soft-Host.git|Contributed|ESP32-USB-Soft-Host
 https://github.com/tobozo/LGFXMeter.git|Contributed|LGFXMeter
+https://github.com/Goji2100/ESP32softPWM.git|Contributed|ESP32softPWM
