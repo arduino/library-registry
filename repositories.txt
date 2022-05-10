@@ -4122,8 +4122,10 @@ https://github.com/toblum/TetrisAnimation
 https://github.com/tobozo/ESP32-Chimera-Core
 https://github.com/tobozo/ESP32-PsRamFS
 https://github.com/tobozo/ESP32-targz
+https://github.com/tobozo/ESP32-USB-Soft-Host
 https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
+https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
