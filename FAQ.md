@@ -141,7 +141,7 @@ If you discover a problem with the library release, simply fix the problem and m
 In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
 
 1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
-1. Open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
+1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+release+removal&template=release-removal.yml&title=Library+release+removal+request), specifying the name of the library and the version number of the release that should be removed.
 
 <a id="how-can-i-change-my-librarys-name"></a>
 
@@ -153,7 +153,7 @@ If you wish to change the name it will need to be done manually by request:
 
 1. Change the `name` value in the [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
 1. Create a release or tag.
-1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and stating the URL of the library's repository.
+1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+rename&template=rename.yml&title=Library+name+change+request) specifying the URL of the library's repository.
 
 ## Limitations
 
