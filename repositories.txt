@@ -4877,3 +4877,4 @@ https://github.com/Wolodia-M/flagsapi-library
 https://github.com/chrmlinux/extendFor
 https://github.com/Goji2100/ESP32softPWM
 https://github.com/aviancompany/LCD_I2C
+https://github.com/ripred/ButtonGestures
