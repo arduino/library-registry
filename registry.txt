@@ -4979,3 +4979,4 @@ https://github.com/aviancompany/LCD_I2C.git|Contributed|Avian LiquidCrystal
 https://github.com/ripred/ButtonGestures.git|Contributed|ButtonGestures
 https://github.com/ripred/TomServo.git|Contributed|TomServo
 https://github.com/khoih-prog/FTPClient_Generic.git|Contributed|FTPClient_Generic
+https://github.com/Narwhalsss360/NDefs.git|Contributed|NDefs
