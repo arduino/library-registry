@@ -96,5 +96,4 @@ because it was not compliant with all [the requirements](FAQ.md#update-requireme
 This repository is not an appropriate place to request support or report problems with a library. Check the library's
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
 
-If the problem is about something else, please make an issue report here:
-https://github.com/arduino/library-registry/issues?q=is%3Aissue
+If the problem is about something else, please submit an issue report [here](https://github.com/arduino/library-registry/issues/new/choose).
