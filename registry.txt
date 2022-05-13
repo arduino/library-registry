@@ -4980,3 +4980,4 @@ https://github.com/ripred/ButtonGestures.git|Contributed|ButtonGestures
 https://github.com/ripred/TomServo.git|Contributed|TomServo
 https://github.com/khoih-prog/FTPClient_Generic.git|Contributed|FTPClient_Generic
 https://github.com/Narwhalsss360/NDefs.git|Contributed|NDefs
+https://github.com/sparkfun/SparkFun_ADIN1110_Arduino_Library.git|Contributed|SparkFun ADIN1110 Arduino Library
