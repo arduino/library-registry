@@ -4882,4 +4882,4 @@ https://github.com/aviancompany/LCD_I2C
 https://github.com/ripred/TomServo
 https://github.com/ripred/ButtonGestures
 https://github.com/khoih-prog/FTPClient_Generic
-
+https://github.com/ripred/CPUTemp
