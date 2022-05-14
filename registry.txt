@@ -4982,3 +4982,4 @@ https://github.com/khoih-prog/FTPClient_Generic.git|Contributed|FTPClient_Generi
 https://github.com/Narwhalsss360/NDefs.git|Contributed|NDefs
 https://github.com/sparkfun/SparkFun_ADIN1110_Arduino_Library.git|Contributed|SparkFun ADIN1110 Arduino Library
 https://github.com/ripred/CPUTemp.git|Contributed|CPUTemp
+https://github.com/ripred/CPUVolt.git|Contributed|CPUVolt
