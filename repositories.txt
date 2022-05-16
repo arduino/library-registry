@@ -1327,6 +1327,7 @@ https://github.com/distrakt/OmEspHelpers
 https://github.com/DjamesSuhanko/bbPrinter
 https://github.com/DjamesSuhanko/EasyColor
 https://github.com/DjamesSuhanko/EasyPCF8574
+https://github.com/DjamesSuhanko/EasyPCF8575
 https://github.com/djGrrr/Int64String
 https://github.com/djuseeq/Ch376msc
 https://github.com/OttoDIY/OttoDIYLib
