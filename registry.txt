@@ -4984,3 +4984,4 @@ https://github.com/sparkfun/SparkFun_ADIN1110_Arduino_Library.git|Contributed|Sp
 https://github.com/ripred/CPUTemp.git|Contributed|CPUTemp
 https://github.com/ripred/CPUVolt.git|Contributed|CPUVolt
 https://github.com/Phambili-Tech/Newt_Display.git|Contributed|Newt_Display
+https://github.com/DjamesSuhanko/EasyPCF8575.git|Contributed|EasyPCF8575
