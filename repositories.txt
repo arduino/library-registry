@@ -27,6 +27,7 @@ https://github.com/PowerBroker2/navduino
 https://github.com/nap-software/libnapc-arduino-nightly-releases
 https://github.com/nap-software/libnapc-arduino-releases
 https://github.com/n-wach/camino
+https://gitlab.com/escalator-home-automation/escalator-switch
 https://gitlab.com/atesin/XxHash_arduino
 https://bitbucket.org/David_Such/nexgen_AHRS
 https://github.com/gianni-carbone/STM32mcp4151
