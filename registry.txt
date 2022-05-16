@@ -4985,3 +4985,4 @@ https://github.com/ripred/CPUTemp.git|Contributed|CPUTemp
 https://github.com/ripred/CPUVolt.git|Contributed|CPUVolt
 https://github.com/Phambili-Tech/Newt_Display.git|Contributed|Newt_Display
 https://github.com/DjamesSuhanko/EasyPCF8575.git|Contributed|EasyPCF8575
+https://gitlab.com/escalator-home-automation/escalator-switch.git|Contributed|EscalatorSwitch
