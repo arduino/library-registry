@@ -4987,3 +4987,4 @@ https://github.com/Phambili-Tech/Newt_Display.git|Contributed|Newt_Display
 https://github.com/DjamesSuhanko/EasyPCF8575.git|Contributed|EasyPCF8575
 https://gitlab.com/escalator-home-automation/escalator-switch.git|Contributed|EscalatorSwitch
 https://github.com/RAKWireless/RAK12034-BMX160.git|Contributed|RAKwireless RAK12034
+https://github.com/RAKWireless/RAK12033-IIM42652.git|Contributed|RAKwireless RAK12033 Library
