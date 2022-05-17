@@ -4891,3 +4891,4 @@ https://github.com/ripred/CPUTemp
 https://github.com/ripred/CPUVolt
 https://github.com/Phambili-Tech/Newt_Display
 https://github.com/lewisxhe/AXP202X_Library
+https://github.com/levkovigor/ADF7023
