@@ -4989,3 +4989,4 @@ https://gitlab.com/escalator-home-automation/escalator-switch.git|Contributed|Es
 https://github.com/RAKWireless/RAK12034-BMX160.git|Contributed|RAKwireless RAK12034
 https://github.com/RAKWireless/RAK12033-IIM42652.git|Contributed|RAKwireless RAK12033 Library
 https://github.com/Narwhalsss360/NTimer.git|Contributed|NTimer
+https://github.com/lewisxhe/AXP202X_Library.git|Contributed|AXP202X_Library
