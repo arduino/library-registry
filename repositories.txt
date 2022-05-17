@@ -4890,3 +4890,4 @@ https://github.com/khoih-prog/FTPClient_Generic
 https://github.com/ripred/CPUTemp
 https://github.com/ripred/CPUVolt
 https://github.com/Phambili-Tech/Newt_Display
+https://github.com/lewisxhe/AXP202X_Library
