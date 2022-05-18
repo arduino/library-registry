@@ -4993,3 +4993,4 @@ https://github.com/lewisxhe/AXP202X_Library.git|Contributed|AXP202X_Library
 https://github.com/levkovigor/ADF7023.git|Contributed|ADF7023
 https://github.com/khoih-prog/WiFiManager_RTL8720.git|Contributed|WiFiManager_RTL8720
 https://github.com/mechasolution/Mecha_VoiceRecognitionModule.git|Contributed|Mechasolution Voice Recognition Module
+https://github.com/chrmlinux/linaGFX.git|Contributed|linaGFX
