@@ -4995,3 +4995,4 @@ https://github.com/khoih-prog/WiFiManager_RTL8720.git|Contributed|WiFiManager_RT
 https://github.com/mechasolution/Mecha_VoiceRecognitionModule.git|Contributed|Mechasolution Voice Recognition Module
 https://github.com/chrmlinux/linaGFX.git|Contributed|linaGFX
 https://github.com/todd-herbert/absolute-mouse.git|Contributed|AbsoluteMouse
+https://github.com/richard26a/LED_Controls.git|Contributed|LED_Controls
