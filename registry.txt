@@ -4991,3 +4991,4 @@ https://github.com/RAKWireless/RAK12033-IIM42652.git|Contributed|RAKwireless RAK
 https://github.com/Narwhalsss360/NTimer.git|Contributed|NTimer
 https://github.com/lewisxhe/AXP202X_Library.git|Contributed|AXP202X_Library
 https://github.com/levkovigor/ADF7023.git|Contributed|ADF7023
+https://github.com/khoih-prog/WiFiManager_RTL8720.git|Contributed|WiFiManager_RTL8720
