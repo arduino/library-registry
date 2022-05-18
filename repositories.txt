@@ -2660,6 +2660,7 @@ https://github.com/modulolabs/modulo-lib
 https://github.com/MohammedRashad/ArduZ80
 https://github.com/Mokolea/InputDebounce
 https://github.com/monolithicpower/MagAlpha-Arduino-Library
+https://github.com/monolithicpower/MagVector-Arduino-Library
 https://github.com/monoxit/RTC4543lib
 https://github.com/MonsieurV/ArduinoPocketGeiger
 https://github.com/monstrenyatko/ArduinoMqtt
