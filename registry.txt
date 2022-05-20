@@ -5000,3 +5000,4 @@ https://github.com/monolithicpower/MagVector-Arduino-Library.git|Contributed|Mag
 https://github.com/DFRobot/DFRobot_OSD.git|Contributed|DFRobot_OSD
 https://github.com/DFRobot/DFRobot_EC10.git|Contributed|DFRobot_EC10
 https://github.com/DFRobot/DFRobot_LSM303.git|Contributed|DFRobot_LSM303
+https://github.com/koendv/RTTStream.git|Contributed|RTT Stream
