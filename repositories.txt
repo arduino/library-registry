@@ -212,6 +212,10 @@ https://github.com/DFRobot/DFRobot_Gesture_Touch
 https://github.com/DFRobot/DFRobot_CH423
 https://github.com/DFRobot/DFRobot_OLED12864
 https://github.com/DFRobot/DFRobot_Heartrate
+https://github.com/DFRobot/DFRobot_OSD
+https://github.com/DFRobot/DFRobot_AnalogACurrentSensor
+https://github.com/DFRobot/DFRobot_EC10
+https://github.com/DFRobot/DFRobot_LSM303
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
