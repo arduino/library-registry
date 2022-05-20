@@ -4997,3 +4997,6 @@ https://github.com/chrmlinux/linaGFX.git|Contributed|linaGFX
 https://github.com/todd-herbert/absolute-mouse.git|Contributed|AbsoluteMouse
 https://github.com/richard26a/LED_Controls.git|Contributed|LED_Controls
 https://github.com/monolithicpower/MagVector-Arduino-Library.git|Contributed|MagVector 3D Magnetic Sensor
+https://github.com/DFRobot/DFRobot_OSD.git|Contributed|DFRobot_OSD
+https://github.com/DFRobot/DFRobot_EC10.git|Contributed|DFRobot_EC10
+https://github.com/DFRobot/DFRobot_LSM303.git|Contributed|DFRobot_LSM303
