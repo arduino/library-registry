@@ -5002,3 +5002,4 @@ https://github.com/DFRobot/DFRobot_EC10.git|Contributed|DFRobot_EC10
 https://github.com/DFRobot/DFRobot_LSM303.git|Contributed|DFRobot_LSM303
 https://github.com/koendv/RTTStream.git|Contributed|RTT Stream
 https://github.com/MSZ98/pcf8574.git|Contributed|pcf8574
+https://github.com/bolderflight/ms4525do.git|Contributed|Bolder Flight Systems MS4525
