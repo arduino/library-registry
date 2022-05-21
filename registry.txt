@@ -5004,3 +5004,4 @@ https://github.com/koendv/RTTStream.git|Contributed|RTT Stream
 https://github.com/MSZ98/pcf8574.git|Contributed|pcf8574
 https://github.com/bolderflight/ms4525do.git|Contributed|Bolder Flight Systems MS4525
 https://github.com/HakkanR/DMD2TUR.git|Contributed|DMD2TUR
+https://github.com/bpescarolli/74XX595_lib.git|Contributed|Control_ShiftRegister_74XX595
