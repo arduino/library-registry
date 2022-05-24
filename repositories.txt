@@ -4916,3 +4916,4 @@ https://github.com/richard26a/LED_Controls
 https://github.com/koendv/RTTStream
 https://github.com/bpescarolli/74XX595_lib
 https://github.com/mkogax/GG_for_Arduino
+https://github.com/MaximeLBG/CV7OEMFR
