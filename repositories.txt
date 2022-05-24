@@ -218,6 +218,8 @@ https://github.com/DFRobot/DFRobot_Heartrate
 https://github.com/DFRobot/DFRobot_OSD
 https://github.com/DFRobot/DFRobot_EC10
 https://github.com/DFRobot/DFRobot_LSM303
+https://github.com/DFRobot/DFRobot_SU03T
+https://github.com/DFRobot/DFRobot_AD9837
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
