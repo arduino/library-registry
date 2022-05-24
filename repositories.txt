@@ -220,6 +220,12 @@ https://github.com/DFRobot/DFRobot_EC10
 https://github.com/DFRobot/DFRobot_LSM303
 https://github.com/DFRobot/DFRobot_SU03T
 https://github.com/DFRobot/DFRobot_AD9837
+https://github.com/DFRobot/DFRobot_ITG3200
+https://github.com/DFRobot/DFRobot_FreeTenIMU
+https://github.com/DFRobot/DFRobot_ADXL345
+https://github.com/DFRobot/DFRobot_DigitalPot
+https://github.com/DFRobot/DFRobot_MAX31855
+https://github.com/DFRobot/DFRobot_MCP4725
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
