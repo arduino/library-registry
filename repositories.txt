@@ -226,6 +226,7 @@ https://github.com/DFRobot/DFRobot_ADXL345
 https://github.com/DFRobot/DFRobot_DigitalPot
 https://github.com/DFRobot/DFRobot_MAX31855
 https://github.com/DFRobot/DFRobot_MCP4725
+https://github.com/DFRobot/DFRobot_RGBMatrix
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
