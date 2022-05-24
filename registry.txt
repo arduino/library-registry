@@ -5013,3 +5013,4 @@ https://github.com/DFRobot/DFRobot_ADXL345.git|Contributed|DFRobot_ADXL345
 https://github.com/DFRobot/DFRobot_DigitalPot.git|Contributed|DFRobot_digitalPot
 https://github.com/DFRobot/DFRobot_MAX31855.git|Contributed|DFRobot_MAX31855
 https://github.com/DFRobot/DFRobot_MCP4725.git|Contributed|DFRobot_MCP4725
+https://github.com/DFRobot/DFRobot_RGBMatrix.git|Contributed|DFRobot_RGBMatrix
