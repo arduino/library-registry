@@ -4899,6 +4899,7 @@ https://github.com/iddi/oocsi-esp
 https://github.com/MaximeLBG/CV7OEMFR
 https://github.com/Wolodia-M/btnapi-library
 https://github.com/Wolodia-M/flagsapi-library
+https://github.com/Wolodia-M/timersapi-library
 https://github.com/chrmlinux/extendFor
 https://github.com/Goji2100/ESP32softPWM
 https://github.com/aviancompany/LCD_I2C
