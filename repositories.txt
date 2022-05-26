@@ -267,6 +267,7 @@ https://github.com/m5stack/M5_IP5209
 https://github.com/m5stack/UNIT_UHF_RFID
 https://github.com/m5stack/DEMO-BOARD
 https://github.com/m5stack/ATOM_DTU_CAT1
+https://github.com/m5stack/M5BurnerNVS
 https://github.com/MrYsLab/NeoPixelConnect
 https://github.com/bigsmalloverall/SimpleTaskManager
 https://github.com/Infineon/arduino-multi-half-bridge
@@ -4898,6 +4899,7 @@ https://github.com/iddi/oocsi-esp
 https://github.com/MaximeLBG/CV7OEMFR
 https://github.com/Wolodia-M/btnapi-library
 https://github.com/Wolodia-M/flagsapi-library
+https://github.com/Wolodia-M/timersapi-library
 https://github.com/chrmlinux/extendFor
 https://github.com/Goji2100/ESP32softPWM
 https://github.com/aviancompany/LCD_I2C
