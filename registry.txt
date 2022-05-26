@@ -5016,3 +5016,4 @@ https://github.com/DFRobot/DFRobot_MCP4725.git|Contributed|DFRobot_MCP4725
 https://github.com/DFRobot/DFRobot_RGBMatrix.git|Contributed|DFRobot_RGBMatrix
 https://github.com/mkogax/GG_for_Arduino.git|Contributed|GG
 https://github.com/RobTillaart/RS485.git|Contributed|RS485
+https://github.com/m5stack/M5BurnerNVS.git|Contributed|M5BurnerNVS
