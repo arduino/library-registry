@@ -5018,3 +5018,4 @@ https://github.com/mkogax/GG_for_Arduino.git|Contributed|GG
 https://github.com/RobTillaart/RS485.git|Contributed|RS485
 https://github.com/m5stack/M5BurnerNVS.git|Contributed|M5BurnerNVS
 https://github.com/Wolodia-M/timersapi-library.git|Contributed|timersapi
+https://github.com/RobTillaart/SIMON.git|Contributed|SIMON
