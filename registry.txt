@@ -5021,3 +5021,4 @@ https://github.com/Wolodia-M/timersapi-library.git|Contributed|timersapi
 https://github.com/RobTillaart/SIMON.git|Contributed|SIMON
 https://github.com/m5stack/M5Unit-ACSSR.git|Contributed|UNIT_ACSSR
 https://github.com/m5stack/M5Unit-EXTIO2.git|Contributed|M5_EXTIO2
+https://github.com/levkovigor/FastInterruptEncoder.git|Contributed|FastInterruptEncoder
