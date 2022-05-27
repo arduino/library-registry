@@ -249,6 +249,7 @@ https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/Tinyu-Zhao/TinyGPSPlus
 https://github.com/m5stack/M5_BH1750FVI
+https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/UNIT_ENCODER
 https://github.com/m5stack/M5_BM8563
