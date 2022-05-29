@@ -1,3 +1,4 @@
+https://github.com/arbotics-llc/databot_ESP32
 https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
 https://github.com/MSZ98/pcf8574
@@ -8,6 +9,7 @@ https://github.com/Narwhalsss360/NFuncs
 https://github.com/Narwhalsss360/NRotary
 https://github.com/Narwhalsss360/NPush
 https://github.com/Narwhalsss360/NColor
+https://github.com/Narwhalsss360/NHC-SR04
 https://github.com/dani007200964/Shellminator
 https://github.com/MdelgadoL83/TapatioElectronics
 https://github.com/Dlloydev/Toggle
@@ -32,6 +34,7 @@ https://github.com/nap-software/libnapc-arduino-nightly-releases
 https://github.com/nap-software/libnapc-arduino-releases
 https://github.com/n-wach/camino
 https://gitlab.com/escalator-home-automation/escalator-switch
+https://gitlab.com/escalator-home-automation/daily-service
 https://gitlab.com/atesin/XxHash_arduino
 https://bitbucket.org/David_Such/nexgen_AHRS
 https://github.com/gianni-carbone/STM32mcp4151
@@ -248,7 +251,9 @@ https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5_BH1750FVI
+https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/UNIT_ENCODER
 https://github.com/m5stack/M5_BM8563
@@ -2885,6 +2890,7 @@ https://github.com/ozhantr/DigitLedDisplay
 https://github.com/pa-pa/AskSinPP
 https://github.com/pachonk/Sensor
 https://github.com/pacocatech/LedUtil
+https://github.com/PaddyCo/StackmatTimer
 https://github.com/pagongamedev/PagonGameDev_GameLoop
 https://github.com/PalladinoMarco/AlignedJoystick
 https://github.com/Panjkrc/TCS3200_library
@@ -4920,3 +4926,5 @@ https://github.com/richard26a/LED_Controls
 https://github.com/koendv/RTTStream
 https://github.com/bpescarolli/74XX595_lib
 https://github.com/mkogax/GG_for_Arduino
+https://github.com/levkovigor/FastInterruptEncoder
+https://github.com/nfhktwrbq/LedMatrix8x8.git
