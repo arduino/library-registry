@@ -1412,6 +1412,7 @@ https://github.com/eagleSIA/eBoard
 https://github.com/earlephilhower/ESP8266Audio
 https://github.com/earthtown/8_digit_vfd
 https://github.com/EasyG0ing1/BlockNot
+https://github.com/EasyG0ing1/SimpleEncoder
 https://github.com/EasyIoT-BR/Easyiot-Esp8266
 https://github.com/ecal-mid/ESP32Servo360
 https://github.com/eccnil/ESPNow2Mqtt
