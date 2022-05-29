@@ -5025,3 +5025,4 @@ https://github.com/levkovigor/FastInterruptEncoder.git|Contributed|FastInterrupt
 https://github.com/PaddyCo/StackmatTimer.git|Contributed|StackmatTimer
 https://gitlab.com/escalator-home-automation/daily-service.git|Contributed|DailyService
 https://github.com/nfhktwrbq/LedMatrix8x8.git|Contributed|LedMatrix8X8
+https://github.com/arbotics-llc/databot_ESP32.git|Contributed|databot2
