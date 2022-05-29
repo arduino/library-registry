@@ -4925,3 +4925,4 @@ https://github.com/koendv/RTTStream
 https://github.com/bpescarolli/74XX595_lib
 https://github.com/mkogax/GG_for_Arduino
 https://github.com/levkovigor/FastInterruptEncoder
+https://github.com/nfhktwrbq/LedMatrix8x8.git
