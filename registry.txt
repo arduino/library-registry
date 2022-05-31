@@ -4975,7 +4975,6 @@ https://github.com/janscience/ESensors.git|Contributed|ESensors
 https://github.com/tobozo/ESP32-USB-Soft-Host.git|Contributed|ESP32-USB-Soft-Host
 https://github.com/tobozo/LGFXMeter.git|Contributed|LGFXMeter
 https://github.com/Goji2100/ESP32softPWM.git|Contributed|ESP32softPWM
-https://github.com/aviancompany/LCD_I2C.git|Contributed|Avian LiquidCrystal
 https://github.com/ripred/ButtonGestures.git|Contributed|ButtonGestures
 https://github.com/ripred/TomServo.git|Contributed|TomServo
 https://github.com/khoih-prog/FTPClient_Generic.git|Contributed|FTPClient_Generic
