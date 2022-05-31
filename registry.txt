@@ -4975,7 +4975,6 @@ https://github.com/janscience/ESensors.git|Contributed|ESensors
 https://github.com/tobozo/ESP32-USB-Soft-Host.git|Contributed|ESP32-USB-Soft-Host
 https://github.com/tobozo/LGFXMeter.git|Contributed|LGFXMeter
 https://github.com/Goji2100/ESP32softPWM.git|Contributed|ESP32softPWM
-https://github.com/aviancompany/LCD_I2C.git|Contributed|Avian LiquidCrystal
 https://github.com/ripred/ButtonGestures.git|Contributed|ButtonGestures
 https://github.com/ripred/TomServo.git|Contributed|TomServo
 https://github.com/khoih-prog/FTPClient_Generic.git|Contributed|FTPClient_Generic
@@ -5005,3 +5004,29 @@ https://github.com/MSZ98/pcf8574.git|Contributed|pcf8574
 https://github.com/bolderflight/ms4525do.git|Contributed|Bolder Flight Systems MS4525
 https://github.com/HakkanR/DMD2TUR.git|Contributed|DMD2TUR
 https://github.com/bpescarolli/74XX595_lib.git|Contributed|74XX595
+https://github.com/DFRobot/DFRobot_SU03T.git|Contributed|DFRobot_SU03T
+https://github.com/DFRobot/DFRobot_AD9837.git|Contributed|DFRobot_AD9837
+https://github.com/DFRobot/DFRobot_ITG3200.git|Contributed|DFRobot_ITG3200
+https://github.com/DFRobot/DFRobot_FreeTenIMU.git|Contributed|DFRobot_FreeTenIMU
+https://github.com/DFRobot/DFRobot_ADXL345.git|Contributed|DFRobot_ADXL345
+https://github.com/DFRobot/DFRobot_DigitalPot.git|Contributed|DFRobot_digitalPot
+https://github.com/DFRobot/DFRobot_MAX31855.git|Contributed|DFRobot_MAX31855
+https://github.com/DFRobot/DFRobot_MCP4725.git|Contributed|DFRobot_MCP4725
+https://github.com/DFRobot/DFRobot_RGBMatrix.git|Contributed|DFRobot_RGBMatrix
+https://github.com/mkogax/GG_for_Arduino.git|Contributed|GG
+https://github.com/RobTillaart/RS485.git|Contributed|RS485
+https://github.com/m5stack/M5BurnerNVS.git|Contributed|M5BurnerNVS
+https://github.com/Wolodia-M/timersapi-library.git|Contributed|timersapi
+https://github.com/RobTillaart/SIMON.git|Contributed|SIMON
+https://github.com/m5stack/M5Unit-ACSSR.git|Contributed|UNIT_ACSSR
+https://github.com/m5stack/M5Unit-EXTIO2.git|Contributed|M5_EXTIO2
+https://github.com/levkovigor/FastInterruptEncoder.git|Contributed|FastInterruptEncoder
+https://github.com/PaddyCo/StackmatTimer.git|Contributed|StackmatTimer
+https://gitlab.com/escalator-home-automation/daily-service.git|Contributed|DailyService
+https://github.com/nfhktwrbq/LedMatrix8x8.git|Contributed|LedMatrix8X8
+https://github.com/arbotics-llc/databot_ESP32.git|Contributed|databot2
+https://github.com/Narwhalsss360/NHC-SR04.git|Contributed|NHCSR04
+https://github.com/RobTillaart/AS5600.git|Contributed|AS5600
+https://github.com/EasyG0ing1/SimpleEncoder.git|Contributed|SimpleEncoder
+https://github.com/DFRobot/DFRobot_ST7687S.git|Contributed|DFRobot_ST7687S
+https://github.com/DFRobot/DFRobot_MotorStepper.git|Contributed|DFRobot_MotorStepper
