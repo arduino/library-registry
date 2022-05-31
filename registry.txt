@@ -5030,3 +5030,4 @@ https://github.com/RobTillaart/AS5600.git|Contributed|AS5600
 https://github.com/EasyG0ing1/SimpleEncoder.git|Contributed|SimpleEncoder
 https://github.com/DFRobot/DFRobot_ST7687S.git|Contributed|DFRobot_ST7687S
 https://github.com/DFRobot/DFRobot_MotorStepper.git|Contributed|DFRobot_MotorStepper
+https://github.com/Energesis-Ingenieria/Energesis_Sensor.git|Contributed|Energesis_GenericSensor
