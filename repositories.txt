@@ -726,6 +726,7 @@ https://github.com/andium/AmazonDRS
 https://github.com/andium/hueDino
 https://github.com/andrasbiro/AmigaMouseJoyEmu
 https://github.com/AndreaLombardo/L298N
+https://github.com/AndresDuran53/zarus-network-controller
 https://github.com/andrewrapp/xbee-arduino
 https://github.com/andriitishchenko/HardwareButton
 https://github.com/andriyadi/AzureIoTHubMQTTClient
