@@ -5035,3 +5035,4 @@ https://github.com/Energesis-Ingenieria/Energesis_LM35.git|Contributed|Energesis
 https://github.com/vgroenhuis/PneumaticStepper.git|Contributed|PneumaticStepper
 https://github.com/vshymanskyy/Preferences.git|Contributed|Preferences
 https://github.com/AndresDuran53/zarus-network-controller.git|Contributed|IoTController
+https://github.com/DuinoDNS/ddns-arduino-nightly-releases.git|Contributed|ddns
