@@ -5033,3 +5033,4 @@ https://github.com/DFRobot/DFRobot_MotorStepper.git|Contributed|DFRobot_MotorSte
 https://github.com/Energesis-Ingenieria/Energesis_Sensor.git|Contributed|Energesis_GenericSensor
 https://github.com/Energesis-Ingenieria/Energesis_LM35.git|Contributed|Energesis LM35
 https://github.com/vgroenhuis/PneumaticStepper.git|Contributed|PneumaticStepper
+https://github.com/vshymanskyy/Preferences.git|Contributed|Preferences
