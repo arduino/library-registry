@@ -5037,3 +5037,4 @@ https://github.com/vshymanskyy/Preferences.git|Contributed|Preferences
 https://github.com/AndresDuran53/zarus-network-controller.git|Contributed|IoTController
 https://github.com/DuinoDNS/ddns-arduino-nightly-releases.git|Contributed|ddns
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library.git|Contributed|SparkFun BMP384 Arduino Library
+https://github.com/alexbertis/Text2Matrix.git|Contributed|Text2Matrix
