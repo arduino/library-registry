@@ -1,4 +1,12 @@
 {
+  "httpHeaders": [
+    {
+      "urls": ["https://docs.github.com/"],
+      "headers": {
+        "Accept-Encoding": "gzip, deflate, br"
+      }
+    }
+  ],
   "retryOn429": true,
   "retryCount": 3,
   "aliveStatusCodes": [200, 206]
