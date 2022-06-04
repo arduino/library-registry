@@ -3642,6 +3642,7 @@ https://github.com/signetica/SunRise
 https://github.com/sigvaldm/SevenSeg
 https://github.com/siktec-lab/SIK-Rotary-Encoder
 https://github.com/siktec-lab/SIKTEC-SdExplore
+https://github.com/siktec-lab/SIKTEC-EPD
 https://github.com/Silvan85/Nova_SDS011
 https://github.com/silvervest/Silvervest_OLED_0010_SPI
 https://github.com/simap/TouchWheel
