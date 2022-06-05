@@ -5041,3 +5041,4 @@ https://github.com/alexbertis/Text2Matrix.git|Contributed|Text2Matrix
 https://github.com/siktec-lab/SIKTEC-EPD.git|Contributed|SIKTEC_EPD
 https://github.com/janscience/TeeRec.git|Contributed|TeeRec
 https://github.com/jaggzh/mini-ppm-info.git|Contributed|mini-ppm-info
+https://github.com/AntorOfficial/ADCButtons.git|Contributed|ADCButtons
