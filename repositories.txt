@@ -4943,3 +4943,4 @@ https://github.com/Energesis-Ingenieria/Energesis_LM35
 https://github.com/vgroenhuis/PneumaticStepper
 https://github.com/vshymanskyy/Preferences
 https://github.com/alexbertis/Text2Matrix
+https://github.com/dong-higenis/HS_CAN_485_ESP32
