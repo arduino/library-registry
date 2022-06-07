@@ -5043,3 +5043,4 @@ https://github.com/janscience/TeeRec.git|Contributed|TeeRec
 https://github.com/jaggzh/mini-ppm-info.git|Contributed|mini-ppm-info
 https://github.com/AntorOfficial/ADCButtons.git|Contributed|ADCButtons
 https://github.com/dong-higenis/HS_CAN_485_ESP32.git|Contributed|HS_CAN_485_ESP32
+https://github.com/juliusbaechle/MicroQt.git|Contributed|MicroQt
