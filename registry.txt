@@ -5045,3 +5045,4 @@ https://github.com/AntorOfficial/ADCButtons.git|Contributed|ADCButtons
 https://github.com/dong-higenis/HS_CAN_485_ESP32.git|Contributed|HS_CAN_485_ESP32
 https://github.com/juliusbaechle/MicroQt.git|Contributed|MicroQt
 https://github.com/m5stack/M5Module-4Relay.git|Contributed|MODULE_4RELAY
+https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library.git|Contributed|bluemicro_engine
