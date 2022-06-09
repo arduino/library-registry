@@ -4946,3 +4946,4 @@ https://github.com/vshymanskyy/Preferences
 https://github.com/alexbertis/Text2Matrix
 https://github.com/dong-higenis/HS_CAN_485_ESP32
 https://github.com/juliusbaechle/MicroQt
+https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
