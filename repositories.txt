@@ -1,7 +1,7 @@
 https://github.com/DenysChuhlib/NTPtime
 https://github.com/yellobyte/DacESP32
 https://github.com/pangodream/ESP2SOTA
-https://github.com/AntorOfficial/ADCButtons
+https://github.com/An7or/ADCButtons
 https://github.com/jaggzh/mini-ppm-info
 https://github.com/DuinoDNS/ddns-arduino-nightly-releases
 https://github.com/arbotics-llc/databot_ESP32
@@ -29,8 +29,8 @@ https://github.com/dani007200964/Commander-API
 https://github.com/ronbentley1/eazy-Shift-Registers
 https://github.com/ronbentley1/eazy-switch-library
 https://github.com/sleepnow2/ArdRTOS/
-https://github.com/AntorOfficial/LiquidCrystalSerial
-https://github.com/AntorOfficial/LettersKeypad
+https://github.com/An7or/LiquidCrystalSerial
+https://github.com/An7or/LettersKeypad
 https://bitbucket.org/David_Such/nexgen_SBUS
 https://github.com/usini/usini_discord_webhook
 https://github.com/bheesma-10/IP5306_I2C
