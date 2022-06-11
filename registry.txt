@@ -4884,7 +4884,7 @@ https://github.com/bheesma-10/IP5306_I2C.git|Contributed|IP5306_I2C
 https://github.com/adafruit/Adafruit_TSC2007.git|Recommended|Adafruit TSC2007
 https://github.com/khoih-prog/Ethernet_Generic.git|Contributed|Ethernet_Generic
 https://github.com/An7or/LiquidCrystalSerial.git|Contributed|LiquidCrystalSerial
-https://github.com/AntorOfficial/LettersKeypad.git|Contributed|LettersKeypad
+https://github.com/An7or/LettersKeypad.git|Contributed|LettersKeypad
 https://github.com/Sensirion/arduino-i2c-sts4x.git|Contributed|Sensirion I2C STS4x
 https://github.com/Sensirion/arduino-i2c-sf06-lf.git|Contributed|Sensirion I2C SF06-LF
 https://github.com/chrmlinux/ArrayExt.git|Contributed|ArrayExt
