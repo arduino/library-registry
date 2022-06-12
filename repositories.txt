@@ -4958,3 +4958,4 @@ https://github.com/yoprogramo/QRcode_eSPI
 https://github.com/yoprogramo/QRcodeEink
 https://github.com/juliusbaechle/MicroQt
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
+https://github.com/chrmlinux/TrapeZoid
