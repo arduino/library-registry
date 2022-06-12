@@ -4950,5 +4950,10 @@ https://github.com/vgroenhuis/PneumaticStepper
 https://github.com/vshymanskyy/Preferences
 https://github.com/alexbertis/Text2Matrix
 https://github.com/dong-higenis/HS_CAN_485_ESP32
+https://github.com/yoprogramo/QRcodeDisplay
+https://github.com/yoprogramo/QRcodeOled
+https://github.com/yoprogramo/QRcode_ST7789
+https://github.com/yoprogramo/QRcode_eSPI
+https://github.com/yoprogramo/QRcodeEink
 https://github.com/juliusbaechle/MicroQt
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
