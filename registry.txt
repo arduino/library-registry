@@ -5050,3 +5050,4 @@ https://github.com/pangodream/ESP2SOTA.git|Contributed|ESP2SOTA
 https://github.com/yellobyte/DacESP32.git|Contributed|DacESP32
 https://github.com/DenysChuhlib/NTPtime.git|Contributed|NTPtime
 https://github.com/wollewald/ADS1220_WE.git|Contributed|ADS1220_WE
+https://github.com/Narwhalsss360/NEvents.git|Contributed|NEvents
