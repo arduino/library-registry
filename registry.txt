@@ -5055,3 +5055,4 @@ https://github.com/yoprogramo/QRcodeDisplay.git|Contributed|QRcodeDisplay
 https://github.com/yoprogramo/QRcodeOled.git|Contributed|QRcodeOled
 https://github.com/yoprogramo/QRcode_ST7789.git|Contributed|QRcode_ST7789
 https://github.com/yoprogramo/QRcode_eSPI.git|Contributed|QRcode_eSPI
+https://github.com/yoprogramo/QRcodeEink.git|Contributed|QRcodeEink
