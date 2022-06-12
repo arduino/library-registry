@@ -10,6 +10,7 @@ https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
 https://github.com/MSZ98/pcf8574
 https://github.com/Narwhalsss360/NTimer
+https://github.com/Narwhalsss360/NEvents
 https://github.com/Narwhalsss360/NDefs
 https://github.com/janscience/TeeRec
 https://github.com/janscience/ESensors
