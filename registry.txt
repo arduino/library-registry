@@ -5057,3 +5057,4 @@ https://github.com/yoprogramo/QRcode_ST7789.git|Contributed|QRcode_ST7789
 https://github.com/yoprogramo/QRcode_eSPI.git|Contributed|QRcode_eSPI
 https://github.com/yoprogramo/QRcodeEink.git|Contributed|QRcodeEink
 https://github.com/GyverLibs/CharDisplay.git|Contributed|CharDisplay
+https://github.com/chrmlinux/TrapeZoid.git|Contributed|TrapeZoid
