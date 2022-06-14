@@ -5061,3 +5061,4 @@ https://github.com/chrmlinux/TrapeZoid.git|Contributed|TrapeZoid
 https://github.com/hardmax/LogToQueue.git|Contributed|LogToQueue
 https://github.com/jpconstantineau/BlueMicro_nRF52_Arduino_Library.git|Contributed|bluemicro_nrf52
 https://github.com/ncmreynolds/wordwrap.git|Contributed|wordwrap
+https://github.com/RobTillaart/UUID.git|Contributed|UUID
