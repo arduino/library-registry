@@ -1,3 +1,8 @@
+https://github.com/hardmax/LogToQueue
+https://github.com/wollewald/ADS1220_WE
+https://github.com/DenysChuhlib/NTPtime
+https://github.com/yellobyte/DacESP32
+https://github.com/pangodream/ESP2SOTA
 https://github.com/AntorOfficial/ADCButtons
 https://github.com/jaggzh/mini-ppm-info
 https://github.com/DuinoDNS/ddns-arduino-nightly-releases
@@ -6,6 +11,7 @@ https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
 https://github.com/MSZ98/pcf8574
 https://github.com/Narwhalsss360/NTimer
+https://github.com/Narwhalsss360/NEvents
 https://github.com/Narwhalsss360/NDefs
 https://github.com/janscience/TeeRec
 https://github.com/janscience/ESensors
@@ -96,6 +102,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/CharDisplay
 https://github.com/GyverLibs/GyverNTP
 https://github.com/GyverLibs/GyverJoy
 https://github.com/GyverLibs/QuickCharge
@@ -4945,5 +4952,12 @@ https://github.com/vgroenhuis/PneumaticStepper
 https://github.com/vshymanskyy/Preferences
 https://github.com/alexbertis/Text2Matrix
 https://github.com/dong-higenis/HS_CAN_485_ESP32
+https://github.com/yoprogramo/QRcodeDisplay
+https://github.com/yoprogramo/QRcodeOled
+https://github.com/yoprogramo/QRcode_ST7789
+https://github.com/yoprogramo/QRcode_eSPI
+https://github.com/yoprogramo/QRcodeEink
 https://github.com/juliusbaechle/MicroQt
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
+https://github.com/jpconstantineau/BlueMicro_nR52_Arduino_Library
+https://github.com/chrmlinux/TrapeZoid
