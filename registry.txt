@@ -4883,8 +4883,8 @@ https://github.com/ArtronShop/KidMotorV4-Arduino.git|Contributed|KidMotorV4-Ardu
 https://github.com/bheesma-10/IP5306_I2C.git|Contributed|IP5306_I2C
 https://github.com/adafruit/Adafruit_TSC2007.git|Recommended|Adafruit TSC2007
 https://github.com/khoih-prog/Ethernet_Generic.git|Contributed|Ethernet_Generic
-https://github.com/AntorOfficial/LiquidCrystalSerial.git|Contributed|LiquidCrystalSerial
-https://github.com/AntorOfficial/LettersKeypad.git|Contributed|LettersKeypad
+https://github.com/An7or/LiquidCrystalSerial.git|Contributed|LiquidCrystalSerial
+https://github.com/An7or/LettersKeypad.git|Contributed|LettersKeypad
 https://github.com/Sensirion/arduino-i2c-sts4x.git|Contributed|Sensirion I2C STS4x
 https://github.com/Sensirion/arduino-i2c-sf06-lf.git|Contributed|Sensirion I2C SF06-LF
 https://github.com/chrmlinux/ArrayExt.git|Contributed|ArrayExt
@@ -5041,7 +5041,7 @@ https://github.com/alexbertis/Text2Matrix.git|Contributed|Text2Matrix
 https://github.com/siktec-lab/SIKTEC-EPD.git|Contributed|SIKTEC_EPD
 https://github.com/janscience/TeeRec.git|Contributed|TeeRec
 https://github.com/jaggzh/mini-ppm-info.git|Contributed|mini-ppm-info
-https://github.com/AntorOfficial/ADCButtons.git|Contributed|ADCButtons
+https://github.com/An7or/ADCButtons.git|Contributed|ADCButtons
 https://github.com/dong-higenis/HS_CAN_485_ESP32.git|Contributed|HS_CAN_485_ESP32
 https://github.com/juliusbaechle/MicroQt.git|Contributed|MicroQt
 https://github.com/m5stack/M5Module-4Relay.git|Contributed|MODULE_4RELAY
