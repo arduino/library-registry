@@ -1,9 +1,19 @@
+https://github.com/hardmax/LogToQueue
+https://github.com/wollewald/ADS1220_WE
+https://github.com/DenysChuhlib/NTPtime
+https://github.com/yellobyte/DacESP32
+https://github.com/pangodream/ESP2SOTA
+https://github.com/An7or/ADCButtons
+https://github.com/jaggzh/mini-ppm-info
+https://github.com/DuinoDNS/ddns-arduino-nightly-releases
 https://github.com/arbotics-llc/databot_ESP32
 https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
 https://github.com/MSZ98/pcf8574
 https://github.com/Narwhalsss360/NTimer
+https://github.com/Narwhalsss360/NEvents
 https://github.com/Narwhalsss360/NDefs
+https://github.com/janscience/TeeRec
 https://github.com/janscience/ESensors
 https://github.com/Narwhalsss360/NFuncs
 https://github.com/Narwhalsss360/NRotary
@@ -22,8 +32,8 @@ https://github.com/dani007200964/Commander-API
 https://github.com/ronbentley1/eazy-Shift-Registers
 https://github.com/ronbentley1/eazy-switch-library
 https://github.com/sleepnow2/ArdRTOS/
-https://github.com/AntorOfficial/LiquidCrystalSerial
-https://github.com/AntorOfficial/LettersKeypad
+https://github.com/An7or/LiquidCrystalSerial
+https://github.com/An7or/LettersKeypad
 https://bitbucket.org/David_Such/nexgen_SBUS
 https://github.com/usini/usini_discord_webhook
 https://github.com/bheesma-10/IP5306_I2C
@@ -92,6 +102,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/CharDisplay
 https://github.com/GyverLibs/GyverNTP
 https://github.com/GyverLibs/GyverJoy
 https://github.com/GyverLibs/QuickCharge
@@ -230,6 +241,8 @@ https://github.com/DFRobot/DFRobot_DigitalPot
 https://github.com/DFRobot/DFRobot_MAX31855
 https://github.com/DFRobot/DFRobot_MCP4725
 https://github.com/DFRobot/DFRobot_RGBMatrix
+https://github.com/DFRobot/DFRobot_ST7687S
+https://github.com/DFRobot/DFRobot_MotorStepper
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZinggJM/GFX_Extensions
 https://github.com/DFRobot/DFRobot_MLX90614
@@ -251,6 +264,7 @@ https://github.com/FTTechBrasil/AqualaboSensor
 https://github.com/PowerBroker2/MotorController
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/m5stack/M5Module-4Relay
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5_BH1750FVI
 https://github.com/m5stack/M5Unit-EXTIO2
@@ -724,6 +738,7 @@ https://github.com/andium/AmazonDRS
 https://github.com/andium/hueDino
 https://github.com/andrasbiro/AmigaMouseJoyEmu
 https://github.com/AndreaLombardo/L298N
+https://github.com/AndresDuran53/zarus-network-controller
 https://github.com/andrewrapp/xbee-arduino
 https://github.com/andriitishchenko/HardwareButton
 https://github.com/andriyadi/AzureIoTHubMQTTClient
@@ -1412,6 +1427,7 @@ https://github.com/eagleSIA/eBoard
 https://github.com/earlephilhower/ESP8266Audio
 https://github.com/earthtown/8_digit_vfd
 https://github.com/EasyG0ing1/BlockNot
+https://github.com/EasyG0ing1/SimpleEncoder
 https://github.com/EasyIoT-BR/Easyiot-Esp8266
 https://github.com/ecal-mid/ESP32Servo360
 https://github.com/eccnil/ESPNow2Mqtt
@@ -3637,6 +3653,7 @@ https://github.com/signetica/SunRise
 https://github.com/sigvaldm/SevenSeg
 https://github.com/siktec-lab/SIK-Rotary-Encoder
 https://github.com/siktec-lab/SIKTEC-SdExplore
+https://github.com/siktec-lab/SIKTEC-EPD
 https://github.com/Silvan85/Nova_SDS011
 https://github.com/silvervest/Silvervest_OLED_0010_SPI
 https://github.com/simap/TouchWheel
@@ -3763,6 +3780,7 @@ https://github.com/sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
+https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library
 https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library
@@ -4910,7 +4928,6 @@ https://github.com/Wolodia-M/flagsapi-library
 https://github.com/Wolodia-M/timersapi-library
 https://github.com/chrmlinux/extendFor
 https://github.com/Goji2100/ESP32softPWM
-https://github.com/aviancompany/LCD_I2C
 https://github.com/ripred/TomServo
 https://github.com/ripred/ButtonGestures
 https://github.com/khoih-prog/FTPClient_Generic
@@ -4929,3 +4946,18 @@ https://github.com/bpescarolli/74XX595_lib
 https://github.com/mkogax/GG_for_Arduino
 https://github.com/levkovigor/FastInterruptEncoder
 https://github.com/nfhktwrbq/LedMatrix8x8.git
+https://github.com/Energesis-Ingenieria/Energesis_Sensor
+https://github.com/Energesis-Ingenieria/Energesis_LM35
+https://github.com/vgroenhuis/PneumaticStepper
+https://github.com/vshymanskyy/Preferences
+https://github.com/alexbertis/Text2Matrix
+https://github.com/dong-higenis/HS_CAN_485_ESP32
+https://github.com/yoprogramo/QRcodeDisplay
+https://github.com/yoprogramo/QRcodeOled
+https://github.com/yoprogramo/QRcode_ST7789
+https://github.com/yoprogramo/QRcode_eSPI
+https://github.com/yoprogramo/QRcodeEink
+https://github.com/juliusbaechle/MicroQt
+https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
+https://github.com/jpconstantineau/BlueMicro_nRF52_Arduino_Library
+https://github.com/chrmlinux/TrapeZoid
