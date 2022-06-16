@@ -4966,3 +4966,4 @@ https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_nRF52_Arduino_Library
 https://github.com/chrmlinux/TrapeZoid
 https://github.com/Wh1teRabbitHU/LTR-329ALS-01
+https://github.com/galarb/PenYX.git
