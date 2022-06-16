@@ -5065,3 +5065,4 @@ https://github.com/RobTillaart/UUID.git|Contributed|UUID
 https://github.com/ojx/HTTPed.git|Contributed|HTTPed
 https://github.com/Wh1teRabbitHU/LTR-329ALS-01.git|Contributed|LTR-329ALS-01
 https://github.com/brownby/Komotion.git|Contributed|Komotion
+https://github.com/galarb/PenYX.git|Contributed|PenYX
