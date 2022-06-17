@@ -972,6 +972,7 @@ https://github.com/avandalen/avdweb_Switch
 https://github.com/avandalen/VirtualDelay
 https://github.com/avishorp/TM1637
 https://github.com/awesomeshield/Awesome-Shield-Library
+https://github.com/awslabs/simpleiot-arduino
 https://github.com/axelelettronica/sme-lsm6ds3-library
 https://github.com/axelelettronica/sme-nxp-st-library
 https://github.com/axelelettronica/sme-rn2483-library
