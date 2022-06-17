@@ -2300,6 +2300,7 @@ https://github.com/lebuni/ZACwire-Library
 https://github.com/lecsDragos/Arduino_SegmentDisplay_CD4511B
 https://github.com/lectrobox/KeypadShield
 https://github.com/lectrobox/PCJoy
+https://github.com/LeeLeahy2/SdCardServer
 https://github.com/LeemanGeophysicalLLC/FIR_Filter_Arduino_Library
 https://github.com/LeemanGeophysicalLLC/LGLearningShieldLibrary
 https://github.com/leftCoast/LC_baseTools
