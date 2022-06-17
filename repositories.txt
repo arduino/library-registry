@@ -3606,6 +3606,7 @@ https://github.com/SeeedJP/Wio_cell_lib_for_Arduino
 https://github.com/SeeedJP/WioLTEforArduino
 https://github.com/sefisher/fishyDIYdevices
 https://github.com/Seithan/EasyNextionLibrary
+https://github.com/sekigon-gonnoc/Pico-PIO-USB
 https://github.com/sensboston/esp32_moga
 https://github.com/Sensirion/arduino-ble-gadget
 https://github.com/sensirion/arduino-core
