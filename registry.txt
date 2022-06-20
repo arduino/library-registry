@@ -5072,3 +5072,4 @@ https://github.com/LeeLeahy2/SdCardServer.git|Contributed|SdCardServer
 https://github.com/sekigon-gonnoc/Pico-PIO-USB.git|Contributed|Pico PIO USB
 https://github.com/ConnorKirkpatrick/E220Lib.git|Contributed|E220Lib
 https://github.com/ElectroMagus/ESP32MX1508.git|Contributed|ESP32MX1508
+https://github.com/chrmlinux/tinyCore.git|Contributed|tinyCore
