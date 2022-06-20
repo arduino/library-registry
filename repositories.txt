@@ -1,3 +1,4 @@
+https://github.com/goldfish4tech/Goldfish4Tech
 https://github.com/ElectroMagus/ESP32MX1508
 https://github.com/brownby/Komotion
 https://github.com/ojx/HTTPed
@@ -348,7 +349,7 @@ https://github.com/107-systems/107-Arduino-NMEA-Parser
 https://github.com/107-systems/107-Arduino-TCS3472
 https://github.com/107-systems/107-Arduino-TMF8801
 https://github.com/107-systems/107-Arduino-TSL2550
-https://github.com/107-systems/107-Arduino-UAVCAN
+https://github.com/107-systems/107-Arduino-Cyphal
 https://github.com/1IoT/cloud-connectivity-lib
 https://github.com/loginov-rocks/UbxGps
 https://github.com/256dpi/arduino-mqtt
