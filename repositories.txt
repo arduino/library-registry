@@ -4974,3 +4974,4 @@ https://github.com/galarb/PenYX.git
 https://github.com/movetones/Gravitone_ArduinoLibrary
 https://github.com/ConnorKirkpatrick/E220Lib
 https://github.com/chrmlinux/tinyCore
+https://github.com/deneyapkart/deneyap-5x7-led-matris-arduino-library
