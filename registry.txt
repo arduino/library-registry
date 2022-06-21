@@ -5075,3 +5075,4 @@ https://github.com/ElectroMagus/ESP32MX1508.git|Contributed|ESP32MX1508
 https://github.com/chrmlinux/tinyCore.git|Contributed|tinyCore
 https://github.com/goldfish4tech/Goldfish4Tech.git|Contributed|Goldfish4Tech
 https://github.com/Mirco04/Simple_Robot_Motor_Control.git|Contributed|Simple_Robot_Motor_Control
+https://github.com/dai-eoh/ledrgb565.git|Contributed|LedRGB565
