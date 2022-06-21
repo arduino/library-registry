@@ -4975,7 +4975,7 @@ https://github.com/galarb/PenYX.git
 https://github.com/movetones/Gravitone_ArduinoLibrary
 https://github.com/ConnorKirkpatrick/E220Lib
 https://github.com/chrmlinux/tinyCore
-https://github.com/Mirco04/Simple_Robot_Motor_Control
+https://github.com/Mirco04/Robot_Motors_Control
 https://github.com/dai-eoh/ledrgb565
 https://github.com/deneyapkart/deneyap-5x7-led-matris-arduino-library
 https://github.com/deneyapkart/deneyap-oled-ekran-arduino-library
