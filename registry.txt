@@ -5077,3 +5077,4 @@ https://github.com/goldfish4tech/Goldfish4Tech.git|Contributed|Goldfish4Tech
 https://github.com/Mirco04/Simple_Robot_Motor_Control.git|Contributed|Simple_Robot_Motor_Control
 https://github.com/dai-eoh/ledrgb565.git|Contributed|LedRGB565
 https://github.com/deneyapkart/deneyap-5x7-led-matris-arduino-library.git|Contributed|Deneyap 5x7 LED Matris
+https://github.com/deneyapkart/deneyap-oled-ekran-arduino-library.git|Contributed|Deneyap OLED Ekran
