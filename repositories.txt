@@ -4980,3 +4980,4 @@ https://github.com/Mirco04/Simple_HC-SR04_Control
 https://github.com/dai-eoh/ledrgb565
 https://github.com/deneyapkart/deneyap-5x7-led-matris-arduino-library
 https://github.com/deneyapkart/deneyap-oled-ekran-arduino-library
+https://github.com/deneyapkart/deneyap-toprak-nemi-olcer-arduino-library
