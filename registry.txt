@@ -5081,3 +5081,4 @@ https://github.com/deneyapkart/deneyap-oled-ekran-arduino-library.git|Contribute
 https://github.com/Mirco04/Simple_HC-SR04_Control.git|Contributed|Simple_HC-SR04_Control
 https://github.com/deneyapkart/deneyap-toprak-nemi-olcer-arduino-library.git|Contributed|Deneyap Toprak Nemi Olcer
 https://github.com/chan1sook/SensesInnoma.git|Contributed|SensesInnoma
+https://github.com/deneyapkart/deneyap-yagmur-algilayici-arduino-library.git|Contributed|Deneyap Yagmur Algilayici
