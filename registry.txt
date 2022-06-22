@@ -5084,3 +5084,4 @@ https://github.com/chan1sook/SensesInnoma.git|Contributed|SensesInnoma
 https://github.com/deneyapkart/deneyap-yagmur-algilayici-arduino-library.git|Contributed|Deneyap Yagmur Algilayici
 https://github.com/deneyapkart/deneyap-role-arduino-library.git|Contributed|Deneyap Role
 https://github.com/deneyapkart/deneyap-kumanda-kolu-arduino-library.git|Contributed|Deneyap Kumanda Kolu
+https://github.com/deneyapkart/deneyap-hareket-algilama-arduino-library.git|Contributed|Deneyap Hareket Algilama
