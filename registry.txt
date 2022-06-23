@@ -5085,3 +5085,4 @@ https://github.com/deneyapkart/deneyap-role-arduino-library.git|Contributed|Dene
 https://github.com/deneyapkart/deneyap-kumanda-kolu-arduino-library.git|Contributed|Deneyap Kumanda Kolu
 https://github.com/deneyapkart/deneyap-hareket-algilama-arduino-library.git|Contributed|Deneyap Hareket Algilama
 https://github.com/Sensirion/arduino-i2c-sfm3000.git|Contributed|Sensirion I2C SFM3000
+https://github.com/matthias-bs/ESP32_ATC_MiThermometer_Library.git|Contributed|ATC MiThermometer Library
