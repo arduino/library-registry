@@ -4992,3 +4992,7 @@ https://github.com/deneyapkart/deneyap-cift-kanalli-cizgi-algilayici-arduino-lib
 https://github.com/deneyapkart/deneyap-duman-dedektoru-arduino-library
 https://github.com/deneyapkart/deneyap-cift-kanalli-motor-surucu-arduino-library
 https://github.com/deneyapkart/deneyap-dokunmatik-tus-takimi-arduino-library
+https://github.com/deneyapkart/deneyap-9-eksen-ataletsel-olcum-birimi-arduino-library
+https://github.com/deneyapkart/deneyap-basinc-olcer-arduino-library
+https://github.com/deneyapkart/deneyap-mesafe-olcer-isik-algilayici-arduino-library
+https://github.com/deneyapkart/deneyap-derinlik-olcer-arduino-library
