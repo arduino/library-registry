@@ -5094,3 +5094,6 @@ https://github.com/deneyapkart/deneyap-dokunmatik-tus-takimi-arduino-library.git
 https://github.com/deneyapkart/deneyap-9-eksen-ataletsel-olcum-birimi-arduino-library.git|Contributed|Deneyap 9-Eksen Ataletsel Olcum Birimi
 https://github.com/deneyapkart/deneyap-basinc-olcer-arduino-library.git|Contributed|Deneyap Basinc Olcer
 https://github.com/deneyapkart/deneyap-derinlik-olcer-arduino-library.git|Contributed|Deneyap Derinlik Olcer
+https://github.com/deneyapkart/deneyap-sicaklik-nem-basinc-olcer-arduino-library.git|Contributed|Deneyap Sicaklik Nem Basinc Olcer
+https://github.com/deneyapkart/deneyap-mikrofon-arduino-library.git|Contributed|Deneyap Mikrofon
+https://github.com/deneyapkart/deneyap-mesafe-olcer-isik-algilayici-arduino-library.git|Contributed|Deneyap Mesafe Olcer Isik Algilayici
