@@ -4998,3 +4998,4 @@ https://github.com/deneyapkart/deneyap-derinlik-olcer-arduino-library
 https://github.com/deneyapkart/deneyap-sicaklik-nem-basinc-olcer-arduino-library
 https://github.com/deneyapkart/deneyap-mikrofon-arduino-library
 https://github.com/deneyapkart/deneyap-mesafe-olcer-isik-algilayici-arduino-library
+https://github.com/suratin27/ESP32_Control_Lite
