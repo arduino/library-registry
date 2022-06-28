@@ -2,7 +2,7 @@ module github.com/arduino/library-registry/.github/workflows/assets/validate-reg
 
 go 1.17
 
-require github.com/arduino/libraries-repository-engine v1.1.2
+require github.com/arduino/libraries-repository-engine v1.1.3
 
 require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
@@ -27,6 +27,7 @@ require (
 	github.com/pmylund/sortutil v0.0.0-20120526081524-abeda66eb583 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/sirupsen/logrus v1.7.0 // indirect
+	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/vaughan0/go-ini v0.0.0-20130923145212-a98ad7ee00ec // indirect
 	github.com/xanzy/ssh-agent v0.3.1 // indirect
 	go.bug.st/cleanup v1.0.0 // indirect
