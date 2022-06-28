@@ -5101,3 +5101,4 @@ https://github.com/suratin27/ESP32_Control_Lite.git|Contributed|ESP32 Control li
 https://github.com/deneyapkart/deneyap-sicaklik-nem-olcer-arduino-library.git|Contributed|Deneyap Sicaklik Nem Olcer
 https://github.com/deneyapkart/deneyap-hareket-isik-renk-algilayici-mesafe-olcer-arduino-library.git|Contributed|Deneyap Hareket Isik Renk Algilayici Mesafe Olcer
 https://github.com/deneyapkart/deneyap-ultraviyole-isik-algilayici-arduino-library.git|Contributed|Deneyap Ultraviyole Isik Algilayici
+https://github.com/stm32duino/MotionFX.git|Contributed|STM32duino MotionFX
