@@ -5104,3 +5104,5 @@ https://github.com/deneyapkart/deneyap-ultraviyole-isik-algilayici-arduino-libra
 https://github.com/stm32duino/MotionFX.git|Contributed|STM32duino MotionFX
 https://github.com/ethanhjennings/MQTTSerialPrinter.git|Contributed|MQTT and Serial Printer
 https://github.com/hardmax/ADS1232.git|Contributed|ADS1232 Arduino Library
+https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library.git|Contributed|Deneyap Kizilotesi Alici Verici
+https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat MCP7940
