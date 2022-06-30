@@ -5005,4 +5005,5 @@ https://github.com/deneyapkart/deneyap-hareket-isik-renk-algilayici-mesafe-olcer
 https://github.com/deneyapkart/deneyap-ultraviyole-isik-algilayici-arduino-library
 https://github.com/stm32duino/MotionFX
 https://github.com/ethanhjennings/MQTTSerialPrinter
-
+https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library
+https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library
