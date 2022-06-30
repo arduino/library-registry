@@ -1,3 +1,4 @@
+https://github.com/hardmax/ADS1232
 https://github.com/goldfish4tech/Goldfish4Tech
 https://github.com/ElectroMagus/ESP32MX1508
 https://github.com/brownby/Komotion
@@ -5002,3 +5003,6 @@ https://github.com/suratin27/ESP32_Control_Lite
 https://github.com/deneyapkart/deneyap-sicaklik-nem-olcer-arduino-library
 https://github.com/deneyapkart/deneyap-hareket-isik-renk-algilayici-mesafe-olcer-arduino-library
 https://github.com/deneyapkart/deneyap-ultraviyole-isik-algilayici-arduino-library
+https://github.com/stm32duino/MotionFX
+https://github.com/ethanhjennings/MQTTSerialPrinter
+
