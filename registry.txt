@@ -5107,3 +5107,4 @@ https://github.com/hardmax/ADS1232.git|Contributed|ADS1232 Arduino Library
 https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library.git|Contributed|Deneyap Kizilotesi Alici Verici
 https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat MCP7940
 https://github.com/robotman2412/pax-graphics.git|Contributed|PAX Graphics
+https://github.com/matthieuvigne/STS_servos.git|Contributed|STS_Servos
