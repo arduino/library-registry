@@ -5108,3 +5108,4 @@ https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library.g
 https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat MCP7940
 https://github.com/robotman2412/pax-graphics.git|Contributed|PAX Graphics
 https://github.com/matthieuvigne/STS_servos.git|Contributed|STS_Servos
+https://github.com/TheNitek/NDEF.git|Contributed|NDEF_MFRC522
