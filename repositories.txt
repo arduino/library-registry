@@ -5010,3 +5010,4 @@ https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library
 https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library
 https://github.com/matthieuvigne/STS_servos
 https://github.com/TheNitek/NDEF
+https://github.com/lpaseen/ht16k33
