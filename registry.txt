@@ -5113,3 +5113,4 @@ https://github.com/lpaseen/ht16k33.git|Contributed|simple ht16k33 library
 https://github.com/TheNitek/CatGFX.git|Contributed|Cat GFX Thermal Printer Library
 https://github.com/sbouhoun/smoother.git|Contributed|smooth
 https://github.com/electricui/electricui-embedded.git|Contributed|electricui-embedded
+https://github.com/bolderflight/ainstein-usd1.git|Contributed|Bolder Flight Systems Ainstein USD1
