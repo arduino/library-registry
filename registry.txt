@@ -5018,7 +5018,7 @@ https://github.com/RobTillaart/RS485.git|Contributed|RS485
 https://github.com/m5stack/M5BurnerNVS.git|Contributed|M5BurnerNVS
 https://github.com/Wolodia-M/timersapi-library.git|Contributed|timersapi
 https://github.com/RobTillaart/SIMON.git|Contributed|SIMON
-https://github.com/m5stack/M5Unit-ACSSR.git|Contributed|UNIT_ACSSR
+https://github.com/m5stack/M5Unit-ACSSR.git|Contributed|M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-EXTIO2.git|Contributed|M5_EXTIO2
 https://github.com/levkovigor/FastInterruptEncoder.git|Contributed|FastInterruptEncoder
 https://github.com/PaddyCo/StackmatTimer.git|Contributed|StackmatTimer
