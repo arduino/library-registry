@@ -5116,3 +5116,4 @@ https://github.com/electricui/electricui-embedded.git|Contributed|electricui-emb
 https://github.com/bolderflight/ainstein-usd1.git|Contributed|Bolder Flight Systems Ainstein USD1
 https://github.com/m5stack/M5Family.git|Contributed|M5Family
 https://github.com/m5stack/M5Unit-ENV.git|Contributed|M5Unit-ENV
+https://github.com/m5stack/M5Unit-KMeter.git|Contributed|M5Unit-KMeter
