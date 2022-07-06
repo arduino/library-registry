@@ -5114,3 +5114,4 @@ https://github.com/TheNitek/CatGFX.git|Contributed|Cat GFX Thermal Printer Libra
 https://github.com/sbouhoun/smoother.git|Contributed|smooth
 https://github.com/electricui/electricui-embedded.git|Contributed|electricui-embedded
 https://github.com/bolderflight/ainstein-usd1.git|Contributed|Bolder Flight Systems Ainstein USD1
+https://github.com/m5stack/M5Family.git|Contributed|M5Family
