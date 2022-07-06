@@ -5018,3 +5018,4 @@ https://github.com/lpaseen/ht16k33
 https://github.com/TheNitek/CatGFX
 https://github.com/sbouhoun/smoother/
 https://github.com/electricui/electricui-embedded
+https://github.com/stm32duino/LPS22DF
