@@ -288,7 +288,6 @@ https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/UNIT_MQTT
 https://github.com/m5stack/UNIT_SONIC
-https://github.com/m5stack/UNIT_KMeter
 https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5_RoverC
 https://github.com/m5stack/M5_JoyC
