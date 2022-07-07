@@ -5119,3 +5119,4 @@ https://github.com/m5stack/M5Unit-ENV.git|Contributed|M5Unit-ENV
 https://github.com/m5stack/M5Unit-KMeter.git|Contributed|M5Unit-KMeter
 https://github.com/stm32duino/LPS22DF.git|Contributed|STM32duino LPS22DF
 https://github.com/ggerganov/ggwave-arduino.git|Contributed|ggwave
+https://github.com/m5stack/M5Unit-MQTT.git|Contributed|M5Unit-MQTT
