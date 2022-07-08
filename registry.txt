@@ -5104,3 +5104,23 @@ https://github.com/deneyapkart/deneyap-ultraviyole-isik-algilayici-arduino-libra
 https://github.com/stm32duino/MotionFX.git|Contributed|STM32duino MotionFX
 https://github.com/ethanhjennings/MQTTSerialPrinter.git|Contributed|MQTT and Serial Printer
 https://github.com/hardmax/ADS1232.git|Contributed|ADS1232
+https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library.git|Contributed|Deneyap Kizilotesi Alici Verici
+https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat MCP7940
+https://github.com/robotman2412/pax-graphics.git|Contributed|PAX Graphics
+https://github.com/matthieuvigne/STS_servos.git|Contributed|STS_Servos
+https://github.com/TheNitek/NDEF.git|Contributed|NDEF_MFRC522
+https://github.com/lpaseen/ht16k33.git|Contributed|simple ht16k33 library
+https://github.com/TheNitek/CatGFX.git|Contributed|Cat GFX Thermal Printer Library
+https://github.com/sbouhoun/smoother.git|Contributed|smooth
+https://github.com/electricui/electricui-embedded.git|Contributed|electricui-embedded
+https://github.com/bolderflight/ainstein-usd1.git|Contributed|Bolder Flight Systems Ainstein USD1
+https://github.com/m5stack/M5Family.git|Contributed|M5Family
+https://github.com/m5stack/M5Unit-ENV.git|Contributed|M5Unit-ENV
+https://github.com/m5stack/M5Unit-KMeter.git|Contributed|M5Unit-KMeter
+https://github.com/stm32duino/LPS22DF.git|Contributed|STM32duino LPS22DF
+https://github.com/ggerganov/ggwave-arduino.git|Contributed|ggwave
+https://github.com/m5stack/M5Unit-MQTT.git|Contributed|M5Unit-MQTT
+https://github.com/m5stack/M5-DLight.git|Contributed|M5-DLight
+https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch.git|Contributed|PDLS_EXT3_Basic_Touch
+https://github.com/m5stack/M5Core-Ink.git|Contributed|M5Core-Ink
+https://github.com/m5stack/M5Unit-DDS.git|Contributed|M5Unit-DDS
