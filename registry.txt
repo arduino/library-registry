@@ -5123,3 +5123,4 @@ https://github.com/m5stack/M5Unit-MQTT.git|Contributed|M5Unit-MQTT
 https://github.com/m5stack/M5-DLight.git|Contributed|M5-DLight
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch.git|Contributed|PDLS_EXT3_Basic_Touch
 https://github.com/m5stack/M5Core-Ink.git|Contributed|M5Core-Ink
+https://github.com/m5stack/M5Unit-DDS.git|Contributed|M5Unit-DDS
