@@ -5122,3 +5122,4 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch.git|Contributed|PDLS_EXT3_Basi
 https://github.com/m5stack/M5Core-Ink.git|Contributed|M5Core-Ink
 https://github.com/m5stack/M5Unit-DDS.git|Contributed|M5Unit-DDS
 https://github.com/m5stack/M5Unit-PoESP32.git|Contributed|M5Unit-PoESP32
+https://github.com/sstaub/SSD1803A_I2C.git|Contributed|SSD1803A_I2C
