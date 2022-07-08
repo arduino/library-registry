@@ -279,7 +279,6 @@ https://github.com/m5stack/M5Stack
 https://github.com/m5stack/M5Core2
 https://github.com/m5stack/M5StickC
 https://github.com/m5stack/M5StickC-Plus
-https://github.com/m5stack/M5-CoreInk
 https://github.com/m5stack/M5Atom
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
