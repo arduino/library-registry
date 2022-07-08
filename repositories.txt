@@ -280,6 +280,7 @@ https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-DDS
+https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5-DLight
 https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5_ADS1115
