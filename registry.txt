@@ -1961,7 +1961,7 @@ https://github.com/witnessmenow/arduino_twitch_api.git|Contributed|TwitchApi
 https://github.com/adafruit/TinyLoRa.git|Contributed|TinyLoRa
 https://github.com/FaBoPlatform/FaBoUV-Si1132-Library.git|Contributed|FaBo 206 UV Si1132
 https://github.com/FaBoPlatform/FaBoEnvironment-BME680-Library.git|Contributed|FaBo 222 Environment BME680
-https://github.com/fabianoriccardi/esp-logger.git|Contributed|ESP Logger
+https://github.com/fabianoriccardi/ESPLogger.git|Contributed|ESPLogger
 https://github.com/madhephaestus/PVision.git|Contributed|PVision
 https://github.com/FaBoPlatform/FaBoGas-CCS811-Library.git|Contributed|FaBo 223 Gas CCS811
 https://github.com/LUXROBO/MODI-Arduino.git|Contributed|MODI
@@ -5019,7 +5019,7 @@ https://github.com/m5stack/M5BurnerNVS.git|Contributed|M5BurnerNVS
 https://github.com/Wolodia-M/timersapi-library.git|Contributed|timersapi
 https://github.com/RobTillaart/SIMON.git|Contributed|SIMON
 https://github.com/m5stack/M5Unit-ACSSR.git|Contributed|M5Unit-ACSSR
-https://github.com/m5stack/M5Unit-EXTIO2.git|Contributed|M5_EXTIO2
+https://github.com/m5stack/M5Unit-EXTIO2.git|Contributed|M5Unit-EXTIO2
 https://github.com/levkovigor/FastInterruptEncoder.git|Contributed|FastInterruptEncoder
 https://github.com/PaddyCo/StackmatTimer.git|Contributed|StackmatTimer
 https://gitlab.com/escalator-home-automation/daily-service.git|Contributed|DailyService
@@ -5103,7 +5103,7 @@ https://github.com/deneyapkart/deneyap-hareket-isik-renk-algilayici-mesafe-olcer
 https://github.com/deneyapkart/deneyap-ultraviyole-isik-algilayici-arduino-library.git|Contributed|Deneyap Ultraviyole Isik Algilayici
 https://github.com/stm32duino/MotionFX.git|Contributed|STM32duino MotionFX
 https://github.com/ethanhjennings/MQTTSerialPrinter.git|Contributed|MQTT and Serial Printer
-https://github.com/hardmax/ADS1232.git|Contributed|ADS1232 Arduino Library
+https://github.com/hardmax/ADS1232.git|Contributed|ADS1232
 https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library.git|Contributed|Deneyap Kizilotesi Alici Verici
 https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat MCP7940
 https://github.com/robotman2412/pax-graphics.git|Contributed|PAX Graphics
@@ -5114,3 +5114,13 @@ https://github.com/TheNitek/CatGFX.git|Contributed|Cat GFX Thermal Printer Libra
 https://github.com/sbouhoun/smoother.git|Contributed|smooth
 https://github.com/electricui/electricui-embedded.git|Contributed|electricui-embedded
 https://github.com/bolderflight/ainstein-usd1.git|Contributed|Bolder Flight Systems Ainstein USD1
+https://github.com/m5stack/M5Family.git|Contributed|M5Family
+https://github.com/m5stack/M5Unit-ENV.git|Contributed|M5Unit-ENV
+https://github.com/m5stack/M5Unit-KMeter.git|Contributed|M5Unit-KMeter
+https://github.com/stm32duino/LPS22DF.git|Contributed|STM32duino LPS22DF
+https://github.com/ggerganov/ggwave-arduino.git|Contributed|ggwave
+https://github.com/m5stack/M5Unit-MQTT.git|Contributed|M5Unit-MQTT
+https://github.com/m5stack/M5-DLight.git|Contributed|M5-DLight
+https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch.git|Contributed|PDLS_EXT3_Basic_Touch
+https://github.com/m5stack/M5Core-Ink.git|Contributed|M5Core-Ink
+https://github.com/m5stack/M5Unit-DDS.git|Contributed|M5Unit-DDS
