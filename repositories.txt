@@ -279,6 +279,7 @@ https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
+https://github.com/m5stack/M5Unit-DDS
 https://github.com/m5stack/M5-DLight
 https://github.com/m5stack/M5_BH1750FVI
 https://github.com/m5stack/M5Unit-EXTIO2
