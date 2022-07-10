@@ -5126,3 +5126,4 @@ https://github.com/sstaub/SSD1803A_I2C.git|Contributed|SSD1803A_I2C
 https://github.com/KravitzLab/MicrocontrollersForNeuroscience.git|Contributed|OpenBehavior
 https://github.com/RobTillaart/DRV8825.git|Contributed|DRV8825
 https://github.com/Megunolink/FileManager.git|Contributed|MegunoLink File Manager
+https://github.com/ftjuh/I2Cwrapper.git|Contributed|I2Cwrapper
