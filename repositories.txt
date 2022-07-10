@@ -4901,7 +4901,6 @@ https://github.com/stm32duino/X-NUCLEO-53L4A2.git
 https://github.com/khoih-prog/AsyncWebServer_Teensy41
 https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41
 https://github.com/khoih-prog/AsyncUDP_Teensy41
-https://github.com/ftjuh/AccelStepperI2C
 https://github.com/italia/cie-PN532
 https://github.com/patricklaf/SNMP
 https://github.com/khoih-prog/AsyncDNSServer_Teensy41
