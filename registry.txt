@@ -5127,3 +5127,4 @@ https://github.com/KravitzLab/MicrocontrollersForNeuroscience.git|Contributed|Op
 https://github.com/RobTillaart/DRV8825.git|Contributed|DRV8825
 https://github.com/Megunolink/FileManager.git|Contributed|MegunoLink File Manager
 https://github.com/ftjuh/I2Cwrapper.git|Contributed|I2Cwrapper
+https://github.com/adafruit/Adafruit_MMC56x3.git|Recommended|Adafruit MMC56x3
