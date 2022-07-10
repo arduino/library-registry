@@ -512,6 +512,7 @@ https://github.com/adafruit/Adafruit_MLX90393_Library
 https://github.com/adafruit/Adafruit_MLX90395
 https://github.com/adafruit/Adafruit_MLX90640
 https://github.com/adafruit/Adafruit_MMA8451_Library
+https://github.com/adafruit/Adafruit_MMC56x3
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 https://github.com/adafruit/Adafruit_MP3
 https://github.com/adafruit/Adafruit_MPL115A2
