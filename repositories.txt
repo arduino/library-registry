@@ -1,3 +1,4 @@
+https://github.com/ftjuh/I2Cwrapper
 https://github.com/KravitzLab/MicrocontrollersForNeuroscience
 https://github.com/sstaub/SSD1803A_I2C
 https://github.com/bolderflight/ainstein-usd1
