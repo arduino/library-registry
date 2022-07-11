@@ -5132,3 +5132,5 @@ https://github.com/adafruit/Adafruit_PCF8574.git|Recommended|Adafruit PCF8574
 https://github.com/blues/notecard-aux-wifi.git|Contributed|Blues Wireless Notecard Auxiliary Wi-Fi
 https://github.com/m5stack/M5-ADS1115.git|Contributed|M5-ADS1115
 https://github.com/WinsonAPP/WinsonLibrary.git|Contributed|WinsonLib
+https://github.com/m5stack/M5Unit-Encoder.git|Contributed|M5Unit-Encoder
+https://github.com/m5stack/M5-ADS1100.git|Contributed|M5-ADS1100
