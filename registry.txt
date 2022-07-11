@@ -4840,7 +4840,6 @@ https://github.com/stm32duino/X-NUCLEO-53L4A2.git|Contributed|STM32duino X-NUCLE
 https://github.com/khoih-prog/AsyncWebServer_Teensy41.git|Contributed|AsyncWebServer_Teensy41
 https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41.git|Contributed|AsyncHTTPRequest_Teensy41
 https://github.com/khoih-prog/AsyncUDP_Teensy41.git|Contributed|AsyncUDP_Teensy41
-https://github.com/ftjuh/AccelStepperI2C.git|Contributed|AccelStepperI2C
 https://github.com/mcci-catena/MCCI-Catena-PMS7003.git|Contributed|MCCI-Catena-PMS7003
 https://github.com/mcci-catena/MCCI-Catena-SHT3x.git|Contributed|MCCI-Catena-SHT3x
 https://github.com/italia/cie-PN532.git|Contributed|CIE-PN532
