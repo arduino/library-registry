@@ -5130,3 +5130,4 @@ https://github.com/ftjuh/I2Cwrapper.git|Contributed|I2Cwrapper
 https://github.com/adafruit/Adafruit_MMC56x3.git|Recommended|Adafruit MMC56x3
 https://github.com/adafruit/Adafruit_PCF8574.git|Recommended|Adafruit PCF8574
 https://github.com/blues/notecard-aux-wifi.git|Contributed|Blues Wireless Notecard Auxiliary Wi-Fi
+https://github.com/m5stack/M5-ADS1115.git|Contributed|M5-ADS1115
