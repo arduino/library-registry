@@ -5135,3 +5135,4 @@ https://github.com/WinsonAPP/WinsonLibrary.git|Contributed|WinsonLib
 https://github.com/m5stack/M5Unit-Encoder.git|Contributed|M5Unit-Encoder
 https://github.com/m5stack/M5-ADS1100.git|Contributed|M5-ADS1100
 https://github.com/microchip-pic-avr-solutions/veml3328_arduino_driver.git|Contributed|veml3328
+https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver.git|Contributed|mcp9808
