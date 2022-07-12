@@ -1,4 +1,5 @@
 https://github.com/AI5GW/CCIR476
+https://github.com/microchip-pic-avr-solutions/avr-iot-cellular-arduino-library
 https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver
 https://github.com/microchip-pic-avr-solutions/veml3328_arduino_driver
 https://github.com/ftjuh/I2Cwrapper
