@@ -5142,3 +5142,4 @@ https://github.com/m5stack/M5Hat-8Servos.git|Contributed|M5Hat-8Servos
 https://github.com/m5stack/M5-RoverC.git|Contributed|M5-RoverC
 https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect.git|Contributed|SparkFun Qwiic Universal Auto-Detect
 https://github.com/RobTillaart/SparseMatrix.git|Contributed|SparseMatrix
+https://github.com/jbtronics/ESP32Console.git|Contributed|ESP32Console
