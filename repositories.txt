@@ -1,3 +1,8 @@
+https://github.com/AI5GW/CCIR476
+https://github.com/microchip-pic-avr-solutions/avr-iot-cellular-arduino-library
+https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver
+https://github.com/microchip-pic-avr-solutions/veml3328_arduino_driver
+https://github.com/ftjuh/I2Cwrapper
 https://github.com/KravitzLab/MicrocontrollersForNeuroscience
 https://github.com/sstaub/SSD1803A_I2C
 https://github.com/bolderflight/ainstein-usd1
@@ -237,6 +242,7 @@ https://github.com/DFRobot/DFRobot_TCS34725
 https://github.com/DFRobot/DFRobot_I2C_Multiplexer
 https://github.com/DFRobot/DFRobot_Gesture_Touch
 https://github.com/DFRobot/DFRobot_CH423
+https://github.com/WinsonAPP/WinsonLibrary
 https://github.com/DFRobot/DFRobot_OLED12864
 https://github.com/DFRobot/DFRobot_Heartrate
 https://github.com/DFRobot/DFRobot_OSD
@@ -284,11 +290,13 @@ https://github.com/m5stack/M5Atom
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
 https://github.com/m5stack/M5Unified
+https://github.com/m5stack/M5Unit-Encoder
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
+https://github.com/m5stack/M5Hat-8Servos
 https://github.com/m5stack/UNIT_4RELAY
 https://github.com/m5stack/UNIT_MQTT
 https://github.com/m5stack/UNIT_SONIC
@@ -303,7 +311,10 @@ https://github.com/m5stack/M5Module-4Relay
 https://github.com/m5stack/M5Unit-DDS
 https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5-DLight
+https://github.com/m5stack/M5-ADS1115
 https://github.com/m5stack/M5_ADS1115
+https://github.com/m5stack/M5-ADS1100
+https://github.com/m5stack/M5-RoverC
 https://github.com/m5stack/M5_BM8563
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
@@ -511,6 +522,7 @@ https://github.com/adafruit/Adafruit_MLX90393_Library
 https://github.com/adafruit/Adafruit_MLX90395
 https://github.com/adafruit/Adafruit_MLX90640
 https://github.com/adafruit/Adafruit_MMA8451_Library
+https://github.com/adafruit/Adafruit_MMC56x3
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 https://github.com/adafruit/Adafruit_MP3
 https://github.com/adafruit/Adafruit_MPL115A2
@@ -531,6 +543,7 @@ https://github.com/adafruit/Adafruit_NeoTrellisM4
 https://github.com/adafruit/Adafruit_nRF8001
 https://github.com/adafruit/Adafruit_nRFCrypto
 https://github.com/adafruit/Adafruit_OV7670
+https://github.com/adafruit/Adafruit_PCF8574
 https://github.com/adafruit/Adafruit_PCF8591
 https://github.com/adafruit/Adafruit_PCT2075
 https://github.com/adafruit/Adafruit_PixelDust
@@ -1105,6 +1118,7 @@ https://github.com/bluerobotics/BlueRobotics_MS5837_Library
 https://github.com/bluerobotics/BlueRobotics_TSYS01_Library
 https://github.com/bluerobotics/ping-arduino
 https://github.com/blues/note-arduino
+https://github.com/blues/notecard-aux-wifi
 https://github.com/blues/notecard-pseudo-sensor
 https://github.com/blynkkk/blynk-library
 https://github.com/bmellink/IBusBM
@@ -3888,6 +3902,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Step_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_TMF882X_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Twist_Arduino_Library
+https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect
 https://github.com/sparkfun/SparkFun_QwiicNES_Arduino_Library
 https://github.com/sparkfun/SparkFun_QwiicRF_Library
 https://github.com/sparkfun/SparkFun_RedBot_Arduino_Library
@@ -5026,3 +5041,4 @@ https://github.com/TheNitek/CatGFX
 https://github.com/sbouhoun/smoother/
 https://github.com/electricui/electricui-embedded
 https://github.com/stm32duino/LPS22DF
+https://github.com/Megunolink/FileManager
