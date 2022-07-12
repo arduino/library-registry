@@ -3471,6 +3471,7 @@ https://github.com/RobTillaart/SHT31
 https://github.com/RobTillaart/SIMON
 https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SHT85
+https://github.com/RobTillaart/SparseMatrix
 https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
 https://github.com/RobTillaart/Statistic
