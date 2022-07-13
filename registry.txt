@@ -5142,3 +5142,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect.git|Contributed
 https://github.com/RobTillaart/SparseMatrix.git|Contributed|SparseMatrix
 https://github.com/jbtronics/ESP32Console.git|Contributed|ESP32Console
 https://github.com/PontusO/EspATMQTT.git|Contributed|EspATMQTT
+https://github.com/AI5GW/Baudot-Encode-Decode.git|Contributed|BaudotCode
