@@ -1,4 +1,5 @@
 https://github.com/jbtronics/ESP32Console
+https://github.com/AI5GW/Baudot-Encode-Decode
 https://github.com/AI5GW/CCIR476
 https://github.com/microchip-pic-avr-solutions/avr-iot-cellular-arduino-library
 https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver
