@@ -3538,7 +3538,6 @@ https://github.com/andrasbiro/AmigaMouseJoyEmu.git|Contributed|AmigaMouseJoyEmu
 https://github.com/GerLech/LG_Matrix_Print.git|Contributed|LG_Matrix_Print
 https://github.com/khoih-prog/Teensy_TimerInterrupt.git|Contributed|Teensy_TimerInterrupt
 https://github.com/lexus2k/tinyhal.git|Contributed|tinyhal
-https://github.com/m5stack/M5-CoreInk.git|Contributed|M5-CoreInk
 https://github.com/khoih-prog/NRF52_TimerInterrupt.git|Contributed|NRF52_TimerInterrupt
 https://github.com/chayanforyou/WearLeveling.git|Contributed|WearLeveling
 https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library.git|Contributed|SparkFun ADXL313 Arduino Library
@@ -4840,7 +4839,6 @@ https://github.com/stm32duino/X-NUCLEO-53L4A2.git|Contributed|STM32duino X-NUCLE
 https://github.com/khoih-prog/AsyncWebServer_Teensy41.git|Contributed|AsyncWebServer_Teensy41
 https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41.git|Contributed|AsyncHTTPRequest_Teensy41
 https://github.com/khoih-prog/AsyncUDP_Teensy41.git|Contributed|AsyncUDP_Teensy41
-https://github.com/ftjuh/AccelStepperI2C.git|Contributed|AccelStepperI2C
 https://github.com/mcci-catena/MCCI-Catena-PMS7003.git|Contributed|MCCI-Catena-PMS7003
 https://github.com/mcci-catena/MCCI-Catena-SHT3x.git|Contributed|MCCI-Catena-SHT3x
 https://github.com/italia/cie-PN532.git|Contributed|CIE-PN532
@@ -5136,3 +5134,10 @@ https://github.com/m5stack/M5Unit-Encoder.git|Contributed|M5Unit-Encoder
 https://github.com/m5stack/M5-ADS1100.git|Contributed|M5-ADS1100
 https://github.com/microchip-pic-avr-solutions/veml3328_arduino_driver.git|Contributed|veml3328
 https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver.git|Contributed|AVR-IoT MCP9808
+https://github.com/AI5GW/CCIR476.git|Contributed|CCIR476
+https://github.com/microchip-pic-avr-solutions/avr-iot-cellular-arduino-library.git|Contributed|avr-iot-cellular
+https://github.com/m5stack/M5Hat-8Servos.git|Contributed|M5Hat-8Servos
+https://github.com/m5stack/M5-RoverC.git|Contributed|M5-RoverC
+https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect.git|Contributed|SparkFun Qwiic Universal Auto-Detect
+https://github.com/RobTillaart/SparseMatrix.git|Contributed|SparseMatrix
+https://github.com/jbtronics/ESP32Console.git|Contributed|ESP32Console
