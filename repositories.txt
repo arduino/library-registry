@@ -3769,6 +3769,7 @@ https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
+https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library
 https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library
