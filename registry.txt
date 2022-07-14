@@ -5144,3 +5144,4 @@ https://github.com/jbtronics/ESP32Console.git|Contributed|ESP32Console
 https://github.com/PontusO/EspATMQTT.git|Contributed|EspATMQTT
 https://github.com/AI5GW/Baudot-Encode-Decode.git|Contributed|BaudotCode
 https://github.com/chrmlinux/rssRead.git|Contributed|rssRead
+https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library.git|Contributed|SparkFun BMP581 Arduino Library
