@@ -5147,3 +5147,4 @@ https://github.com/chrmlinux/rssRead.git|Contributed|rssRead
 https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library.git|Contributed|SparkFun BMP581 Arduino Library
 https://github.com/GyverLibs/VirtualButton.git|Contributed|VirtualButton
 https://github.com/m5stack/M5Unit-RTC.git|Contributed|M5Unit-RTC
+https://github.com/arduino-libraries/Arduino_Threads.git|Arduino|Arduino_Threads
