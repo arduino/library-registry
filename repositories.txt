@@ -298,6 +298,7 @@ https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
+https://github.com/m5stack/M5Unit-RTC
 https://github.com/m5stack/M5Hat-8Servos
 https://github.com/m5stack/UNIT_4RELAY
 https://github.com/m5stack/UNIT_MQTT
@@ -3474,6 +3475,7 @@ https://github.com/RobTillaart/SHT31
 https://github.com/RobTillaart/SIMON
 https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SHT85
+https://github.com/RobTillaart/SparseArray
 https://github.com/RobTillaart/SparseMatrix
 https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
@@ -5047,3 +5049,5 @@ https://github.com/electricui/electricui-embedded
 https://github.com/stm32duino/LPS22DF
 https://github.com/Megunolink/FileManager
 https://github.com/chrmlinux/rssRead
+https://github.com/arduino-libraries/Arduino_Threads
+https://github.com/anwarminarso/ESPWiFiMqttWrapper
