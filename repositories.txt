@@ -1,3 +1,5 @@
+https://github.com/jbtronics/ESP32Console
+https://github.com/AI5GW/Baudot-Encode-Decode
 https://github.com/AI5GW/CCIR476
 https://github.com/microchip-pic-avr-solutions/avr-iot-cellular-arduino-library
 https://github.com/microchip-pic-avr-solutions/mcp9808_arduino_driver
@@ -117,6 +119,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/VirtualButton
 https://github.com/GyverLibs/CharDisplay
 https://github.com/GyverLibs/GyverNTP
 https://github.com/GyverLibs/GyverJoy
@@ -285,7 +288,6 @@ https://github.com/m5stack/M5Stack
 https://github.com/m5stack/M5Core2
 https://github.com/m5stack/M5StickC
 https://github.com/m5stack/M5StickC-Plus
-https://github.com/m5stack/M5-CoreInk
 https://github.com/m5stack/M5Atom
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
@@ -296,6 +298,7 @@ https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
+https://github.com/m5stack/M5Unit-RTC
 https://github.com/m5stack/M5Hat-8Servos
 https://github.com/m5stack/UNIT_4RELAY
 https://github.com/m5stack/UNIT_MQTT
@@ -3100,6 +3103,7 @@ https://github.com/pololu/zumo-shield-arduino-library
 https://github.com/polygondoor/Pablo
 https://github.com/ponoor/Ponoor_L6470_Library
 https://github.com/ponoor/Ponoor_PowerSTEP01_Library
+https://github.com/PontusO/EspATMQTT
 https://github.com/porrey/EEPROM-Storage
 https://github.com/porrey/max1704x
 https://github.com/porrey/Mioduino
@@ -3822,6 +3826,7 @@ https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
+https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library
 https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library
@@ -4916,7 +4921,6 @@ https://github.com/stm32duino/X-NUCLEO-53L4A2.git
 https://github.com/khoih-prog/AsyncWebServer_Teensy41
 https://github.com/khoih-prog/AsyncHTTPRequest_Teensy41
 https://github.com/khoih-prog/AsyncUDP_Teensy41
-https://github.com/ftjuh/AccelStepperI2C
 https://github.com/italia/cie-PN532
 https://github.com/patricklaf/SNMP
 https://github.com/khoih-prog/AsyncDNSServer_Teensy41
@@ -5043,3 +5047,6 @@ https://github.com/sbouhoun/smoother/
 https://github.com/electricui/electricui-embedded
 https://github.com/stm32duino/LPS22DF
 https://github.com/Megunolink/FileManager
+https://github.com/chrmlinux/rssRead
+https://github.com/arduino-libraries/Arduino_Threads
+https://github.com/anwarminarso/ESPWiFiMqttWrapper
