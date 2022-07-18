@@ -5049,3 +5049,4 @@ https://github.com/stm32duino/LPS22DF
 https://github.com/Megunolink/FileManager
 https://github.com/chrmlinux/rssRead
 https://github.com/arduino-libraries/Arduino_Threads
+https://github.com/anwarminarso/ESPWiFiMqttWrapper
