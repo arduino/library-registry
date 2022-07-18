@@ -5148,3 +5148,4 @@ https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library.git|Contributed|Spar
 https://github.com/GyverLibs/VirtualButton.git|Contributed|VirtualButton
 https://github.com/m5stack/M5Unit-RTC.git|Contributed|M5Unit-RTC
 https://github.com/arduino-libraries/Arduino_Threads.git|Arduino|Arduino_Threads
+https://github.com/anwarminarso/ESPWiFiMqttWrapper.git|Contributed|ESPWiFiMqttWrapper
