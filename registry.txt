@@ -5152,3 +5152,4 @@ https://github.com/anwarminarso/ESPWiFiMqttWrapper.git|Contributed|ESPWiFiMqttWr
 https://github.com/RobTillaart/SparseArray.git|Contributed|SparseArray
 https://github.com/deneyapkart/deneyap-gps-glonass-konum-belirleyici-arduino-library.git|Contributed|Deneyap GPS ve GLONASS Konum Belirleyici
 https://github.com/drmpf/pfodParser.git|Contributed|pfodParser
+https://github.com/pchwalek/AirCommanderEntireControl.git|Contributed|Air Commander Entire Control
