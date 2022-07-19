@@ -5151,3 +5151,4 @@ https://github.com/arduino-libraries/Arduino_Threads.git|Arduino|Arduino_Threads
 https://github.com/anwarminarso/ESPWiFiMqttWrapper.git|Contributed|ESPWiFiMqttWrapper
 https://github.com/RobTillaart/SparseArray.git|Contributed|SparseArray
 https://github.com/deneyapkart/deneyap-gps-glonass-konum-belirleyici-arduino-library.git|Contributed|Deneyap GPS ve GLONASS Konum Belirleyici
+https://github.com/drmpf/pfodParser.git|Contributed|pfodParser
