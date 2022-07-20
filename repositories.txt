@@ -3650,6 +3650,7 @@ https://github.com/sensboston/esp32_moga
 https://github.com/Sensirion/arduino-ble-gadget
 https://github.com/sensirion/arduino-core
 https://github.com/Sensirion/arduino-ess
+https://github.com/Sensirion/arduino-i2c-scd30
 https://github.com/Sensirion/arduino-i2c-scd4x
 https://github.com/Sensirion/arduino-i2c-sen44
 https://github.com/Sensirion/arduino-i2c-sfa3x
