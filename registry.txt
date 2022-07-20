@@ -5154,3 +5154,4 @@ https://github.com/deneyapkart/deneyap-gps-glonass-konum-belirleyici-arduino-lib
 https://github.com/drmpf/pfodParser.git|Contributed|pfodParser
 https://github.com/pchwalek/AirCommanderEntireControl.git|Contributed|Air Commander Entire Control
 https://github.com/Sensirion/arduino-i2c-scd30.git|Contributed|Sensirion I2C SCD30
+https://github.com/GyverLibs/SunPosition.git|Contributed|SunPosition
