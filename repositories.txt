@@ -319,6 +319,7 @@ https://github.com/m5stack/M5Unit-DDS
 https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5-DLight
 https://github.com/m5stack/M5-ADS1115
+https://github.com/m5stack/M5-FPC1020A
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5-ADS1100
 https://github.com/m5stack/M5-RoverC
