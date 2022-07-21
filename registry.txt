@@ -111,7 +111,6 @@ https://github.com/arduinoverkstad/EducationShield.git|Contributed|EducationShie
 # Microsoft
 https://github.com/ms-iot/virtual-shields-arduino.git|Partner|Windows Virtual Shields for Arduino
 https://github.com/Azure/azure-iot-arduino-protocol-http.git|Partner|AzureIoTProtocol_HTTP
-https://github.com/Azure/azure-iot-arduino-protocol-mqtt.git|Partner|AzureIoTProtocol_MQTT
 
 # Temboo
 https://github.com/arduino-libraries/Temboo.git|Arduino|Temboo
