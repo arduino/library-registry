@@ -1033,11 +1033,6 @@ https://github.com/ayushsharma82/ElegantOTA
 https://github.com/ayushsharma82/ESP-DASH
 https://github.com/ayushsharma82/ESPConnect
 https://github.com/ayushsharma82/WebSerial
-https://github.com/Azure/azure-iot-arduino-protocol-http
-https://github.com/Azure/azure-iot-arduino-protocol-mqtt
-https://github.com/Azure/azure-iot-arduino-socket-esp32-wifi
-https://github.com/Azure/azure-iot-arduino-utility
-https://github.com/Azure/azure-iot-arduino
 https://github.com/Azure/azure-sdk-for-c-arduino
 https://github.com/BadASszZ/IoTWebConf_for_Visuino_modified_by_IoT_Jedi
 https://github.com/baggio63446333/QZQSM
