@@ -295,6 +295,7 @@ https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
 https://github.com/m5stack/M5Unified
 https://github.com/m5stack/M5Unit-Encoder
+https://github.com/m5stack/M5Unit-Sonic
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
