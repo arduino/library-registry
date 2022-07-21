@@ -5156,3 +5156,4 @@ https://github.com/pchwalek/AirCommanderEntireControl.git|Contributed|Air Comman
 https://github.com/Sensirion/arduino-i2c-scd30.git|Contributed|Sensirion I2C SCD30
 https://github.com/GyverLibs/SunPosition.git|Contributed|SunPosition
 https://github.com/m5stack/M5Unit-Sonic.git|Contributed|M5Unit-Sonic
+https://github.com/m5stack/M5Unit-UHF-RFID.git|Contributed|M5Unit-UHF-RFID
