@@ -305,6 +305,7 @@ https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-RTC
 https://github.com/m5stack/M5Unit-4RELAY
 https://github.com/m5stack/M5Hat-8Servos
+https://github.com/m5stack/M5Module-4Relay
 https://github.com/m5stack/UNIT_4RELAY
 https://github.com/m5stack/UNIT_MQTT
 https://github.com/m5stack/UNIT_SONIC
