@@ -5039,7 +5039,7 @@ https://github.com/jaggzh/mini-ppm-info.git|Contributed|mini-ppm-info
 https://github.com/An7or/ADCButtons.git|Contributed|ADCButtons
 https://github.com/dong-higenis/HS_CAN_485_ESP32.git|Contributed|HS_CAN_485_ESP32
 https://github.com/juliusbaechle/MicroQt.git|Contributed|MicroQt
-https://github.com/m5stack/M5Module-4Relay.git|Contributed|MODULE_4RELAY
+https://github.com/m5stack/M5Module-4Relay.git|Contributed|M5Module-4Relay
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library.git|Contributed|bluemicro_engine
 https://github.com/pangodream/ESP2SOTA.git|Contributed|ESP2SOTA
 https://github.com/yellobyte/DacESP32.git|Contributed|DacESP32
