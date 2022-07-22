@@ -303,6 +303,7 @@ https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-RTC
+https://github.com/m5stack/M5Unit-4RELAY
 https://github.com/m5stack/M5Hat-8Servos
 https://github.com/m5stack/UNIT_4RELAY
 https://github.com/m5stack/UNIT_MQTT
