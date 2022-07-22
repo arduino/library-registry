@@ -1,3 +1,4 @@
+https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/drmpf/pfodParser
 https://github.com/jbtronics/ESP32Console
 https://github.com/AI5GW/Baudot-Encode-Decode
