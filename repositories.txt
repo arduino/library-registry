@@ -5062,3 +5062,4 @@ https://github.com/anwarminarso/ESPWiFiMqttWrapper
 https://github.com/deneyapkart/deneyap-gps-glonass-konum-belirleyici-arduino-library
 https://github.com/pchwalek/AirCommanderEntireControl
 https://github.com/ArtronShop/easyConfig
+https://github.com/alessandromrc/Arduino_PortentaBreakout
