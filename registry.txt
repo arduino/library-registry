@@ -5162,3 +5162,4 @@ https://github.com/m5stack/M5Unit-4RELAY.git|Contributed|M5Unit-4RELAY
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click.git|Contributed|MIKROE_4_20mA_RT_Click
 https://github.com/ArtronShop/easyConfig.git|Contributed|easyConfig
 https://github.com/nicogou/IoT-Surf-Checker.git|Contributed|surf-checker
+https://github.com/alessandromrc/Custom_PortentaBreakout.git|Contributed|custom_PortentaBreakout
