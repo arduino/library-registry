@@ -5063,3 +5063,4 @@ https://github.com/deneyapkart/deneyap-gps-glonass-konum-belirleyici-arduino-lib
 https://github.com/pchwalek/AirCommanderEntireControl
 https://github.com/ArtronShop/easyConfig
 https://github.com/nicogou/IoT-Surf-Checker
+https://github.com/alessandromrc/Custom_PortentaBreakout
