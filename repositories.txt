@@ -5064,3 +5064,4 @@ https://github.com/pchwalek/AirCommanderEntireControl
 https://github.com/ArtronShop/easyConfig
 https://github.com/nicogou/IoT-Surf-Checker
 https://github.com/alessandromrc/Custom_PortentaBreakout
+https://github.com/avinabmalla/ESP32_BleSerial
