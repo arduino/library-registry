@@ -1,3 +1,6 @@
+https://github.com/drmpf/ESPAutoWiFiConfig
+https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
+https://github.com/drmpf/pfodParser
 https://github.com/jbtronics/ESP32Console
 https://github.com/AI5GW/Baudot-Encode-Decode
 https://github.com/AI5GW/CCIR476
@@ -119,6 +122,7 @@ https://github.com/bolderflight/leb128
 https://github.com/bolderflight/framing
 https://github.com/bolderflight/checksum
 https://github.com/bolderflight/airdata
+https://github.com/GyverLibs/SunPosition
 https://github.com/GyverLibs/VirtualButton
 https://github.com/GyverLibs/CharDisplay
 https://github.com/GyverLibs/GyverNTP
@@ -293,12 +297,15 @@ https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
 https://github.com/m5stack/M5Unified
 https://github.com/m5stack/M5Unit-Encoder
+https://github.com/m5stack/M5Unit-Sonic
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
+https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-RTC
+https://github.com/m5stack/M5Unit-4RELAY
 https://github.com/m5stack/M5Hat-8Servos
 https://github.com/m5stack/UNIT_4RELAY
 https://github.com/m5stack/UNIT_MQTT
@@ -315,6 +322,7 @@ https://github.com/m5stack/M5Unit-DDS
 https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5-DLight
 https://github.com/m5stack/M5-ADS1115
+https://github.com/m5stack/M5-FPC1020A
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5-ADS1100
 https://github.com/m5stack/M5-RoverC
@@ -3649,6 +3657,7 @@ https://github.com/sensboston/esp32_moga
 https://github.com/Sensirion/arduino-ble-gadget
 https://github.com/sensirion/arduino-core
 https://github.com/Sensirion/arduino-ess
+https://github.com/Sensirion/arduino-i2c-scd30
 https://github.com/Sensirion/arduino-i2c-scd4x
 https://github.com/Sensirion/arduino-i2c-sen44
 https://github.com/Sensirion/arduino-i2c-sfa3x
@@ -5051,3 +5060,9 @@ https://github.com/Megunolink/FileManager
 https://github.com/chrmlinux/rssRead
 https://github.com/arduino-libraries/Arduino_Threads
 https://github.com/anwarminarso/ESPWiFiMqttWrapper
+https://github.com/deneyapkart/deneyap-gps-glonass-konum-belirleyici-arduino-library
+https://github.com/pchwalek/AirCommanderEntireControl
+https://github.com/ArtronShop/easyConfig
+https://github.com/nicogou/IoT-Surf-Checker
+https://github.com/alessandromrc/Custom_PortentaBreakout
+https://github.com/avinabmalla/ESP32_BleSerial
