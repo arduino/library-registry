@@ -5165,3 +5165,4 @@ https://github.com/nicogou/IoT-Surf-Checker.git|Contributed|surf-checker
 https://github.com/alessandromrc/Custom_PortentaBreakout.git|Contributed|custom_PortentaBreakout
 https://github.com/avinabmalla/ESP32_BleSerial.git|Contributed|ESP32_BleSerial
 https://github.com/drmpf/ESPAutoWiFiConfig.git|Contributed|ESPAutoWiFiConfig
+https://github.com/RobTillaart/ellipse.git|Contributed|ellipse
