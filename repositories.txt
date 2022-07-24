@@ -1120,7 +1120,7 @@ https://github.com/BlueAndi/vscp-arduino
 https://github.com/BlueDot-Arduino/BlueDot_BMA400
 https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591
 https://github.com/BlueDot-Arduino/BlueDot_BME280
-https://github.com/bluemurder/DS1624
+https://github.com/lucas-inacio/DS1624
 https://github.com/bluemurder/esp8266-ping
 https://github.com/bluemurder/EveryTimer
 https://github.com/bluerobotics/Arduino_I2C_ESC
