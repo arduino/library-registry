@@ -5163,3 +5163,4 @@ https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click.git|Contributed|MIKROE
 https://github.com/ArtronShop/easyConfig.git|Contributed|easyConfig
 https://github.com/nicogou/IoT-Surf-Checker.git|Contributed|surf-checker
 https://github.com/alessandromrc/Custom_PortentaBreakout.git|Contributed|custom_PortentaBreakout
+https://github.com/avinabmalla/ESP32_BleSerial.git|Contributed|ESP32_BleSerial
