@@ -5166,3 +5166,5 @@ https://github.com/alessandromrc/Custom_PortentaBreakout.git|Contributed|custom_
 https://github.com/avinabmalla/ESP32_BleSerial.git|Contributed|ESP32_BleSerial
 https://github.com/drmpf/ESPAutoWiFiConfig.git|Contributed|ESPAutoWiFiConfig
 https://github.com/RobTillaart/ellipse.git|Contributed|ellipse
+https://github.com/stm32duino/LSM6DSV16X.git|Contributed|STM32duino LSM6DSV16X
+https://github.com/stm32duino/LIS2DU12.git|Contributed|STM32duino LIS2DU12
