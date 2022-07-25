@@ -5067,3 +5067,5 @@ https://github.com/ArtronShop/easyConfig
 https://github.com/nicogou/IoT-Surf-Checker
 https://github.com/alessandromrc/Custom_PortentaBreakout
 https://github.com/avinabmalla/ESP32_BleSerial
+https://github.com/stm32duino/LSM6DSV16X
+https://github.com/stm32duino/LIS2DU12
