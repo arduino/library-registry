@@ -1,3 +1,4 @@
+https://github.com/lucas-inacio/DS1624
 https://github.com/drmpf/ESPAutoWiFiConfig
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/drmpf/pfodParser
