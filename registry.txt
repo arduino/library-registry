@@ -5169,3 +5169,4 @@ https://github.com/RobTillaart/ellipse.git|Contributed|ellipse
 https://github.com/stm32duino/LSM6DSV16X.git|Contributed|STM32duino LSM6DSV16X
 https://github.com/stm32duino/LIS2DU12.git|Contributed|STM32duino LIS2DU12
 https://github.com/Andy4495/AY3891x.git|Contributed|AY3891x
+https://github.com/lucas-inacio/DS1624.git|Contributed|DS1624_Library
