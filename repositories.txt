@@ -5071,3 +5071,4 @@ https://github.com/alessandromrc/Custom_PortentaBreakout
 https://github.com/avinabmalla/ESP32_BleSerial
 https://github.com/stm32duino/LSM6DSV16X
 https://github.com/stm32duino/LIS2DU12
+https://github.com/MYBOTIC/DurianBlynkESP8266
