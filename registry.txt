@@ -5171,3 +5171,4 @@ https://github.com/stm32duino/LIS2DU12.git|Contributed|STM32duino LIS2DU12
 https://github.com/Andy4495/AY3891x.git|Contributed|AY3891x
 https://github.com/lucas-inacio/DS1624.git|Contributed|DS1624_Library
 https://github.com/MYBOTIC/DurianBlynkESP8266.git|Contributed|Mybotic Durian Blynk ESP8266
+https://github.com/Justin-Pl/PCA9698.git|Contributed|PCA9698
