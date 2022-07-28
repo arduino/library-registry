@@ -5174,3 +5174,4 @@ https://github.com/MYBOTIC/DurianBlynkESP8266.git|Contributed|Mybotic Durian Bly
 https://github.com/Justin-Pl/PCA9698.git|Contributed|PCA9698
 https://github.com/feanor-anglin/PCF8575-lib.git|Contributed|PCF8575-lib
 https://github.com/GoWired/GoWired-lib.git|Contributed|GoWired-lib
+https://github.com/lu1aat/hellschreiberlib.git|Contributed|hellschreiberlib
