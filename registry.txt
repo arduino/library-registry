@@ -5177,3 +5177,4 @@ https://github.com/GoWired/GoWired-lib.git|Contributed|GoWired-lib
 https://github.com/lu1aat/hellschreiberlib.git|Contributed|hellschreiberlib
 https://github.com/m5stack/M5Unit-CatM.git|Contributed|M5Unit-CatM
 https://github.com/Solo-FL/SOLO-motor-controllers-ARDUINO-library.git|Contributed|SOLOMotorControllers
+https://github.com/m1cr0lab-espboy/ESPboy.git|Contributed|ESPboy
