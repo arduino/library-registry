@@ -5180,3 +5180,4 @@ https://github.com/Solo-FL/SOLO-motor-controllers-ARDUINO-library.git|Contribute
 https://github.com/m1cr0lab-espboy/ESPboy.git|Contributed|ESPboy
 https://github.com/timhendriks93/blender-servo-animation-arduino.git|Contributed|BlenderServoAnimation
 https://github.com/gism/ESP32_AD7190.git|Contributed|AD7190forESP32
+https://github.com/cygig/MCUVoltage.git|Contributed|MCUVoltage
