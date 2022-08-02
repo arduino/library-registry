@@ -2655,6 +2655,7 @@ https://github.com/mcci-catena/MCCI-Catena-SHT3x
 https://github.com/mcci-catena/MCCI_Catena_SCD30
 https://github.com/mcci-catena/MCCI_Catena_SDP
 https://github.com/mcci-catena/MCCI_FRAM_I2C
+https://github.com/mcci-catena/mcci_ltr_329als
 https://github.com/mchwalfajar/jeager-one
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
