@@ -4110,7 +4110,7 @@ https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino
 https://github.com/SunitRaut/Smart-Duty-Cycling-Arduino
 https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab
 https://github.com/SunjunKim/PMW3360
-https://github.com/SUPLA/supla-arduino
+https://github.com/SUPLA/supla-device
 https://github.com/Suraj151/esp8266-framework
 https://github.com/SV-Zanshin/INA
 https://github.com/SvenRosvall/SignalControl
