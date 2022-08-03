@@ -5084,3 +5084,4 @@ https://github.com/lu1aat/hellschreiberlib
 https://github.com/m1cr0lab-espboy/ESPboy
 https://github.com/timhendriks93/blender-servo-animation-arduino
 https://github.com/gism/ESP32_AD7190
+https://github.com/affanhanifathtarech/DS3231_RTC
