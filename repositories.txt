@@ -1073,7 +1073,7 @@ https://github.com/beegee-tokyo/SHT1x-ESP
 https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
 https://github.com/beegee-tokyo/WisBlock-API
-https://github.com/BeelanMX/arduino-LoRaWAN
+https://github.com/ElectronicCats/Beelan-LoRaWAN
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/belidzs/PreciseLM35
 https://github.com/bengtmartensson/ABeacon
