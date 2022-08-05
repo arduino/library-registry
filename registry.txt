@@ -5180,3 +5180,4 @@ https://github.com/mcci-catena/mcci_ltr_329als.git|Contributed|MCCI LTR-329ALS
 https://github.com/RobTillaart/AD5245.git|Contributed|AD5245
 https://github.com/affanhanifathtarech/DS3231_RTC.git|Contributed|DS3231_RTC
 https://github.com/naszly/Arduino-StaticSerialCommands.git|Contributed|StaticSerialCommands
+https://github.com/lewisxhe/XPowersLib.git|Contributed|XPowersLib
