@@ -5083,4 +5083,5 @@ https://github.com/timhendriks93/blender-servo-animation-arduino
 https://github.com/gism/ESP32_AD7190
 https://github.com/affanhanifathtarech/DS3231_RTC
 https://github.com/lewisxhe/XPowersLib
+https://github.com/strid3r21/BeeS3-Arduino-Helper
 
