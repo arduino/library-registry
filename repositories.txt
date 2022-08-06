@@ -68,6 +68,7 @@ https://github.com/Tinyu-Zhao/M5-Depends
 https://github.com/PowerBroker2/navduino
 https://github.com/nap-software/libnapc-arduino-nightly-releases
 https://github.com/nap-software/libnapc-arduino-releases
+https://github.com/adnan-elabdullah/KmeStepper.git
 https://github.com/n-wach/camino
 https://gitlab.com/escalator-home-automation/escalator-switch
 https://gitlab.com/escalator-home-automation/daily-service
