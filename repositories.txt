@@ -3,6 +3,7 @@ https://github.com/dominicklee/TrueProx/
 https://github.com/cygig/MCUVoltage
 https://github.com/Solo-FL/SOLO-motor-controllers-ARDUINO-library
 https://github.com/Justin-Pl/PCA9698
+https://github.com/adnan-elabdullah/KmeStepper
 https://github.com/lucas-inacio/DS1624
 https://github.com/drmpf/ESPAutoWiFiConfig
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
