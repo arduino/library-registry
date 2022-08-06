@@ -5184,3 +5184,4 @@ https://github.com/lewisxhe/XPowersLib.git|Contributed|XPowersLib
 https://github.com/dominicklee/TrueProx.git|Contributed|TrueProx
 https://github.com/strid3r21/BeeS3-Arduino-Helper.git|Contributed|BeeS3
 https://github.com/strid3r21/BeeMotionS3-Arduino-Helper.git|Contributed|BeeMotionS3
+https://github.com/adnan-elabdullah/KmeStepper.git|Contributed|KmeStepper
