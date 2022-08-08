@@ -1142,6 +1142,7 @@ https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
 https://github.com/Bodmer/JPEGDecoder
 https://github.com/Bodmer/TFT_eSPI
+https://github.com/Bodmer/TFT_eWidget
 https://github.com/Bodmer/TJpg_Decoder
 https://github.com/bogde/HX711
 https://github.com/bolderflight/AMS5812
