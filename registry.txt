@@ -5186,3 +5186,4 @@ https://github.com/strid3r21/BeeS3-Arduino-Helper.git|Contributed|BeeS3
 https://github.com/strid3r21/BeeMotionS3-Arduino-Helper.git|Contributed|BeeMotionS3
 https://github.com/adnan-elabdullah/KmeStepper.git|Contributed|KmeStepper
 https://github.com/m5stack/M5Station.git|Contributed|M5Station
+https://github.com/Bodmer/TFT_eWidget.git|Contributed|TFT_eWidget
