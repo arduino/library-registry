@@ -5188,3 +5188,4 @@ https://github.com/adnan-elabdullah/KmeStepper.git|Contributed|KmeStepper
 https://github.com/m5stack/M5Station.git|Contributed|M5Station
 https://github.com/Bodmer/TFT_eWidget.git|Contributed|TFT_eWidget
 https://github.com/deneyapkart/deneyap-hoparlor-arduino-library.git|Contributed|Deneyap Hoparlor
+https://github.com/jfjlaros/textparser.git|Contributed|textparser
