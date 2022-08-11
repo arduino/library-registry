@@ -5191,3 +5191,4 @@ https://github.com/deneyapkart/deneyap-hoparlor-arduino-library.git|Contributed|
 https://github.com/jfjlaros/textparser.git|Contributed|textparser
 https://github.com/A223D/detaBaseArduinoESP32.git|Contributed|detaBaseArduinoESP32
 https://github.com/A223D/Adafruit_4_01_ColourEPaper.git|Contributed|Adafruit_4_01_ColourEPaper
+https://github.com/MSZ98/CallMyFunction.git|Contributed|CallMyFunction
