@@ -5192,3 +5192,4 @@ https://github.com/jfjlaros/textparser.git|Contributed|textparser
 https://github.com/A223D/detaBaseArduinoESP32.git|Contributed|detaBaseArduinoESP32
 https://github.com/A223D/Adafruit_4_01_ColourEPaper.git|Contributed|Adafruit_4_01_ColourEPaper
 https://github.com/MSZ98/CallMyFunction.git|Contributed|CallMyFunction
+https://github.com/sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library.git|Contributed|SparkFun 6DoF ISM330DHCX
