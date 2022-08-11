@@ -1,3 +1,4 @@
+https://github.com/MSZ98/serial-readline
 https://github.com/MSZ98/CallMyFunction
 https://github.com/naszly/Arduino-StaticSerialCommands
 https://github.com/dominicklee/TrueProx/
