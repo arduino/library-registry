@@ -3980,6 +3980,7 @@ https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_FS3000_Arduino_Library
 https://github.com/sparkfun/SparkFunDMX
+https://github.com/sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
