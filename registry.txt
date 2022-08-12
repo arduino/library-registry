@@ -5196,3 +5196,4 @@ https://github.com/sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library.git|Contrib
 https://github.com/MSZ98/serial-readline.git|Contributed|serial-readline
 https://github.com/ponoor/PI4IOE5V6416.git|Contributed|PI4IOE5V6416
 https://github.com/DFRobot/DFRobot_LIDAR07.git|Contributed|DFRobot_LIDAR07
+https://github.com/Gjorgjevikj/SmoothProgress.git|Contributed|SmoothProgress
