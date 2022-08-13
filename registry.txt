@@ -5198,3 +5198,4 @@ https://github.com/ponoor/PI4IOE5V6416.git|Contributed|PI4IOE5V6416
 https://github.com/DFRobot/DFRobot_LIDAR07.git|Contributed|DFRobot_LIDAR07
 https://github.com/Gjorgjevikj/SmoothProgress.git|Contributed|SmoothProgress
 https://github.com/matthieuvigne/RMDX-Arduino.git|Contributed|RMDX
+https://github.com/DanForever/DF-Print.git|Contributed|DF-Print
