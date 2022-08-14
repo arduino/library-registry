@@ -5199,3 +5199,4 @@ https://github.com/DFRobot/DFRobot_LIDAR07.git|Contributed|DFRobot_LIDAR07
 https://github.com/Gjorgjevikj/SmoothProgress.git|Contributed|SmoothProgress
 https://github.com/matthieuvigne/RMDX-Arduino.git|Contributed|RMDX
 https://github.com/DanForever/DF-Print.git|Contributed|DF-Print
+https://github.com/khoih-prog/AsyncTCP_RP2040W.git|Contributed|AsyncTCP_RP2040W
