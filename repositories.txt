@@ -5106,3 +5106,4 @@ https://github.com/khoih-prog/AsyncHTTPRequest_RP2040W
 https://github.com/fatlab101/FixedString
 https://github.com/yuki-miyakoshi/youkey_stepper
 https://github.com/khoih-prog/AsyncUDP_RP2040W
+https://github.com/khoih-prog/AsyncDNSServer_RP2040W
