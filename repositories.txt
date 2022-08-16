@@ -1,3 +1,4 @@
+https://github.com/SpulberGeorge/EasyUltrasonic
 https://github.com/Gjorgjevikj/SmoothProgress
 https://github.com/MSZ98/serial-readline
 https://github.com/MSZ98/CallMyFunction
