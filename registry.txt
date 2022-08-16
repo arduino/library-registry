@@ -5207,3 +5207,6 @@ https://github.com/yuki-miyakoshi/youkey_stepper.git|Contributed|youkey_stepper
 https://github.com/khoih-prog/AsyncUDP_RP2040W.git|Contributed|AsyncUDP_RP2040W
 https://github.com/khoih-prog/AsyncDNSServer_RP2040W.git|Contributed|AsyncDNSServer_RP2040W
 https://github.com/HerrNamenlos123/JTAG_Interface.git|Contributed|JTAG_Interface
+https://github.com/diodeiot/DiodeIoT_SI-1104.git|Contributed|DiodeIoT_SI-1104
+https://github.com/diodeiot/DiodeIoT_SI-1108.git|Contributed|DiodeIoT_SI-1108
+https://github.com/diodeiot/DiodeIoT_SI-1116.git|Contributed|DiodeIoT_SI-1116
