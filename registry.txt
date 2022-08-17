@@ -5213,3 +5213,4 @@ https://github.com/diodeiot/DiodeIoT_SI-1116.git|Contributed|DiodeIoT_SI-1116
 https://github.com/m5stack/M5Unit-RELAY.git|Contributed|M5Unit-RELAY
 https://github.com/SpulberGeorge/EasyUltrasonic.git|Contributed|EasyUltrasonic
 https://github.com/dantudose/LTR308.git|Contributed|LTR308 library
+https://github.com/E-Lagori/ELi_McM_4_00.git|Contributed|ELi_McM_4_00
