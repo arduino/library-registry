@@ -343,6 +343,7 @@ https://github.com/m5stack/M5-FPC1020A
 https://github.com/m5stack/M5_ADS1115
 https://github.com/m5stack/M5-ADS1100
 https://github.com/m5stack/M5-RoverC
+https://github.com/m5stack/M5-LoRaWAN
 https://github.com/m5stack/M5_BM8563
 https://github.com/m5stack/M5_AD9833
 https://github.com/m5stack/M5_BMM150
