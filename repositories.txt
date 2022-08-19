@@ -1,4 +1,3 @@
-https://github.com/Developer-39/Simple-QR-Code
 https://github.com/dantudose/LTR308
 https://github.com/SpulberGeorge/EasyUltrasonic
 https://github.com/Gjorgjevikj/SmoothProgress
