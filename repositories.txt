@@ -821,6 +821,7 @@ https://github.com/Andy4495/ICM7218
 https://github.com/Andy4495/LED744511
 https://github.com/Andy4495/TLC591x
 https://github.com/Andy4495/AY3891x
+https://github.com/Andy4495/SWI2C
 https://github.com/andydoro/DST_RTC
 https://github.com/annem/AD7193
 https://github.com/annem/ADXL362
