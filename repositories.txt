@@ -537,6 +537,7 @@ https://github.com/adafruit/Adafruit_LSM9DS0_Library
 https://github.com/adafruit/Adafruit_LSM9DS1
 https://github.com/adafruit/Adafruit_LTR390
 https://github.com/adafruit/Adafruit_LvGL_Glue
+https://github.com/adafruit/Adafruit_MAX1704X
 https://github.com/adafruit/Adafruit_MAX31856
 https://github.com/adafruit/Adafruit_MAX31865
 https://github.com/adafruit/Adafruit_MCP3008
