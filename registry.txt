@@ -5222,3 +5222,4 @@ https://github.com/E-Lagori/ELi_MdM_4_00.git|Contributed|ELi_MdM_4_00
 https://github.com/m5stack/M5-LoRaWAN.git|Contributed|M5-LoRaWAN
 https://github.com/shurillu/Cdrv8833.git|Contributed|Cdrv8833
 https://github.com/Andy4495/SWI2C.git|Contributed|SWI2C
+https://github.com/khoih-prog/WiFiManager_RP2040W_Lite.git|Contributed|WiFiManager_RP2040W_Lite
