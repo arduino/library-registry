@@ -5125,3 +5125,4 @@ https://github.com/XbergCode/DigitSeparator
 https://github.com/E-Lagori/ELi_MdM_4_00
 https://github.com/shurillu/Cdrv8833
 https://github.com/khoih-prog/WiFiManager_RP2040W_Lite
+https://github.com/khoih-prog/WiFiManager_RP2040W
