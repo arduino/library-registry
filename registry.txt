@@ -5224,3 +5224,4 @@ https://github.com/shurillu/Cdrv8833.git|Contributed|Cdrv8833
 https://github.com/Andy4495/SWI2C.git|Contributed|SWI2C
 https://github.com/khoih-prog/WiFiManager_RP2040W_Lite.git|Contributed|WiFiManager_RP2040W_Lite
 https://github.com/adafruit/Adafruit_MAX1704X.git|Recommended|Adafruit MAX1704X
+https://github.com/khoih-prog/WiFiManager_RP2040W.git|Contributed|WiFiManager_RP2040W
