@@ -5227,3 +5227,4 @@ https://github.com/adafruit/Adafruit_MAX1704X.git|Recommended|Adafruit MAX1704X
 https://github.com/khoih-prog/WiFiManager_RP2040W.git|Contributed|WiFiManager_RP2040W
 https://github.com/natnqweb/EventSystem.git|Contributed|EventSystem
 https://github.com/DIYODEmag/DIYsplay.git|Contributed|DIYsplay
+https://github.com/Tinyu-Zhao/INA3221.git|Contributed|INA3221
