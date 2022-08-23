@@ -5131,3 +5131,4 @@ https://github.com/khoih-prog/WiFiManager_RP2040W
 https://github.com/natnqweb/EventSystem
 https://github.com/DIYODEmag/DIYsplay
 https://github.com/thomasfredericks/MicroOsc
+https://github.com/khoih-prog/ATmega_TimerInterrupt
