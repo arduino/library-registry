@@ -5232,3 +5232,4 @@ https://github.com/BoschSensortec/Bosch-BME68x-Library.git|Contributed|BME68x Se
 https://github.com/thomasfredericks/MicroOsc.git|Contributed|MicroOsc
 https://github.com/khoih-prog/ATmega_TimerInterrupt.git|Contributed|ATmega_TimerInterrupt
 https://github.com/khoih-prog/ATmega_Slow_PWM.git|Contributed|ATmega_Slow_PWM
+https://github.com/khoih-prog/Dx_TimerInterrupt.git|Contributed|Dx_TimerInterrupt
