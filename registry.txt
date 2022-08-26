@@ -5236,3 +5236,4 @@ https://github.com/khoih-prog/Dx_TimerInterrupt.git|Contributed|Dx_TimerInterrup
 https://github.com/Vulintus/ATWINC3400_Driver_Arduino.git|Contributed|Vulintus_ATWINC3400
 https://github.com/khoih-prog/Dx_Slow_PWM.git|Contributed|Dx_Slow_PWM
 https://github.com/TheSpaceDragon/rdv-gy512.git|Contributed|RDV GY-512 Library
+https://github.com/NewhavenDisplay/NHD-Character-LCD-Library.git|Contributed|NHD_Character_LCD
