@@ -5238,3 +5238,4 @@ https://github.com/khoih-prog/Dx_Slow_PWM.git|Contributed|Dx_Slow_PWM
 https://github.com/TheSpaceDragon/rdv-gy512.git|Contributed|RDV GY-512 Library
 https://github.com/NewhavenDisplay/NHD-Character-LCD-Library.git|Contributed|NHD_Character_LCD
 https://github.com/gspsp/tasks.git|Contributed|tasks
+https://github.com/khoih-prog/ATtiny_TimerInterrupt.git|Contributed|ATtiny_TimerInterrupt
