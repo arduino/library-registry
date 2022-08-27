@@ -5241,3 +5241,4 @@ https://github.com/gspsp/tasks.git|Contributed|tasks
 https://github.com/khoih-prog/ATtiny_TimerInterrupt.git|Contributed|ATtiny_TimerInterrupt
 https://github.com/gspsp/Series.git|Contributed|Series
 https://github.com/berrak/LedTask.git|Contributed|LedTask
+https://github.com/asjdf/WebSerialLite.git|Contributed|WebSerialLite
