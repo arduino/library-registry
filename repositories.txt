@@ -1,4 +1,3 @@
-https://github.com/gspsp/tasks
 https://github.com/gspsp/Series
 https://github.com/TheSpaceDragon/rdv-gy512
 https://github.com/BoschSensortec/Bosch-BME68x-Library
