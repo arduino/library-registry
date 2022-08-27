@@ -5242,3 +5242,4 @@ https://github.com/khoih-prog/ATtiny_TimerInterrupt.git|Contributed|ATtiny_Timer
 https://github.com/gspsp/Series.git|Contributed|Series
 https://github.com/berrak/LedTask.git|Contributed|LedTask
 https://github.com/asjdf/WebSerialLite.git|Contributed|WebSerialLite
+https://github.com/adafruit/Adafruit_LTR329_LTR303.git|Recommended|Adafruit LTR329 and LTR303
