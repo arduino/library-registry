@@ -1,3 +1,7 @@
+https://github.com/gspsp/tasks
+https://github.com/gspsp/Series
+https://github.com/TheSpaceDragon/rdv-gy512
+https://github.com/BoschSensortec/Bosch-BME68x-Library
 https://github.com/Developer-39/Simple-QR-Code
 https://github.com/dantudose/LTR308
 https://github.com/SpulberGeorge/EasyUltrasonic
@@ -72,6 +76,7 @@ https://github.com/usini/usini_discord_webhook
 https://github.com/bheesma-10/IP5306_I2C
 https://github.com/Tinyu-Zhao/M5-Outdepends
 https://github.com/Tinyu-Zhao/M5-Depends
+https://github.com/Tinyu-Zhao/INA3221
 https://github.com/PowerBroker2/navduino
 https://github.com/nap-software/libnapc-arduino-nightly-releases
 https://github.com/nap-software/libnapc-arduino-releases
@@ -5125,3 +5130,16 @@ https://github.com/XbergCode/DigitSeparator
 https://github.com/E-Lagori/ELi_MdM_4_00
 https://github.com/shurillu/Cdrv8833
 https://github.com/khoih-prog/WiFiManager_RP2040W_Lite
+https://github.com/khoih-prog/WiFiManager_RP2040W
+https://github.com/natnqweb/EventSystem
+https://github.com/DIYODEmag/DIYsplay
+https://github.com/thomasfredericks/MicroOsc
+https://github.com/khoih-prog/ATmega_TimerInterrupt
+https://github.com/khoih-prog/ATmega_Slow_PWM
+https://github.com/khoih-prog/Dx_TimerInterrupt
+https://github.com/Vulintus/ATWINC3400_Driver_Arduino
+https://github.com/khoih-prog/Dx_Slow_PWM
+https://github.com/NewhavenDisplay/NHD-Character-LCD-Library
+https://github.com/khoih-prog/ATtiny_TimerInterrupt
+https://github.com/berrak/LedTask
+https://github.com/asjdf/WebSerialLite
