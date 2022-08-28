@@ -5145,3 +5145,4 @@ https://github.com/NewhavenDisplay/NHD-Character-LCD-Library
 https://github.com/khoih-prog/ATtiny_TimerInterrupt
 https://github.com/berrak/LedTask
 https://github.com/asjdf/WebSerialLite
+https://github.com/khoih-prog/ATtiny_Slow_PWM
