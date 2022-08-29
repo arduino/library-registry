@@ -5245,3 +5245,4 @@ https://github.com/asjdf/WebSerialLite.git|Contributed|WebSerialLite
 https://github.com/adafruit/Adafruit_LTR329_LTR303.git|Recommended|Adafruit LTR329 and LTR303
 https://github.com/lucas-inacio/TinyLiquidCrystal_I2C.git|Contributed|TinyLiquidCrystal_I2C
 https://github.com/khoih-prog/ATtiny_Slow_PWM.git|Contributed|ATtiny_Slow_PWM
+https://github.com/4dsystems/Pixxi-Serial-Arduino-Library.git|Contributed|Pixxi-Serial-Arduino-Library
