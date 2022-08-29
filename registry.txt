@@ -5248,3 +5248,4 @@ https://github.com/khoih-prog/ATtiny_Slow_PWM.git|Contributed|ATtiny_Slow_PWM
 https://github.com/4dsystems/Pixxi-Serial-Arduino-Library.git|Contributed|Pixxi-Serial-Arduino-Library
 https://github.com/107-systems/107-Arduino-APDS-9950.git|Contributed|107-Arduino-APDS-9950
 https://github.com/RobTillaart/I2C_SCANNER.git|Contributed|I2C_SCANNER
+https://github.com/Mm1KEE/SimpleFilter.git|Contributed|SimpleFilter
