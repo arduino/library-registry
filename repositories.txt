@@ -5151,3 +5151,4 @@ https://github.com/berrak/LedTask
 https://github.com/asjdf/WebSerialLite
 https://github.com/khoih-prog/ATtiny_Slow_PWM
 https://github.com/Mm1KEE/SimpleFilter
+https://github.com/alexandrefelipemuller/PulseAnyPin
