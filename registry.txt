@@ -5251,3 +5251,4 @@ https://github.com/RobTillaart/I2C_SCANNER.git|Contributed|I2C_SCANNER
 https://github.com/Mm1KEE/SimpleFilter.git|Contributed|SimpleFilter
 https://github.com/Dennis-van-Gils/DvG_StreamCommand.git|Contributed|DvG_StreamCommand
 https://github.com/alexandrefelipemuller/PulseAnyPin.git|Contributed|pulseAny
+https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR.git|Contributed|Adafruit SSD1306 EMULATOR
