@@ -1,3 +1,4 @@
+https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/gspsp/tasks
 https://github.com/gspsp/Series
@@ -5152,4 +5153,3 @@ https://github.com/asjdf/WebSerialLite
 https://github.com/khoih-prog/ATtiny_Slow_PWM
 https://github.com/Mm1KEE/SimpleFilter
 https://github.com/alexandrefelipemuller/PulseAnyPin
-https://github.com/sam-peach/EMULATOR_Adafruit_SSD1306
