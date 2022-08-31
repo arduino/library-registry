@@ -4353,8 +4353,6 @@ https://github.com/Velleman/K1200
 https://github.com/Velleman/Tuyav
 https://github.com/Velleman/VMA11
 https://github.com/Velleman/VMA430_GPS_Module
-https://github.com/VertorixAU/Vertorix_VT1100_Mini
-https://github.com/VertorixAU/Vertorix_VT1300_Shield
 https://github.com/viamgr/Arduino-Awesome-Click-Button
 https://github.com/victorsvi/MatrixKeypad
 https://github.com/vidor-libraries/USBBlaster
