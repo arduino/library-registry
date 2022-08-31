@@ -5214,7 +5214,6 @@ https://github.com/dantudose/LTR308.git|Contributed|LTR308 library
 https://github.com/E-Lagori/ELi_McM_4_00.git|Contributed|ELi_McM_4_00
 https://github.com/berrak/MyMacros.git|Contributed|MyMacros
 https://github.com/ferrerosteve/WiFiManagerDesign.git|Contributed|WiFiManagerDesign
-https://github.com/Developer-39/Simple-QR-Code.git|Contributed|Simple QR Code
 https://github.com/XbergCode/DigitSeparator.git|Contributed|DigitSeparator
 https://github.com/E-Lagori/ELi_MdM_4_00.git|Contributed|ELi_MdM_4_00
 https://github.com/m5stack/M5-LoRaWAN.git|Contributed|M5-LoRaWAN
