@@ -1,3 +1,4 @@
+https://github.com/libnapc/libnapc-arduino-releases
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/gspsp/Series
 https://github.com/TheSpaceDragon/rdv-gy512
