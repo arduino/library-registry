@@ -1083,7 +1083,6 @@ https://github.com/bblanchon/ArduinoContinuousStepper
 https://github.com/bblanchon/ArduinoJson
 https://github.com/bblanchon/ArduinoStreamUtils
 https://github.com/bblanchon/ArduinoTrace
-https://github.com/bcmi-labs/tensorflow_lite_mirror
 https://github.com/beegee-tokyo/DHTesp
 https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/SHT1x-ESP
