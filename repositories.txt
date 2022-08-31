@@ -1,7 +1,7 @@
+https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/gspsp/Series
 https://github.com/TheSpaceDragon/rdv-gy512
 https://github.com/BoschSensortec/Bosch-BME68x-Library
-https://github.com/Developer-39/Simple-QR-Code
 https://github.com/dantudose/LTR308
 https://github.com/SpulberGeorge/EasyUltrasonic
 https://github.com/Gjorgjevikj/SmoothProgress
@@ -13,6 +13,7 @@ https://github.com/cygig/MCUVoltage
 https://github.com/Solo-FL/SOLO-motor-controllers-ARDUINO-library
 https://github.com/Justin-Pl/PCA9698
 https://github.com/lucas-inacio/DS1624
+https://github.com/lucas-inacio/TinyLiquidCrystal_I2C
 https://github.com/drmpf/ESPAutoWiFiConfig
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/drmpf/pfodParser
@@ -77,8 +78,6 @@ https://github.com/Tinyu-Zhao/M5-Outdepends
 https://github.com/Tinyu-Zhao/M5-Depends
 https://github.com/Tinyu-Zhao/INA3221
 https://github.com/PowerBroker2/navduino
-https://github.com/nap-software/libnapc-arduino-nightly-releases
-https://github.com/nap-software/libnapc-arduino-releases
 https://github.com/n-wach/camino
 https://gitlab.com/escalator-home-automation/escalator-switch
 https://gitlab.com/escalator-home-automation/daily-service
@@ -420,6 +419,7 @@ https://github.com/107-systems/107-Arduino-TCS3472
 https://github.com/107-systems/107-Arduino-TMF8801
 https://github.com/107-systems/107-Arduino-TSL2550
 https://github.com/107-systems/107-Arduino-Cyphal
+https://github.com/107-systems/107-Arduino-APDS-9950
 https://github.com/1IoT/cloud-connectivity-lib
 https://github.com/loginov-rocks/UbxGps
 https://github.com/256dpi/arduino-mqtt
@@ -434,6 +434,7 @@ https://github.com/4dsystems/Goldelox-Serial-Arduino-Library
 https://github.com/4dsystems/Picaso-Serial-Arduino-Library
 https://github.com/4dsystems/SOMOIoD
 https://github.com/4dsystems/ViSi-Genie-Arduino-Library
+https://github.com/4dsystems/Pixxi-Serial-Arduino-Library
 https://github.com/5N44P/ht1621-7-seg
 https://github.com/5pIO/BLESerial
 https://github.com/8bitbuddhist/PixelMaestro
@@ -539,6 +540,7 @@ https://github.com/adafruit/Adafruit_LSM303DLHC
 https://github.com/adafruit/Adafruit_LSM6DS
 https://github.com/adafruit/Adafruit_LSM9DS0_Library
 https://github.com/adafruit/Adafruit_LSM9DS1
+https://github.com/adafruit/Adafruit_LTR329_LTR303
 https://github.com/adafruit/Adafruit_LTR390
 https://github.com/adafruit/Adafruit_LvGL_Glue
 https://github.com/adafruit/Adafruit_MAX1704X
@@ -1080,7 +1082,6 @@ https://github.com/bblanchon/ArduinoContinuousStepper
 https://github.com/bblanchon/ArduinoJson
 https://github.com/bblanchon/ArduinoStreamUtils
 https://github.com/bblanchon/ArduinoTrace
-https://github.com/bcmi-labs/tensorflow_lite_mirror
 https://github.com/beegee-tokyo/DHTesp
 https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/SHT1x-ESP
@@ -3439,6 +3440,7 @@ https://github.com/RobTillaart/HX711
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
+https://github.com/RobTillaart/I2C_SCANNER
 https://github.com/RobTillaart/I2CKeyPad
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA226
@@ -4346,8 +4348,6 @@ https://github.com/Velleman/K1200
 https://github.com/Velleman/Tuyav
 https://github.com/Velleman/VMA11
 https://github.com/Velleman/VMA430_GPS_Module
-https://github.com/VertorixAU/Vertorix_VT1100_Mini
-https://github.com/VertorixAU/Vertorix_VT1300_Shield
 https://github.com/viamgr/Arduino-Awesome-Click-Button
 https://github.com/victorsvi/MatrixKeypad
 https://github.com/vidor-libraries/USBBlaster
@@ -5140,3 +5140,10 @@ https://github.com/Vulintus/ATWINC3400_Driver_Arduino
 https://github.com/khoih-prog/Dx_Slow_PWM
 https://github.com/NewhavenDisplay/NHD-Character-LCD-Library
 https://github.com/khoih-prog/ATtiny_TimerInterrupt
+https://github.com/berrak/LedTask
+https://github.com/asjdf/WebSerialLite
+https://github.com/khoih-prog/ATtiny_Slow_PWM
+https://github.com/Mm1KEE/SimpleFilter
+https://github.com/alexandrefelipemuller/PulseAnyPin
+https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
+https://github.com/riraosan/ESP32MSGraph
