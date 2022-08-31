@@ -5246,3 +5246,4 @@ https://github.com/Dennis-van-Gils/DvG_StreamCommand.git|Contributed|DvG_StreamC
 https://github.com/alexandrefelipemuller/PulseAnyPin.git|Contributed|pulseAny
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR.git|Contributed|Adafruit SSD1306 EMULATOR
 https://github.com/riraosan/ESP32MSGraph.git|Contributed|ESP32 Microsoft Graph
+https://github.com/libnapc/libnapc-arduino-releases.git|Contributed|libnapc
