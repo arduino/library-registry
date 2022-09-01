@@ -5248,3 +5248,4 @@ https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR.git|Contributed|Adafruit 
 https://github.com/riraosan/ESP32MSGraph.git|Contributed|ESP32 Microsoft Graph
 https://github.com/libnapc/libnapc-arduino-releases.git|Contributed|libnapc
 https://github.com/InvenSenseInc/arduino.ICM42670P.git|Contributed|ICM42670P
+https://github.com/ArminJo/digitalWriteFast.git|Contributed|digitalWriteFast
