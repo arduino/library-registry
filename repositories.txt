@@ -3971,6 +3971,7 @@ https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library
+https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library
 https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library
 https://github.com/sparkfun/SparkFun_Swarm_Satellite_Arduino_Library
 https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library
