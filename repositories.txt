@@ -5151,3 +5151,4 @@ https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/riraosan/ESP32MSGraph
 https://github.com/InvenSenseInc/arduino.ICM42670P
 https://github.com/matthias-bs/BresserWeatherSensorReceiver
+https://github.com/ogneyar/RussianText_u8g
