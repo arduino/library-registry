@@ -5251,3 +5251,4 @@ https://github.com/InvenSenseInc/arduino.ICM42670P.git|Contributed|ICM42670P
 https://github.com/ArminJo/digitalWriteFast.git|Contributed|digitalWriteFast
 https://github.com/matthias-bs/BresserWeatherSensorReceiver.git|Contributed|BresserWeatherSensorReceiver
 https://github.com/ogneyar/RussianText_u8g.git|Contributed|RussianText_u8g
+https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library.git|Contributed|SparkFun ST25DV64KC Arduino Library
