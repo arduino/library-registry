@@ -5250,3 +5250,4 @@ https://github.com/libnapc/libnapc-arduino-releases.git|Contributed|libnapc
 https://github.com/InvenSenseInc/arduino.ICM42670P.git|Contributed|ICM42670P
 https://github.com/ArminJo/digitalWriteFast.git|Contributed|digitalWriteFast
 https://github.com/matthias-bs/BresserWeatherSensorReceiver.git|Contributed|BresserWeatherSensorReceiver
+https://github.com/ogneyar/RussianText_u8g.git|Contributed|RussianText_u8g
