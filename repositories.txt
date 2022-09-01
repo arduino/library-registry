@@ -5148,3 +5148,4 @@ https://github.com/Mm1KEE/SimpleFilter
 https://github.com/alexandrefelipemuller/PulseAnyPin
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/riraosan/ESP32MSGraph
+https://github.com/InvenSenseInc/arduino.ICM42670P
