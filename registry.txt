@@ -5254,3 +5254,4 @@ https://github.com/ogneyar/RussianText_u8g.git|Contributed|RussianText_u8g
 https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library.git|Contributed|SparkFun ST25DV64KC Arduino Library
 https://github.com/minhaj6/DigiPotX9Cxxx.git|Contributed|DigiPotX9Cxxx
 https://github.com/RAKWireless/RAKwireless-Audio-library.git|Contributed|RAKwireless-Audio-library
+https://github.com/nusabot-iot/NusabotSimpleTimer.git|Contributed|Nusabot Simple Timer
