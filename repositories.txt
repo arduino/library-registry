@@ -3294,6 +3294,7 @@ https://github.com/RAKWireless/RAK12029-LDC1614
 https://github.com/RAKWireless/RAK13800-W5100S
 https://github.com/RAKWireless/RAK12034-BMX160
 https://github.com/RAKWireless/RAK12033-IIM42652
+https://github.com/RAKWireless/RAKwireless-Audio-library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/sdutek/sducar
