@@ -5256,3 +5256,4 @@ https://github.com/minhaj6/DigiPotX9Cxxx.git|Contributed|DigiPotX9Cxxx
 https://github.com/RAKWireless/RAKwireless-Audio-library.git|Contributed|RAKwireless-Audio-library
 https://github.com/nusabot-iot/NusabotSimpleTimer.git|Contributed|Nusabot Simple Timer
 https://github.com/adnan-elabdullah/IOTKME.git|Contributed|IOTKME
+https://github.com/CalvinBultz/LightningStepper.git|Contributed|LightningStepper
