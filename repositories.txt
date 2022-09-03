@@ -98,6 +98,7 @@ https://github.com/InfiniteCoder01/BufferedOreonSSD1351
 https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
+https://github.com/adnan-elabdullah/IOTKME.git
 https://bitbucket.org/David_Such/nexgen_filter
 https://bitbucket.org/David_Such/nexgen_timer
 https://github.com/MrYsLab/Telemetrix4Esp32
