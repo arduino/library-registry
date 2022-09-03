@@ -5157,3 +5157,4 @@ https://github.com/InvenSenseInc/arduino.ICM42670P
 https://github.com/matthias-bs/BresserWeatherSensorReceiver
 https://github.com/ogneyar/RussianText_u8g
 https://github.com/minhaj6/DigiPotX9Cxxx
+https://github.com/CalvinBultz/LightningStepper/tree/main/LightningStepper
