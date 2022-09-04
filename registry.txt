@@ -5257,3 +5257,4 @@ https://github.com/RAKWireless/RAKwireless-Audio-library.git|Contributed|RAKwire
 https://github.com/nusabot-iot/NusabotSimpleTimer.git|Contributed|Nusabot Simple Timer
 https://github.com/adnan-elabdullah/IOTKME.git|Contributed|IOTKME
 https://github.com/CalvinBultz/LightningStepper.git|Contributed|LightningStepper
+https://github.com/luni64/CallbackHelper.git|Contributed|CallbackHelper
