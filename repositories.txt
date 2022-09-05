@@ -5160,3 +5160,4 @@ https://github.com/ogneyar/RussianText_u8g
 https://github.com/minhaj6/DigiPotX9Cxxx
 https://github.com/luni64/CallbackHelper
 https://github.com/dnzayan/ESP32_Pinoo
+https://github.com/ndomx/MCP23017-Arduino-Library
