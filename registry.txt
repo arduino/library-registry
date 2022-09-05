@@ -5258,3 +5258,4 @@ https://github.com/nusabot-iot/NusabotSimpleTimer.git|Contributed|Nusabot Simple
 https://github.com/adnan-elabdullah/IOTKME.git|Contributed|IOTKME
 https://github.com/CalvinBultz/LightningStepper.git|Contributed|LightningStepper
 https://github.com/luni64/CallbackHelper.git|Contributed|CallbackHelper
+https://github.com/dnzayan/ESP32_Pinoo.git|Contributed|ESP32_Pinoo
