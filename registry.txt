@@ -5260,3 +5260,4 @@ https://github.com/CalvinBultz/LightningStepper.git|Contributed|LightningStepper
 https://github.com/luni64/CallbackHelper.git|Contributed|CallbackHelper
 https://github.com/dnzayan/ESP32_Pinoo.git|Contributed|ESP32_Pinoo
 https://github.com/ndomx/MCP23017-Arduino-Library.git|Contributed|MCP23017 Port Expander
+https://github.com/RLL-Blue-Dragon/NXP_MPXA4250A_00000057.git|Contributed|NXP_MPXA4250_BSL00000057
