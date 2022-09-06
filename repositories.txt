@@ -5161,3 +5161,4 @@ https://github.com/minhaj6/DigiPotX9Cxxx
 https://github.com/luni64/CallbackHelper
 https://github.com/dnzayan/ESP32_Pinoo
 https://github.com/ndomx/MCP23017-Arduino-Library
+https://github.com/RLL-Blue-Dragon/NXP_MPXA4250A_00000057
