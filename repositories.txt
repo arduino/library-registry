@@ -33,6 +33,7 @@ https://github.com/bolderflight/ainstein-usd1
 https://github.com/hardmax/ADS1232
 https://github.com/goldfish4tech/Goldfish4Tech
 https://github.com/ElectroMagus/ESP32MX1508
+https://github.com/Rad-hi/MacroDebugger
 https://github.com/brownby/Komotion
 https://github.com/ojx/HTTPed
 https://github.com/ncmreynolds/wordwrap
