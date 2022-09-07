@@ -5264,3 +5264,4 @@ https://github.com/RLL-Blue-Dragon/NXP_MPXA4250A_00000057.git|Contributed|NXP_MP
 https://github.com/koendv/CheckDS18B20.git|Contributed|CheckDS18B20
 https://github.com/luni64/IntervalTimerEx.git|Contributed|IntervalTimerEx
 https://github.com/dev-board-tech/arduFPGA-app-common-arduino.git|Contributed|arduFPGA-app-common-arduino
+https://github.com/RobTillaart/INA219.git|Contributed|INA219
