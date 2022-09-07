@@ -1,8 +1,10 @@
-https://github.com/gspsp/tasks
+https://github.com/CalvinBultz/LightningStepper
+https://github.com/nusabot-iot/NusabotSimpleTimer
+https://github.com/libnapc/libnapc-arduino-releases
+https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/gspsp/Series
 https://github.com/TheSpaceDragon/rdv-gy512
 https://github.com/BoschSensortec/Bosch-BME68x-Library
-https://github.com/Developer-39/Simple-QR-Code
 https://github.com/dantudose/LTR308
 https://github.com/SpulberGeorge/EasyUltrasonic
 https://github.com/Gjorgjevikj/SmoothProgress
@@ -79,8 +81,6 @@ https://github.com/Tinyu-Zhao/M5-Outdepends
 https://github.com/Tinyu-Zhao/M5-Depends
 https://github.com/Tinyu-Zhao/INA3221
 https://github.com/PowerBroker2/navduino
-https://github.com/nap-software/libnapc-arduino-nightly-releases
-https://github.com/nap-software/libnapc-arduino-releases
 https://github.com/n-wach/camino
 https://gitlab.com/escalator-home-automation/escalator-switch
 https://gitlab.com/escalator-home-automation/daily-service
@@ -99,6 +99,7 @@ https://github.com/InfiniteCoder01/BufferedOreonSSD1351
 https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
+https://github.com/adnan-elabdullah/IOTKME.git
 https://bitbucket.org/David_Such/nexgen_filter
 https://bitbucket.org/David_Such/nexgen_timer
 https://github.com/MrYsLab/Telemetrix4Esp32
@@ -987,11 +988,11 @@ https://github.com/ArminJo/Arduino-BlueDisplay
 https://github.com/ArminJo/Arduino-FrequencyDetector
 https://github.com/ArminJo/ATtinySerialOut
 https://github.com/ArminJo/AvrTracing
+https://github.com/ArminJo/digitalWriteFast
 https://github.com/ArminJo/EasyButtonAtInt01
 https://github.com/ArminJo/NeoPatterns
 https://github.com/ArminJo/PlayRtttl
 https://github.com/ArminJo/PWMMotorControl
-https://github.com/icomedit/Arduino-KIMlib
 https://github.com/ArminJo/ServoEasing
 https://github.com/ArminJo/Talkie
 https://github.com/arms22/SoftModem
@@ -1085,7 +1086,6 @@ https://github.com/bblanchon/ArduinoContinuousStepper
 https://github.com/bblanchon/ArduinoJson
 https://github.com/bblanchon/ArduinoStreamUtils
 https://github.com/bblanchon/ArduinoTrace
-https://github.com/bcmi-labs/tensorflow_lite_mirror
 https://github.com/beegee-tokyo/DHTesp
 https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/SHT1x-ESP
@@ -1968,6 +1968,7 @@ https://github.com/iagows/arduino_io
 https://github.com/Iainmon/altino
 https://github.com/iamthechad/parallax_lcd
 https://github.com/ichigo663/NDNOverUDP
+https://github.com/icomedit/Arduino-KIMlib
 https://github.com/IGB-Germany/ComDriverSpi
 https://github.com/IGB-Germany/IGB-FlashSst26
 https://github.com/IGB-Germany/IGB-Tactile-Switch
@@ -3296,6 +3297,7 @@ https://github.com/RAKWireless/RAK12029-LDC1614
 https://github.com/RAKWireless/RAK13800-W5100S
 https://github.com/RAKWireless/RAK12034-BMX160
 https://github.com/RAKWireless/RAK12033-IIM42652
+https://github.com/RAKWireless/RAKwireless-Audio-library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/sdutek/sducar
@@ -3973,6 +3975,7 @@ https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library
+https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library
 https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library
 https://github.com/sparkfun/SparkFun_Swarm_Satellite_Arduino_Library
 https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library
@@ -4352,8 +4355,6 @@ https://github.com/Velleman/K1200
 https://github.com/Velleman/Tuyav
 https://github.com/Velleman/VMA11
 https://github.com/Velleman/VMA430_GPS_Module
-https://github.com/VertorixAU/Vertorix_VT1100_Mini
-https://github.com/VertorixAU/Vertorix_VT1300_Shield
 https://github.com/viamgr/Arduino-Awesome-Click-Button
 https://github.com/victorsvi/MatrixKeypad
 https://github.com/vidor-libraries/USBBlaster
@@ -5149,3 +5150,18 @@ https://github.com/khoih-prog/ATtiny_TimerInterrupt
 https://github.com/berrak/LedTask
 https://github.com/asjdf/WebSerialLite
 https://github.com/khoih-prog/ATtiny_Slow_PWM
+https://github.com/Mm1KEE/SimpleFilter
+https://github.com/alexandrefelipemuller/PulseAnyPin
+https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
+https://github.com/riraosan/ESP32MSGraph
+https://github.com/InvenSenseInc/arduino.ICM42670P
+https://github.com/matthias-bs/BresserWeatherSensorReceiver
+https://github.com/ogneyar/RussianText_u8g
+https://github.com/minhaj6/DigiPotX9Cxxx
+https://github.com/luni64/CallbackHelper
+https://github.com/dnzayan/ESP32_Pinoo
+https://github.com/ndomx/MCP23017-Arduino-Library
+https://github.com/RLL-Blue-Dragon/NXP_MPXA4250A_00000057
+https://github.com/koendv/CheckDS18B20
+https://github.com/luni64/IntervalTimerEx
+https://github.com/dev-board-tech/arduFPGA-app-common-arduino
