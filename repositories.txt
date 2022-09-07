@@ -5164,3 +5164,4 @@ https://github.com/ndomx/MCP23017-Arduino-Library
 https://github.com/RLL-Blue-Dragon/NXP_MPXA4250A_00000057
 https://github.com/koendv/CheckDS18B20
 https://github.com/luni64/IntervalTimerEx
+https://github.com/dev-board-tech/arduFPGA-app-common-arduino
