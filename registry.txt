@@ -5265,3 +5265,4 @@ https://github.com/koendv/CheckDS18B20.git|Contributed|CheckDS18B20
 https://github.com/luni64/IntervalTimerEx.git|Contributed|IntervalTimerEx
 https://github.com/dev-board-tech/arduFPGA-app-common-arduino.git|Contributed|arduFPGA-app-common-arduino
 https://github.com/RobTillaart/INA219.git|Contributed|INA219
+https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library.git|Contributed|DLLN3X ZigBee Mesh Module Library
