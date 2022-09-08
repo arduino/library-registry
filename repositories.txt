@@ -5171,3 +5171,4 @@ https://github.com/dev-board-tech/arduFPGA-app-common-arduino
 https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library
 https://github.com/berrak/Mock
 https://github.com/luni64/AttachInterruptEx
+https://github.com/ArtronShop/IOXESP32Motor
