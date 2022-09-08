@@ -2663,6 +2663,7 @@ https://github.com/max22-/ESP32-BLE-MIDI
 https://github.com/maximebohrer/SimpleKeypad
 https://github.com/MaximIntegrated/MAX31328-Arduino-Driver
 https://github.com/MaximIntegrated/MaxEssentialToolkit
+https://github.com/MaximIntegrated/AnalogRTCLibrary
 https://github.com/maxpautsch/mPower
 https://github.com/maxpautsch/SvgParser
 https://github.com/maykon/ButtonDebounce
