@@ -5269,3 +5269,4 @@ https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library.git|Contributed|
 https://github.com/berrak/Mock.git|Contributed|Mock
 https://github.com/luni64/AttachInterruptEx.git|Contributed|AttachInterruptEx
 https://github.com/Rad-hi/MacroDebugger.git|Contributed|MacroDebugger
+https://github.com/MaximIntegrated/AnalogRTCLibrary.git|Contributed|AnalogRTCLib
