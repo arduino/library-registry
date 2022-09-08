@@ -5271,3 +5271,4 @@ https://github.com/luni64/AttachInterruptEx.git|Contributed|AttachInterruptEx
 https://github.com/Rad-hi/MacroDebugger.git|Contributed|MacroDebugger
 https://github.com/MaximIntegrated/AnalogRTCLibrary.git|Contributed|AnalogRTCLib
 https://github.com/ArtronShop/IOXESP32Motor.git|Contributed|IOXESP32Motor
+https://gitlab.com/ug-cp/fast_samd21_tc.git|Contributed|fast_samd21_tc
