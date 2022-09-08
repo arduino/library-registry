@@ -33,6 +33,7 @@ https://github.com/bolderflight/ainstein-usd1
 https://github.com/hardmax/ADS1232
 https://github.com/goldfish4tech/Goldfish4Tech
 https://github.com/ElectroMagus/ESP32MX1508
+https://github.com/Rad-hi/MacroDebugger
 https://github.com/brownby/Komotion
 https://github.com/ojx/HTTPed
 https://github.com/ncmreynolds/wordwrap
@@ -5166,4 +5167,6 @@ https://github.com/RLL-Blue-Dragon/NXP_MPXA4250A_00000057
 https://github.com/koendv/CheckDS18B20
 https://github.com/luni64/IntervalTimerEx
 https://github.com/dev-board-tech/arduFPGA-app-common-arduino
+https://github.com/berrak/Mock
+https://github.com/luni64/AttachInterruptEx
 https://github.com/mentalfl0w/DLLN3X_zigbee_mesh_module_library
