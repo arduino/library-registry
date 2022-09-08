@@ -5270,3 +5270,4 @@ https://github.com/berrak/Mock.git|Contributed|Mock
 https://github.com/luni64/AttachInterruptEx.git|Contributed|AttachInterruptEx
 https://github.com/Rad-hi/MacroDebugger.git|Contributed|MacroDebugger
 https://github.com/MaximIntegrated/AnalogRTCLibrary.git|Contributed|AnalogRTCLib
+https://github.com/ArtronShop/IOXESP32Motor.git|Contributed|IOXESP32Motor
