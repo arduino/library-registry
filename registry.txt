@@ -5272,3 +5272,4 @@ https://github.com/Rad-hi/MacroDebugger.git|Contributed|MacroDebugger
 https://github.com/MaximIntegrated/AnalogRTCLibrary.git|Contributed|AnalogRTCLib
 https://github.com/ArtronShop/IOXESP32Motor.git|Contributed|IOXESP32Motor
 https://gitlab.com/ug-cp/fast_samd21_tc.git|Contributed|fast_samd21_tc
+https://github.com/mdkendall/ThingpingsLib.git|Contributed|Thingpings
