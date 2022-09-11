@@ -5274,3 +5274,4 @@ https://github.com/ArtronShop/IOXESP32Motor.git|Contributed|IOXESP32Motor
 https://gitlab.com/ug-cp/fast_samd21_tc.git|Contributed|fast_samd21_tc
 https://github.com/mdkendall/ThingpingsLib.git|Contributed|Thingpings
 https://github.com/PribaNosati/mrm-lid-d.git|Contributed|mrm-lid-d
+https://github.com/eringee/BioData.git|Contributed|BioData
