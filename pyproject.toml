@@ -17,7 +17,7 @@ invoke = "^1.7.1"
 black = "^22.8"
 flake8 = "^5.0.4"
 pep8-naming = "^0.13.2"
-yamllint = "^1.27.1"
+yamllint = "^1.28.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
