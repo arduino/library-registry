@@ -5276,3 +5276,4 @@ https://github.com/mdkendall/ThingpingsLib.git|Contributed|Thingpings
 https://github.com/PribaNosati/mrm-lid-d.git|Contributed|mrm-lid-d
 https://github.com/eringee/BioData.git|Contributed|BioData
 https://github.com/SmartElecRu/ArduinoIDE_SE_Button.git|Contributed|SE_Button
+https://github.com/Scottapotamas/xsens-mti.git|Contributed|xsens_mti
