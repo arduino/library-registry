@@ -5177,3 +5177,4 @@ https://gitlab.com/ug-cp/fast_samd21_tc
 https://github.com/mdkendall/ThingpingsLib
 https://github.com/PribaNosati/mrm-lid-d
 https://github.com/SmartElecRu/ArduinoIDE_SE_Button
+https://github.com/Scottapotamas/xsens-mti
