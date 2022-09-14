@@ -133,6 +133,7 @@ https://github.com/sstaub/NextionX2
 https://github.com/aikopras/AP_DCC_library
 https://github.com/bolderflight/pwm
 https://github.com/bolderflight/excitation
+https://github.com/abel6jose/Trial
 https://github.com/bolderflight/filter
 https://github.com/bolderflight/polytools
 https://github.com/bolderflight/eigen
