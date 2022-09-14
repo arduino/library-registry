@@ -13,6 +13,7 @@ https://github.com/MSZ98/CallMyFunction
 https://github.com/naszly/Arduino-StaticSerialCommands
 https://github.com/dominicklee/TrueProx/
 https://github.com/cygig/MCUVoltage
+https://github.com/abel6jose/Trial.git
 https://github.com/Solo-FL/SOLO-motor-controllers-ARDUINO-library
 https://github.com/Justin-Pl/PCA9698
 https://github.com/lucas-inacio/DS1624
