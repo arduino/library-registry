@@ -29,6 +29,7 @@ https://github.com/microchip-pic-avr-solutions/veml3328_arduino_driver
 https://github.com/ftjuh/I2Cwrapper
 https://github.com/KravitzLab/MicrocontrollersForNeuroscience
 https://github.com/sstaub/SSD1803A_I2C
+https://github.com/abel6jose/Trial
 https://github.com/bolderflight/ainstein-usd1
 https://github.com/hardmax/ADS1232
 https://github.com/goldfish4tech/Goldfish4Tech
