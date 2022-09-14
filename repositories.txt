@@ -3583,6 +3583,7 @@ https://github.com/Saeterncj/MX1508
 https://github.com/Saeterncj/QuadratureEncoder
 https://github.com/saghonfly/SimpleEspNowConnection
 https://github.com/sakuraio/SakuraIOArduino
+https://github.com/chibiegg/esp-echonet-lite
 https://github.com/Salterm27/Watch
 https://github.com/salvadorrueda/SerialMP3Player
 https://github.com/samelement/ACS-M1128
