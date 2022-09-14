@@ -5279,3 +5279,4 @@ https://github.com/SmartElecRu/ArduinoIDE_SE_Button.git|Contributed|SE_Button
 https://github.com/Scottapotamas/xsens-mti.git|Contributed|xsens_mti
 https://github.com/khoih-prog/React_Generic.git|Contributed|React_Generic
 https://github.com/abel6jose/Trial.git|Contributed|libTrial
+https://github.com/chibiegg/esp-echonet-lite.git|Contributed|esp-echonet-lite
