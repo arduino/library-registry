@@ -5277,3 +5277,4 @@ https://github.com/PribaNosati/mrm-lid-d.git|Contributed|mrm-lid-d
 https://github.com/eringee/BioData.git|Contributed|BioData
 https://github.com/SmartElecRu/ArduinoIDE_SE_Button.git|Contributed|SE_Button
 https://github.com/Scottapotamas/xsens-mti.git|Contributed|xsens_mti
+https://github.com/khoih-prog/React_Generic.git|Contributed|React_Generic
