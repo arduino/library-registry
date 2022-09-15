@@ -704,6 +704,7 @@ https://github.com/adafruit/TinyWireM
 https://github.com/adafruit/TinyXML
 https://github.com/adafruit/WaveHC
 https://github.com/adafruit/Adafruit_TestBed
+https://gitlab.com/ben-bartholomew/adafruit_max9744_library
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
