@@ -5188,3 +5188,4 @@ https://github.com/Scottapotamas/xsens-mti
 https://github.com/khoih-prog/React_Generic
 https://github.com/berrak/MockEEPROM
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-58LM20A_00000057
+https://github.com/angrest/pocketBME280
