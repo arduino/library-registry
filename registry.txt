@@ -5280,7 +5280,7 @@ https://github.com/Scottapotamas/xsens-mti.git|Contributed|xsens_mti
 https://github.com/khoih-prog/React_Generic.git|Contributed|React_Generic
 https://github.com/abel6jose/Trial.git|Contributed|libTrial
 https://github.com/chibiegg/esp-echonet-lite.git|Contributed|esp-echonet-lite
-https://github.com/boothinator/ProgmemAssert.git|Contributed|PROGMEM Assert
+https://github.com/boothinator/ProgmemAssert.git|Contributed|PROGMEMAssert
 https://github.com/berrak/MockEEPROM.git|Contributed|MockEEPROM
 https://github.com/an7or/MAX7219Segment.git|Contributed|MAX7219Segment
 https://gitlab.com/ben-bartholomew/adafruit_max9744_library.git|Contributed|Adafruit MAX9744 Library
