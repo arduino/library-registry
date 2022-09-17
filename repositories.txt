@@ -1,4 +1,5 @@
 https://github.com/an7or/MAX7219Segment
+https://github.com/cjmccjmccjmc/ControlLoop
 https://github.com/boothinator/ProgmemAssert
 https://github.com/CalvinBultz/LightningStepper
 https://github.com/nusabot-iot/NusabotSimpleTimer
