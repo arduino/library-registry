@@ -5290,3 +5290,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-58LM20A_00000057.git|Contribut
 https://github.com/angrest/pocketBME280.git|Contributed|pocketBME280
 https://github.com/luni64/staticFunctional.git|Contributed|staticFunctional
 https://github.com/m5stack/M5Hat-JoyC.git|Contributed|M5Hat-JoyC
+https://github.com/cjmccjmccjmc/ControlLoop.git|Contributed|ControlLoop
