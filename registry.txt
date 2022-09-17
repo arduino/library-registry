@@ -5292,3 +5292,4 @@ https://github.com/luni64/staticFunctional.git|Contributed|staticFunctional
 https://github.com/m5stack/M5Hat-JoyC.git|Contributed|M5Hat-JoyC
 https://github.com/cjmccjmccjmc/ControlLoop.git|Contributed|ControlLoop
 https://github.com/eloquentarduino/EloquentSurveillance.git|Contributed|EloquentSurveillance
+https://github.com/alessandromrc/FastCore.git|Contributed|Fastcore
