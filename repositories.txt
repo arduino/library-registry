@@ -51,6 +51,7 @@ https://github.com/pangodream/ESP2SOTA
 https://github.com/An7or/ADCButtons
 https://github.com/jaggzh/mini-ppm-info
 https://github.com/DuinoDNS/ddns-arduino-nightly-releases
+https://github.com/MR-XieXuan/URLCode_for_Arduino
 https://github.com/arbotics-llc/databot_ESP32
 https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
