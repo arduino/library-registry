@@ -5294,3 +5294,4 @@ https://github.com/cjmccjmccjmc/ControlLoop.git|Contributed|ControlLoop
 https://github.com/eloquentarduino/EloquentSurveillance.git|Contributed|EloquentSurveillance
 https://github.com/alessandromrc/FastCore.git|Contributed|Fastcore
 https://github.com/AI5GW/Goertzel.git|Contributed|Goertzel
+https://github.com/MR-XieXuan/URLCode_for_Arduino.git|Contributed|URLCode
