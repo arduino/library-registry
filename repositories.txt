@@ -9,6 +9,7 @@ https://github.com/libnapc/libnapc-arduino-releases
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/gspsp/Series
 https://github.com/TheSpaceDragon/rdv-gy512
+https://github.com/MR-XieXuan/URLCode_for_Arduino
 https://github.com/BoschSensortec/Bosch-BME68x-Library
 https://github.com/dantudose/LTR308
 https://github.com/SpulberGeorge/EasyUltrasonic
