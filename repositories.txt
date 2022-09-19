@@ -680,6 +680,7 @@ https://github.com/adafruit/Adafruit-Si4713-Library
 https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino
 https://github.com/adafruit/Adafruit-SSD1351-library
 https://github.com/adafruit/Adafruit-ST7735-Library
+https://github.com/adafruit/Adafruit_TCA8418
 https://github.com/adafruit/Adafruit-Thermal-Printer-Library
 https://github.com/adafruit/Adafruit-TPA2016-Library
 https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library
