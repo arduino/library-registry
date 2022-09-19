@@ -5299,3 +5299,4 @@ https://github.com/MR-XieXuan/RX8025_for_Arduino.git|Contributed|RX8025
 https://github.com/divinofire/DatabaseOnSD.git|Contributed|DatabaseOnSD
 https://github.com/MrYsLab/Telemetrix4RpiPicoW.git|Contributed|Telemetrix4RPiPicoW
 https://github.com/tanakamasayuki/ESP32PsramLock.git|Contributed|ESP32PsramLock
+https://github.com/RaphaelStorch/Library-for-LTS01A---MAX31725.git|Contributed|LTS01A_MAX31725
