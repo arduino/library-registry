@@ -5301,3 +5301,4 @@ https://github.com/MrYsLab/Telemetrix4RpiPicoW.git|Contributed|Telemetrix4RPiPic
 https://github.com/tanakamasayuki/ESP32PsramLock.git|Contributed|ESP32PsramLock
 https://github.com/RaphaelStorch/Library-for-LTS01A---MAX31725.git|Contributed|LTS01A_MAX31725
 https://github.com/chrmlinux/tinyDC.git|Contributed|tynyDC
+https://github.com/adafruit/Adafruit_TCA8418.git|Recommended|Adafruit TCA8418
