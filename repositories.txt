@@ -5203,3 +5203,4 @@ https://github.com/luni64/staticFunctional
 https://github.com/alessandromrc/FastCore
 https://github.com/tanakamasayuki/ESP32PsramLock
 https://github.com/chrmlinux/tinyDC
+https://github.com/serenewaffles/OctoPrinter
