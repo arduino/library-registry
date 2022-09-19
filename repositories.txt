@@ -1156,6 +1156,7 @@ https://github.com/blemasle/arduino-sim808
 https://github.com/blinker-iot/blinker-library
 https://github.com/BlokasLabs/USBMIDI
 https://github.com/BlueAndi/vscp-arduino
+https://github.com/RaphaelStorch/Libraray-for-LTS01A---MAX31725
 https://github.com/BlueDot-Arduino/BlueDot_BMA400
 https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591
 https://github.com/BlueDot-Arduino/BlueDot_BME280
