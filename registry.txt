@@ -5303,3 +5303,4 @@ https://github.com/RaphaelStorch/Library-for-LTS01A---MAX31725.git|Contributed|L
 https://github.com/chrmlinux/tinyDC.git|Contributed|tynyDC
 https://github.com/adafruit/Adafruit_TCA8418.git|Recommended|Adafruit TCA8418
 https://github.com/serenewaffles/OctoPrinter.git|Contributed|OctoPrinter
+https://github.com/1337encrypted/BTS7960_Motordriver.git|Contributed|BTS7960_Motordriver
