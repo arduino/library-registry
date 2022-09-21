@@ -282,6 +282,8 @@ https://github.com/DFRobot/DFRobot_TCS34725
 https://github.com/DFRobot/DFRobot_I2C_Multiplexer
 https://github.com/DFRobot/DFRobot_Gesture_Touch
 https://github.com/DFRobot/DFRobot_CH423
+https://github.com/DFRobot/DFRobot_MAX98357A
+https://github.com/DFRobot/DFRobot_SCD4X
 https://github.com/WinsonAPP/WinsonLibrary
 https://github.com/DFRobot/DFRobot_OLED12864
 https://github.com/DFRobot/DFRobot_Heartrate
