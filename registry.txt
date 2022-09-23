@@ -5309,3 +5309,4 @@ https://github.com/DFRobot/DFRobot_SCD4X.git|Contributed|DFRobot_SCD4X
 https://github.com/siara-cc/marisa-esp32.git|Contributed|Marisa ESP32 Wrapper
 https://github.com/serenewaffles/Dorpac-timer.git|Contributed|Dorpac-timer
 https://github.com/trevorwslee/Arduino-DumbDisplay.git|Contributed|DumbDisplay
+https://github.com/muwerk/mupplet-sensor.git|Contributed|mupplet-sensor
