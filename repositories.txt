@@ -3752,6 +3752,7 @@ https://github.com/shurillu/CTBot
 https://github.com/shuvangkar/RingEEPROM
 https://github.com/siara-cc/esp_arduino_sqlite3_lib
 https://github.com/siara-cc/esp32_arduino_sqlite3_lib
+https://github.com/siara-cc/marisa-esp32
 https://github.com/siara-cc/Shox96_Arduino_Progmem_lib
 https://github.com/siara-cc/sqlite_micro_logger_arduino
 https://github.com/siara-cc/Unishox_Arduino_Progmem_lib
