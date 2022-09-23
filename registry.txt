@@ -5306,3 +5306,4 @@ https://github.com/serenewaffles/OctoPrinter.git|Contributed|OctoPrinter
 https://github.com/1337encrypted/BTS7960_Motordriver.git|Contributed|BTS7960_Motordriver
 https://github.com/DFRobot/DFRobot_MAX98357A.git|Contributed|DFRobot_MAX98357A
 https://github.com/DFRobot/DFRobot_SCD4X.git|Contributed|DFRobot_SCD4X
+https://github.com/siara-cc/marisa-esp32.git|Contributed|Marisa ESP32 Wrapper
