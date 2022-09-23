@@ -5210,4 +5210,5 @@ https://github.com/tanakamasayuki/ESP32PsramLock
 https://github.com/chrmlinux/tinyDC
 https://github.com/serenewaffles/OctoPrinter
 https://github.com/serenewaffles/Dorpac-timer
+https://github.com/muwerk/mupplet-sensor
 
