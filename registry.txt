@@ -5310,3 +5310,4 @@ https://github.com/siara-cc/marisa-esp32.git|Contributed|Marisa ESP32 Wrapper
 https://github.com/serenewaffles/Dorpac-timer.git|Contributed|Dorpac-timer
 https://github.com/trevorwslee/Arduino-DumbDisplay.git|Contributed|DumbDisplay
 https://github.com/muwerk/mupplet-sensor.git|Contributed|mupplet-sensor
+https://github.com/teemune/TE_SM9000_library.git|Contributed|SM9000-series sensor library
