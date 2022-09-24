@@ -5205,6 +5205,7 @@ https://github.com/berrak/MockEEPROM
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-58LM20A_00000057
 https://github.com/angrest/pocketBME280
 https://github.com/luni64/staticFunctional
+https://github.com/teemune/TE_SM9000_library
 https://github.com/alessandromrc/FastCore
 https://github.com/tanakamasayuki/ESP32PsramLock
 https://github.com/chrmlinux/tinyDC
