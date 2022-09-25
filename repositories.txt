@@ -5213,4 +5213,4 @@ https://github.com/serenewaffles/OctoPrinter
 https://github.com/serenewaffles/Dorpac-timer
 https://github.com/muwerk/mupplet-sensor
 https://github.com/ML-VPN/OtD_Library
-
+https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
