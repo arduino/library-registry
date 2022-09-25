@@ -5314,3 +5314,4 @@ https://github.com/teemune/TE_SM9000_library.git|Contributed|SM9000-series senso
 https://github.com/ML-VPN/OtD_Library.git|Contributed|OtD Library
 https://github.com/sparkfun/SparkFun_OWire_Arduino_Library.git|Contributed|SparkFun OWire Arduino Library
 https://github.com/chrmlinux/easyLiDAR.git|Contributed|easyLiDAR
+https://github.com/pikido-edutainment/CleanRTOS.git|Contributed|CleanRTOS
