@@ -5094,3 +5094,4 @@ https://github.com/strid3r21/BeeMotionS3-Arduino-Helper
 https://github.com/deneyapkart/deneyap-hoparlor-arduino-library
 https://github.com/A223D/detaBaseArduinoESP32
 https://github.com/A223D/Adafruit_4_01_ColourEPaper
+https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
