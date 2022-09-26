@@ -5316,3 +5316,4 @@ https://github.com/sparkfun/SparkFun_OWire_Arduino_Library.git|Contributed|Spark
 https://github.com/chrmlinux/easyLiDAR.git|Contributed|easyLiDAR
 https://github.com/pikido-edutainment/CleanRTOS.git|Contributed|CleanRTOS
 https://github.com/DFRobot/DFRobot_RGBButton.git|Contributed|DFRobot_RGBButton
+https://github.com/DFRobot/DFRobot_BME280.git|Contributed|DFRobot_BME280
