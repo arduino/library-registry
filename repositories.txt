@@ -216,6 +216,7 @@ https://github.com/DFRobot/DFRobot_DF1201S
 https://github.com/DFRobot/DFRobot_URM13
 https://github.com/DFRobot/DFRobot_LIDAR07
 https://github.com/DFRobot/DFRobot_RGBButton
+https://github.com/DFRobot/DFRobot_BME280
 https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2
