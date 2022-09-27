@@ -356,6 +356,7 @@ https://github.com/m5stack/ATOM_DTU_CAT1
 https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/m5stack/M5Core-Ink
 https://github.com/m5stack/M5Module-4Relay
+https://github.com/m5stack/M5Module-2Relay-13.2
 https://github.com/m5stack/M5Unit-DDS
 https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5-DLight
