@@ -5284,7 +5284,7 @@ https://github.com/boothinator/ProgmemAssert.git|Contributed|PROGMEMAssert
 https://github.com/berrak/MockEEPROM.git|Contributed|MockEEPROM
 https://github.com/an7or/MAX7219Segment.git|Contributed|MAX7219Segment
 https://gitlab.com/ben-bartholomew/adafruit_max9744_library.git|Contributed|Adafruit MAX9744 Library
-https://github.com/nkaaf/Arduino-SignatureRow.git|Contributed|SignatureRow
+https://github.com/nkaaf/Arduino-Signature.git|Contributed|SignatureRow
 https://github.com/DFRobot/DFRobot_MCP2515.git|Contributed|DFRobot_MCP2515
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-58LM20A_00000057.git|Contributed|OSS-EC ABLIC S-58LM20A 00000057
 https://github.com/angrest/pocketBME280.git|Contributed|pocketBME280
