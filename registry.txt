@@ -4168,7 +4168,6 @@ https://github.com/SergeSkor/SSVXYMatrix.git|Contributed|SSVXYMatrix
 https://github.com/dattasaurabh82/TinyMegaI2C.git|Contributed|TinyMegaI2C
 https://github.com/dattasaurabh82/RV8803Tiny.git|Contributed|RV8803Tiny
 https://github.com/stm32duino/X-NUCLEO-IHM01A1.git|Contributed|STM32duino X-NUCLEO-IHM01A1
-https://github.com/m5stack/UNIT_4RELAY.git|Contributed|UNIT_4RELAY
 https://github.com/m5stack/ATOM_DTU_NB.git|Contributed|ATOM_DTU_NB
 https://github.com/m5stack/ATOM_DTU_LoRaWAN.git|Contributed|ATOM_DTU_LoRaWAN
 https://github.com/Guswib/Potentiostat_Shield.git|Contributed|Potentiostat_Shield
@@ -4228,7 +4227,6 @@ https://github.com/khoih-prog/ESP32_New_ISR_Servo.git|Contributed|ESP32_New_ISR_
 https://github.com/BEAT-System/SerialCom.git|Contributed|SerialCom
 https://github.com/SchooMyDevelopment/SchooMyUtilities.git|Contributed|SchooMyUtilities
 https://github.com/khoih-prog/FlashStorage_STM32F1.git|Contributed|FlashStorage_STM32F1
-https://github.com/m5stack/M5_ADS1100.git|Contributed|M5_ADS1100
 https://github.com/Tinyu-Zhao/TinyGPSPlus.git|Contributed|TinyGPSPlus-ESP32
 https://github.com/bxparks/AceSegment.git|Contributed|AceSegment
 https://github.com/bxparks/AceSegmentWriter.git|Contributed|AceSegmentWriter
@@ -4236,9 +4234,7 @@ https://github.com/bxparks/AceSPI.git|Contributed|AceSPI
 https://github.com/bxparks/AceTMI.git|Contributed|AceTMI
 https://github.com/bxparks/AceWire.git|Contributed|AceWire
 https://github.com/m5stack/M5_BMM150.git|Contributed|M5_BMM150
-https://github.com/m5stack/M5_ADS1115.git|Contributed|M5_ADS1115
 https://github.com/PowerBroker2/ArduPID.git|Contributed|ArduPID
-https://github.com/m5stack/M5_AD9833.git|Contributed|M5_AD9833
 https://github.com/Tinyu-Zhao/PCA9554.git|Contributed|PCA9554
 https://github.com/AlexTutorial/KrokoTS.git|Contributed|KrokoTS
 https://bitbucket.org/David_Such/nexgen_motorshield.git|Contributed|NexgenMotorShield
@@ -4256,7 +4252,6 @@ https://github.com/lozziboy/arduino-serial-variable-table.git|Contributed|cSeria
 https://github.com/levkovigor/MMC34160PJ.git|Contributed|MMC34160PJ
 https://github.com/levkovigor/ppposclient.git|Contributed|PPPOSClient
 https://github.com/levkovigor/GT811.git|Contributed|GT811 Library
-https://github.com/m5stack/M5_FPC1020A.git|Contributed|M5_FPC1020A
 https://github.com/iotkaran/Arduino.git|Contributed|Iotkaran
 https://github.com/levkovigor/LTR390.git|Contributed|LTR390
 https://github.com/Tinyu-Zhao/FFT.git|Contributed|FFT
@@ -4416,7 +4411,6 @@ https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library.git|Contri
 https://github.com/XiloXL/Powerbaas.git|Contributed|Powerbaas
 https://github.com/heiloworodl/StepMotor4windings.git|Contributed|StepMotor4windings
 https://github.com/ArminJo/AvrTracing.git|Contributed|AvrTracing
-https://github.com/m5stack/M5_BM8563.git|Contributed|M5_BM8563
 https://github.com/bolderflight/circle_buf.git|Contributed|Bolder Flight Systems Circular Buffer
 https://github.com/bolderflight/statistics.git|Contributed|Bolder Flight Systems Statistics
 https://github.com/DFRobot/DFRobot_Lora.git|Contributed|DFRobot_LoRa
@@ -4460,7 +4454,6 @@ https://github.com/verdanatech/glpi_esp8266.git|Contributed|glpi_esp8266
 https://github.com/dl9sec/AioP13.git|Contributed|AioP13
 https://github.com/NeMaksym/Arduino-EasySevenSeg.git|Contributed|Easy SevenSeg
 https://github.com/nkaaf/Arduino-List.git|Contributed|List
-https://github.com/m5stack/UNIT_SONIC.git|Contributed|UNIT_SONIC
 https://github.com/ncmreynolds/TapCode.git|Contributed|TapCode
 https://github.com/RobTillaart/tinySHT2x.git|Contributed|tinySHT2x
 https://github.com/gravitech-engineer/AIS_IoT_4G.git|Contributed|AIS 4G board
@@ -4517,9 +4510,6 @@ https://github.com/jpb10/SolarCalculator.git|Contributed|SolarCalculator
 https://github.com/icomedit/Arduino-KIMlib.git|Contributed|KIMlib
 https://github.com/RobTillaart/map2colour.git|Contributed|map2colour
 https://github.com/yourapiexpert/ATCommands.git|Contributed|ATCommands
-https://github.com/m5stack/M5_RoverC.git|Contributed|M5_RoverC
-https://github.com/m5stack/M5_JoyC.git|Contributed|M5_JoyC
-https://github.com/m5stack/UNIT_UHF_RFID.git|Contributed|UNIT_UHF_RFID
 https://github.com/bolderflight/filter.git|Contributed|Bolder Flight Systems Filter
 https://github.com/0015/ESP32-OV5640-AF.git|Contributed|OV5640 Auto Focus for ESP32 Camera
 https://github.com/bolderflight/excitation.git|Contributed|Bolder Flight Systems Excitation
@@ -4530,7 +4520,6 @@ https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
 https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
 https://github.com/Azure/azure-sdk-for-c-arduino.git|Partner|Azure SDK for C
 https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
-https://github.com/m5stack/UNIT_MQTT.git|Contributed|UNIT_MQTT
 https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
 https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
 https://github.com/vChavezB/uc-os3-arduino-due.git|Contributed|uCOS-III_Due
@@ -4593,7 +4582,6 @@ https://github.com/adafruit/Adafruit_Floppy.git|Recommended|Adafruit Floppy
 https://github.com/stm32duino/VL53L4CD.git|Contributed|STM32duino VL53L4CD
 https://github.com/stm32duino/X-NUCLEO-53L4A1.git|Contributed|STM32duino X-NUCLEO-53L4A1
 https://github.com/RobTillaart/PCA9634.git|Contributed|PCA9634
-https://github.com/m5stack/UNIT_ENCODER.git|Contributed|UNIT_ENCODER
 https://github.com/m5stack/DEMO-BOARD.git|Contributed|DEMO-BOARD
 https://github.com/RobTillaart/Max44007.git|Contributed|Max44007
 https://github.com/DFRobot/DFRobot_GM60.git|Contributed|DFRobot_GM60
@@ -4816,7 +4804,6 @@ https://github.com/kousheekc/Kinematics.git|Contributed|Kinematics
 https://github.com/khoih-prog/AsyncMQTT_Generic.git|Contributed|AsyncMQTT_Generic
 https://github.com/xreef/EByte_LoRa_E220_Series_Library.git|Contributed|EByte LoRa E220 library
 https://github.com/gianni-carbone/STM32ad9833.git|Contributed|STM32ad9833
-https://github.com/m5stack/M5_IP5209.git|Contributed|M5_IP5209
 https://github.com/neosarchizo/cb-hcho-v4.git|Contributed|CB-HCHO-V4
 https://github.com/felias-fogg/TXOnlySerial.git|Contributed|TXOnlySerial
 https://github.com/felias-fogg/SingleWireSerial.git|Contributed|SingleWireSerial
