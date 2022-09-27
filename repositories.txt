@@ -5207,3 +5207,4 @@ https://github.com/chrmlinux/easyLiDAR
 https://github.com/pikido-edutainment/CleanRTOS
 https://github.com/80Stepko08/EMFButton
 https://github.com/alessandromrc/JOAAT
+https://github.com/galarb/clicli
