@@ -4005,6 +4005,7 @@ https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library
 https://github.com/sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6
+https://github.com/sparkfun/SparkFun_TPA2016D2_Arduino_Library
 https://github.com/sparkfun/SparkFun_TSL2561_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
