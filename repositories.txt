@@ -2078,6 +2078,7 @@ https://github.com/jalr/EE895
 https://github.com/Jan-NiklasB/MH-Z14A-Library
 https://github.com/jancoow/BH1730-Library
 https://github.com/jandelgado/jled
+https://github.com/jandelgado/jled-pca9685-hal
 https://github.com/jandelgado/log4arduino
 https://github.com/jandrassy/ArduinoOTA
 https://github.com/jandrassy/EthernetENC
