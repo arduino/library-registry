@@ -5313,3 +5313,4 @@ https://github.com/ifpa-pgm/reciclabot.git|Contributed|ReciclaBot
 https://github.com/feilipu/ReGIS.git|Contributed|ReGIS
 https://github.com/galarb/gyroturn.git|Contributed|gyroturn
 https://github.com/galarb/clicli.git|Contributed|clicli
+https://github.com/natnqweb/EventOS.git|Contributed|EventOS
