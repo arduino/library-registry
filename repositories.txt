@@ -356,6 +356,7 @@ https://github.com/m5stack/ATOM_DTU_CAT1
 https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/m5stack/M5Core-Ink
 https://github.com/m5stack/M5Module-4Relay
+https://github.com/m5stack/M5Module-2Relay-13.2
 https://github.com/m5stack/M5Unit-DDS
 https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5-DLight
@@ -1659,6 +1660,7 @@ https://github.com/feilipu/Arduino_FreeRTOS_Library
 https://github.com/feilipu/Arduino_RTC_Library
 https://github.com/feilipu/Goldilocks_Analogue_DAC_Library
 https://github.com/feilipu/Goldilocks_Analogue_SPIRAM_Library
+https://github.com/feilipu/ReGIS
 https://github.com/feklee/MultiTrans
 https://github.com/felias-fogg/DotMatrix5x7
 https://github.com/felias-fogg/SoftI2CMaster
@@ -3460,6 +3462,7 @@ https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
 https://github.com/RobTillaart/I2C_SCANNER
 https://github.com/RobTillaart/I2CKeyPad
+https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
@@ -4003,6 +4006,7 @@ https://github.com/sparkfun/SparkFun_TMP117_Arduino_Library
 https://github.com/sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6
+https://github.com/sparkfun/SparkFun_TPA2016D2_Arduino_Library
 https://github.com/sparkfun/SparkFun_TSL2561_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
@@ -5208,3 +5212,4 @@ https://github.com/pikido-edutainment/CleanRTOS
 https://github.com/80Stepko08/EMFButton
 https://github.com/alessandromrc/JOAAT
 https://github.com/galarb/clicli
+
