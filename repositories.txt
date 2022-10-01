@@ -5212,4 +5212,4 @@ https://github.com/pikido-edutainment/CleanRTOS
 https://github.com/80Stepko08/EMFButton
 https://github.com/alessandromrc/JOAAT
 https://github.com/ifpa-pgm/reciclabot
-https://github.com/galarb/gyroturn.git
+https://github.com/natnqweb/EventOS
