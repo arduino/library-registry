@@ -5310,3 +5310,4 @@ https://github.com/m5stack/M5Module-2Relay-13.2.git|Contributed|MODULE_2RELAY
 https://github.com/RobTillaart/I2CKeyPad8x8.git|Contributed|I2CKeyPad8x8
 https://github.com/sparkfun/SparkFun_TPA2016D2_Arduino_Library.git|Contributed|SparkFun TPA2016D2 Arduino Library
 https://github.com/ifpa-pgm/reciclabot.git|Contributed|ReciclaBot
+https://github.com/feilipu/ReGIS.git|Contributed|ReGIS
