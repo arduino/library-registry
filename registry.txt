@@ -5315,3 +5315,4 @@ https://github.com/galarb/gyroturn.git|Contributed|gyroturn
 https://github.com/galarb/clicli.git|Contributed|clicli
 https://github.com/natnqweb/EventOS.git|Contributed|EventOS
 https://github.com/jandelgado/jled-pca9685-hal.git|Contributed|JLedPCA9685-HAL
+https://github.com/joeycastillo/OSO_Arduino_LCD.git|Contributed|Oddly Specific Objects LCD FeatherWing Library
