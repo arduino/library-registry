@@ -1,4 +1,5 @@
 https://github.com/drmpf/pfodGUIdesigner
+https://github.com/plsTrustMeImAnEngineer/StreamAverage
 https://github.com/trevorwslee/Arduino-DumbDisplay
 https://github.com/dirkhillbrecht/UiUiUi
 https://github.com/1337encrypted/BTS7960_Motordriver
