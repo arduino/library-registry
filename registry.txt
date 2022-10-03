@@ -5325,3 +5325,4 @@ https://github.com/RAKWireless/RAK13801_UWB.git|Contributed|RAK13801_UWB
 https://github.com/feilipu/Gadget_Shield.git|Contributed|Gadget_Shield
 https://github.com/dirkhillbrecht/UiUiUi.git|Contributed|UiUiUi
 https://github.com/plsTrustMeImAnEngineer/StreamAverage.git|Contributed|StreamAverage
+https://github.com/0x6flab/satima-arduinolibrary.git|Contributed|DRV8870
