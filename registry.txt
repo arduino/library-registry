@@ -5317,3 +5317,4 @@ https://github.com/natnqweb/EventOS.git|Contributed|EventOS
 https://github.com/jandelgado/jled-pca9685-hal.git|Contributed|JLedPCA9685-HAL
 https://github.com/joeycastillo/OSO_Arduino_LCD.git|Contributed|Oddly Specific Objects LCD FeatherWing Library
 https://github.com/drmpf/pfodGUIdesigner.git|Contributed|pfodGUIdesigner
+https://github.com/eoh-jsc/mvp-lib.git|Contributed|MVP
