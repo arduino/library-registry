@@ -5323,3 +5323,4 @@ https://github.com/RAKWireless/RAK13006-MCP2518.git|Contributed|RAK13006-MCP2518
 https://github.com/RAKWireless/RAK13010-SDI12.git|Contributed|RAKwireless_SDI-12
 https://github.com/RAKWireless/RAK13801_UWB.git|Contributed|RAK13801_UWB
 https://github.com/feilipu/Gadget_Shield.git|Contributed|Gadget_Shield
+https://github.com/dirkhillbrecht/UiUiUi.git|Contributed|UiUiUi
