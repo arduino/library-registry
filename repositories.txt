@@ -5226,3 +5226,4 @@ https://github.com/galarb/clicli.git
 https://github.com/natnqweb/EventOS
 https://github.com/joeycastillo/OSO_Arduino_LCD
 https://github.com/eoh-jsc/mvp-lib
+https://github.com/0x6flab/satima-arduinolibrary
