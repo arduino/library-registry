@@ -1659,6 +1659,7 @@ https://github.com/fbiego/ESP32Time
 https://github.com/fdivitto/FabGL
 https://github.com/feilipu/Arduino_FreeRTOS_Library
 https://github.com/feilipu/Arduino_RTC_Library
+https://github.com/feilipu/Gadget_Shield
 https://github.com/feilipu/Goldilocks_Analogue_DAC_Library
 https://github.com/feilipu/Goldilocks_Analogue_SPIRAM_Library
 https://github.com/feilipu/ReGIS
