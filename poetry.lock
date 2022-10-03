@@ -76,7 +76,7 @@ python-versions = "*"
 
 [[package]]
 name = "invoke"
-version = "1.7.1"
+version = "1.7.3"
 description = "Pythonic task execution"
 category = "dev"
 optional = false
@@ -256,7 +256,7 @@ setuptools = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "bf308c89a083fa85255c5600fdcaf6b341b491cbc01341efd094afce1f96130e"
+content-hash = "47ad834a35c40b1d45dee95958caa644cc231737e55582eb50230e39c601428e"
 
 [metadata.files]
 attrs = [
@@ -305,8 +305,8 @@ iniconfig = [
     {file = "iniconfig-1.1.1.tar.gz", hash = "sha256:bc3af051d7d14b2ee5ef9969666def0cd1a000e121eaea580d4a313df4b37f32"},
 ]
 invoke = [
-    {file = "invoke-1.7.1-py3-none-any.whl", hash = "sha256:2dc975b4f92be0c0a174ad2d063010c8a1fdb5e9389d69871001118b4fcac4fb"},
-    {file = "invoke-1.7.1.tar.gz", hash = "sha256:7b6deaf585eee0a848205d0b8c0014b9bf6f287a8eb798818a642dff1df14b19"},
+    {file = "invoke-1.7.3-py3-none-any.whl", hash = "sha256:d9694a865764dd3fd91f25f7e9a97fb41666e822bbb00e670091e3f43933574d"},
+    {file = "invoke-1.7.3.tar.gz", hash = "sha256:41b428342d466a82135d5ab37119685a989713742be46e42a3a399d685579314"},
 ]
 mccabe = [
     {file = "mccabe-0.7.0-py2.py3-none-any.whl", hash = "sha256:6c2d30ab6be0e4a46919781807b4f0d834ebdd6c6e3dca0bda5a15f863427b6e"},
