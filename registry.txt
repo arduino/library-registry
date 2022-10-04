@@ -5327,3 +5327,4 @@ https://github.com/dirkhillbrecht/UiUiUi.git|Contributed|UiUiUi
 https://github.com/plsTrustMeImAnEngineer/StreamAverage.git|Contributed|StreamAverage
 https://github.com/0x6flab/satima-arduinolibrary.git|Contributed|DRV8870
 https://github.com/semcneil/ADS7142_Arduino_Library.git|Contributed|Anitracks_ADS7142
+https://github.com/Call-for-Code/ClusterDuck-Protocol.git|Contributed|ClusterDuck Protocol
