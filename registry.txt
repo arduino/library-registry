@@ -5328,3 +5328,4 @@ https://github.com/plsTrustMeImAnEngineer/StreamAverage.git|Contributed|StreamAv
 https://github.com/0x6flab/satima-arduinolibrary.git|Contributed|DRV8870
 https://github.com/semcneil/ADS7142_Arduino_Library.git|Contributed|Anitracks_ADS7142
 https://github.com/Call-for-Code/ClusterDuck-Protocol.git|Contributed|ClusterDuck Protocol
+https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-8110C_8120C_00000057.git|Contributed|OSS-EC_ABLIC_S-8110C_8120C_00000057
