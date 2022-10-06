@@ -5232,3 +5232,4 @@ https://github.com/0x6flab/satima-arduinolibrary
 https://github.com/semcneil/ADS7142_Arduino_Library
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-8110C_8120C_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-5813A_5814A_00000057
+https://github.com/hzkincony/kc868-arduino-library
