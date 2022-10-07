@@ -881,6 +881,7 @@ https://github.com/Arduboy/ArduboyPlaytune
 https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
+https://github.com/arduino-libraries/Arduino_BMI270_BMM150
 https://github.com/arduino-libraries/Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_BuiltIn
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP
