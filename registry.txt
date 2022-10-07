@@ -5337,3 +5337,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100K_00000057.git|Contributed|
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100S_00000057.git|Contributed|OSS-EC_ADI_AD22100S_00000057
 https://github.com/RobTillaart/CHT8305.git|Contributed|CHT8305
 https://github.com/arduino-libraries/Arduino_BMI270_BMM150.git|Arduino|Arduino_BMI270_BMM150
+https://github.com/cwi-dis/iotsa.git|Contributed|iotsa
