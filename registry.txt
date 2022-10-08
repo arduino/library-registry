@@ -5340,3 +5340,4 @@ https://github.com/arduino-libraries/Arduino_BMI270_BMM150.git|Arduino|Arduino_B
 https://github.com/cwi-dis/iotsa.git|Contributed|iotsa
 https://github.com/ALICHOUCHENE/MemoryDumper.git|Contributed|MemoryDumper
 https://github.com/pololu/drv8434s-arduino.git|Contributed|DRV8434S
+https://github.com/Protocentral/protocentral_max30001_arduino_library.git|Contributed|ProtoCentral MAX30001
