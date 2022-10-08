@@ -5241,3 +5241,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100K_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100S_00000057
 https://github.com/ALICHOUCHENE/MemoryDumper
+https://github.com/Protocentral/protocentral_max30001_arduino_library
