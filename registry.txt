@@ -5342,3 +5342,5 @@ https://github.com/ALICHOUCHENE/MemoryDumper.git|Contributed|MemoryDumper
 https://github.com/pololu/drv8434s-arduino.git|Contributed|DRV8434S
 https://github.com/Protocentral/protocentral_max30001_arduino_library.git|Contributed|ProtoCentral MAX30001
 https://github.com/m5stack/M5Unit-Thermal2.git|Contributed|M5Unit-Thermal2
+https://github.com/sstaub/sACN.git|Contributed|sACN
+https://github.com/sstaub/eOS.git|Contributed|eOS
