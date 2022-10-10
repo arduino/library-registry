@@ -1,3 +1,6 @@
+https://github.com/sstaub/sACN
+https://github.com/sstaub/gma3
+https://github.com/sstaub/eOS
 https://github.com/cwi-dis/iotsa
 https://github.com/chuanstudyup/EasyGNSS.git
 https://github.com/Call-for-Code/ClusterDuck-Protocol
