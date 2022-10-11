@@ -5346,3 +5346,4 @@ https://github.com/sstaub/sACN.git|Contributed|sACN
 https://github.com/sstaub/eOS.git|Contributed|eOS
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6613MXK_MAX6613MXKV_00000057.git|Contributed|OSS-EC_MAXIM_MAX6613MXK_MAX6613MXKV_00000057
 https://github.com/BalmIot/BalmIot.git|Contributed|BalmIot
+https://github.com/alexCajas/WrapperFreeRTOS.git|Contributed|WrapperFreeRTOS
