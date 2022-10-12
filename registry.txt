@@ -5351,3 +5351,4 @@ https://github.com/alexCajas/EmbeddedMqttBroker.git|Contributed|EmbeddedMqttBrok
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXK_00000057.git|Contributed|OSS-EC_MAXIM_MAX6605MXK_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXKV_00000057.git|Contributed|OSS-EC_MAXIM_MAX6605MXKV_00000057
 https://github.com/Nilon123456789/Receiver.git|Contributed|RC Receiver
+https://github.com/gvandersel/SXAccessoire.git|Contributed|SXAccessoire
