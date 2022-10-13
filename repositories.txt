@@ -4305,6 +4305,7 @@ https://github.com/TMRh20/TMRpcm
 https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino
 https://github.com/tobiasschuerg/MH-Z-CO2-Sensors
 https://github.com/toblum/TetrisAnimation
+https://github.com/tobozo/ESP32-ENC28J60
 https://github.com/tobozo/ESP32-Chimera-Core
 https://github.com/tobozo/ESP32-PsRamFS
 https://github.com/tobozo/ESP32-targz
@@ -4313,6 +4314,7 @@ https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
 https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
+https://github.com/tobozo/YAMLDuino
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
