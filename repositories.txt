@@ -5253,3 +5253,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6613MXK_MAX6613MXKV_00000057
 https://github.com/BalmIot/BalmIot
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXK_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXKV_00000057
+https://github.com/jsware/able-buttons
