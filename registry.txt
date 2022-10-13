@@ -5354,3 +5354,5 @@ https://github.com/Nilon123456789/Receiver.git|Contributed|RC Receiver
 https://github.com/gvandersel/SXAccessoire.git|Contributed|SXAccessoire
 https://github.com/makerlabvn/Makerlabvn_I2C_Motor_Driver.git|Contributed|1. Makerlabvn_I2C_Motor_Driver
 https://github.com/ncmreynolds/ld2410.git|Contributed|ld2410
+https://github.com/tobozo/ESP32-ENC28J60.git|Contributed|ESP32-ENC28J60
+https://github.com/tobozo/YAMLDuino.git|Contributed|YAMLDuino
