@@ -1,3 +1,11 @@
+https://github.com/ncmreynolds/ld2410
+https://github.com/makerlabvn/Makerlabvn_I2C_Motor_Driver
+https://github.com/alexCajas/EmbeddedMqttBroker
+https://github.com/alexCajas/WrapperFreeRTOS
+https://github.com/sstaub/sACN
+https://github.com/sstaub/eOS
+https://github.com/Nilon123456789/Receiver
+https://github.com/cwi-dis/iotsa
 https://github.com/chuanstudyup/EasyGNSS.git
 https://github.com/Call-for-Code/ClusterDuck-Protocol
 https://github.com/drmpf/pfodGUIdesigner
@@ -345,6 +353,7 @@ https://github.com/m5stack/M5Unit-Encoder
 https://github.com/m5stack/M5Unit-Sonic
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-KMeter
+https://github.com/m5stack/M5Unit-Thermal2
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
@@ -881,6 +890,7 @@ https://github.com/Arduboy/ArduboyPlaytune
 https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_AVRSTL
+https://github.com/arduino-libraries/Arduino_BMI270_BMM150
 https://github.com/arduino-libraries/Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_BuiltIn
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP
@@ -1809,6 +1819,7 @@ https://github.com/GurtDotCom/GKScroll
 https://github.com/guru-florida/PWMFreak
 https://github.com/gutierrezps/ESP32_I2C_Slave
 https://github.com/gutierrezps/gwiot7941e
+https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
@@ -3122,6 +3133,7 @@ https://github.com/pololu/a4990-motor-shield
 https://github.com/pololu/amis-30543-arduino
 https://github.com/pololu/apa102-arduino
 https://github.com/pololu/balboa-32u4-arduino-library
+https://github.com/pololu/drv8434s-arduino
 https://github.com/pololu/drv8835-motor-shield
 https://github.com/pololu/dual-g2-high-power-motor-shield
 https://github.com/pololu/dual-max14870-motor-shield
@@ -4293,6 +4305,7 @@ https://github.com/TMRh20/TMRpcm
 https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino
 https://github.com/tobiasschuerg/MH-Z-CO2-Sensors
 https://github.com/toblum/TetrisAnimation
+https://github.com/tobozo/ESP32-ENC28J60
 https://github.com/tobozo/ESP32-Chimera-Core
 https://github.com/tobozo/ESP32-PsRamFS
 https://github.com/tobozo/ESP32-targz
@@ -4301,6 +4314,7 @@ https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
 https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
+https://github.com/tobozo/YAMLDuino
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
@@ -5237,3 +5251,10 @@ https://github.com/hzkincony/kc868-arduino-library
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100K_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100S_00000057
+https://github.com/ALICHOUCHENE/MemoryDumper
+https://github.com/Protocentral/protocentral_max30001_arduino_library
+https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6613MXK_MAX6613MXKV_00000057
+https://github.com/BalmIot/BalmIot
+https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXK_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXKV_00000057
+https://github.com/jsware/able-buttons
