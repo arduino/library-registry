@@ -5358,3 +5358,4 @@ https://github.com/tobozo/ESP32-ENC28J60.git|Contributed|ESP32-ENC28J60
 https://github.com/tobozo/YAMLDuino.git|Contributed|YAMLDuino
 https://github.com/jsware/able-buttons.git|Contributed|able-buttons
 https://github.com/RobTillaart/PERIPUMP.git|Contributed|PERIPUMP
+https://github.com/PrivateHomeIoT/SecureMQTT.git|Contributed|SecureMQTT
