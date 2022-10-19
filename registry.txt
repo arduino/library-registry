@@ -5360,3 +5360,4 @@ https://github.com/jsware/able-buttons.git|Contributed|able-buttons
 https://github.com/RobTillaart/PERIPUMP.git|Contributed|PERIPUMP
 https://github.com/PrivateHomeIoT/SecureMQTT.git|Contributed|SecureMQTT
 https://github.com/PBernalPolo/HX710.git|Contributed|HX710
+https://github.com/Anrijs/Aranet4-ESP32.git|Contributed|Aranet4
