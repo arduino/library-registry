@@ -5264,3 +5264,4 @@ https://github.com/PBernalPolo/HX710
 https://github.com/Anrijs/Aranet4-ESP32
 https://github.com/dennis-ard/ArduCAM
 https://github.com/dennis-ard/Arducam_Mega
+https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22103K_00000057
