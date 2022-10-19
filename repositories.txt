@@ -33,6 +33,7 @@ https://github.com/BoschSensortec/Bosch-BME68x-Library
 https://github.com/dantudose/LTR308
 https://github.com/SpulberGeorge/EasyUltrasonic
 https://github.com/Gjorgjevikj/SmoothProgress
+https://github.com/ArduCAM/Arducam_Mega
 https://github.com/MSZ98/serial-readline
 https://github.com/MSZ98/CallMyFunction
 https://github.com/naszly/Arduino-StaticSerialCommands
