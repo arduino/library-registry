@@ -5261,3 +5261,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXK_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXKV_00000057
 https://github.com/jsware/able-buttons
 https://github.com/PBernalPolo/HX710
+https://github.com/Anrijs/Aranet4-ESP32
