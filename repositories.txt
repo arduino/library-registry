@@ -5266,3 +5266,4 @@ https://github.com/dennis-ard/ArduCAM
 https://github.com/dennis-ard/Arducam_Mega
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22103K_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057
