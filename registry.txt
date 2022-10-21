@@ -5369,5 +5369,5 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057.gi
 https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9701_MCP9701A_00000057.git|Contributed|OSS-EC_MICROCHIP_MCP9701_MCP9701A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_TC1046_00000057.git|Contributed|OSS-EC_MICROCHIP_TC1046_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_TC1047_TC1047A_00000057.git|Contributed|OSS-EC_MICROCHIP_TC1047_TC1047A_00000057
-https://github.com/Travancore-Analytics/iot-suite.git|Contributed|IoTSuite
+https://github.com/Travancore-Analytics/iot-suite.git|Contributed|IoT Suite
 https://github.com/RobTillaart/moduloMap.git|Contributed|moduloMap
