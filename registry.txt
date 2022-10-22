@@ -5371,3 +5371,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_TC1046_00000057.git|Contribu
 https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_TC1047_TC1047A_00000057.git|Contributed|OSS-EC_MICROCHIP_TC1047_TC1047A_00000057
 https://github.com/Travancore-Analytics/iot-suite.git|Contributed|IoTSuite
 https://github.com/RobTillaart/moduloMap.git|Contributed|moduloMap
+https://github.com/Mm1KEE/SmoothTouch.git|Contributed|SmoothTouch
