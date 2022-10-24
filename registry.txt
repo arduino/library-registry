@@ -5374,3 +5374,4 @@ https://github.com/RobTillaart/moduloMap.git|Contributed|moduloMap
 https://github.com/Mm1KEE/SmoothTouch.git|Contributed|SmoothTouch
 https://github.com/PTSolns/PTSolns_InterfaceShield.git|Contributed|PTSolns_InterfaceShield
 https://github.com/pacav69/NGFlasherLED.git|Contributed|NGLedFlasher Library
+https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPX5999D_00000057.git|Contributed|OSS-EC_NXP_MPX5999D_00000057
