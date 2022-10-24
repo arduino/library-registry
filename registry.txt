@@ -5353,3 +5353,24 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6605MXKV_00000057.git|Contrib
 https://github.com/Nilon123456789/Receiver.git|Contributed|RC Receiver
 https://github.com/gvandersel/SXAccessoire.git|Contributed|SXAccessoire
 https://github.com/makerlabvn/Makerlabvn_I2C_Motor_Driver.git|Contributed|Makerlabvn_I2C_Motor_Driver
+https://github.com/ncmreynolds/ld2410.git|Contributed|ld2410
+https://github.com/tobozo/ESP32-ENC28J60.git|Contributed|ESP32-ENC28J60
+https://github.com/tobozo/YAMLDuino.git|Contributed|YAMLDuino
+https://github.com/jsware/able-buttons.git|Contributed|able-buttons
+https://github.com/RobTillaart/PERIPUMP.git|Contributed|PERIPUMP
+https://github.com/PrivateHomeIoT/SecureMQTT.git|Contributed|SecureMQTT
+https://github.com/PBernalPolo/HX710.git|Contributed|HX710
+https://github.com/Anrijs/Aranet4-ESP32.git|Contributed|Aranet4
+https://github.com/dennis-ard/ArduCAM.git|Contributed|ArduCAM
+https://github.com/dennis-ard/Arducam_Mega.git|Contributed|Arducam_Mega
+https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22103K_00000057.git|Contributed|OSS-EC_ADI_AD22103K_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000057.git|Contributed|OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057.git|Contributed|OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9701_MCP9701A_00000057.git|Contributed|OSS-EC_MICROCHIP_MCP9701_MCP9701A_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_TC1046_00000057.git|Contributed|OSS-EC_MICROCHIP_TC1046_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_TC1047_TC1047A_00000057.git|Contributed|OSS-EC_MICROCHIP_TC1047_TC1047A_00000057
+https://github.com/Travancore-Analytics/iot-suite.git|Contributed|IoT Suite
+https://github.com/RobTillaart/moduloMap.git|Contributed|moduloMap
+https://github.com/Mm1KEE/SmoothTouch.git|Contributed|SmoothTouch
+https://github.com/PTSolns/PTSolns_InterfaceShield.git|Contributed|PTSolns_InterfaceShield
+https://github.com/pacav69/NGFlasherLED.git|Contributed|NGLedFlasher Library
