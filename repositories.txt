@@ -5278,3 +5278,4 @@ https://github.com/PTSolns/PTSolns_InterfaceShield
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPX5999D_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6115A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6400A_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXHZ6250A_00000057
