@@ -5277,3 +5277,4 @@ https://github.com/Travancore-Analytics/iot-suite
 https://github.com/PTSolns/PTSolns_InterfaceShield
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPX5999D_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6115A_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6400A_00000057
