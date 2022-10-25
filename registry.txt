@@ -5378,3 +5378,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPX5999D_00000057.git|Contributed|
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6115A_00000057.git|Contributed|OSS-EC_NXP_MPXH6115A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6400A_00000057.git|Contributed|OSS-EC_NXP_MPXH6400A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXHZ6250A_00000057.git|Contributed|OSS-EC_NXP_MPXHZ6250A_00000057
+https://github.com/STONElibrary/arduino_lib.git|Contributed|Stone_serial
