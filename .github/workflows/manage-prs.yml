@@ -138,7 +138,7 @@ jobs:
 
       - name: Download submission parser
         id: download-parser
-        uses: carlosperate/download-file-action@v1
+        uses: carlosperate/download-file-action@v2
         with:
           file-url: https://github.com/arduino/library-registry-submission-parser/releases/download/${{ env.SUBMISSION_PARSER_VERSION }}/parser
           location: ${{ runner.temp }}
