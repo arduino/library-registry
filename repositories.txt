@@ -1,4 +1,3 @@
-https://github.com/marcinsaj/RTC-RX8025T
 https://github.com/pacav69/NGFlasherLED
 https://github.com/ncmreynolds/ld2410
 https://github.com/PrivateHomeIoT/SecureMQTT
