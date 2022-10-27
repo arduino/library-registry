@@ -5383,3 +5383,4 @@ https://github.com/Jeroen88/EasyOpenTherm.git|Contributed|EasyOpenTherm
 https://github.com/RAKWireless/RAK12027-D7S.git|Contributed|RAK12027-D7S
 https://github.com/marcinsaj/RTC-RX8025T.git|Contributed|RTC_RX8025T
 https://github.com/liuyinze/CumulocityHttpUpstream.git|Contributed|Cumulocity IoT Upstreaming
+https://github.com/liuyinze/CumulocityHttpDownstream.git|Contributed|Cumulocity IoT Downstream
