@@ -4389,6 +4389,7 @@ https://github.com/ukw100/IRMP
 https://github.com/ultimaterobotics/uECG_library
 https://github.com/UnexpectedMaker/Neo7Segment
 https://github.com/UnexpectedMaker/tinypico-helper
+https://github.com/upbeatlabs/UpbeatLabs_MCP39F521
 https://github.com/uStepper/egoShieldS
 https://github.com/uStepper/egoShieldTeach
 https://github.com/uStepper/egoShieldTimeLapse
