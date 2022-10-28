@@ -5385,3 +5385,4 @@ https://github.com/marcinsaj/RTC-RX8025T.git|Contributed|RTC_RX8025T
 https://github.com/liuyinze/CumulocityHttpUpstream.git|Contributed|Cumulocity IoT Upstreaming
 https://github.com/liuyinze/CumulocityHttpDownstream.git|Contributed|Cumulocity IoT Downstream
 https://github.com/upbeatlabs/UpbeatLabs_MCP39F521.git|Contributed|UpbeatLabs MCP39F521
+https://github.com/gpoolb/ads1148.git|Contributed|ADS1148
