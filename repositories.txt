@@ -5287,3 +5287,4 @@ https://github.com/STONElibrary/arduino_lib
 https://github.com/Jeroen88/EasyOpenTherm
 https://github.com/liuyinze/CumulocityHttpUpstream
 https://github.com/liuyinze/CumulocityHttpDownstream
+https://github.com/dirkx/Arduino-Base32-Decode
