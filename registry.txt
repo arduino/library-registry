@@ -5387,3 +5387,4 @@ https://github.com/liuyinze/CumulocityHttpDownstream.git|Contributed|Cumulocity 
 https://github.com/upbeatlabs/UpbeatLabs_MCP39F521.git|Contributed|UpbeatLabs MCP39F521
 https://github.com/gpoolb/ads1148.git|Contributed|ADS1148
 https://github.com/dirkx/Arduino-Base32-Decode.git|Contributed|Base32-Decode
+https://github.com/dirkx/Arduino-TOTP-RFC6238-generator.git|Contributed|TOTP-RC6236-generator
