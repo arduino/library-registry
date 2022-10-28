@@ -5386,3 +5386,4 @@ https://github.com/liuyinze/CumulocityHttpUpstream.git|Contributed|Cumulocity Io
 https://github.com/liuyinze/CumulocityHttpDownstream.git|Contributed|Cumulocity IoT Downstream
 https://github.com/upbeatlabs/UpbeatLabs_MCP39F521.git|Contributed|UpbeatLabs MCP39F521
 https://github.com/gpoolb/ads1148.git|Contributed|ADS1148
+https://github.com/dirkx/Arduino-Base32-Decode.git|Contributed|Base32-Decode
