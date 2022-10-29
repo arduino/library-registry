@@ -5388,3 +5388,4 @@ https://github.com/upbeatlabs/UpbeatLabs_MCP39F521.git|Contributed|UpbeatLabs MC
 https://github.com/gpoolb/ads1148.git|Contributed|ADS1148
 https://github.com/dirkx/Arduino-Base32-Decode.git|Contributed|Base32-Decode
 https://github.com/dirkx/Arduino-TOTP-RFC6238-generator.git|Contributed|TOTP-RC6236-generator
+https://github.com/khoih-prog/AVR_PWM.git|Contributed|AVR_PWM
