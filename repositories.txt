@@ -5290,3 +5290,4 @@ https://github.com/liuyinze/CumulocityHttpDownstream
 https://github.com/dirkx/Arduino-Base32-Decode
 https://github.com/dirkx/Arduino-TOTP-RFC6238-generator
 https://github.com/khoih-prog/AVR_PWM
+https://github.com/nwb99/MCP4151
