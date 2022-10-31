@@ -5292,3 +5292,4 @@ https://github.com/dirkx/Arduino-TOTP-RFC6238-generator
 https://github.com/khoih-prog/AVR_PWM
 https://github.com/nwb99/MCP4151
 https://github.com/Ninagawa123/Meridian
+https://github.com/RLL-Blue-Dragon/OSS-EC_ROHM_BD1020HFV_00000057
