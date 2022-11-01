@@ -5286,6 +5286,7 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXH6400A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXHZ6250A_00000057
 https://github.com/STONElibrary/arduino_lib
 https://github.com/Jeroen88/EasyOpenTherm
+https://github.com/joeqread/arduino-duktape
 https://github.com/liuyinze/CumulocityHttpUpstream
 https://github.com/liuyinze/CumulocityHttpDownstream
 https://github.com/dirkx/Arduino-Base32-Decode
