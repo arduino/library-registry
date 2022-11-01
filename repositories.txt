@@ -5297,3 +5297,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_ROHM_BD1020HFV_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_STM_STLM20DD9F_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_STM_STLM20W87F_00000057
 https://github.com/khoih-prog/megaAVR_PWM
+https://github.com/botletics/Botletics-SIM7000
