@@ -1,3 +1,4 @@
+https://github.com/gpoolb/ads1148
 https://github.com/marcinsaj/RTC-RX8025T
 https://github.com/pacav69/NGFlasherLED
 https://github.com/ncmreynolds/ld2410
@@ -1017,6 +1018,7 @@ https://github.com/ArminJo/ATtinySerialOut
 https://github.com/ArminJo/AvrTracing
 https://github.com/ArminJo/digitalWriteFast
 https://github.com/ArminJo/EasyButtonAtInt01
+https://github.com/ArminJo/LCDBigNumbers
 https://github.com/ArminJo/NeoPatterns
 https://github.com/ArminJo/PlayRtttl
 https://github.com/ArminJo/PWMMotorControl
@@ -4389,6 +4391,7 @@ https://github.com/ukw100/IRMP
 https://github.com/ultimaterobotics/uECG_library
 https://github.com/UnexpectedMaker/Neo7Segment
 https://github.com/UnexpectedMaker/tinypico-helper
+https://github.com/upbeatlabs/UpbeatLabs_MCP39F521
 https://github.com/uStepper/egoShieldS
 https://github.com/uStepper/egoShieldTeach
 https://github.com/uStepper/egoShieldTimeLapse
@@ -5284,3 +5287,17 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXHZ6250A_00000057
 https://github.com/STONElibrary/arduino_lib
 https://github.com/Jeroen88/EasyOpenTherm
 https://github.com/joeqread/arduino-duktape
+https://github.com/liuyinze/CumulocityHttpUpstream
+https://github.com/liuyinze/CumulocityHttpDownstream
+https://github.com/dirkx/Arduino-Base32-Decode
+https://github.com/dirkx/Arduino-TOTP-RFC6238-generator
+https://github.com/khoih-prog/AVR_PWM
+https://github.com/nwb99/MCP4151
+https://github.com/Ninagawa123/Meridian
+https://github.com/RLL-Blue-Dragon/OSS-EC_ROHM_BD1020HFV_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_STM_STLM20DD9F_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_STM_STLM20W87F_00000057
+https://github.com/khoih-prog/megaAVR_PWM
+https://github.com/botletics/Botletics-SIM7000
+https://github.com/khoih-prog/ESP32_FastPWM
+https://github.com/vindar/ILI9341_T4
