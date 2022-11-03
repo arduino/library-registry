@@ -5304,3 +5304,4 @@ https://github.com/khoih-prog/ESP32_FastPWM
 https://github.com/vindar/ILI9341_T4
 https://github.com/RLL-Blue-Dragon/OSS-EC_TDK_CHS-MSS_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_TDK_CHS_UPS_UPR_UGS_UGR_00000057
+https://github.com/daviinacio/arduino-buffer
