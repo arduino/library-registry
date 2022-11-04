@@ -5406,3 +5406,4 @@ https://github.com/PeaPodTechnologies/I2CIP.git|Contributed|I2CIP
 https://github.com/khoih-prog/SAMD_PWM.git|Contributed|SAMD_PWM
 https://github.com/mcmchris/mcm-grove-voltage-sensor.git|Contributed|MCMVoltSense
 https://github.com/khoih-prog/SAMDUE_PWM.git|Contributed|SAMDUE_PWM
+https://github.com/RobTillaart/FastShiftInOut.git|Contributed|FastShiftInOut
