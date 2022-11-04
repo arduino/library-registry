@@ -5405,3 +5405,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_TDK_CHS_UPS_UPR_UGS_UGR_00000057.git|C
 https://github.com/PeaPodTechnologies/I2CIP.git|Contributed|I2CIP
 https://github.com/khoih-prog/SAMD_PWM.git|Contributed|SAMD_PWM
 https://github.com/mcmchris/mcm-grove-voltage-sensor.git|Contributed|MCMVoltSense
+https://github.com/khoih-prog/SAMDUE_PWM.git|Contributed|SAMDUE_PWM
