@@ -5307,3 +5307,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_TDK_CHS_UPS_UPR_UGS_UGR_00000057
 https://github.com/khoih-prog/SAMD_PWM
 https://github.com/mcmchris/mcm-grove-voltage-sensor
 https://github.com/khoih-prog/SAMDUE_PWM
+https://github.com/npuckett/arduinoAnimation
