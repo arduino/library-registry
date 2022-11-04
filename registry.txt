@@ -5013,7 +5013,7 @@ https://github.com/alexbertis/Text2Matrix.git|Contributed|Text2Matrix
 https://github.com/siktec-lab/SIKTEC-EPD.git|Contributed|SIKTEC_EPD
 https://github.com/janscience/TeeRec.git|Contributed|TeeRec
 https://github.com/jaggzh/mini-ppm-info.git|Contributed|mini-ppm-info
-https://github.com/An7or/ADCButtons.git|Contributed|ADCButtons
+https://github.com/An7orAhmed/ADCButtons.git|Contributed|ADCButtons
 https://github.com/dong-higenis/HS_CAN_485_ESP32.git|Contributed|HS_CAN_485_ESP32
 https://github.com/juliusbaechle/MicroQt.git|Contributed|MicroQt
 https://github.com/m5stack/M5Module-4Relay.git|Contributed|M5Module-4Relay
