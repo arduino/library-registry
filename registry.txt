@@ -5409,3 +5409,4 @@ https://github.com/khoih-prog/SAMDUE_PWM.git|Contributed|SAMDUE_PWM
 https://github.com/RobTillaart/FastShiftInOut.git|Contributed|FastShiftInOut
 https://github.com/khoih-prog/nRF52_PWM.git|Contributed|nRF52_PWM
 https://github.com/dvarrel/TM1638.git|Contributed|TM1638
+https://gitlab.com/UJUR007/mpu6050_ind.git|Contributed|MPU6050_IND
