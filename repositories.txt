@@ -5312,3 +5312,4 @@ https://github.com/khoih-prog/nRF52_PWM
 https://github.com/dvarrel/TM1638.git
 https://gitlab.com/UJUR007/mpu6050_ind
 https://github.com/khoih-prog/Teensy_PWM
+https://github.com/lefmarna/NintendoSwitchControlLibrary
