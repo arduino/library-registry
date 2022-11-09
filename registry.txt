@@ -5422,3 +5422,4 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35C_LM35CA_00000057.git|Contribut
 https://github.com/khoih-prog/ATtiny_PWM.git|Contributed|ATtiny_PWM
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35_LM35A_00000057.git|Contributed|OSS-EC_TI_LM35_LM35A_00000057
 https://github.com/smt5541/magstripelib-esp32.git|Contributed|MagStripe_ESP32
+https://github.com/teruyamato0731/Chassis.git|Contributed|Chassis
