@@ -41,6 +41,7 @@ https://github.com/SpulberGeorge/EasyUltrasonic
 https://github.com/Gjorgjevikj/SmoothProgress
 https://github.com/MSZ98/serial-readline
 https://github.com/MSZ98/CallMyFunction
+https://github.com/YoupiLab/YoupiLabEsp32
 https://github.com/naszly/Arduino-StaticSerialCommands
 https://github.com/dominicklee/TrueProx/
 https://github.com/cygig/MCUVoltage
