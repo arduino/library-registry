@@ -5382,3 +5382,44 @@ https://github.com/STONElibrary/arduino_lib.git|Contributed|Stone_serial
 https://github.com/Jeroen88/EasyOpenTherm.git|Contributed|EasyOpenTherm
 https://github.com/RAKWireless/RAK12027-D7S.git|Contributed|RAK12027-D7S
 https://github.com/marcinsaj/RTC_RX8025T.git|Contributed|RTC_RX8025T
+https://github.com/liuyinze/CumulocityHttpUpstream.git|Contributed|Cumulocity IoT Upstreaming
+https://github.com/liuyinze/CumulocityHttpDownstream.git|Contributed|Cumulocity IoT Downstream
+https://github.com/upbeatlabs/UpbeatLabs_MCP39F521.git|Contributed|UpbeatLabs MCP39F521
+https://github.com/gpoolb/ads1148.git|Contributed|ADS1148
+https://github.com/dirkx/Arduino-Base32-Decode.git|Contributed|Base32-Decode
+https://github.com/dirkx/Arduino-TOTP-RFC6238-generator.git|Contributed|TOTP-RC6236-generator
+https://github.com/khoih-prog/AVR_PWM.git|Contributed|AVR_PWM
+https://github.com/nwb99/MCP4151.git|Contributed|MCP4151
+https://github.com/Ninagawa123/Meridian.git|Contributed|Meridian
+https://github.com/RLL-Blue-Dragon/OSS-EC_ROHM_BD1020HFV_00000057.git|Contributed|OSS-EC_ROHM_BD1020HFV_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_STM_STLM20DD9F_00000057.git|Contributed|OSS-EC_STM_STLM20DD9F_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_STM_STLM20W87F_00000057.git|Contributed|OSS-EC_STM_STLM20W87F_00000057
+https://github.com/khoih-prog/megaAVR_PWM.git|Contributed|megaAVR_PWM
+https://github.com/ArminJo/LCDBigNumbers.git|Contributed|LCDBigNumbers
+https://github.com/botletics/Botletics-SIM7000.git|Contributed|BotleticsSIM7000
+https://github.com/khoih-prog/ESP32_FastPWM.git|Contributed|ESP32_FastPWM
+https://github.com/vindar/ILI9341_T4.git|Contributed|ILI9341_T4
+https://github.com/joeqread/arduino-duktape.git|Contributed|JavaScript
+https://github.com/RLL-Blue-Dragon/OSS-EC_TDK_CHS-MSS_00000057.git|Contributed|OSS-EC_TDK_CHS_MSS_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TDK_CHS_UPS_UPR_UGS_UGR_00000057.git|Contributed|OSS-EC_TDK_CHS_UPS_UPR_UGS_UGR_00000057
+https://github.com/PeaPodTechnologies/I2CIP.git|Contributed|I2CIP
+https://github.com/khoih-prog/SAMD_PWM.git|Contributed|SAMD_PWM
+https://github.com/mcmchris/mcm-grove-voltage-sensor.git|Contributed|MCMVoltSense
+https://github.com/khoih-prog/SAMDUE_PWM.git|Contributed|SAMDUE_PWM
+https://github.com/RobTillaart/FastShiftInOut.git|Contributed|FastShiftInOut
+https://github.com/khoih-prog/nRF52_PWM.git|Contributed|nRF52_PWM
+https://github.com/dvarrel/TM1638.git|Contributed|TM1638
+https://gitlab.com/UJUR007/mpu6050_ind.git|Contributed|MPU6050_IND
+https://github.com/khoih-prog/Teensy_PWM.git|Contributed|Teensy_PWM
+https://github.com/lefmarna/NintendoSwitchControlLibrary.git|Contributed|NintendoSwitchControlLibrary
+https://github.com/rohirto/ultimate_esp_mqtt_ubidots.git|Contributed|Ultimate_ESP_MQTT_Ubidots
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_TMP9A00_00000057.git|Contributed|OSS-EC_TI_TMP9A00_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM50C_LM50-Q1_00000057.git|Contributed|OSS-EC_TI_LM50C_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM50B_00000057.git|Contributed|OSS-EC_TI_LM50B_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM45B_LM45C_00000057.git|Contributed|OSS-EC_TI_LM45B_LM45C_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35D_00000057.git|Contributed|OSS-EC_TI_LM35D_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35C_LM35CA_00000057.git|Contributed|OSS-EC_TI_LM35C_LM35CA_00000057
+https://github.com/khoih-prog/ATtiny_PWM.git|Contributed|ATtiny_PWM
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35_LM35A_00000057.git|Contributed|OSS-EC_TI_LM35_LM35A_00000057
+https://github.com/smt5541/magstripelib-esp32.git|Contributed|MagStripe_ESP32
+https://github.com/teruyamato0731/Chassis.git|Contributed|Chassis
