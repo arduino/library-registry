@@ -5413,3 +5413,4 @@ https://gitlab.com/UJUR007/mpu6050_ind.git|Contributed|MPU6050_IND
 https://github.com/khoih-prog/Teensy_PWM.git|Contributed|Teensy_PWM
 https://github.com/lefmarna/NintendoSwitchControlLibrary.git|Contributed|NintendoSwitchControlLibrary
 https://github.com/rohirto/ultimate_esp_mqtt_ubidots.git|Contributed|Ultimate_ESP_MQTT_Ubidots
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_TMP9A00_00000057.git|Contributed|OSS-EC_TI_TMP9A00_00000057
