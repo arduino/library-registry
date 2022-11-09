@@ -5317,3 +5317,4 @@ https://github.com/lefmarna/NintendoSwitchControlLibrary
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_TMP9A00_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM50C_LM50-Q1_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM50B_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM45B_LM45C_00000057
