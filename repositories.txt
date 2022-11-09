@@ -5316,3 +5316,4 @@ https://github.com/khoih-prog/Teensy_PWM
 https://github.com/lefmarna/NintendoSwitchControlLibrary
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_TMP9A00_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM50C_LM50-Q1_00000057
+https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM50B_00000057
