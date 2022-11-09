@@ -5255,7 +5255,7 @@ https://github.com/galarb/gyroturn.git
 https://github.com/galarb/clicli.git
 https://github.com/natnqweb/EventOS
 https://github.com/joeycastillo/OSO_Arduino_LCD
-https://github.com/eoh-jsc/mvp-lib
+https://github.com/eoh-jsc/era-lib
 https://github.com/0x6flab/satima-arduinolibrary
 https://github.com/semcneil/ADS7142_Arduino_Library
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-8110C_8120C_00000057
