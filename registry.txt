@@ -5425,3 +5425,4 @@ https://github.com/smt5541/magstripelib-esp32.git|Contributed|MagStripe_ESP32
 https://github.com/teruyamato0731/Chassis.git|Contributed|Chassis
 https://github.com/dvarrel/DHT22.git|Contributed|DHT22
 https://github.com/HakkanR/SSD1306TUR.git|Contributed|SSD1306TUR
+https://github.com/khoih-prog/Dx_PWM.git|Contributed|Dx_PWM
