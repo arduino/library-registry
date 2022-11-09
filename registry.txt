@@ -5381,7 +5381,7 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_NXP_MPXHZ6250A_00000057.git|Contribute
 https://github.com/STONElibrary/arduino_lib.git|Contributed|Stone_serial
 https://github.com/Jeroen88/EasyOpenTherm.git|Contributed|EasyOpenTherm
 https://github.com/RAKWireless/RAK12027-D7S.git|Contributed|RAK12027-D7S
-https://github.com/marcinsaj/RTC-RX8025T.git|Contributed|RTC_RX8025T
+https://github.com/marcinsaj/RTC_RX8025T.git|Contributed|RTC_RX8025T
 https://github.com/liuyinze/CumulocityHttpUpstream.git|Contributed|Cumulocity IoT Upstreaming
 https://github.com/liuyinze/CumulocityHttpDownstream.git|Contributed|Cumulocity IoT Downstream
 https://github.com/upbeatlabs/UpbeatLabs_MCP39F521.git|Contributed|UpbeatLabs MCP39F521
