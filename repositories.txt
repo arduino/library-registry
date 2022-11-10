@@ -372,7 +372,6 @@ https://github.com/RCmags/ADNS3080
 https://github.com/RCmags/basicMPU6050
 https://github.com/RCmags/imuFilter
 https://github.com/RobTillaart/MAX14661
-https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library
 https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library
 https://github.com/bitbank2/PNGdec
 https://github.com/noah1510/generic-Arduino
@@ -5095,4 +5094,3 @@ https://github.com/strid3r21/BeeMotionS3-Arduino-Helper
 https://github.com/deneyapkart/deneyap-hoparlor-arduino-library
 https://github.com/A223D/detaBaseArduinoESP32
 https://github.com/A223D/Adafruit_4_01_ColourEPaper
-https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
