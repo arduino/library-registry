@@ -5428,4 +5428,4 @@ https://github.com/HakkanR/SSD1306TUR.git|Contributed|SSD1306TUR
 https://github.com/khoih-prog/Dx_PWM.git|Contributed|Dx_PWM
 https://github.com/YoupiLab/YoupiLabEsp32.git|Contributed|YoupiLabEsp32
 https://github.com/YoupiLab/YLEsp8266.git|Contributed|YLEsp8266
-https://github.com/YoupiLab/SIM800_YL.git|Contributed|SIM800_YL
+https://github.com/YoupiLab/YLSim800Lib.git|Contributed|SIM800_YL
