@@ -5328,3 +5328,4 @@ https://github.com/smt5541/magstripelib-esp32
 https://github.com/teruyamato0731/Chassis
 https://github.com/dvarrel/DHT22
 https://github.com/khoih-prog/Dx_PWM
+https://github.com/YoupiLab/YLEsp8266
