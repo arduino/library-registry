@@ -5430,3 +5430,4 @@ https://github.com/YoupiLab/YoupiLabEsp32.git|Contributed|YoupiLabEsp32
 https://github.com/YoupiLab/YLEsp8266.git|Contributed|YLEsp8266
 https://github.com/YoupiLab/SIM800_YL.git|Contributed|SIM800_YL
 https://gitlab.com/atesin/minimallinkedlist_arduino.git|Contributed|MinimalLinkedList
+https://github.com/shah253kt/SimpleStack.git|Contributed|SimpleStack
