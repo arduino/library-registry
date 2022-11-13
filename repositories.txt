@@ -1,3 +1,4 @@
+https://github.com/eloquentarduino/EloquentEsp32cam
 https://gitlab.com/atesin/minimallinkedlist_arduino
 https://github.com/Adish0016/DHT118266
 https://github.com/Adish0016/servodht11
