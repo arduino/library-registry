@@ -1,4 +1,5 @@
 https://gitlab.com/atesin/minimallinkedlist_arduino
+https://github.com/Adish0016/dht11esp8266examples
 https://github.com/Adish0016/dht11esp8266new.git
 https://github.com/HakkanR/SSD1306TUR
 https://github.com/marcinsaj/RTC_RX8025T
