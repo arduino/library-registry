@@ -4335,6 +4335,7 @@ https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
 https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
+https://github.com/tobozo/WiFiManagerTz
 https://github.com/tobozo/YAMLDuino
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
