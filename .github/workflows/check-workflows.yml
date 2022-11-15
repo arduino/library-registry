@@ -26,7 +26,7 @@ jobs:
 
       - name: Download JSON schema for GitHub Actions workflows
         id: download-schema
-        uses: carlosperate/download-file-action@v1
+        uses: carlosperate/download-file-action@v2
         with:
           # See: https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/github-workflow.json
           file-url: https://json.schemastore.org/github-workflow
