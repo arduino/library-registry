@@ -5439,3 +5439,4 @@ https://github.com/eloquentarduino/EloquentEsp32cam.git|Contributed|EloquentEsp3
 https://github.com/Nilon123456789/Firmetix4Arduino.git|Contributed|Firmetix4Arduino
 https://github.com/Adish0016/esp826611.git|Contributed|esp826611
 https://github.com/tobozo/WiFiManagerTz.git|Contributed|WiFiManagerTz
+https://github.com/npuckett/arduinoAnimation.git|Contributed|Animation Tools
