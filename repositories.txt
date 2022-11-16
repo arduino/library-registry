@@ -5342,3 +5342,4 @@ https://github.com/khoih-prog/Dx_PWM
 https://github.com/YoupiLab/YLEsp8266
 https://github.com/YoupiLab/SIM800_YL
 https://github.com/shah253kt/SimpleStack
+https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library
