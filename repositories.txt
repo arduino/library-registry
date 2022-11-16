@@ -3516,6 +3516,7 @@ https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/map2colour
+https://github.com/RobTillaart/MAX31850
 https://github.com/RobTillaart/MAX31855_RT
 https://github.com/RobTillaart/Max44007
 https://github.com/RobTillaart/Max44009
