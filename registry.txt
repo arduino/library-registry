@@ -5441,3 +5441,4 @@ https://github.com/Adish0016/esp826611.git|Contributed|esp826611
 https://github.com/tobozo/WiFiManagerTz.git|Contributed|WiFiManagerTz
 https://github.com/npuckett/arduinoAnimation.git|Contributed|Animation Tools
 https://github.com/RobTillaart/MAX31850.git|Contributed|MAX31850
+https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library.git|Contributed|SparkFun Indoor Air Quality Sensor - ENS160
