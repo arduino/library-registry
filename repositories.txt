@@ -424,7 +424,7 @@ https://github.com/RCmags/ADNS3080
 https://github.com/RCmags/basicMPU6050
 https://github.com/RCmags/imuFilter
 https://github.com/RobTillaart/MAX14661
-https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library
+https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library
 https://github.com/bitbank2/PNGdec
 https://github.com/noah1510/generic-Arduino
 https://github.com/atc1441/NETSGPClient
@@ -5342,3 +5342,4 @@ https://github.com/khoih-prog/Dx_PWM
 https://github.com/YoupiLab/YLEsp8266
 https://github.com/YoupiLab/SIM800_YL
 https://github.com/shah253kt/SimpleStack
+https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library
