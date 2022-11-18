@@ -5443,3 +5443,4 @@ https://github.com/npuckett/arduinoAnimation.git|Contributed|Animation Tools
 https://github.com/RobTillaart/MAX31850.git|Contributed|MAX31850
 https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library.git|Contributed|SparkFun Indoor Air Quality Sensor - ENS160
 https://github.com/khoih-prog/WiFi101_Generic.git|Contributed|WiFi101_Generic
+https://github.com/zivoy/AdaptiveMapping.git|Contributed|AdaptiveMapping
