@@ -5445,3 +5445,4 @@ https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Li
 https://github.com/khoih-prog/WiFi101_Generic.git|Contributed|WiFi101_Generic
 https://github.com/zivoy/AdaptiveMapping.git|Contributed|AdaptiveMapping
 https://github.com/zimbora/esp32-BG95.git|Contributed|modem-bgxx
+https://github.com/asukiaaa/arduino-XboxSeriesXHIDReportBuilder.git|Contributed|XboxSeriesXHIDReportBuilder_asukiaaa
