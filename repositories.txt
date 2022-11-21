@@ -4406,6 +4406,8 @@ https://github.com/UIPEthernet/UIPEthernet
 https://github.com/ukkz/green-beacon-esp32
 https://github.com/ukw100/IRMP
 https://github.com/ultimaterobotics/uECG_library
+https://github.com/ultimaterobotics/uMyo_BLE
+https://github.com/ultimaterobotics/uMyo_RF24
 https://github.com/UnexpectedMaker/Neo7Segment
 https://github.com/UnexpectedMaker/tinypico-helper
 https://github.com/upbeatlabs/UpbeatLabs_MCP39F521
