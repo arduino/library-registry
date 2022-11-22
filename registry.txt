@@ -5448,3 +5448,5 @@ https://github.com/zimbora/esp32-BG95.git|Contributed|modem-bgxx
 https://github.com/asukiaaa/arduino-XboxSeriesXHIDReportBuilder.git|Contributed|XboxSeriesXHIDReportBuilder_asukiaaa
 https://github.com/hafidhh/Callmebot-ESP8266.git|Contributed|Callmebot ESP8266 Library
 https://github.com/608/CH55xSwitchControl.git|Contributed|CH55xSwitchControl
+https://github.com/ultimaterobotics/uMyo_BLE.git|Contributed|uMyo_BLE
+https://github.com/ultimaterobotics/uMyo_RF24.git|Contributed|uMyo_RF24
