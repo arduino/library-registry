@@ -5452,3 +5452,4 @@ https://github.com/ultimaterobotics/uMyo_BLE.git|Contributed|uMyo_BLE
 https://github.com/ultimaterobotics/uMyo_RF24.git|Contributed|uMyo_RF24
 https://github.com/maxpromer/PCA9557-arduino.git|Contributed|PCA9557-arduino
 https://github.com/matthias-bs/ATC_MiThermometer.git|Contributed|ATC_MiThermometer
+https://github.com/chan1sook/SensesiotProtocolLib.git|Contributed|Sensesiot
