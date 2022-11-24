@@ -5353,3 +5353,4 @@ https://github.com/hafidhh/Callmebot-ESP8266
 https://github.com/608/CH55xSwitchControl
 https://github.com/maxpromer/PCA9557-arduino
 https://github.com/matthias-bs/ATC_MiThermometer
+https://github.com/chan1sook/SensesiotProtocolLib
