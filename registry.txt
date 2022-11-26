@@ -5454,3 +5454,5 @@ https://github.com/maxpromer/PCA9557-arduino.git|Contributed|PCA9557-arduino
 https://github.com/matthias-bs/ATC_MiThermometer.git|Contributed|ATC_MiThermometer
 https://github.com/chan1sook/SensesiotProtocolLib.git|Contributed|Sensesiot
 https://github.com/XbergCode/Uptime.git|Contributed|Uptime
+https://github.com/aliffathoni/ESPAutoWifi.git|Contributed|ESPAutoWifi
+https://github.com/aliffathoni/ESP8266AutoWifi.git|Contributed|ESP8266AutoWifi
