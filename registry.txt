@@ -5456,3 +5456,4 @@ https://github.com/chan1sook/SensesiotProtocolLib.git|Contributed|Sensesiot
 https://github.com/XbergCode/Uptime.git|Contributed|Uptime
 https://github.com/aliffathoni/ESPAutoWifi.git|Contributed|ESPAutoWifi
 https://github.com/aliffathoni/ESP8266AutoWifi.git|Contributed|ESP8266AutoWifi
+https://github.com/bjoernboeckle/HC_SR04.git|Contributed|HC_SR04
