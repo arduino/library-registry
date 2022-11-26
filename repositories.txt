@@ -5206,6 +5206,7 @@ https://github.com/E-Lagori/ELi_McM_4_00
 https://github.com/berrak/MyMacros
 https://github.com/ferrerosteve/WiFiManagerDesign
 https://github.com/XbergCode/DigitSeparator
+https://github.com/XbergCode/Uptime
 https://github.com/E-Lagori/ELi_MdM_4_00
 https://github.com/shurillu/Cdrv8833
 https://github.com/khoih-prog/WiFiManager_RP2040W_Lite
@@ -5351,3 +5352,10 @@ https://github.com/khoih-prog/WiFi101_Generic
 https://github.com/zivoy/AdaptiveMapping
 https://github.com/608/CH55xSwitchControl
 https://github.com/maxpromer/PCA9557-arduino
+https://github.com/matthias-bs/ATC_MiThermometer
+https://github.com/chan1sook/SensesiotProtocolLib
+https://github.com/aliffathoni/ESPAutoWifi
+https://github.com/aliffathoni/ESP8266AutoWifi
+https://github.com/bjoernboeckle/HC_SR04
+https://github.com/DoImant/Button_SL.git
+https://github.com/paperdink/PaperdInk-Library
