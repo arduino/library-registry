@@ -5460,3 +5460,4 @@ https://github.com/bjoernboeckle/HC_SR04.git|Contributed|HC_SR04
 https://github.com/DoImant/Button_SL.git|Contributed|Button_SL
 https://github.com/paperdink/PaperdInk-Library.git|Contributed|Paperdink
 https://github.com/hafidhh/Callmebot-ESP32.git|Contributed|Callmebot ESP32
+https://github.com/RobTillaart/TSL260R.git|Contributed|TSL260R
