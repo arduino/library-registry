@@ -1,3 +1,4 @@
+https://github.com/zimbora/esp32-BG95
 https://github.com/eloquentarduino/EloquentEsp32cam
 https://gitlab.com/atesin/minimallinkedlist_arduino
 https://github.com/Adish0016/esp826611
@@ -1069,6 +1070,7 @@ https://github.com/asukiaaa/arduino-TC78B009FTG
 https://github.com/asukiaaa/arduino-wire
 https://github.com/asukiaaa/arduino-XboxControllerNotificationParser
 https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32
+https://github.com/asukiaaa/arduino-XboxSeriesXHIDReportBuilder
 https://github.com/asukiaaa/BLVD20KM_asukiaaa
 https://github.com/asukiaaa/CanBusData-arduino
 https://github.com/asukiaaa/CanBusMCP2515-arduino
@@ -4404,6 +4406,8 @@ https://github.com/UIPEthernet/UIPEthernet
 https://github.com/ukkz/green-beacon-esp32
 https://github.com/ukw100/IRMP
 https://github.com/ultimaterobotics/uECG_library
+https://github.com/ultimaterobotics/uMyo_BLE
+https://github.com/ultimaterobotics/uMyo_RF24
 https://github.com/UnexpectedMaker/Neo7Segment
 https://github.com/UnexpectedMaker/tinypico-helper
 https://github.com/upbeatlabs/UpbeatLabs_MCP39F521
@@ -5202,6 +5206,7 @@ https://github.com/E-Lagori/ELi_McM_4_00
 https://github.com/berrak/MyMacros
 https://github.com/ferrerosteve/WiFiManagerDesign
 https://github.com/XbergCode/DigitSeparator
+https://github.com/XbergCode/Uptime
 https://github.com/E-Lagori/ELi_MdM_4_00
 https://github.com/shurillu/Cdrv8833
 https://github.com/khoih-prog/WiFiManager_RP2040W_Lite
@@ -5342,3 +5347,17 @@ https://github.com/khoih-prog/Dx_PWM
 https://github.com/YoupiLab/YLEsp8266
 https://github.com/YoupiLab/SIM800_YL
 https://github.com/shah253kt/SimpleStack
+https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library
+https://github.com/khoih-prog/WiFi101_Generic
+https://github.com/zivoy/AdaptiveMapping
+https://github.com/hafidhh/Callmebot-ESP8266
+https://github.com/608/CH55xSwitchControl
+https://github.com/maxpromer/PCA9557-arduino
+https://github.com/matthias-bs/ATC_MiThermometer
+https://github.com/chan1sook/SensesiotProtocolLib
+https://github.com/aliffathoni/ESPAutoWifi
+https://github.com/aliffathoni/ESP8266AutoWifi
+https://github.com/bjoernboeckle/HC_SR04
+https://github.com/DoImant/Button_SL.git
+https://github.com/paperdink/PaperdInk-Library
+https://github.com/hafidhh/Callmebot-ESP32
