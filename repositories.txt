@@ -3593,6 +3593,7 @@ https://github.com/RobTillaart/timing
 https://github.com/RobTillaart/tinySHT2x
 https://github.com/RobTillaart/TM1637_RT
 https://github.com/RobTillaart/Troolean
+https://github.com/RobTillaart/TSL260R
 https://github.com/RobTillaart/UUID
 https://github.com/RobTillaart/WaveMix
 https://github.com/RobTillaart/weight
