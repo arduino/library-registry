@@ -5370,3 +5370,4 @@ https://github.com/ESDeveloperBR/AnalogKeyboard.git
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/khoih-prog/AsyncWebServer_ESP32_ENC
 https://github.com/khoih-prog/WebServer_ESP32_ENC
+https://github.com/khoih-prog/AsyncUdp_ESP32_ENC
