@@ -5467,3 +5467,5 @@ https://github.com/ESDeveloperBR/TimeInterval.git|Contributed|TimeInterval
 https://github.com/khoih-prog/AsyncWebServer_ESP32_ENC.git|Contributed|AsyncWebServer_ESP32_ENC
 https://github.com/khoih-prog/WebServer_ESP32_ENC.git|Contributed|WebServer_ESP32_ENC
 https://github.com/alexmaurer-madis/statusled.git|Contributed|statusled
+https://github.com/alexmaurer-madis/SC16IS7X0.git|Contributed|SC16IS7X0
+https://github.com/alexmaurer-madis/eeprom_25AA02EXX.git|Contributed|eeprom_25AA02EXX
