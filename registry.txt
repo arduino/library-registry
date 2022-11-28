@@ -5466,3 +5466,4 @@ https://github.com/ESDeveloperBR/ES32Lab.git|Contributed|ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval.git|Contributed|TimeInterval
 https://github.com/khoih-prog/AsyncWebServer_ESP32_ENC.git|Contributed|AsyncWebServer_ESP32_ENC
 https://github.com/khoih-prog/WebServer_ESP32_ENC.git|Contributed|WebServer_ESP32_ENC
+https://github.com/alexmaurer-madis/statusled.git|Contributed|statusled
