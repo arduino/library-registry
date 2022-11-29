@@ -5473,3 +5473,4 @@ https://github.com/khoih-prog/AsyncUdp_ESP32_ENC.git|Contributed|AsyncUdp_ESP32_
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_ENC.git|Contributed|AsyncDNSServer_ESP32_ENC
 https://github.com/khoih-prog/AsyncDNSServer_WT32_ETH01.git|Contributed|AsyncDNSServer_WT32_ETH01
 https://github.com/sh123/esp32_codec2_arduino.git|Contributed|esp32_codec2
+https://github.com/Mathieu52/GPSP.git|Contributed|GPSP
