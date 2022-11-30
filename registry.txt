@@ -5481,3 +5481,4 @@ https://github.com/hsaturn/TinyConsole.git|Contributed|TinyConsole
 https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab.git|Contributed|TFT_eSPI_ES32Lab
 https://github.com/bjoernboeckle/L293D.git|Contributed|L293D
 https://github.com/khoih-prog/AsyncUDP_ESP32_W5500.git|Contributed|AsyncUDP_ESP32_W5500
+https://github.com/khoih-prog/AsyncDNSServer_ESP32_W5500.git|Contributed|AsyncDNSServer_ESP32_W5500
