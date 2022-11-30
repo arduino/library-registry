@@ -2004,6 +2004,7 @@ https://github.com/housewithinahouse/TwoWheelRobotLibrary
 https://github.com/hpssjellis/portenta-pro-community-solutions
 https://github.com/hpwit/SID6581
 https://github.com/hsaturn/TinyMqtt
+https://github.com/hsaturn/TinyConsole
 https://github.com/HuangYuTse/GM1602lib
 https://github.com/huilab/HoneywellTruStabilitySPI
 https://github.com/huilab/HoneywellZephyrI2C
