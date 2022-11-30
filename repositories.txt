@@ -5382,3 +5382,4 @@ https://github.com/khoih-prog/AsyncWebServer_ESP32_W5500
 https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/bjoernboeckle/L293D
 https://github.com/khoih-prog/AsyncUDP_ESP32_W5500
+https://github.com/khoih-prog/AsyncDNSServer_ESP32_W5500
