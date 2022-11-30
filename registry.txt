@@ -5477,3 +5477,4 @@ https://github.com/Mathieu52/GPSP.git|Contributed|GPSP
 https://github.com/ArtronShop/ArtronShop_SHT45.git|Contributed|ArtronShop_SHT45
 https://github.com/khoih-prog/WebServer_ESP32_W5500.git|Contributed|WebServer_ESP32_W5500
 https://github.com/khoih-prog/AsyncWebServer_ESP32_W5500.git|Contributed|AsyncWebServer_ESP32_W5500
+https://github.com/hsaturn/TinyConsole.git|Contributed|TinyConsole
