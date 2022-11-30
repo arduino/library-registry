@@ -5479,3 +5479,4 @@ https://github.com/khoih-prog/WebServer_ESP32_W5500.git|Contributed|WebServer_ES
 https://github.com/khoih-prog/AsyncWebServer_ESP32_W5500.git|Contributed|AsyncWebServer_ESP32_W5500
 https://github.com/hsaturn/TinyConsole.git|Contributed|TinyConsole
 https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab.git|Contributed|TFT_eSPI_ES32Lab
+https://github.com/bjoernboeckle/L293D.git|Contributed|L293D
