@@ -5485,3 +5485,4 @@ https://github.com/khoih-prog/AsyncDNSServer_ESP32_W5500.git|Contributed|AsyncDN
 https://github.com/EFWob/ESPPubSubClientWrapper.git|Contributed|ESPPubSubClientWrapper
 https://github.com/AIS-DeviceInnovation/Magellan.git|Contributed|MAGELLAN
 https://github.com/RobTillaart/AD56X8.git|Contributed|AD56X8
+https://github.com/KravitzLabDevices/FORCE2.git|Contributed|FORCE2
