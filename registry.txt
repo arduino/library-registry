@@ -5444,7 +5444,7 @@ https://github.com/RobTillaart/MAX31850.git|Contributed|MAX31850
 https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Library.git|Contributed|SparkFun Indoor Air Quality Sensor - ENS160
 https://github.com/khoih-prog/WiFi101_Generic.git|Contributed|WiFi101_Generic
 https://github.com/zivoy/AdaptiveMapping.git|Contributed|AdaptiveMapping
-https://github.com/zimbora/esp32-BG95.git|Contributed|modem-bgxx
+https://github.com/zimbora/esp32-BG95.git|Contributed|esp32-BG95
 https://github.com/asukiaaa/arduino-XboxSeriesXHIDReportBuilder.git|Contributed|XboxSeriesXHIDReportBuilder_asukiaaa
 https://github.com/hafidhh/Callmebot-ESP8266.git|Contributed|Callmebot ESP8266 Library
 https://github.com/608/CH55xSwitchControl.git|Contributed|CH55xSwitchControl
