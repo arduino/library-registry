@@ -5483,3 +5483,4 @@ https://github.com/bjoernboeckle/L293D.git|Contributed|L293D
 https://github.com/khoih-prog/AsyncUDP_ESP32_W5500.git|Contributed|AsyncUDP_ESP32_W5500
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_W5500.git|Contributed|AsyncDNSServer_ESP32_W5500
 https://github.com/EFWob/ESPPubSubClientWrapper.git|Contributed|ESPPubSubClientWrapper
+https://github.com/AIS-DeviceInnovation/Magellan.git|Contributed|MAGELLAN
