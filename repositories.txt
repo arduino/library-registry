@@ -3440,6 +3440,7 @@ https://github.com/RobTillaart/AD5144A
 https://github.com/RobTillaart/AD520X
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD5245
+https://github.com/RobTillaart/AD56X8
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
