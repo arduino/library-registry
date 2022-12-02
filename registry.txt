@@ -5362,7 +5362,7 @@ https://github.com/PrivateHomeIoT/SecureMQTT.git|Contributed|SecureMQTT
 https://github.com/PBernalPolo/HX710.git|Contributed|HX710
 https://github.com/Anrijs/Aranet4-ESP32.git|Contributed|Aranet4
 https://github.com/dennis-ard/ArduCAM.git|Contributed|ArduCAM
-https://github.com/dennis-ard/Arducam_Mega.git|Contributed|Arducam_Mega
+https://github.com/ArduCAM/Arducam_Mega.git|Contributed|Arducam_Mega
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22103K_00000057.git|Contributed|OSS-EC_ADI_AD22103K_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000057.git|Contributed|OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057.git|Contributed|OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057
