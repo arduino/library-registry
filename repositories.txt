@@ -1,3 +1,4 @@
+https://github.com/Phoenix1747/SimpleShell
 https://github.com/congtrol/boho-arduino
 https://github.com/EFWob/ESPPubSubClientWrapper
 https://github.com/alexmaurer-madis/SC16IS7X0
