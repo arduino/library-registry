@@ -1,3 +1,4 @@
+https://github.com/congtrol/boho-arduino
 https://github.com/EFWob/ESPPubSubClientWrapper
 https://github.com/alexmaurer-madis/SC16IS7X0
 https://github.com/alexmaurer-madis/eeprom_25AA02EXX
@@ -5386,3 +5387,4 @@ https://github.com/bjoernboeckle/L293D
 https://github.com/khoih-prog/AsyncUDP_ESP32_W5500
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_W5500
 https://github.com/AIS-DeviceInnovation/Magellan
+https://github.com/KravitzLabDevices/FORCE2
