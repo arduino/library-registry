@@ -5488,3 +5488,4 @@ https://github.com/RobTillaart/AD56X8.git|Contributed|AD56X8
 https://github.com/KravitzLabDevices/FORCE2.git|Contributed|FORCE2
 https://github.com/congtrol/boho-arduino.git|Contributed|Boho
 https://github.com/RobTillaart/A1301.git|Contributed|A1301
+https://github.com/Phoenix1747/SimpleShell.git|Contributed|SimpleShell Enhanced
