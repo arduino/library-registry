@@ -5486,3 +5486,4 @@ https://github.com/EFWob/ESPPubSubClientWrapper.git|Contributed|ESPPubSubClientW
 https://github.com/AIS-DeviceInnovation/Magellan.git|Contributed|MAGELLAN
 https://github.com/RobTillaart/AD56X8.git|Contributed|AD56X8
 https://github.com/KravitzLabDevices/FORCE2.git|Contributed|FORCE2
+https://github.com/congtrol/boho-arduino.git|Contributed|Boho
