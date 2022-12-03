@@ -30,7 +30,6 @@ https://github.com/Nilon123456789/Receiver
 https://github.com/cwi-dis/iotsa
 https://github.com/chuanstudyup/EasyGNSS.git
 https://github.com/Call-for-Code/ClusterDuck-Protocol
-https://github.com/drmpf/pfodGUIdesigner
 https://github.com/plsTrustMeImAnEngineer/StreamAverage
 https://github.com/trevorwslee/Arduino-DumbDisplay
 https://github.com/dirkhillbrecht/UiUiUi
