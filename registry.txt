@@ -5492,3 +5492,4 @@ https://github.com/Phoenix1747/SimpleShell.git|Contributed|SimpleShell Enhanced
 https://github.com/khoih-prog/HTTPS_Server_Generic.git|Contributed|HTTPS_Server_Generic
 https://github.com/wicked-rainman/ESP32Dispatcher.git|Contributed|ESP32Dispatcher
 https://github.com/RobTillaart/RAIN.git|Contributed|RAIN
+https://github.com/joseguerra3000/AD74xx.git|Contributed|AD74xx
