@@ -5495,3 +5495,4 @@ https://github.com/RobTillaart/RAIN.git|Contributed|RAIN
 https://github.com/joseguerra3000/AD74xx.git|Contributed|AD74xx
 https://github.com/RobTillaart/MSP300.git|Contributed|MSP300
 https://github.com/Excelsior-Robotics/Excelsior_Light.git|Contributed|Excelsior_Light
+https://github.com/RobTillaart/AngleConvertor.git|Contributed|AngleConvertor
