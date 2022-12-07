@@ -423,6 +423,7 @@ https://github.com/Tinyu-Zhao/FFT
 https://github.com/Tinyu-Zhao/TFTTerminal
 https://github.com/chochain/nanoFORTH
 https://github.com/Frederik-Eberhard/Excelsior
+https://github.com/Excelsior-Robotics/Excelsior_Light
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
 https://github.com/Mysues/ERO
