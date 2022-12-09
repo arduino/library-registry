@@ -5499,3 +5499,4 @@ https://github.com/RobTillaart/AngleConvertor.git|Contributed|AngleConvertor
 https://github.com/sparkfun/SparkFun_BMA400_Arduino_Library.git|Contributed|SparkFun BMA400 Arduino Library
 https://github.com/sparkfun/SparkFun_LPS28DFW_Arduino_Library.git|Contributed|SparkFun LPS28DFW Arduino Library
 https://github.com/khoih-prog/AsyncESP32_W5500_Manager.git|Contributed|AsyncESP32_W5500_Manager
+https://github.com/khoih-prog/AsyncESP32_ENC_Manager.git|Contributed|AsyncESP32_ENC_Manager
