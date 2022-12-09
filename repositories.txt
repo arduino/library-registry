@@ -2497,6 +2497,7 @@ https://github.com/LinnesLab/MAX541X
 https://github.com/LinnesLab/TrigDef
 https://github.com/LinnesLab/tTestTable
 https://github.com/lionrocker/better-joystick
+https://github.com/LiquidCGS/FastIMU
 https://github.com/llelundberg/EasyWebServer
 https://github.com/lnlp/EasyLed
 https://github.com/Locoduino/Accessories
