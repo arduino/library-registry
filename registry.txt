@@ -5501,3 +5501,4 @@ https://github.com/sparkfun/SparkFun_LPS28DFW_Arduino_Library.git|Contributed|Sp
 https://github.com/khoih-prog/AsyncESP32_W5500_Manager.git|Contributed|AsyncESP32_W5500_Manager
 https://github.com/khoih-prog/AsyncESP32_ENC_Manager.git|Contributed|AsyncESP32_ENC_Manager
 https://github.com/khoih-prog/AsyncWT32_ETH01_Manager.git|Contributed|AsyncWT32_ETH01_Manager
+https://github.com/LiquidCGS/FastIMU.git|Contributed|FastIMU
