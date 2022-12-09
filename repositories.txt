@@ -5400,3 +5400,4 @@ https://github.com/KravitzLabDevices/FORCE2
 https://github.com/khoih-prog/HTTPS_Server_Generic
 https://github.com/joseguerra3000/AD74xx
 https://github.com/khoih-prog/AsyncESP32_W5500_Manager
+https://github.com/khoih-prog/AsyncESP32_ENC_Manager
