@@ -5503,3 +5503,4 @@ https://github.com/khoih-prog/AsyncESP32_ENC_Manager.git|Contributed|AsyncESP32_
 https://github.com/khoih-prog/AsyncWT32_ETH01_Manager.git|Contributed|AsyncWT32_ETH01_Manager
 https://github.com/LiquidCGS/FastIMU.git|Contributed|FastIMU
 https://github.com/khoih-prog/AsyncESP8266_W5500_Manager.git|Contributed|AsyncESP8266_W5500_Manager
+https://github.com/khoih-prog/AsyncESP8266_ENC_Manager.git|Contributed|AsyncESP8266_ENC_Manager
