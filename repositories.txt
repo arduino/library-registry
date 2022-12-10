@@ -5403,3 +5403,4 @@ https://github.com/joseguerra3000/AD74xx
 https://github.com/khoih-prog/AsyncESP32_W5500_Manager
 https://github.com/khoih-prog/AsyncESP32_ENC_Manager
 https://github.com/khoih-prog/AsyncWT32_ETH01_Manager
+https://github.com/khoih-prog/AsyncESP8266_W5500_Manager
