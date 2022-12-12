@@ -31,7 +31,6 @@ https://github.com/Nilon123456789/Receiver
 https://github.com/cwi-dis/iotsa
 https://github.com/chuanstudyup/EasyGNSS.git
 https://github.com/Call-for-Code/ClusterDuck-Protocol
-https://github.com/drmpf/pfodGUIdesigner
 https://github.com/plsTrustMeImAnEngineer/StreamAverage
 https://github.com/trevorwslee/Arduino-DumbDisplay
 https://github.com/dirkhillbrecht/UiUiUi
@@ -423,6 +422,7 @@ https://github.com/Tinyu-Zhao/FFT
 https://github.com/Tinyu-Zhao/TFTTerminal
 https://github.com/chochain/nanoFORTH
 https://github.com/Excelsior-Robotics/Excelsior
+https://github.com/Excelsior-Robotics/Excelsior_Light
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/dimag0g/PPM-reader
 https://github.com/Mysues/ERO
@@ -1067,6 +1067,7 @@ https://github.com/asukiaaa/AM2320_asukiaaa
 https://github.com/asukiaaa/arduino-A89306
 https://github.com/asukiaaa/arduino-button
 https://github.com/asukiaaa/arduino-Gauge
+https://github.com/asukiaaa/arduino-ControllerAsI2c
 https://github.com/asukiaaa/arduino-HX711
 https://github.com/asukiaaa/arduino-HzMeter
 https://github.com/asukiaaa/arduino-MotorCVD
@@ -2048,6 +2049,8 @@ https://github.com/Industruino/FRAM
 https://github.com/Industruino/Indio
 https://github.com/Industruino/UC1701
 https://github.com/INFICON-Spot/inficon-spot-lib
+https://github.com/Infineon/arduino-btn99x0
+https://github.com/Infineon/arduino-motix-btn99x0
 https://github.com/Infineon/arduino-high-side-switch
 https://github.com/Infineon/arduino-optiga-trust-m
 https://github.com/Infineon/arduino-optiga-trust-x
@@ -2496,6 +2499,7 @@ https://github.com/LinnesLab/MAX541X
 https://github.com/LinnesLab/TrigDef
 https://github.com/LinnesLab/tTestTable
 https://github.com/lionrocker/better-joystick
+https://github.com/LiquidCGS/FastIMU
 https://github.com/llelundberg/EasyWebServer
 https://github.com/lnlp/EasyLed
 https://github.com/Locoduino/Accessories
@@ -3456,6 +3460,7 @@ https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
 https://github.com/RobTillaart/AnalogUVSensor
 https://github.com/RobTillaart/Angle
+https://github.com/RobTillaart/AngleConvertor
 https://github.com/RobTillaart/ANSI
 https://github.com/RobTillaart/AS5600
 https://github.com/RobTillaart/AsyncAnalog
@@ -3546,6 +3551,7 @@ https://github.com/RobTillaart/ML8511
 https://github.com/RobTillaart/moduloMap
 https://github.com/RobTillaart/MS5611
 https://github.com/RobTillaart/MS5611_SPI
+https://github.com/RobTillaart/MSP300
 https://github.com/RobTillaart/MT8870
 https://github.com/RobTillaart/MTP40C
 https://github.com/RobTillaart/MultiMap
@@ -3945,6 +3951,7 @@ https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library
 https://github.com/sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library
+https://github.com/sparkfun/SparkFun_BMA400_Arduino_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
@@ -3979,6 +3986,7 @@ https://github.com/sparkfun/SparkFun_LIS2DH12_Arduino_Library
 https://github.com/sparkfun/SparkFun_LIS3DH_Arduino_Library
 https://github.com/sparkfun/SparkFun_LP55231_Arduino_Library
 https://github.com/sparkfun/SparkFun_LPS25HB_Arduino_Library
+https://github.com/sparkfun/SparkFun_LPS28DFW_Arduino_Library
 https://github.com/sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_LSM6DS3_Arduino_Library
 https://github.com/sparkfun/SparkFun_LSM9DS0_Arduino_Library
@@ -5303,7 +5311,7 @@ https://github.com/jsware/able-buttons
 https://github.com/PBernalPolo/HX710
 https://github.com/Anrijs/Aranet4-ESP32
 https://github.com/dennis-ard/ArduCAM
-https://github.com/dennis-ard/Arducam_Mega
+https://github.com/ArduCAM/Arducam_Mega
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22103K_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_MICROCHIP_MCP9700_MCP9700A_00000057
@@ -5393,3 +5401,19 @@ https://github.com/khoih-prog/AsyncDNSServer_ESP32_W5500
 https://github.com/AIS-DeviceInnovation/Magellan
 https://github.com/KravitzLabDevices/FORCE2
 https://github.com/khoih-prog/HTTPS_Server_Generic
+https://github.com/joseguerra3000/AD74xx
+https://github.com/khoih-prog/AsyncESP32_W5500_Manager
+https://github.com/khoih-prog/AsyncESP32_ENC_Manager
+https://github.com/khoih-prog/AsyncWT32_ETH01_Manager
+https://github.com/khoih-prog/AsyncESP8266_W5500_Manager
+https://github.com/khoih-prog/AsyncESP8266_ENC_Manager
+https://github.com/gicking/LIN_master_portable_Arduino
+https://github.com/khoih-prog/AsyncESP8266_W5100_Manager
+https://github.com/khoih-prog/ESP32_W5500_Manager
+https://github.com/khoih-prog/ESP32_ENC_Manager
+https://github.com/khoih-prog/ESP8266_W5500_Manager
+https://github.com/khoih-prog/ESP8266_W5100_Manager
+https://github.com/khoih-prog/ESP8266_ENC_Manager
+https://github.com/khoih-prog/AsyncESP32_Ethernet_Manager
+https://github.com/shyd/Arduino-SerialCommand
+https://github.com/dlyckelid/IOExpander-TLA2518
