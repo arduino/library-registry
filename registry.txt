@@ -5316,7 +5316,6 @@ https://github.com/galarb/clicli.git|Contributed|clicli
 https://github.com/natnqweb/EventOS.git|Contributed|EventOS
 https://github.com/jandelgado/jled-pca9685-hal.git|Contributed|JLedPCA9685-HAL
 https://github.com/joeycastillo/OSO_Arduino_LCD.git|Contributed|Oddly Specific Objects LCD FeatherWing Library
-https://github.com/drmpf/pfodGUIdesigner.git|Contributed|pfodGUIdesigner
 https://github.com/eoh-jsc/era-lib.git|Contributed|ERa
 https://github.com/RAKWireless/RAK12039-PMSA003I.git|Contributed|RAK12039_PM_Sensor
 https://github.com/RAKWireless/RAK13006-MCP2518.git|Contributed|RAK13006-MCP2518 library
