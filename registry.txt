@@ -5512,3 +5512,4 @@ https://github.com/asukiaaa/arduino-ControllerAsI2c.git|Contributed|ControllerAs
 https://github.com/khoih-prog/ESP8266_W5500_Manager.git|Contributed|ESP8266_W5500_Manager
 https://github.com/khoih-prog/ESP8266_W5100_Manager.git|Contributed|ESP8266_W5100_Manager
 https://github.com/khoih-prog/ESP8266_ENC_Manager.git|Contributed|ESP8266_ENC_Manager
+https://github.com/khoih-prog/AsyncESP32_Ethernet_Manager.git|Contributed|AsyncESP32_Ethernet_Manager
