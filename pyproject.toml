@@ -15,7 +15,7 @@ python = "^3.9"
 pytest = "^7.2.0"
 invoke = "^1.7.3"
 black = "^22.12"
-flake8 = "^5.0.4"
+flake8 = "^6.0.0"
 pep8-naming = "^0.13.2"
 yamllint = "^1.28.0"
 
