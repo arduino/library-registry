@@ -5516,3 +5516,4 @@ https://github.com/khoih-prog/AsyncESP32_Ethernet_Manager.git|Contributed|AsyncE
 https://github.com/shyd/Arduino-SerialCommand.git|Contributed|SerialCommand Advanced
 https://github.com/dlyckelid/IOExpander-TLA2518.git|Contributed|TLA2518
 https://github.com/Infineon/arduino-btn99x0.git|Contributed|MOTIX BTN99x0
+https://github.com/Infineon/arduino-motix-btn99x0.git|Contributed|motix-btn99x0
