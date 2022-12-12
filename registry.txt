@@ -5077,7 +5077,7 @@ https://github.com/stm32duino/MotionFX.git|Contributed|STM32duino MotionFX
 https://github.com/ethanhjennings/MQTTSerialPrinter.git|Contributed|MQTT and Serial Printer
 https://github.com/hardmax/ADS1232.git|Contributed|ADS1232
 https://github.com/deneyapkart/deneyap-kizilotesi-alici-verici-arduino-library.git|Contributed|Deneyap Kizilotesi Alici Verici
-https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat MCP7940
+https://github.com/deneyapkart/deneyap-gercek-zamanli-saat-arduino-library.git|Contributed|Deneyap Gercek Zamanli Saat
 https://github.com/robotman2412/pax-graphics.git|Contributed|PAX Graphics
 https://github.com/matthieuvigne/STS_servos.git|Contributed|STS_Servos
 https://github.com/TheNitek/NDEF.git|Contributed|NDEF_MFRC522
