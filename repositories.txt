@@ -3347,6 +3347,7 @@ https://github.com/RAKWireless/RAK5814-ATECC608A
 https://github.com/RAKWireless/RAK12022-MAX31865
 https://github.com/RAKWireless/RAK12052-MLX90640
 https://github.com/RAKWireless/RAK14014-FT6336U
+https://github.com/RAKWireless/RAK15007-CY15B108QN
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/sdutek/sducar
