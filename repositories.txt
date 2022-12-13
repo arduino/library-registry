@@ -3344,6 +3344,7 @@ https://github.com/RAKWireless/RAKwireless-Audio-library
 https://github.com/RAKWireless/RAK12027-D7S
 https://github.com/RAKWireless/RAK1500x-MB85RC
 https://github.com/RAKWireless/RAK5814-ATECC608A
+https://github.com/RAKWireless/RAK12022-MAX31865
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/sdutek/sducar
