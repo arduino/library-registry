@@ -5519,3 +5519,4 @@ https://github.com/khoih-prog/ESP32_Ethernet_Manager.git|Contributed|ESP32_Ether
 https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager.git|Contributed|AsyncESP8266_Ethernet_Manager
 https://github.com/khoih-prog/ESP8266_Ethernet_Manager.git|Contributed|ESP8266_Ethernet_Manager
 https://github.com/dvarrel/ESP_Ping.git|Contributed|ESP_Ping
+https://github.com/Reefwing-Software/Reefwing-Timer.git|Contributed|ReefwingTimer
