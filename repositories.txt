@@ -112,7 +112,6 @@ https://github.com/MdelgadoL83/TapatioElectronics
 https://github.com/Dlloydev/Toggle
 https://github.com/Francis-Magallanes/CircularQueue
 https://github.com/vChavezB/lwip-Arduino
-https://bitbucket.org/David_Such/nexgen_MSP
 https://github.com/South-River/BMI085-arduino
 https://github.com/PowerBroker2/MultivariateNormal
 https://github.com/dani007200964/Commander-API
@@ -123,7 +122,6 @@ https://github.com/ronbentley1/eazy-switch-library
 https://github.com/sleepnow2/ArdRTOS/
 https://github.com/An7orAhmed/LiquidCrystalSerial
 https://github.com/An7orAhmed/LettersKeypad
-https://bitbucket.org/David_Such/nexgen_SBUS
 https://github.com/usini/usini_discord_webhook
 https://github.com/bheesma-10/IP5306_I2C
 https://github.com/Tinyu-Zhao/M5-Outdepends
@@ -134,7 +132,6 @@ https://github.com/n-wach/camino
 https://gitlab.com/escalator-home-automation/escalator-switch
 https://gitlab.com/escalator-home-automation/daily-service
 https://gitlab.com/atesin/XxHash_arduino
-https://bitbucket.org/David_Such/nexgen_AHRS
 https://github.com/gianni-carbone/STM32mcp4151
 https://github.com/wollewald/EEPROM_SPI_WE
 https://github.com/gianni-carbone/STM32ad9833
@@ -149,8 +146,6 @@ https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
 https://github.com/adnan-elabdullah/IOTKME.git
-https://bitbucket.org/David_Such/nexgen_filter
-https://bitbucket.org/David_Such/nexgen_timer
 https://github.com/MrYsLab/Telemetrix4Esp32
 https://github.com/road-t/DM8BA10/
 https://github.com/Stutchbury/EventJoystick
@@ -4778,7 +4773,6 @@ https://github.com/khoih-prog/ESP32_New_ISR_Servo
 https://github.com/BEAT-System/SerialCom
 https://github.com/SchooMyDevelopment/SchooMyUtilities
 https://github.com/khoih-prog/FlashStorage_STM32F1
-https://bitbucket.org/David_Such/nexgen_motorshield
 https://github.com/khoih-prog/STM32_ISR_Servo
 https://github.com/khoih-prog/RP2040_ISR_Servo
 https://github.com/khoih-prog/SAMD_ISR_Servo
