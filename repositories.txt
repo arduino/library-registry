@@ -5418,3 +5418,4 @@ https://github.com/shyd/Arduino-SerialCommand
 https://github.com/dlyckelid/IOExpander-TLA2518
 https://github.com/khoih-prog/ESP32_Ethernet_Manager
 https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager
+https://github.com/khoih-prog/ESP8266_Ethernet_Manager
