@@ -5526,3 +5526,4 @@ https://github.com/khoih-prog/WebServer_ESP32_SC_W5500.git|Contributed|WebServer
 https://github.com/Reefwing-Software/Reefwing-MSP.git|Contributed|ReefwingMSP
 https://github.com/dvarrel/AsyncTCP.git|Contributed|ESP32AsyncTCP
 https://github.com/dvarrel/ESPAsyncTCP.git|Contributed|ESPAsyncTCP
+https://github.com/dvarrel/ESPAsyncWebSrv.git|Contributed|ESPAsyncWebSrv
