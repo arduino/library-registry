@@ -5530,3 +5530,4 @@ https://github.com/dvarrel/ESPAsyncWebSrv.git|Contributed|ESPAsyncWebSrv
 https://github.com/ug-cp/precise_sntp.git|Contributed|precise_sntp
 https://github.com/khoih-prog/WebServer_ESP32_SC_ENC.git|Contributed|WebServer_ESP32_SC_ENC
 https://github.com/RobTillaart/PIR.git|Contributed|PIR
+https://github.com/Reefwing-Software/Reefwing-SBUS.git|Contributed|ReefwingSBUS
