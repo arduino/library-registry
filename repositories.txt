@@ -5267,6 +5267,7 @@ https://github.com/berrak/Mock
 https://github.com/luni64/AttachInterruptEx
 https://github.com/ArtronShop/IOXESP32Motor
 https://gitlab.com/ug-cp/fast_samd21_tc
+https://github.com/ug-cp/precise_sntp
 https://github.com/mdkendall/ThingpingsLib
 https://github.com/PribaNosati/mrm-lid-d
 https://github.com/SmartElecRu/ArduinoIDE_SE_Button
