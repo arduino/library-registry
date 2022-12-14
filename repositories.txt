@@ -1,3 +1,5 @@
+https://github.com/Reefwing-Software/Reefwing-Motorshield.git
+https://github.com/Reefwing-Software/reefwing_timer.git
 https://github.com/wicked-rainman/ESP32Dispatcher
 https://github.com/Phoenix1747/SimpleShell
 https://github.com/congtrol/boho-arduino
@@ -5421,3 +5423,6 @@ https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager
 https://github.com/khoih-prog/ESP8266_Ethernet_Manager
 https://github.com/dvarrel/AsyncTCP.git
 https://github.com/dvarrel/ESPAsyncTCP.git
+https://github.com/dvarrel/ESP_Ping
+https://github.com/neosarchizo/am1002-uart
+https://github.com/khoih-prog/WebServer_ESP32_SC_W5500
