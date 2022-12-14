@@ -5522,3 +5522,4 @@ https://github.com/dvarrel/ESP_Ping.git|Contributed|ESP_Ping
 https://github.com/Reefwing-Software/Reefwing-Timer.git|Contributed|ReefwingTimer
 https://github.com/Reefwing-Software/Reefwing-Motorshield.git|Contributed|ReefwingMotorShield
 https://github.com/neosarchizo/am1002-uart.git|Contributed|AM1002-UART
+https://github.com/khoih-prog/WebServer_ESP32_SC_W5500.git|Contributed|WebServer_ESP32_SC_W5500
