@@ -5422,3 +5422,4 @@ https://github.com/khoih-prog/ESP32_Ethernet_Manager
 https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager
 https://github.com/khoih-prog/ESP8266_Ethernet_Manager
 https://github.com/dvarrel/ESP_Ping
+https://github.com/neosarchizo/am1002-uart
