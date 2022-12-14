@@ -5520,3 +5520,4 @@ https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager.git|Contributed|Asyn
 https://github.com/khoih-prog/ESP8266_Ethernet_Manager.git|Contributed|ESP8266_Ethernet_Manager
 https://github.com/dvarrel/ESP_Ping.git|Contributed|ESP_Ping
 https://github.com/Reefwing-Software/Reefwing-Timer.git|Contributed|ReefwingTimer
+https://github.com/Reefwing-Software/Reefwing-Motorshield.git|Contributed|ReefwingMotorShield
