@@ -5527,3 +5527,4 @@ https://github.com/Reefwing-Software/Reefwing-MSP.git|Contributed|ReefwingMSP
 https://github.com/dvarrel/AsyncTCP.git|Contributed|ESP32AsyncTCP
 https://github.com/dvarrel/ESPAsyncTCP.git|Contributed|ESPAsyncTCP
 https://github.com/dvarrel/ESPAsyncWebSrv.git|Contributed|ESPAsyncWebSrv
+https://github.com/ug-cp/precise_sntp.git|Contributed|precise_sntp
