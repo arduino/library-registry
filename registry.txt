@@ -4840,7 +4840,6 @@ https://github.com/pololu/motoron-arduino.git|Contributed|Motoron
 https://github.com/meshtastic/Meshtastic-arduino.git|Contributed|Meshtastic
 https://github.com/cotestatnt/DigitalSignal.git|Contributed|DigitalSignalsArduino
 https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32.git|Contributed|XboxSeriesXControllerESP32_asukiaaa
-https://bitbucket.org/David_Such/nexgen_SBUS.git|Contributed|NexgenSBUS
 https://github.com/climateguard/RadSens.git|Contributed|ClimateGuard RadSens
 https://github.com/climateguard/CG-Anem.git|Contributed|ClimateGuard CG Anem
 https://github.com/suratin27/ESP32_Control.git|Contributed|ESP32 Control
