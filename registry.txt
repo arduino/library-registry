@@ -5531,3 +5531,4 @@ https://github.com/ug-cp/precise_sntp.git|Contributed|precise_sntp
 https://github.com/khoih-prog/WebServer_ESP32_SC_ENC.git|Contributed|WebServer_ESP32_SC_ENC
 https://github.com/RobTillaart/PIR.git|Contributed|PIR
 https://github.com/Reefwing-Software/Reefwing-SBUS.git|Contributed|ReefwingSBUS
+https://github.com/khoih-prog/AsyncESP32_SC_W5500_Manager.git|Contributed|AsyncESP32_SC_W5500_Manager
