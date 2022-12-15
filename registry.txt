@@ -5535,3 +5535,4 @@ https://github.com/khoih-prog/AsyncESP32_SC_W5500_Manager.git|Contributed|AsyncE
 https://github.com/Reefwing-Software/Reefwing-Filter.git|Contributed|ReefwingFilter
 https://github.com/Reefwing-Software/Reefwing-AHRS.git|Contributed|ReefwingAHRS
 https://github.com/khoih-prog/AsyncESP32_SC_ENC_Manager.git|Contributed|AsyncESP32_SC_ENC_Manager
+https://github.com/khoih-prog/AsyncESP32_SC_Ethernet_Manager.git|Contributed|AsyncESP32_SC_Ethernet_Manager
