@@ -1,3 +1,6 @@
+https://github.com/Reefwing-Software/Reefwing-AHRS.git
+https://github.com/Reefwing-Software/Reefwing-Filter.git
+https://github.com/Reefwing-Software/Reefwing-SBUS.git
 https://github.com/Reefwing-Software/Reefwing-MSP.git
 https://github.com/Reefwing-Software/Reefwing-Motorshield.git
 https://github.com/Reefwing-Software/reefwing_timer.git
@@ -2373,6 +2376,7 @@ https://github.com/khoih-prog/WIOTerminal_WiFiManager
 https://github.com/kigster/back-seat-driver
 https://github.com/kike-canaries/canairio_sensorlib
 https://github.com/killer0071234/esp_abus
+https://github.com/kimballa/button-debounce
 https://github.com/kimballa/PyArduinoDebug
 https://github.com/Kineis/ArduinoKim
 https://github.com/kingmathers313/FHEM_Arduino
@@ -3573,6 +3577,7 @@ https://github.com/RobTillaart/PERIPUMP
 https://github.com/RobTillaart/PID_RT
 https://github.com/RobTillaart/PinInGroup
 https://github.com/RobTillaart/PinOutGroup
+https://github.com/RobTillaart/PIR
 https://github.com/RobTillaart/Prandom
 https://github.com/RobTillaart/pressure
 https://github.com/RobTillaart/PrintCharArray
@@ -5267,6 +5272,7 @@ https://github.com/berrak/Mock
 https://github.com/luni64/AttachInterruptEx
 https://github.com/ArtronShop/IOXESP32Motor
 https://gitlab.com/ug-cp/fast_samd21_tc
+https://github.com/ug-cp/precise_sntp
 https://github.com/mdkendall/ThingpingsLib
 https://github.com/PribaNosati/mrm-lid-d
 https://github.com/SmartElecRu/ArduinoIDE_SE_Button
@@ -5428,4 +5434,8 @@ https://github.com/dvarrel/ESP_Ping
 https://github.com/dvarrel/ESPAsyncWebSrv
 https://github.com/neosarchizo/am1002-uart
 https://github.com/khoih-prog/WebServer_ESP32_SC_W5500
+https://github.com/khoih-prog/WebServer_ESP32_SC_ENC
+https://github.com/khoih-prog/AsyncESP32_SC_W5500_Manager
+https://github.com/khoih-prog/AsyncESP32_SC_ENC_Manager
+https://github.com/khoih-prog/AsyncESP32_SC_Ethernet_Manager
 https://gitlab.com/hamishcunningham/unPhoneLibrary
