@@ -5533,3 +5533,4 @@ https://github.com/RobTillaart/PIR.git|Contributed|PIR
 https://github.com/Reefwing-Software/Reefwing-SBUS.git|Contributed|ReefwingSBUS
 https://github.com/khoih-prog/AsyncESP32_SC_W5500_Manager.git|Contributed|AsyncESP32_SC_W5500_Manager
 https://github.com/Reefwing-Software/Reefwing-Filter.git|Contributed|ReefwingFilter
+https://github.com/Reefwing-Software/Reefwing-AHRS.git|Contributed|ReefwingAHRS
