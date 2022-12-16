@@ -1,3 +1,5 @@
+https://github.com/leresteux/DunogeonENG
+https://github.com/leresteux/DunogeonVF
 https://github.com/Reefwing-Software/Reefwing-AHRS.git
 https://github.com/Reefwing-Software/Reefwing-Filter.git
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
