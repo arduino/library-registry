@@ -5540,3 +5540,4 @@ https://github.com/kimballa/button-debounce.git|Contributed|debounce
 https://gitlab.com/hamishcunningham/unphonelibrary.git|Contributed|unPhoneLibrary
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_W5500.git|Contributed|AsyncWebServer_ESP32_SC_W5500
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_ENC.git|Contributed|AsyncWebServer_ESP32_SC_ENC
+https://github.com/khoih-prog/ESP32_SC_W5500_Manager.git|Contributed|ESP32_SC_W5500_Manager
