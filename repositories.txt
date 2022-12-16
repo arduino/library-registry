@@ -1,3 +1,5 @@
+https://github.com/leresteux/DunogeonENG
+https://github.com/leresteux/DunogeonVF
 https://github.com/Reefwing-Software/Reefwing-AHRS.git
 https://github.com/Reefwing-Software/Reefwing-Filter.git
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
@@ -51,6 +53,8 @@ https://github.com/boothinator/ProgmemAssert
 https://github.com/CalvinBultz/LightningStepper
 https://github.com/nusabot-iot/NusabotSimpleTimer
 https://github.com/libnapc/libnapc-arduino-releases
+https://github.com/leresteux/dunogeonENG
+https://github.com/leresteux/dunogeonVF
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/gspsp/Series
 https://github.com/TheSpaceDragon/rdv-gy512
