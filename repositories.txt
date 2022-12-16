@@ -5444,3 +5444,4 @@ https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_ENC
 https://github.com/khoih-prog/ESP32_SC_W5500_Manager
 https://github.com/khoih-prog/ESP32_SC_ENC_Manager
 https://github.com/khoih-prog/ESP32_SC_Ethernet_Manager
+https://github.com/Protocentral/protocentral_tla20XX_arduino
