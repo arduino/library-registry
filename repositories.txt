@@ -5441,3 +5441,4 @@ https://github.com/khoih-prog/AsyncESP32_SC_Ethernet_Manager
 https://gitlab.com/hamishcunningham/unPhoneLibrary
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_W5500
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_ENC
+https://github.com/khoih-prog/ESP32_SC_W5500_Manager
