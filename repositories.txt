@@ -5431,7 +5431,7 @@ https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager
 https://github.com/khoih-prog/ESP8266_Ethernet_Manager
 https://github.com/dvarrel/AsyncTCP.git
 https://github.com/dvarrel/ESPAsyncTCP.git
-https://github.com/dvarrel/ESP_Ping
+https://github.com/dvarrel/ESPping
 https://github.com/dvarrel/ESPAsyncWebSrv
 https://github.com/neosarchizo/am1002-uart
 https://github.com/khoih-prog/WebServer_ESP32_SC_W5500
