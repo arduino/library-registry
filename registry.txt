@@ -5545,3 +5545,4 @@ https://github.com/khoih-prog/ESP32_SC_ENC_Manager.git|Contributed|ESP32_SC_ENC_
 https://github.com/khoih-prog/ESP32_SC_Ethernet_Manager.git|Contributed|ESP32_SC_Ethernet_Manager
 https://github.com/Protocentral/protocentral_tla20XX_arduino.git|Contributed|ProtoCentral TLA20xx
 https://github.com/arduino-libraries/Arduino_HS300x.git|Arduino|Arduino_HS300x
+https://github.com/BinaryBearzz/JoyStickModule.git|Contributed|joystick_module
