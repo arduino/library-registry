@@ -5449,3 +5449,4 @@ https://github.com/Protocentral/protocentral_tla20XX_arduino
 https://github.com/BinaryBearzz/JoyStickModule
 https://github.com/leresteux/DunogeonVF
 https://github.com/leresteux/DunogeonENG
+https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet
