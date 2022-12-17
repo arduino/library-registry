@@ -5548,3 +5548,4 @@ https://github.com/arduino-libraries/Arduino_HS300x.git|Arduino|Arduino_HS300x
 https://github.com/BinaryBearzz/JoyStickModule.git|Contributed|joystick_module
 https://github.com/leresteux/DunogeonVF.git|Contributed|Dunogeon
 https://github.com/leresteux/DunogeonENG.git|Contributed|Dunogeon
+https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet.git|Contributed|AsyncHTTPRequest_ESP32_Ethernet
