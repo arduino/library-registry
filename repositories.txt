@@ -5450,3 +5450,6 @@ https://github.com/BinaryBearzz/JoyStickModule
 https://github.com/leresteux/DunogeonVF
 https://github.com/leresteux/DunogeonENG
 https://github.com/hafidhh/FlowSensor-Arduino
+https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet
+https://github.com/khoih-prog/AsyncMQTT_ESP32
+https://github.com/khoih-prog/AsyncHTTPSRequest_ESP32_Ethernet
