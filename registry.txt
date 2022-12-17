@@ -5550,3 +5550,4 @@ https://github.com/leresteux/DunogeonVF.git|Contributed|Dunogeon
 https://github.com/leresteux/DunogeonENG.git|Contributed|Dunogeon
 https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet.git|Contributed|AsyncHTTPRequest_ESP32_Ethernet
 https://github.com/khoih-prog/AsyncMQTT_ESP32.git|Contributed|AsyncMQTT_ESP32
+https://github.com/khoih-prog/AsyncHTTPSRequest_ESP32_Ethernet.git|Contributed|AsyncHTTPSRequest_ESP32_Ethernet
