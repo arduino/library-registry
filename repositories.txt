@@ -2291,6 +2291,7 @@ https://github.com/jwagnerhki/arduino_pm2005lib
 https://github.com/jwhiddon/EDB
 https://github.com/jwrw/ESP_EEPROM
 https://github.com/jwrw/Executive
+https://github.com/junior-robotics-club/JRCCARLIB
 https://github.com/kaaproject/kaa-arduino-sdk
 https://github.com/kbernario/PaunaStepper
 https://github.com/kchemorion/MBEDSpeech
