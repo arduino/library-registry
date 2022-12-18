@@ -5456,3 +5456,4 @@ https://github.com/khoih-prog/AsyncHTTPSRequest_ESP32_Ethernet
 https://github.com/berrak/Rdebug
 https://github.com/jakeread/osap-arduino
 https://github.com/yesbotics/dualsense-controller
+https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W5500
