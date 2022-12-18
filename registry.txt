@@ -5555,3 +5555,4 @@ https://github.com/hafidhh/FlowSensor-Arduino.git|Contributed|FlowSensor
 https://github.com/berrak/Rdebug.git|Contributed|Rdebug
 https://github.com/yesbotics/dualsense-controller.git|Contributed|DualSenseController
 https://github.com/jakeread/osap-arduino.git|Contributed|osap
+https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W5500.git|Contributed|AsyncUDP_ESP32_SC_W5500
