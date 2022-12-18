@@ -5546,7 +5546,7 @@ https://github.com/khoih-prog/ESP32_SC_Ethernet_Manager.git|Contributed|ESP32_SC
 https://github.com/Protocentral/protocentral_tla20XX_arduino.git|Contributed|ProtoCentral TLA20xx
 https://github.com/arduino-libraries/Arduino_HS300x.git|Arduino|Arduino_HS300x
 https://github.com/BinaryBearzz/JoyStickModule.git|Contributed|joystick_module
-https://github.com/leresteux/DunogeonVF.git|Contributed|Dunogeon
+https://github.com/leresteux/DunogeonFR.git|Contributed|Dunogeon
 https://github.com/leresteux/DunogeonENG.git|Contributed|Dunogeon
 https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet.git|Contributed|AsyncHTTPRequest_ESP32_Ethernet
 https://github.com/khoih-prog/AsyncMQTT_ESP32.git|Contributed|AsyncMQTT_ESP32
