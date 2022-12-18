@@ -5457,3 +5457,4 @@ https://github.com/berrak/Rdebug
 https://github.com/jakeread/osap-arduino
 https://github.com/yesbotics/dualsense-controller
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W5500
+https://github.com/khoih-prog/AsyncUDP_ESP32_SC_ENC
