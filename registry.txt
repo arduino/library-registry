@@ -5554,3 +5554,4 @@ https://github.com/khoih-prog/AsyncHTTPSRequest_ESP32_Ethernet.git|Contributed|A
 https://github.com/hafidhh/FlowSensor-Arduino.git|Contributed|FlowSensor
 https://github.com/berrak/Rdebug.git|Contributed|Rdebug
 https://github.com/yesbotics/dualsense-controller.git|Contributed|DualSenseController
+https://github.com/jakeread/osap-arduino.git|Contributed|osap
