@@ -5552,3 +5552,4 @@ https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet.git|Contributed|As
 https://github.com/khoih-prog/AsyncMQTT_ESP32.git|Contributed|AsyncMQTT_ESP32
 https://github.com/khoih-prog/AsyncHTTPSRequest_ESP32_Ethernet.git|Contributed|AsyncHTTPSRequest_ESP32_Ethernet
 https://github.com/hafidhh/FlowSensor-Arduino.git|Contributed|FlowSensor
+https://github.com/berrak/Rdebug.git|Contributed|Rdebug
