@@ -5459,3 +5459,4 @@ https://github.com/yesbotics/dualsense-controller
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W5500
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_ENC
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_Ethernet
+https://github.com/khoih-prog/AsyncDNSServer_ESP32_Ethernet
