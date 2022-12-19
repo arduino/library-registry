@@ -5562,3 +5562,4 @@ https://github.com/khoih-prog/AsyncDNSServer_ESP32_Ethernet.git|Contributed|Asyn
 https://github.com/junior-robotics-club/JRCCARLIB.git|Contributed|JRCCARLIB
 https://github.com/Grrtzm/MicrobitV2-HHS.git|Contributed|MicrobitV2-HHS
 https://github.com/kimballa/tiny-collections.git|Contributed|tiny-collections
+https://github.com/kimballa/uiwidgets.git|Contributed|uiwidgets
