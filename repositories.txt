@@ -2382,6 +2382,7 @@ https://github.com/killer0071234/esp_abus
 https://github.com/kimballa/button-debounce
 https://github.com/kimballa/PyArduinoDebug
 https://github.com/kimballa/tiny-collections
+https://github.com/kimballa/uiwidgets
 https://github.com/Kineis/ArduinoKim
 https://github.com/kingmathers313/FHEM_Arduino
 https://github.com/kiryanenko/SimpleTimer
