@@ -5558,3 +5558,4 @@ https://github.com/jakeread/osap-arduino.git|Contributed|osap
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W5500.git|Contributed|AsyncUDP_ESP32_SC_W5500
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_ENC.git|Contributed|AsyncUDP_ESP32_SC_ENC
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_Ethernet.git|Contributed|AsyncUDP_ESP32_SC_Ethernet
+https://github.com/khoih-prog/AsyncDNSServer_ESP32_Ethernet.git|Contributed|AsyncDNSServer_ESP32_Ethernet
