@@ -5563,3 +5563,10 @@ https://github.com/junior-robotics-club/JRCCARLIB.git|Contributed|JRCCARLIB
 https://github.com/Grrtzm/MicrobitV2-HHS.git|Contributed|MicrobitV2-HHS
 https://github.com/kimballa/tiny-collections.git|Contributed|tiny-collections
 https://github.com/kimballa/uiwidgets.git|Contributed|uiwidgets
+https://github.com/RAKWireless/RAK1500x-MB85RC.git|Contributed|RAK1500x-MB85RC
+https://github.com/RAKWireless/RAK5814-ATECC608A.git|Contributed|RAK5814-ATECC608A
+https://github.com/RAKWireless/RAK12022-MAX31865.git|Contributed|RAK12022-MAX31865
+https://github.com/RAKWireless/RAK12052-MLX90640.git|Contributed|RAK12052-MLX90640
+https://github.com/RAKWireless/RAK14014-FT6336U.git|Contributed|RAK14014-FT6336U
+https://github.com/RAKWireless/RAK15007-CY15B108QN.git|Contributed|RAK15007-CY15B108QN
+https://github.com/RAKWireless/RAKwireless_ADC_SGM58031_library.git|Contributed|RAKwireless_ADC_SGM58031_library
