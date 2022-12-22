@@ -4237,7 +4237,6 @@ https://github.com/m5stack/M5_BMM150.git|Contributed|M5_BMM150
 https://github.com/PowerBroker2/ArduPID.git|Contributed|ArduPID
 https://github.com/Tinyu-Zhao/PCA9554.git|Contributed|PCA9554
 https://github.com/AlexTutorial/KrokoTS.git|Contributed|KrokoTS
-https://bitbucket.org/David_Such/nexgen_motorshield.git|Contributed|NexgenMotorShield
 https://github.com/khoih-prog/STM32_ISR_Servo.git|Contributed|STM32_ISR_Servo
 https://github.com/Rad-hi/MyButton_Arduino.git|Contributed|MyButton
 https://github.com/khoih-prog/RP2040_ISR_Servo.git|Contributed|RP2040_ISR_Servo
@@ -4714,7 +4713,6 @@ https://github.com/akkoyun/MAX78630.git|Contributed|MAX78630
 https://github.com/akkoyun/I2C_Functions.git|Contributed|I2C_Functions
 https://github.com/DFRobot/DFRobot_BMP280.git|Contributed|DFRobot_BMP280
 https://github.com/DFRobot/DFRobot_DHT11.git|Contributed|DFRobot_DHT11
-https://bitbucket.org/David_Such/nexgen_timer.git|Contributed|NexgenTimer
 https://github.com/cike-567/arduino-ps2zhuji.git|Contributed|ps2zhuji
 https://github.com/creatingnull/null-packet-comms-arduino.git|Contributed|NullPacketComms
 https://github.com/RobTillaart/X9C10X.git|Contributed|X9C10X
@@ -4741,7 +4739,6 @@ https://github.com/Jueff/FireplaceMLX.git|Contributed|FireplaceMLX
 https://github.com/fellipecouto/PWMOutESP32.git|Contributed|PWMOutESP32
 https://github.com/fellipecouto/ShiftOutMega.git|Contributed|ShiftOutMega
 https://github.com/fellipecouto/MemoryLib.h.git|Contributed|MemoryLib
-https://bitbucket.org/David_Such/nexgen_filter.git|Contributed|NexgenFilter
 https://github.com/MicroBeaut/MicroBeaut.git|Contributed|MicroBeaut
 https://github.com/Jueff/InfraredMLX.git|Contributed|InfraredMLX
 https://github.com/fellipecouto/MillisTimerLib.git|Contributed|MillisTimerLib
@@ -4823,7 +4820,6 @@ https://github.com/mcci-catena/MCCI-Catena-SHT3x.git|Contributed|MCCI-Catena-SHT
 https://github.com/italia/cie-PN532.git|Contributed|CIE-PN532
 https://github.com/kimballa/PyArduinoDebug.git|Contributed|PyArduinoDebug
 https://github.com/gianni-carbone/STM32mcp4151.git|Contributed|STM32mcp4151
-https://bitbucket.org/David_Such/nexgen_AHRS.git|Contributed|NexgenAHRS
 https://github.com/patricklaf/SNMP.git|Contributed|SNMP
 https://gitlab.com/atesin/XxHash_arduino.git|Contributed|XxHash_arduino
 https://github.com/khoih-prog/AsyncDNSServer_Teensy41.git|Contributed|AsyncDNSServer_Teensy41
@@ -4844,7 +4840,6 @@ https://github.com/pololu/motoron-arduino.git|Contributed|Motoron
 https://github.com/meshtastic/Meshtastic-arduino.git|Contributed|Meshtastic
 https://github.com/cotestatnt/DigitalSignal.git|Contributed|DigitalSignalsArduino
 https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32.git|Contributed|XboxSeriesXControllerESP32_asukiaaa
-https://bitbucket.org/David_Such/nexgen_SBUS.git|Contributed|NexgenSBUS
 https://github.com/climateguard/RadSens.git|Contributed|ClimateGuard RadSens
 https://github.com/climateguard/CG-Anem.git|Contributed|ClimateGuard CG Anem
 https://github.com/suratin27/ESP32_Control.git|Contributed|ESP32 Control
@@ -4911,7 +4906,6 @@ https://github.com/bblanchon/ArduinoContinuousStepper.git|Contributed|Continuous
 https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino.git|Contributed|Mosiwi Basic Learning Kit
 https://github.com/nusabot-iot/dashboard-arduino.git|Contributed|Dashboard IoT
 https://github.com/UnexpectedMaker/esp32s3-arduino-helper.git|Contributed|UMS3 Helper
-https://bitbucket.org/David_Such/nexgen_MSP.git|Contributed|NexgenMSP
 https://github.com/bsch2734/SpiShiftRegisterChain.git|Contributed|SPIShiftRegister
 https://github.com/khoih-prog/FTP_Server_Teensy41.git|Contributed|FTP_Server_Teensy41
 https://github.com/vChavezB/lwip-Arduino.git|Contributed|lwIP
