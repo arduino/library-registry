@@ -5566,3 +5566,4 @@ https://github.com/RAKWireless/RAK15007-CY15B108QN.git|Contributed|RAK15007-CY15
 https://github.com/RAKWireless/RAKwireless_ADC_SGM58031_library.git|Contributed|RAKwireless_ADC_SGM58031_library
 https://github.com/RobTillaart/DMM.git|Contributed|DMM
 https://github.com/WindyWanderer/CSWButtons.git|Contributed|CSWButtons
+https://github.com/plageoj/request-builder.git|Contributed|RequestBuilder
