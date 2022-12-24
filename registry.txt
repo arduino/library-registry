@@ -5571,3 +5571,4 @@ https://gitlab.com/softsysco/grove-as3935-lightning-sensor.git|Contributed|Grove
 https://github.com/Silver-Fang/ArduinoSTL.git|Contributed|STL for Arduino
 https://github.com/Judiviga/ROBLEX.git|Contributed|ROBLEX
 https://github.com/RobTillaart/fast_math.git|Contributed|fast_math
+https://github.com/RCmags/pulseInput.git|Contributed|pulseInput
