@@ -1,3 +1,4 @@
+https://github.com/Judiviga/ROBLEX
 https://github.com/Reefwing-Software/Reefwing-AHRS.git
 https://github.com/Reefwing-Software/Reefwing-Filter.git
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
@@ -119,7 +120,6 @@ https://github.com/MdelgadoL83/TapatioElectronics
 https://github.com/Dlloydev/Toggle
 https://github.com/Francis-Magallanes/CircularQueue
 https://github.com/vChavezB/lwip-Arduino
-https://bitbucket.org/David_Such/nexgen_MSP
 https://github.com/South-River/BMI085-arduino
 https://github.com/PowerBroker2/MultivariateNormal
 https://github.com/dani007200964/Commander-API
@@ -130,7 +130,6 @@ https://github.com/ronbentley1/eazy-switch-library
 https://github.com/sleepnow2/ArdRTOS/
 https://github.com/An7orAhmed/LiquidCrystalSerial
 https://github.com/An7orAhmed/LettersKeypad
-https://bitbucket.org/David_Such/nexgen_SBUS
 https://github.com/usini/usini_discord_webhook
 https://github.com/bheesma-10/IP5306_I2C
 https://github.com/Tinyu-Zhao/M5-Outdepends
@@ -141,7 +140,6 @@ https://github.com/n-wach/camino
 https://gitlab.com/escalator-home-automation/escalator-switch
 https://gitlab.com/escalator-home-automation/daily-service
 https://gitlab.com/atesin/XxHash_arduino
-https://bitbucket.org/David_Such/nexgen_AHRS
 https://github.com/gianni-carbone/STM32mcp4151
 https://github.com/wollewald/EEPROM_SPI_WE
 https://github.com/gianni-carbone/STM32ad9833
@@ -156,8 +154,6 @@ https://github.com/shurik179/pov-library
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/skathir38/Rotary
 https://github.com/adnan-elabdullah/IOTKME.git
-https://bitbucket.org/David_Such/nexgen_filter
-https://bitbucket.org/David_Such/nexgen_timer
 https://github.com/MrYsLab/Telemetrix4Esp32
 https://github.com/road-t/DM8BA10/
 https://github.com/Stutchbury/EventJoystick
@@ -3150,6 +3146,7 @@ https://github.com/pkerspe/ESP-FlexyStepper
 https://github.com/pkerspe/ESP-StepperMotor-Server
 https://github.com/pkoerber/SMA-SunnyBoy-Reader
 https://github.com/plageoj/urlencode
+https://github.com/plageoj/request-builder
 https://github.com/planetk/ArduinoFritzApi
 https://github.com/plapointe6/EspHtmlTemplateProcessor
 https://github.com/plapointe6/EspMQTTClient
@@ -3625,6 +3622,7 @@ https://github.com/RobTillaart/Statistic
 https://github.com/RobTillaart/StopWatch_RT
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
+https://gitlab.com/softsysco/grove-as3935-lightning-sensor
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/timing
 https://github.com/RobTillaart/tinySHT2x
@@ -4799,7 +4797,6 @@ https://github.com/khoih-prog/ESP32_New_ISR_Servo
 https://github.com/BEAT-System/SerialCom
 https://github.com/SchooMyDevelopment/SchooMyUtilities
 https://github.com/khoih-prog/FlashStorage_STM32F1
-https://bitbucket.org/David_Such/nexgen_motorshield
 https://github.com/khoih-prog/STM32_ISR_Servo
 https://github.com/khoih-prog/RP2040_ISR_Servo
 https://github.com/khoih-prog/SAMD_ISR_Servo
@@ -5443,7 +5440,7 @@ https://github.com/khoih-prog/AsyncESP8266_Ethernet_Manager
 https://github.com/khoih-prog/ESP8266_Ethernet_Manager
 https://github.com/dvarrel/AsyncTCP.git
 https://github.com/dvarrel/ESPAsyncTCP.git
-https://github.com/dvarrel/ESP_Ping
+https://github.com/dvarrel/ESPping
 https://github.com/dvarrel/ESPAsyncWebSrv
 https://github.com/neosarchizo/am1002-uart
 https://github.com/khoih-prog/WebServer_ESP32_SC_W5500
@@ -5459,7 +5456,7 @@ https://github.com/khoih-prog/ESP32_SC_ENC_Manager
 https://github.com/khoih-prog/ESP32_SC_Ethernet_Manager
 https://github.com/Protocentral/protocentral_tla20XX_arduino
 https://github.com/BinaryBearzz/JoyStickModule
-https://github.com/leresteux/DunogeonVF
+https://github.com/leresteux/DunogeonFR
 https://github.com/leresteux/DunogeonENG
 https://github.com/hafidhh/FlowSensor-Arduino
 https://github.com/khoih-prog/AsyncHTTPRequest_ESP32_Ethernet
@@ -5472,3 +5469,5 @@ https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W5500
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_ENC
 https://github.com/khoih-prog/AsyncUDP_ESP32_SC_Ethernet
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_Ethernet
+https://github.com/WindyWanderer/CSWButtons.git
+https://github.com/Silver-Fang/ArduinoSTL
