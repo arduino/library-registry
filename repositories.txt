@@ -5473,3 +5473,4 @@ https://github.com/khoih-prog/AsyncUDP_ESP32_SC_Ethernet
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_Ethernet
 https://github.com/WindyWanderer/CSWButtons.git
 https://github.com/Silver-Fang/ArduinoSTL
+https://github.com/roboteach-es/escornabot-lib
