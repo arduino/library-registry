@@ -5573,3 +5573,4 @@ https://github.com/Judiviga/ROBLEX.git|Contributed|ROBLEX
 https://github.com/RobTillaart/fast_math.git|Contributed|fast_math
 https://github.com/RCmags/pulseInput.git|Contributed|pulseInput
 https://github.com/roboteach-es/escornabot-lib.git|Contributed|Escornabot-lib
+https://github.com/RCmags/ServoMotor.git|Contributed|ServoMotor
