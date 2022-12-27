@@ -5576,3 +5576,4 @@ https://github.com/roboteach-es/escornabot-lib.git|Contributed|Escornabot-lib
 https://github.com/RCmags/ServoMotor.git|Contributed|ServoMotor
 https://github.com/bolderflight/terabee.git|Contributed|Bolder Flight Systems Terabee
 https://github.com/x821938/EasyLogger.git|Contributed|EasyLogger
+https://github.com/EmberGL-org/EmberGL.git|Contributed|EmberGL
