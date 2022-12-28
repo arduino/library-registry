@@ -5578,3 +5578,4 @@ https://github.com/bolderflight/terabee.git|Contributed|Bolder Flight Systems Te
 https://github.com/x821938/EasyLogger.git|Contributed|EasyLogger
 https://github.com/EmberGL-org/EmberGL.git|Contributed|EmberGL
 https://github.com/RCmags/basicCalculus.git|Contributed|basicCalculus
+https://github.com/m5stack/M5Module-4IN8OUT.git|Contributed|MODULE_4IN8OUT
