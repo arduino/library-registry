@@ -1,3 +1,4 @@
+https://github.com/RCmags/basicCalculus
 https://github.com/EmberGL-org/EmberGL.git
 https://github.com/bolderflight/terabee
 https://github.com/RCmags/ServoMotor
