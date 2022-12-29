@@ -5580,3 +5580,4 @@ https://github.com/EmberGL-org/EmberGL.git|Contributed|EmberGL
 https://github.com/RCmags/basicCalculus.git|Contributed|basicCalculus
 https://github.com/m5stack/M5Module-4IN8OUT.git|Contributed|MODULE_4IN8OUT
 https://github.com/nw2s/nw2s_portenta_SSD1322.git|Contributed|nw2s_portenta_SSD1322
+https://github.com/RobTillaart/LUHN.git|Contributed|LUHN
