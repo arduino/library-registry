@@ -5480,3 +5480,4 @@ https://github.com/WindyWanderer/CSWButtons.git
 https://github.com/Silver-Fang/ArduinoSTL
 https://github.com/roboteach-es/escornabot-lib
 https://github.com/x821938/EasyLogger
+https://github.com/nw2s/nw2s_portenta_SSD1322
