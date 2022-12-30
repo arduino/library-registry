@@ -5583,3 +5583,4 @@ https://github.com/nw2s/nw2s_portenta_SSD1322.git|Contributed|nw2s_portenta_SSD1
 https://github.com/RobTillaart/LUHN.git|Contributed|LUHN
 https://github.com/happy12/SPL06-001.git|Contributed|SPL06-001
 https://github.com/davetcc/tcUnicodeHelper.git|Contributed|tcUnicodeHelper
+https://github.com/RobTillaart/AtomicWeight.git|Contributed|AtomicWeight
