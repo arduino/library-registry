@@ -1458,6 +1458,7 @@ https://github.com/davetcc/LiquidCrystalIO
 https://github.com/davetcc/SimpleCollections
 https://github.com/davetcc/TaskManagerIO
 https://github.com/davetcc/tcMenuLib
+https://github.com/davetcc/tcUnicodeHelper
 https://github.com/david1983/eBtn
 https://github.com/DavidArmstrong/SCL3300
 https://github.com/davidchatting/Approximate
