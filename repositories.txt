@@ -3486,6 +3486,7 @@ https://github.com/RobTillaart/AngleConvertor
 https://github.com/RobTillaart/ANSI
 https://github.com/RobTillaart/AS5600
 https://github.com/RobTillaart/AsyncAnalog
+https://github.com/RobTillaart/AtomicWeight
 https://github.com/RobTillaart/AverageAngle
 https://github.com/RobTillaart/avrheap
 https://github.com/RobTillaart/BH1750FVI_RT
