@@ -5585,3 +5585,5 @@ https://github.com/happy12/SPL06-001.git|Contributed|SPL06-001
 https://github.com/davetcc/tcUnicodeHelper.git|Contributed|tcUnicodeHelper
 https://github.com/RobTillaart/AtomicWeight.git|Contributed|AtomicWeight
 https://github.com/Matrixchung/SFM-V1.7.git|Contributed|SFM-V1.7
+https://github.com/matthewturner/EventuallyStateMachine.git|Contributed|EventuallyStateMachine
+https://github.com/matthewturner/EventuallyCommand.git|Contributed|EventuallyCommand
