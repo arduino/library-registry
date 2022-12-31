@@ -5489,3 +5489,4 @@ https://github.com/nw2s/nw2s_portenta_SSD1322
 https://github.com/happy12/SPL06-001
 https://github.com/Matrixchung/SFM-V1.7
 https://github.com/ArchontisKostis/SimpleComponents
+https://github.com/tanakamasayuki/EspUsbHost
