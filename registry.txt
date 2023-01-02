@@ -5590,3 +5590,4 @@ https://github.com/matthewturner/EventuallyCommand.git|Contributed|EventuallyCom
 https://github.com/ArchontisKostis/SimpleComponents.git|Contributed|SimpleComponents
 https://github.com/tanakamasayuki/EspUsbHost.git|Contributed|EspUsbHost
 https://github.com/Abhishektiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B.git|Contributed|Nokia 1.8 Inch Display SPFD54124B
+https://github.com/WindyWanderer/CSWBattery.git|Contributed|CSWBattery
