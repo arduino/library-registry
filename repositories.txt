@@ -5490,3 +5490,4 @@ https://github.com/happy12/SPL06-001
 https://github.com/Matrixchung/SFM-V1.7
 https://github.com/ArchontisKostis/SimpleComponents
 https://github.com/tanakamasayuki/EspUsbHost
+https://github.com/Abhishektiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B
