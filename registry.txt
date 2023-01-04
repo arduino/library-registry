@@ -5518,7 +5518,7 @@ https://github.com/Reefwing-Software/Reefwing-Motorshield.git|Contributed|Reefwi
 https://github.com/neosarchizo/am1002-uart.git|Contributed|AM1002-UART
 https://github.com/khoih-prog/WebServer_ESP32_SC_W5500.git|Contributed|WebServer_ESP32_SC_W5500
 https://github.com/Reefwing-Software/Reefwing-MSP.git|Contributed|ReefwingMSP
-https://github.com/dvarrel/AsyncTCP.git|Contributed|ESP32AsyncTCP
+https://github.com/dvarrel/AsyncTCP.git|Contributed|AsyncTCP
 https://github.com/dvarrel/ESPAsyncTCP.git|Contributed|ESPAsyncTCP
 https://github.com/dvarrel/ESPAsyncWebSrv.git|Contributed|ESPAsyncWebSrv
 https://github.com/ug-cp/precise_sntp.git|Contributed|precise_sntp
