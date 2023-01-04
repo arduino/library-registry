@@ -479,6 +479,7 @@ https://github.com/107-systems/107-Arduino-TMF8801
 https://github.com/107-systems/107-Arduino-TSL2550
 https://github.com/107-systems/107-Arduino-Cyphal
 https://github.com/107-systems/107-Arduino-APDS-9950
+https://github.com/107-systems/107-Arduino-UniqueId
 https://github.com/1IoT/cloud-connectivity-lib
 https://github.com/loginov-rocks/UbxGps
 https://github.com/256dpi/arduino-mqtt
