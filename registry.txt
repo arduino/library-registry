@@ -5596,3 +5596,4 @@ https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library.gi
 https://github.com/bolderflight/hg4930.git|Contributed|Bolder Flight Systems Honeywell HG4930
 https://github.com/107-systems/107-Arduino-UniqueId.git|Contributed|107-Arduino-UniqueId
 https://github.com/107-systems/107-Arduino-CriticalSection.git|Contributed|107-Arduino-CriticalSection
+https://github.com/uldara1/Modbus.git|Contributed|Modbus
