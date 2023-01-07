@@ -5498,3 +5498,4 @@ https://github.com/tanakamasayuki/EspUsbHost
 https://github.com/Abhishektiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B
 https://github.com/WindyWanderer/CSWBattery.git
 https://github.com/stm32duino/STM32LoRaWAN
+https://github.com/SyntaxHarvy/HaCEspSockets
