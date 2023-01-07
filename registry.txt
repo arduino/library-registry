@@ -5600,3 +5600,4 @@ https://github.com/uldara1/Modbus.git|Contributed|Modbus
 https://github.com/SyntaxHarvy/HaCEspSockets.git|Contributed|HaCEspSockets
 https://github.com/nkaaf/Arduino-Regression.git|Contributed|Regression
 https://github.com/RobTillaart/MHZCO2.git|Contributed|MHZCO2
+https://github.com/kermite-org/keyboard_peripheral_modules.git|Contributed|keyboard_peripheral_modules
