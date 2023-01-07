@@ -5597,3 +5597,4 @@ https://github.com/bolderflight/hg4930.git|Contributed|Bolder Flight Systems Hon
 https://github.com/107-systems/107-Arduino-UniqueId.git|Contributed|107-Arduino-UniqueId
 https://github.com/107-systems/107-Arduino-CriticalSection.git|Contributed|107-Arduino-CriticalSection
 https://github.com/uldara1/Modbus.git|Contributed|Modbus
+https://github.com/SyntaxHarvy/HaCEspSockets.git|Contributed|HaCEspSockets
