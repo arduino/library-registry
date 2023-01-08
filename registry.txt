@@ -5604,3 +5604,4 @@ https://github.com/kermite-org/keyboard_peripheral_modules.git|Contributed|keybo
 https://github.com/dvarrel/BMP280.git|Contributed|BMP280
 https://github.com/RobTillaart/dateTimeHelpers.git|Contributed|dateTimeHelpers
 https://github.com/kermite-org/KermiteCore_Arduino.git|Contributed|KermiteCore_Arduino
+https://github.com/chandrawi/U8x_Laser_Distance.git|Contributed|U8xLaserDistance
