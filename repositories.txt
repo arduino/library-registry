@@ -5502,3 +5502,4 @@ https://github.com/WindyWanderer/CSWBattery.git
 https://github.com/stm32duino/STM32LoRaWAN
 https://github.com/SyntaxHarvy/HaCEspSockets
 https://github.com/kermite-org/keyboard_peripheral_modules
+https://github.com/dvarrel/BMP280
