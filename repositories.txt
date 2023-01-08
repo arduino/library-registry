@@ -5506,3 +5506,4 @@ https://github.com/kermite-org/keyboard_peripheral_modules
 https://github.com/kermite-org/KermiteCore_Arduino
 https://github.com/dvarrel/BMP280
 https://github.com/chandrawi/U8x_Laser_Distance
+https://github.com/khoih-prog/WebServer_ESP32_W6100
