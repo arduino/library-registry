@@ -5603,3 +5603,4 @@ https://github.com/RobTillaart/MHZCO2.git|Contributed|MHZCO2
 https://github.com/kermite-org/keyboard_peripheral_modules.git|Contributed|keyboard_peripheral_modules
 https://github.com/dvarrel/BMP280.git|Contributed|BMP280
 https://github.com/RobTillaart/dateTimeHelpers.git|Contributed|dateTimeHelpers
+https://github.com/kermite-org/KermiteCore_Arduino.git|Contributed|KermiteCore_Arduino
