@@ -5609,3 +5609,4 @@ https://github.com/khoih-prog/WebServer_ESP32_W6100.git|Contributed|WebServer_ES
 https://github.com/khoih-prog/WebServer_ESP32_SC_W6100.git|Contributed|WebServer_ESP32_SC_W6100
 https://github.com/dvarrel/AHT20.git|Contributed|AHT20
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_W6100.git|Contributed|AsyncWebServer_ESP32_SC_W6100
+https://github.com/m5stack/M5AtomS3.git|Contributed|M5AtomS3
