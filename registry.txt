@@ -5606,3 +5606,4 @@ https://github.com/RobTillaart/dateTimeHelpers.git|Contributed|dateTimeHelpers
 https://github.com/kermite-org/KermiteCore_Arduino.git|Contributed|KermiteCore_Arduino
 https://github.com/chandrawi/U8x_Laser_Distance.git|Contributed|U8xLaserDistance
 https://github.com/khoih-prog/WebServer_ESP32_W6100.git|Contributed|WebServer_ESP32_W6100
+https://github.com/khoih-prog/WebServer_ESP32_SC_W6100.git|Contributed|WebServer_ESP32_SC_W6100
