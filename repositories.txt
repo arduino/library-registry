@@ -379,6 +379,7 @@ https://github.com/m5stack/M5StickC
 https://github.com/m5stack/M5StickC-Plus
 https://github.com/m5stack/M5Station
 https://github.com/m5stack/M5Atom
+https://github.com/m5stack/M5AtomS3
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
 https://github.com/m5stack/M5Unified
