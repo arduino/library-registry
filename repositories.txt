@@ -5511,4 +5511,4 @@ https://github.com/chandrawi/U8x_Laser_Distance
 https://github.com/khoih-prog/WebServer_ESP32_W6100
 https://github.com/khoih-prog/WebServer_ESP32_SC_W6100
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_W6100
-https://gite.lirmm.fr/doccy/TFT_eSPI_Widgets
+https://github.com/Mancheron/TFT_eSPI_Widgets
