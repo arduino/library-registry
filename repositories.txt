@@ -1492,7 +1492,6 @@ https://github.com/dersimn/ArduinoUnifiedLog
 https://github.com/descampsa/A4963
 https://github.com/descampsa/ardyno
 https://github.com/designer2k2/EMUcan
-https://github.com/designer2k2/EMUcanT4
 https://github.com/desklab/desklab-arduino-lib
 https://github.com/devxplained/HTU21D-Sensor-Library
 https://github.com/devxplained/MAX3010x-Sensor-Library
@@ -4116,6 +4115,7 @@ https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6
 https://github.com/sparkfun/SparkFun_TPA2016D2_Arduino_Library
 https://github.com/sparkfun/SparkFun_TSL2561_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
+https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library
@@ -5513,3 +5513,4 @@ https://github.com/khoih-prog/WebServer_ESP32_SC_W6100
 https://github.com/khoih-prog/AsyncWebServer_ESP32_SC_W6100
 https://github.com/khoih-prog/AsyncWebServer_ESP32_W6100
 https://github.com/Mancheron/TFT_eSPI_Widgets
+https://github.com/khoih-prog/AsyncUDP_ESP32_W6100
