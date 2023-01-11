@@ -5613,3 +5613,4 @@ https://github.com/khoih-prog/AsyncWebServer_ESP32_W6100.git|Contributed|AsyncWe
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3.git|Contributed|SparkFun u-blox GNSS v3
 https://github.com/khoih-prog/AsyncUDP_ESP32_W6100.git|Contributed|AsyncUDP_ESP32_W6100
 https://github.com/Mancheron/TFT_eSPI_Widgets.git|Contributed|TFT_eSPI_Widgets
+https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W6100.git|Contributed|AsyncUDP_ESP32_SC_W6100
