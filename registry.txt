@@ -5617,3 +5617,4 @@ https://github.com/khoih-prog/AsyncUDP_ESP32_SC_W6100.git|Contributed|AsyncUDP_E
 https://github.com/khoih-prog/AsyncUDP_ESP32_Ethernet.git|Contributed|AsyncUDP_ESP32_Ethernet
 https://github.com/khoih-prog/AsyncDNSServer_ESP32_W6100.git|Contributed|AsyncDNSServer_ESP32_W6100
 https://github.com/IoT-ThingsCloud/thingscloud-esp-sdk.git|Contributed|ThingsCloud_ESP_SDK
+https://github.com/berrak/SensorWLED.git|Contributed|SensorWLED
