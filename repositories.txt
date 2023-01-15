@@ -1,4 +1,5 @@
 https://github.com/uldara1/Modbus.git
+https://github.com/Bexin3/Speeduino
 https://github.com/bolderflight/hg4930
 https://github.com/RCmags/basicCalculus
 https://github.com/EmberGL-org/EmberGL.git
