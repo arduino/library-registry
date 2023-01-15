@@ -5522,3 +5522,4 @@ https://github.com/berrak/SensorWLED
 https://github.com/mimuz/mimuz-ch55x
 https://github.com/khoih-prog/AsyncESP32_W6100_Manager
 https://github.com/khoih-prog/AsyncESP32_SC_W6100_Manager
+https://github.com/khoih-prog/ESP32_SC_W6100_Manager
