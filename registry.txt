@@ -5623,3 +5623,4 @@ https://github.com/khoih-prog/AsyncESP32_W6100_Manager.git|Contributed|AsyncESP3
 https://github.com/khoih-prog/AsyncESP32_SC_W6100_Manager.git|Contributed|AsyncESP32_SC_W6100_Manager
 https://github.com/khoih-prog/ESP32_SC_W6100_Manager.git|Contributed|ESP32_SC_W6100_Manager
 https://github.com/khoih-prog/ESP32_W6100_Manager.git|Contributed|ESP32_W6100_Manager
+https://github.com/lualtek/cubecell-device-lib.git|Contributed|LualtekCubecell
