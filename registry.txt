@@ -5620,3 +5620,4 @@ https://github.com/IoT-ThingsCloud/thingscloud-esp-sdk.git|Contributed|ThingsClo
 https://github.com/berrak/SensorWLED.git|Contributed|SensorWLED
 https://github.com/mimuz/mimuz-ch55x.git|Contributed|mimuz-ch55x
 https://github.com/khoih-prog/AsyncESP32_W6100_Manager.git|Contributed|AsyncESP32_W6100_Manager
+https://github.com/khoih-prog/AsyncESP32_SC_W6100_Manager.git|Contributed|AsyncESP32_SC_W6100_Manager
