@@ -5619,3 +5619,4 @@ https://github.com/khoih-prog/AsyncDNSServer_ESP32_W6100.git|Contributed|AsyncDN
 https://github.com/IoT-ThingsCloud/thingscloud-esp-sdk.git|Contributed|ThingsCloud_ESP_SDK
 https://github.com/berrak/SensorWLED.git|Contributed|SensorWLED
 https://github.com/mimuz/mimuz-ch55x.git|Contributed|mimuz-ch55x
+https://github.com/khoih-prog/AsyncESP32_W6100_Manager.git|Contributed|AsyncESP32_W6100_Manager
