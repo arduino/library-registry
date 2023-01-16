@@ -1,4 +1,5 @@
 https://github.com/uldara1/Modbus.git
+https://github.com/Bexin3/Speeduino
 https://github.com/bolderflight/hg4930
 https://github.com/RCmags/basicCalculus
 https://github.com/EmberGL-org/EmberGL.git
@@ -112,6 +113,7 @@ https://github.com/arbotics-llc/databot_ESP32
 https://github.com/HakkanR/DMD2TUR
 https://github.com/bolderflight/ms4525do
 https://github.com/MSZ98/pcf8574
+https://github.com/SF433/ILIB
 https://github.com/Narwhalsss360/NTimer
 https://github.com/Narwhalsss360/NEvents
 https://github.com/Narwhalsss360/NDefs
