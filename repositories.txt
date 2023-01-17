@@ -3,6 +3,7 @@ https://github.com/Bexin3/Speeduino
 https://github.com/bolderflight/hg4930
 https://github.com/RCmags/basicCalculus
 https://github.com/EmberGL-org/EmberGL.git
+https://github.com/Jayedt5/unit6test2.git
 https://github.com/bolderflight/terabee
 https://github.com/RCmags/ServoMotor
 https://github.com/RCmags/pulseInput
