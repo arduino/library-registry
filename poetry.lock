@@ -127,14 +127,14 @@ files = [
 
 [[package]]
 name = "invoke"
-version = "1.7.3"
+version = "2.0.0"
 description = "Pythonic task execution"
 category = "dev"
 optional = false
-python-versions = "*"
+python-versions = ">=3.6"
 files = [
-    {file = "invoke-1.7.3-py3-none-any.whl", hash = "sha256:d9694a865764dd3fd91f25f7e9a97fb41666e822bbb00e670091e3f43933574d"},
-    {file = "invoke-1.7.3.tar.gz", hash = "sha256:41b428342d466a82135d5ab37119685a989713742be46e42a3a399d685579314"},
+    {file = "invoke-2.0.0-py3-none-any.whl", hash = "sha256:a860582bcf7a4b336fe18ef53937f0f28cec1c0053ffa767c2fcf7ba0b850f59"},
+    {file = "invoke-2.0.0.tar.gz", hash = "sha256:7ab5dd9cd76b787d560a78b1a9810d252367ab595985c50612702be21d671dd7"},
 ]
 
 [[package]]
@@ -395,4 +395,4 @@ setuptools = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "a77f8844f458f6c726a61826a35d8c7c5c1c4e0018e5142495db4b1ce02b314c"
+content-hash = "e7cfcd4e143d68c6fe179bd6a4f48d9ed272baf6ac74981c6146805f4d9a5e1b"
