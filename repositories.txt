@@ -5527,4 +5527,3 @@ https://github.com/khoih-prog/AsyncESP32_SC_W6100_Manager
 https://github.com/khoih-prog/ESP32_SC_W6100_Manager
 https://github.com/khoih-prog/ESP32_W6100_Manager
 https://github.com/lualtek/cubecell-device-lib
-https://github.com/weedmanu/Song
