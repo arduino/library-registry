@@ -5627,3 +5627,4 @@ https://github.com/lualtek/cubecell-device-lib.git|Contributed|LualtekCubecell
 https://github.com/Bexin3/Speeduino.git|Contributed|Speeduino
 https://github.com/weedmanu/Song.git|Contributed|Song
 https://github.com/SF433/ILIB.git|Contributed|ILIB
+https://github.com/TrebledJ/Serial-Tuning.git|Contributed|SerialTuning
