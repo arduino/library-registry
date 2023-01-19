@@ -5629,3 +5629,4 @@ https://github.com/weedmanu/Song.git|Contributed|Song
 https://github.com/SF433/ILIB.git|Contributed|ILIB
 https://github.com/TrebledJ/Serial-Tuning.git|Contributed|SerialTuning
 https://github.com/arduino-libraries/Arduino_ESP32_OTA.git|Arduino|Arduino_ESP32_OTA
+https://github.com/Gfy63/ParseCommands.git|Contributed|ParseCommands
