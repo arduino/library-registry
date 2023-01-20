@@ -5531,3 +5531,4 @@ https://github.com/lualtek/cubecell-device-lib
 https://github.com/weedmanu/Song
 https://github.com/TrebledJ/Serial-Tuning
 https://github.com/arduino-libraries/Arduino_ESP32_OTA
+https://github.com/stoneroweast/HoldButton
