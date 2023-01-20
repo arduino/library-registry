@@ -5631,3 +5631,4 @@ https://github.com/TrebledJ/Serial-Tuning.git|Contributed|SerialTuning
 https://github.com/arduino-libraries/Arduino_ESP32_OTA.git|Arduino|Arduino_ESP32_OTA
 https://github.com/Gfy63/ParseCommands.git|Contributed|ParseCommands
 https://github.com/stoneroweast/HoldButton.git|Contributed|HoldButton
+https://github.com/firechip/Firechip_Quectel_EG25-G_Arduino_Library.git|Contributed|FC0003390327
