@@ -5632,3 +5632,4 @@ https://github.com/arduino-libraries/Arduino_ESP32_OTA.git|Arduino|Arduino_ESP32
 https://github.com/Gfy63/ParseCommands.git|Contributed|ParseCommands
 https://github.com/stoneroweast/HoldButton.git|Contributed|HoldButton
 https://github.com/firechip/Firechip_Quectel_EG25-G_Arduino_Library.git|Contributed|FC0003390327
+https://github.com/Aerobotics-Global/Orbo.git|Contributed|Orbo
