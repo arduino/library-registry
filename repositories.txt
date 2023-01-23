@@ -5534,3 +5534,4 @@ https://github.com/weedmanu/Song
 https://github.com/TrebledJ/Serial-Tuning
 https://github.com/arduino-libraries/Arduino_ESP32_OTA
 https://github.com/stoneroweast/HoldButton
+https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
