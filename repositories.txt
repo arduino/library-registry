@@ -4672,6 +4672,7 @@ https://github.com/zoubworldArduino/ZSharpIR
 https://github.com/ZulNs/LCD_HD44780
 https://github.com/ZulNs/MultitapKeypad
 https://github.com/ZulNs/STM32F1_RTC
+https://github.com/ZulNs/TonePlayer
 https://github.com/Zuntara/Arduino.AdagioPro
 https://github.com/Zwer2k/WeatherStationDataRx
 https://gitlab.com/airbornemint/arduino-protothreads
