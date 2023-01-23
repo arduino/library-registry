@@ -5634,3 +5634,4 @@ https://github.com/stoneroweast/HoldButton.git|Contributed|HoldButton
 https://github.com/firechip/Firechip_Quectel_EG25-G_Arduino_Library.git|Contributed|FC0003390327
 https://github.com/Aerobotics-Global/Orbo.git|Contributed|Orbo
 https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git|Contributed|bluemicro_rp2040
+https://github.com/Naguissa/uUnixDate.git|Contributed|uUnixDate
