@@ -5637,3 +5637,4 @@ https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git|Contribu
 https://github.com/Naguissa/uUnixDate.git|Contributed|uUnixDate
 https://gitlab.com/dcoded.nl/non-blocking-analog-led-driver.git|Contributed|AnalogLEDDriver
 https://github.com/Bexin3/Snowduino.git|Contributed|Snowduino
+https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library.git|Contributed|SparkFun Temperature Sensor - STTS22H
