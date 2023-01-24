@@ -5540,3 +5540,4 @@ https://github.com/stoneroweast/HoldButton
 https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
 https://github.com/Naguissa/uUnixDate
 https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
+https://github.com/khoih-prog/ContinuousStepper_Generic
