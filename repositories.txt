@@ -4483,6 +4483,7 @@ https://github.com/uStepper/egoShieldTimeLapse
 https://github.com/uStepper/uStepper-S-lite
 https://github.com/uStepper/uStepper
 https://github.com/uStepper/uStepperS
+https://github.com/uStepper/uStepperS32
 https://github.com/VasilKalchev/ExponentMap
 https://github.com/VasilKalchev/LiquidMenu
 https://github.com/VasilKalchev/RGBLED
