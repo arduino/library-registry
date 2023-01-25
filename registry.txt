@@ -2391,7 +2391,6 @@ https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor.git|Contributed|TLE501
 https://github.com/Infineon/TLI4970-D050T4-Current-Sensor.git|Contributed|TLI4970
 https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202.git|Contributed|RGB LED Lighting Shield XMC1202
 https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300.git|Contributed|IFX9201_XMC1300_StepperMotor
-https://github.com/Infineon/OPTIGA-Trust-E-Security-Controller.git|Contributed|OPTIGATrustE
 https://github.com/adafruit/Adafruit_Arcada_GifDecoder.git|Contributed|Adafruit Arcada GifDecoder
 https://github.com/haimoz/SoftFilters.git|Contributed|SoftFilters
 https://github.com/drewfish/arduino-TrimWright.git|Contributed|TrimWright
