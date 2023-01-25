@@ -5640,3 +5640,4 @@ https://github.com/Bexin3/Snowduino.git|Contributed|Snowduino
 https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library.git|Contributed|SparkFun Temperature Sensor - STTS22H
 https://github.com/ZulNs/TonePlayer.git|Contributed|TonePlayer
 https://github.com/khoih-prog/ContinuousStepper_Generic.git|Contributed|ContinuousStepper_Generic
+https://github.com/RobTillaart/HC4067.git|Contributed|HC4067
