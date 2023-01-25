@@ -1,3 +1,7 @@
+https://github.com/Bexin3/Snowduino
+https://github.com/Aerobotics-Global/Orbo
+https://gitlab.com/dcoded.nl/non-blocking-analog-led-driver
+https://github.com/Gfy63/ParseCommands.git
 https://github.com/uldara1/Modbus.git
 https://github.com/Bexin3/Speeduino
 https://github.com/bolderflight/hg4930
@@ -1741,6 +1745,7 @@ https://github.com/finson-release/Luni
 https://github.com/fire0shadow/SevSegSPI
 https://github.com/fire1/PulseCom
 https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library
+https://github.com/firechip/Firechip_Quectel_EG25-G_Arduino_Library
 https://github.com/firmata/arduino
 https://github.com/firmata/ConfigurableFirmata
 https://github.com/FirstBuild/Relay
@@ -2078,7 +2083,6 @@ https://github.com/Infineon/DPS310-Pressure-Sensor
 https://github.com/Infineon/hall-switch
 https://github.com/Infineon/high-side-switch
 https://github.com/Infineon/IFX007T-Motor-Control
-https://github.com/Infineon/OPTIGA-Trust-E-Security-Controller
 https://github.com/Infineon/arduino-pas-co2-sensor
 https://github.com/Infineon/RGB-LED-Lighting-Shield-XMC1202
 https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300
@@ -3548,6 +3552,7 @@ https://github.com/RobTillaart/FunctionGenerator
 https://github.com/RobTillaart/GAMMA
 https://github.com/RobTillaart/GST
 https://github.com/RobTillaart/GY521
+https://github.com/RobTillaart/HC4067
 https://github.com/RobTillaart/HeartBeat
 https://github.com/RobTillaart/Histogram
 https://github.com/RobTillaart/HMC6352
@@ -4667,6 +4672,7 @@ https://github.com/zoubworldArduino/ZSharpIR
 https://github.com/ZulNs/LCD_HD44780
 https://github.com/ZulNs/MultitapKeypad
 https://github.com/ZulNs/STM32F1_RTC
+https://github.com/ZulNs/TonePlayer
 https://github.com/Zuntara/Arduino.AdagioPro
 https://github.com/Zwer2k/WeatherStationDataRx
 https://gitlab.com/airbornemint/arduino-protothreads
@@ -5527,3 +5533,10 @@ https://github.com/khoih-prog/AsyncESP32_SC_W6100_Manager
 https://github.com/khoih-prog/ESP32_SC_W6100_Manager
 https://github.com/khoih-prog/ESP32_W6100_Manager
 https://github.com/lualtek/cubecell-device-lib
+https://github.com/TrebledJ/Serial-Tuning
+https://github.com/arduino-libraries/Arduino_ESP32_OTA
+https://github.com/stoneroweast/HoldButton
+https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
+https://github.com/Naguissa/uUnixDate
+https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
+https://github.com/khoih-prog/ContinuousStepper_Generic
