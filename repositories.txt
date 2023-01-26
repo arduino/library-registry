@@ -3554,6 +3554,7 @@ https://github.com/RobTillaart/GST
 https://github.com/RobTillaart/GY521
 https://github.com/RobTillaart/HC4051
 https://github.com/RobTillaart/HC4052
+https://github.com/RobTillaart/HC4053
 https://github.com/RobTillaart/HC4067
 https://github.com/RobTillaart/HeartBeat
 https://github.com/RobTillaart/Histogram
