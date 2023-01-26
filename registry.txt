@@ -5642,3 +5642,4 @@ https://github.com/RobTillaart/HC4067.git|Contributed|HC4067
 https://github.com/uStepper/uStepperS32.git|Contributed|uStepperS32
 https://github.com/RobTillaart/HC4051.git|Contributed|HC4051
 https://github.com/RobTillaart/HC4052.git|Contributed|HC4052
+https://github.com/RobTillaart/HC4053.git|Contributed|HC4053
