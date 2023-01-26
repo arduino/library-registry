@@ -5544,3 +5544,4 @@ https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
 https://github.com/Naguissa/uUnixDate
 https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
 https://github.com/khoih-prog/ContinuousStepper_Generic
+https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
