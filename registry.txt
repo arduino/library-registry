@@ -5641,3 +5641,4 @@ https://github.com/khoih-prog/ContinuousStepper_Generic.git|Contributed|Continuo
 https://github.com/RobTillaart/HC4067.git|Contributed|HC4067
 https://github.com/uStepper/uStepperS32.git|Contributed|uStepperS32
 https://github.com/RobTillaart/HC4051.git|Contributed|HC4051
+https://github.com/RobTillaart/HC4052.git|Contributed|HC4052
