@@ -5640,3 +5640,4 @@ https://github.com/ZulNs/TonePlayer.git|Contributed|TonePlayer
 https://github.com/khoih-prog/ContinuousStepper_Generic.git|Contributed|ContinuousStepper_Generic
 https://github.com/RobTillaart/HC4067.git|Contributed|HC4067
 https://github.com/uStepper/uStepperS32.git|Contributed|uStepperS32
+https://github.com/RobTillaart/HC4051.git|Contributed|HC4051
