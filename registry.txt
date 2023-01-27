@@ -5646,3 +5646,4 @@ https://github.com/RobTillaart/HC4053.git|Contributed|HC4053
 https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library.git|Contributed|SparkFun WM8960 Arduino Library
 https://github.com/Beirdo/Arduino-FRAM-Cache.git|Contributed|FRAM_Cache
 https://github.com/chochain/eForth1.git|Contributed|eForth1
+https://github.com/cubicleguy/su_arduino_uart.git|Contributed|Epson_SU_UART
