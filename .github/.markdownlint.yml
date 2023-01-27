@@ -1,3 +1,4 @@
+# Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-markdown/.markdownlint.yml
 # See: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
 # The code style defined in this file is the official standardized style to be used in all Arduino projects and should
 # not be modified.

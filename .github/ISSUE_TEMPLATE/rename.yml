@@ -1,0 +1,19 @@
+# See:
+# https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+
+name: Library name change
+description: Request an update of the registered library name.
+title: Library name change request
+labels:
+  - "topic: rename"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read the instructions for renaming your library: [here](https://github.com/arduino/library-registry/blob/main/FAQ.md#how-can-i-change-a-librarys-name).
+  - type: input
+    id: url
+    attributes:
+      label: Library repository URL
+    validations:
+      required: true
