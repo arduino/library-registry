@@ -5551,3 +5551,4 @@ https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/Beirdo/Arduino-FRAM-Cache
 https://github.com/mission-mangal/speed-control
 https://github.com/mission-mangal/PositionControl
+https://github.com/maximemoreillon/iot-kernel
