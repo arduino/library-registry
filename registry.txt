@@ -5648,3 +5648,4 @@ https://github.com/Beirdo/Arduino-FRAM-Cache.git|Contributed|FRAM_Cache
 https://github.com/chochain/eForth1.git|Contributed|eForth1
 https://github.com/cubicleguy/su_arduino_uart.git|Contributed|Epson_SU_UART
 https://github.com/cubicleguy/su_arduino_spi.git|Contributed|Epson_SU_SPI
+https://github.com/mission-mangal/speed-control.git|Contributed|Speed Control
