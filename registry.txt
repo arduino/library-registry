@@ -5650,3 +5650,4 @@ https://github.com/cubicleguy/su_arduino_uart.git|Contributed|Epson_SU_UART
 https://github.com/cubicleguy/su_arduino_spi.git|Contributed|Epson_SU_SPI
 https://github.com/mission-mangal/speed-control.git|Contributed|Speed Control
 https://github.com/mission-mangal/PositionControl.git|Contributed|PositionControl
+https://github.com/maximemoreillon/iot-kernel.git|Contributed|IotKernel
