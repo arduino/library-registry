@@ -3,6 +3,7 @@ https://github.com/cubicleguy/su_arduino_uart
 https://github.com/chochain/eForth1
 https://github.com/Bexin3/Snowduino
 https://github.com/Aerobotics-Global/Orbo
+https://github.com/JoulePhi/Escon-Library
 https://gitlab.com/dcoded.nl/non-blocking-analog-led-driver
 https://github.com/Gfy63/ParseCommands.git
 https://github.com/uldara1/Modbus.git
