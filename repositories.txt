@@ -5554,3 +5554,5 @@ https://github.com/mission-mangal/speed-control
 https://github.com/mission-mangal/PositionControl
 https://github.com/maximemoreillon/iot-kernel
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_33BLE
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7
