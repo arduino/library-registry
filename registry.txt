@@ -5655,3 +5655,4 @@ https://github.com/JoulePhi/Escon-Library.git|Contributed|Escon
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_33BLE.git|Contributed|DSpotterSDK_Maker_33BLE
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040.git|Contributed|DSpotterSDK_Maker_RP2040
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7.git|Contributed|DSpotterSDK_Maker_PortentaH7
+https://github.com/firechip/Firechip_RV-8263_Arduino_Library.git|Contributed|FC0005748911
