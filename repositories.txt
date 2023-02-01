@@ -4371,7 +4371,7 @@ https://github.com/thinger-io/Core32
 https://github.com/thingface/arduino
 https://github.com/ThingPulse/esp8266-oled-ssd1306
 https://github.com/ThingPulse/XPT2046_Touchscreen
-https://github.com/thingsboard/ThingsBoard-Arduino-MQTT-SDK
+https://github.com/thingsboard/ThingsBoard-Arduino-SDK
 https://github.com/thingSoC/embedis
 https://github.com/thinkovation/Ambimate
 https://github.com/ThisSmartHouse/CoogleIOT
