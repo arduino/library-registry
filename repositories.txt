@@ -5558,3 +5558,4 @@ https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_33BLE
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7
 https://github.com/kimble4/CrossMgrLapCounter
+https://github.com/plasmapper/adxl355-arduino
