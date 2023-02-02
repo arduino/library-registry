@@ -5657,3 +5657,4 @@ https://github.com/kimble4/CrossMgrLapCounter.git|Contributed|CrossMgrLapCounter
 https://github.com/plasmapper/adxl355-arduino.git|Contributed|PL ADXL355
 https://github.com/weedmanu/ToneESP32.git|Contributed|ToneESP32
 https://github.com/lualtek/ttn-device-lib.git|Contributed|LualtekTTN
+https://github.com/semcneil/PCA95x5.git|Contributed|Anitracks_PCA95x5
