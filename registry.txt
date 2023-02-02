@@ -5656,3 +5656,4 @@ https://github.com/firechip/Firechip_RV-8263_Arduino_Library.git|Contributed|FC0
 https://github.com/kimble4/CrossMgrLapCounter.git|Contributed|CrossMgrLapCounter
 https://github.com/plasmapper/adxl355-arduino.git|Contributed|PL ADXL355
 https://github.com/weedmanu/ToneESP32.git|Contributed|ToneESP32
+https://github.com/lualtek/ttn-device-lib.git|Contributed|LualtekTTN
