@@ -2001,6 +2001,7 @@ https://github.com/hideakitai/Packetizer
 https://github.com/hideakitai/PCA9536
 https://github.com/hideakitai/PCA9547
 https://github.com/hideakitai/PCA95x5
+https://github.com/semcneil/PCA95x5
 https://github.com/hideakitai/PCA9624
 https://github.com/hideakitai/PCF2129
 https://github.com/hideakitai/PollingTimer
