@@ -5557,3 +5557,4 @@ https://github.com/maximemoreillon/iot-kernel
 https://github.com/kimble4/CrossMgrLapCounter
 https://github.com/plasmapper/adxl355-arduino
 https://github.com/weedmanu/ToneESP32
+https://github.com/lualtek/ttn-device-lib
