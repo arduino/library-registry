@@ -1,0 +1,2 @@
+Mstor is the library created for Versalent's Mstor Shield -- a USB Disk Shield that adds mass storage to all Arduinos even the Uno.  It provides a full FAT disk operating system offering all the standard file access functions  like Open, Read, Write, Append, Rename, Delete, Copy, etc ..   as well as directory management functions like  Make, Delete, Change etc.
+This library manages all message CRC's and command timeouts make the use of a USB disk easy.
