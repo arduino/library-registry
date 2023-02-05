@@ -5661,3 +5661,4 @@ https://github.com/semcneil/PCA95x5.git|Contributed|Anitracks_PCA95x5
 https://github.com/r3mko/ZMPT101B.git|Contributed|ZMPT101B-Sensor
 https://github.com/HakkanR/slowAES.git|Contributed|slowAES
 https://github.com/beegee-tokyo/WisBlock-API-V2.git|Contributed|WisBlock-API-V2
+https://github.com/UlmerMan/Elegoo.git|Contributed|Elegoo
