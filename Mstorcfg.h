@@ -53,3 +53,4 @@ extern SoftwareSerial SSserial;	//and MstorPort is a SoftwareSerial Port
 //Advanced debugging .. Versalent personnel only
 //#define INJECT_ERRORS 	0			//with this defined, errors are injected into received packets -- can see errors occur, and the corrections
 //#define SHOW_ERRORS		0			//show any read errors that occur .. and their corrections
+
