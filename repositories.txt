@@ -5562,3 +5562,4 @@ https://github.com/plasmapper/adxl355-arduino
 https://github.com/weedmanu/ToneESP32
 https://github.com/lualtek/ttn-device-lib
 https://github.com/r3mko/ZMPT101B
+https://git.aerospace-lab.de/manuel.ulmer/elegoo 
