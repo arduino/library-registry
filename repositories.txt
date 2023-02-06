@@ -1,5 +1,12 @@
+https://github.com/ftjuh/RCWL_1X05
+https://github.com/UlmerMan/Elegoo
+https://github.com/HakkanR/slowAES
+https://github.com/cubicleguy/su_arduino_spi
+https://github.com/cubicleguy/su_arduino_uart 
+https://github.com/chochain/eForth1
 https://github.com/Bexin3/Snowduino
 https://github.com/Aerobotics-Global/Orbo
+https://github.com/JoulePhi/Escon-Library
 https://gitlab.com/dcoded.nl/non-blocking-analog-led-driver
 https://github.com/Gfy63/ParseCommands.git
 https://github.com/uldara1/Modbus.git
@@ -1164,6 +1171,7 @@ https://github.com/beegee-tokyo/SHT1x-ESP
 https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
 https://github.com/beegee-tokyo/WisBlock-API
+https://github.com/beegee-tokyo/WisBlock-API-V2
 https://github.com/ElectronicCats/Beelan-LoRaWAN
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/belidzs/PreciseLM35
@@ -1746,6 +1754,7 @@ https://github.com/fire0shadow/SevSegSPI
 https://github.com/fire1/PulseCom
 https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library
 https://github.com/firechip/Firechip_Quectel_EG25-G_Arduino_Library
+https://github.com/firechip/Firechip_RV-8263_Arduino_Library
 https://github.com/firmata/arduino
 https://github.com/firmata/ConfigurableFirmata
 https://github.com/FirstBuild/Relay
@@ -1996,6 +2005,7 @@ https://github.com/hideakitai/Packetizer
 https://github.com/hideakitai/PCA9536
 https://github.com/hideakitai/PCA9547
 https://github.com/hideakitai/PCA95x5
+https://github.com/semcneil/PCA95x5
 https://github.com/hideakitai/PCA9624
 https://github.com/hideakitai/PCF2129
 https://github.com/hideakitai/PollingTimer
@@ -4366,7 +4376,7 @@ https://github.com/thinger-io/Core32
 https://github.com/thingface/arduino
 https://github.com/ThingPulse/esp8266-oled-ssd1306
 https://github.com/ThingPulse/XPT2046_Touchscreen
-https://github.com/thingsboard/ThingsBoard-Arduino-MQTT-SDK
+https://github.com/thingsboard/ThingsBoard-Arduino-SDK
 https://github.com/thingSoC/embedis
 https://github.com/thinkovation/Ambimate
 https://github.com/ThisSmartHouse/CoogleIOT
@@ -5546,3 +5556,11 @@ https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
 https://github.com/khoih-prog/ContinuousStepper_Generic
 https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/Beirdo/Arduino-FRAM-Cache
+https://github.com/mission-mangal/SpeedControl
+https://github.com/mission-mangal/PositionControl
+https://github.com/maximemoreillon/iot-kernel
+https://github.com/kimble4/CrossMgrLapCounter
+https://github.com/plasmapper/adxl355-arduino
+https://github.com/weedmanu/ToneESP32
+https://github.com/lualtek/ttn-device-lib
+https://github.com/r3mko/ZMPT101B
