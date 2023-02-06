@@ -5664,3 +5664,4 @@ https://github.com/beegee-tokyo/WisBlock-API-V2.git|Contributed|WisBlock-API-V2
 https://github.com/UlmerMan/Elegoo.git|Contributed|Elegoo
 https://github.com/ftjuh/RCWL_1X05.git|Contributed|RCWL_1X05
 https://github.com/Beirdo/Arduino-LIN.git|Contributed|LINBus_stack
+https://github.com/Beirdo/Arduino-MultiWire.git|Contributed|MultiWire
