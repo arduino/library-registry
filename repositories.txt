@@ -5568,3 +5568,4 @@ https://github.com/r3mko/ZMPT101B
 https://github.com/Beirdo/Arduino-LIN
 https://github.com/Beirdo/Arduino-MultiWire
 https://github.com/jcubuntu/us82
+https://github.com/fatkhrus/TeslaCloud
