@@ -5565,3 +5565,4 @@ https://github.com/weedmanu/ToneESP32
 https://github.com/lualtek/ttn-device-lib
 https://github.com/r3mko/ZMPT101B
 https://github.com/Beirdo/Arduino-LIN
+https://github.com/Beirdo/Arduino-MultiWire
