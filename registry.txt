@@ -5667,3 +5667,4 @@ https://github.com/Beirdo/Arduino-LIN.git|Contributed|LINBus_stack
 https://github.com/Beirdo/Arduino-MultiWire.git|Contributed|MultiWire
 https://github.com/DinuraPasan/DOC_CAT.git|Contributed|DOC_CAT
 https://github.com/jcubuntu/us82.git|Contributed|uS82
+https://github.com/fatkhrus/TeslaCloud.git|Contributed|TeslaCloud
