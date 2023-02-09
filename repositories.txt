@@ -5570,3 +5570,4 @@ https://github.com/Beirdo/Arduino-LIN
 https://github.com/Beirdo/Arduino-MultiWire
 https://github.com/jcubuntu/us82
 https://github.com/fatkhrus/TeslaCloud
+https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library
