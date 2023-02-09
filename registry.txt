@@ -5670,3 +5670,4 @@ https://github.com/jcubuntu/us82.git|Contributed|uS82
 https://github.com/fatkhrus/TeslaCloud.git|Contributed|TeslaCloud
 https://github.com/kj7rrv/Telegraph.git|Contributed|Telegraph
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library.git|Contributed|SHTC3 Soldered Library
+https://github.com/razvan-mocanu/LC709204F.git|Contributed|LC709204F
