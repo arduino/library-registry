@@ -5572,3 +5572,4 @@ https://github.com/jcubuntu/us82
 https://github.com/fatkhrus/TeslaCloud
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library
 https://github.com/razvan-mocanu/LC709204F
+https://github.com/EmotiBit/EmotiBit_EmojiLib
