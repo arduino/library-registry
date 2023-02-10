@@ -5672,3 +5672,4 @@ https://github.com/kj7rrv/Telegraph.git|Contributed|Telegraph
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library.git|Contributed|SHTC3 Soldered Library
 https://github.com/razvan-mocanu/LC709204F.git|Contributed|LC709204F
 https://github.com/EmotiBit/EmotiBit_EmojiLib.git|Contributed|EmotiBit EmojiLib
+https://github.com/mikalhart/ESP32-OTA-Pull.git|Contributed|ESP32-OTA-Pull
