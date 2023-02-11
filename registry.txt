@@ -5673,3 +5673,4 @@ https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Senso
 https://github.com/razvan-mocanu/LC709204F.git|Contributed|LC709204F
 https://github.com/EmotiBit/EmotiBit_EmojiLib.git|Contributed|EmotiBit EmojiLib
 https://github.com/mikalhart/ESP32-OTA-Pull.git|Contributed|ESP32-OTA-Pull
+https://github.com/d10i/TFA433.git|Contributed|TFA 433 Receiver for Dostmann 30.3208.02
