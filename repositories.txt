@@ -5577,3 +5577,4 @@ https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Senso
 https://github.com/razvan-mocanu/LC709204F
 https://github.com/EmotiBit/EmotiBit_EmojiLib
 https://github.com/d10i/TFA433
+https://github.com/IncroyablePix/DigiKeyboardBe
