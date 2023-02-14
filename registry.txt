@@ -5677,3 +5677,4 @@ https://github.com/d10i/TFA433.git|Contributed|TFA 433 Receiver for Dostmann 30.
 https://github.com/RobTillaart/AM2315C.git|Contributed|AM2315C
 https://github.com/nhz2/XYZgeomag.git|Contributed|XYZgeomag
 https://github.com/IncroyablePix/DigiKeyboardBe.git|Contributed|DigiKeyboardBe
+https://github.com/ClayXrex/Arduino-StepperMotor.git|Contributed|StepperMotor
