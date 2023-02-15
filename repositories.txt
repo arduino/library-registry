@@ -5579,3 +5579,4 @@ https://github.com/EmotiBit/EmotiBit_EmojiLib
 https://github.com/d10i/TFA433
 https://github.com/IncroyablePix/DigiKeyboardBe
 https://github.com/ClayXrex/Arduino-StepperMotor
+https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library 
