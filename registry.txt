@@ -5679,3 +5679,6 @@ https://github.com/nhz2/XYZgeomag.git|Contributed|XYZgeomag
 https://github.com/IncroyablePix/DigiKeyboardBe.git|Contributed|DigiKeyboardBe
 https://github.com/ClayXrex/Arduino-StepperMotor.git|Contributed|StepperMotor
 https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library.git|Contributed|bluemicro_exmpl
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_33BLE.git|Contributed|DSpotterSDK_Maker_33BLE
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040.git|Contributed|DSpotterSDK_Maker_RP2040
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7.git|Contributed|DSpotterSDK_Maker_PortentaH7
