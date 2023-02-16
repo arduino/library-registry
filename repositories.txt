@@ -2232,7 +2232,6 @@ https://github.com/jgromes/RadioLib
 https://github.com/JHershey69/DarkSkySevenDay
 https://github.com/jhershey69/MoonStruck
 https://github.com/JHershey69/OpenWeatherOneCall
-https://github.com/JHershey69/weatherLocation-Library
 https://github.com/jhershey69/WiFiTri
 https://github.com/jihoonkimtech/UltraSonic_Lib
 https://github.com/JimmySoftware/ESPert
@@ -5580,3 +5579,4 @@ https://github.com/d10i/TFA433
 https://github.com/IncroyablePix/DigiKeyboardBe
 https://github.com/ClayXrex/Arduino-StepperMotor
 https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library 
+https://github.com/Bodmer/OpenWeather
