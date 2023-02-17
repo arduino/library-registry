@@ -5684,3 +5684,4 @@ https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040.git|Contributed|D
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7.git|Contributed|DSpotterSDK_Maker_PortentaH7
 https://github.com/ES-factory/DigiCombo.git|Contributed|DigiCombo
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library.git|Contributed|bluemicro_samd
+https://github.com/Bodmer/OpenWeather.git|Contributed|OpenWeather
