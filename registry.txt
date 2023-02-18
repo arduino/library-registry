@@ -5686,3 +5686,4 @@ https://github.com/ES-factory/DigiCombo.git|Contributed|DigiCombo
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library.git|Contributed|bluemicro_samd
 https://github.com/Bodmer/OpenWeather.git|Contributed|OpenWeather
 https://github.com/nyannkov/Psgino.git|Contributed|Psgino
+https://github.com/mcmchris/mcm-bl0940-lib.git|Contributed|MCM_BL0940
