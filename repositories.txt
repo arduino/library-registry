@@ -1,4 +1,5 @@
 https://github.com/PeaPodTechnologies/I2CIP
+https://github.com/mcmchris/mcm-bl0940-lib
 https://github.com/gpoolb/ads1148
 https://github.com/marcinsaj/RTC-RX8025T
 https://github.com/pacav69/NGFlasherLED
