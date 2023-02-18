@@ -5685,3 +5685,4 @@ https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7.git|Contribut
 https://github.com/ES-factory/DigiCombo.git|Contributed|DigiCombo
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library.git|Contributed|bluemicro_samd
 https://github.com/Bodmer/OpenWeather.git|Contributed|OpenWeather
+https://github.com/nyannkov/Psgino.git|Contributed|Psgino
