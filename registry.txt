@@ -5688,3 +5688,4 @@ https://github.com/Bodmer/OpenWeather.git|Contributed|OpenWeather
 https://github.com/nyannkov/Psgino.git|Contributed|Psgino
 https://github.com/mcmchris/mcm-bl0940-lib.git|Contributed|MCM_BL0940
 https://github.com/theprototypedesigner/tpdButton.git|Contributed|TpdButton
+https://github.com/Reefwing-Software/Reefwing-LPS22HB.git|Contributed|ReefwingLPS22HB
