@@ -5591,3 +5591,4 @@ https://github.com/ES-factory/DigiCombo
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library
 https://github.com/Bodmer/OpenWeather
 https://github.com/nyannkov/Psgino
+https://github.com/Beirdo/Arduino-LM96163
