@@ -5695,3 +5695,4 @@ https://github.com/marcinsaj/FlipDisc.git|Contributed|FlipDisc
 https://github.com/Beirdo/Arduino-PCA9536.git|Contributed|PCA9536D
 https://github.com/chandrawi/ADE7753.git|Contributed|ADE7753
 https://github.com/gobbolab/room-weather.git|Contributed|Room Weather
+https://github.com/fredlarochelle/RunningStats.git|Contributed|RunningStats
