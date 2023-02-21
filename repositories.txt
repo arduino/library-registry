@@ -5594,3 +5594,4 @@ https://github.com/Bodmer/OpenWeather
 https://github.com/nyannkov/Psgino
 https://github.com/Beirdo/Arduino-LM96163
 https://github.com/Beirdo/Arduino-PCA9536
+https://github.com/chandrawi/ADE7753
