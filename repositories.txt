@@ -5225,7 +5225,6 @@ https://github.com/deneyapkart/deneyap-yagmur-algilayici-arduino-library
 https://github.com/deneyapkart/deneyap-role-arduino-library
 https://github.com/deneyapkart/deneyap-kumanda-kolu-arduino-library
 https://github.com/deneyapkart/deneyap-hareket-algilama-arduino-library
-https://github.com/matthias-bs/ESP32_ATC_MiThermometer_Library
 https://github.com/deneyapkart/deneyap-6-eksen-ataletsel-olcum-birimi-arduino-library
 https://github.com/deneyapkart/deneyap-cift-kanalli-cizgi-algilayici-arduino-library
 https://github.com/deneyapkart/deneyap-duman-dedektoru-arduino-library
