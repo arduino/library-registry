@@ -5698,3 +5698,4 @@ https://github.com/gobbolab/room-weather.git|Contributed|Room Weather
 https://github.com/fredlarochelle/RunningStats.git|Contributed|RunningStats
 https://github.com/triqadafi/TQDF_WatchOS.git|Contributed|TQDF_WatchOS
 https://github.com/Justin-Pl/PCA9685_LED_DRIVER.git|Contributed|PCA9685_LED_DRIVER
+https://github.com/thingsboard/pubsubclient.git|Contributed|TBPubSubClient
