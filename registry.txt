@@ -5705,3 +5705,4 @@ https://github.com/SpaceTrekKSC/classbot2.git|Contributed|SpaceTrek_ClassBot2
 https://github.com/SpaceTrekKSC/BQ25887.git|Contributed|BQ25887
 https://github.com/fanfanlatulipe26/XGZP6897D.git|Contributed|XGZP6897D
 https://github.com/ExperimentalCyborg/PicoStep.git|Contributed|PicoStep
+https://github.com/Beirdo/Arduino-TCA9534.git|Contributed|TCA9534-GPIO
