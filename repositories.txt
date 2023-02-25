@@ -5603,3 +5603,4 @@ https://github.com/fredlarochelle/RunningStats
 https://github.com/triqadafi/TQDF_WatchOS
 https://github.com/Marthaarman/dmx-transceiver
 https://github.com/SpaceTrekKSC/classbot2
+https://github.com/SpaceTrekKSC/BQ25887
