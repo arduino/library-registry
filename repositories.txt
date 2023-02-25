@@ -5602,3 +5602,9 @@ https://github.com/gobbolab/room-weather
 https://github.com/fredlarochelle/RunningStats
 https://github.com/triqadafi/TQDF_WatchOS
 https://github.com/Marthaarman/dmx-transceiver
+<<<<<<< HEAD
+https://github.com/fanfanlatulipe26/XGZP6897D
+=======
+https://github.com/SpaceTrekKSC/classbot2
+https://github.com/SpaceTrekKSC/BQ25887
+>>>>>>> be3b44200b5d0e02a940a5726d73e58ed2fbb815
