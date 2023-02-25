@@ -5606,3 +5606,4 @@ https://github.com/SpaceTrekKSC/classbot2
 https://github.com/SpaceTrekKSC/BQ25887
 https://github.com/fanfanlatulipe26/XGZP6897D
 https://github.com/ExperimentalCyborg/PicoStep
+https://github.com/Beirdo/Arduino-TCA9534
