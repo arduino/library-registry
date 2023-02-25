@@ -5700,3 +5700,4 @@ https://github.com/thingsboard/pubsubclient.git|Contributed|TBPubSubClient
 https://github.com/congtrol/remote-signal-arduino.git|Contributed|RemoteSignal
 https://github.com/mogel77/Jobber.git|Contributed|Jobber
 https://github.com/btomaev/Segma.git|Contributed|Segma
+https://github.com/Marthaarman/dmx-transceiver.git|Contributed|DMX Serial Transceiver
