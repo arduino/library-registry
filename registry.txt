@@ -5702,3 +5702,4 @@ https://github.com/mogel77/Jobber.git|Contributed|Jobber
 https://github.com/btomaev/Segma.git|Contributed|Segma
 https://github.com/Marthaarman/dmx-transceiver.git|Contributed|DMX Serial Transceiver
 https://github.com/SpaceTrekKSC/classbot2.git|Contributed|SpaceTrek_ClassBot2
+https://github.com/SpaceTrekKSC/BQ25887.git|Contributed|BQ25887
