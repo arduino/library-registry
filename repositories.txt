@@ -5609,3 +5609,4 @@ https://github.com/fanfanlatulipe26/XGZP6897D
 https://github.com/ExperimentalCyborg/PicoStep
 https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/Augmented-Robotics/roboheart-arduino-library
+https://github.com/tanakamasayuki/EspEasyUtils
