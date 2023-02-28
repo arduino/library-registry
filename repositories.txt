@@ -4253,6 +4253,7 @@ https://github.com/stm32duino/VL53L0X
 https://github.com/stm32duino/VL53L1
 https://github.com/stm32duino/VL53L1X
 https://github.com/stm32duino/VL53L3CX
+https://github.com/stm32duino/VL53L7CX
 https://github.com/stm32duino/VL6180
 https://github.com/stm32duino/VL6180X
 https://github.com/stm32duino/WiFi-ISM43362-M3G-L44
