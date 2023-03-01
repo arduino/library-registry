@@ -5710,3 +5710,4 @@ https://github.com/drf5n/Arduino-PID-Library.git|Contributed|PID_v1_bc
 https://github.com/Augmented-Robotics/roboheart-arduino-library.git|Contributed|RoboHeart
 https://github.com/tanakamasayuki/EspEasyUtils.git|Contributed|EspEasyUtils
 https://github.com/stm32duino/VL53L7CX.git|Contributed|STM32duino VL53L7CX
+https://github.com/arduino-libraries/Arduino_AdvancedAnalog.git|Arduino|Arduino_AdvancedAnalog
