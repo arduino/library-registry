@@ -4261,6 +4261,7 @@ https://github.com/stm32duino/X-NUCLEO-53L0A1
 https://github.com/stm32duino/X-NUCLEO-53L1A1
 https://github.com/stm32duino/X-NUCLEO-53L1A2
 https://github.com/stm32duino/X-NUCLEO-53L3A2
+https://github.com/stm32duino/X-NUCLEO-53L7A1
 https://github.com/stm32duino/X-NUCLEO-6180A1
 https://github.com/stm32duino/X-NUCLEO-6180XA1
 https://github.com/stm32duino/X-NUCLEO-GNSS1A1
