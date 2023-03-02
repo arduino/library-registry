@@ -2270,6 +2270,7 @@ https://github.com/JoeyStrandnes/Arduino-Toggl-API
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver
 https://github.com/johnnyb/Eventually
 https://github.com/johnnyb/Shifty
+https://github.com/matthewturner/Eventually
 https://github.com/matthewturner/EventuallyStateMachine
 https://github.com/matthewturner/EventuallyCommand
 https://github.com/Jomelo/LCDMenuLib
