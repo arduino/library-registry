@@ -5718,3 +5718,4 @@ https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino.git|Contributed|Simple
 https://github.com/NachtRaveVL/Simple-SolarTracker-Arduino.git|Contributed|Simple-SolarTracker-Arduino
 https://github.com/awootton/mqtt5nano.git|Contributed|mqtt5nano
 https://github.com/matthewturner/Eventually.git|Contributed|Eventually2
+https://github.com/schlarmann/esp8266channel3lib.git|Contributed|esp8266channel3lib
