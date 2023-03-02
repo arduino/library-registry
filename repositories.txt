@@ -5619,3 +5619,4 @@ https://github.com/tanakamasayuki/EspEasyUtils
 https://github.com/arduino-libraries/Arduino_AdvancedAnalog
 https://github.com/virtual-maker/MaterialBoard
 https://github.com/awootton/mqtt5nano
+https://github.com/schlarmann/esp8266channel3lib
