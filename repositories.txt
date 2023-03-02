@@ -2934,6 +2934,8 @@ https://github.com/n0m1/Sleep_n0m1
 https://github.com/NachtRaveVL/BY8X01-16P-Arduino
 https://github.com/NachtRaveVL/Lepton-FLiR-Arduino
 https://github.com/NachtRaveVL/PCA9685-Arduino
+https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino
+https://github.com/NachtRaveVL/Simple-SolarTracker-Arduino
 https://github.com/NADA-ELECTRONICS/AS-289R2
 https://github.com/nadavmatalon/ADS1110
 https://github.com/nadavmatalon/MCP3221
