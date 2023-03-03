@@ -5719,3 +5719,4 @@ https://github.com/NachtRaveVL/Simple-SolarTracker-Arduino.git|Contributed|Simpl
 https://github.com/awootton/mqtt5nano.git|Contributed|mqtt5nano
 https://github.com/matthewturner/Eventually.git|Contributed|Eventually2
 https://github.com/schlarmann/esp8266channel3lib.git|Contributed|esp8266channel3lib
+https://github.com/ochiengotieno304/africastalking-esp8266.git|Contributed|AfricasTalking
