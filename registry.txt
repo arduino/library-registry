@@ -5722,3 +5722,4 @@ https://github.com/schlarmann/esp8266channel3lib.git|Contributed|esp8266channel3
 https://github.com/ochiengotieno304/africastalking-esp8266.git|Contributed|AfricasTalking
 https://github.com/scottchiefbaker/ESP-WebOTA.git|Contributed|ESP32-OTA
 https://github.com/afpineda/MeanAndVarOnTheFly-Arduino.git|Contributed|MeanAndVarOnTheFly
+https://gitlab.com/yesbotics/libs/arduino/led.git|Contributed|Led
