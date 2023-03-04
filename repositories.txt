@@ -4729,6 +4729,7 @@ https://gitlab.com/yesbotics/libs/arduino/average-value
 https://gitlab.com/yesbotics/libs/arduino/interval-callback
 https://gitlab.com/yesbotics/libs/arduino/timeout-callback
 https://gitlab.com/yesbotics/libs/arduino/voltmeter
+https://gitlab.com/yesbotics/libs/arduino/led
 https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
 https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
