@@ -5622,3 +5622,4 @@ https://github.com/awootton/mqtt5nano
 https://github.com/schlarmann/esp8266channel3lib
 https://github.com/ochiengotieno304/africastalking-esp8266
 https://github.com/scottchiefbaker/ESP-WebOTA
+https://github.com/afpineda/MeanAndVarOnTheFly-Arduino
