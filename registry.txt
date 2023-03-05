@@ -5723,3 +5723,4 @@ https://github.com/ochiengotieno304/africastalking-esp8266.git|Contributed|Afric
 https://github.com/scottchiefbaker/ESP-WebOTA.git|Contributed|ESP32-OTA
 https://github.com/afpineda/MeanAndVarOnTheFly-Arduino.git|Contributed|MeanAndVarOnTheFly
 https://gitlab.com/yesbotics/libs/arduino/led.git|Contributed|Led
+https://github.com/Duckle29/HUSB238.git|Contributed|HUSB238
