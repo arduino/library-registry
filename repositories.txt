@@ -1,3 +1,4 @@
+https://github.com/PowerBroker2/UM7
 https://github.com/btomaev/Segma
 https://github.com/mogel77/Jobber
 https://github.com/congtrol/remote-signal-arduino
@@ -2269,6 +2270,7 @@ https://github.com/JoeyStrandnes/Arduino-Toggl-API
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver
 https://github.com/johnnyb/Eventually
 https://github.com/johnnyb/Shifty
+https://github.com/matthewturner/Eventually
 https://github.com/matthewturner/EventuallyStateMachine
 https://github.com/matthewturner/EventuallyCommand
 https://github.com/Jomelo/LCDMenuLib
@@ -2933,6 +2935,8 @@ https://github.com/n0m1/Sleep_n0m1
 https://github.com/NachtRaveVL/BY8X01-16P-Arduino
 https://github.com/NachtRaveVL/Lepton-FLiR-Arduino
 https://github.com/NachtRaveVL/PCA9685-Arduino
+https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino
+https://github.com/NachtRaveVL/Simple-SolarTracker-Arduino
 https://github.com/NADA-ELECTRONICS/AS-289R2
 https://github.com/nadavmatalon/ADS1110
 https://github.com/nadavmatalon/MCP3221
@@ -4261,6 +4265,7 @@ https://github.com/stm32duino/X-NUCLEO-53L0A1
 https://github.com/stm32duino/X-NUCLEO-53L1A1
 https://github.com/stm32duino/X-NUCLEO-53L1A2
 https://github.com/stm32duino/X-NUCLEO-53L3A2
+https://github.com/stm32duino/X-NUCLEO-53L7A1
 https://github.com/stm32duino/X-NUCLEO-6180A1
 https://github.com/stm32duino/X-NUCLEO-6180XA1
 https://github.com/stm32duino/X-NUCLEO-GNSS1A1
@@ -4724,6 +4729,7 @@ https://gitlab.com/yesbotics/libs/arduino/average-value
 https://gitlab.com/yesbotics/libs/arduino/interval-callback
 https://gitlab.com/yesbotics/libs/arduino/timeout-callback
 https://gitlab.com/yesbotics/libs/arduino/voltmeter
+https://gitlab.com/yesbotics/libs/arduino/led
 https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
 https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
@@ -5092,6 +5098,7 @@ https://github.com/fellipecouto/PWMOutESP32
 https://github.com/fellipecouto/ShiftOutMega
 https://github.com/fellipecouto/MemoryLib.h
 https://github.com/MicroBeaut/MicroBeaut
+https://github.com/MicroBeaut/MicroBeaut-RepeatButton
 https://github.com/fellipecouto/MillisTimerLib
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/akkoyun/Console
@@ -5612,3 +5619,11 @@ https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/Augmented-Robotics/roboheart-arduino-library
 https://github.com/tanakamasayuki/EspEasyUtils
 https://github.com/deneyapkart/deneyap-arduino-projeleri
+https://github.com/arduino-libraries/Arduino_AdvancedAnalog
+https://github.com/virtual-maker/MaterialBoard
+https://github.com/awootton/mqtt5nano
+https://github.com/schlarmann/esp8266channel3lib
+https://github.com/ochiengotieno304/africastalking-esp8266
+https://github.com/scottchiefbaker/ESP-WebOTA
+https://github.com/afpineda/MeanAndVarOnTheFly-Arduino
+https://github.com/Duckle29/HUSB238
