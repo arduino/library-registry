@@ -5725,3 +5725,4 @@ https://github.com/afpineda/MeanAndVarOnTheFly-Arduino.git|Contributed|MeanAndVa
 https://gitlab.com/yesbotics/libs/arduino/led.git|Contributed|Led
 https://github.com/Duckle29/HUSB238.git|Contributed|HUSB238
 https://github.com/MicroBeaut/MicroBeaut-RepeatButton.git|Contributed|RepeatButton
+https://github.com/deneyapkart/deneyap-arduino-projeleri.git|Contributed|Deneyap Arduino Projeleri
