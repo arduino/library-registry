@@ -5731,3 +5731,4 @@ https://github.com/galjonsfigur/PD243x-DotMatrixDisplay.git|Contributed|DotMatri
 https://github.com/MicroBeaut/MicroBeaut-TCone.git|Contributed|TCone
 https://github.com/Flinduino/Flinders_ENGR2781.git|Contributed|Flinders_ENGR2781
 https://github.com/acksen/AcksenPump.git|Contributed|AcksenPump
+https://github.com/0015/ChatGPT_Client_For_Arduino.git|Contributed|ChatGPT_Client
