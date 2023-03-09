@@ -1,5 +1,5 @@
 https://github.com/0015/ChatGPT_Client_For_Arduino
-https://github.com/facchinm/USBHostMbed5
+https://github.com/arduino-libraries/Arduino_USBHostMbed5
 https://github.com/PowerBroker2/UM7
 https://github.com/btomaev/Segma
 https://github.com/mogel77/Jobber
