@@ -5636,3 +5636,6 @@ https://github.com/acksen/AcksenPump
 https://github.com/toannv17/DHT-Sensors-Non-Blocking
 https://github.com/arduino-libraries/AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC
+https://github.com/acksen/AcksenButton
+https://github.com/acksen/AcksenIntEEPROM
+https://github.com/acksen/AcksenUtils
