@@ -5726,7 +5726,7 @@ https://gitlab.com/yesbotics/libs/arduino/led.git|Contributed|Led
 https://github.com/Duckle29/HUSB238.git|Contributed|HUSB238
 https://github.com/MicroBeaut/MicroBeaut-RepeatButton.git|Contributed|RepeatButton
 https://github.com/deneyapkart/deneyap-arduino-projeleri.git|Contributed|Deneyap Arduino Projeleri
-https://github.com/facchinm/USBHostMbed5.git|Contributed|USBHostMbed5
+https://github.com/facchinm/USBHostMbed5.git|Contributed|Arduino_USBHostMbed5
 https://github.com/galjonsfigur/PD243x-DotMatrixDisplay.git|Contributed|DotMatrixDisplay
 https://github.com/MicroBeaut/MicroBeaut-TCone.git|Contributed|TCone
 https://github.com/Flinduino/Flinders_ENGR2781.git|Contributed|Flinders_ENGR2781
