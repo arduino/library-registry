@@ -5739,3 +5739,4 @@ https://github.com/acksen/AcksenButton.git|Contributed|AcksenButton
 https://github.com/acksen/AcksenIntEEPROM.git|Contributed|AcksenIntEEPROM
 https://github.com/acksen/AcksenUtils.git|Contributed|AcksenUtils
 https://github.com/danny270793/ArduinoShiftRegister.git|Contributed|ShiftRegister
+https://github.com/adafruit/PicoDVI.git|Recommended|PicoDVI - Adafruit Fork
