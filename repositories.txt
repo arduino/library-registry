@@ -5634,3 +5634,4 @@ https://github.com/galjonsfigur/PD243x-DotMatrixDisplay
 https://github.com/Flinduino/Flinders_ENGR2781
 https://github.com/acksen/AcksenPump
 https://github.com/toannv17/DHT-Sensors-Non-Blocking
+https://github.com/arduino-libraries/AlPlc_Opta
