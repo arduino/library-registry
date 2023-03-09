@@ -5735,3 +5735,6 @@ https://github.com/0015/ChatGPT_Client_For_Arduino.git|Contributed|ChatGPT_Clien
 https://github.com/toannv17/DHT-Sensors-Non-Blocking.git|Contributed|DHT Sensors Non-Blocking
 https://github.com/arduino-libraries/AlPlc_Opta.git|Arduino|AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC.git|Arduino|AlPlc_PMC
+https://github.com/acksen/AcksenButton.git|Contributed|AcksenButton
+https://github.com/acksen/AcksenIntEEPROM.git|Contributed|AcksenIntEEPROM
+https://github.com/acksen/AcksenUtils.git|Contributed|AcksenUtils
