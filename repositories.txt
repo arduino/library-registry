@@ -2,8 +2,8 @@ https://github.com/0015/ChatGPT_Client_For_Arduino
 https://github.com/facchinm/USBHostMbed5
 https://github.com/Foxdogface/arduino-VEML6070
 https://github.com/PowerBroker2/UM7
-https://github.com/btomaev/Segma
 https://github.com/mogel77/Jobber
+https://github.com/btomaev/Segma
 https://github.com/congtrol/remote-signal-arduino
 https://github.com/Justin-Pl/PCA9685_LED_DRIVER
 https://github.com/marcinsaj/FlipDisc
