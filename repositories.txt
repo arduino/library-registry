@@ -5642,4 +5642,5 @@ https://github.com/acksen/AcksenIntEEPROM
 https://github.com/acksen/AcksenUtils
 https://github.com/danny270793/ArduinoShiftRegister
 https://github.com/adafruit/PicoDVI
+https://github.com/ripred/fANSI
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
