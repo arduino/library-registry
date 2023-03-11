@@ -3591,6 +3591,7 @@ https://github.com/RobTillaart/Histogram
 https://github.com/RobTillaart/HMC6352
 https://github.com/RobTillaart/HT16K33
 https://github.com/RobTillaart/HX711
+https://github.com/RobTillaart/HX711_MP
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
