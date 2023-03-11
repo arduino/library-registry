@@ -5743,3 +5743,4 @@ https://github.com/adafruit/PicoDVI.git|Recommended|PicoDVI - Adafruit Fork
 https://github.com/Foxdogface/arduino-VEML6070.git|Contributed|VEML6070
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog.git|Contributed|SimpleSyslog
 https://github.com/ripred/fANSI.git|Contributed|fANSI
+https://github.com/RobTillaart/HX711_MP.git|Contributed|HX711_MP
