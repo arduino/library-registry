@@ -1,3 +1,4 @@
+https://github.com/Bexin3/GigaScope
 https://github.com/Bexin3/STMSpeeduino
 https://github.com/0015/ChatGPT_Client_For_Arduino
 https://github.com/facchinm/USBHostMbed5
