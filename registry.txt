@@ -5745,3 +5745,4 @@ https://github.com/scottchiefbaker/Arduino-SimpleSyslog.git|Contributed|SimpleSy
 https://github.com/ripred/fANSI.git|Contributed|fANSI
 https://github.com/RobTillaart/HX711_MP.git|Contributed|HX711_MP
 https://github.com/Bexin3/STMSpeeduino.git|Contributed|STMSpeeduino
+https://github.com/Bexin3/GigaScope.git|Contributed|GigaScope
