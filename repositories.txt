@@ -5647,3 +5647,4 @@ https://github.com/danny270793/ArduinoShiftRegister
 https://github.com/adafruit/PicoDVI
 https://github.com/ripred/fANSI
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
+https://github.com/leftCoast/LC_slowServo
