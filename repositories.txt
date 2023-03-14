@@ -5652,3 +5652,4 @@ https://github.com/scottchiefbaker/Arduino-SimpleSyslog
 https://github.com/leftCoast/LC_slowServo
 https://github.com/th-hock/EgoSmartHeaterRS485
 https://github.com/mustafakemalgilor/tdslite
+https://github.com/bitbank2/FT6236G
