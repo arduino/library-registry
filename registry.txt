@@ -5751,3 +5751,4 @@ https://github.com/m5stack/M5Unit-GLASS.git|Contributed|UNIT_GLASS
 https://github.com/mustafakemalgilor/tdslite.git|Contributed|tdslite
 https://github.com/th-hock/EgoSmartHeaterRS485.git|Contributed|EgoSmartHeaterRS485
 https://github.com/simplefoc/Arduino-FOC-dcmotor.git|Contributed|SimpleDCMotor
+https://github.com/bitbank2/FT6236G.git|Contributed|FT6236G
