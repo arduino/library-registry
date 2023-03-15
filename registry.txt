@@ -5752,3 +5752,4 @@ https://github.com/mustafakemalgilor/tdslite.git|Contributed|tdslite
 https://github.com/th-hock/EgoSmartHeaterRS485.git|Contributed|EgoSmartHeaterRS485
 https://github.com/simplefoc/Arduino-FOC-dcmotor.git|Contributed|SimpleDCMotor
 https://github.com/bitbank2/FT6236G.git|Contributed|FT6236G
+https://github.com/sstaub/AT24MAC402.git|Contributed|AT24MAC402
