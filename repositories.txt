@@ -1,5 +1,9 @@
+https://github.com/sstaub/AT24MAC402
+https://github.com/Bexin3/GigaScope
+https://github.com/Bexin3/STMSpeeduino
 https://github.com/0015/ChatGPT_Client_For_Arduino
 https://github.com/arduino-libraries/Arduino_USBHostMbed5
+https://github.com/Foxdogface/arduino-VEML6070
 https://github.com/PowerBroker2/UM7
 https://github.com/btomaev/Segma
 https://github.com/mogel77/Jobber
@@ -409,6 +413,7 @@ https://github.com/m5stack/M5AtomS3
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5GFX
 https://github.com/m5stack/M5Unified
+https://github.com/m5stack/M5Unit-GLASS
 https://github.com/m5stack/M5Unit-Encoder
 https://github.com/m5stack/M5Unit-Sonic
 https://github.com/m5stack/M5Unit-ACSSR
@@ -1098,6 +1103,7 @@ https://github.com/arsalmaner/Arduino-Libraries
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/askuric/Arduino-FOC
 https://github.com/simplefoc/Arduino-FOC-drivers
+https://github.com/simplefoc/Arduino-FOC-dcmotor
 https://github.com/aster94/GoProControl
 https://github.com/aster94/Keyword-Protocol-2000
 https://github.com/aster94/SensorFusion
@@ -3590,6 +3596,7 @@ https://github.com/RobTillaart/Histogram
 https://github.com/RobTillaart/HMC6352
 https://github.com/RobTillaart/HT16K33
 https://github.com/RobTillaart/HX711
+https://github.com/RobTillaart/HX711_MP
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
@@ -5636,3 +5643,14 @@ https://github.com/acksen/AcksenPump
 https://github.com/toannv17/DHT-Sensors-Non-Blocking
 https://github.com/arduino-libraries/AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC
+https://github.com/acksen/AcksenButton
+https://github.com/acksen/AcksenIntEEPROM
+https://github.com/acksen/AcksenUtils
+https://github.com/danny270793/ArduinoShiftRegister
+https://github.com/adafruit/PicoDVI
+https://github.com/ripred/fANSI
+https://github.com/scottchiefbaker/Arduino-SimpleSyslog
+https://github.com/leftCoast/LC_slowServo
+https://github.com/th-hock/EgoSmartHeaterRS485
+https://github.com/mustafakemalgilor/tdslite
+https://github.com/bitbank2/FT6236G
