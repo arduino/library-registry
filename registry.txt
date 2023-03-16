@@ -5755,3 +5755,4 @@ https://github.com/bitbank2/FT6236G.git|Contributed|FT6236G
 https://github.com/sstaub/AT24MAC402.git|Contributed|AT24MAC402
 https://github.com/asukiaaa/arduino-OrientalCommon.git|Contributed|OrientalCommon_asukiaaa
 https://github.com/bytebeamio/bytebeam-arduino-sdk.git|Contributed|BytebeamArduino
+https://github.com/WK-Software56/AdvKeyPad.git|Contributed|AdvKeyPad
