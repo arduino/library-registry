@@ -5757,3 +5757,4 @@ https://github.com/asukiaaa/arduino-OrientalCommon.git|Contributed|OrientalCommo
 https://github.com/bytebeamio/bytebeam-arduino-sdk.git|Contributed|BytebeamArduino
 https://github.com/WK-Software56/AdvKeyPad.git|Contributed|AdvKeyPad
 https://github.com/igor-krechetov/hsmcpp-arduinoide.git|Contributed|hsmcpp
+https://github.com/nullptr-deref/ms5540c-library.git|Contributed|ms5540c
