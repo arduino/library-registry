@@ -5759,3 +5759,4 @@ https://github.com/WK-Software56/AdvKeyPad.git|Contributed|AdvKeyPad
 https://github.com/igor-krechetov/hsmcpp-arduinoide.git|Contributed|hsmcpp
 https://github.com/nullptr-deref/ms5540c-library.git|Contributed|ms5540c
 https://github.com/malisipi/joystick_5pin.git|Contributed|Joystick 5-Pin
+https://github.com/TheAngryRaven/DovesLapTimer.git|Contributed|DovesLapTimer
