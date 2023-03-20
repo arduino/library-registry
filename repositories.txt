@@ -5660,3 +5660,4 @@ https://github.com/mustafakemalgilor/tdslite
 https://github.com/bitbank2/FT6236G
 https://github.com/bytebeamio/bytebeam-arduino-sdk
 https://github.com/WK-Software56/AdvKeyPad
+https://github.com/TheAngryRaven/DovesLapTimer
