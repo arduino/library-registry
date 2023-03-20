@@ -5761,3 +5761,4 @@ https://github.com/nullptr-deref/ms5540c-library.git|Contributed|ms5540c
 https://github.com/malisipi/joystick_5pin.git|Contributed|Joystick 5-Pin
 https://github.com/TheAngryRaven/DovesLapTimer.git|Contributed|DovesLapTimer
 https://github.com/Jakkapan-a/TcBUTTON.git|Contributed|TcBUTTON
+https://github.com/Jenifen/SerialSendBuffer.git|Contributed|SerialBuffSender
