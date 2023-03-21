@@ -5672,3 +5672,4 @@ https://github.com/epsilonrt/modbus-ethernet
 https://github.com/epsilonrt/modbus-ethercard
 https://github.com/epsilonrt/ad7124
 https://github.com/epsilonrt/spaiot-lib
+https://github.com/deneyapkart/deneyap-renk-donusturme-arduino-library
