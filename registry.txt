@@ -5763,3 +5763,11 @@ https://github.com/TheAngryRaven/DovesLapTimer.git|Contributed|DovesLapTimer
 https://github.com/Jakkapan-a/TcBUTTON.git|Contributed|TcBUTTON
 https://github.com/Jenifen/SerialSendBuffer.git|Contributed|SerialBuffSender
 https://github.com/RecursiveError/omnicrystal.git|Contributed|omnicrystal
+https://github.com/epsilonrt/eFlexPwm.git|Contributed|eFlexPwm
+https://github.com/epsilonrt/modbus-arduino.git|Contributed|Modbus-Arduino
+https://github.com/epsilonrt/modbus-serial.git|Contributed|Modbus-Serial
+https://github.com/epsilonrt/modbus-esp8266at.git|Contributed|Modbus-Esp8266AT
+https://github.com/epsilonrt/modbus-ethernet.git|Contributed|Modbus-Ethernet
+https://github.com/epsilonrt/modbus-ethercard.git|Contributed|Modbus-EtherCard
+https://github.com/epsilonrt/ad7124.git|Contributed|ad7124
+https://github.com/epsilonrt/spaiot-lib.git|Contributed|spaiot-lib
