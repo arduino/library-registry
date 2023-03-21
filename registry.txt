@@ -5771,3 +5771,4 @@ https://github.com/epsilonrt/modbus-ethernet.git|Contributed|Modbus-Ethernet
 https://github.com/epsilonrt/modbus-ethercard.git|Contributed|Modbus-EtherCard
 https://github.com/epsilonrt/ad7124.git|Contributed|ad7124
 https://github.com/epsilonrt/spaiot-lib.git|Contributed|spaiot-lib
+https://github.com/deneyapkart/deneyap-renk-donusturme-arduino-library.git|Contributed|Deneyap Renk Donusturme
