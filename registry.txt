@@ -5775,3 +5775,4 @@ https://github.com/deneyapkart/deneyap-renk-donusturme-arduino-library.git|Contr
 https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library.git|Contributed|Sequent Home Automation HAT
 https://github.com/SequentMicrosystems/Sequent-LCD-Adapter-Library.git|Contributed|SM_LCDAdapter
 https://github.com/sensorium/Mozzi.git|Contributed|Mozzi
+https://github.com/MyIoT-space/myiotlibrary.git|Contributed|MyIoT library
