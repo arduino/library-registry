@@ -286,6 +286,7 @@ https://github.com/DFRobot/DFRobot_DHT20
 https://github.com/DFRobot/DFRobot_RTU
 https://github.com/DFRobot/DFRobot_B_LUX_V30B
 https://github.com/DFRobot/DFRobot_SGP40
+https://github.com/MyIoT-space/myiotlibrary
 https://github.com/DFRobot/DFRobot_TCS3430
 https://github.com/DFRobot/DFRobot_VL6180X
 https://github.com/DFRobot/DFRobot_RGBLCD1602
