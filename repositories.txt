@@ -5675,3 +5675,4 @@ https://github.com/epsilonrt/spaiot-lib
 https://github.com/deneyapkart/deneyap-renk-donusturme-arduino-library
 https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library
 https://github.com/SequentMicrosystems/Sequent-LCD-Adapter-Library
+https://github.com/sensorium/Mozzi
