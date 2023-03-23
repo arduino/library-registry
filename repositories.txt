@@ -2,7 +2,6 @@ https://github.com/Jenifen/SerialSendBuffer
 https://github.com/nullptr-deref/ms5540c-library
 https://github.com/igor-krechetov/hsmcpp-arduinoide
 https://github.com/sstaub/AT24MAC402
-https://github.com/MyIoT-space/myiotlibrary/
 https://github.com/Bexin3/GigaScope
 https://github.com/Bexin3/STMSpeeduino
 https://github.com/0015/ChatGPT_Client_For_Arduino
