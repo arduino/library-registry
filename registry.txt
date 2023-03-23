@@ -5777,3 +5777,4 @@ https://github.com/SequentMicrosystems/Sequent-LCD-Adapter-Library.git|Contribut
 https://github.com/sensorium/Mozzi.git|Contributed|Mozzi
 https://github.com/MyIoT-space/myiotlibrary.git|Contributed|MyIoT library
 https://github.com/107-systems/107-Arduino-24LCxx.git|Contributed|107-Arduino-24LCxx
+https://github.com/107-systems/107-Arduino-littlefs.git|Contributed|107-Arduino-littlefs
