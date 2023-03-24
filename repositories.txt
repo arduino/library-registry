@@ -5681,3 +5681,4 @@ https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library
 https://github.com/SequentMicrosystems/Sequent-LCD-Adapter-Library
 https://github.com/sensorium/Mozzi
 https://github.com/Teknikio/Teknikio_Bluebird_Arduino
+https://github.com/Nickjgniklu/ESPMagicHome
