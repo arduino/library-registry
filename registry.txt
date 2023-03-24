@@ -5781,3 +5781,4 @@ https://github.com/107-systems/107-Arduino-littlefs.git|Contributed|107-Arduino-
 https://github.com/Teknikio/Teknikio_Bluebird_Arduino.git|Contributed|Bluebird
 https://github.com/DFRobot/DFRobot_DF2301Q.git|Contributed|DFRobot_DF2301Q
 https://github.com/Nickjgniklu/ESPMagicHome.git|Contributed|MagicHome
+https://github.com/NanitRobot/NanitLib.git|Contributed|NanitLib
