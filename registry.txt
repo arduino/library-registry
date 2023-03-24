@@ -5784,3 +5784,4 @@ https://github.com/Nickjgniklu/ESPMagicHome.git|Contributed|MagicHome
 https://github.com/NanitRobot/NanitLib.git|Contributed|NanitLib
 https://github.com/RobTillaart/SHT31_SW.git|Contributed|SHT31_SW
 https://github.com/eccentricOrange/DDBot.git|Contributed|DDBot
+https://github.com/Nickjgniklu/em4095.git|Contributed|em4095
