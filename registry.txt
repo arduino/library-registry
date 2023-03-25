@@ -5786,3 +5786,4 @@ https://github.com/RobTillaart/SHT31_SW.git|Contributed|SHT31_SW
 https://github.com/eccentricOrange/DDBot.git|Contributed|DDBot
 https://github.com/Nickjgniklu/em4095.git|Contributed|em4095
 https://github.com/MRROBO28/GSheet32.git|Contributed|GSheet32
+https://github.com/lucasdietrich/AVRTOS.git|Contributed|avrtos
