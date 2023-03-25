@@ -1069,6 +1069,7 @@ https://github.com/Naguissa/uRTCLib
 https://github.com/Naguissa/uSevenSegmentLib
 https://github.com/Naguissa/uTimerLib
 https://github.com/Naguissa/uUnixDate
+https://github.com/NanitRobot/NanitLib
 https://github.com/Nargott/birdhouse_sdk
 https://github.com/Narwhalsss360/NColor
 https://github.com/Narwhalsss360/NDefs
@@ -1087,6 +1088,8 @@ https://github.com/Neosegment/Arduino
 https://github.com/NewhavenDisplay/NHD-Character-LCD-Library
 https://github.com/NicholasBerryman/GenericMotorDriver
 https://github.com/NicholasBerryman/USBControllerLib
+https://github.com/Nickjgniklu/ESPMagicHome
+https://github.com/Nickjgniklu/em4095
 https://github.com/NickvanTholen/Youless-Arduino-lib
 https://github.com/NickvanTholen/pca9634-lib
 https://github.com/NicoHood/AnalogTouch
@@ -1544,6 +1547,7 @@ https://github.com/RobTillaart/SGP30
 https://github.com/RobTillaart/SHEX
 https://github.com/RobTillaart/SHT2x
 https://github.com/RobTillaart/SHT31
+https://github.com/RobTillaart/SHT31_SW
 https://github.com/RobTillaart/SHT85
 https://github.com/RobTillaart/SIMON
 https://github.com/RobTillaart/SRF05
@@ -3177,6 +3181,7 @@ https://github.com/eagleSIA/eBoard
 https://github.com/earlephilhower/ESP8266Audio
 https://github.com/earthtown/8_digit_vfd
 https://github.com/ecal-mid/ESP32Servo360
+https://github.com/eccentricOrange/DDBot
 https://github.com/eccnil/ESPNow2Mqtt
 https://github.com/edge-ml/EdgeML-Arduino
 https://github.com/edge-ml/edge-fel-lib
