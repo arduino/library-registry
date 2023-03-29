@@ -5425,7 +5425,7 @@ https://github.com/Adish0016/dht11esp8266examples.git|Contributed|dht11esp8266ex
 https://github.com/Adish0016/servodht11.git|Contributed|servodht11
 https://github.com/Adish0016/DHT118266.git|Contributed|DHT118266
 https://github.com/eloquentarduino/EloquentEsp32cam.git|Contributed|EloquentEsp32cam
-https://github.com/Nilon123456789/Firmetix4Arduino.git|Contributed|Firmetix4Arduino
+https://github.com/Nilon123456789/Firmetix-Library.git|Contributed|Firmetix
 https://github.com/Adish0016/esp826611.git|Contributed|esp826611
 https://github.com/tobozo/WiFiManagerTz.git|Contributed|WiFiManagerTz
 https://github.com/npuckett/arduinoAnimation.git|Contributed|Animation Tools
