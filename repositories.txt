@@ -5688,3 +5688,4 @@ https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/MRROBO28/GSheet32
 https://github.com/lucasdietrich/AVRTOS
+https://github.com/EmotiBit/EmotiBit_ArduinoFilters
