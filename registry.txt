@@ -826,7 +826,7 @@ https://github.com/closedcube/ClosedCube_Si7051_Arduino.git|Contributed|ClosedCu
 https://github.com/closedcube/ClosedCube_HDC1010_Arduino.git|Contributed|ClosedCube HDC1010
 https://github.com/GadgetFactory/Gadget-Box.git|Contributed|GadgetBox
 https://github.com/daniel-centore/arduino-tone-library.git|Contributed|ToneLibrary
-https://github.com/RoanBrand/ArduinoSerialToTCPBridgeClient.git|Contributed|ArduinoSerialToTCPBridgeClient
+https://github.com/RoanBrand/ArduinoSerialToTCPBridgeClient.git|Contributed|TCP over Serial
 https://github.com/PRosenb/EEPROMWearLevel.git|Contributed|EEPROMWearLevel
 https://github.com/nadavmatalon/PCA9536.git|Contributed|PCA9536
 https://github.com/ESikich/RGBLEDBlender.git|Contributed|RGBLEDBlender
