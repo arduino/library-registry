@@ -1047,7 +1047,6 @@ https://github.com/MrYsLab/Telemetrix4Connect2040
 https://github.com/MrYsLab/Telemetrix4Esp32
 https://github.com/MrYsLab/Telemetrix4Esp8266
 https://github.com/MrYsLab/Telemetrix4RpiPicoW
-https://github.com/MyIoT-space/myiotlibrary/
 https://github.com/Mysues/ERO
 https://github.com/N-Magi/CliTerminal
 https://github.com/NADA-ELECTRONICS/AS-289R2
