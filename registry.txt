@@ -5787,3 +5787,4 @@ https://github.com/eccentricOrange/DDBot.git|Contributed|DDBot
 https://github.com/Nickjgniklu/em4095.git|Contributed|em4095
 https://github.com/MRROBO28/GSheet32.git|Contributed|GSheet32
 https://github.com/lucasdietrich/AVRTOS.git|Contributed|avrtos
+https://github.com/EmotiBit/EmotiBit_ArduinoFilters.git|Contributed|EmotiBit ArduinoFilters
