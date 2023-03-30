@@ -1635,6 +1635,7 @@ https://github.com/Rupakpoddar/ESP8266Webhook
 https://github.com/RyoKosaka/HelloDrum-arduino-Library
 https://github.com/SConaway/AVRUtils
 https://github.com/SF433/ILIB
+https://github.com/sfeister/scpi-parser-arduino
 https://github.com/SMFSW/CaptureTimer
 https://github.com/SMFSW/Queue
 https://github.com/SMFSW/SeqButton
