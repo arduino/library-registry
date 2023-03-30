@@ -1858,6 +1858,8 @@ https://github.com/Starmbi/hp_BH1750
 https://github.com/StarsoftAnalysis/ESP8266RTTTLPlus
 https://github.com/SteveBenz/PS2KeyboardHost
 https://github.com/SteveGdvs/MCP48xx
+https://github.com/Steven-GH/Xsens_MTi_I2C
+https://github.com/Steven-GH/Xsens_MTi_SPI
 https://github.com/Strabox/Easyuino
 https://github.com/StrathbogieBrewing/AceMenu
 https://github.com/StrathbogieBrewing/TinBus.git
