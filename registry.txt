@@ -5789,3 +5789,5 @@ https://github.com/lucasdietrich/AVRTOS.git|Contributed|avrtos
 https://github.com/EmotiBit/EmotiBit_ArduinoFilters.git|Contributed|EmotiBit ArduinoFilters
 https://github.com/teddokano/I2C_device_Arduino.git|Contributed|I2C_device_Arduino
 https://github.com/teddokano/TempSensor_NXP_Arduino.git|Contributed|TempSensors_NXP_Arduino
+https://github.com/Steven-GH/Xsens_MTi_I2C.git|Contributed|Xsens_MTi_I2C
+https://github.com/Steven-GH/Xsens_MTi_SPI.git|Contributed|Xsens_MTi_SPI
