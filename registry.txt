@@ -5793,3 +5793,4 @@ https://github.com/Steven-GH/Xsens_MTi_I2C.git|Contributed|Xsens_MTi_I2C
 https://github.com/Steven-GH/Xsens_MTi_SPI.git|Contributed|Xsens_MTi_SPI
 https://github.com/sfeister/scpi-parser-arduino.git|Contributed|SCPI_Parser
 https://github.com/jnthas/Improv-WiFi-Library.git|Contributed|Improv WiFi Library
+https://github.com/Tstoegi/MicroWakeupper.git|Contributed|MicroWakeupper Wemos D1 Mini Battery Shield
