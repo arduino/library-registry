@@ -1954,6 +1954,7 @@ https://github.com/TriadSemi/TS8000
 https://github.com/TridentTD/TridentTD_EasyFreeRTOS32
 https://github.com/TridentTD/TridentTD_LineNotify
 https://github.com/TridentTD/TridentTD_SimplePair
+https://github.com/Tstoegi/MicroWakeupper
 https://github.com/Tvde1/ConfigTool
 https://github.com/Tvde1/WiFiPicker
 https://github.com/UBTEDU/uKitExplore-library
