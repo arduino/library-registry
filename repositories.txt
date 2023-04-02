@@ -5698,3 +5698,4 @@ https://github.com/teddokano/I2C_device_Arduino
 https://github.com/teddokano/TempSensor_NXP_Arduino
 https://github.com/jnthas/Improv-WiFi-Library
 https://github.com/teddokano/LEDDriver_NXP_Arduino
+https://github.com/pablomarquez76/ESP8266SAM_ES
