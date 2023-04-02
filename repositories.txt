@@ -5366,6 +5366,7 @@ https://github.com/texie/TeXie_arduino
 https://github.com/tfeldmann/Arduino-Blinkenlight
 https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/tfeldmann/Arduino-Timeout
+https://github.com/tfry-git/EmbAJAX
 https://github.com/tgolla/EEPROMTyped
 https://github.com/tgolla/GCodeParser
 https://github.com/tgtakaoka/libasm
