@@ -5799,3 +5799,4 @@ https://github.com/teddokano/LEDDriver_NXP_Arduino.git|Contributed|LEDDrivers_NX
 https://github.com/lnbits/arduino-nostr.git|Contributed|Nostr
 https://github.com/pablomarquez76/ESP8266SAM_ES.git|Contributed|ESP8266SAM
 https://github.com/strid3r21/BeeDataLogger-Arduino-Helper.git|Contributed|BeeDataLogger
+https://github.com/stm32duino/X-NUCLEO-NFC07A1.git|Contributed|STM32duino X-NUCLEO-NFC07A1
