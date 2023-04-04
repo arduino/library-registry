@@ -5802,3 +5802,4 @@ https://github.com/strid3r21/BeeDataLogger-Arduino-Helper.git|Contributed|BeeDat
 https://github.com/stm32duino/X-NUCLEO-NFC07A1.git|Contributed|STM32duino X-NUCLEO-NFC07A1
 https://gitlab.com/riscv-vega/sensors-library/mlx90614_vega.git|Contributed|MLX90614_VEGA
 https://github.com/marcobrianza/ClickButton.git|Contributed|ClickButton
+https://github.com/tfry-git/EmbAJAX.git|Contributed|EmbAJAX
