@@ -1,3 +1,7 @@
+https://github.com/tony-bringardner/NetworkMonitor
+https://github.com/marcobrianza/ClickButton
+https://github.com/lnbits/arduino-nostr/
+https://github.com/melopero/Melopero_Cookie_RP2040_Arduino_Library
 https://bitbucket.org/amotzek/cooperative-multitasking
 https://bitbucket.org/amotzek/mqtt-client
 https://bitbucket.org/christandlg/as3935mi
@@ -1635,6 +1639,7 @@ https://github.com/Rupakpoddar/ESP8266Webhook
 https://github.com/RyoKosaka/HelloDrum-arduino-Library
 https://github.com/SConaway/AVRUtils
 https://github.com/SF433/ILIB
+https://github.com/sfeister/scpi-parser-arduino
 https://github.com/SMFSW/CaptureTimer
 https://github.com/SMFSW/Queue
 https://github.com/SMFSW/SeqButton
@@ -1858,6 +1863,8 @@ https://github.com/Starmbi/hp_BH1750
 https://github.com/StarsoftAnalysis/ESP8266RTTTLPlus
 https://github.com/SteveBenz/PS2KeyboardHost
 https://github.com/SteveGdvs/MCP48xx
+https://github.com/Steven-GH/Xsens_MTi_I2C
+https://github.com/Steven-GH/Xsens_MTi_SPI
 https://github.com/Strabox/Easyuino
 https://github.com/StrathbogieBrewing/AceMenu
 https://github.com/StrathbogieBrewing/TinBus.git
@@ -1951,6 +1958,7 @@ https://github.com/TriadSemi/TS8000
 https://github.com/TridentTD/TridentTD_EasyFreeRTOS32
 https://github.com/TridentTD/TridentTD_LineNotify
 https://github.com/TridentTD/TridentTD_SimplePair
+https://github.com/Tstoegi/MicroWakeupper
 https://github.com/Tvde1/ConfigTool
 https://github.com/Tvde1/WiFiPicker
 https://github.com/UBTEDU/uKitExplore-library
@@ -5360,6 +5368,7 @@ https://github.com/texie/TeXie_arduino
 https://github.com/tfeldmann/Arduino-Blinkenlight
 https://github.com/tfeldmann/Arduino-SchmittTrigger
 https://github.com/tfeldmann/Arduino-Timeout
+https://github.com/tfry-git/EmbAJAX
 https://github.com/tgolla/EEPROMTyped
 https://github.com/tgolla/GCodeParser
 https://github.com/tgtakaoka/libasm
@@ -5690,3 +5699,9 @@ https://github.com/lucasdietrich/AVRTOS
 https://github.com/EmotiBit/EmotiBit_ArduinoFilters
 https://github.com/teddokano/I2C_device_Arduino
 https://github.com/teddokano/TempSensor_NXP_Arduino
+https://github.com/jnthas/Improv-WiFi-Library
+https://github.com/teddokano/LEDDriver_NXP_Arduino
+https://github.com/pablomarquez76/ESP8266SAM_ES
+https://github.com/strid3r21/BeeDataLogger-Arduino-Helper
+https://github.com/stm32duino/X-NUCLEO-NFC07A1
+https://gitlab.com/riscv-vega/sensors-library/mlx90614_vega
