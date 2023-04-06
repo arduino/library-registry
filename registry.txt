@@ -5805,3 +5805,4 @@ https://github.com/marcobrianza/ClickButton.git|Contributed|ClickButton
 https://github.com/tfry-git/EmbAJAX.git|Contributed|EmbAJAX
 https://github.com/tony-bringardner/NetworkMonitor.git|Contributed|NetworkMonitor
 https://github.com/sparkfun/SparkFun_WebServer_ESP32_W5500.git|Contributed|SparkFun_WebServer_ESP32_W5500
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614.git|Contributed|VEGA_MLX90614
