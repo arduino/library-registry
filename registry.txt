@@ -5809,3 +5809,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614.git|Co
 https://github.com/gilman88/xmodem-lib.git|Contributed|XModem transfer library
 https://github.com/adafruit/Adafruit_CAN.git|Recommended|Adafruit CAN
 https://github.com/teddokano/RTC_NXP_Arduino.git|Contributed|RTC_NXP_Arduino
+https://github.com/honvl/Seeed-Xiao-NRF52840-Battery.git|Contributed|Xiao NRF52840 Battery
