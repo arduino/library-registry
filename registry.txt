@@ -5808,3 +5808,4 @@ https://github.com/sparkfun/SparkFun_WebServer_ESP32_W5500.git|Contributed|Spark
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614.git|Contributed|VEGA_MLX90614
 https://github.com/gilman88/xmodem-lib.git|Contributed|XModem transfer library
 https://github.com/adafruit/Adafruit_CAN.git|Recommended|Adafruit CAN
+https://github.com/teddokano/RTC_NXP_Arduino.git|Contributed|RTC_NXP_Arduino
