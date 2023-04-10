@@ -1,3 +1,5 @@
+https://github.com/Gfy63/NE555
+https://github.com/honvl/Seeed-Xiao-NRF52840-Battery
 https://github.com/tony-bringardner/NetworkMonitor
 https://github.com/marcobrianza/ClickButton
 https://github.com/lnbits/arduino-nostr/
@@ -5160,6 +5162,7 @@ https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library
 https://github.com/sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library
+https://github.com/sparkfun/SparkFun_WebServer_ESP32_W5500
 https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library
@@ -5705,3 +5708,7 @@ https://github.com/pablomarquez76/ESP8266SAM_ES
 https://github.com/strid3r21/BeeDataLogger-Arduino-Helper
 https://github.com/stm32duino/X-NUCLEO-NFC07A1
 https://gitlab.com/riscv-vega/sensors-library/mlx90614_vega
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614
+https://github.com/gilman88/xmodem-lib
+https://github.com/adafruit/Adafruit_CAN
+https://github.com/teddokano/RTC_NXP_Arduino
