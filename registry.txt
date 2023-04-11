@@ -5814,3 +5814,4 @@ https://github.com/Gfy63/NE555.git|Contributed|NE555
 https://github.com/jhagas/ESP32-Supabase.git|Contributed|Supabase ESP32 Library
 https://github.com/Dhanabhon/TomIBT2.git|Contributed|TomIBT2
 https://github.com/teddokano/LCDDriver_NXP_Arduino.git|Contributed|LCDDrivers_NXP_Arduino
+https://github.com/peanut-king-solution/PeanutKing_ArduinoShield.git|Contributed|PeanutKing ArduinoShield
