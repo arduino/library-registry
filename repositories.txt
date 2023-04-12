@@ -5710,7 +5710,6 @@ https://github.com/teddokano/LEDDriver_NXP_Arduino
 https://github.com/pablomarquez76/ESP8266SAM_ES
 https://github.com/strid3r21/BeeDataLogger-Arduino-Helper
 https://github.com/stm32duino/X-NUCLEO-NFC07A1
-https://gitlab.com/riscv-vega/sensors-library/mlx90614_vega
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614
 https://github.com/Dhanabhon/TomIBT2
 https://github.com/gilman88/xmodem-lib
