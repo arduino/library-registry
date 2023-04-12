@@ -5817,3 +5817,4 @@ https://github.com/teddokano/LCDDriver_NXP_Arduino.git|Contributed|LCDDrivers_NX
 https://github.com/peanut-king-solution/PeanutKing_ArduinoShield.git|Contributed|PeanutKing ArduinoShield
 https://github.com/dwinhmi/DWIN_DGUS_HMI.git|Contributed|DWIN_DGUS_HMI
 https://github.com/sheminasalam/Esp8266-Mqtt-Canary.git|Contributed|Esp8266-Mqtt-Canary
+https://github.com/Reefwing-Software/Reefwing-LSM9DS1.git|Contributed|ReefwingLSM9DS1
