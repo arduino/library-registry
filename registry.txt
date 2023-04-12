@@ -5800,7 +5800,6 @@ https://github.com/lnbits/arduino-nostr.git|Contributed|Nostr
 https://github.com/pablomarquez76/ESP8266SAM_ES.git|Contributed|ESP8266SAM
 https://github.com/strid3r21/BeeDataLogger-Arduino-Helper.git|Contributed|BeeDataLogger
 https://github.com/stm32duino/X-NUCLEO-NFC07A1.git|Contributed|STM32duino X-NUCLEO-NFC07A1
-https://gitlab.com/riscv-vega/sensors-library/mlx90614_vega.git|Contributed|MLX90614_VEGA
 https://github.com/marcobrianza/ClickButton.git|Contributed|ClickButton
 https://github.com/tfry-git/EmbAJAX.git|Contributed|EmbAJAX
 https://github.com/tony-bringardner/NetworkMonitor.git|Contributed|NetworkMonitor
