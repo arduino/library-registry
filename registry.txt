@@ -5819,3 +5819,4 @@ https://github.com/sheminasalam/Esp8266-Mqtt-Canary.git|Contributed|Esp8266-Mqtt
 https://github.com/Reefwing-Software/Reefwing-LSM9DS1.git|Contributed|ReefwingLSM9DS1
 https://github.com/laserir/NL2Client.git|Contributed|NL2Client
 https://github.com/Plefunga/AstroCalcs.git|Contributed|AstroCalcs
+https://github.com/zakarialaoui10/PowerMonitor.git|Contributed|PowerMonitor
