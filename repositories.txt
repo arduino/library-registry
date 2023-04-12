@@ -1,3 +1,7 @@
+https://github.com/Reefwing-Software/Reefwing-LSM9DS1
+https://github.com/sheminasalam/Esp8266-Mqtt-Canary
+https://github.com/Gfy63/NE555
+https://github.com/honvl/Seeed-Xiao-NRF52840-Battery
 https://github.com/tony-bringardner/NetworkMonitor
 https://github.com/marcobrianza/ClickButton
 https://github.com/lnbits/arduino-nostr/
@@ -9,6 +13,7 @@ https://bitbucket.org/christandlg/bmp180mi
 https://bitbucket.org/christandlg/bmx280mi
 https://bitbucket.org/christandlg/iaq-coremi
 https://bitbucket.org/christandlg/tsl2591mi
+https://github.com/dwinhmi/DWIN_DGUS_HMI
 https://bitbucket.org/geekfactory/gfbutton
 https://bitbucket.org/geekfactory/shell
 https://bitbucket.org/harmonicbionics/ease_arduinocode
@@ -5705,3 +5710,13 @@ https://github.com/teddokano/LEDDriver_NXP_Arduino
 https://github.com/pablomarquez76/ESP8266SAM_ES
 https://github.com/strid3r21/BeeDataLogger-Arduino-Helper
 https://github.com/stm32duino/X-NUCLEO-NFC07A1
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614
+https://github.com/Dhanabhon/TomIBT2
+https://github.com/gilman88/xmodem-lib
+https://github.com/adafruit/Adafruit_CAN
+https://github.com/teddokano/RTC_NXP_Arduino
+https://github.com/teddokano/LCDDriver_NXP_Arduino
+https://github.com/jhagas/ESP32-Supabase
+https://github.com/peanut-king-solution/PeanutKing_ArduinoShield
+https://github.com/laserir/NL2Client
+https://github.com/Plefunga/AstroCalcs
