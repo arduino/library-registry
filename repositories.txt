@@ -1,3 +1,4 @@
+https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
 https://github.com/Reefwing-Software/Reefwing-LSM9DS1
 https://github.com/sheminasalam/Esp8266-Mqtt-Canary
 https://github.com/Gfy63/NE555
