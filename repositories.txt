@@ -5719,3 +5719,4 @@ https://github.com/teddokano/RTC_NXP_Arduino
 https://github.com/teddokano/LCDDriver_NXP_Arduino
 https://github.com/jhagas/ESP32-Supabase
 https://github.com/peanut-king-solution/PeanutKing_ArduinoShield
+https://github.com/laserir/NL2Client
