@@ -1238,8 +1238,8 @@ https://github.com/Picovoice/porcupine-arduino-pl
 https://github.com/Picovoice/porcupine-arduino-pt
 https://github.com/Picovoice/porcupine-arduino-ru
 https://github.com/Picovoice/porcupine-arduino-sv
-https://github.com/Picovoice/porcupine-arduino-vn
 https://github.com/Picovoice/porcupine-arduino-zh
+https://github.com/Picovoice/porcupine-arduino-vn
 https://github.com/Pixelbo/Pelco_And_Arduino
 https://github.com/PlayingWithFusion/PWFusion_MAX31856
 https://github.com/PlayingWithFusion/PWFusion_MAX31865
