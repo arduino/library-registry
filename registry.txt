@@ -5845,3 +5845,4 @@ https://github.com/Picovoice/porcupine-arduino-sv.git|Contributed|Porcupine_SV
 https://github.com/Picovoice/porcupine-arduino-zh.git|Contributed|Porcupine_ZH
 https://github.com/Picovoice/porcupine-arduino-vn.git|Contributed|Porcupine_VN
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library.git|Contributed|CursedDoubleLinkedListInterface
+https://github.com/107-systems/107-Arduino-Cyphal-Support.git|Contributed|107-Arduino-Cyphal-Support
