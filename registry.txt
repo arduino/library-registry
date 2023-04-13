@@ -5849,3 +5849,4 @@ https://github.com/107-systems/107-Arduino-Cyphal-Support.git|Contributed|107-Ar
 https://github.com/fxprime/ModuleMoreSumoV2.git|Contributed|ModuleMore Sumo V2
 https://github.com/naiithink/musicians-mate.git|Contributed|MusiciansMate
 https://github.com/Kaist-ICLab/KAIST_IoTDataScience.git|Contributed|KAIST_IoTDataScience
+https://github.com/teddokano/GPIO_NXP_Arduino.git|Contributed|GPIO_NXP_Arduino
