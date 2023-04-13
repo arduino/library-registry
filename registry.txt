@@ -5844,3 +5844,4 @@ https://github.com/Picovoice/porcupine-arduino-ru.git|Contributed|Porcupine_RU
 https://github.com/Picovoice/porcupine-arduino-sv.git|Contributed|Porcupine_SV
 https://github.com/Picovoice/porcupine-arduino-zh.git|Contributed|Porcupine_ZH
 https://github.com/Picovoice/porcupine-arduino-vn.git|Contributed|Porcupine_VN
+https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library.git|Contributed|CursedDoubleLinkedListInterface
