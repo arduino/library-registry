@@ -4481,6 +4481,7 @@ https://github.com/nadavmatalon/MCP9802
 https://github.com/nadavmatalon/PCA9536
 https://github.com/nadavmatalon/PCA9536_RGB
 https://github.com/nadavmatalon/WatchDog
+https://github.com/naiithink/musicians-mate
 https://github.com/nailujx86/ESP8266_multipart
 https://github.com/narinaviation/iBotX
 https://github.com/naszly/Arduino-StaticSerialCommands
