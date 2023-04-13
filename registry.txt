@@ -5847,3 +5847,4 @@ https://github.com/Picovoice/porcupine-arduino-vn.git|Contributed|Porcupine_VN
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library.git|Contributed|CursedDoubleLinkedListInterface
 https://github.com/107-systems/107-Arduino-Cyphal-Support.git|Contributed|107-Arduino-Cyphal-Support
 https://github.com/fxprime/ModuleMoreSumoV2.git|Contributed|ModuleMore Sumo V2
+https://github.com/naiithink/musicians-mate.git|Contributed|MusiciansMate
