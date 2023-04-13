@@ -44,6 +44,7 @@ https://github.com/107-systems/107-Arduino-TMF8801
 https://github.com/107-systems/107-Arduino-TSL2550
 https://github.com/107-systems/107-Arduino-UniqueId
 https://github.com/107-systems/107-Arduino-littlefs
+https://github.com/107-systems/107-Arduino-Cyphal-Support
 https://github.com/Nilon123456789/Firmetix-Library
 https://github.com/1337encrypted/BTS7960_Motordriver
 https://github.com/1452206376/CH9328-Keyboard
