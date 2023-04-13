@@ -5747,3 +5747,4 @@ https://github.com/peanut-king-solution/PeanutKing_ArduinoShield
 https://github.com/laserir/NL2Client
 https://github.com/Plefunga/AstroCalcs
 https://github.com/zakarialaoui10/PowerMonitor
+https://github.com/fxprime/ModuleMoreSumoV2
