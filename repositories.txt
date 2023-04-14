@@ -1805,6 +1805,7 @@ https://github.com/Sensirion/arduino-sps
 https://github.com/Sensirion/arduino-uart-sen44
 https://github.com/Sensirion/arduino-uart-sfa3x
 https://github.com/Sensirion/arduino-uart-svm40
+https://github.com/Sensirion/upt-core
 https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library
 https://github.com/SequentMicrosystems/Sequent-LCD-Adapter-Library
 https://github.com/SergeSkor/SSVAnySensor
