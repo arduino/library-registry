@@ -1038,6 +1038,7 @@ https://github.com/MicroBahner/MobaTools
 https://github.com/MicroBeaut/MicroBeaut
 https://github.com/MicroBeaut/MicroBeaut-RepeatButton
 https://github.com/MicroBeaut/MicroBeaut-TCone
+https://github.com/MicroBeaut/Finite-State
 https://github.com/MicroGamerConsole/MicroGamer-Arduino
 https://github.com/Microbot-it/Microbot-Motor-Shield
 https://github.com/MiguelPynto/ShiftDisplay
