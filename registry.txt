@@ -5853,3 +5853,4 @@ https://github.com/teddokano/GPIO_NXP_Arduino.git|Contributed|GPIO_NXP_Arduino
 https://github.com/Sensirion/upt-core.git|Contributed|Sensirion_UPT_Core
 https://github.com/MicroBeaut/Finite-State.git|Contributed|Finite-State
 https://github.com/Nickjgniklu/ESP_TF.git|Contributed|ESP_TF
+https://github.com/mlesniew/PicoMQTT.git|Contributed|PicoMQTT
