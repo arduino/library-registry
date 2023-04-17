@@ -5854,3 +5854,4 @@ https://github.com/Sensirion/upt-core.git|Contributed|Sensirion_UPT_Core
 https://github.com/MicroBeaut/Finite-State.git|Contributed|Finite-State
 https://github.com/Nickjgniklu/ESP_TF.git|Contributed|ESP_TF
 https://github.com/mlesniew/PicoMQTT.git|Contributed|PicoMQTT
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30100.git|Contributed|VEGA_MAX30100
