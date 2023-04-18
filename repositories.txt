@@ -2805,6 +2805,7 @@ https://github.com/bmts/FMDataClient
 https://github.com/bobboteck/CWLibrary
 https://github.com/bobveringa/HSCDTD008A-Library
 https://github.com/bogde/HX711
+https://github.com/LuSeKa/HX711_light
 https://github.com/bolderflight/AMS5812
 https://github.com/bolderflight/AMS5915
 https://github.com/bolderflight/BME280
