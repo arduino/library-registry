@@ -1,3 +1,4 @@
+https://github.com/Stutchbury/EventAnalog
 https://github.com/Tobiyouth/WaterFlow.git
 https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library
