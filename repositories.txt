@@ -2222,6 +2222,7 @@ https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
 https://github.com/adafruit/Adafruit_IS31FL3741
 https://github.com/adafruit/Adafruit_ImageReader
+https://github.com/adafruit/Adafruit_IntelliKeys
 https://github.com/adafruit/Adafruit_InternalFlash
 https://github.com/adafruit/Adafruit_Keypad
 https://github.com/adafruit/Adafruit_L3GD20_U
