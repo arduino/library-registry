@@ -1,4 +1,3 @@
-https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LCD-library
 https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-Library
 https://github.com/Kaist-ICLab/KAIST_IoTDataScience
@@ -5760,3 +5759,5 @@ https://github.com/teddokano/GPIO_NXP_Arduino
 https://github.com/Nickjgniklu/ESP_TF
 https://github.com/mlesniew/PicoMQTT
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30100
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102
+
