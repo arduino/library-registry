@@ -5859,3 +5859,4 @@ https://github.com/LuSeKa/HX711_light.git|Contributed|HX711_light
 https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-Library.git|Contributed|Soldered Ultrasonic Distance Sensor library
 https://github.com/SolderedElectronics/Soldered-LCD-library.git|Contributed|Soldered LCD
 https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.git|Contributed|Soldered Obstacle Sensor
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102.git|Contributed|VEGA_MAX30102
