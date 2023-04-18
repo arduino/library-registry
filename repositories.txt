@@ -5760,5 +5760,6 @@ https://github.com/fxprime/ModuleMoreSumoV2
 https://github.com/teddokano/GPIO_NXP_Arduino
 https://github.com/Nickjgniklu/ESP_TF
 https://github.com/mlesniew/PicoMQTT
-https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30100
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30100
+
