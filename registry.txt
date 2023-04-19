@@ -5863,3 +5863,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102.git|Co
 https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|MCP23017 Soldered Library
 https://github.com/Tobiyouth/WaterFlow.git|Contributed|WaterFlow
 https://github.com/adafruit/Adafruit_IntelliKeys.git|Recommended|Adafruit IntelliKeys
+https://github.com/zakarialaoui10/ZikoMatrix.git|Contributed|ZikoMatrix
