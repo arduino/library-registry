@@ -5878,3 +5878,4 @@ https://github.com/SolderedElectronics/Soldered-BQ27441-Battery-Fuel-Gauge-Ardui
 https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library.git|Contributed|Soldered INA219 Board Arduino Library
 https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Library.git|Contributed|Soldered SIM800L Arduino Library
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_st7735_and_st7789.git|Contributed|VEGA_ST7735_and_ST7789
+https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library.git|Contributed|Soldered SIM7020 NB-IoT Library
