@@ -5864,3 +5864,4 @@ https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-L
 https://github.com/Tobiyouth/WaterFlow.git|Contributed|WaterFlow
 https://github.com/adafruit/Adafruit_IntelliKeys.git|Recommended|Adafruit IntelliKeys
 https://github.com/zakarialaoui10/ZikoMatrix.git|Contributed|ZikoMatrix
+https://github.com/SolderedElectronics/Soldered-CCS811-Air-Quality-Sensor-Arduino-Library.git|Contributed|CCS811-Soldered
