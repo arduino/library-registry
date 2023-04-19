@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-DAC-Breakout_MCP47A1-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-BME280-BME680-Gas-Sensor-Arduino-Library
