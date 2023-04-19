@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-BQ27441-Battery-Fuel-Gauge-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library
