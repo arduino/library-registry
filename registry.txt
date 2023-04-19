@@ -5874,3 +5874,4 @@ https://github.com/SolderedElectronics/Soldered-Fingerprint-Sensor-Arduino-Libra
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library.git|Contributed|Soldered PMS7003 Arduino Library
 https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library.git|Contributed|Soldered nRF24 Library
 https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library.git|Contributed|Soldered Digital Light Sensor
+https://github.com/SolderedElectronics/Soldered-BQ27441-Battery-Fuel-Gauge-Arduino-Library.git|Contributed|Soldered BQ27441-G1 Arduino Library
