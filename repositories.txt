@@ -5781,3 +5781,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102
 https://github.com/zakarialaoui10/ZikoMatrix
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_st7735_and_st7789
 https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library
+https://github.com/adafruit/Adafruit_CPFS
