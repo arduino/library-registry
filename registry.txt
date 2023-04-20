@@ -5888,3 +5888,4 @@ https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Libr
 https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino-Library.git|Contributed|Soldered TCA9548A Multiplexer Arduino Library
 https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library.git|Contributed|Soldered Hall Effect Library
 https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library.git|Contributed|Soldered MCP4018 Digipot Library
+https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library.git|Contributed|Soldered ADS1015 and ADS1115 EasyC Library
