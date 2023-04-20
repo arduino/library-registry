@@ -5883,3 +5883,4 @@ https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library.git|Contributed|
 https://github.com/adafruit/Adafruit_CPFS.git|Recommended|Adafruit CPFS
 https://github.com/jaemannyeh/SharkJ1939.git|Contributed|SharkJ1939
 https://github.com/yashi/Servo328.git|Contributed|Servo328
+https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library.git|Contributed|HX711 SOLDERED
