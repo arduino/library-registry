@@ -5889,3 +5889,4 @@ https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino
 https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library.git|Contributed|Soldered Hall Effect Library
 https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library.git|Contributed|Soldered MCP4018 Digipot Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library.git|Contributed|Soldered ADS1015 and ADS1115 EasyC Library
+https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library.git|Contributed|Soldered AS3935 Lightning sensor library
