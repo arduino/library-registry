@@ -5881,3 +5881,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_st7735_and_st77
 https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library.git|Contributed|Soldered SIM7020 NB-IoT Library
 https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library.git|Contributed|SM_ESP32Pi
 https://github.com/adafruit/Adafruit_CPFS.git|Recommended|Adafruit CPFS
+https://github.com/jaemannyeh/SharkJ1939.git|Contributed|SharkJ1939
