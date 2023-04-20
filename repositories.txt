@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library
