@@ -5882,3 +5882,4 @@ https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library.g
 https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library.git|Contributed|SM_ESP32Pi
 https://github.com/adafruit/Adafruit_CPFS.git|Recommended|Adafruit CPFS
 https://github.com/jaemannyeh/SharkJ1939.git|Contributed|SharkJ1939
+https://github.com/yashi/Servo328.git|Contributed|Servo328
