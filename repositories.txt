@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library
