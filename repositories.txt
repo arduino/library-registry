@@ -5793,4 +5793,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_st7735_and_st77
 https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library
 https://github.com/adafruit/Adafruit_CPFS
 https://github.com/jaemannyeh/SharkJ1939
-
+https://github.com/mtsurumaki/PwmSin
