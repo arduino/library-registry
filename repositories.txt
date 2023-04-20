@@ -5673,6 +5673,7 @@ https://github.com/xreef/PCF8591_library
 https://github.com/xreef/SimpleFTPServer
 https://github.com/yannidd/ukesf-sixth-formers
 https://github.com/yanranxiaoxi/AntiKeyRepetition.h
+https://github.com/yashi/Servo328
 https://github.com/yellobyte/DacESP32
 https://github.com/yellobyte/SoapESP32
 https://github.com/yergin/Yabl
