@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library
