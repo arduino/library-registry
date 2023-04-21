@@ -5899,3 +5899,4 @@ https://github.com/imiconsystem/MicromationDevboardV3.git|Contributed|Micromatio
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library.git|Contributed|8x8 Led Matrix Soldered
 https://github.com/raisedevs/raise-dev-library.git|Contributed|RaiseDev
 https://github.com/dacarson/WeatherFlowApi.git|Contributed|WeatherFlowAPI
+https://github.com/marclura/PT2258-Arduino-Library.git|Contributed|PT2258
