@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library
 https://github.com/imiconsystem/MicromationDevboardV3
 https://github.com/2bndy5/CirquePinnacle
 https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library
