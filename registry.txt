@@ -5898,3 +5898,4 @@ https://github.com/2bndy5/CirquePinnacle.git|Contributed|CirquePinnacle
 https://github.com/imiconsystem/MicromationDevboardV3.git|Contributed|MicromationDevboardV3
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library.git|Contributed|8x8 Led Matrix Soldered
 https://github.com/raisedevs/raise-dev-library.git|Contributed|RaiseDev
+https://github.com/dacarson/WeatherFlowApi.git|Contributed|WeatherFlowAPI
