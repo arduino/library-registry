@@ -5794,3 +5794,4 @@ https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library
 https://github.com/adafruit/Adafruit_CPFS
 https://github.com/jaemannyeh/SharkJ1939
 https://github.com/mtsurumaki/PwmSin
+https://github.com/kmilo17pet/QuarkTS-cpp
