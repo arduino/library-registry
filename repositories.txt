@@ -5801,3 +5801,4 @@ https://github.com/mtsurumaki/PwmSin
 https://github.com/kmilo17pet/QuarkTS-cpp
 https://github.com/dacarson/WeatherFlowApi
 https://github.com/marclura/PT2258-Arduino-Library
+https://github.com/bayuprmbd8/ferobit-nutrimeter
