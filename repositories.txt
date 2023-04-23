@@ -5802,4 +5802,5 @@ https://github.com/kmilo17pet/QuarkTS-cpp
 https://github.com/dacarson/WeatherFlowApi
 https://github.com/marclura/PT2258-Arduino-Library
 https://github.com/Segilmez06/DistanceSensor
+https://github.com/BlueDot-Arduino/BlueDot-SGP40_SHT40
 https://github.com/teddokano/MUX_SW_NXP_Arduino
