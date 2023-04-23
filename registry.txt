@@ -5902,3 +5902,4 @@ https://github.com/dacarson/WeatherFlowApi.git|Contributed|WeatherFlowAPI
 https://github.com/marclura/PT2258-Arduino-Library.git|Contributed|PT2258
 https://github.com/Segilmez06/DistanceSensor.git|Contributed|DistanceSensor
 https://github.com/teddokano/MUX_SW_NXP_Arduino.git|Contributed|MUX_SW_NXP_Arduino
+https://github.com/BlueDot-Arduino/BlueDot-SGP40_SHT40.git|Contributed|BlueDot SGP40 SHT40
