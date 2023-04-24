@@ -5908,3 +5908,4 @@ https://github.com/Reefwing-Software/Reefwing-imuTypes.git|Contributed|Reefwing_
 https://github.com/Reefwing-Software/Reefwing-xIMU3.git|Contributed|Reefwing_xIMU3
 https://github.com/sstaub/MCP_3208.git|Contributed|MCP_3208
 https://github.com/sstaub/MCP_23017.git|Contributed|MCP_23017
+https://github.com/107-systems/107-Arduino-Servo-RP2040.git|Contributed|107-Arduino-Servo-RP2040
