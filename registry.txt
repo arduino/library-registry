@@ -5906,3 +5906,5 @@ https://github.com/BlueDot-Arduino/BlueDot-SGP40_SHT40.git|Contributed|BlueDot S
 https://github.com/takeyamayuki/RESTuino.git|Contributed|RESTuino
 https://github.com/Reefwing-Software/Reefwing-imuTypes.git|Contributed|Reefwing_imuTypes
 https://github.com/Reefwing-Software/Reefwing-xIMU3.git|Contributed|Reefwing_xIMU3
+https://github.com/sstaub/MCP_3208.git|Contributed|MCP_3208
+https://github.com/sstaub/MCP_23017.git|Contributed|MCP_23017
