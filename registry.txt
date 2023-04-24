@@ -5905,3 +5905,4 @@ https://github.com/teddokano/MUX_SW_NXP_Arduino.git|Contributed|MUX_SW_NXP_Ardui
 https://github.com/BlueDot-Arduino/BlueDot-SGP40_SHT40.git|Contributed|BlueDot SGP40 SHT40
 https://github.com/takeyamayuki/RESTuino.git|Contributed|RESTuino
 https://github.com/Reefwing-Software/Reefwing-imuTypes.git|Contributed|Reefwing_imuTypes
+https://github.com/Reefwing-Software/Reefwing-xIMU3.git|Contributed|Reefwing_xIMU3
