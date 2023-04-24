@@ -64,6 +64,7 @@ https://github.com/0015/TP_Arduino_DigitalRain_Anim
 https://github.com/0neblock/Arduino_SNMP
 https://github.com/0x6flab/satima-arduinolibrary
 https://github.com/0xCAFEDECAF/VanBus
+https://github.com/107-systems/107-Arduino-Servo-RP2040
 https://github.com/107-systems/107-Arduino-24LCxx
 https://github.com/107-systems/107-Arduino-APDS-9950
 https://github.com/107-systems/107-Arduino-AS504x
