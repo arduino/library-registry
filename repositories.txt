@@ -5812,3 +5812,4 @@ https://github.com/takeyamayuki/RESTuino
 https://github.com/BlueDot-Arduino/BlueDot-SGP40_SHT40
 https://github.com/teddokano/MUX_SW_NXP_Arduino
 https://github.com/monowireless/mwings_arduino
+https://github.com/avalonbits/vdp-gl
