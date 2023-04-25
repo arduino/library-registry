@@ -5913,3 +5913,4 @@ https://github.com/shutch42/modmata.git|Contributed|Modmata
 https://github.com/monowireless/mwings_arduino.git|Contributed|MWings
 https://github.com/avalonbits/vdp-gl.git|Contributed|vdp-gl
 https://github.com/obdevel/ACAN2040.git|Contributed|ACAN2040
+https://github.com/obdevel/CBUSACAN2040.git|Contributed|CBUSACAN2040
