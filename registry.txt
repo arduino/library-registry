@@ -5912,3 +5912,4 @@ https://github.com/107-systems/107-Arduino-Servo-RP2040.git|Contributed|107-Ardu
 https://github.com/shutch42/modmata.git|Contributed|Modmata
 https://github.com/monowireless/mwings_arduino.git|Contributed|MWings
 https://github.com/avalonbits/vdp-gl.git|Contributed|vdp-gl
+https://github.com/obdevel/ACAN2040.git|Contributed|ACAN2040
