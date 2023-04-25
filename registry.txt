@@ -5910,3 +5910,4 @@ https://github.com/sstaub/MCP_3208.git|Contributed|MCP_3208
 https://github.com/sstaub/MCP_23017.git|Contributed|MCP_23017
 https://github.com/107-systems/107-Arduino-Servo-RP2040.git|Contributed|107-Arduino-Servo-RP2040
 https://github.com/shutch42/modmata.git|Contributed|Modmata
+https://github.com/monowireless/mwings_arduino.git|Contributed|MWings
