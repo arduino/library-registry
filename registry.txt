@@ -5917,3 +5917,5 @@ https://github.com/obdevel/CBUSACAN2040.git|Contributed|CBUSACAN2040
 https://github.com/manuelbl/usb-pd-arduino.git|Contributed|USBPowerDelivery
 https://github.com/leonlucc/WZ.git|Contributed|WZ Library
 https://github.com/DigitalCodesign/Escornabot-Library.git|Contributed|Escornabot-Library
+https://github.com/CamelCaseName/HUB75Enano.git|Contributed|HUB75Enano
+https://github.com/CamelCaseName/HUB75nano.git|Contributed|HUB75nano
