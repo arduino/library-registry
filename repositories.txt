@@ -5819,3 +5819,5 @@ https://github.com/avalonbits/vdp-gl
 https://github.com/obdevel/ACAN2040
 https://github.com/obdevel/CBUSACAN2040
 https://github.com/leonlucc/WZ
+https://github.com/CamelCaseName/HUB75Enano
+https://github.com/CamelCaseName/HUB75nano
