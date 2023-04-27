@@ -5919,3 +5919,4 @@ https://github.com/leonlucc/WZ.git|Contributed|WZ Library
 https://github.com/DigitalCodesign/Escornabot-Library.git|Contributed|Escornabot-Library
 https://github.com/CamelCaseName/HUB75Enano.git|Contributed|HUB75Enano
 https://github.com/CamelCaseName/HUB75nano.git|Contributed|HUB75nano
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_irremote.git|Contributed|VEGA_IRremote
