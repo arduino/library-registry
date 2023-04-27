@@ -5822,3 +5822,4 @@ https://github.com/leonlucc/WZ
 https://github.com/CamelCaseName/HUB75Enano
 https://github.com/CamelCaseName/HUB75nano
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_irremote
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_wifinina
