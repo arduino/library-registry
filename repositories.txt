@@ -5825,3 +5825,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_irremote
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_wifinina
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_softwareserial
 https://github.com/Seeed-Studio/Seeed_Arduino_AHT20
+https://github.com/epsilonrt/EepromSecureData
