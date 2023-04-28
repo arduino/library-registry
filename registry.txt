@@ -5925,3 +5925,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_softwares
 https://github.com/Seeed-Studio/Seeed_Arduino_AHT20.git|Contributed|Seeed_Arduino_AHT20
 https://github.com/epsilonrt/EepromSecureData.git|Contributed|EepromSecureData
 https://github.com/Dhanabhon/TomStick.git|Contributed|TomStick
+https://github.com/SCRN92/Sim800L.git|Contributed|Sim800L Library
