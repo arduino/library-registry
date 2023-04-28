@@ -5832,3 +5832,4 @@ https://github.com/epsilonrt/EepromSecureData
 https://github.com/americodias/PI4IOE5V9554
 https://github.com/eebothobby/DAC7574
 https://github.com/eebothobby/ADS7828
+https://github.com/alkonosst/SSLClient
