@@ -5924,3 +5924,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_wifinina.
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_softwareserial.git|Contributed|VEGA_SoftwareSerial
 https://github.com/Seeed-Studio/Seeed_Arduino_AHT20.git|Contributed|Seeed_Arduino_AHT20
 https://github.com/epsilonrt/EepromSecureData.git|Contributed|EepromSecureData
+https://github.com/Dhanabhon/TomStick.git|Contributed|TomStick
