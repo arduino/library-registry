@@ -5830,3 +5830,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_softwares
 https://github.com/Seeed-Studio/Seeed_Arduino_AHT20
 https://github.com/epsilonrt/EepromSecureData
 https://github.com/americodias/PI4IOE5V9554
+https://github.com/eebothobby/DAC7574
