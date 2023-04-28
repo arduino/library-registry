@@ -5786,6 +5786,7 @@ https://github.com/strid3r21/BeeDataLogger-Arduino-Helper
 https://github.com/stm32duino/X-NUCLEO-NFC07A1
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614
 https://github.com/Dhanabhon/TomIBT2
+https://github.com/Dhanabhon/TomStick
 https://github.com/gilman88/xmodem-lib
 https://github.com/adafruit/Adafruit_CAN
 https://github.com/teddokano/RTC_NXP_Arduino
