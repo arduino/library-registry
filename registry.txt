@@ -5927,3 +5927,4 @@ https://github.com/epsilonrt/EepromSecureData.git|Contributed|EepromSecureData
 https://github.com/Dhanabhon/TomStick.git|Contributed|TomStick
 https://github.com/SCRN92/Sim800L.git|Contributed|Sim800L Library
 https://github.com/whoelsethanjesus/Mintrix.git|Contributed|Mintrix
+https://github.com/vishesh-varma/DWIN.git|Contributed|DWIN T5L API wrapper
