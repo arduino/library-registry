@@ -5922,3 +5922,4 @@ https://github.com/CamelCaseName/HUB75nano.git|Contributed|HUB75nano
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_irremote.git|Contributed|VEGA_IRremote
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_wifinina.git|Contributed|VEGA_WiFiNINA
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_softwareserial.git|Contributed|VEGA_SoftwareSerial
+https://github.com/Seeed-Studio/Seeed_Arduino_AHT20.git|Contributed|Seeed_Arduino_AHT20
