@@ -5926,3 +5926,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_AHT20.git|Contributed|Seeed_Arduin
 https://github.com/epsilonrt/EepromSecureData.git|Contributed|EepromSecureData
 https://github.com/Dhanabhon/TomStick.git|Contributed|TomStick
 https://github.com/SCRN92/Sim800L.git|Contributed|Sim800L Library
+https://github.com/whoelsethanjesus/Mintrix.git|Contributed|Mintrix
