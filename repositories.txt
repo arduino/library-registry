@@ -1078,7 +1078,7 @@ https://github.com/MichaelUray/muTimer
 https://github.com/Mickaelh51/Arduino-Oregon-Library
 https://github.com/MicroBahner/MobaTools
 https://github.com/MicroBeaut/MicroBeaut
-https://github.com/MicroBeaut/MicroBeaut-RepeatButton
+https://github.com/MicroBeaut/RepeatButton
 https://github.com/MicroBeaut/MicroBeaut-TCone
 https://github.com/MicroBeaut/Finite-State
 https://github.com/MicroGamerConsole/MicroGamer-Arduino
