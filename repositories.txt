@@ -5835,3 +5835,4 @@ https://github.com/eebothobby/ADS7828
 https://github.com/ArtronShop/ArtronShop_BH1750
 https://github.com/ArtronShop/ArtronShop_SHT3x
 https://github.com/ArtronShop/ArtronShop_SPL06-001
+https://github.com/ArtronShop/ArtronShop_PCF85363A
