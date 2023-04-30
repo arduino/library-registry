@@ -5833,3 +5833,4 @@ https://github.com/americodias/PI4IOE5V9554
 https://github.com/eebothobby/DAC7574
 https://github.com/eebothobby/ADS7828
 https://github.com/ArtronShop/ArtronShop_BH1750
+https://github.com/ArtronShop/ArtronShop_SHT3x
