@@ -5931,3 +5931,4 @@ https://github.com/vishesh-varma/DWIN.git|Contributed|DWIN T5L API wrapper
 https://github.com/americodias/PI4IOE5V9554.git|Contributed|PI4IOE5V9554
 https://github.com/eebothobby/DAC7574.git|Contributed|DAC7574
 https://github.com/eebothobby/ADS7828.git|Contributed|ADS7828
+https://github.com/ArtronShop/ArtronShop_BH1750.git|Contributed|ArtronShop_BH1750
