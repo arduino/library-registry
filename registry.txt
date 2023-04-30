@@ -5934,3 +5934,4 @@ https://github.com/eebothobby/ADS7828.git|Contributed|ADS7828
 https://github.com/ArtronShop/ArtronShop_BH1750.git|Contributed|ArtronShop_BH1750
 https://github.com/ArtronShop/ArtronShop_SHT3x.git|Contributed|ArtronShop_SHT3x
 https://github.com/ArtronShop/ArtronShop_SPL06-001.git|Contributed|ArtronShop_SPL06-001
+https://github.com/ArtronShop/ArtronShop_PCF85363A.git|Contributed|ArtronShop_PCA85363A
