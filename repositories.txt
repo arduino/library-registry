@@ -2089,8 +2089,8 @@ https://github.com/WifWaf/MCP45HVX1
 https://github.com/WifWaf/MH-Z19
 https://github.com/WifWaf/TCA9548A
 https://github.com/WifWaf/VEML6075
-https://github.com/WindyWanderer/CSWBattery.git
-https://github.com/WindyWanderer/CSWButtons.git
+https://github.com/Eugeniusz-Gienek/CSWBattery.git
+https://github.com/Eugeniusz-Gienek/CSWButtons.git
 https://github.com/WinsonAPP/WinsonLibrary
 https://github.com/WiserUFBA/ArduMideaWrapper
 https://github.com/WitchCraftWorks/arduino-MCP2515-nb
