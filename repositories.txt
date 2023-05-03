@@ -157,6 +157,7 @@ https://github.com/AlexIII/incbin-arduino
 https://github.com/AlexTutorial/KrokoTS
 https://github.com/AlexanderLL95/SerialUtil
 https://github.com/AlexandreHiroyuki/MovingAveragePlus
+https://github.com/alkonosst/SSLClientESP32
 https://github.com/AllWize/allwize
 https://github.com/AllWize/mbus-payload
 https://github.com/AloriumTechnology/UbidotsXLR8
