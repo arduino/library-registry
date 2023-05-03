@@ -156,6 +156,7 @@ https://github.com/AlexIII/incbin-arduino
 https://github.com/AlexTutorial/KrokoTS
 https://github.com/AlexanderLL95/SerialUtil
 https://github.com/AlexandreHiroyuki/MovingAveragePlus
+https://github.com/alkonosst/SSLClientESP32
 https://github.com/AllWize/allwize
 https://github.com/AllWize/mbus-payload
 https://github.com/AloriumTechnology/UbidotsXLR8
@@ -5832,4 +5833,3 @@ https://github.com/epsilonrt/EepromSecureData
 https://github.com/americodias/PI4IOE5V9554
 https://github.com/eebothobby/DAC7574
 https://github.com/eebothobby/ADS7828
-https://github.com/alkonosst/SSLClient
