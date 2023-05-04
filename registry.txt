@@ -5561,7 +5561,7 @@ https://github.com/RAKWireless/RAK14014-FT6336U.git|Contributed|RAK14014-FT6336U
 https://github.com/RAKWireless/RAK15007-CY15B108QN.git|Contributed|RAK15007-CY15B108QN
 https://github.com/RAKWireless/RAKwireless_ADC_SGM58031_library.git|Contributed|RAKwireless_ADC_SGM58031_library
 https://github.com/RobTillaart/DMM.git|Contributed|DMM
-https://github.com/WindyWanderer/CSWButtons.git|Contributed|CSWButtons
+https://github.com/Eugeniusz-Gienek/CSWButtons.git|Contributed|CSWButtons
 https://github.com/plageoj/request-builder.git|Contributed|RequestBuilder
 https://gitlab.com/softsysco/grove-as3935-lightning-sensor.git|Contributed|Grove_AS3935Lightning_sensor
 https://github.com/Silver-Fang/ArduinoSTL.git|Contributed|STL for Arduino
