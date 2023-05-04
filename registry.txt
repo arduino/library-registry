@@ -5586,7 +5586,7 @@ https://github.com/matthewturner/EventuallyCommand.git|Contributed|EventuallyCom
 https://github.com/ArchontisKostis/SimpleComponents.git|Contributed|SimpleComponents
 https://github.com/tanakamasayuki/EspUsbHost.git|Contributed|EspUsbHost
 https://github.com/Abhishektiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B.git|Contributed|Nokia 1.8 Inch Display SPFD54124B
-https://github.com/WindyWanderer/CSWBattery.git|Contributed|CSWBattery
+https://github.com/Eugeniusz-Gienek/CSWBattery.git|Contributed|CSWBattery
 https://github.com/stm32duino/STM32LoRaWAN.git|Contributed|STM32duinoLoRaWAN
 https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library.git|Contributed|FC0001614614
 https://github.com/bolderflight/hg4930.git|Contributed|Bolder Flight Systems Honeywell HG4930
