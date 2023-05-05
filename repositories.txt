@@ -5841,3 +5841,4 @@ https://github.com/ArtronShop/ArtronShop_PCF85363A
 https://github.com/suratin27/ESP32_FX1N
 https://github.com/SequentMicrosystems/Sequent-Building-Automation-Library
 https://github.com/YH-Choi-001/Kojay
+https://github.com/deneyapkart/deneyap_arduino_examples
