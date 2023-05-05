@@ -5940,3 +5940,4 @@ https://github.com/soylentOrange/Forced-BMX280.git|Contributed|forcedBMX280
 https://github.com/SequentMicrosystems/Sequent-Building-Automation-Library.git|Contributed|SM_BAS
 https://github.com/YH-Choi-001/Kojay.git|Contributed|Kojay
 https://github.com/alkonosst/SSLClientESP32.git|Contributed|SSLClientESP32
+https://github.com/facts-engineering/P1AM_Serial.git|Contributed|P1AM_Serial
