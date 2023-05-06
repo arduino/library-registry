@@ -5941,3 +5941,7 @@ https://github.com/SequentMicrosystems/Sequent-Building-Automation-Library.git|C
 https://github.com/YH-Choi-001/Kojay.git|Contributed|Kojay
 https://github.com/alkonosst/SSLClientESP32.git|Contributed|SSLClientESP32
 https://github.com/facts-engineering/P1AM_Serial.git|Contributed|P1AM_Serial
+https://github.com/DFRobot/DFRobot_GNSS.git|Contributed|DFRobot_GNSS
+https://github.com/DFRobot/DFRobot_LPUPS.git|Contributed|DFRobot_LPUPS
+https://github.com/DFRobot/DFRobot_RainfallSensor.git|Contributed|DFRobot_RainfallSensor
+https://github.com/DFRobot/DFRobot_RP2040_SCI.git|Contributed|DFRobot_RP2040_SCI
