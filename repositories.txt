@@ -388,6 +388,7 @@ https://github.com/DFRobot/DFRobot_EOxygenSensor
 https://github.com/DFRobot/DFRobot_EnvironmentalSensor
 https://github.com/DFRobot/DFRobot_FreeTenIMU
 https://github.com/DFRobot/DFRobot_GM60
+https://github.com/DFRobot/DFRobot_GNSS
 https://github.com/DFRobot/DFRobot_GP8302
 https://github.com/DFRobot/DFRobot_GP8403
 https://github.com/DFRobot/DFRobot_Gesture_Touch
@@ -404,6 +405,7 @@ https://github.com/DFRobot/DFRobot_INA219
 https://github.com/DFRobot/DFRobot_ITG3200
 https://github.com/DFRobot/DFRobot_LIDAR07
 https://github.com/DFRobot/DFRobot_LIS
+https://github.com/DFRobot/DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_LSM303
 https://github.com/DFRobot/DFRobot_LWLP
 https://github.com/DFRobot/DFRobot_LedDisplayModule
@@ -427,9 +429,11 @@ https://github.com/DFRobot/DFRobot_PAJ7620U2
 https://github.com/DFRobot/DFRobot_PH
 https://github.com/DFRobot/DFRobot_PN532
 https://github.com/DFRobot/DFRobot_QMC5883
+https://github.com/DFRobot/DFRobot_RainfallSensor
 https://github.com/DFRobot/DFRobot_RGBButton
 https://github.com/DFRobot/DFRobot_RGBLCD1602
 https://github.com/DFRobot/DFRobot_RGBMatrix
+https://github.com/DFRobot/DFRobot_RP2040_SCI
 https://github.com/DFRobot/DFRobot_RS01
 https://github.com/DFRobot/DFRobot_RTU
 https://github.com/DFRobot/DFRobot_SCD4X
