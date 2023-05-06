@@ -5945,3 +5945,4 @@ https://github.com/DFRobot/DFRobot_GNSS.git|Contributed|DFRobot_GNSS
 https://github.com/DFRobot/DFRobot_LPUPS.git|Contributed|DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_RainfallSensor.git|Contributed|DFRobot_RainfallSensor
 https://github.com/DFRobot/DFRobot_RP2040_SCI.git|Contributed|DFRobot_RP2040_SCI
+https://github.com/softplus/GoogleFormPost.git|Contributed|GoogleFormPost
