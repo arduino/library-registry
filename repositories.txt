@@ -5850,3 +5850,4 @@ https://github.com/facts-engineering/P1AM_Serial
 https://github.com/ChitoKim/mahjongAsst
 https://github.com/ChitoKim/mahjongAsst_U8X8
 https://github.com/schnoog/vl53l0x-arduino-mod
+https://github.com/schnoog/Joystick_ESP32S2
