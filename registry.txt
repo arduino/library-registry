@@ -5953,3 +5953,4 @@ https://github.com/schnoog/Joystick_ESP32S2.git|Contributed|Joystick_ESP32S2
 https://github.com/SanteriLindfors/WiFiProvisioner.git|Contributed|WiFiProvisioner
 https://github.com/deneyapkart/deneyap_arduino_examples.git|Contributed|Deneyap Arduino Examples
 https://github.com/soylentOrange/DigiSpark_PWM.git|Contributed|DigiSpark_PWM
+https://github.com/adafruit/Adafruit_MCP2515.git|Recommended|Adafruit MCP2515
