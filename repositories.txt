@@ -5855,3 +5855,4 @@ https://github.com/schnoog/vl53l0x-arduino-mod
 https://github.com/schnoog/Joystick_ESP32S2
 https://github.com/deneyapkart/deneyap_arduino_examples
 https://github.com/adafruit/Adafruit_MCP2515
+https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
