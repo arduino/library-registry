@@ -5957,3 +5957,4 @@ https://github.com/adafruit/Adafruit_MCP2515.git|Recommended|Adafruit MCP2515
 https://github.com/thelastoutpostworkshop/FastDisplayPrototyping.git|Contributed|FastDisplayPrototyping
 https://github.com/cranties/escposprinter.git|Contributed|escposprinter
 https://github.com/sciosense/APC1_driver.git|Contributed|ScioSense_APC1
+https://github.com/ahmedosama07/mDriverL298n.git|Contributed|mDriver
