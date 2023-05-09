@@ -5955,3 +5955,4 @@ https://github.com/deneyapkart/deneyap_arduino_examples.git|Contributed|Deneyap 
 https://github.com/soylentOrange/DigiSpark_PWM.git|Contributed|DigiSpark_PWM
 https://github.com/adafruit/Adafruit_MCP2515.git|Recommended|Adafruit MCP2515
 https://github.com/thelastoutpostworkshop/FastDisplayPrototyping.git|Contributed|FastDisplayPrototyping
+https://github.com/cranties/escposprinter.git|Contributed|escposprinter
