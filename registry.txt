@@ -5959,3 +5959,4 @@ https://github.com/cranties/escposprinter.git|Contributed|escposprinter
 https://github.com/sciosense/APC1_driver.git|Contributed|ScioSense_APC1
 https://github.com/ahmedosama07/mDriverL298n.git|Contributed|mDriver
 https://github.com/TMRh20/nrf_to_nrf.git|Contributed|nrf_to_nrf
+https://github.com/gemi254/ConfigAssist-ESP32-ESP8266.git|Contributed|ConfigAssist
