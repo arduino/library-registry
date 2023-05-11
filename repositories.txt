@@ -2029,6 +2029,7 @@ https://github.com/Tinyu-Zhao/M5-Outdepends
 https://github.com/Tinyu-Zhao/PCA9554
 https://github.com/Tinyu-Zhao/TFTTerminal
 https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/Tinyu-Zhao/BMI270_Sensor
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
