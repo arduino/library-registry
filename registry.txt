@@ -5961,3 +5961,4 @@ https://github.com/ahmedosama07/mDriverL298n.git|Contributed|mDriver
 https://github.com/TMRh20/nrf_to_nrf.git|Contributed|nrf_to_nrf
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266.git|Contributed|ConfigAssist
 https://github.com/mobizt/ESP-Google-Forms-Client.git|Contributed|ESP-Google-Forms-Client
+https://github.com/Tinyu-Zhao/BMI270_Sensor.git|Contributed|BMI270_Sensor
