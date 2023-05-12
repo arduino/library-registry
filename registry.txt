@@ -5963,3 +5963,4 @@ https://github.com/gemi254/ConfigAssist-ESP32-ESP8266.git|Contributed|ConfigAssi
 https://github.com/mobizt/ESP-Google-Forms-Client.git|Contributed|ESP-Google-Forms-Client
 https://github.com/Tinyu-Zhao/BMI270_Sensor.git|Contributed|BMI270_Sensor
 https://github.com/nacademyth/RoboFi.git|Contributed|RoboFi
+https://github.com/kcl93/fusb302_arduino.git|Contributed|FUSB302 PD UFP sink
