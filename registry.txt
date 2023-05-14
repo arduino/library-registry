@@ -5968,3 +5968,4 @@ https://github.com/Fbisinger/HeidelbergInterface.git|Contributed|HeidelbergInter
 https://github.com/GhassanYusuf/NewServo.git|Contributed|NewServo
 https://github.com/J-Rios/mqtt_fuota_duino.git|Contributed|mqtt_fuota_duino
 https://github.com/J-Rios/minbasecli.git|Contributed|minbasecli
+https://github.com/dojyorin/arduino_m0_tweak.git|Contributed|m0_tweak
