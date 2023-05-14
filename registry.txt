@@ -5967,3 +5967,4 @@ https://github.com/kcl93/fusb302_arduino.git|Contributed|FUSB302 PD UFP sink
 https://github.com/Fbisinger/HeidelbergInterface.git|Contributed|HeidelbergInterface
 https://github.com/GhassanYusuf/NewServo.git|Contributed|NewServo
 https://github.com/J-Rios/mqtt_fuota_duino.git|Contributed|mqtt_fuota_duino
+https://github.com/J-Rios/minbasecli.git|Contributed|minbasecli
