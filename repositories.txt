@@ -841,6 +841,7 @@ https://github.com/Isaranu/Senses_NBIoT
 https://github.com/Isaranu/Senses_wifi
 https://github.com/Isaranu/Senses_wifi_esp32
 https://github.com/Isaranu/pm25senses
+https://github.com/J-Rios/minbasecli
 https://github.com/J-Rios/mqtt_fuota_duino
 https://github.com/J-Rios/uTLGBotLib-arduino
 https://github.com/JAICHANGPARK/Arduino-Watch
