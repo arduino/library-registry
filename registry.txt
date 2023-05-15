@@ -5969,3 +5969,4 @@ https://github.com/GhassanYusuf/NewServo.git|Contributed|NewServo
 https://github.com/J-Rios/mqtt_fuota_duino.git|Contributed|mqtt_fuota_duino
 https://github.com/J-Rios/minbasecli.git|Contributed|minbasecli
 https://github.com/dojyorin/arduino_m0_tweak.git|Contributed|m0_tweak
+https://github.com/stm32duino/X-NUCLEO-NFC08A1.git|Contributed|STM32duino X-NUCLEO-NFC08A1
