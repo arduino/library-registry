@@ -3288,8 +3288,8 @@ https://github.com/electro-smith/DaisyDuino.git|Contributed|DaisyDuino
 https://github.com/RobTillaart/Interval.git|Contributed|Interval
 https://github.com/adafruit/Adafruit_OV7670.git|Contributed|Adafruit OV7670
 https://github.com/adafruit/Adafruit_AS7341.git|Contributed|Adafruit AS7341
-https://github.com/dojyorin/arduino_percent.git|Contributed|Percent_Codec
 https://github.com/dojyorin/arduino_base64.git|Contributed|base64_encode
+https://github.com/dojyorin/arduino_percent.git|Contributed|percent_encode
 https://github.com/vishnumaiea/R30X-Fingerprint-Sensor-Library.git|Contributed|R30X-Fingerprint-Sensor-Library
 https://github.com/RobTillaart/PCF8575.git|Contributed|PCF8575
 https://github.com/jandrassy/TelnetStream.git|Contributed|TelnetStream
@@ -5962,3 +5962,13 @@ https://github.com/TMRh20/nrf_to_nrf.git|Contributed|nrf_to_nrf
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266.git|Contributed|ConfigAssist
 https://github.com/mobizt/ESP-Google-Forms-Client.git|Contributed|ESP-Google-Forms-Client
 https://github.com/Tinyu-Zhao/BMI270_Sensor.git|Contributed|BMI270_Sensor
+https://github.com/nacademyth/RoboFi.git|Contributed|RoboFi
+https://github.com/kcl93/fusb302_arduino.git|Contributed|FUSB302 PD UFP sink
+https://github.com/Fbisinger/HeidelbergInterface.git|Contributed|HeidelbergInterface
+https://github.com/GhassanYusuf/NewServo.git|Contributed|NewServo
+https://github.com/J-Rios/mqtt_fuota_duino.git|Contributed|mqtt_fuota_duino
+https://github.com/J-Rios/minbasecli.git|Contributed|minbasecli
+https://github.com/dojyorin/arduino_m0_tweak.git|Contributed|m0_tweak
+https://github.com/stm32duino/X-NUCLEO-NFC08A1.git|Contributed|STM32duino X-NUCLEO-NFC08A1
+https://github.com/leonlucc/arduino-tencent-cloud-iot-sdk.git|Contributed|TencentCloudIoTSDK
+https://github.com/rhrhhrhr/MPC_ruih.git|Contributed|MPC_ruih
