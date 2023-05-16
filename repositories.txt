@@ -1,3 +1,4 @@
+https://github.com/Zhu-jiatong/ESP32SessionManager.git
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
