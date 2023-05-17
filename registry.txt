@@ -5973,3 +5973,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC08A1.git|Contributed|STM32duino X-NUCL
 https://github.com/leonlucc/arduino-tencent-cloud-iot-sdk.git|Contributed|TencentCloudIoTSDK
 https://github.com/rhrhhrhr/MPC_ruih.git|Contributed|MPC_ruih
 https://github.com/Zhu-jiatong/WebServerSessionManager.git|Contributed|WebServerSessionManager
+https://github.com/ArduCAM/Arducam_mini.git|Contributed|Arducam_mini
