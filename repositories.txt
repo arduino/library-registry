@@ -1652,6 +1652,7 @@ https://github.com/RobTillaart/StopWatch_RT
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
 https://github.com/RobTillaart/TM1637_RT
+https://github.com/RobTillaart/TOPMAX
 https://github.com/RobTillaart/TSL235R
 https://github.com/RobTillaart/TSL260R
 https://github.com/RobTillaart/Temperature
