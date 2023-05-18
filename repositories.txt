@@ -1,3 +1,6 @@
+https://github.com/Zhu-jiatong/WebServerSessionManager.git
+https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
+https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
 https://github.com/soylentOrange/Forced-BMX280
 https://github.com/vishesh-varma/DWIN
@@ -213,6 +216,7 @@ https://github.com/AnyLeaf/ph-cpp
 https://github.com/Apollon77/I2CSoilMoistureSensor
 https://github.com/ArchontisKostis/SimpleComponents
 https://github.com/ArduCAM/Arducam_Mega
+https://github.com/ArduCAM/Arducam_mini
 https://github.com/Arduboy/Arduboy
 https://github.com/Arduboy/ArduboyPlaytune
 https://github.com/ArduinoGetStarted/Analog-Keypad
@@ -839,6 +843,8 @@ https://github.com/Isaranu/Senses_NBIoT
 https://github.com/Isaranu/Senses_wifi
 https://github.com/Isaranu/Senses_wifi_esp32
 https://github.com/Isaranu/pm25senses
+https://github.com/J-Rios/minbasecli
+https://github.com/J-Rios/mqtt_fuota_duino
 https://github.com/J-Rios/uTLGBotLib-arduino
 https://github.com/JAICHANGPARK/Arduino-Watch
 https://github.com/JCWentzel/PolymorphicButtons
@@ -1085,7 +1091,7 @@ https://github.com/MichaelUray/muTimer
 https://github.com/Mickaelh51/Arduino-Oregon-Library
 https://github.com/MicroBahner/MobaTools
 https://github.com/MicroBeaut/MicroBeaut
-https://github.com/MicroBeaut/MicroBeaut-RepeatButton
+https://github.com/MicroBeaut/RepeatButton
 https://github.com/MicroBeaut/MicroBeaut-TCone
 https://github.com/MicroBeaut/Finite-State
 https://github.com/MicroGamerConsole/MicroGamer-Arduino
@@ -2027,6 +2033,7 @@ https://github.com/Tinyu-Zhao/M5-Outdepends
 https://github.com/Tinyu-Zhao/PCA9554
 https://github.com/Tinyu-Zhao/TFTTerminal
 https://github.com/Tinyu-Zhao/TinyGPSPlus
+https://github.com/Tinyu-Zhao/BMI270_Sensor
 https://github.com/Tockn/MPU6050_tockn
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
@@ -2096,8 +2103,8 @@ https://github.com/WifWaf/MCP45HVX1
 https://github.com/WifWaf/MH-Z19
 https://github.com/WifWaf/TCA9548A
 https://github.com/WifWaf/VEML6075
-https://github.com/WindyWanderer/CSWBattery.git
-https://github.com/WindyWanderer/CSWButtons.git
+https://github.com/Eugeniusz-Gienek/CSWBattery.git
+https://github.com/Eugeniusz-Gienek/CSWButtons.git
 https://github.com/WinsonAPP/WinsonLibrary
 https://github.com/WiserUFBA/ArduMideaWrapper
 https://github.com/WitchCraftWorks/arduino-MCP2515-nb
@@ -3071,7 +3078,7 @@ https://github.com/cristborges/IRRemoteControl
 https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/csash7/mbed-BLE-Mouse
 https://github.com/cubicleguy/su_arduino_spi
-https://github.com/cubicleguy/su_arduino_uart 
+https://github.com/cubicleguy/su_arduino_uart
 https://github.com/cujomalainey/ant-arduino
 https://github.com/cujomalainey/antplus-arduino
 https://github.com/cvmanjoo/AT24Cxx
@@ -3777,7 +3784,7 @@ https://github.com/jostlowe/Pico-DMX
 https://github.com/joysfera/arduino-tasker
 https://github.com/jpb10/SolarCalculator/
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
-https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library 
+https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library
@@ -5830,6 +5837,7 @@ https://github.com/avalonbits/vdp-gl
 https://github.com/obdevel/ACAN2040
 https://github.com/obdevel/CBUSACAN2040
 https://github.com/leonlucc/WZ
+https://github.com/leonlucc/arduino-tencent-cloud-iot-sdk
 https://github.com/CamelCaseName/HUB75Enano
 https://github.com/CamelCaseName/HUB75nano
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_irremote
@@ -5853,3 +5861,18 @@ https://github.com/ChitoKim/mahjongAsst_U8X8
 https://github.com/schnoog/vl53l0x-arduino-mod
 https://github.com/schnoog/Joystick_ESP32S2
 https://github.com/deneyapkart/deneyap_arduino_examples
+https://github.com/adafruit/Adafruit_MCP2515
+https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
+https://github.com/cranties/escposprinter
+https://github.com/sciosense/APC1_driver
+https://github.com/ahmedosama07/mDriverL298n
+https://github.com/TMRh20/nrf_to_nrf
+https://github.com/mobizt/ESP-Google-Forms-Client
+https://github.com/nacademyth/RoboFi
+https://github.com/kcl93/fusb302_arduino
+https://github.com/Fbisinger/HeidelbergInterface
+https://github.com/GhassanYusuf/NewServo
+https://github.com/dojyorin/arduino_m0_tweak
+https://github.com/stm32duino/X-NUCLEO-NFC08A1
+https://github.com/rhrhhrhr/MPC_ruih
+https://github.com/sinricpro/teleport-arduino-esp32-library
