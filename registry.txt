@@ -5975,3 +5975,4 @@ https://github.com/rhrhhrhr/MPC_ruih.git|Contributed|MPC_ruih
 https://github.com/Zhu-jiatong/WebServerSessionManager.git|Contributed|WebServerSessionManager
 https://github.com/ArduCAM/Arducam_mini.git|Contributed|Arducam_mini
 https://github.com/sinricpro/teleport-arduino-esp32-library.git|Contributed|SinricTeleport
+https://github.com/RobTillaart/TOPMAX.git|Contributed|TOPMAX
