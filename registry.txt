@@ -5976,3 +5976,4 @@ https://github.com/Zhu-jiatong/WebServerSessionManager.git|Contributed|WebServer
 https://github.com/ArduCAM/Arducam_mini.git|Contributed|Arducam_mini
 https://github.com/sinricpro/teleport-arduino-esp32-library.git|Contributed|SinricTeleport
 https://github.com/RobTillaart/TOPMAX.git|Contributed|TOPMAX
+https://github.com/RobTillaart/TOPMIN.git|Contributed|TOPMIN
