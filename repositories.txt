@@ -5879,3 +5879,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/rhrhhrhr/MPC_ruih
 https://github.com/sinricpro/teleport-arduino-esp32-library
 https://github.com/midilab/uClock
+https://github.com/sivar2311/WebMonitor
