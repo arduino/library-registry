@@ -5978,3 +5978,4 @@ https://github.com/sinricpro/teleport-arduino-esp32-library.git|Contributed|Sinr
 https://github.com/RobTillaart/TOPMAX.git|Contributed|TOPMAX
 https://github.com/RobTillaart/TOPMIN.git|Contributed|TOPMIN
 https://github.com/midilab/uClock.git|Contributed|uClock
+https://github.com/sivar2311/WebMonitor.git|Contributed|WebMonitor
