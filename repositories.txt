@@ -984,6 +984,7 @@ https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
 https://github.com/M-Reimer/USBStatus
 https://github.com/M-tech-Creations/NoDelay
+https://github.com/m516/TinyMatrixMath
 https://github.com/MAINAKMONDAL98/MSMPLOTTER
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
