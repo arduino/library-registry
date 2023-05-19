@@ -5979,3 +5979,4 @@ https://github.com/RobTillaart/TOPMAX.git|Contributed|TOPMAX
 https://github.com/RobTillaart/TOPMIN.git|Contributed|TOPMIN
 https://github.com/midilab/uClock.git|Contributed|uClock
 https://github.com/sivar2311/WebMonitor.git|Contributed|WebMonitor
+https://github.com/m516/TinyMatrixMath.git|Contributed|TinyMatrixMath
