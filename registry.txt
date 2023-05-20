@@ -5980,3 +5980,4 @@ https://github.com/RobTillaart/TOPMIN.git|Contributed|TOPMIN
 https://github.com/midilab/uClock.git|Contributed|uClock
 https://github.com/sivar2311/WebMonitor.git|Contributed|WebMonitor
 https://github.com/m516/TinyMatrixMath.git|Contributed|TinyMatrixMath
+https://github.com/fablabbh/Arduino-L298-Motor-Library.git|Contributed|L298 Motor Driver
