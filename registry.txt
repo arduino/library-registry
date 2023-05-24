@@ -5985,3 +5985,4 @@ https://github.com/witnessmenow/file-fetcher-arduino.git|Contributed|FileFetcher
 https://github.com/ejri/Cohere_Client_Arduino.git|Contributed|Cohere_Client
 https://github.com/GabyGold67/FourBitLedDigitalTube.git|Contributed|FourBitLedDigitalTube
 https://github.com/m5stack/M5CoreS3.git|Contributed|M5CoreS3
+https://github.com/deneyapkart/deneyap-servo-arduino-library.git|Contributed|Deneyap Servo
