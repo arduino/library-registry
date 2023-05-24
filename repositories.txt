@@ -4272,6 +4272,7 @@ https://github.com/m5stack/M5AtomS3
 https://github.com/m5stack/M5BurnerNVS
 https://github.com/m5stack/M5Core-Ink
 https://github.com/m5stack/M5Core2
+https://github.com/m5stack/M5CoreS3
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5Family
 https://github.com/m5stack/M5GFX
