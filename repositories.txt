@@ -3082,7 +3082,7 @@ https://github.com/cristborges/IRRemoteControl
 https://github.com/crmoratelli/SupmeaDO7016
 https://github.com/csash7/mbed-BLE-Mouse
 https://github.com/cubicleguy/su_arduino_spi
-https://github.com/cubicleguy/su_arduino_uart
+https://github.com/cubicleguy/su_arduino_uart 
 https://github.com/cujomalainey/ant-arduino
 https://github.com/cujomalainey/antplus-arduino
 https://github.com/cvmanjoo/AT24Cxx
@@ -3788,7 +3788,7 @@ https://github.com/jostlowe/Pico-DMX
 https://github.com/joysfera/arduino-tasker
 https://github.com/jpb10/SolarCalculator/
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
-https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library
+https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library 
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
 https://github.com/jpconstantineau/BlueMicro_SAMD_Arduino_Library
