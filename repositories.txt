@@ -1,3 +1,4 @@
+https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
@@ -984,6 +985,7 @@ https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
 https://github.com/M-Reimer/USBStatus
 https://github.com/M-tech-Creations/NoDelay
+https://github.com/m516/TinyMatrixMath
 https://github.com/MAINAKMONDAL98/MSMPLOTTER
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
@@ -1652,6 +1654,8 @@ https://github.com/RobTillaart/StopWatch_RT
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
 https://github.com/RobTillaart/TM1637_RT
+https://github.com/RobTillaart/TOPMAX
+https://github.com/RobTillaart/TOPMIN
 https://github.com/RobTillaart/TSL235R
 https://github.com/RobTillaart/TSL260R
 https://github.com/RobTillaart/Temperature
@@ -5876,3 +5880,8 @@ https://github.com/dojyorin/arduino_m0_tweak
 https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/rhrhhrhr/MPC_ruih
 https://github.com/sinricpro/teleport-arduino-esp32-library
+https://github.com/midilab/uClock
+https://github.com/sivar2311/WebMonitor
+https://github.com/fablabbh/Arduino-L298-Motor-Library
+https://github.com/witnessmenow/file-fetcher-arduino
+https://github.com/GabyGold67/FourBitLedDigitalTube
