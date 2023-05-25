@@ -5987,3 +5987,4 @@ https://github.com/GabyGold67/FourBitLedDigitalTube.git|Contributed|FourBitLedDi
 https://github.com/m5stack/M5CoreS3.git|Contributed|M5CoreS3
 https://github.com/deneyapkart/deneyap-servo-arduino-library.git|Contributed|Deneyap Servo
 https://github.com/hmz06967/SPI-FlashMem.git|Contributed|SPI-FlashMem
+https://github.com/hmz06967/OZGPS_NMEA.git|Contributed|OZGPS_NMEA
