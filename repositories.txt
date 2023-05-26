@@ -1,3 +1,4 @@
+https://github.com/wzwyz/Calculate
 https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
