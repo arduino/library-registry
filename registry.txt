@@ -5989,3 +5989,4 @@ https://github.com/deneyapkart/deneyap-servo-arduino-library.git|Contributed|Den
 https://github.com/hmz06967/SPI-FlashMem.git|Contributed|SPI-FlashMem
 https://github.com/hmz06967/OZGPS_NMEA.git|Contributed|OZGPS_NMEA
 https://github.com/wzwyz/Stringcalculater.git|Contributed|Stringcalculater
+https://github.com/wzwyz/CrystalC.git|Contributed|Crystal C Interpreter
