@@ -1,3 +1,7 @@
+https://github.com/bimac/EEPstore
+https://github.com/wzwyz/CrystalC
+https://github.com/wzwyz/Stringcalculater
+https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
@@ -984,6 +988,7 @@ https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
 https://github.com/M-Reimer/USBStatus
 https://github.com/M-tech-Creations/NoDelay
+https://github.com/m516/TinyMatrixMath
 https://github.com/MAINAKMONDAL98/MSMPLOTTER
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
@@ -3612,6 +3617,8 @@ https://github.com/hpwit/SID6581
 https://github.com/hsaturn/TinyConsole
 https://github.com/hsaturn/TinyMqtt
 https://github.com/hsfl/artemis-teensy
+https://github.com/htmltiger/dhtESP32-rmt
+https://github.com/htmltiger/esp32-ds18b20
 https://github.com/huilab/HoneywellTruStabilitySPI
 https://github.com/huilab/HoneywellZephyrI2C
 https://github.com/hunamizawa/ESPPerfectTime
@@ -4270,6 +4277,7 @@ https://github.com/m5stack/M5AtomS3
 https://github.com/m5stack/M5BurnerNVS
 https://github.com/m5stack/M5Core-Ink
 https://github.com/m5stack/M5Core2
+https://github.com/m5stack/M5CoreS3
 https://github.com/m5stack/M5EPD
 https://github.com/m5stack/M5Family
 https://github.com/m5stack/M5GFX
@@ -5878,4 +5886,15 @@ https://github.com/dojyorin/arduino_m0_tweak
 https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/rhrhhrhr/MPC_ruih
 https://github.com/sinricpro/teleport-arduino-esp32-library
+https://github.com/midilab/uClock
+https://github.com/sivar2311/WebMonitor
+https://github.com/fablabbh/Arduino-L298-Motor-Library
+https://github.com/witnessmenow/file-fetcher-arduino
+https://github.com/GabyGold67/FourBitLedDigitalTube
+https://github.com/deneyapkart/deneyap-servo-arduino-library
+https://github.com/hmz06967/SPI-FlashMem
+https://github.com/hmz06967/OZGPS_NMEA
+https://github.com/pazi88/STM32_CAN
+https://github.com/zapta/serial_packets_arduino
+https://github.com/dang-gun/Arduino_ButtonClickCheck
 https://github.com/flash62au/WiThrottleProtocol
