@@ -5994,3 +5994,4 @@ https://github.com/pazi88/STM32_CAN.git|Contributed|STM32_CAN
 https://github.com/bimac/EEPstore.git|Contributed|EEPstore
 https://github.com/htmltiger/dhtESP32-rmt.git|Contributed|dhtESP32-rmt
 https://github.com/htmltiger/esp32-ds18b20.git|Contributed|esp32-ds18b20
+https://github.com/dang-gun/Arduino_ButtonClickCheck.git|Contributed|ButtonClickCheck
