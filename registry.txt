@@ -5992,3 +5992,4 @@ https://github.com/wzwyz/Stringcalculater.git|Contributed|Stringcalculater
 https://github.com/wzwyz/CrystalC.git|Contributed|Crystal C Interpreter
 https://github.com/pazi88/STM32_CAN.git|Contributed|STM32_CAN
 https://github.com/bimac/EEPstore.git|Contributed|EEPstore
+https://github.com/htmltiger/dhtESP32-rmt.git|Contributed|dhtESP32-rmt
