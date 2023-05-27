@@ -3618,6 +3618,7 @@ https://github.com/hsaturn/TinyConsole
 https://github.com/hsaturn/TinyMqtt
 https://github.com/hsfl/artemis-teensy
 https://github.com/htmltiger/dhtESP32-rmt
+https://github.com/htmltiger/esp32-ds18b20
 https://github.com/huilab/HoneywellTruStabilitySPI
 https://github.com/huilab/HoneywellZephyrI2C
 https://github.com/hunamizawa/ESPPerfectTime
