@@ -5897,3 +5897,4 @@ https://github.com/hmz06967/OZGPS_NMEA
 https://github.com/pazi88/STM32_CAN
 https://github.com/zapta/serial_packets_arduino
 https://github.com/dang-gun/Arduino_ButtonClickCheck
+https://github.com/flash62au/WiThrottleProtocol
