@@ -5998,3 +5998,4 @@ https://github.com/dang-gun/Arduino_ButtonClickCheck.git|Contributed|ButtonClick
 https://github.com/zapta/serial_packets_arduino.git|Contributed|Serial_Packets
 https://github.com/flash62au/WiThrottleProtocol.git|Contributed|WiThrottleProtocol
 https://github.com/ArtronShop/ArtronShop_PCF85363.git|Contributed|ArtronShop_PCF85363
+https://github.com/JhoselinRam/gButton.git|Contributed|gButton
