@@ -6000,3 +6000,4 @@ https://github.com/flash62au/WiThrottleProtocol.git|Contributed|WiThrottleProtoc
 https://github.com/ArtronShop/ArtronShop_PCF85363.git|Contributed|ArtronShop_PCF85363
 https://github.com/JhoselinRam/gButton.git|Contributed|gButton
 https://github.com/tomasz90/two-buttons-interface.git|Contributed|TwoButtonsInterface
+https://github.com/DIYables/DIYables_4Digit7Segment_74HC595.git|Contributed|DIYables_4Digit7Segment_74HC595
