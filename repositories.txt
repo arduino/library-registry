@@ -1,3 +1,4 @@
+https://github.com/DIYables/DIYables_4Digit7Segment_74HC595
 https://github.com/bimac/EEPstore
 https://github.com/wzwyz/CrystalC
 https://github.com/wzwyz/Stringcalculater
@@ -5886,6 +5887,7 @@ https://github.com/GhassanYusuf/NewServo
 https://github.com/dojyorin/arduino_m0_tweak
 https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/rhrhhrhr/MPC_ruih
+https://github.com/yuki-kurosawa/SuperPico-TinyMenu
 https://github.com/sinricpro/teleport-arduino-esp32-library
 https://github.com/midilab/uClock
 https://github.com/sivar2311/WebMonitor
