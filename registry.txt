@@ -6003,3 +6003,4 @@ https://github.com/DIYables/DIYables_4Digit7Segment_74HC595.git|Contributed|DIYa
 https://github.com/yuki-kurosawa/SuperPico-TinyMenu.git|Contributed|TinyMenu
 https://github.com/dhrubasaha08/DHT11.git|Contributed|DHT11
 https://github.com/glutio/Taskfun.git|Contributed|Taskfun
+https://github.com/arduino-libraries/Arduino_GroveI2C_Ultrasonic.git|Arduino|Arduino_GroveI2C_Ultrasonic
