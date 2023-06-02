@@ -6008,3 +6008,4 @@ https://github.com/microsoft/ArduinoHidForWindows.git|Contributed|Microsoft_HidF
 https://github.com/masaad01/SPIFFS_Shell.git|Contributed|SPIFFS_Shell
 https://github.com/GyverLibs/FileData.git|Contributed|FileData
 https://github.com/blues/notecard-env-var-manager.git|Contributed|Blues Notecard Environment Variable Manager
+https://github.com/epsilonrt/Hmi4DinBox.git|Contributed|Hmi4DinBox
