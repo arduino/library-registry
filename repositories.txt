@@ -2867,6 +2867,7 @@ https://github.com/bluerobotics/BlueRobotics_TSYS01_Library
 https://github.com/bluerobotics/ping-arduino
 https://github.com/blues/note-arduino
 https://github.com/blues/notecard-aux-wifi
+https://github.com/blues/notecard-env-var-manager
 https://github.com/blues/notecard-pseudo-sensor
 https://github.com/blynkkk/blynk-library
 https://github.com/bmellink/IBusBM
