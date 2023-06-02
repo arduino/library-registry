@@ -5909,3 +5909,4 @@ https://github.com/ArtronShop/ArtronShop_PCF85363
 https://github.com/JhoselinRam/gButton
 https://github.com/glutio/Taskfun
 https://github.com/arduino-libraries/Arduino_GroveI2C_Ultrasonic
+https://github.com/epsilonrt/Hmi4DinBox
