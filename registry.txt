@@ -6007,3 +6007,4 @@ https://github.com/arduino-libraries/Arduino_GroveI2C_Ultrasonic.git|Arduino|Ard
 https://github.com/microsoft/ArduinoHidForWindows.git|Contributed|Microsoft_HidForWindows
 https://github.com/masaad01/SPIFFS_Shell.git|Contributed|SPIFFS_Shell
 https://github.com/GyverLibs/FileData.git|Contributed|FileData
+https://github.com/blues/notecard-env-var-manager.git|Contributed|Blues Notecard Environment Variable Manager
