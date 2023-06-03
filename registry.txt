@@ -6010,3 +6010,4 @@ https://github.com/GyverLibs/FileData.git|Contributed|FileData
 https://github.com/blues/notecard-env-var-manager.git|Contributed|Blues Notecard Environment Variable Manager
 https://github.com/epsilonrt/Hmi4DinBox.git|Contributed|Hmi4DinBox
 https://github.com/suratin27/DINO_PLC.git|Contributed|DINO PLC
+https://github.com/neittien0110/siotcore_sdk_v2.git|Contributed|siot_core_lib
