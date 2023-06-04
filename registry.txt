@@ -6015,3 +6015,4 @@ https://github.com/ProfTahseen/Tarmos.git|Contributed|Tarmos
 https://github.com/jgvmonteiro/SerialBus.git|Contributed|SerialBus
 https://github.com/Xylopyrographer/LiteLED.git|Contributed|LiteLED
 https://github.com/glutio/Eventfun.git|Contributed|Eventfun
+https://github.com/mhorimoto/M304-lib.git|Contributed|M304 Library
