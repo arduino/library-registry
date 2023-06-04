@@ -6014,3 +6014,4 @@ https://github.com/neittien0110/siotcore_sdk_v2.git|Contributed|siot_core_lib
 https://github.com/ProfTahseen/Tarmos.git|Contributed|Tarmos
 https://github.com/jgvmonteiro/SerialBus.git|Contributed|SerialBus
 https://github.com/Xylopyrographer/LiteLED.git|Contributed|LiteLED
+https://github.com/glutio/Eventfun.git|Contributed|Eventfun
