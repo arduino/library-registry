@@ -6018,3 +6018,4 @@ https://github.com/glutio/Eventfun.git|Contributed|Eventfun
 https://github.com/mhorimoto/M304-lib.git|Contributed|M304 Library
 https://github.com/rm5248/liblcc-arduino.git|Contributed|LibLCC
 https://github.com/SNMetamorph/FutabaVfdM202MD10C.git|Contributed|FutabaVfdM202MD10C
+https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library.git|Contributed|Yfrobot Fingerprint Identification Sensor Library
