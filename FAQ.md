@@ -43,7 +43,7 @@ When a library is [added to the library list](README.md#adding-a-library-to-libr
 
 More information:
 
-- https://www.arduino.cc/en/Guide/Libraries#toc3
+- https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager
 - https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/
 - https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a
 
@@ -77,9 +77,9 @@ Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 - [ ] For 3rd party libraries, the `name` field in library.properties must not start with `Arduino`.
 - [ ] The library repository must not contain any `.exe` files.
 - [ ] The library repository must not contain a [`.development` file](https://arduino.github.io/arduino-cli/latest/library-specification/#development-flag-file).
-- [ ] The library repository must not contain any [symlinks](https://en.wikipedia.org/wiki/Symbolic_link).
+- [ ] The library repository must not contain any [symlinks](https://wikipedia.org/wiki/Symbolic_link).
 - [ ] The library repository must not contain any files detected as infected by our antivirus scan.
-- [ ] The library repository must have a [Git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) (or [release](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)) and must have been compliant with all the above requirements at the time of that tag.
+- [ ] The library repository must have a [Git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) (or [release](https://docs.github.com/repositories/releasing-projects-on-github/managing-releases-in-a-repository)) and must have been compliant with all the above requirements at the time of that tag.
 - [ ] The library repository must be hosted on a major Git-hosting website like GitHub, BitBucket or GitLab (other hosting sites may be considered on request).
 
 Arduino has created a command line tool to check libraries for compliance with all the Library Manager requirements:
@@ -102,7 +102,7 @@ Note that libraries will need to be compliant with [all requirements](#update-re
 
 1. Make sure the library is compliant with [all requirements](#update-requirements).
 1. Update the `version` in the library's [`library.properties`](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata)).
-1. Tag the library's repository once more and push the new tag (or create a release if the library's Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)).
+1. Tag the library's repository once more and push the new tag (or create a release if the library's Git-hosting site offers a way to do it, for example with [GitHub "releases"](https://docs.github.com/repositories/releasing-projects-on-github/managing-releases-in-a-repository)).
 
 [Our indexer](#how-is-the-library-manager-index-generated) checks for new releases every hour and will eventually fetch and publish the new release.
 
@@ -141,7 +141,7 @@ If you discover a problem with the library release, simply fix the problem and m
 In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
 
 1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
-1. Open an issue in [the issue tracker of this repository](https://github.com/arduino/library-registry/issues), specifying the URL of the library repository and requesting that the library be updated.
+1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+release+removal&template=release-removal.yml&title=Library+release+removal+request), specifying the name of the library and the version number of the release that should be removed.
 
 <a id="how-can-i-change-my-librarys-name"></a>
 
@@ -153,7 +153,7 @@ If you wish to change the name it will need to be done manually by request:
 
 1. Change the `name` value in the [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
 1. Create a release or tag.
-1. Submit an [issue report](https://github.com/arduino/library-registry/issues) requesting the name be changed and stating the URL of the library's repository.
+1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+rename&template=rename.yml&title=Library+name+change+request) specifying the URL of the library's repository.
 
 ## Limitations
 

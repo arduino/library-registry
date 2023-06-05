@@ -1,7 +1,7 @@
 # Arduino Library Manager list
 
 This repository contains the list of libraries in the
-[Arduino Library Manager](https://www.arduino.cc/en/guide/libraries#toc3) index.
+[Arduino Library Manager](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager) index.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ For more information about Arduino Library Manager and how the index is maintain
 ## Adding a library to Library Manager
 
 If you would like to make a library available for installation via Library Manager, just submit a
-[pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests)
+[pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
 that adds the repository URL to [the list](repositories.txt). You are welcome to add multiple libraries at once.
 
 See the instructions below for detailed instructions on how to do this via the GitHub web interface.
@@ -54,7 +54,7 @@ with your pull request or with the library.
 #### If the problem is with the pull request:
 
 Edit the file in the
-[branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+[branch](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 you submitted the pull request from in your fork of the `arduino/library-registry` repository, then commit.
 
 Doing this will update the pull request and cause the automated checks to run again.
@@ -65,7 +65,7 @@ Doing this will update the pull request and cause the automated checks to run ag
 1. Increment the `version` value in the library's
    [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata).
 1. Create a
-   [release](https://docs.github.com/en/github/administering-a-repository/releasing-projects-on-github/managing-releases-in-a-repository)
+   [release](https://docs.github.com/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
    or [tag](https://git-scm.com/docs/git-tag). The Library Manager index always uses tagged versions of the libraries,
    so even if the development version of the library is compliant, it can't be accepted until the latest release or tag
    is compliant. Alternatively, you can redo the existing release/tag if you prefer.
@@ -96,5 +96,4 @@ because it was not compliant with all [the requirements](FAQ.md#update-requireme
 This repository is not an appropriate place to request support or report problems with a library. Check the library's
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
 
-If the problem is about something else, please make an issue report here:
-https://github.com/arduino/library-registry/issues?q=is%3Aissue
+If the problem is about something else, please submit an issue report [here](https://github.com/arduino/library-registry/issues/new/choose).
