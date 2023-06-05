@@ -5723,6 +5723,7 @@ https://github.com/xoseperez/s7xg
 https://github.com/xreef/ABB_Aurora_Solar_Inverter_Library
 https://github.com/xreef/DHT12_sensor_library
 https://github.com/xreef/EByte_LoRa_E220_Series_Library
+https://github.com/suratin27/DINO_PLC_V1
 https://github.com/xreef/EByte_LoRa_E22_Series_Library
 https://github.com/xreef/EMailSender
 https://github.com/xreef/LoRa_E32_Series_Library
