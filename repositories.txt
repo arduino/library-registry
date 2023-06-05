@@ -4730,3 +4730,4 @@ https://github.com/akkoyun/RV3028
 https://github.com/BeanieBob/GY26Compass
 https://github.com/khoih-prog/AsyncMQTT_Generic
 https://github.com/xreef/EByte_LoRa_E220_Series_Library
+https://github.com/suratin27/DINO_PLC_V1
