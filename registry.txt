@@ -6020,3 +6020,4 @@ https://github.com/rm5248/liblcc-arduino.git|Contributed|LibLCC
 https://github.com/SNMetamorph/FutabaVfdM202MD10C.git|Contributed|FutabaVfdM202MD10C
 https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library.git|Contributed|Yfrobot Fingerprint Identification Sensor Library
 https://github.com/pablomarquez76/AnalogWrite_ESP32.git|Contributed|AnalogWrite_ESP32
+https://github.com/suratin27/DINO_PLC_V1.git|Contributed|DINO_PLC_V1
