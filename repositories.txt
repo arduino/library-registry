@@ -2136,6 +2136,7 @@ https://github.com/XbergCode/Uptime
 https://github.com/XiloXL/Powerbaas
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
+https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library
 https://github.com/YashuYathi/controlKeyboard
 https://github.com/YiannisBourkelis/Uptime-Library
 https://github.com/YoupiLab/YLEsp8266
@@ -5919,3 +5920,4 @@ https://github.com/glutio/Eventfun
 https://github.com/mhorimoto/M304-lib
 https://github.com/rm5248/liblcc-arduino
 https://github.com/pablomarquez76/AnalogWrite_ESP32
+https://github.com/SNMetamorph/FutabaVfdM202MD10C
