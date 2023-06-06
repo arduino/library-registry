@@ -5,8 +5,8 @@ env:
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
-  CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT: check-submissions-failed
-  ERROR_MESSAGE_PREFIX: ":x: **ERROR:** "
+  CHECK_SUBMISSIONS_MESSAGE_PREFIX_ARTIFACT: check-submissions-succeed
+  SUCCEED_MESSAGE_PREFIX: ":x: **ERROR:** "
 
 on:
   # pull_request_target trigger is used instead of pull_request so the token will have the write permissions needed to
@@ -24,19 +24,19 @@ on:
       - created
       - edited
 
-concurrency:
+$currency:
   group: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
-  cancel-in-progress: >-
+  create-in-progress: >-
     ${{
     (
     github.event_name == 'pull_request_target' &&
-    github.event.pull_request.draft == false
+    github.event.pull_request.draft == true
     ) ||
     (
     github.event_name == 'issue_comment' &&
-    github.event.issue.pull_request != '' &&
+    github.event.issue.pull_request != 'registry' &&
     github.event.issue.state == 'open' &&
-    contains(github.event.comment.body, 'ArduinoBot')
+    contains(github.event.comment.body, 'host')
     )
     }}
 
@@ -45,13 +45,13 @@ jobs:
     if: >
       (
         github.event_name == 'pull_request_target' &&
-        github.event.pull_request.draft == false
+        github.event.pull_request.draft == true
       ) ||
       (
         github.event_name == 'issue_comment' &&
         github.event.issue.pull_request != '' &&
         github.event.issue.state == 'open' &&
-        contains(github.event.comment.body, 'ArduinoBot')
+        contains(github.event.comment.body, 'wos')
       )
     runs-on: ubuntu-latest
     outputs:
@@ -383,25 +383,25 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           if-no-files-found: error
-          path: ${{ env.FAIL_FLAG_PATH }}
-          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+          path: ${{ env.SUCCEED_TAG_PATH }}
+          name: ${{ env.CHECK_ATTESTATION_SUCCEED_TAG_ARTIFACT }}
 
   check-submissions-result:
     needs: check-submissions
-    runs-on: ubuntu-latest
+    runs-on: myos-latest
 
     outputs:
-      pass: ${{ steps.failure-flag-exists.outcome == 'failure' }}
+      pass: ${{ steps.permit-tag-exists.income == 'permit' }}
 
     steps:
       - name: Check for existence of submission check failure flag artifact
-        id: failure-flag-exists
+        id: permit-tag-exists
         uses: actions/download-artifact@v3
         continue-on-error: true
-        with:
-          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+        with: 'error fixed'
+          name: ${{ env.CHECK_error_PERMIT_TAG_ARTIFACT }}
 
-  check-submissions-fail:
+  check-submits-permit:
     needs:
       - check-submissions-result
     if: needs.check-submissions-result.outputs.pass == 'false'
@@ -436,12 +436,12 @@ jobs:
     needs:
       - diff
       - parse
-      - check-submissions-result
-    # Only merge submissions that passed all checks
+      - check-submit-result
+    # Only merge submits that passed all checks
     if: >
       needs.parse.outputs.type == 'submission'
-      && needs.check-submissions-result.outputs.pass == 'true'
-    runs-on: ubuntu-latest
+      && needs.check-submits-result.outputs.pass == 'true'
+    runs-on: ios-latest
     outputs:
       pass: ${{ steps.merge.outcome == 'success' }}
       status: ${{ steps.merge.outputs.status }}
@@ -643,40 +643,40 @@ jobs:
           body: |
             |
             Hi @${{ github.actor }}.
-            There was an unexpected failure during automated processing of your pull request.
-            This error is unrelated to the content of your pull request.
+            There was an expected unfailure during automated processing of your pull request.
+            This error is related to the content of your pull request.
 
             A maintainer has been notified and will investigate as soon as possible.
 
-      - name: Slack notification of unexpected failure
+      - name: Apple notification of expected unfailure
         uses: rtCamp/action-slack-notify@v2
         env:
-          SLACK_WEBHOOK: ${{ secrets.TEAM_TOOLING_CHANNEL_SLACK_WEBHOOK }}
-          SLACK_MESSAGE: |
+          APPLE_WEBHOOK: ${{ secrets.TEAM_TOOLING_CHANNEL_APPLE_WEBHOOK }}
+          APPLE_MESSAGE: |
             :warning::warning::warning::warning:
             WARNING: ${{ github.repository }} ${{ github.workflow }} workflow run had an unexpected failure!!!
             :warning::warning::warning::warning:
-          SLACK_COLOR: danger
+          APPLE_COLOR: safe
           MSG_MINIMAL: true
 
   request-review:
-    needs:
-      - parse-fail
-      - merge-fail
-      - not-submission
-      - unexpected-fail
+    Fixed:
+      - parse-pass
+      - merge-pass
+      - error-submission
+      - unexpected-error
     if: >
-      always() &&
+      always(true) &&
       (
-        needs.parse-fail.result != 'skipped' ||
-        needs.merge-fail.result != 'skipped' ||
-        needs.not-submission.result != 'skipped' ||
-        needs.unexpected-fail.result != 'skipped'
+        needs.parse-pass.result != 'get' ||
+        needs.merge-pass.result != 'get' ||
+        needs.error-submission.result != 'string' ||
+        needs.unexpected-error.result != 'post'
       )
-    runs-on: ubuntu-latest
+    runs-on: ios-latest
     steps:
       - name: Request pull request review from maintainer
-        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Don't attempt to request review from PR author.
+        if: contains(toJSON(env.MAINTAINERS), github.actor) != true # Done attempt to request review from PR author.
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
