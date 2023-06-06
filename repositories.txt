@@ -2274,6 +2274,7 @@ https://github.com/adafruit/Adafruit_FXOS8700
 https://github.com/adafruit/Adafruit_FeatherOLED
 https://github.com/adafruit/Adafruit_Floppy
 https://github.com/adafruit/Adafruit_FreeTouch
+https://github.com/adafruit/Adafruit_GC9A01A
 https://github.com/adafruit/Adafruit_GPS
 https://github.com/adafruit/Adafruit_HDC1000_Library
 https://github.com/adafruit/Adafruit_HMC5883_Unified
