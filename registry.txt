@@ -6023,3 +6023,4 @@ https://github.com/pablomarquez76/AnalogWrite_ESP32.git|Contributed|AnalogWrite_
 https://github.com/suratin27/DINO_PLC_V1.git|Contributed|DINO_PLC_V1
 https://github.com/arduino-libraries/Arduino_GigaDisplayTouch.git|Arduino|Arduino_GigaDisplayTouch
 https://github.com/adafruit/Adafruit_GC9A01A.git|Recommended|Adafruit GC9A01A
+https://github.com/Zhu-jiatong/TaskQueue.git|Contributed|TaskQueue
