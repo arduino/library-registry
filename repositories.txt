@@ -8,6 +8,7 @@ https://github.com/wzwyz/CrystalC
 https://github.com/wzwyz/Stringcalculater
 https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
+https://github.com/Zhu-jiatong/TaskQueue
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
