@@ -6026,3 +6026,4 @@ https://github.com/adafruit/Adafruit_GC9A01A.git|Recommended|Adafruit GC9A01A
 https://github.com/Zhu-jiatong/TaskQueue.git|Contributed|TaskQueue
 https://github.com/dang-gun/Arduino_StepperAsync5.git|Contributed|Stepper Async 5
 https://github.com/ripred/CompileTime.git|Contributed|CompileTime
+https://github.com/Crazy-Max-Blog/Crazy_IoTik.git|Contributed|Crazy-IoTik
