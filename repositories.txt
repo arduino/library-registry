@@ -764,6 +764,7 @@ https://github.com/GyverLibs/microDS18B20
 https://github.com/GyverLibs/microDS3231
 https://github.com/GyverLibs/microLED
 https://github.com/GyverLibs/microWire
+https://github.com/Crazy-Max-Blog/Crazy_IoTik
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
 https://github.com/HNRobotica/LineTracker5
