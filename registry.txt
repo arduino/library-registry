@@ -6028,3 +6028,4 @@ https://github.com/dang-gun/Arduino_StepperAsync5.git|Contributed|Stepper Async 
 https://github.com/ripred/CompileTime.git|Contributed|CompileTime
 https://github.com/Crazy-Max-Blog/Crazy_IoTik.git|Contributed|Crazy-IoTik
 https://github.com/eigen-value/Transform.git|Contributed|Transform
+https://github.com/DavidArmstrong/SiderealObjects.git|Contributed|SiderealObjects
