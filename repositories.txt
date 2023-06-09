@@ -4324,6 +4324,7 @@ https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/m5stack/PoE_CAM
+https://github.com/m5stack/PoE_CAM-Ethernet
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/madhephaestus/BNO055SimplePacketComs
