@@ -6029,3 +6029,4 @@ https://github.com/ripred/CompileTime.git|Contributed|CompileTime
 https://github.com/Crazy-Max-Blog/Crazy_IoTik.git|Contributed|Crazy-IoTik
 https://github.com/eigen-value/Transform.git|Contributed|Transform
 https://github.com/DavidArmstrong/SiderealObjects.git|Contributed|SiderealObjects
+https://github.com/m5stack/PoE_CAM-Ethernet.git|Contributed|PoE_CAM-Ethernet
