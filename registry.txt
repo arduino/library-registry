@@ -6031,3 +6031,4 @@ https://github.com/eigen-value/Transform.git|Contributed|Transform
 https://github.com/DavidArmstrong/SiderealObjects.git|Contributed|SiderealObjects
 https://github.com/m5stack/PoE_CAM-Ethernet.git|Contributed|PoE_CAM-Ethernet
 https://github.com/vindar/ILI9342_T4.git|Contributed|ILI9342_T4
+https://github.com/m5stack/M5Unit-DigiClock.git|Contributed|M5Unit-DigiClock
