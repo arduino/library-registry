@@ -4309,6 +4309,7 @@ https://github.com/m5stack/M5Unit-4RELAY
 https://github.com/m5stack/M5Unit-ACSSR
 https://github.com/m5stack/M5Unit-CatM
 https://github.com/m5stack/M5Unit-DDS
+https://github.com/m5stack/M5Unit-DigiClock
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5Unit-Encoder
