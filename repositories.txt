@@ -5935,3 +5935,4 @@ https://github.com/ripred/CompileTime
 https://github.com/eigen-value/Transform
 https://github.com/DavidArmstrong/SiderealObjects
 https://github.com/epsilonrt/RadioHead.git#mikem
+https://github.com/epsilonrt/modbus-radio
