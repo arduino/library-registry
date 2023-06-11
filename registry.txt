@@ -6036,3 +6036,4 @@ https://github.com/epsilonrt/RadioHead.git|Contributed|RadioHead
 https://github.com/sakura-internet/sipf-arduino-client.git|Contributed|sipf-arduino-client
 https://github.com/hexaedron/PostNeoSWSerial.git|Contributed|PostNeoSWSerial
 https://github.com/epsilonrt/modbus-radio.git|Contributed|Modbus-Radio
+https://github.com/alexitoo00/NewEncoder.git|Contributed|NewEncoder
