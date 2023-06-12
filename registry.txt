@@ -6038,3 +6038,4 @@ https://github.com/hexaedron/PostNeoSWSerial.git|Contributed|PostNeoSWSerial
 https://github.com/epsilonrt/modbus-radio.git|Contributed|Modbus-Radio
 https://github.com/alexitoo00/NewEncoder.git|Contributed|NewEncoder
 https://github.com/stm32duino/VL53L8CX.git|Contributed|STM32duino VL53L8CX
+https://github.com/blynkkk/BlynkNcpDriver.git|Contributed|BlynkNcpDriver
