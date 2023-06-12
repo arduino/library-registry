@@ -2879,6 +2879,7 @@ https://github.com/blues/notecard-aux-wifi
 https://github.com/blues/notecard-env-var-manager
 https://github.com/blues/notecard-pseudo-sensor
 https://github.com/blynkkk/blynk-library
+https://github.com/blynkkk/BlynkNcpDriver
 https://github.com/bmellink/IBusBM
 https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
