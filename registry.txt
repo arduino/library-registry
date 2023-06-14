@@ -6046,3 +6046,4 @@ https://github.com/DFRobot/DFRobot_LcdDisplay.git|Contributed|DFRobot_LcdDisplay
 https://github.com/Interested-In-Spresense/MM-S50MV.git|Contributed|MM-S50MV
 https://github.com/DIYables/DIYables_IRcontroller.git|Contributed|DIYables_IRcontroller
 https://github.com/stm32duino/X-NUCLEO-53L8A1.git|Contributed|STM32duino X-NUCLEO-53L8A1
+https://github.com/sparkfun/SparkFun_LSM6DSV16X_Arduino_Library.git|Contributed|SparkFun 6DoF LSM6DSV16X
