@@ -6045,3 +6045,4 @@ https://github.com/DFRobot/DFRobot_GP8XXX.git|Contributed|DFRobot_GP8XXX
 https://github.com/DFRobot/DFRobot_LcdDisplay.git|Contributed|DFRobot_LcdDisplay
 https://github.com/Interested-In-Spresense/MM-S50MV.git|Contributed|MM-S50MV
 https://github.com/DIYables/DIYables_IRcontroller.git|Contributed|DIYables_IRcontroller
+https://github.com/stm32duino/X-NUCLEO-53L8A1.git|Contributed|STM32duino X-NUCLEO-53L8A1
