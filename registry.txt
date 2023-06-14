@@ -6044,3 +6044,4 @@ https://github.com/sunfounder/SunFounder_Ai_Camera.git|Contributed|SunFounder AI
 https://github.com/DFRobot/DFRobot_GP8XXX.git|Contributed|DFRobot_GP8XXX
 https://github.com/DFRobot/DFRobot_LcdDisplay.git|Contributed|DFRobot_LcdDisplay
 https://github.com/Interested-In-Spresense/MM-S50MV.git|Contributed|MM-S50MV
+https://github.com/DIYables/DIYables_IRcontroller.git|Contributed|DIYables_IRcontroller
