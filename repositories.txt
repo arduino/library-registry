@@ -409,6 +409,7 @@ https://github.com/DFRobot/DFRobot_GM60
 https://github.com/DFRobot/DFRobot_GNSS
 https://github.com/DFRobot/DFRobot_GP8302
 https://github.com/DFRobot/DFRobot_GP8403
+https://github.com/DFRobot/DFRobot_GP8XXX
 https://github.com/DFRobot/DFRobot_Gesture_Touch
 https://github.com/DFRobot/DFRobot_HX711
 https://github.com/DFRobot/DFRobot_HX711_I2C
@@ -426,6 +427,7 @@ https://github.com/DFRobot/DFRobot_LIS
 https://github.com/DFRobot/DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_LSM303
 https://github.com/DFRobot/DFRobot_LWLP
+https://github.com/DFRobot/DFRobot_LcdDisplay
 https://github.com/DFRobot/DFRobot_LedDisplayModule
 https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_MAX17043
