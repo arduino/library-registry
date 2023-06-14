@@ -5126,6 +5126,7 @@ https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary
 https://github.com/sparkfun/HyperDisplay_SSD1309_ArduinoLibrary
 https://github.com/sparkfun/HyperDisplay_UG2856KLBAG01_ArduinoLibrary
 https://github.com/sparkfun/SparkFunDMX
+https://github.com/sparkfun/SparkFun_LSM6DSV16X_Arduino_Library
 https://github.com/sparkfun/SparkFun_6DoF_ISM330DHCX_Arduino_Library
 https://github.com/sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library
 https://github.com/sparkfun/SparkFun_AD5330_Breakout_Arduino_Library
