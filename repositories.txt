@@ -5941,3 +5941,4 @@ https://github.com/epsilonrt/RadioHead.git#mikem
 https://github.com/epsilonrt/modbus-radio
 https://github.com/hexaedron/PostNeoSWSerial
 https://github.com/stm32duino/VL53L8CX
+https://github.com/sunfounder/SunFounder_Ai_Camera
