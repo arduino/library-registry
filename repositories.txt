@@ -4900,6 +4900,7 @@ https://github.com/red-scorp/SoftSPIB
 https://github.com/redkea/arduino-library
 https://github.com/regimantas/Oversampling
 https://github.com/rei-vilo/PDLS_EXT3_Basic
+https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch
 https://github.com/remicaumette/esp8266-redis
