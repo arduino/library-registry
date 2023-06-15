@@ -31,7 +31,7 @@ jobs:
 
       - name: Download JSON schema for labels configuration file
         id: download-schema
-        uses: carlosperate/download-file-action@v1
+        uses: carlosperate/download-file-action@v2
         with:
           file-url: https://raw.githubusercontent.com/arduino/tooling-project-assets/main/workflow-templates/assets/sync-labels/arduino-tooling-gh-label-configuration-schema.json
           location: ${{ runner.temp }}/label-configuration-schema
@@ -65,7 +65,7 @@ jobs:
 
     steps:
       - name: Download
-        uses: carlosperate/download-file-action@v1
+        uses: carlosperate/download-file-action@v2
         with:
           file-url: https://raw.githubusercontent.com/arduino/tooling-project-assets/main/workflow-templates/assets/sync-labels/${{ matrix.filename }}
 
@@ -114,7 +114,7 @@ jobs:
           path: ${{ env.CONFIGURATIONS_FOLDER }}
 
       - name: Remove unneeded artifact
-        uses: geekyeggo/delete-artifact@v1
+        uses: geekyeggo/delete-artifact@v2
         with:
           name: ${{ env.CONFIGURATIONS_ARTIFACT }}
 
