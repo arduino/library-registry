@@ -839,6 +839,7 @@ https://github.com/Infineon/arduino-rgb-led-lighting-shield
 https://github.com/Infineon/hall-switch
 https://github.com/Infineon/high-side-switch
 https://github.com/Infineon/motor-system-ic-tle956x
+https://github.com/Infineon/arduino-xensiv-dps3xx
 https://github.com/InfiniteCoder01/BufferedOreonSSD1351
 https://github.com/IngeniaMC/Ingenia-Serial-Servo-Drive-Library
 https://github.com/InqOnThat/InqPortal
