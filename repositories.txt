@@ -3118,6 +3118,7 @@ https://github.com/cygig/MonteCarloPi
 https://github.com/cygig/SDConfigCommand
 https://github.com/cygig/SerialConfigCommand
 https://github.com/cygig/TimerEvent
+https://github.com/cyijun/ESP32MQTTClient
 https://github.com/cyijun/HAMqttDiscoveryHandler
 https://github.com/d-a-v/ESPWebDAV
 https://github.com/d00616/arduino-NVM
