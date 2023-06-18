@@ -4437,6 +4437,7 @@ https://github.com/mcci-catena/MCCI_FRAM_I2C
 https://github.com/mcci-catena/arduino-lmic
 https://github.com/mcci-catena/arduino-lorawan
 https://github.com/mcci-catena/mcci_ltr_329als
+https://github.com/mcci-catena/SoftwareSerial
 https://github.com/mchwalfajar/jeager-one
 https://github.com/mcmchris/mcm-bl0940-lib
 https://github.com/mcmchris/mcm-grove-voltage-sensor
