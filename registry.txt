@@ -6054,3 +6054,4 @@ https://github.com/cyijun/ESP32MQTTClient.git|Contributed|ESP32MQTTClient
 https://github.com/mcci-catena/SoftwareSerial.git|Contributed|MCCI SofwareSerial
 https://github.com/koendv/cst816t.git|Contributed|cst816t
 https://github.com/RobTillaart/TLC5947.git|Contributed|TLC5947
+https://github.com/bitbank2/bb_rtc.git|Contributed|bb_rtc
