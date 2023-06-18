@@ -6053,3 +6053,4 @@ https://github.com/skyfroger/RPlatform.git|Contributed|RPlatform
 https://github.com/cyijun/ESP32MQTTClient.git|Contributed|ESP32MQTTClient
 https://github.com/mcci-catena/SoftwareSerial.git|Contributed|MCCI SofwareSerial
 https://github.com/koendv/cst816t.git|Contributed|cst816t
+https://github.com/RobTillaart/TLC5947.git|Contributed|TLC5947
