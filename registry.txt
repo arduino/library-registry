@@ -6052,3 +6052,4 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY.git|Contributed|PDLS_EXT3_Basic
 https://github.com/skyfroger/RPlatform.git|Contributed|RPlatform
 https://github.com/cyijun/ESP32MQTTClient.git|Contributed|ESP32MQTTClient
 https://github.com/mcci-catena/SoftwareSerial.git|Contributed|MCCI SofwareSerial
+https://github.com/koendv/cst816t.git|Contributed|cst816t
