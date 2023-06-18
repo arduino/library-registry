@@ -6051,3 +6051,4 @@ https://github.com/Infineon/arduino-xensiv-dps3xx.git|Contributed|XENSIV Digital
 https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY.git|Contributed|PDLS_EXT3_Basic_BWRY
 https://github.com/skyfroger/RPlatform.git|Contributed|RPlatform
 https://github.com/cyijun/ESP32MQTTClient.git|Contributed|ESP32MQTTClient
+https://github.com/mcci-catena/SoftwareSerial.git|Contributed|MCCI SofwareSerial
