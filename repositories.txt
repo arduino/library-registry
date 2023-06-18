@@ -5956,3 +5956,5 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
 https://github.com/skyfroger/RPlatform
 https://github.com/koendv/cst816t
 https://github.com/bitbank2/bb_rtc
+https://github.com/ripred/Smooth
+
