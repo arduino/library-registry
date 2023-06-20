@@ -1,3 +1,5 @@
+https://github.com/AlfredoSystems/Alfredo-NoU2
+https://github.com/AlfredoSystems/AlfredoConnect-Receive
 https://github.com/AsproCompany/GeneralShield
 https://github.com/vindar/ILI9342_T4
 https://github.com/Xylopyrographer/LiteLED
@@ -13,6 +15,7 @@ https://github.com/wzwyz/Stringcalculater
 https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
 https://github.com/Zhu-jiatong/TaskQueue
+https://github.com/Zhu-jiatong/FilesystemUtilities
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
@@ -1671,6 +1674,7 @@ https://github.com/RobTillaart/Statistic
 https://github.com/RobTillaart/StopWatch_RT
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
+https://github.com/RobTillaart/TLC5947
 https://github.com/RobTillaart/TM1637_RT
 https://github.com/RobTillaart/TOPMAX
 https://github.com/RobTillaart/TOPMIN
@@ -3116,6 +3120,7 @@ https://github.com/cygig/MonteCarloPi
 https://github.com/cygig/SDConfigCommand
 https://github.com/cygig/SerialConfigCommand
 https://github.com/cygig/TimerEvent
+https://github.com/cyijun/ESP32MQTTClient
 https://github.com/cyijun/HAMqttDiscoveryHandler
 https://github.com/d-a-v/ESPWebDAV
 https://github.com/d00616/arduino-NVM
@@ -4434,6 +4439,7 @@ https://github.com/mcci-catena/MCCI_FRAM_I2C
 https://github.com/mcci-catena/arduino-lmic
 https://github.com/mcci-catena/arduino-lorawan
 https://github.com/mcci-catena/mcci_ltr_329als
+https://github.com/mcci-catena/SoftwareSerial
 https://github.com/mchwalfajar/jeager-one
 https://github.com/mcmchris/mcm-bl0940-lib
 https://github.com/mcmchris/mcm-grove-voltage-sensor
@@ -5947,3 +5953,10 @@ https://github.com/stm32duino/VL53L8CX
 https://github.com/sunfounder/SunFounder_Ai_Camera
 https://github.com/Interested-In-Spresense/MM-S50MV
 https://github.com/stm32duino/X-NUCLEO-53L8A1
+https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
+https://github.com/skyfroger/RPlatform
+https://github.com/koendv/cst816t
+https://github.com/bitbank2/bb_rtc
+https://github.com/ripred/Smooth
+https://github.com/ryraki/FXPS7xxx_Arduino
+https://github.com/ryraki/FXLS89xx_Arduino
