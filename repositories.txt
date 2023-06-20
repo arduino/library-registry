@@ -5962,3 +5962,4 @@ https://github.com/bitbank2/bb_rtc
 https://github.com/ripred/Smooth
 https://github.com/ryraki/FXPS7xxx_Arduino
 https://github.com/ryraki/FXLS89xx_Arduino
+https://github.com/bitbank2/bb_ltr390
