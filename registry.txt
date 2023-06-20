@@ -6059,3 +6059,5 @@ https://github.com/ripred/Smooth.git|Contributed|Smooth
 https://github.com/Zhu-jiatong/FilesystemUtilities.git|Contributed|FilesystemUtilities
 https://github.com/AlfredoSystems/Alfredo-NoU2.git|Contributed|Alfredo-NoU2
 https://github.com/AlfredoSystems/AlfredoConnect-Receive.git|Contributed|AlfredoConnect-Receive
+https://github.com/ryraki/FXPS7xxx_Arduino.git|Contributed|FXPS7xxx_Arduino
+https://github.com/ryraki/FXLS89xx_Arduino.git|Contributed|FXLS89xx_Arduino
