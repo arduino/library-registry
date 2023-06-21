@@ -6063,3 +6063,4 @@ https://github.com/ryraki/FXPS7xxx_Arduino.git|Contributed|FXPS7xxx_Arduino
 https://github.com/ryraki/FXLS89xx_Arduino.git|Contributed|FXLS89xx_Arduino
 https://github.com/bitbank2/bb_ltr390.git|Contributed|bb_ltr390
 https://github.com/jmerc77/Fast4ier.git|Contributed|Fast4ier
+https://github.com/lualtek/lualtek-rak3172.git|Contributed|LualtekRAK3172
