@@ -1,3 +1,6 @@
+https://github.com/jmerc77/Fast4ier
+https://github.com/AlfredoSystems/Alfredo-NoU2
+https://github.com/AlfredoSystems/AlfredoConnect-Receive
 https://github.com/AsproCompany/GeneralShield
 https://github.com/vindar/ILI9342_T4
 https://github.com/Xylopyrographer/LiteLED
@@ -13,6 +16,7 @@ https://github.com/wzwyz/Stringcalculater
 https://github.com/ejri/Cohere_Client_Arduino
 https://github.com/Zhu-jiatong/WebServerSessionManager.git
 https://github.com/Zhu-jiatong/TaskQueue
+https://github.com/Zhu-jiatong/FilesystemUtilities
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
@@ -5158,6 +5162,7 @@ https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMA400_Arduino_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
+https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
@@ -5955,3 +5960,10 @@ https://github.com/stm32duino/X-NUCLEO-53L8A1
 https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
 https://github.com/skyfroger/RPlatform
 https://github.com/koendv/cst816t
+https://github.com/bitbank2/bb_rtc
+https://github.com/ripred/Smooth
+https://github.com/ryraki/FXPS7xxx_Arduino
+https://github.com/ryraki/FXLS89xx_Arduino
+https://github.com/bitbank2/bb_ltr390
+https://github.com/lualtek/lualtek-rak3172
+https://github.com/fellipecouto/CipherCode
