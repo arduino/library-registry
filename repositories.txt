@@ -1,3 +1,4 @@
+https://github.com/jmerc77/Fast4ier
 https://github.com/AlfredoSystems/Alfredo-NoU2
 https://github.com/AlfredoSystems/AlfredoConnect-Receive
 https://github.com/AsproCompany/GeneralShield
@@ -5159,6 +5160,7 @@ https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMA400_Arduino_Library
 https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
+https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
@@ -5960,3 +5962,6 @@ https://github.com/bitbank2/bb_rtc
 https://github.com/ripred/Smooth
 https://github.com/ryraki/FXPS7xxx_Arduino
 https://github.com/ryraki/FXLS89xx_Arduino
+https://github.com/bitbank2/bb_ltr390
+https://github.com/lualtek/lualtek-rak3172
+https://github.com/fellipecouto/CipherCode
