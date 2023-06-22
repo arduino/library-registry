@@ -1694,6 +1694,7 @@ https://github.com/RobTillaart/ellipse
 https://github.com/RobTillaart/fast_math
 https://github.com/RobTillaart/float16
 https://github.com/RobTillaart/infiniteAverage
+https://github.com/RobTillaart/integer24
 https://github.com/RobTillaart/map2colour
 https://github.com/RobTillaart/moduloMap
 https://github.com/RobTillaart/nibbleArray
