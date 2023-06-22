@@ -6066,3 +6066,4 @@ https://github.com/jmerc77/Fast4ier.git|Contributed|Fast4ier
 https://github.com/lualtek/lualtek-rak3172.git|Contributed|LualtekRAK3172
 https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library.git|Contributed|SparkFun BMI270 Arduino Library
 https://github.com/fellipecouto/CipherCode.git|Contributed|CipherCode
+https://github.com/RobTillaart/integer24.git|Contributed|integer24
