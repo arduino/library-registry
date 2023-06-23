@@ -6068,3 +6068,4 @@ https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library.git|Contributed|Spar
 https://github.com/fellipecouto/CipherCode.git|Contributed|CipherCode
 https://github.com/RobTillaart/integer24.git|Contributed|integer24
 https://github.com/bitbank2/bb_scd41.git|Contributed|bb_scd41
+https://github.com/DenysChuhlib/7Segment.git|Contributed|7Segment
