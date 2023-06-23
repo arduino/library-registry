@@ -5797,7 +5797,7 @@ https://github.com/Tstoegi/MicroWakeupper.git|Contributed|MicroWakeupper Wemos D
 https://github.com/melopero/Melopero_Cookie_RP2040_Arduino_Library.git|Contributed|Melopero Cookie RP2040
 https://github.com/teddokano/LEDDriver_NXP_Arduino.git|Contributed|LEDDrivers_NXP_Arduino
 https://github.com/lnbits/arduino-nostr.git|Contributed|Nostr
-https://github.com/pablomarquez76/ESP8266SAM_ES.git|Contributed|ESP8266SAM
+https://github.com/pablomarquez76/ESP8266SAM_ES.git|Contributed|ESP8266SAM_ES
 https://github.com/strid3r21/BeeDataLogger-Arduino-Helper.git|Contributed|BeeDataLogger
 https://github.com/stm32duino/X-NUCLEO-NFC07A1.git|Contributed|STM32duino X-NUCLEO-NFC07A1
 https://github.com/marcobrianza/ClickButton.git|Contributed|ClickButton
