@@ -6071,3 +6071,4 @@ https://github.com/bitbank2/bb_scd41.git|Contributed|bb_scd41
 https://github.com/DenysChuhlib/7Segment.git|Contributed|7Segment
 https://github.com/bitbank2/bb_captouch.git|Contributed|bb_captouch
 https://github.com/shiliu-yang/SimpleLed.git|Contributed|SimpleLed
+https://github.com/gbr1/rp2040-encoder-library.git|Contributed|rp2040-encoder-library
