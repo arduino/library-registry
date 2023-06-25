@@ -6073,3 +6073,4 @@ https://github.com/bitbank2/bb_captouch.git|Contributed|bb_captouch
 https://github.com/shiliu-yang/SimpleLed.git|Contributed|SimpleLed
 https://github.com/gbr1/rp2040-encoder-library.git|Contributed|rp2040-encoder-library
 https://github.com/ollprogram/SimpleShiftRegisterController.git|Contributed|SimpleShiftRegisterController
+https://github.com/dhrubasaha08/SimpleUltrasonic.git|Contributed|SimpleUltrasonic
