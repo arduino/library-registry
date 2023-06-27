@@ -6077,3 +6077,4 @@ https://github.com/crunchysteve/EdgieD.git|Contributed|EdgieD
 https://github.com/nthnn/PH4502C-Sensor.git|Contributed|PH4502C-Sensor
 https://github.com/YoupiLab/YoupiLabEsp8266.git|Contributed|YoupiLabEsp8266
 https://github.com/sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library.git|Contributed|SparkFun Weather Meter Kit Arduino Library
+https://github.com/felias-fogg/avrCalibrate.git|Contributed|avrCalibrate
