@@ -4470,8 +4470,8 @@ https://github.com/sensirion/arduino-gas-index-algorithm.git|Contributed|Sensiri
 https://github.com/sensirion/arduino-i2c-sdp.git|Contributed|Sensirion I2C SDP
 https://github.com/sensirion/arduino-i2c-sgp40.git|Contributed|Sensirion I2C SGP40
 https://github.com/sensirion/arduino-i2c-sgp41.git|Contributed|Sensirion I2C SGP41
-https://github.com/sensirion/arduino-i2c-svm41.git|Contributed|Sensirion I2C SVM41
-https://github.com/sensirion/arduino-uart-svm41.git|Contributed|Sensirion UART Svm41
+https://github.com/Sensirion/arduino-i2c-svm4x.git|Contributed|Sensirion I2C SVM41
+https://github.com/Sensirion/arduino-uart-svm4x.git|Contributed|Sensirion UART Svm41
 https://github.com/edge-ml/EdgeML-Arduino.git|Contributed|EdgeML-Arduino
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library.git|Contributed|Tuya_ZIGBEE_MCU_SDK
 https://github.com/RobTillaart/pressure.git|Contributed|pressure
