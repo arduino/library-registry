@@ -1,4 +1,5 @@
 https://github.com/crunchysteve/EdgieD
+https://github.com/nthnn/PH4502C-Sensor
 https://github.com/dhrubasaha08/SimpleUltrasonic
 https://github.com/jmerc77/Fast4ier
 https://github.com/AlfredoSystems/Alfredo-NoU2
