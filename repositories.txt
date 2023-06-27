@@ -4190,6 +4190,7 @@ https://github.com/lewapek/sds-dust-sensors-arduino-library
 https://github.com/lewisxhe/AXP202X_Library
 https://github.com/lewisxhe/XPowersLib
 https://github.com/lexus2k/lcdgfx
+https://github.com/YoupiLab/YoupiLabEsp8266
 https://github.com/lexus2k/ssd1306
 https://github.com/lexus2k/tinyhal
 https://github.com/lexus2k/tinyproto
