@@ -5304,6 +5304,7 @@ https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library
 https://github.com/sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library
+https://github.com/sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library
 https://github.com/sparkfun/SparkFun_WebServer_ESP32_W5500
 https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
