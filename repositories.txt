@@ -5320,6 +5320,7 @@ https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
 https://github.com/sparkfun/phant-arduino
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
 https://github.com/spicajames/Rtttl
+https://github.com/krishna-v/Pulser
 https://github.com/spklpool/Carduino
 https://github.com/sqfmi/HPDL1414-74HC595-Arduino
 https://github.com/sqfmi/Watchy
