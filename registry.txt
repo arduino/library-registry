@@ -6079,3 +6079,4 @@ https://github.com/YoupiLab/YoupiLabEsp8266.git|Contributed|YoupiLabEsp8266
 https://github.com/sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library.git|Contributed|SparkFun Weather Meter Kit Arduino Library
 https://github.com/felias-fogg/avrCalibrate.git|Contributed|avrCalibrate
 https://github.com/krishna-v/Pulser.git|Contributed|Pulser
+https://github.com/ZakKemble/LM73.git|Contributed|LM73
