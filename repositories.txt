@@ -1,7 +1,7 @@
 https://github.com/ZakKemble/LM73
+https://github.com/addy123d/I2CDisplayController
 https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
-https://github.com/nthnn/Anomalia
 https://github.com/nthnn/PH4502C-Sensor
 https://github.com/dhrubasaha08/SimpleUltrasonic
 https://github.com/jmerc77/Fast4ier
