@@ -6080,3 +6080,4 @@ https://github.com/sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library.git|Contr
 https://github.com/felias-fogg/avrCalibrate.git|Contributed|avrCalibrate
 https://github.com/krishna-v/Pulser.git|Contributed|Pulser
 https://github.com/ZakKemble/LM73.git|Contributed|LM73
+https://github.com/EnviroDIY/GroPointModbus.git|Contributed|GroPointModbus
