@@ -6081,3 +6081,4 @@ https://github.com/felias-fogg/avrCalibrate.git|Contributed|avrCalibrate
 https://github.com/krishna-v/Pulser.git|Contributed|Pulser
 https://github.com/ZakKemble/LM73.git|Contributed|LM73
 https://github.com/EnviroDIY/GroPointModbus.git|Contributed|GroPointModbus
+https://github.com/nthnn/Anomalia.git|Contributed|Anomalia
