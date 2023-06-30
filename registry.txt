@@ -6082,3 +6082,4 @@ https://github.com/krishna-v/Pulser.git|Contributed|Pulser
 https://github.com/ZakKemble/LM73.git|Contributed|LM73
 https://github.com/EnviroDIY/GroPointModbus.git|Contributed|GroPointModbus
 https://github.com/nthnn/Anomalia.git|Contributed|Anomalia
+https://github.com/addy123d/I2CDisplayController.git|Contributed|I2CDisplayController
