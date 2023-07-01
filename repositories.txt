@@ -5984,3 +5984,4 @@ https://github.com/bitbank2/bb_captouch
 https://github.com/shiliu-yang/SimpleLed
 https://github.com/gbr1/rp2040-encoder-library
 https://github.com/teddokano/AFE_NXP_Arduino
+https://github.com/SequentMicrosystems/Sequent-RTD-Library
