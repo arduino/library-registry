@@ -5988,3 +5988,4 @@ https://github.com/gbr1/rp2040-encoder-library
 https://github.com/teddokano/AFE_NXP_Arduino
 https://github.com/SequentMicrosystems/Sequent-RTD-Library
 https://github.com/SequentMicrosystems/Sequent-4rel4in-Library
+https://github.com/JoelJojoP/TempReader
