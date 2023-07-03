@@ -6087,3 +6087,4 @@ https://github.com/SequentMicrosystems/Sequent-RTD-Library.git|Contributed|SM_RT
 https://github.com/SequentMicrosystems/Sequent-4rel4in-Library.git|Contributed|SM_4REL4IN
 https://github.com/KCN-judu/KCN-Utility-Arduino-lib.git|Contributed|KCN_Utility
 https://github.com/nthnn/Navigador.git|Contributed|Navigador
+https://github.com/JoelJojoP/TempReader.git|Contributed|TempReader
