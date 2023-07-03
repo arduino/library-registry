@@ -6086,3 +6086,4 @@ https://github.com/addy123d/I2CDisplayController.git|Contributed|I2CDisplayContr
 https://github.com/SequentMicrosystems/Sequent-RTD-Library.git|Contributed|SM_RTD
 https://github.com/SequentMicrosystems/Sequent-4rel4in-Library.git|Contributed|SM_4REL4IN
 https://github.com/KCN-judu/KCN-Utility-Arduino-lib.git|Contributed|KCN_Utility
+https://github.com/nthnn/Navigador.git|Contributed|Navigador
