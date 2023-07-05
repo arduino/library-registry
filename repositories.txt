@@ -3592,6 +3592,7 @@ https://github.com/heisenware/arduino-vrpc
 https://github.com/heliosproj/HeliOS
 https://github.com/helium/helium-arduino
 https://github.com/helium/longfi-arduino
+https://github.com/henriksod/Arduino_CANOverSerial
 https://github.com/henriksod/Fabrik2DArduino
 https://github.com/hideakitai/ADS1x1x
 https://github.com/hideakitai/ArduinoEigen
