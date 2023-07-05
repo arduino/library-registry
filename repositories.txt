@@ -4913,7 +4913,6 @@ https://github.com/r89m/PushButton
 https://github.com/radariq/arduino-library
 https://github.com/rafaelnsantos/Relay
 https://github.com/rahulstva/Motor_RS
-https://github.com/raisedevs/raise-dev-library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/ravelab/JsonLogger
