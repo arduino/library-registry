@@ -6090,3 +6090,4 @@ https://github.com/JoelJojoP/TempReader.git|Contributed|TempReader
 https://github.com/DocBohn/CowPi_stdio.git|Contributed|CowPi_stdio
 https://github.com/x821938/elog.git|Contributed|Elog
 https://github.com/ryraki/NMH1000_Arduino.git|Contributed|NMH1000_Arduino
+https://github.com/henriksod/Arduino_CANOverSerial.git|Contributed|SerialCAN
