@@ -1,5 +1,19 @@
+https://github.com/ryraki/NMH1000_Arduino
+https://github.com/x821938/elog
+https://github.com/DocBohn/CowPi
+https://github.com/DocBohn/CowPi_stdio
+https://github.com/KCN-judu/KCN-Utility-Arduino-lib
+https://github.com/addy123d/I2CDisplayController
+https://github.com/ZakKemble/LM73
+https://github.com/felias-fogg/avrCalibrate
+https://github.com/crunchysteve/EdgieD
+https://github.com/nthnn/Anomalia
+https://github.com/nthnn/Navigador
+https://github.com/nthnn/PH4502C-Sensor
+https://github.com/dhrubasaha08/SimpleUltrasonic
 https://github.com/jmerc77/Fast4ier
 https://github.com/AlfredoSystems/Alfredo-NoU2
+https://github.com/ollprogram/SimpleShiftRegisterController
 https://github.com/AlfredoSystems/AlfredoConnect-Receive
 https://github.com/AsproCompany/GeneralShield
 https://github.com/vindar/ILI9342_T4
@@ -513,6 +527,7 @@ https://github.com/DefProc/somo-ii-lib
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/Densaugeo/base64_arduino
+https://github.com/DenysChuhlib/7Segment
 https://github.com/DenysChuhlib/NTPtime
 https://github.com/DhrBaksteen/ArduinoOPL2
 https://github.com/DhrBaksteen/ArduinoPianoBoard
@@ -589,6 +604,7 @@ https://github.com/EnviroDIY/KellerModbus
 https://github.com/EnviroDIY/SensorModbusMaster
 https://github.com/EnviroDIY/Sodaq_DS3231
 https://github.com/EnviroDIY/YosemitechModbus
+https://github.com/EnviroDIY/GroPointModbus
 https://github.com/Erhan-MADE/StepperControl
 https://github.com/ErickSimoes/Ultrasonic
 https://github.com/EscaVic/ROKduino
@@ -1883,12 +1899,10 @@ https://github.com/Sensirion/arduino-i2c-sfm3000
 https://github.com/Sensirion/arduino-i2c-sht4x
 https://github.com/Sensirion/arduino-i2c-stc3x
 https://github.com/Sensirion/arduino-i2c-sts4x
-https://github.com/Sensirion/arduino-i2c-svm40
 https://github.com/Sensirion/arduino-sht
 https://github.com/Sensirion/arduino-sps
 https://github.com/Sensirion/arduino-uart-sen44
 https://github.com/Sensirion/arduino-uart-sfa3x
-https://github.com/Sensirion/arduino-uart-svm40
 https://github.com/Sensirion/upt-core
 https://github.com/SequentMicrosystems/Sequent-Home-Automation-Library
 https://github.com/SequentMicrosystems/Sequent-LCD-Adapter-Library
@@ -3579,6 +3593,7 @@ https://github.com/heisenware/arduino-vrpc
 https://github.com/heliosproj/HeliOS
 https://github.com/helium/helium-arduino
 https://github.com/helium/longfi-arduino
+https://github.com/henriksod/Arduino_CANOverSerial
 https://github.com/henriksod/Fabrik2DArduino
 https://github.com/hideakitai/ADS1x1x
 https://github.com/hideakitai/ArduinoEigen
@@ -4185,6 +4200,7 @@ https://github.com/lewapek/sds-dust-sensors-arduino-library
 https://github.com/lewisxhe/AXP202X_Library
 https://github.com/lewisxhe/XPowersLib
 https://github.com/lexus2k/lcdgfx
+https://github.com/YoupiLab/YoupiLabEsp8266
 https://github.com/lexus2k/ssd1306
 https://github.com/lexus2k/tinyhal
 https://github.com/lexus2k/tinyproto
@@ -4899,7 +4915,6 @@ https://github.com/r89m/PushButton
 https://github.com/radariq/arduino-library
 https://github.com/rafaelnsantos/Relay
 https://github.com/rahulstva/Motor_RS
-https://github.com/raisedevs/raise-dev-library
 https://github.com/ramonheras/Pixel-and-Play-Arduino-Library
 https://github.com/rapifireio/rapifire-arduino-mqtt
 https://github.com/ravelab/JsonLogger
@@ -5025,8 +5040,8 @@ https://github.com/sensirion/arduino-gas-index-algorithm
 https://github.com/sensirion/arduino-i2c-sdp
 https://github.com/sensirion/arduino-i2c-sgp40
 https://github.com/sensirion/arduino-i2c-sgp41
-https://github.com/sensirion/arduino-i2c-svm41
-https://github.com/sensirion/arduino-uart-svm41
+https://github.com/sensirion/arduino-i2c-svm4x
+https://github.com/sensirion/arduino-uart-svm4x
 https://github.com/sensorium/Mozzi
 https://github.com/sensslen/LibLanc
 https://github.com/septillion-git/FadeLed
@@ -5300,6 +5315,7 @@ https://github.com/sparkfun/SparkFun_VEML7700_Arduino_Library
 https://github.com/sparkfun/SparkFun_VKey_Voltage_Keypad_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library
 https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library
+https://github.com/sparkfun/SparkFun_Weather_Meter_Kit_Arduino_Library
 https://github.com/sparkfun/SparkFun_WebServer_ESP32_W5500
 https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
@@ -5314,6 +5330,7 @@ https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
 https://github.com/sparkfun/phant-arduino
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
 https://github.com/spicajames/Rtttl
+https://github.com/krishna-v/Pulser
 https://github.com/spklpool/Carduino
 https://github.com/sqfmi/HPDL1414-74HC595-Arduino
 https://github.com/sqfmi/Watchy
@@ -5968,3 +5985,11 @@ https://github.com/ryraki/FXLS89xx_Arduino
 https://github.com/bitbank2/bb_ltr390
 https://github.com/lualtek/lualtek-rak3172
 https://github.com/fellipecouto/CipherCode
+https://github.com/bitbank2/bb_scd41
+https://github.com/bitbank2/bb_captouch
+https://github.com/shiliu-yang/SimpleLed
+https://github.com/gbr1/rp2040-encoder-library
+https://github.com/teddokano/AFE_NXP_Arduino
+https://github.com/SequentMicrosystems/Sequent-RTD-Library
+https://github.com/SequentMicrosystems/Sequent-4rel4in-Library
+https://github.com/JoelJojoP/TempReader
