@@ -6093,3 +6093,4 @@ https://github.com/ryraki/NMH1000_Arduino.git|Contributed|NMH1000_Arduino
 https://github.com/henriksod/Arduino_CANOverSerial.git|Contributed|SerialCAN
 https://github.com/DocBohn/CowPi.git|Contributed|CowPi
 https://github.com/RobTillaart/Gauss.git|Contributed|Gauss
+https://github.com/tedtoal/monitor_printf.git|Contributed|monitor_printf
