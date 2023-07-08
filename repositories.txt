@@ -5510,6 +5510,7 @@ https://github.com/techpaul/XMC_Servo
 https://github.com/techwillsaveus/Gamer
 https://github.com/techwillsaveus/GamerIR
 https://github.com/teckel12/arduino-toneac
+https://github.com/tedtoal/monitor_printf
 https://github.com/teemuatlut/TMC2130Stepper
 https://github.com/teemuatlut/TMC2208Stepper
 https://github.com/teemuatlut/TMCStepper
