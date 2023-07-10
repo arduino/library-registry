@@ -6094,3 +6094,4 @@ https://github.com/henriksod/Arduino_CANOverSerial.git|Contributed|SerialCAN
 https://github.com/DocBohn/CowPi.git|Contributed|CowPi
 https://github.com/RobTillaart/Gauss.git|Contributed|Gauss
 https://github.com/tedtoal/monitor_printf.git|Contributed|monitor_printf
+https://github.com/Reefwing-Software/MPU6x00.git|Contributed|ReefwingMPU6x00
