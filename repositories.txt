@@ -5245,6 +5245,7 @@ https://github.com/sparkfun/SparkFun_MiniGen_Arduino_Library
 https://github.com/sparkfun/SparkFun_MiniMoto_Arduino_Library
 https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
 https://github.com/sparkfun/SparkFun_PCA9536_Arduino_Library
+https://github.com/sparkfun/SparkFun_PCA9846_Mux_Arduino_Library
 https://github.com/sparkfun/SparkFun_PHT_MS8607_Arduino_Library
 https://github.com/sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library
 https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG_Arduino_Library
