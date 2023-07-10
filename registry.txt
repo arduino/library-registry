@@ -6095,3 +6095,4 @@ https://github.com/DocBohn/CowPi.git|Contributed|CowPi
 https://github.com/RobTillaart/Gauss.git|Contributed|Gauss
 https://github.com/tedtoal/monitor_printf.git|Contributed|monitor_printf
 https://github.com/Reefwing-Software/MPU6x00.git|Contributed|ReefwingMPU6x00
+https://github.com/sparkfun/SparkFun_PCA9846_Mux_Arduino_Library.git|Contributed|SparkFun PCA9846 Mux Arduino Library
