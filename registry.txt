@@ -6098,3 +6098,4 @@ https://github.com/Reefwing-Software/MPU6x00.git|Contributed|ReefwingMPU6x00
 https://github.com/sparkfun/SparkFun_PCA9846_Mux_Arduino_Library.git|Contributed|SparkFun PCA9846 Mux Arduino Library
 https://github.com/bonezegei/Bonezegei_ILI9341.git|Contributed|Bonezegei ILI9341
 https://github.com/ryraki/MPL3115A2_Arduino.git|Contributed|MPL3115A2_Arduino
+https://github.com/MajicDesigns/MD_HX711.git|Contributed|MD_HX711
