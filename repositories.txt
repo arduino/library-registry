@@ -6002,3 +6002,4 @@ https://github.com/SequentMicrosystems/Sequent-RTD-Library
 https://github.com/SequentMicrosystems/Sequent-4rel4in-Library
 https://github.com/JoelJojoP/TempReader
 https://github.com/bonezegei/Bonezegei_ILI9341
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
