@@ -6104,3 +6104,4 @@ https://github.com/NeuraiProject/uNeurai.git|Contributed|uNeurai
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio.git|Contributed|VEGAIoT_BusIO
 https://github.com/bonezegei/Bonezegei_Search.git|Contributed|Bonezegei_Search
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088.git|Contributed|VEGA_BMI088
+https://github.com/MeArm/MeArm-Arduino.git|Contributed|MeArm-Robot-Arm
