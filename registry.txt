@@ -6102,3 +6102,4 @@ https://github.com/MajicDesigns/MD_HX711.git|Contributed|MD_HX711
 https://github.com/AlexFigas/Didactic-Robot-Project.git|Contributed|Didactic Robot
 https://github.com/NeuraiProject/uNeurai.git|Contributed|uNeurai
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio.git|Contributed|VEGAIoT_BusIO
+https://github.com/bonezegei/Bonezegei_Search.git|Contributed|Bonezegei_Search
