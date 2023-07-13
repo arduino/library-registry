@@ -6107,3 +6107,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088.git|Cont
 https://github.com/MeArm/MeArm-Arduino.git|Contributed|MeArm-Robot-Arm
 https://github.com/odriverobotics/ODriveArduino.git|Contributed|ODriveArduino
 https://github.com/fbiego/chronos-esp32.git|Contributed|ChronosESP32
+https://github.com/namino-cc/Namino_Library.git|Contributed|Namino_Industrial_Boards
