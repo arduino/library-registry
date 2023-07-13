@@ -3423,6 +3423,7 @@ https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatkhrus/TeslaCloud
 https://github.com/fatlab101/FixedString
 https://github.com/fatpat/arduino-dra818
+https://github.com/fbiego/chronos-esp32
 https://github.com/fbiego/CST816S
 https://github.com/fbiego/ESP32Time
 https://github.com/fbiego/MpesaSTK
