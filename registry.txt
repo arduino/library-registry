@@ -6106,3 +6106,4 @@ https://github.com/bonezegei/Bonezegei_Search.git|Contributed|Bonezegei_Search
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088.git|Contributed|VEGA_BMI088
 https://github.com/MeArm/MeArm-Arduino.git|Contributed|MeArm-Robot-Arm
 https://github.com/odriverobotics/ODriveArduino.git|Contributed|ODriveArduino
+https://github.com/fbiego/chronos-esp32.git|Contributed|ChronosESP32
