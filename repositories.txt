@@ -6008,3 +6008,4 @@ https://github.com/bonezegei/Bonezegei_Search
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
+https://github.com/namino-cc/Namino_Library
