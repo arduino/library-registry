@@ -1127,6 +1127,7 @@ https://github.com/MaximIntegrated/MAX31328-Arduino-Driver
 https://github.com/MaximIntegrated/MaxEssentialToolkit
 https://github.com/MaximeLBG/CV7OEMFR
 https://github.com/MdelgadoL83/TapatioElectronics
+https://github.com/MeArm/MeArm-Arduino
 https://github.com/MeelonUsk/tb9051ftg-motor-carrier-arduino
 https://github.com/Megunolink/FileManager
 https://github.com/Megunolink/MLP
