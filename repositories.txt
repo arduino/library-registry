@@ -1,6 +1,7 @@
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/ryraki/MPL3115A2_Arduino
+https://github.com/Aquatwix/PD-10LX-Library
 https://github.com/Reefwing-Software/MPU6x00
 https://github.com/ryraki/NMH1000_Arduino
 https://github.com/x821938/elog
