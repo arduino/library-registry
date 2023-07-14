@@ -1,3 +1,4 @@
+https://github.com/Aquatwix/PD-10LX-Library
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/ryraki/MPL3115A2_Arduino
