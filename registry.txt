@@ -6110,3 +6110,4 @@ https://github.com/fbiego/chronos-esp32.git|Contributed|ChronosESP32
 https://github.com/namino-cc/Namino_Library.git|Contributed|Namino_Industrial_Boards
 https://github.com/Aquatwix/PD-10LX-Library.git|Contributed|PD-10LX-Library
 https://github.com/bonezegei/Bonezegei_List.git|Contributed|Bonezegei_List
+https://github.com/EDBCREPO/uNODEPP.git|Contributed|uNodepp
