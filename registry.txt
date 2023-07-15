@@ -6111,3 +6111,4 @@ https://github.com/namino-cc/Namino_Library.git|Contributed|Namino_Industrial_Bo
 https://github.com/Aquatwix/PD-10LX-Library.git|Contributed|PD-10LX-Library
 https://github.com/bonezegei/Bonezegei_List.git|Contributed|Bonezegei_List
 https://github.com/EDBCREPO/uNODEPP.git|Contributed|uNodepp
+https://github.com/fbiego/Timber.git|Contributed|Timber
