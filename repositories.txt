@@ -1660,6 +1660,7 @@ https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/PAR27979
+https://github.com/RobTillaart/PCA9553
 https://github.com/RobTillaart/PCA9634
 https://github.com/RobTillaart/PCA9635
 https://github.com/RobTillaart/PCA9685_RT
