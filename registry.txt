@@ -6114,3 +6114,4 @@ https://github.com/EDBCREPO/uNODEPP.git|Contributed|uNodepp
 https://github.com/fbiego/Timber.git|Contributed|Timber
 https://github.com/DeimosHall/RP2040_CPU_Temperature.git|Contributed|Raspberry Pi Pico CPU Temperature
 https://github.com/RobTillaart/PCA9553.git|Contributed|PCA9553
+https://github.com/bonezegei/Bonezegei_XPT2046.git|Contributed|Bonezegei_XPT2046
