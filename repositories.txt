@@ -6010,6 +6010,7 @@ https://github.com/JoelJojoP/TempReader
 https://github.com/bonezegei/Bonezegei_ILI9341
 https://github.com/bonezegei/Bonezegei_Search
 https://github.com/bonezegei/Bonezegei_List
+https://github.com/bonezegei/Bonezegei_XPT2046
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
