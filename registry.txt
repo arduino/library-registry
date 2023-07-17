@@ -4519,7 +4519,7 @@ https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
 https://github.com/vChavezB/uc-os3-arduino-due.git|Contributed|uCOS-III_Due
 https://github.com/fabriziop/FIFOEE.git|Contributed|FIFOEE
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library.git|Contributed|SparkFun Qwiic Fan Arduino Library
-https://github.com/viralinkio/ViraLink-Arduino-SDK.git|Contributed|ViraLink-MQTT-Client
+https://github.com/viralinkio/ViraLink-MQTT-Client.git|Contributed|ViraLink-MQTT-Client
 https://github.com/ssilverman/QNEthernet.git|Contributed|QNEthernet
 https://github.com/RAKWireless/RAK13600-PN532.git|Contributed|RAKwireless RAK13600 RFID library
 https://github.com/RAKWireless/RAK12019_LTR390.git|Contributed|RAK12019_LTR390_UV_Light
