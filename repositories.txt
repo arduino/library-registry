@@ -5321,4 +5321,3 @@ https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM45B_LM45C_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35D_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35C_LM35CA_00000057
 https://github.com/khoih-prog/ATtiny_PWM
-https://github.com/RLL-Blue-Dragon/OSS-EC_TI_LM35_LM35A_00000057
