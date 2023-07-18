@@ -1483,7 +1483,6 @@ https://github.com/RCmags/imuFilter
 https://github.com/RCmags/pulseInput
 https://github.com/RCmags/vector_datatype
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
-https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-5813A_5814A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-58LM20A_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-8110C_8120C_00000057
 https://github.com/RLL-Blue-Dragon/OSS-EC_ADI_AD22100A_00000057
