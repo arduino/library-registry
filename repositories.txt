@@ -5690,7 +5690,7 @@ https://github.com/vidor-libraries/VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals
 https://github.com/vindar/ILI9341_T4
 https://github.com/vintlabs/fauxmoESP
-https://github.com/viralinkio/ViraLink-Arduino-SDK
+https://github.com/viralinkio/ViraLink-MQTT-Client
 https://github.com/virtual-maker/MaterialBoard
 https://github.com/vishnumaiea/ISL1208-RTC-Library
 https://github.com/vishnumaiea/R30X-Fingerprint-Sensor-Library
