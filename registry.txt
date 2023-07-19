@@ -6119,3 +6119,4 @@ https://github.com/YoupiLab/YoupiLabESP32_IOT.git|Contributed|YoupiLabESP32_IOT
 https://github.com/bonezegei/Bonezegei_Utility.git|Contributed|Bonezegei_Utility
 https://github.com/mizuyoukanao/Bluewhale.git|Contributed|Bluewhale
 https://github.com/bonezegei/Bonezegei_ILI9341v2.git|Contributed|Bonezegei_ILI9341v2
+https://github.com/pierremolinaro/acanfd-stm32.git|Contributed|ACANFD_STM32
