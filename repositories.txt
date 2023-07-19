@@ -4780,6 +4780,7 @@ https://github.com/picodebr/PlugPiBlack
 https://github.com/pierremolinaro/acan
 https://github.com/pierremolinaro/acan-esp32
 https://github.com/pierremolinaro/acan-stm32
+https://github.com/pierremolinaro/acanfd-stm32
 https://github.com/pierremolinaro/acan-t4
 https://github.com/pierremolinaro/acan2515
 https://github.com/pierremolinaro/acan2515Tiny
