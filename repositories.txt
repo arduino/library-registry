@@ -6013,6 +6013,7 @@ https://github.com/bonezegei/Bonezegei_Search
 https://github.com/bonezegei/Bonezegei_List
 https://github.com/bonezegei/Bonezegei_XPT2046
 https://github.com/bonezegei/Bonezegei_Utility
+https://github.com/bonezegei/Bonezegei_ILI9341v2
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
