@@ -6125,3 +6125,4 @@ https://github.com/machinefi/psa-crypto-arduino.git|Contributed|PSACrypto
 https://github.com/tedtoal/floatToString.git|Contributed|floatToString
 https://github.com/RobTillaart/SHT31_SWW.git|Contributed|SHT31_SWW
 https://github.com/RobTillaart/PCA9551.git|Contributed|PCA9551
+https://github.com/RobTillaart/PCA9552.git|Contributed|PCA9552
