@@ -6123,3 +6123,4 @@ https://github.com/pierremolinaro/acanfd-stm32.git|Contributed|ACANFD_STM32
 https://github.com/bonezegei/Bonezegei_XPT2046v2.git|Contributed|Bonezegei_XPT2046v2
 https://github.com/machinefi/psa-crypto-arduino.git|Contributed|PSACrypto
 https://github.com/tedtoal/floatToString.git|Contributed|floatToString
+https://github.com/RobTillaart/SHT31_SWW.git|Contributed|SHT31_SWW
