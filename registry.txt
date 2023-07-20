@@ -6124,3 +6124,4 @@ https://github.com/bonezegei/Bonezegei_XPT2046v2.git|Contributed|Bonezegei_XPT20
 https://github.com/machinefi/psa-crypto-arduino.git|Contributed|PSACrypto
 https://github.com/tedtoal/floatToString.git|Contributed|floatToString
 https://github.com/RobTillaart/SHT31_SWW.git|Contributed|SHT31_SWW
+https://github.com/RobTillaart/PCA9551.git|Contributed|PCA9551
