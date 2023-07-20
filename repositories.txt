@@ -1,4 +1,11 @@
 https://github.com/tedtoal/floatToString
+https://github.com/YoupiLab/YoupiLabESP32_IOT
+https://github.com/EDBCREPO/uNODEPP
+https://github.com/AlexFigas/Didactic-Robot-Project
+https://github.com/MajicDesigns/MD_HX711
+https://github.com/Aquatwix/PD-10LX-Library
+https://github.com/ryraki/MPL3115A2_Arduino
+https://github.com/Reefwing-Software/MPU6x00
 https://github.com/ryraki/NMH1000_Arduino
 https://github.com/x821938/elog
 https://github.com/DocBohn/CowPi
@@ -1124,6 +1131,7 @@ https://github.com/MaximIntegrated/MAX31328-Arduino-Driver
 https://github.com/MaximIntegrated/MaxEssentialToolkit
 https://github.com/MaximeLBG/CV7OEMFR
 https://github.com/MdelgadoL83/TapatioElectronics
+https://github.com/MeArm/MeArm-Arduino
 https://github.com/MeelonUsk/tb9051ftg-motor-carrier-arduino
 https://github.com/Megunolink/FileManager
 https://github.com/Megunolink/MLP
@@ -1194,6 +1202,7 @@ https://github.com/NeMaksym/Arduino-EasySevenSeg
 https://github.com/NeiroNx/RTCLib
 https://github.com/NeoCat/Arduno-Twitter-library
 https://github.com/Neosegment/Arduino
+https://github.com/NeuraiProject/uNeurai
 https://github.com/NewhavenDisplay/NHD-Character-LCD-Library
 https://github.com/NicholasBerryman/GenericMotorDriver
 https://github.com/NicholasBerryman/USBControllerLib
@@ -1653,6 +1662,7 @@ https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/PAR27979
+https://github.com/RobTillaart/PCA9553
 https://github.com/RobTillaart/PCA9634
 https://github.com/RobTillaart/PCA9635
 https://github.com/RobTillaart/PCA9685_RT
@@ -3418,9 +3428,11 @@ https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatkhrus/TeslaCloud
 https://github.com/fatlab101/FixedString
 https://github.com/fatpat/arduino-dra818
+https://github.com/fbiego/chronos-esp32
 https://github.com/fbiego/CST816S
 https://github.com/fbiego/ESP32Time
 https://github.com/fbiego/MpesaSTK
+https://github.com/fbiego/Timber
 https://github.com/fdivitto/FabGL
 https://github.com/feanor-anglin/PCF8575-lib
 https://github.com/feilipu/Arduino_FreeRTOS_Library
@@ -4769,6 +4781,7 @@ https://github.com/picodebr/PlugPiBlack
 https://github.com/pierremolinaro/acan
 https://github.com/pierremolinaro/acan-esp32
 https://github.com/pierremolinaro/acan-stm32
+https://github.com/pierremolinaro/acanfd-stm32
 https://github.com/pierremolinaro/acan-t4
 https://github.com/pierremolinaro/acan2515
 https://github.com/pierremolinaro/acan2515Tiny
@@ -5245,6 +5258,7 @@ https://github.com/sparkfun/SparkFun_MiniGen_Arduino_Library
 https://github.com/sparkfun/SparkFun_MiniMoto_Arduino_Library
 https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
 https://github.com/sparkfun/SparkFun_PCA9536_Arduino_Library
+https://github.com/sparkfun/SparkFun_PCA9846_Mux_Arduino_Library
 https://github.com/sparkfun/SparkFun_PHT_MS8607_Arduino_Library
 https://github.com/sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library
 https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG_Arduino_Library
@@ -5511,6 +5525,7 @@ https://github.com/techpaul/XMC_Servo
 https://github.com/techwillsaveus/Gamer
 https://github.com/techwillsaveus/GamerIR
 https://github.com/teckel12/arduino-toneac
+https://github.com/tedtoal/monitor_printf
 https://github.com/teemuatlut/TMC2130Stepper
 https://github.com/teemuatlut/TMC2208Stepper
 https://github.com/teemuatlut/TMCStepper
@@ -5677,7 +5692,7 @@ https://github.com/vidor-libraries/VidorGraphics
 https://github.com/vidor-libraries/VidorPeripherals
 https://github.com/vindar/ILI9341_T4
 https://github.com/vintlabs/fauxmoESP
-https://github.com/viralinkio/ViraLink-Arduino-SDK
+https://github.com/viralinkio/ViraLink-MQTT-Client
 https://github.com/virtual-maker/MaterialBoard
 https://github.com/vishnumaiea/ISL1208-RTC-Library
 https://github.com/vishnumaiea/R30X-Fingerprint-Sensor-Library
@@ -5995,3 +6010,17 @@ https://github.com/teddokano/AFE_NXP_Arduino
 https://github.com/SequentMicrosystems/Sequent-RTD-Library
 https://github.com/SequentMicrosystems/Sequent-4rel4in-Library
 https://github.com/JoelJojoP/TempReader
+https://github.com/bonezegei/Bonezegei_ILI9341
+https://github.com/bonezegei/Bonezegei_Search
+https://github.com/bonezegei/Bonezegei_List
+https://github.com/bonezegei/Bonezegei_XPT2046
+https://github.com/bonezegei/Bonezegei_Utility
+https://github.com/bonezegei/Bonezegei_ILI9341v2
+https://github.com/bonezegei/Bonezegei_XPT2046v2
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
+https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
+https://github.com/odriverobotics/ODriveArduino
+https://github.com/namino-cc/Namino_Library
+https://github.com/DeimosHall/RP2040_CPU_Temperature.git
+https://github.com/mizuyoukanao/Bluewhale
+https://github.com/machinefi/psa-crypto-arduino
