@@ -6029,3 +6029,4 @@ https://github.com/DeimosHall/RP2040_CPU_Temperature.git
 https://github.com/mizuyoukanao/Bluewhale
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/AbdoullahBougataya/QCFA
+https://github.com/CMB27/ModbusRTUMaster
