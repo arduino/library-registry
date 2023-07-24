@@ -6133,3 +6133,4 @@ https://github.com/AlexRosito67/FSSD.git|Contributed|FSSD
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_NiclaVision.git|Contributed|DSpotterSDK_Maker_NiclaVision
 https://github.com/RobTillaart/ADG725.git|Contributed|ADG725
 https://github.com/RobTillaart/ADG731.git|Contributed|ADG731
+https://github.com/tedtoal/wiring_analog_SAMD_TT.git|Contributed|wiring_analog_SAMD_TT
