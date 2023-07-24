@@ -384,9 +384,10 @@ https://github.com/CreativeRobotics/Commander
 https://github.com/CsCrazy85/DatavisionLCD
 https://github.com/CsCrazy85/SCA100T
 https://github.com/CuriosityGym/MotorDriver
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_33BLE
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_PortentaH7
-https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_RP2040
+https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_NiclaVision
 https://github.com/CytronTechnologies/Cytron-G15Shield
 https://github.com/CytronTechnologies/CytronMakerSumo
 https://github.com/CytronTechnologies/CytronMotorDriver
