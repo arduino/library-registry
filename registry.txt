@@ -6138,3 +6138,4 @@ https://github.com/bonezegei/Bonezegei_GL.git|Contributed|Bonezegei_GL
 https://github.com/big12boy/MAX11643.git|Contributed|MAX11643
 https://github.com/RobTillaart/ADG726.git|Contributed|ADG726
 https://github.com/RobTillaart/ADG732.git|Contributed|ADG732
+https://github.com/Dino-MLC-Board/DINO-PLC.git|Contributed|DINO-PLC
