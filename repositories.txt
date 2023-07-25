@@ -6038,4 +6038,5 @@ https://github.com/machinefi/psa-crypto-arduino
 https://github.com/AbdoullahBougataya/QCFA
 https://github.com/AlexRosito67/FSSD
 https://github.com/CMB27/ModbusRTUMaster
+https://github.com/Dino-MLC-Board/DINO-PLC
 https://github.com/big12boy/MAX11643
