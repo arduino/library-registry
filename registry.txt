@@ -6129,7 +6129,6 @@ https://github.com/RobTillaart/PCA9552.git|Contributed|PCA9552
 https://github.com/tedtoal/msToString.git|Contributed|msToString
 https://github.com/AbdoullahBougataya/QCFA.git|Contributed|QCFA
 https://github.com/CMB27/ModbusRTUMaster.git|Contributed|ModbusRTUMaster
-https://github.com/AlexRosito67/FSSD.git|Contributed|FSSD
 https://github.com/CyberonEBU/Cyberon_DSpotterSDK_Maker_NiclaVision.git|Contributed|DSpotterSDK_Maker_NiclaVision
 https://github.com/RobTillaart/ADG725.git|Contributed|ADG725
 https://github.com/RobTillaart/ADG731.git|Contributed|ADG731
