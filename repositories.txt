@@ -1553,7 +1553,9 @@ https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD56X8
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADG725
+https://github.com/RobTillaart/ADG726
 https://github.com/RobTillaart/ADG731
+https://github.com/RobTillaart/ADG732
 https://github.com/RobTillaart/ADS1X15
 https://github.com/RobTillaart/ADT7470
 https://github.com/RobTillaart/AGS02MA
@@ -6025,6 +6027,7 @@ https://github.com/bonezegei/Bonezegei_XPT2046
 https://github.com/bonezegei/Bonezegei_Utility
 https://github.com/bonezegei/Bonezegei_ILI9341v2
 https://github.com/bonezegei/Bonezegei_XPT2046v2
+https://github.com/bonezegei/Bonezegei_GL
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6065,3 +6068,5 @@ https://github.com/BestModules-Libraries/BM92S2021-A
 https://github.com/BestModules-Libraries/BM12O2321-A
 https://github.com/BestModules-Libraries/BM12O2021-A
 https://github.com/BestModules-Libraries/BM32O2531-A
+https://github.com/Dino-MLC-Board/DINO-PLC
+https://github.com/big12boy/MAX11643
