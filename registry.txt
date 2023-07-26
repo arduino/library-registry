@@ -6169,3 +6169,4 @@ https://github.com/BestModules-Libraries/BM92S2021-A.git|Contributed|BM92S2021-A
 https://github.com/BestModules-Libraries/BM12O2321-A.git|Contributed|BM12O2321-A
 https://github.com/BestModules-Libraries/BM12O2021-A.git|Contributed|BM12O2021-A
 https://github.com/BestModules-Libraries/BM32O2531-A.git|Contributed|BM32O2531-A
+https://github.com/govorox/SSLClient.git|Contributed|GovoroxSSLClient
