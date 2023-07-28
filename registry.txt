@@ -6173,3 +6173,4 @@ https://github.com/soryone1/fog.git|Contributed|fog
 https://github.com/Lzw655/ESP32_IO_Expander.git|Contributed|ESP32 IO Expander Driver
 https://github.com/todd-herbert/unoHID.git|Contributed|unoHID
 https://github.com/RobTillaart/MTP40F.git|Contributed|MTP40F
+https://github.com/adafruit/Adafruit_TSC2046.git|Recommended|Adafruit TSC2046
