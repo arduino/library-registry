@@ -1318,9 +1318,9 @@ https://github.com/PeaPodTechnologies/I2CIP
 https://github.com/PeterEmbedded/BH1750FVI
 https://github.com/Phambili-Tech/Newt_Display
 https://github.com/Pharap/FixedPointsArduino
-https://github.com/Phoenix1747/Arduino-Pico-Analog-Correction/
-https://github.com/Phoenix1747/MQ135
-https://github.com/Phoenix1747/SimpleShell
+https://github.com/NuclearPhoenixx/Arduino-Pico-Analog-Correction/
+https://github.com/NuclearPhoenixx/MQ135
+https://github.com/NuclearPhoenixx/SimpleShell
 https://github.com/PhracturedBlue/ESP8266MQTTMesh
 https://github.com/Picovoice/picovoice-arduino-ar
 https://github.com/Picovoice/picovoice-arduino-de
