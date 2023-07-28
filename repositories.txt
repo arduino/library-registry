@@ -5053,6 +5053,7 @@ https://github.com/sdumetz/coordinates
 https://github.com/sdutek/sducar
 https://github.com/seanboe/SimpleFusion
 https://github.com/sebaJoSt/BlaeckSerial
+https://github.com/sebaJoSt/BlaeckTCP
 https://github.com/sebmillet/DelayExec
 https://github.com/sebmillet/RF433any
 https://github.com/sebmillet/RF433recv
