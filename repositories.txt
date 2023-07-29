@@ -2779,6 +2779,7 @@ https://github.com/asukiaaa/AM2320_asukiaaa
 https://github.com/asukiaaa/BLVD20KM_asukiaaa
 https://github.com/asukiaaa/CanBusData-arduino
 https://github.com/asukiaaa/CanBusMCP2515-arduino
+https://github.com/asukiaaa/crc-arduino
 https://github.com/asukiaaa/EPD
 https://github.com/asukiaaa/I2cControlPanel_asukiaaa
 https://github.com/asukiaaa/I2cMotors_asukiaaa
