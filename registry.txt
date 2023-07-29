@@ -6178,3 +6178,4 @@ https://github.com/sebaJoSt/BlaeckTCP.git|Contributed|BlaeckTCP
 https://github.com/RobTillaart/MATRIX7219.git|Contributed|MATRIX7219
 https://github.com/MicroBeaut/MAX6816.git|Contributed|MAX6816
 https://github.com/asukiaaa/crc-arduino.git|Contributed|crc_asukiaaa
+https://github.com/redPanther/CQRobotTDS.git|Contributed|CQRobotTDS
