@@ -6175,3 +6175,4 @@ https://github.com/todd-herbert/unoHID.git|Contributed|unoHID
 https://github.com/RobTillaart/MTP40F.git|Contributed|MTP40F
 https://github.com/adafruit/Adafruit_TSC2046.git|Recommended|Adafruit TSC2046
 https://github.com/sebaJoSt/BlaeckTCP.git|Contributed|BlaeckTCP
+https://github.com/RobTillaart/MATRIX7219.git|Contributed|MATRIX7219
