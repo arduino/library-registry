@@ -1148,6 +1148,7 @@ https://github.com/MicroBeaut/MicroBeaut
 https://github.com/MicroBeaut/RepeatButton
 https://github.com/MicroBeaut/MicroBeaut-TCone
 https://github.com/MicroBeaut/Finite-State
+https://github.com/MicroBeaut/MAX6816
 https://github.com/MicroGamerConsole/MicroGamer-Arduino
 https://github.com/Microbot-it/Microbot-Motor-Shield
 https://github.com/MiguelPynto/ShiftDisplay
