@@ -6181,3 +6181,4 @@ https://github.com/asukiaaa/crc-arduino.git|Contributed|crc_asukiaaa
 https://github.com/redPanther/CQRobotTDS.git|Contributed|CQRobotTDS
 https://github.com/tedtoal/XPT2046_Touchscreen_TT.git|Contributed|XPT2046_Touchscreen_TT
 https://github.com/bonezegei/Bonezegei_HCSR04.git|Contributed|Bonezegei_HCSR04
+https://github.com/FacundoPumilla/MQ137.git|Contributed|MQ137
