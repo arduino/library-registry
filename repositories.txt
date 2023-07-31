@@ -6085,3 +6085,4 @@ https://github.com/todd-herbert/unoHID
 https://github.com/adafruit/Adafruit_TSC2046
 https://github.com/FacundoPumilla/MQ137
 https://github.com/JSC-electronics/acdu-support-library
+https://github.com/AlexRosito67/QUAD7SHIFT
