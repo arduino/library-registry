@@ -6183,3 +6183,4 @@ https://github.com/tedtoal/XPT2046_Touchscreen_TT.git|Contributed|XPT2046_Touchs
 https://github.com/bonezegei/Bonezegei_HCSR04.git|Contributed|Bonezegei_HCSR04
 https://github.com/FacundoPumilla/MQ137.git|Contributed|MQ137
 https://github.com/ArduCAM/Arducam_dvp.git|Contributed|arducam_dvp
+https://github.com/JSC-electronics/acdu-support-library.git|Contributed|ACDU
