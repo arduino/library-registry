@@ -6192,3 +6192,4 @@ https://github.com/stm32duino/LIS2DUXS12.git|Contributed|STM32duino LIS2DUXS12
 https://github.com/1NCE-GmbH/blueprint_arduino.git|Contributed|1NCE Arduino Blueprint
 https://github.com/nthnn/TCS3200.git|Contributed|TCS3200
 https://github.com/mobizt/ESP_SSLClient.git|Contributed|ESP_SSLClient
+https://github.com/loopj/open-rts.git|Contributed|Open RTS
