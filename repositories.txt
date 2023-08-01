@@ -6092,3 +6092,4 @@ https://github.com/FacundoPumilla/MQ137
 https://github.com/JSC-electronics/acdu-support-library
 https://github.com/AlexRosito67/QUAD7SHIFT
 https://github.com/stm32duino/LIS2DUXS12
+https://github.com/mobizt/ESP_SSLClient
