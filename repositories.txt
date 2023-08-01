@@ -1,4 +1,5 @@
 https://github.com/ress997/TinyGPSPlusPlus
+https://github.com/1NCE-GmbH/blueprint_arduino
 https://github.com/tedtoal/XPT2046_Touchscreen_TT
 https://github.com/Lzw655/ESP32_IO_Expander
 https://github.com/govorox/SSLClient
