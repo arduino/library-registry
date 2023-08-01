@@ -4258,6 +4258,7 @@ https://github.com/lnlp/EasyLed
 https://github.com/logickworkshop/du-ino
 https://github.com/loginov-rocks/UbxGps
 https://github.com/loopj/i2c-sensor-hal
+https://github.com/loopj/open-rts
 https://github.com/lorol/LITTLEFS
 https://github.com/lovyan03/LovyanGFX
 https://github.com/lovyan03/M5Stack_OnScreenKeyboard
