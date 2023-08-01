@@ -6188,3 +6188,4 @@ https://github.com/AlexRosito67/QUAD7SHIFT.git|Contributed|FSSD
 https://github.com/RobTillaart/PT2314.git|Contributed|PT2314
 https://github.com/ress997/TinyGPSPlusPlus.git|Contributed|TinyGPSPlusPlus
 https://github.com/MicroBeaut/ADebouncer.git|Contributed|ADebouncer
+https://github.com/stm32duino/LIS2DUXS12.git|Contributed|STM32duino LIS2DUXS12
