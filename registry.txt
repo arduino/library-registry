@@ -6190,3 +6190,4 @@ https://github.com/ress997/TinyGPSPlusPlus.git|Contributed|TinyGPSPlusPlus
 https://github.com/MicroBeaut/ADebouncer.git|Contributed|ADebouncer
 https://github.com/stm32duino/LIS2DUXS12.git|Contributed|STM32duino LIS2DUXS12
 https://github.com/1NCE-GmbH/blueprint_arduino.git|Contributed|1NCE Arduino Blueprint
+https://github.com/nthnn/TCS3200.git|Contributed|TCS3200
