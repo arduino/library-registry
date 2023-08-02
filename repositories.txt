@@ -1,3 +1,4 @@
+https://github.com/Dhruvacube/7-Segment
 https://github.com/ress997/TinyGPSPlusPlus
 https://github.com/1NCE-GmbH/blueprint_arduino
 https://github.com/tedtoal/XPT2046_Touchscreen_TT
