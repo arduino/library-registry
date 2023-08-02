@@ -6193,3 +6193,4 @@ https://github.com/1NCE-GmbH/blueprint_arduino.git|Contributed|1NCE Arduino Blue
 https://github.com/nthnn/TCS3200.git|Contributed|TCS3200
 https://github.com/mobizt/ESP_SSLClient.git|Contributed|ESP_SSLClient
 https://github.com/loopj/open-rts.git|Contributed|Open RTS
+https://github.com/Dhruvacube/7-Segment.git|Contributed|Led 7 Segment
