@@ -6194,3 +6194,4 @@ https://github.com/nthnn/TCS3200.git|Contributed|TCS3200
 https://github.com/mobizt/ESP_SSLClient.git|Contributed|ESP_SSLClient
 https://github.com/loopj/open-rts.git|Contributed|Open RTS
 https://github.com/Dhruvacube/7-Segment.git|Contributed|Led 7 Segment
+https://github.com/IFRN-robotica-CM/CosmosNV2.git|Contributed|CosmosNV2
