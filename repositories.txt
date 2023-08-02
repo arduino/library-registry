@@ -23,6 +23,7 @@ https://github.com/addy123d/I2CDisplayController
 https://github.com/ZakKemble/LM73
 https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
+https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/Navigador
 https://github.com/nthnn/PH4502C-Sensor
@@ -4258,6 +4259,7 @@ https://github.com/lnlp/EasyLed
 https://github.com/logickworkshop/du-ino
 https://github.com/loginov-rocks/UbxGps
 https://github.com/loopj/i2c-sensor-hal
+https://github.com/loopj/open-rts
 https://github.com/lorol/LITTLEFS
 https://github.com/lovyan03/LovyanGFX
 https://github.com/lovyan03/M5Stack_OnScreenKeyboard
@@ -6092,3 +6094,4 @@ https://github.com/FacundoPumilla/MQ137
 https://github.com/JSC-electronics/acdu-support-library
 https://github.com/AlexRosito67/QUAD7SHIFT
 https://github.com/stm32duino/LIS2DUXS12
+https://github.com/mobizt/ESP_SSLClient
