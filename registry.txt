@@ -6199,3 +6199,4 @@ https://github.com/RobTillaart/AD5246.git|Contributed|AD5246
 https://github.com/barbarossa12/sht3x-dis-arduino-lib.git|Contributed|sht3x-dis-arduino-lib
 https://github.com/HoussamElbiade/Digiedge_frame_generator.git|Contributed|digiedge_frame_generator
 https://github.com/andrewhe-princeton/Iridium-GPP.git|Contributed|IridiumGPP
+https://bitbucket.org/jezhill/Keyhole.git|Contributed|Keyhole
