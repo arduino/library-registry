@@ -6100,3 +6100,4 @@ https://github.com/stm32duino/LIS2DUXS12
 https://github.com/mobizt/ESP_SSLClient
 https://github.com/IFRN-robotica-CM/CosmosNV2
 https://github.com/barbarossa12/sht3x-dis-arduino-lib
+https://bitbucket.org/jezhill/Keyhole
