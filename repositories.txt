@@ -1,3 +1,4 @@
+https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512
 https://github.com/andrewhe-princeton/Iridium-GPP
 https://github.com/HoussamElbiade/Digiedge_frame_generator
 https://github.com/Dhruvacube/7-Segment
