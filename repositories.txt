@@ -175,6 +175,7 @@ https://github.com/9glt/arduino-attiny85-mcp23017-library
 https://github.com/A-Vision-Software/AVision_ESP8266
 https://github.com/A223D/Adafruit_4_01_ColourEPaper
 https://github.com/A223D/detaBaseArduinoESP32
+https://github.com/HamzaYslmn/detaBaseESP8266
 https://github.com/AI5GW/Baudot-Encode-Decode
 https://github.com/AI5GW/CCIR476
 https://github.com/AI5GW/Goertzel/
