@@ -4705,7 +4705,7 @@ https://github.com/nkaaf/Arduino-Signature
 https://github.com/nkolban/ESP32_BLE_Arduino
 https://github.com/noah1510/LedController
 https://github.com/noah1510/generic-Arduino
-https://github.com/noah1510/unit-system-adruino
+https://github.com/unit-system-exports/unit-system-arduino
 https://github.com/npuckett/arduinoAnimation
 https://github.com/nrwiersma/ConfigManager
 https://github.com/nrwiersma/ESP8266Scheduler
