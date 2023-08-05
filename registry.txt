@@ -6204,3 +6204,4 @@ https://github.com/epsilonrt/pimp.git|Contributed|pimp
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512.git|Contributed|MFRC522_PN512
 https://github.com/RobTillaart/M5ANGLE8.git|Contributed|M5ANGLE8
 https://github.com/bonezegei/Bonezegei_GSM.git|Contributed|Bonezegei_GSM
+https://github.com/HamzaYslmn/detaBaseESP8266.git|Contributed|detaBaseArduinoESP8266
