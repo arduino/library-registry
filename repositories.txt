@@ -1660,6 +1660,7 @@ https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LUHN
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/M5ANGLE8
+https://github.com/RobTillaart/M5ROTATE8
 https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/MATRIX7219
 https://github.com/RobTillaart/MAX14661
