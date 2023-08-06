@@ -6207,3 +6207,4 @@ https://github.com/bonezegei/Bonezegei_GSM.git|Contributed|Bonezegei_GSM
 https://github.com/HamzaYslmn/detaBaseESP8266.git|Contributed|detaBaseArduinoESP8266
 https://github.com/Obsttube/CryptoAES_CBC.git|Contributed|CryptoAES_CBC
 https://github.com/Reefwing-Software/Reefwing-MPU6050.git|Contributed|ReefwingMPU6050
+https://github.com/ripred/Profiler.git|Contributed|Profiler
