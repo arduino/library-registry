@@ -6209,3 +6209,4 @@ https://github.com/Obsttube/CryptoAES_CBC.git|Contributed|CryptoAES_CBC
 https://github.com/Reefwing-Software/Reefwing-MPU6050.git|Contributed|ReefwingMPU6050
 https://github.com/ripred/Profiler.git|Contributed|Profiler
 https://github.com/RobTillaart/M5ROTATE8.git|Contributed|M5ROTATE8
+https://github.com/epsilonrt/pImpl.git|Contributed|pImpl
