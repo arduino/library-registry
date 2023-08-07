@@ -6110,3 +6110,4 @@ https://github.com/barbarossa12/sht3x-dis-arduino-lib
 https://bitbucket.org/jezhill/Keyhole
 https://github.com/epsilonrt/pimp
 https://github.com/ripred/Profiler
+https://github.com/epsilonrt/pImpl
