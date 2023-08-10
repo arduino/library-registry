@@ -5683,6 +5683,7 @@ https://github.com/u-fire/Isolated_ISE
 https://github.com/u-fire/Mod-EC
 https://github.com/u-fire/Mod-ORP
 https://github.com/u-fire/Mod-pH
+https://github.com/u-fire/Mod-NTC
 https://github.com/u-fire/SHT3x
 https://github.com/u-fire/steamrocket
 https://github.com/u-fire/uFire_PAR
