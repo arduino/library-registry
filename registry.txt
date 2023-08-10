@@ -6214,3 +6214,4 @@ https://github.com/MrYsLab/Telemetrix4UnoR4.git|Contributed|Telemetrix4UnoR4
 https://github.com/kaiaai/micro_ros_arduino_kaia.git|Contributed|micro_ros_kaia
 https://github.com/iory/i2c-for-esp32.git|Contributed|i2c-for-esp32
 https://github.com/abcdaaaaaaaaa/MQSpaceData.h.git|Contributed|MQSpaceData
+https://github.com/casiez/OneEuroFilterArduino.git|Contributed|1euroFilter
