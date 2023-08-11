@@ -6200,7 +6200,6 @@ https://github.com/barbarossa12/sht3x-dis-arduino-lib.git|Contributed|sht3x-dis-
 https://github.com/HoussamElbiade/Digiedge_frame_generator.git|Contributed|digiedge_frame_generator
 https://github.com/andrewhe-princeton/Iridium-GPP.git|Contributed|IridiumGPP
 https://bitbucket.org/jezhill/Keyhole.git|Contributed|Keyhole
-https://github.com/epsilonrt/pimp.git|Contributed|pimp
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512.git|Contributed|MFRC522_PN512
 https://github.com/RobTillaart/M5ANGLE8.git|Contributed|M5ANGLE8
 https://github.com/bonezegei/Bonezegei_GSM.git|Contributed|Bonezegei_GSM
