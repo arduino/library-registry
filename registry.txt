@@ -6197,7 +6197,7 @@ https://github.com/Dhruvacube/7-Segment.git|Contributed|Led 7 Segment
 https://github.com/IFRN-robotica-CM/CosmosNV2.git|Contributed|CosmosNV2
 https://github.com/RobTillaart/AD5246.git|Contributed|AD5246
 https://github.com/barbarossa12/sht3x-dis-arduino-lib.git|Contributed|sht3x-dis-arduino-lib
-https://github.com/HoussamElbiade/Digiedge_frame_generator.git|Contributed|digiedge_frame_generator
+https://github.com/DIGI-EDGE/DPE-TRAM-GEN.git|Contributed|digiedge_frame_generator
 https://github.com/andrewhe-princeton/Iridium-GPP.git|Contributed|IridiumGPP
 https://bitbucket.org/jezhill/Keyhole.git|Contributed|Keyhole
 https://github.com/epsilonrt/pimp.git|Contributed|pimp
