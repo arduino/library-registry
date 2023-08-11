@@ -4,7 +4,7 @@ https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512
 https://github.com/andrewhe-princeton/Iridium-GPP
-https://github.com/HoussamElbiade/Digiedge_frame_generator
+https://github.com/DIGI-EDGE/DPE-TRAM-GEN
 https://github.com/Dhruvacube/7-Segment
 https://github.com/ress997/TinyGPSPlusPlus
 https://github.com/1NCE-GmbH/blueprint_arduino
