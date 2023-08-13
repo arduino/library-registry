@@ -6216,3 +6216,4 @@ https://github.com/iory/i2c-for-esp32.git|Contributed|i2c-for-esp32
 https://github.com/abcdaaaaaaaaa/MQSpaceData.h.git|Contributed|MQSpaceData
 https://github.com/casiez/OneEuroFilterArduino.git|Contributed|1euroFilter
 https://github.com/u-fire/Mod-NTC.git|Contributed|Microfire Mod-NTC
+https://github.com/EvTheFuture/WebConsole.git|Contributed|WebConsole
