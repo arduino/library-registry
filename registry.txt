@@ -4308,7 +4308,7 @@ https://github.com/winner10920/ESPSerialFlasher.git|Contributed|ESPSerialFlasher
 https://github.com/Excelsior-Robotics/Excelsior.git|Contributed|Excelsior
 https://github.com/khoih-prog/ESP32_PWM.git|Contributed|ESP32_PWM
 https://github.com/tamctec/ft62x6-arduino.git|Contributed|TAMC_FT62X6
-https://github.com/Phoenix1747/MQ135.git|Contributed|MQ135
+https://github.com/NuclearPhoenixx/MQ135.git|Contributed|MQ135
 https://github.com/khoih-prog/ESP8266_PWM.git|Contributed|ESP8266_PWM
 https://github.com/khoih-prog/Portenta_H7_PWM.git|Contributed|Portenta_H7_PWM
 https://github.com/tgtakaoka/libcli.git|Contributed|libcli
@@ -4381,7 +4381,7 @@ https://github.com/A-Vision-Software/AVision_ESP8266.git|Contributed|AVision_ESP
 https://github.com/DFRobot/DFRobot_URM13.git|Contributed|DFRobot_URM13
 https://github.com/Jackal28/MCP3304.git|Contributed|MCP3304
 https://github.com/yanranxiaoxi/AntiKeyRepetition.h.git|Contributed|AntiKeyRepetition
-https://github.com/Phoenix1747/Arduino-Pico-Analog-Correction.git|Contributed|PicoAnalogCorrection
+https://github.com/NuclearPhoenixx/Arduino-Pico-Analog-Correction.git|Contributed|PicoAnalogCorrection
 https://github.com/khoih-prog/AsyncTCP_SSL.git|Contributed|AsyncTCP_SSL
 https://github.com/RoboCore/RoboCore_Vespa.git|Contributed|RoboCore - Vespa
 https://github.com/khoih-prog/AsyncHTTPSRequest_Generic.git|Contributed|AsyncHTTPSRequest_Generic
@@ -5475,7 +5475,7 @@ https://github.com/RobTillaart/AD56X8.git|Contributed|AD56X8
 https://github.com/KravitzLabDevices/FORCE2.git|Contributed|FORCE2
 https://github.com/congtrol/boho-arduino.git|Contributed|Boho
 https://github.com/RobTillaart/A1301.git|Contributed|A1301
-https://github.com/Phoenix1747/SimpleShell.git|Contributed|SimpleShell Enhanced
+https://github.com/NuclearPhoenixx/SimpleShell.git|Contributed|SimpleShell Enhanced
 https://github.com/khoih-prog/HTTPS_Server_Generic.git|Contributed|HTTPS_Server_Generic
 https://github.com/wicked-rainman/ESP32Dispatcher.git|Contributed|ESP32Dispatcher
 https://github.com/RobTillaart/RAIN.git|Contributed|RAIN
