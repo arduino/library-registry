@@ -6112,7 +6112,6 @@ https://github.com/mobizt/ESP_SSLClient
 https://github.com/IFRN-robotica-CM/CosmosNV2
 https://github.com/barbarossa12/sht3x-dis-arduino-lib
 https://bitbucket.org/jezhill/Keyhole
-https://github.com/epsilonrt/pimp
 https://github.com/ripred/Profiler
 https://github.com/epsilonrt/pImpl
 https://github.com/iory/i2c-for-esp32
