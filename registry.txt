@@ -4190,7 +4190,7 @@ https://github.com/khoih-prog/ESP32_C3_TimerInterrupt.git|Contributed|ESP32_C3_T
 https://github.com/PowerBroker2/MotorController.git|Contributed|MotorController
 https://github.com/FTTechBrasil/AqualaboSensor.git|Contributed|FTTech Aqualabo Sensors
 https://github.com/guttih/DisplayMenu.git|Contributed|DisplayMenu
-https://github.com/noah1510/unit-system-adruino.git|Contributed|unit-system
+https://github.com/unit-system-exports/unit-system-arduino.git|Contributed|unit-system
 https://github.com/sakabug/Bugtton.git|Contributed|Bugtton
 https://github.com/geekbleofficial/Geekble_LieDetector.git|Contributed|Geekble_LieDetector
 https://github.com/xiongyu0523/AzureRTOS-ThreadX-For-Arduino.git|Contributed|Azure RTOS ThreadX
