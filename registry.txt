@@ -6184,7 +6184,7 @@ https://github.com/bonezegei/Bonezegei_HCSR04.git|Contributed|Bonezegei_HCSR04
 https://github.com/FacundoPumilla/MQ137.git|Contributed|MQ137
 https://github.com/ArduCAM/Arducam_dvp.git|Contributed|arducam_dvp
 https://github.com/JSC-electronics/acdu-support-library.git|Contributed|ACDU
-https://github.com/AlexRosito67/QUAD7SHIFT.git|Contributed|FSSD
+https://github.com/AlexRosito67/QUAD7SHIFT.git|Contributed|QUAD7SHIFT
 https://github.com/RobTillaart/PT2314.git|Contributed|PT2314
 https://github.com/ress997/TinyGPSPlusPlus.git|Contributed|TinyGPSPlusPlus
 https://github.com/MicroBeaut/ADebouncer.git|Contributed|ADebouncer
