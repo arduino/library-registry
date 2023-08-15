@@ -5241,6 +5241,7 @@ https://github.com/sparkfun/SparkFun_BMI270_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP384_Arduino_Library
 https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
+https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library
