@@ -1,3 +1,5 @@
+https://github.com/SndrSchnklshk/HDC302x
+https://github.com/SndrSchnklshk/TMP6x
 https://github.com/Lzw655/ESP32_Display_Panel
 https://github.com/kaiaai/micro_ros_arduino_kaia
 https://github.com/MrYsLab/Telemetrix4UnoR4
