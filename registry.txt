@@ -6220,3 +6220,4 @@ https://github.com/Lzw655/ESP32_Display_Panel.git|Contributed|ESP32 Display Pane
 https://github.com/gbr1/ucPack.git|Contributed|ucPack
 https://github.com/SndrSchnklshk/HDC302x.git|Contributed|HDC302x
 https://github.com/SndrSchnklshk/TMP6x.git|Contributed|TMP6x
+https://github.com/misaproyectil/Sprite_Serial_Control.git|Contributed|Proyectil MedeaWiz
