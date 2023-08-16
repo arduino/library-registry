@@ -6066,6 +6066,7 @@ https://github.com/bonezegei/Bonezegei_XPT2046v2
 https://github.com/bonezegei/Bonezegei_GL
 https://github.com/bonezegei/Bonezegei_HCSR04
 https://github.com/bonezegei/Bonezegei_GSM
+https://github.com/bonezegei/Bonezegei_SoftSerial
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
