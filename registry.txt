@@ -6225,3 +6225,4 @@ https://github.com/misaproyectil/digitalIO.git|Contributed|Proyectil digitalIO
 https://github.com/misaproyectil/GD3300.git|Contributed|Proyectil GD3300
 https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library.git|Contributed|SparkFun BNO08x Cortex Based IMU
 https://github.com/bonezegei/Bonezegei_SoftSerial.git|Contributed|Bonezegei_SoftSerial
+https://github.com/Reefwing-Software/Reefwing-PWM.git|Contributed|ReefwingPWM
