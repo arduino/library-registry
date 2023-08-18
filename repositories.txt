@@ -4387,6 +4387,8 @@ https://github.com/m5stack/M5Hat-JoyC
 https://github.com/m5stack/M5Module-2Relay-13.2
 https://github.com/m5stack/M5Module-4IN8OUT
 https://github.com/m5stack/M5Module-4Relay
+https://github.com/m5stack/M5Module-GRBL-13.2
+https://github.com/m5stack/M5Module-Stepmotor
 https://github.com/m5stack/M5Stack
 https://github.com/m5stack/M5Station
 https://github.com/m5stack/M5StickC
