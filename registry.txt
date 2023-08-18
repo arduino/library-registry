@@ -6227,3 +6227,4 @@ https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library.git|Contributed|Spar
 https://github.com/bonezegei/Bonezegei_SoftSerial.git|Contributed|Bonezegei_SoftSerial
 https://github.com/Reefwing-Software/Reefwing-PWM.git|Contributed|ReefwingPWM
 https://github.com/sciosense/ENS21x_driver.git|Contributed|ScioSense_ENS21x
+https://github.com/GabyGold67/MomentaryPushButtonsAsSwitches.git|Contributed|mpbToSwitch
