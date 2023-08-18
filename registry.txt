@@ -6231,3 +6231,4 @@ https://github.com/GabyGold67/MomentaryPushButtonsAsSwitches.git|Contributed|mpb
 https://github.com/m5stack/M5Module-GRBL-13.2.git|Contributed|Module_GRBL_13.2
 https://github.com/m5stack/M5Module-Stepmotor.git|Contributed|Module_Stepmotor
 https://github.com/bonezegei/Bonezegei_RS485.git|Contributed|Bonezegei_RS485
+https://github.com/supercrab/RemoteSerial.git|Contributed|RemoteSerial
