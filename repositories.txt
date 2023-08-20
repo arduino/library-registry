@@ -6131,5 +6131,6 @@ https://github.com/casiez/OneEuroFilterArduino
 https://github.com/EvTheFuture/WebConsole
 https://github.com/gbr1/ucPack
 https://github.com/sciosense/ENS21x_driver
+https://github.com/pablomarquez76/PS4_Controller_Host
 https://github.com/GabyGold67/MomentaryPushButtonsAsSwitches
 https://github.com/supercrab/RemoteSerial
