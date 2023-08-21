@@ -5197,6 +5197,7 @@ https://github.com/solderparty/arduino_tsc2004
 https://github.com/solidsnake745/MIDI_Device_Controller
 https://github.com/somefunAgba/ModernPIDControlSS
 https://github.com/someweisguy/esp_dmx
+https://github.com/somsinchai/CAGEduino
 https://github.com/somsinchai/IBot
 https://github.com/soracom-labs/soracom-arc-esp32-arduino
 https://github.com/souliss/souliss
