@@ -6238,3 +6238,4 @@ https://github.com/geekblemaker/Geekble_note2freq.git|Contributed|Geekble_Note2F
 https://github.com/somsinchai/CAGEduino.git|Contributed|CAGEduino
 https://github.com/tedtoal/Button_TT.git|Contributed|Button_TT
 https://github.com/ripred/MyKeywords.git|Contributed|MyKeywords
+https://github.com/hen1227/bluetooth-serial.git|Contributed|BluetoothSerial
