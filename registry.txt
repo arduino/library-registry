@@ -6241,3 +6241,4 @@ https://github.com/ripred/MyKeywords.git|Contributed|MyKeywords
 https://github.com/hen1227/bluetooth-serial.git|Contributed|BluetoothSerial
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled.git|Contributed|VEGA_ChainableLED
 https://github.com/ArtronShop/IOXESP32Audio.git|Contributed|IOXESP32Audio
+https://github.com/EricAndrechek/TinyGPSMinus.git|Contributed|TinyGPSMinus
