@@ -35,13 +35,34 @@ See the instructions below for detailed instructions on how to do this via the G
 1. You may want to first take a look at
    [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
    compliance before being accepted.
-1. Open this link to fork this repository and edit the list via the
-   GitHub web interface: https://github.com/arduino/library-registry/edit/main/repositories.txt
-1. Click the <kbd>Fork this repository</kbd> button.
+1. Click the following link:<br />
+   https://github.com/arduino/library-registry/fork<br />
+   The "**Create a new fork**" page will open.
+1. Click the <kbd>Create fork</kbd> button in the "**Create a new fork**" page.<br />
+   A "**Forking arduino/library-registry**" page will open while the fork is in the process of being created.
+1. Wait for the "Forking" process to finish.<br />
+   The home page of your [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) of the **library-registry** repository will open.
+1. Click on the file `repositories.txt` under the list of files you see in that page.<br />
+   The "**library-registry/repositories.txt**" page will open.
+1. Click the pencil icon ("Edit this file") at the right side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
+   The `repositories.txt` file will open in the online text editor.
 1. Add the library repository's URL to the list (it doesn't matter where in the list). This should be the URL of the repository home page. For example:
    `https://github.com/arduino-libraries/Servo`
-1. Click the <kbd>Propose changes</kbd> button.
-1. In the **"Comparing changes"** window that opens, click the <kbd>Create pull request</kbd> button.
+1. Click the <kbd>Commit changes...</kbd> button located near the top right corner of the page.<br />
+   The "**Commit changes**" dialog will open.
+1. Click the <kbd>Commit changes</kbd> button in the "**Commit changes**" dialog.<br />
+   The "**library-registry/repositories.txt**" page will open.
+1. Click the "**library-registry**" link at the top of the "**library-registry/repositories.txt**" page.<br />
+   The home page of your fork of the **library-registry** repository will open.
+1. You should see a banner on the page that says:
+
+   > **This branch is 1 commit ahead of arduino:main.**
+
+   Click the "**Contribute**" link near the right side of that banner.<br />
+   A menu will open.
+
+1. Click the <kbd>Open pull request</kbd> button in the menu.<br />
+   The "**Open a pull request**" page will open.
 1. In the **"Open a pull request"** window that opens, click the <kbd>Create pull request</kbd> button.
 
 The library will be automatically checked for compliance as soon as the pull request is submitted. If no problems were
