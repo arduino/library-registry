@@ -6237,3 +6237,4 @@ https://github.com/Xairooo/SimpleTime.git|Contributed|SimpleTime
 https://github.com/geekblemaker/Geekble_note2freq.git|Contributed|Geekble_Note2Freq
 https://github.com/somsinchai/CAGEduino.git|Contributed|CAGEduino
 https://github.com/tedtoal/Button_TT.git|Contributed|Button_TT
+https://github.com/ripred/MyKeywords.git|Contributed|MyKeywords
