@@ -643,6 +643,7 @@ https://github.com/EnviroDIY/Sodaq_DS3231
 https://github.com/EnviroDIY/YosemitechModbus
 https://github.com/EnviroDIY/GroPointModbus
 https://github.com/Erhan-MADE/StepperControl
+https://github.com/EricAndrechek/TinyGPSMinus
 https://github.com/ErickSimoes/Ultrasonic
 https://github.com/EscaVic/ROKduino
 https://github.com/EscapeAutomate/ArduinoLib
