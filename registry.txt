@@ -6239,3 +6239,4 @@ https://github.com/somsinchai/CAGEduino.git|Contributed|CAGEduino
 https://github.com/tedtoal/Button_TT.git|Contributed|Button_TT
 https://github.com/ripred/MyKeywords.git|Contributed|MyKeywords
 https://github.com/hen1227/bluetooth-serial.git|Contributed|BluetoothSerial
+https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled.git|Contributed|VEGA_ChainableLED
