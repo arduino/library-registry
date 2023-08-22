@@ -6140,3 +6140,4 @@ https://github.com/GabyGold67/MomentaryPushButtonsAsSwitches
 https://github.com/supercrab/RemoteSerial
 https://github.com/Xairooo/SimpleTime
 https://github.com/ripred/MyKeywords
+https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled
