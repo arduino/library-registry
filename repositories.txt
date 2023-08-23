@@ -6144,3 +6144,17 @@ https://github.com/ripred/MyKeywords
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled
 https://github.com/ArtronShop/IOXESP32Audio
 https://github.com/fellipecouto/ButtonControl
+https://github.com/BestModules-Libraries/BM22S2021-1			
+https://github.com/BestModules-Libraries/BM22S4221-1				
+https://github.com/BestModules-Libraries/BMD26M088					
+https://github.com/BestModules-Libraries/BMH12M105				
+https://github.com/BestModules-Libraries/BMH23M002				
+https://github.com/BestModules-Libraries/BM2102-9x-1			
+https://github.com/BestModules-Libraries/BMP73T102			
+https://github.com/BestModules-Libraries/BMP73T104			
+https://github.com/BestModules-Libraries/BM62S2201-1			
+https://github.com/BestModules-Libraries/BMS33M332			
+https://github.com/BestModules-Libraries/BME63M001			
+https://github.com/BestModules-Libraries/BML36M001			
+https://github.com/BestModules-Libraries/BM92S2222-A			
+https://github.com/BestModules-Libraries/BMB22M210
