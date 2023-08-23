@@ -6257,3 +6257,4 @@ https://github.com/BestModules-Libraries/BMN31K522.git|Contributed|BMN31K522
 https://github.com/BestModules-Libraries/BM52D5021-1.git|Contributed|BM52D5021-1
 https://github.com/BestModules-Libraries/BM52D5121-1.git|Contributed|BM52D5121-1
 https://github.com/nthnn/Diwa.git|Contributed|diwa
+https://github.com/nthnn/Diwa.git|Contributed|diwa
