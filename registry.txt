@@ -6243,3 +6243,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled.gi
 https://github.com/ArtronShop/IOXESP32Audio.git|Contributed|IOXESP32Audio
 https://github.com/EricAndrechek/TinyGPSMinus.git|Contributed|TinyGPSMinus
 https://github.com/fellipecouto/ButtonControl.git|Contributed|ButtonControl
+https://github.com/yasir-shahzad/SoftI2C.git|Contributed|SoftI2C
