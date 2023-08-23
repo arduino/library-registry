@@ -6244,3 +6244,16 @@ https://github.com/ArtronShop/IOXESP32Audio.git|Contributed|IOXESP32Audio
 https://github.com/EricAndrechek/TinyGPSMinus.git|Contributed|TinyGPSMinus
 https://github.com/fellipecouto/ButtonControl.git|Contributed|ButtonControl
 https://github.com/yasir-shahzad/SoftI2C.git|Contributed|SoftI2C
+https://github.com/BestModules-Libraries/BM22S2021-1.git|Contributed|BM22S2021-1
+https://github.com/BestModules-Libraries/BM22S4221-1.git|Contributed|BM22S4221-1
+https://github.com/BestModules-Libraries/BMD26M088.git|Contributed|BMD26M088
+https://github.com/BestModules-Libraries/BMH23M002.git|Contributed|BMH23M002
+https://github.com/BestModules-Libraries/BME63M001.git|Contributed|BME63M001
+https://github.com/BestModules-Libraries/BML36M001.git|Contributed|BML36M001
+https://github.com/BestModules-Libraries/BMB22M210.git|Contributed|BMB22M210
+https://github.com/BestModules-Libraries/BM22S3021-1.git|Contributed|BM22S3021-1
+https://github.com/BestModules-Libraries/BM22S3031-1.git|Contributed|BM22S3031-1
+https://github.com/BestModules-Libraries/BM22S3221-1.git|Contributed|BM22S3221-1
+https://github.com/BestModules-Libraries/BMN31K522.git|Contributed|BMN31K522
+https://github.com/BestModules-Libraries/BM52D5021-1.git|Contributed|BM52D5021-1
+https://github.com/BestModules-Libraries/BM52D5121-1.git|Contributed|BM52D5121-1
