@@ -4176,7 +4176,6 @@ https://github.com/WonderCRM/CRMui3.git|Contributed|CRMui3
 https://github.com/MrYsLab/NanoConnectHcSr04.git|Contributed|NanoConnectHcSr04
 https://github.com/ricardoquesada/bluepad32-arduino.git|Contributed|Bluepad32
 https://github.com/AeroboticsGlobalTeam/AEBO.git|Contributed|AEBO
-https://github.com/m5stack/MODULE_GRBL13.2.git|Contributed|MODULE_GRBL13.2
 https://gitlab.com/riva-lab/SimpleBME280.git|Contributed|SimpleBME280
 https://gitlab.com/riva-lab/SimpleMeteoCalc.git|Contributed|SimpleMeteoCalc
 https://github.com/hideakitai/ESP32SPISlave.git|Contributed|ESP32SPISlave
