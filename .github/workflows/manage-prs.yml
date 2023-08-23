@@ -1,7 +1,7 @@
 name: Manage PRs
 
 env:
-  SUBMISSION_PARSER_VERSION: 1.1.0 # See: https://github.com/arduino/library-manager-submission-parser/releases
+  SUBMISSION_PARSER_VERSION: 1.1.1 # See: https://github.com/arduino/library-manager-submission-parser/releases
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
@@ -13,7 +13,7 @@ on:
   # comment and merge.
   # Note that this means the version of the workflow from the PR base ref will be used as opposed to the head ref, as is
   # the case with pull_request triggered workflows.
-  # See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request_target
+  # See: https://docs.github.com/actions/reference/events-that-trigger-workflows#pull_request_target
   pull_request_target:
     types:
       - opened
@@ -23,6 +23,22 @@ on:
     types:
       - created
       - edited
+
+concurrency:
+  group: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+  cancel-in-progress: >-
+    ${{
+    (
+    github.event_name == 'pull_request_target' &&
+    github.event.pull_request.draft == false
+    ) ||
+    (
+    github.event_name == 'issue_comment' &&
+    github.event.issue.pull_request != '' &&
+    github.event.issue.state == 'open' &&
+    contains(github.event.comment.body, 'ArduinoBot')
+    )
+    }}
 
 jobs:
   diff:
@@ -42,6 +58,12 @@ jobs:
       artifact: ${{ steps.configuration.outputs.artifact }}
       path: ${{ steps.configuration.outputs.path }}
       filename: ${{ steps.configuration.outputs.filename }}
+      head: ${{ steps.head.outputs.head }}
+
+    env:
+      # See: https://docs.github.com/rest/reference/pulls#custom-media-types-for-pull-requests
+      DIFF_IDENTIFIER: diff
+      JSON_IDENTIFIER: raw+json
 
     steps:
       - name: Set configuration outputs
@@ -49,7 +71,7 @@ jobs:
         run: |
           echo "::set-output name=artifact::diff"
           echo "::set-output name=path::${{ runner.temp }}"
-          echo "::set-output name=filename::diff.txt"
+          echo "::set-output name=filename::${{ env.DIFF_IDENTIFIER }}"
 
       - name: Comment on comment trigger to provide feedback
         if: github.event_name == 'issue_comment'
@@ -67,21 +89,32 @@ jobs:
             |
             Hello! I'm checking your submission again.
 
-      - name: Get PR diff
+      - name: Get PR data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Two API requests are necessary, one for the PR diff and another for the metadata.
           # It's necessary to reference both pull_request.number and issue.number because only one of the two are
           # defined depending on whether the workflow is triggered by PR or comment event.
-          curl \
-            --fail \
-            --output "${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}" \
-            --header "Authorization: token $GITHUB_TOKEN" \
-            --header "Accept: application/vnd.github.v3.diff" \
-            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/pulls/${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          parallel \
+            ' \
+              curl \
+                --fail \
+                --output "${{ steps.configuration.outputs.path }}/{}" \
+                --header "Authorization: token $GITHUB_TOKEN" \
+                --header "Accept: application/vnd.github.v3.{}" \
+                https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/pulls/${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+            ' \
+            ::: \
+              ${{ env.DIFF_IDENTIFIER }} \
+              ${{ env.JSON_IDENTIFIER }}
+
+      - name: Get head SHA of diff
+        id: head
+        run: echo "::set-output name=head::$(jq -c .head.sha "${{ steps.configuration.outputs.path }}/${{ env.JSON_IDENTIFIER }}")"
 
       - name: Upload diff file to workflow artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           path: ${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}
           name: ${{ steps.configuration.outputs.artifact }}
@@ -101,23 +134,23 @@ jobs:
 
     steps:
       - name: Checkout local repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Download submission parser
         id: download-parser
-        uses: carlosperate/download-file-action@v1.0.3
+        uses: carlosperate/download-file-action@v2
         with:
           file-url: https://github.com/arduino/library-registry-submission-parser/releases/download/${{ env.SUBMISSION_PARSER_VERSION }}/parser
           location: ${{ runner.temp }}
 
       - name: Download diff
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           path: ${{ needs.diff.outputs.path }}
           name: ${{ needs.diff.outputs.artifact }}
 
       - name: Remove no longer needed artifact
-        uses: geekyeggo/delete-artifact@v1
+        uses: geekyeggo/delete-artifact@v2
         with:
           name: ${{ needs.diff.outputs.artifact }}
 
@@ -156,7 +189,7 @@ jobs:
           repo: ${{ github.event.repository.name }}
           issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
           labels: |
-            - ${{ needs.parse.outputs.type }}
+            - "topic: ${{ needs.parse.outputs.type }}"
 
   parse-fail:
     needs:
@@ -347,7 +380,7 @@ jobs:
       # So it's necessary to use an alternative means of indicating that at least one submission failed the checks.
       - name: Upload failure flag artifact
         if: env.PASS == 'false'
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           if-no-files-found: error
           path: ${{ env.FAIL_FLAG_PATH }}
@@ -363,7 +396,7 @@ jobs:
     steps:
       - name: Check for existence of submission check failure flag artifact
         id: failure-flag-exists
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         continue-on-error: true
         with:
           name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
@@ -391,14 +424,17 @@ jobs:
 
             After resolving the issue, trigger this check again by doing one of the following:
 
-            - Commit the required change to the branch you submitted this pull request from.
-            - Comment here, mentioning `@ArduinoBot` in the comment
+            - **Commit the required change to the branch you submitted this pull request from.**
+            - **Comment here, mentioning `@ArduinoBot` in the comment.**
+
+            :exclamation: **NOTE**: It is not necessary to open a new pull request. :exclamation:
 
             More information:
             https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
 
   merge:
     needs:
+      - diff
       - parse
       - check-submissions-result
     # Only merge submissions that passed all checks
@@ -408,6 +444,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       pass: ${{ steps.merge.outcome == 'success' }}
+      status: ${{ steps.merge.outputs.status }}
 
     steps:
       - name: Approve pull request
@@ -423,7 +460,7 @@ jobs:
 
       - name: Merge pull request
         id: merge
-        continue-on-error: true # Error on merge conflict is expected
+        continue-on-error: true # Error in some situations (e.g., merge conflict) is expected
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -432,11 +469,12 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
           pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          sha: ${{ needs.diff.outputs.head }}
           merge_method: squash
 
       - name: Checkout index source branch
         if: steps.merge.outcome == 'success'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: production
 
@@ -482,7 +520,27 @@ jobs:
     if: needs.merge.outputs.pass == 'false'
     runs-on: ubuntu-latest
     steps:
-      - name: Comment on merge failure
+      - name: Comment on merge fail due to out of sync PR head branch causing downgraded token
+        if: needs.merge.outputs.status == '403'
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            ${{ env.ERROR_MESSAGE_PREFIX }}Your submission meets all requirements. However, the pull request could not be merged.
+
+            Please follow this guide to sync your fork:
+            https://docs.github.com/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
+
+            Once that is done, it will be merged automatically.
+
+      - name: Comment on merge conflict
+        if: needs.merge.outputs.status == '405'
         uses: octokit/request-action@v2.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -496,9 +554,30 @@ jobs:
             ${{ env.ERROR_MESSAGE_PREFIX }}Your submission meets all requirements. However, the pull request could not be merged.
 
             Please follow this guide to resolve a merge conflict:
-            https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github
+            https://docs.github.com/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github
 
             Once that is done, it will be merged automatically.
+
+      - name: Comment on diff head/PR head mismatch
+        if: needs.merge.outputs.status == '409'
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            It looks like there may have been an update to the pull request. If so, I'll check it again now.
+
+      - name: Fail on unidentified merge failure
+        if: >
+          needs.merge.outputs.status != '403' &&
+          needs.merge.outputs.status != '405' &&
+          needs.merge.outputs.status != '409'
+        run: exit 1 # Trigger the `unexpected-fail` job
 
   not-submission:
     needs:
