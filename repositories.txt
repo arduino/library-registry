@@ -5608,6 +5608,7 @@ https://github.com/thebigpotatoe/Effortless-SPIFFS
 https://github.com/thebigpotatoe/Feature-Variables
 https://github.com/theengs/decoder
 https://github.com/thehapyone/BareBoneSim800
+https://github.com/thekakester/Arduino-LoRa-Sx1262
 https://github.com/theprototypedesigner/tpdButton
 https://github.com/thesolarnomad/lora-serialization
 https://github.com/thewknd/VEML6040
