@@ -4423,6 +4423,7 @@ https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
+https://github.com/Tinyu-Zhao/Sensirion_I2C_SHT4x
 https://github.com/madhephaestus/BNO055SimplePacketComs
 https://github.com/madhephaestus/ESP32AnalogRead
 https://github.com/madhephaestus/ESP32Encoder
