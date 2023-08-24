@@ -1,3 +1,4 @@
+https://github.com/Xylopyrographer/BooleanButton
 https://github.com/holgerlembke/ESPFMfGK
 https://github.com/yasir-shahzad/SoftI2C
 https://github.com/tedtoal/Button_TT
