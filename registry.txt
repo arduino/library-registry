@@ -6260,3 +6260,4 @@ https://github.com/nthnn/Diwa.git|Contributed|diwa
 https://github.com/nthnn/Diwa.git|Contributed|diwa
 https://github.com/thekakester/Arduino-LoRa-Sx1262.git|Contributed|LoraSx1262
 https://github.com/holgerlembke/ESPFMfGK.git|Contributed|ESP32 File Manager for Generation Klick ESPFMfGK
+https://github.com/Xylopyrographer/BooleanButton.git|Contributed|BooleanButton
