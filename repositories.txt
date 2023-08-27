@@ -6163,3 +6163,4 @@ https://github.com/BestModules-Libraries/BMN31K522
 https://github.com/BestModules-Libraries/BM52D5021-1
 https://github.com/BestModules-Libraries/BM52D5121-1
 https://github.com/lualtek/wisblock-io-extension-mini
+https://github.com/retrospy/OPT4048
