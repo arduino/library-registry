@@ -6263,3 +6263,4 @@ https://github.com/holgerlembke/ESPFMfGK.git|Contributed|ESP32 File Manager for 
 https://github.com/Xylopyrographer/BooleanButton.git|Contributed|BooleanButton
 https://github.com/lualtek/wisblock-io-extension-mini.git|Contributed|WBIOExtMini
 https://github.com/Victor-Kalenda/LoRa_Library.git|Contributed|LoRa_Library
+https://github.com/retrospy/OPT4048.git|Contributed|OPT4048
