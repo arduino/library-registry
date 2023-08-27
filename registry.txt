@@ -4713,7 +4713,6 @@ https://github.com/RobTillaart/X9C10X.git|Contributed|X9C10X
 https://github.com/adafruit/Adafruit_ADXL375.git|Recommended|Adafruit ADXL375
 https://github.com/cike-567/arduino-ps2shebei.git|Contributed|ps2shebei
 https://github.com/arduino-libraries/Arduino_Braccio_plusplus.git|Arduino|Arduino_Braccio_plusplus
-https://github.com/PushDisDev/PushDis-cpp-client-library.git|Contributed|PushDisConnector
 https://github.com/chrmlinux/tinyESPNow.git|Contributed|tinyESPNow
 https://github.com/khoih-prog/WiFiMulti_Generic.git|Contributed|WiFiMulti_Generic
 https://github.com/Leafony/LeafonySTM32.git|Contributed|LeafonySTM32
