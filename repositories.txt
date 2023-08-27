@@ -1475,7 +1475,6 @@ https://github.com/PulseRain/M10SevenSeg
 https://github.com/PulseRain/PulseRainUARTConsole
 https://github.com/PulseRain/Step_CYC10_I2C
 https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display
-https://github.com/PushDisDev/PushDis-cpp-client-library
 https://github.com/PushTheWorld/PTW-Arduino-Assert
 https://github.com/Pylo/MCreatorLinkArduino
 https://github.com/QuadrifoglioVerde/DL_PAC_NK76
