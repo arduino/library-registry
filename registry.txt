@@ -6264,3 +6264,4 @@ https://github.com/Xylopyrographer/BooleanButton.git|Contributed|BooleanButton
 https://github.com/lualtek/wisblock-io-extension-mini.git|Contributed|WBIOExtMini
 https://github.com/Victor-Kalenda/LoRa_Library.git|Contributed|LoRa_Library
 https://github.com/retrospy/OPT4048.git|Contributed|OPT4048
+https://github.com/RobTillaart/AD9833.git|Contributed|AD9833
