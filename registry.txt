@@ -6262,3 +6262,4 @@ https://github.com/thekakester/Arduino-LoRa-Sx1262.git|Contributed|LoraSx1262
 https://github.com/holgerlembke/ESPFMfGK.git|Contributed|ESP32 File Manager for Generation Klick ESPFMfGK
 https://github.com/Xylopyrographer/BooleanButton.git|Contributed|BooleanButton
 https://github.com/lualtek/wisblock-io-extension-mini.git|Contributed|WBIOExtMini
+https://github.com/Victor-Kalenda/LoRa_Library.git|Contributed|LoRa_Library
