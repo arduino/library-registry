@@ -1586,6 +1586,7 @@ https://github.com/RobTillaart/AD5245
 https://github.com/RobTillaart/AD5246
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD56X8
+https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADG725
 https://github.com/RobTillaart/ADG726
