@@ -6266,3 +6266,4 @@ https://github.com/retrospy/OPT4048.git|Contributed|OPT4048
 https://github.com/RobTillaart/AD9833.git|Contributed|AD9833
 https://github.com/engin100/980.git|Contributed|ENGR100-980
 https://github.com/bonezegei/Bonezegei_SSD1306.git|Contributed|Bonezegei_SSD1306
+https://github.com/yasir-shahzad/AM4096.git|Contributed|AM4096
