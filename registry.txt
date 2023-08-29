@@ -6269,3 +6269,4 @@ https://github.com/bonezegei/Bonezegei_SSD1306.git|Contributed|Bonezegei_SSD1306
 https://github.com/yasir-shahzad/AM4096.git|Contributed|AM4096
 https://github.com/sciosense/arduino-ens220.git|Contributed|ScioSense ENS220
 https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t.git|Contributed|jsnsr04t
+https://github.com/RobTillaart/VolumeConverter.git|Contributed|VolumeConverter
