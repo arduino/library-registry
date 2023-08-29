@@ -6168,3 +6168,4 @@ https://github.com/BestModules-Libraries/BM52D5021-1
 https://github.com/BestModules-Libraries/BM52D5121-1
 https://github.com/lualtek/wisblock-io-extension-mini
 https://github.com/retrospy/OPT4048
+https://github.com/sciosense/arduino-ens220
