@@ -6272,3 +6272,4 @@ https://github.com/RobTillaart/VolumeConverter.git|Contributed|VolumeConverter
 https://github.com/bonezegei/Bonezegei_GPS.git|Contributed|Bonezegei_GPS
 https://github.com/neittien0110/Soict_IoT_Labs.git|Contributed|Soict_IoT_Labs
 https://github.com/RobTillaart/WaterMix.git|Contributed|WaterMix
+https://github.com/sparkfun/SparkFun_TMAG5273_Arduino_Library.git|Contributed|SparkFun TMAG5273 Arduino Library
