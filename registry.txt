@@ -6271,3 +6271,4 @@ https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t.git|Contribut
 https://github.com/RobTillaart/VolumeConverter.git|Contributed|VolumeConverter
 https://github.com/bonezegei/Bonezegei_GPS.git|Contributed|Bonezegei_GPS
 https://github.com/neittien0110/Soict_IoT_Labs.git|Contributed|Soict_IoT_Labs
+https://github.com/RobTillaart/WaterMix.git|Contributed|WaterMix
