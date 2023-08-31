@@ -1707,6 +1707,7 @@ https://github.com/RobTillaart/MTP40C
 https://github.com/RobTillaart/MTP40F
 https://github.com/RobTillaart/Max44007
 https://github.com/RobTillaart/Max44009
+https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/Optoma
