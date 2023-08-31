@@ -5922,3 +5922,4 @@ https://github.com/mhorimoto/M304-lib
 https://github.com/rm5248/liblcc-arduino
 https://github.com/pablomarquez76/AnalogWrite_ESP32
 https://github.com/SNMetamorph/FutabaVfdM202MD10C
+https://github.com/suratin27/MiniPLC_FX2N
