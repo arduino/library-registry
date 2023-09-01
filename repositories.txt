@@ -1,3 +1,4 @@
+https://github.com/OkbaO/ST7565_LCD
 https://github.com/sparkfun/SparkFun_TMAG5273_Arduino_Library/
 https://github.com/yasir-shahzad/AM4096
 https://github.com/Victor-Kalenda/LoRa_Library
