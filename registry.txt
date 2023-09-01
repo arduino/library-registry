@@ -6276,3 +6276,4 @@ https://github.com/sparkfun/SparkFun_TMAG5273_Arduino_Library.git|Contributed|Sp
 https://github.com/suratin27/MiniPLC_FX2N.git|Contributed|MiniPLC_FX2N
 https://github.com/bonezegei/Bonezegei_Protocol.git|Contributed|Bonezegei_Protocol
 https://github.com/RobTillaart/MiniMP3.git|Contributed|MiniMP3
+https://github.com/OkbaO/ST7565_LCD.git|Contributed|ST7565 LCD
