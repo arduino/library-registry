@@ -572,6 +572,7 @@ https://github.com/DefProc/somo-ii-lib
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/Densaugeo/base64_arduino
+https://github.com/DenysChuhlib/PGMTools
 https://github.com/DenysChuhlib/7Segment
 https://github.com/DenysChuhlib/NTPtime
 https://github.com/DhrBaksteen/ArduinoOPL2
