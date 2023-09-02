@@ -6278,3 +6278,4 @@ https://github.com/bonezegei/Bonezegei_Protocol.git|Contributed|Bonezegei_Protoc
 https://github.com/RobTillaart/MiniMP3.git|Contributed|MiniMP3
 https://github.com/OkbaO/ST7565_LCD.git|Contributed|ST7565 LCD
 https://github.com/XbergCode/MillisCounter.git|Contributed|MillisCounter
+https://github.com/DenysChuhlib/PGMTools.git|Contributed|PGMTools
