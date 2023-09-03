@@ -6280,3 +6280,4 @@ https://github.com/OkbaO/ST7565_LCD.git|Contributed|ST7565 LCD
 https://github.com/XbergCode/MillisCounter.git|Contributed|MillisCounter
 https://github.com/DenysChuhlib/PGMTools.git|Contributed|PGMTools
 https://github.com/RobTillaart/SWSerialOut.git|Contributed|SWSerialOut
+https://github.com/Makeblock-official/Makeblock-Libraries.git|Contributed|MakeBlockDrive
