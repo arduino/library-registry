@@ -6281,3 +6281,4 @@ https://github.com/XbergCode/MillisCounter.git|Contributed|MillisCounter
 https://github.com/DenysChuhlib/PGMTools.git|Contributed|PGMTools
 https://github.com/RobTillaart/SWSerialOut.git|Contributed|SWSerialOut
 https://github.com/Makeblock-official/Makeblock-Libraries.git|Contributed|MakeBlockDrive
+https://github.com/mjdonders/CST816_TouchLib.git|Contributed|CST816_TouchLib
