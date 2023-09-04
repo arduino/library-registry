@@ -1,3 +1,11 @@
+https://github.com/mjdonders/CST816_TouchLib
+https://github.com/Makeblock-official/Makeblock-Libraries
+https://github.com/OkbaO/ST7565_LCD
+https://github.com/sparkfun/SparkFun_TMAG5273_Arduino_Library/
+https://github.com/yasir-shahzad/AM4096
+https://github.com/Victor-Kalenda/LoRa_Library
+https://github.com/Xylopyrographer/BooleanButton
+https://github.com/holgerlembke/ESPFMfGK
 https://github.com/yasir-shahzad/SoftI2C
 https://github.com/tedtoal/Button_TT
 https://github.com/geekblemaker/Geekble_note2freq
@@ -41,6 +49,7 @@ https://github.com/addy123d/I2CDisplayController
 https://github.com/ZakKemble/LM73
 https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
+https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/Navigador
@@ -565,6 +574,7 @@ https://github.com/DefProc/somo-ii-lib
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/Densaugeo/base64_arduino
+https://github.com/DenysChuhlib/PGMTools
 https://github.com/DenysChuhlib/7Segment
 https://github.com/DenysChuhlib/NTPtime
 https://github.com/DhrBaksteen/ArduinoOPL2
@@ -634,6 +644,7 @@ https://github.com/Energesis-Ingenieria/Energesis_LM35
 https://github.com/Energesis-Ingenieria/Energesis_Sensor
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/EngineeringRoom/Engineer_Regulator
+https://github.com/engin100/980
 https://github.com/EnhancedRadioDevices/DDS
 https://github.com/EnhancedRadioDevices/HamShield
 https://github.com/EnhancedRadioDevices/HamShield_KISS
@@ -1471,7 +1482,6 @@ https://github.com/PulseRain/M10SevenSeg
 https://github.com/PulseRain/PulseRainUARTConsole
 https://github.com/PulseRain/Step_CYC10_I2C
 https://github.com/PulseRain/Step_CYC10_Seven_Seg_Display
-https://github.com/PushDisDev/PushDis-cpp-client-library
 https://github.com/PushTheWorld/PTW-Arduino-Assert
 https://github.com/Pylo/MCreatorLinkArduino
 https://github.com/QuadrifoglioVerde/DL_PAC_NK76
@@ -1582,6 +1592,7 @@ https://github.com/RobTillaart/AD5245
 https://github.com/RobTillaart/AD5246
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD56X8
+https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADG725
 https://github.com/RobTillaart/ADG726
@@ -1700,6 +1711,7 @@ https://github.com/RobTillaart/MTP40C
 https://github.com/RobTillaart/MTP40F
 https://github.com/RobTillaart/Max44007
 https://github.com/RobTillaart/Max44009
+https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/Optoma
@@ -1740,6 +1752,7 @@ https://github.com/RobTillaart/SHT31_SWW
 https://github.com/RobTillaart/SHT85
 https://github.com/RobTillaart/SIMON
 https://github.com/RobTillaart/SRF05
+https://github.com/RobTillaart/SWSerialOut
 https://github.com/RobTillaart/ShiftInSlow
 https://github.com/RobTillaart/ShiftOutSlow
 https://github.com/RobTillaart/Soundex
@@ -1758,6 +1771,8 @@ https://github.com/RobTillaart/TSL260R
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/Troolean
 https://github.com/RobTillaart/UUID
+https://github.com/RobTillaart/VolumeConverter
+https://github.com/RobTillaart/WaterMix
 https://github.com/RobTillaart/WaveMix
 https://github.com/RobTillaart/X9C10X
 https://github.com/RobTillaart/XMLWriter
@@ -2218,6 +2233,7 @@ https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/XasWorks/Circios-Library
+https://github.com/XbergCode/MillisCounter
 https://github.com/XbergCode/DigitSeparator
 https://github.com/XbergCode/Uptime
 https://github.com/XiloXL/Powerbaas
@@ -4418,7 +4434,6 @@ https://github.com/m5stack/M5Unit-Thermal2
 https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
-https://github.com/m5stack/MODULE_GRBL13.2
 https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/STAMP-PICO
@@ -5608,6 +5623,7 @@ https://github.com/thebigpotatoe/Effortless-SPIFFS
 https://github.com/thebigpotatoe/Feature-Variables
 https://github.com/theengs/decoder
 https://github.com/thehapyone/BareBoneSim800
+https://github.com/thekakester/Arduino-LoRa-Sx1262
 https://github.com/theprototypedesigner/tpdButton
 https://github.com/thesolarnomad/lora-serialization
 https://github.com/thewknd/VEML6040
@@ -6036,6 +6052,7 @@ https://github.com/mhorimoto/M304-lib
 https://github.com/rm5248/liblcc-arduino
 https://github.com/pablomarquez76/AnalogWrite_ESP32
 https://github.com/SNMetamorph/FutabaVfdM202MD10C
+https://github.com/suratin27/MiniPLC_FX2N
 https://github.com/dang-gun/Arduino_StepperAsync5
 https://github.com/ripred/CompileTime
 https://github.com/eigen-value/Transform
@@ -6077,6 +6094,9 @@ https://github.com/bonezegei/Bonezegei_HCSR04
 https://github.com/bonezegei/Bonezegei_GSM
 https://github.com/bonezegei/Bonezegei_SoftSerial
 https://github.com/bonezegei/Bonezegei_RS485
+https://github.com/bonezegei/Bonezegei_SSD1306
+https://github.com/bonezegei/Bonezegei_GPS
+https://github.com/bonezegei/Bonezegei_Protocol
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6158,3 +6178,8 @@ https://github.com/BestModules-Libraries/BM22S3221-1
 https://github.com/BestModules-Libraries/BMN31K522
 https://github.com/BestModules-Libraries/BM52D5021-1
 https://github.com/BestModules-Libraries/BM52D5121-1
+https://github.com/lualtek/wisblock-io-extension-mini
+https://github.com/retrospy/OPT4048
+https://github.com/sciosense/arduino-ens220
+https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t
+https://github.com/neittien0110/Soict_IoT_Labs
