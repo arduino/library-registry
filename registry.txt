@@ -6285,3 +6285,4 @@ https://github.com/mjdonders/CST816_TouchLib.git|Contributed|CST816_TouchLib
 https://github.com/m5stack/M5Module-GNSS.git|Contributed|M5Module-GNSS
 https://github.com/arduino-libraries/Arduino_POSIXStorage.git|Arduino|Arduino_POSIXStorage
 https://github.com/BasPaap/Bas.Button.git|Contributed|Bas.Button
+https://github.com/bonezegei/Bonezegei_Compute.git|Contributed|Bonezegei_Compute
