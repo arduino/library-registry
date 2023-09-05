@@ -6098,6 +6098,7 @@ https://github.com/bonezegei/Bonezegei_RS485
 https://github.com/bonezegei/Bonezegei_SSD1306
 https://github.com/bonezegei/Bonezegei_GPS
 https://github.com/bonezegei/Bonezegei_Protocol
+https://github.com/bonezegei/Bonezegei_Compute
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
