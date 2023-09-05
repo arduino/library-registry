@@ -6108,6 +6108,7 @@ https://github.com/mizuyoukanao/Bluewhale
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/AbdoullahBougataya/QCFA
 https://github.com/CMB27/ModbusRTUMaster
+https://github.com/Dino-MLC-Board/DINI-PLC-V2
 https://github.com/BestModules-Libraries/BMK52T016
 https://github.com/BestModules-Libraries/BMK54T004
 https://github.com/BestModules-Libraries/BMK56T004
