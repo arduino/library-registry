@@ -6288,3 +6288,4 @@ https://github.com/BasPaap/Bas.Button.git|Contributed|Bas.Button
 https://github.com/bonezegei/Bonezegei_Compute.git|Contributed|Bonezegei_Compute
 https://github.com/Dino-MLC-Board/DINI-PLC-V2.git|Contributed|DINO-PLC-V2
 https://github.com/KOEGlike/AsyncButton.git|Contributed|AsyncButton
+https://github.com/Obsttube/AES_CMAC.git|Contributed|AES_CMAC
