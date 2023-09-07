@@ -6289,3 +6289,4 @@ https://github.com/bonezegei/Bonezegei_Compute.git|Contributed|Bonezegei_Compute
 https://github.com/Dino-MLC-Board/DINI-PLC-V2.git|Contributed|DINO-PLC-V2
 https://github.com/KOEGlike/AsyncButton.git|Contributed|AsyncButton
 https://github.com/Obsttube/AES_CMAC.git|Contributed|AES_CMAC
+https://github.com/arduino-libraries/Arduino_UnifiedStorage.git|Arduino|Arduino_UnifiedStorage
