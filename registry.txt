@@ -6292,3 +6292,4 @@ https://github.com/Obsttube/AES_CMAC.git|Contributed|AES_CMAC
 https://github.com/arduino-libraries/Arduino_UnifiedStorage.git|Arduino|Arduino_UnifiedStorage
 https://github.com/Obsttube/MFRC522_NTAG424DNA.git|Contributed|MFRC522 NTAG424DNA
 https://github.com/nthnn/PortaMob.git|Contributed|PortaMob
+https://github.com/ktauchathuranga/MorseEncoder.git|Contributed|MorseEncoder
