@@ -6294,3 +6294,4 @@ https://github.com/Obsttube/MFRC522_NTAG424DNA.git|Contributed|MFRC522 NTAG424DN
 https://github.com/nthnn/PortaMob.git|Contributed|PortaMob
 https://github.com/ktauchathuranga/MorseEncoder.git|Contributed|MorseEncoder
 https://github.com/rtnate/arduino-BasicTimer.git|Contributed|BasicTimer
+https://github.com/Xylopyrographer/XP_Button.git|Contributed|XP_Button
