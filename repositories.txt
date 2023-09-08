@@ -6196,3 +6196,4 @@ https://github.com/m5stack/M5Module-GNSS
 https://github.com/BasPaap/Bas.Button
 https://github.com/ktauchathuranga/MorseEncoder
 https://github.com/rtnate/arduino-BasicTimer
+https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv
