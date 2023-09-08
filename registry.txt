@@ -6296,3 +6296,5 @@ https://github.com/ktauchathuranga/MorseEncoder.git|Contributed|MorseEncoder
 https://github.com/rtnate/arduino-BasicTimer.git|Contributed|BasicTimer
 https://github.com/Xylopyrographer/XP_Button.git|Contributed|XP_Button
 https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv.git|Contributed|Riscduino_MCUFRIEND_kbv
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Audio.git|Contributed|STM32duino STEVAL-MKBOXPRO-Audio
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Examples.git|Contributed|STM32duino STEVAL-MKBOXPRO-Examples
