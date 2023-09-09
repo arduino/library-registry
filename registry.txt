@@ -6299,3 +6299,4 @@ https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv.git|Contributed|Riscdui
 https://github.com/stm32duino/STEVAL-MKBOXPRO-Audio.git|Contributed|STM32duino STEVAL-MKBOXPRO-Audio
 https://github.com/stm32duino/STEVAL-MKBOXPRO-Examples.git|Contributed|STM32duino STEVAL-MKBOXPRO-Examples
 https://github.com/levkovigor/DDSM115.git|Contributed|DDSM115
+https://github.com/ahmedosama07/LineFollowerPID.git|Contributed|LineFollowerPID
