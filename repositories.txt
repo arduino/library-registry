@@ -6025,6 +6025,7 @@ https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
 https://github.com/cranties/escposprinter
 https://github.com/sciosense/APC1_driver
 https://github.com/ahmedosama07/mDriverL298n
+https://github.com/ahmedosama07/LineFollowerPID
 https://github.com/TMRh20/nrf_to_nrf
 https://github.com/mobizt/ESP-Google-Forms-Client
 https://github.com/nacademyth/RoboFi
