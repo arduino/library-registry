@@ -1,3 +1,5 @@
+https://github.com/Xylopyrographer/XP_Button
+https://github.com/arduino-libraries/Arduino_UnifiedStorage
 https://github.com/KOEGlike/AsyncButton
 https://github.com/arduino-libraries/Arduino_POSIXStorage
 https://github.com/mjdonders/CST816_TouchLib
@@ -24,6 +26,7 @@ https://github.com/MrYsLab/Telemetrix4UnoR4
 https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
 https://github.com/Obsttube/AES_CMAC
+https://github.com/Obsttube/MFRC522_NTAG424DNA
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512
 https://github.com/andrewhe-princeton/Iridium-GPP
 https://github.com/DIGI-EDGE/DPE-TRAM-GEN
@@ -52,6 +55,7 @@ https://github.com/addy123d/I2CDisplayController
 https://github.com/ZakKemble/LM73
 https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
+https://github.com/nthnn/PortaMob
 https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
@@ -6021,6 +6025,7 @@ https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
 https://github.com/cranties/escposprinter
 https://github.com/sciosense/APC1_driver
 https://github.com/ahmedosama07/mDriverL298n
+https://github.com/ahmedosama07/LineFollowerPID
 https://github.com/TMRh20/nrf_to_nrf
 https://github.com/mobizt/ESP-Google-Forms-Client
 https://github.com/nacademyth/RoboFi
@@ -6191,3 +6196,9 @@ https://github.com/neittien0110/Soict_IoT_Labs
 https://github.com/m5stack/M5Module-GNSS
 https://github.com/BasPaap/Bas.Button
 https://github.com/inflop/Countimer
+https://github.com/ktauchathuranga/MorseEncoder
+https://github.com/rtnate/arduino-BasicTimer
+https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Audio
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Examples
+https://github.com/levkovigor/DDSM115
