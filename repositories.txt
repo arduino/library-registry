@@ -1,3 +1,9 @@
+https://github.com/Xylopyrographer/XP_Button
+https://github.com/arduino-libraries/Arduino_UnifiedStorage
+https://github.com/KOEGlike/AsyncButton
+https://github.com/arduino-libraries/Arduino_POSIXStorage
+https://github.com/mjdonders/CST816_TouchLib
+https://github.com/Makeblock-official/Makeblock-Libraries
 https://github.com/OkbaO/KS0108_LCD
 https://github.com/OkbaO/ST7565_LCD
 https://github.com/sparkfun/SparkFun_TMAG5273_Arduino_Library/
@@ -20,6 +26,8 @@ https://github.com/kaiaai/micro_ros_arduino_kaia
 https://github.com/MrYsLab/Telemetrix4UnoR4
 https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
+https://github.com/Obsttube/AES_CMAC
+https://github.com/Obsttube/MFRC522_NTAG424DNA
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512
 https://github.com/andrewhe-princeton/Iridium-GPP
 https://github.com/DIGI-EDGE/DPE-TRAM-GEN
@@ -48,6 +56,7 @@ https://github.com/addy123d/I2CDisplayController
 https://github.com/ZakKemble/LM73
 https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
+https://github.com/nthnn/PortaMob
 https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
@@ -289,6 +298,7 @@ https://github.com/Ant2000/CustomJWT
 https://github.com/AntoIOT/anto-esp8266-arduino
 https://github.com/AntonioPrevitali/DueAdcFast
 https://github.com/AnyLeaf/ph-cpp
+https://github.com/Open-Agriculture/AgIsoStack-Arduino
 https://github.com/Apollon77/I2CSoilMoistureSensor
 https://github.com/ArchontisKostis/SimpleComponents
 https://github.com/ArduCAM/Arducam_Mega
@@ -573,6 +583,7 @@ https://github.com/DefProc/somo-ii-lib
 https://github.com/Dennis-van-Gils/DvG_StreamCommand
 https://github.com/Dennis-van-Gils/MIKROE_4_20mA_RT_Click
 https://github.com/Densaugeo/base64_arduino
+https://github.com/DenysChuhlib/PGMTools
 https://github.com/DenysChuhlib/7Segment
 https://github.com/DenysChuhlib/NTPtime
 https://github.com/DhrBaksteen/ArduinoOPL2
@@ -1750,6 +1761,7 @@ https://github.com/RobTillaart/SHT31_SWW
 https://github.com/RobTillaart/SHT85
 https://github.com/RobTillaart/SIMON
 https://github.com/RobTillaart/SRF05
+https://github.com/RobTillaart/SWSerialOut
 https://github.com/RobTillaart/ShiftInSlow
 https://github.com/RobTillaart/ShiftOutSlow
 https://github.com/RobTillaart/Soundex
@@ -2230,6 +2242,7 @@ https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/XasWorks/Circios-Library
+https://github.com/XbergCode/MillisCounter
 https://github.com/XbergCode/DigitSeparator
 https://github.com/XbergCode/Uptime
 https://github.com/XiloXL/Powerbaas
@@ -6014,6 +6027,7 @@ https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
 https://github.com/cranties/escposprinter
 https://github.com/sciosense/APC1_driver
 https://github.com/ahmedosama07/mDriverL298n
+https://github.com/ahmedosama07/LineFollowerPID
 https://github.com/TMRh20/nrf_to_nrf
 https://github.com/mobizt/ESP-Google-Forms-Client
 https://github.com/nacademyth/RoboFi
@@ -6093,6 +6107,7 @@ https://github.com/bonezegei/Bonezegei_RS485
 https://github.com/bonezegei/Bonezegei_SSD1306
 https://github.com/bonezegei/Bonezegei_GPS
 https://github.com/bonezegei/Bonezegei_Protocol
+https://github.com/bonezegei/Bonezegei_Compute
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6102,6 +6117,7 @@ https://github.com/mizuyoukanao/Bluewhale
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/AbdoullahBougataya/QCFA
 https://github.com/CMB27/ModbusRTUMaster
+https://github.com/Dino-MLC-Board/DINI-PLC-V2
 https://github.com/BestModules-Libraries/BMK52T016
 https://github.com/BestModules-Libraries/BMK54T004
 https://github.com/BestModules-Libraries/BMK56T004
@@ -6179,3 +6195,12 @@ https://github.com/retrospy/OPT4048
 https://github.com/sciosense/arduino-ens220
 https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t
 https://github.com/neittien0110/Soict_IoT_Labs
+https://github.com/m5stack/M5Module-GNSS
+https://github.com/BasPaap/Bas.Button
+https://github.com/inflop/Countimer
+https://github.com/ktauchathuranga/MorseEncoder
+https://github.com/rtnate/arduino-BasicTimer
+https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Audio
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Examples
+https://github.com/levkovigor/DDSM115
