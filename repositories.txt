@@ -297,6 +297,7 @@ https://github.com/Ant2000/CustomJWT
 https://github.com/AntoIOT/anto-esp8266-arduino
 https://github.com/AntonioPrevitali/DueAdcFast
 https://github.com/AnyLeaf/ph-cpp
+https://github.com/Open-Agriculture/AgIsoStack-Arduino
 https://github.com/Apollon77/I2CSoilMoistureSensor
 https://github.com/ArchontisKostis/SimpleComponents
 https://github.com/ArduCAM/Arducam_Mega
