@@ -6302,3 +6302,4 @@ https://github.com/levkovigor/DDSM115.git|Contributed|DDSM115
 https://github.com/ahmedosama07/LineFollowerPID.git|Contributed|LineFollowerPID
 https://github.com/inflop/Countimer.git|Contributed|Countimer
 https://github.com/Open-Agriculture/AgIsoStack-Arduino.git|Contributed|AgIsoStack
+https://github.com/OkbaO/KS0108_LCD.git|Contributed|KS0108_GLCD
