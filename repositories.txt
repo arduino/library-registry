@@ -2691,6 +2691,7 @@ https://github.com/arbv/avr-context
 https://github.com/ardnew/ILI9341-Layout-Manager
 https://github.com/ardnew/STUSB4500
 https://github.com/ardnew/XPT2046_Calibrated
+https://github.com/ardnew/cronos
 https://github.com/arduino-libraries/AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC
 https://github.com/arduino-libraries/ArduinoBLE
