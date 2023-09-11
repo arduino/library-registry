@@ -14,7 +14,7 @@ python = "^3.9"
 [tool.poetry.dev-dependencies]
 pytest = "^7.4.2"
 invoke = "^2.2.0"
-black = "^23.7"
+black = "^23.9"
 flake8 = "^6.1.0"
 pep8-naming = "^0.13.3"
 yamllint = "^1.32.0"
