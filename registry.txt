@@ -6303,3 +6303,4 @@ https://github.com/ahmedosama07/LineFollowerPID.git|Contributed|LineFollowerPID
 https://github.com/inflop/Countimer.git|Contributed|Countimer
 https://github.com/Open-Agriculture/AgIsoStack-Arduino.git|Contributed|AgIsoStack
 https://github.com/OkbaO/KS0108_LCD.git|Contributed|KS0108_GLCD
+https://github.com/dmadison/AnalogSelector-Arduino.git|Contributed|AnalogSelector
