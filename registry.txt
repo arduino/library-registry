@@ -6306,3 +6306,4 @@ https://github.com/OkbaO/KS0108_LCD.git|Contributed|KS0108_GLCD
 https://github.com/dmadison/AnalogSelector-Arduino.git|Contributed|AnalogSelector
 https://github.com/stm32duino/SHT40-AD1B.git|Contributed|STM32duino SHT40-AD1B
 https://github.com/stm32duino/LSM6DSO16IS.git|Contributed|STM32duino LSM6DSO16IS
+https://github.com/usk-johnny-s/UTF8_Print_AdaGfx.git|Contributed|UTF8 Print AdaGfx
