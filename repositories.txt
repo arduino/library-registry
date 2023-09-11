@@ -4,6 +4,7 @@ https://github.com/KOEGlike/AsyncButton
 https://github.com/arduino-libraries/Arduino_POSIXStorage
 https://github.com/mjdonders/CST816_TouchLib
 https://github.com/Makeblock-official/Makeblock-Libraries
+https://github.com/OkbaO/KS0108_LCD
 https://github.com/OkbaO/ST7565_LCD
 https://github.com/sparkfun/SparkFun_TMAG5273_Arduino_Library/
 https://github.com/yasir-shahzad/AM4096
@@ -297,6 +298,7 @@ https://github.com/Ant2000/CustomJWT
 https://github.com/AntoIOT/anto-esp8266-arduino
 https://github.com/AntonioPrevitali/DueAdcFast
 https://github.com/AnyLeaf/ph-cpp
+https://github.com/Open-Agriculture/AgIsoStack-Arduino
 https://github.com/Apollon77/I2CSoilMoistureSensor
 https://github.com/ArchontisKostis/SimpleComponents
 https://github.com/ArduCAM/Arducam_Mega
@@ -6025,6 +6027,7 @@ https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
 https://github.com/cranties/escposprinter
 https://github.com/sciosense/apc1-arduino
 https://github.com/ahmedosama07/mDriverL298n
+https://github.com/ahmedosama07/LineFollowerPID
 https://github.com/TMRh20/nrf_to_nrf
 https://github.com/mobizt/ESP-Google-Forms-Client
 https://github.com/nacademyth/RoboFi
@@ -6194,6 +6197,10 @@ https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t
 https://github.com/neittien0110/Soict_IoT_Labs
 https://github.com/m5stack/M5Module-GNSS
 https://github.com/BasPaap/Bas.Button
+https://github.com/inflop/Countimer
 https://github.com/ktauchathuranga/MorseEncoder
 https://github.com/rtnate/arduino-BasicTimer
 https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Audio
+https://github.com/stm32duino/STEVAL-MKBOXPRO-Examples
+https://github.com/levkovigor/DDSM115
