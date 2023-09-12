@@ -2335,6 +2335,7 @@ https://github.com/adafruit/Adafruit_ADT7410
 https://github.com/adafruit/Adafruit_ADXL343
 https://github.com/adafruit/Adafruit_ADXL345
 https://github.com/adafruit/Adafruit_ADXL375
+https://github.com/adafruit/Adafruit_AGS02MA
 https://github.com/adafruit/Adafruit_AHRS
 https://github.com/adafruit/Adafruit_AHT10
 https://github.com/adafruit/Adafruit_AHTX0
@@ -2394,6 +2395,7 @@ https://github.com/adafruit/Adafruit_HMC5883_Unified
 https://github.com/adafruit/Adafruit_HTS221
 https://github.com/adafruit/Adafruit_HTU21DF_Library
 https://github.com/adafruit/Adafruit_HTU31D
+https://github.com/adafruit/Adafruit_HUSB238
 https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
