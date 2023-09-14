@@ -2534,6 +2534,7 @@ https://github.com/adafruit/Adafruit_nRFCrypto
 https://github.com/adafruit/Audio
 https://github.com/adafruit/CC3000_MDNS
 https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/ENS160_driver
 https://github.com/adafruit/Ethernet2
 https://github.com/adafruit/FifteenStep
 https://github.com/adafruit/HL1606-LED-Strip
