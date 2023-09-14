@@ -6312,3 +6312,4 @@ https://github.com/adafruit/Adafruit_AGS02MA.git|Recommended|Adafruit AGS02MA
 https://github.com/adafruit/Adafruit_HUSB238.git|Recommended|Adafruit HUSB238 Library
 https://github.com/adafruit/ENS160_driver.git|Recommended|ENS160 - Adafruit Fork
 https://github.com/WeSpeakEnglish/ANTIRTOS.git|Contributed|ANTIRTOS
+https://github.com/simonlmn/yatest.git|Contributed|yatest
