@@ -2534,6 +2534,7 @@ https://github.com/adafruit/Adafruit_nRFCrypto
 https://github.com/adafruit/Audio
 https://github.com/adafruit/CC3000_MDNS
 https://github.com/adafruit/DHT-sensor-library
+https://github.com/adafruit/ENS160_driver
 https://github.com/adafruit/Ethernet2
 https://github.com/adafruit/FifteenStep
 https://github.com/adafruit/HL1606-LED-Strip
@@ -6211,4 +6212,5 @@ https://github.com/stm32duino/STEVAL-MKBOXPRO-Examples
 https://github.com/levkovigor/DDSM115
 https://github.com/stm32duino/SHT40-AD1B
 https://github.com/stm32duino/LSM6DSO16IS
+https://github.com/WeSpeakEnglish/ANTIRTOS.git
 https://github.com/simonlmn/yatest
