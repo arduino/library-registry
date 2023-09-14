@@ -6313,3 +6313,4 @@ https://github.com/adafruit/Adafruit_HUSB238.git|Recommended|Adafruit HUSB238 Li
 https://github.com/adafruit/ENS160_driver.git|Recommended|ENS160 - Adafruit Fork
 https://github.com/WeSpeakEnglish/ANTIRTOS.git|Contributed|ANTIRTOS
 https://github.com/simonlmn/yatest.git|Contributed|yatest
+https://gitlab.com/alexpr0/ssd1306wire.git|Contributed|SSD1306wire
