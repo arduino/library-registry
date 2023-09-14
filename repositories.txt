@@ -6216,3 +6216,4 @@ https://github.com/stm32duino/LSM6DSO16IS
 https://github.com/WeSpeakEnglish/ANTIRTOS.git
 https://github.com/simonlmn/yatest
 https://gitlab.com/alexpr0/ssd1306wire.git
+https://github.com/ICRS/ICRS-101-Devkit
