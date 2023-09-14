@@ -6310,3 +6310,4 @@ https://github.com/usk-johnny-s/UTF8_Print_AdaGfx.git|Contributed|UTF8 Print Ada
 https://github.com/ardnew/cronos.git|Contributed|cronos
 https://github.com/adafruit/Adafruit_AGS02MA.git|Recommended|Adafruit AGS02MA
 https://github.com/adafruit/Adafruit_HUSB238.git|Recommended|Adafruit HUSB238 Library
+https://github.com/adafruit/ENS160_driver.git|Recommended|ENS160 - Adafruit Fork
