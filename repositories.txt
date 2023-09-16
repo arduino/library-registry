@@ -2563,6 +2563,7 @@ https://github.com/adafruit/TinyWireM
 https://github.com/adafruit/TinyXML
 https://github.com/adafruit/WaveHC
 https://github.com/adafruit/arduino-CAN
+https://github.com/adafruit/Adafruit_Debounce
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
