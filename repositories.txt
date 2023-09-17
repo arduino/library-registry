@@ -5579,6 +5579,7 @@ https://github.com/sudomesh/LoRaLayer2
 https://github.com/sui77/rc-switch
 https://github.com/suratin27/ESP32_Control
 https://github.com/suratin27/ESP32_Control_Lite
+https://github.com/swharden/NumberSpeaker
 https://github.com/szotsaki/LIS331
 https://github.com/t-in/cloudchip-iot
 https://github.com/taligentx/dscKeybusInterface
