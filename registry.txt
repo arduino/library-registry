@@ -6318,3 +6318,4 @@ https://github.com/RobTillaart/PulseDivider.git|Contributed|PulseDivider
 https://github.com/ICRS/ICRS-101-Devkit.git|Contributed|ICRS 101
 https://github.com/JayasinghePasan/Honeywell_SPI_FMA.git|Contributed|HoneyWellFMA_SPI
 https://github.com/adafruit/Adafruit_Debounce.git|Recommended|Adafruit Debounce
+https://github.com/swharden/NumberSpeaker.git|Contributed|NumberSpeaker
