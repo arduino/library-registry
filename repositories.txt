@@ -6220,3 +6220,4 @@ https://github.com/WeSpeakEnglish/ANTIRTOS.git
 https://github.com/simonlmn/yatest
 https://gitlab.com/alexpr0/ssd1306wire.git
 https://github.com/ICRS/ICRS-101-Devkit
+https://github.com/machinefi/w3bstream-client-arduino-ce
