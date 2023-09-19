@@ -6323,3 +6323,4 @@ https://github.com/machinefi/w3bstream-client-arduino-ce.git|Contributed|W3bstre
 https://github.com/GyverLibs/GyverBeeper.git|Contributed|GyverBeeper
 https://github.com/GyverLibs/GyverBlinker.git|Contributed|GyverBlinker
 https://github.com/RobTillaart/AD5680.git|Contributed|AD5680
+https://github.com/GyverLibs/Stamp.git|Contributed|Stamp
