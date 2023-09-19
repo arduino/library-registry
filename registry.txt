@@ -6322,3 +6322,4 @@ https://github.com/swharden/NumberSpeaker.git|Contributed|NumberSpeaker
 https://github.com/machinefi/w3bstream-client-arduino-ce.git|Contributed|W3bstreamClient
 https://github.com/GyverLibs/GyverBeeper.git|Contributed|GyverBeeper
 https://github.com/GyverLibs/GyverBlinker.git|Contributed|GyverBlinker
+https://github.com/RobTillaart/AD5680.git|Contributed|AD5680
