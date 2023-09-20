@@ -1,3 +1,4 @@
+https://github.com/esp-arduino-libs/esp-io-expander
 https://github.com/GyverLibs/Stamp
 https://github.com/GyverLibs/GyverBeeper
 https://github.com/GyverLibs/GyverBlinker
