@@ -1,5 +1,4 @@
 https://github.com/oggysaud245/haversine
-https://github.com/esp-arduino-libs/esp-io-expander
 https://github.com/GyverLibs/Stamp
 https://github.com/GyverLibs/GyverBeeper
 https://github.com/GyverLibs/GyverBlinker
@@ -28,7 +27,6 @@ https://github.com/misaproyectil/GD3300
 https://github.com/misaproyectil/Sprite_Serial_Control
 https://github.com/SndrSchnklshk/HDC302x
 https://github.com/SndrSchnklshk/TMP6x
-https://github.com/Lzw655/ESP32_Display_Panel
 https://github.com/kaiaai/micro_ros_arduino_kaia
 https://github.com/MrYsLab/Telemetrix4UnoR4
 https://github.com/Reefwing-Software/Reefwing-MPU6050
@@ -42,7 +40,6 @@ https://github.com/Dhruvacube/7-Segment
 https://github.com/ress997/TinyGPSPlusPlus
 https://github.com/1NCE-GmbH/blueprint_arduino
 https://github.com/tedtoal/XPT2046_Touchscreen_TT
-https://github.com/Lzw655/ESP32_IO_Expander
 https://github.com/govorox/SSLClient
 https://github.com/tedtoal/wiring_analog_SAMD_TT
 https://github.com/tedtoal/msToString
