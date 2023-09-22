@@ -6230,3 +6230,4 @@ https://github.com/simonlmn/yatest
 https://gitlab.com/alexpr0/ssd1306wire.git
 https://github.com/ICRS/ICRS-101-Devkit
 https://github.com/machinefi/w3bstream-client-arduino-ce
+https://github.com/robertsallent/arduino_flanco
