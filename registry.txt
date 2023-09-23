@@ -6331,3 +6331,4 @@ https://github.com/oggysaud245/haversine.git|Contributed|haversine
 https://github.com/sachinmunasinghe/FirebaseRealtime.git|Contributed|FirebaseRealtime
 https://github.com/robertsallent/arduino_flanco.git|Contributed|Flanco
 https://github.com/TikaFlow/UTF8ToGB2312.git|Contributed|UTF8ToGB2312
+https://github.com/roelandkluit/Free-ESPatHome.git|Contributed|Free-ESPAtHome
