@@ -5812,7 +5812,6 @@ https://github.com/waspinator/AccelStepper
 https://github.com/waspinator/CD74HC4067
 https://github.com/wayoda/LedControl
 https://github.com/weckbach/AstroMech
-https://github.com/weedmanu/ToneESP32
 https://github.com/werktag/Adaino
 https://github.com/whatnick/ATM90E26_Arduino
 https://github.com/whatnick/CS5464_Arduino
