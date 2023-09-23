@@ -6233,3 +6233,4 @@ https://github.com/machinefi/w3bstream-client-arduino-ce
 https://github.com/robertsallent/arduino_flanco
 https://github.com/TikaFlow/UTF8ToGB2312
 https://github.com/roelandkluit/Free-ESPatHome
+https://github.com/ArtronShop/ATD1.47-S3-Lib
