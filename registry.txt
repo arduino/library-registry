@@ -6335,3 +6335,4 @@ https://github.com/roelandkluit/Free-ESPatHome.git|Contributed|Free-ESPAtHome
 https://github.com/ArtronShop/ATD1.47-S3-Lib.git|Contributed|ATD1.47-S3 Lib
 https://github.com/lewisxhe/SensorLib.git|Contributed|SensorLib
 https://github.com/fsender/readguy.git|Contributed|readguy
+https://github.com/avivgr/IS31FL3729_LED_Matrix.git|Contributed|IS31FL3729_LED_Matrix
