@@ -6224,7 +6224,7 @@ https://github.com/misaproyectil/GD3300.git|Contributed|Proyectil GD3300
 https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library.git|Contributed|SparkFun BNO08x Cortex Based IMU
 https://github.com/bonezegei/Bonezegei_SoftSerial.git|Contributed|Bonezegei_SoftSerial
 https://github.com/Reefwing-Software/Reefwing-PWM.git|Contributed|ReefwingPWM
-https://github.com/sciosense/ENS21x_driver.git|Contributed|ScioSense_ENS21x
+https://github.com/sciosense/ens21x-arduino.git|Contributed|ScioSense_ENS21x
 https://github.com/GabyGold67/MomentaryPushButtonsAsSwitches.git|Contributed|mpbToSwitch
 https://github.com/m5stack/M5Module-GRBL-13.2.git|Contributed|Module_GRBL_13.2
 https://github.com/m5stack/M5Module-Stepmotor.git|Contributed|Module_Stepmotor
