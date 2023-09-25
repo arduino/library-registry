@@ -296,6 +296,7 @@ https://github.com/Andy4495/AY3891x
 https://github.com/Andy4495/ICM7218
 https://github.com/Andy4495/LED744511
 https://github.com/Andy4495/SWI2C
+https://github.com/Andy4495/TIL306
 https://github.com/Andy4495/TLC591x
 https://github.com/Annikken/Andee
 https://github.com/Annikken/Andee101
