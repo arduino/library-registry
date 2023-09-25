@@ -30,7 +30,6 @@ https://github.com/misaproyectil/Sprite_Serial_Control
 https://github.com/SndrSchnklshk/HDC302x
 https://github.com/SndrSchnklshk/TMP6x
 https://github.com/Lzw655/ESP32_Display_Panel
-https://github.com/kaiaai/micro_ros_arduino_kaiaai
 https://github.com/MrYsLab/Telemetrix4UnoR4
 https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
