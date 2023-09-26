@@ -6238,3 +6238,4 @@ https://github.com/ArtronShop/ATD1.47-S3-Lib
 https://github.com/lewisxhe/SensorLib
 https://github.com/fsender/readguy
 https://github.com/avivgr/IS31FL3729_LED_Matrix
+https://github.com/m5stack/M5Dial
