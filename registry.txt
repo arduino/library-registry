@@ -6214,7 +6214,6 @@ https://github.com/abcdaaaaaaaaa/MQSpaceData.h.git|Contributed|MQSpaceData
 https://github.com/casiez/OneEuroFilterArduino.git|Contributed|1euroFilter
 https://github.com/u-fire/Mod-NTC.git|Contributed|Microfire Mod-NTC
 https://github.com/EvTheFuture/WebConsole.git|Contributed|WebConsole
-https://github.com/Lzw655/ESP32_Display_Panel.git|Contributed|ESP32_Display_Panel
 https://github.com/gbr1/ucPack.git|Contributed|ucPack
 https://github.com/SndrSchnklshk/HDC302x.git|Contributed|HDC302x
 https://github.com/SndrSchnklshk/TMP6x.git|Contributed|TMP6x
