@@ -6340,3 +6340,4 @@ https://github.com/Andy4495/TIL306.git|Contributed|TIL306
 https://github.com/m5stack/M5Dial.git|Contributed|M5Dial
 https://github.com/thomasfredericks/M5_PbHub.git|Contributed|M5_PbHub
 https://github.com/galarb/ButtonIRQ.git|Contributed|ButtonnIRQ
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-arduino.git|Contributed|VEGA_FirebaseArduino
