@@ -6324,7 +6324,6 @@ https://github.com/RobTillaart/AD5680.git|Contributed|AD5680
 https://github.com/GyverLibs/Stamp.git|Contributed|Stamp
 https://github.com/RobTillaart/AD568X.git|Contributed|AD568X
 https://github.com/4dsystems/GFX4dESP32.git|Contributed|GFX4dESP32
-https://github.com/esp-arduino-libs/esp-io-expander.git|Contributed|esp-io-expander
 https://github.com/oggysaud245/haversine.git|Contributed|haversine
 https://github.com/sachinmunasinghe/FirebaseRealtime.git|Contributed|FirebaseRealtime
 https://github.com/robertsallent/arduino_flanco.git|Contributed|Flanco
