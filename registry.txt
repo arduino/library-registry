@@ -6339,3 +6339,4 @@ https://github.com/avivgr/IS31FL3729_LED_Matrix.git|Contributed|IS31FL3729_LED_M
 https://github.com/Andy4495/TIL306.git|Contributed|TIL306
 https://github.com/m5stack/M5Dial.git|Contributed|M5Dial
 https://github.com/thomasfredericks/M5_PbHub.git|Contributed|M5_PbHub
+https://github.com/galarb/ButtonIRQ.git|Contributed|ButtonnIRQ
