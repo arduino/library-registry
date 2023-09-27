@@ -6168,7 +6168,6 @@ https://github.com/BestModules-Libraries/BM12O2021-A.git|Contributed|BM12O2021-A
 https://github.com/BestModules-Libraries/BM32O2531-A.git|Contributed|BM32O2531-A
 https://github.com/govorox/SSLClient.git|Contributed|GovoroxSSLClient
 https://github.com/soryone1/fog.git|Contributed|fog
-https://github.com/Lzw655/ESP32_IO_Expander.git|Contributed|ESP32_IO_Expander
 https://github.com/todd-herbert/unoHID.git|Contributed|unoHID
 https://github.com/RobTillaart/MTP40F.git|Contributed|MTP40F
 https://github.com/adafruit/Adafruit_TSC2046.git|Recommended|Adafruit TSC2046
