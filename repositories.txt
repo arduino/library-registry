@@ -2743,6 +2743,7 @@ https://github.com/arduino-libraries/Arduino_DebugUtils
 https://github.com/arduino-libraries/Arduino_EMBRYO_2
 https://github.com/arduino-libraries/Arduino_ESP32_OTA
 https://github.com/arduino-libraries/Arduino_EdgeControl
+https://github.com/arduino-libraries/Arduino_GigaDisplay
 https://github.com/arduino-libraries/Arduino_GigaDisplayTouch
 https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
