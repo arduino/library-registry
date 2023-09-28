@@ -6341,3 +6341,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-ardui
 https://github.com/RobertByrnes/Emulation.git|Contributed|Emulation
 https://github.com/arduino-libraries/Arduino_GigaDisplay.git|Arduino|Arduino_GigaDisplay
 https://github.com/marbalon/Eccel-C1.git|Contributed|Eccel-C1
+https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library.git|Contributed|RocciBoard-Library
