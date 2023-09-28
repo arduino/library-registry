@@ -6242,4 +6242,4 @@ https://github.com/m5stack/M5Dial
 https://github.com/thomasfredericks/M5_PbHub
 https://github.com/galarb/ButtonIRQ.git
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-arduino
-https://github.com/markwilson1208/library-registry/edit/main/repositories.txt
+
