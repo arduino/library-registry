@@ -6339,3 +6339,4 @@ https://github.com/thomasfredericks/M5_PbHub.git|Contributed|M5_PbHub
 https://github.com/galarb/ButtonIRQ.git|Contributed|ButtonnIRQ
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-arduino.git|Contributed|VEGA_FirebaseArduino
 https://github.com/RobertByrnes/Emulation.git|Contributed|Emulation
+https://github.com/arduino-libraries/Arduino_GigaDisplay.git|Arduino|Arduino_GigaDisplay
