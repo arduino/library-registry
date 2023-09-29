@@ -6350,3 +6350,4 @@ https://github.com/ReWire-LLC/rewire_max32664.git|Contributed|ReWire MAX32664 Bi
 https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library.git|Contributed|SparkFun Color Sensor OPT4048
 https://github.com/nbourre/Makeblock-Libraries.git|Contributed|MakeBlock Drive Updated
 https://github.com/adafruit/Adafruit_AD569x.git|Recommended|Adafruit AD569x Library
+https://github.com/ndroid/HC06_AT_CommandCenter.git|Contributed|HC0x_AT_Config
