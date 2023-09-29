@@ -6344,3 +6344,4 @@ https://github.com/marbalon/Eccel-C1.git|Contributed|Eccel-C1
 https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library.git|Contributed|RocciBoard-Library
 https://github.com/bonezegei/Bonezegei_I2CScan.git|Contributed|Bonezegei_I2CScan
 https://github.com/richardsibanda/nonblockingtimer.git|Contributed|nonblockingtimer
+https://github.com/LionBit-STEM-Board/lionBit-STEM-library.git|Contributed|LionBit-STEM-library
