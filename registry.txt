@@ -6347,3 +6347,4 @@ https://github.com/richardsibanda/nonblockingtimer.git|Contributed|nonblockingti
 https://github.com/LionBit-STEM-Board/lionBit-STEM-library.git|Contributed|LionBit-STEM-library
 https://github.com/arduino-libraries/Arduino_GigaDisplay_GFX.git|Arduino|Arduino_GigaDisplay_GFX
 https://github.com/ReWire-LLC/rewire_max32664.git|Contributed|ReWire MAX32664 Biosensor Hub Library
+https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library.git|Contributed|SparkFun Color Sensor OPT4048
