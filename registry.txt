@@ -6345,3 +6345,4 @@ https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library.gi
 https://github.com/bonezegei/Bonezegei_I2CScan.git|Contributed|Bonezegei_I2CScan
 https://github.com/richardsibanda/nonblockingtimer.git|Contributed|nonblockingtimer
 https://github.com/LionBit-STEM-Board/lionBit-STEM-library.git|Contributed|LionBit-STEM-library
+https://github.com/arduino-libraries/Arduino_GigaDisplay_GFX.git|Arduino|Arduino_GigaDisplay_GFX
