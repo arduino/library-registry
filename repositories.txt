@@ -6247,4 +6247,5 @@ https://github.com/galarb/ButtonIRQ.git
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-arduino
 https://github.com/marbalon/Eccel-C1
 https://github.com/LionBit-STEM-Board/lionBit-STEM-library
+https://github.com/ReWire-LLC/rewire_max32664
 
