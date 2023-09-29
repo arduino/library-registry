@@ -6245,4 +6245,5 @@ https://github.com/thomasfredericks/M5_PbHub
 https://github.com/galarb/ButtonIRQ.git
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-arduino
 https://github.com/marbalon/Eccel-C1
+https://github.com/LionBit-STEM-Board/lionBit-STEM-library
 
