@@ -6248,4 +6248,5 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-ardui
 https://github.com/marbalon/Eccel-C1
 https://github.com/LionBit-STEM-Board/lionBit-STEM-library
 https://github.com/ReWire-LLC/rewire_max32664
+https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library
 
