@@ -6351,3 +6351,4 @@ https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library.git|Contributed|Spa
 https://github.com/nbourre/Makeblock-Libraries.git|Contributed|MakeBlock Drive Updated
 https://github.com/adafruit/Adafruit_AD569x.git|Recommended|Adafruit AD569x Library
 https://github.com/ndroid/HC06_AT_CommandCenter.git|Contributed|HC0x_AT_Config
+https://github.com/peetj/Nexgen_Rover.git|Contributed|Nexgen_Rover
