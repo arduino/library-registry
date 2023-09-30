@@ -4860,6 +4860,7 @@ https://github.com/paulpavish/GuiNE_Bot_Arduino_Library
 https://github.com/pavelmc/FT857d
 https://github.com/pchwalek/AirCommanderEntireControl
 https://github.com/peanut-king-solution/PeanutKing_Soccer
+https://github.com/peetj/Nexgen_Rover
 https://github.com/peterus/APRS-Decoder-Lib
 https://github.com/peterus/APRS-IS-Lib
 https://github.com/peterus/INA226Lib
