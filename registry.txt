@@ -6353,3 +6353,4 @@ https://github.com/adafruit/Adafruit_AD569x.git|Recommended|Adafruit AD569x Libr
 https://github.com/ndroid/HC06_AT_CommandCenter.git|Contributed|HC0x_AT_Config
 https://github.com/peetj/Nexgen_Rover.git|Contributed|Nexgen_Rover
 https://github.com/lbirkert/asyncino.git|Contributed|asyncino
+https://github.com/rtdgreg/TWI_GPS.git|Contributed|TWI_GPS
