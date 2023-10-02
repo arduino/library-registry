@@ -3206,8 +3206,8 @@ https://github.com/codewrite/arduino-capacitor
 https://github.com/codinghusi/ArduinoKnockPatternDetector
 https://github.com/collin80/due_can
 https://github.com/combs/DLxx416_Arduino
-https://github.com/congtrol/boho-arduino
-https://github.com/congtrol/remote-signal-arduino
+https://github.com/remocons/boho-arduino
+https://github.com/remocons/remote-signal-arduino
 https://github.com/connect-things/ConnectThings_ESP8266
 https://github.com/connornishijima/AlertMe
 https://github.com/connornishijima/Lixie-arduino
