@@ -6358,3 +6358,4 @@ https://github.com/and900/AMYTOL_Robot.git|Contributed|AMYTOL_Robot
 https://github.com/netnspace/CanSatNeXT_library.git|Contributed|CanSatNeXT
 https://github.com/iMakeOfficial/iMakeBeta.git|Contributed|iMakeBeta
 https://github.com/suratin27/PicoPLC.git|Contributed|PicoPLC
+https://github.com/Kastara-Digital-Technology/Kadita.git|Contributed|Kadita
