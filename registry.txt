@@ -6359,3 +6359,4 @@ https://github.com/netnspace/CanSatNeXT_library.git|Contributed|CanSatNeXT
 https://github.com/iMakeOfficial/iMakeBeta.git|Contributed|iMakeBeta
 https://github.com/suratin27/PicoPLC.git|Contributed|PicoPLC
 https://github.com/Kastara-Digital-Technology/Kadita.git|Contributed|Kadita
+https://github.com/MaffooClock/ESP32RotaryEncoder.git|Contributed|ESP32RotaryEncoder
