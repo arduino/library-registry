@@ -6261,3 +6261,4 @@ https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library
 https://github.com/nbourre/Makeblock-Libraries
 https://github.com/adafruit/Adafruit_AD569x
 https://github.com/MaffooClock/ESP32RotaryEncoder
+https://github.com/burksbuilds/PreferencesCLI
