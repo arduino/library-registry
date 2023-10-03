@@ -6225,6 +6225,7 @@ https://github.com/retrospy/OPT4048
 https://github.com/sciosense/ens220-arduino
 https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t
 https://github.com/neittien0110/Soict_IoT_Labs
+https://github.com/suratin27/PicoPLC
 https://github.com/m5stack/M5Module-GNSS
 https://github.com/BasPaap/Bas.Button
 https://github.com/inflop/Countimer
