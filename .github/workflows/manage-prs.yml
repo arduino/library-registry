@@ -134,7 +134,7 @@ jobs:
 
     steps:
       - name: Checkout local repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download submission parser
         id: download-parser
@@ -474,7 +474,7 @@ jobs:
 
       - name: Checkout index source branch
         if: steps.merge.outcome == 'success'
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: production
 
