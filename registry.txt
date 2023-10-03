@@ -6356,3 +6356,4 @@ https://github.com/lbirkert/asyncino.git|Contributed|asyncino
 https://github.com/rtdgreg/TWI_GPS.git|Contributed|TWI_GPS
 https://github.com/and900/AMYTOL_Robot.git|Contributed|AMYTOL_Robot
 https://github.com/netnspace/CanSatNeXT_library.git|Contributed|CanSatNeXT
+https://github.com/iMakeOfficial/iMakeBeta.git|Contributed|iMakeBeta
