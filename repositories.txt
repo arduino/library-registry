@@ -4485,6 +4485,7 @@ https://github.com/madhephaestus/ESP32AnalogRead
 https://github.com/madhephaestus/ESP32Encoder
 https://github.com/madhephaestus/ESP32Servo
 https://github.com/madhephaestus/Esp32SimplePacketComs
+https://github.com/madhephaestus/ESP32WebRemoteControl
 https://github.com/madhephaestus/Esp32WifiManager
 https://github.com/madhephaestus/EspWii
 https://github.com/madhephaestus/PVision
