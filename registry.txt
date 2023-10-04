@@ -1945,7 +1945,7 @@ https://github.com/nyampass/HaLake-M5Stack-Library.git|Contributed|HaLake-M5Stac
 https://github.com/asukiaaa/AM2320_asukiaaa.git|Contributed|AM2320_asukiaaa
 https://github.com/avishorp/TM1637.git|Contributed|TM1637
 https://github.com/Hiroshi-Sugimura/EL_dev_arduino.git|Contributed|EL_dev_arduino
-https://github.com/thingsboard/thingsboard-arduino-sdk.git|Contributed|ThingsBoard
+https://github.com/thingsboard/thingsboard-client-sdk.git|Contributed|ThingsBoard
 https://github.com/fu-hsi/FuGPS.git|Contributed|FuGPS Library
 https://github.com/bluerobotics/ping-arduino.git|Contributed|ping-arduino
 https://github.com/adafruit/Adafruit_Keypad.git|Contributed|Adafruit Keypad
