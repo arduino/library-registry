@@ -6365,3 +6365,4 @@ https://github.com/and900/Amytol_Sample.git|Contributed|Amytol_Sample
 https://bitbucket.org/jezhill/SignalAcquisition.git|Contributed|SignalAcquisition
 https://github.com/codeljo/AA_MCP2515.git|Contributed|AA_MCP2515
 https://github.com/CIRCUITSTATE/CSE_ArduinoRS485.git|Contributed|CSE_ArduinoRS485
+https://github.com/zvonler/DebouncedButton.git|Contributed|DebouncedButton
