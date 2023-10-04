@@ -6362,3 +6362,4 @@ https://github.com/Kastara-Digital-Technology/Kadita.git|Contributed|Kadita
 https://github.com/MaffooClock/ESP32RotaryEncoder.git|Contributed|ESP32RotaryEncoder
 https://github.com/burksbuilds/PreferencesCLI.git|Contributed|PreferencesCLI
 https://github.com/and900/Amytol_Sample.git|Contributed|Amytol_Sample
+https://bitbucket.org/jezhill/SignalAcquisition.git|Contributed|SignalAcquisition
