@@ -5683,7 +5683,7 @@ https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/Core32
 https://github.com/thingface/arduino
-https://github.com/thingsboard/ThingsBoard-Arduino-SDK
+https://github.com/thingsboard/thingsboard-client-sdk
 https://github.com/thingsboard/pubsubclient
 https://github.com/thinkovation/Ambimate
 https://github.com/thomasfredericks/Bounce2
