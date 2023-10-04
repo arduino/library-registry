@@ -6368,3 +6368,4 @@ https://github.com/CIRCUITSTATE/CSE_ArduinoRS485.git|Contributed|CSE_ArduinoRS48
 https://github.com/zvonler/DebouncedButton.git|Contributed|DebouncedButton
 https://github.com/SemBeacon/arduino-esp32.git|Contributed|ESP32_SemBeacon
 https://github.com/madhephaestus/ESP32WebRemoteControl.git|Contributed|ESP32WebRemoteControl
+https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library.git|Contributed|XPT2046_Bitbang
