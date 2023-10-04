@@ -6366,3 +6366,4 @@ https://bitbucket.org/jezhill/SignalAcquisition.git|Contributed|SignalAcquisitio
 https://github.com/codeljo/AA_MCP2515.git|Contributed|AA_MCP2515
 https://github.com/CIRCUITSTATE/CSE_ArduinoRS485.git|Contributed|CSE_ArduinoRS485
 https://github.com/zvonler/DebouncedButton.git|Contributed|DebouncedButton
+https://github.com/SemBeacon/arduino-esp32.git|Contributed|ESP32_SemBeacon
