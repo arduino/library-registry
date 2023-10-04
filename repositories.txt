@@ -6263,3 +6263,4 @@ https://github.com/nbourre/Makeblock-Libraries
 https://github.com/adafruit/Adafruit_AD569x
 https://github.com/MaffooClock/ESP32RotaryEncoder
 https://github.com/burksbuilds/PreferencesCLI
+https://bitbucket.org/jezhill/SignalAcquisition
