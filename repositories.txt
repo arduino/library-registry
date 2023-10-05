@@ -1,4 +1,17 @@
+https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
+https://github.com/SemBeacon/arduino-esp32
+https://github.com/zvonler/DebouncedButton
+https://github.com/CIRCUITSTATE/CSE_ArduinoRS485
+https://github.com/codeljo/AA_MCP2515
+https://github.com/and900/Amytol_Sample
+https://github.com/iMakeOfficial/iMakeBeta
+https://github.com/Kastara-Digital-Technology/Kadita
+https://github.com/netnspace/CanSatNeXT_library/
+https://github.com/and900/AMYTOL_Robot
+https://github.com/lbirkert/asyncino
+https://github.com/rtdgreg/TWI_GPS
 https://github.com/richardsibanda/nonblockingtimer
+https://github.com/ndroid/HC06_AT_CommandCenter
 https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library
 https://github.com/RobertByrnes/Emulation
 https://github.com/sachinmunasinghe/FirebaseRealtime
@@ -31,7 +44,7 @@ https://github.com/misaproyectil/GD3300
 https://github.com/misaproyectil/Sprite_Serial_Control
 https://github.com/SndrSchnklshk/HDC302x
 https://github.com/SndrSchnklshk/TMP6x
-https://github.com/kaiaai/micro_ros_arduino_kaia
+https://github.com/kaiaai/micro_ros_arduino_kaiaai
 https://github.com/MrYsLab/Telemetrix4UnoR4
 https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
@@ -3203,8 +3216,8 @@ https://github.com/codewrite/arduino-capacitor
 https://github.com/codinghusi/ArduinoKnockPatternDetector
 https://github.com/collin80/due_can
 https://github.com/combs/DLxx416_Arduino
-https://github.com/congtrol/boho-arduino
-https://github.com/congtrol/remote-signal-arduino
+https://github.com/remocons/boho-arduino
+https://github.com/remocons/remote-signal-arduino
 https://github.com/connect-things/ConnectThings_ESP8266
 https://github.com/connornishijima/AlertMe
 https://github.com/connornishijima/Lixie-arduino
@@ -4473,6 +4486,7 @@ https://github.com/madhephaestus/ESP32AnalogRead
 https://github.com/madhephaestus/ESP32Encoder
 https://github.com/madhephaestus/ESP32Servo
 https://github.com/madhephaestus/Esp32SimplePacketComs
+https://github.com/madhephaestus/ESP32WebRemoteControl
 https://github.com/madhephaestus/Esp32WifiManager
 https://github.com/madhephaestus/EspWii
 https://github.com/madhephaestus/PVision
@@ -4859,6 +4873,7 @@ https://github.com/paulpavish/GuiNE_Bot_Arduino_Library
 https://github.com/pavelmc/FT857d
 https://github.com/pchwalek/AirCommanderEntireControl
 https://github.com/peanut-king-solution/PeanutKing_Soccer
+https://github.com/peetj/Nexgen_Rover
 https://github.com/peterus/APRS-Decoder-Lib
 https://github.com/peterus/APRS-IS-Lib
 https://github.com/peterus/INA226Lib
@@ -5671,7 +5686,7 @@ https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/Core32
 https://github.com/thingface/arduino
-https://github.com/thingsboard/ThingsBoard-Arduino-SDK
+https://github.com/thingsboard/thingsboard-client-sdk
 https://github.com/thingsboard/pubsubclient
 https://github.com/thinkovation/Ambimate
 https://github.com/thomasfredericks/Bounce2
@@ -6218,6 +6233,7 @@ https://github.com/retrospy/OPT4048
 https://github.com/sciosense/ens220-arduino
 https://gitlab.com/devgiants/embedded/arduino/libraries/jsn-sr-04t
 https://github.com/neittien0110/Soict_IoT_Labs
+https://github.com/suratin27/PicoPLC
 https://github.com/m5stack/M5Module-GNSS
 https://github.com/BasPaap/Bas.Button
 https://github.com/inflop/Countimer
@@ -6247,4 +6263,10 @@ https://github.com/galarb/ButtonIRQ.git
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/firebase-arduino
 https://github.com/marbalon/Eccel-C1
 https://github.com/LionBit-STEM-Board/lionBit-STEM-library
-
+https://github.com/ReWire-LLC/rewire_max32664
+https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library
+https://github.com/nbourre/Makeblock-Libraries
+https://github.com/adafruit/Adafruit_AD569x
+https://github.com/MaffooClock/ESP32RotaryEncoder
+https://github.com/burksbuilds/PreferencesCLI
+https://bitbucket.org/jezhill/SignalAcquisition
