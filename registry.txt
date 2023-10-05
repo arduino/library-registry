@@ -6371,3 +6371,4 @@ https://github.com/madhephaestus/ESP32WebRemoteControl.git|Contributed|ESP32WebR
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library.git|Contributed|XPT2046_Bitbang
 https://github.com/arduino-libraries/Arduino_GigaDisplay_TinyGL.git|Arduino|Arduino_TinyGL
 https://github.com/RobTillaart/ACD10.git|Contributed|ACD10
+https://github.com/KurtE/ILI9341_t3n.git|Contributed|ILI9341_t3n
