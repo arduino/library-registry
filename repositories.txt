@@ -6272,3 +6272,4 @@ https://github.com/adafruit/Adafruit_AD569x
 https://github.com/MaffooClock/ESP32RotaryEncoder
 https://github.com/burksbuilds/PreferencesCLI
 https://bitbucket.org/jezhill/SignalAcquisition
+https://github.com/KurtE/ILI9341_t3n.git
