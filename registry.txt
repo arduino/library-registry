@@ -6370,3 +6370,4 @@ https://github.com/SemBeacon/arduino-esp32.git|Contributed|ESP32_SemBeacon
 https://github.com/madhephaestus/ESP32WebRemoteControl.git|Contributed|ESP32WebRemoteControl
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library.git|Contributed|XPT2046_Bitbang
 https://github.com/arduino-libraries/Arduino_GigaDisplay_TinyGL.git|Arduino|Arduino_TinyGL
+https://github.com/RobTillaart/ACD10.git|Contributed|ACD10
