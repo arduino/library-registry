@@ -3647,6 +3647,7 @@ https://github.com/gicking/LIN_master_portable_Arduino
 https://github.com/gicking/NeoHWSerial
 https://github.com/gigabits-org/gigabits-arduino
 https://github.com/gigix74/CalibratedSpeed
+https://github.com/gillham/logic_analyzer
 https://github.com/gilmaimon/Arduino-CloudStorage
 https://github.com/gilmaimon/ArduinoComponents
 https://github.com/gilmaimon/ArduinoWebsockets
