@@ -6375,3 +6375,4 @@ https://github.com/KurtE/ILI9341_t3n.git|Contributed|ILI9341_t3n
 https://github.com/gillham/logic_analyzer.git|Contributed|LogicAnalyzer
 https://github.com/esp-arduino-libs/ESP32_Display_Panel.git|Contributed|ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander.git|Contributed|ESP32_IO_Expander
+https://github.com/KurtE/UNOR4WMatrixGFX.git|Contributed|UNOR4WMatrixGFX
