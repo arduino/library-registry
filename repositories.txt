@@ -6278,3 +6278,4 @@ https://bitbucket.org/jezhill/SignalAcquisition
 https://github.com/KurtE/ILI9341_t3n.git
 https://github.com/KurtE/UNOR4WMatrixGFX.git
 https://github.com/m5stack/M5Capsule
+https://github.com/ito-soft-design/irboard_esp32
