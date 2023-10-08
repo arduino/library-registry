@@ -6376,3 +6376,4 @@ https://github.com/gillham/logic_analyzer.git|Contributed|LogicAnalyzer
 https://github.com/esp-arduino-libs/ESP32_Display_Panel.git|Contributed|ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander.git|Contributed|ESP32_IO_Expander
 https://github.com/KurtE/UNOR4WMatrixGFX.git|Contributed|UNOR4WMatrixGFX
+https://github.com/m5stack/M5Capsule.git|Contributed|M5Capsule
