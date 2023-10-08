@@ -2313,6 +2313,7 @@ https://github.com/ZinggJM/GFX_Extensions
 https://github.com/ZinggJM/GFX_Root
 https://github.com/ZinggJM/GxEPD
 https://github.com/ZinggJM/GxEPD2
+https://github.com/ZinggJM/GxEPD2_4G
 https://github.com/ZinggJM/ILI9486_SPI
 https://github.com/ZulNs/LCD_HD44780
 https://github.com/ZulNs/MultitapKeypad
