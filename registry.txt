@@ -6380,3 +6380,4 @@ https://github.com/m5stack/M5Capsule.git|Contributed|M5Capsule
 https://github.com/ito-soft-design/irboard_esp32.git|Contributed|irBoard Library for ESP32
 https://github.com/ApophisXX/MyTimer.git|Contributed|MyTimer
 https://github.com/kikuchan/pngle.git|Contributed|pngle
+https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library.git|Contributed|ChatGPTuino
