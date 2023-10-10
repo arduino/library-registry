@@ -6384,3 +6384,4 @@ https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library.git|Con
 https://github.com/RobTillaart/AD5263.git|Contributed|AD5263
 https://github.com/m5stack/M5Cardputer.git|Contributed|M5Cardputer
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier.git|Arduino|Arduino_ScienceKitCarrier
+https://github.com/adafruit/Adafruit_VCNL4020.git|Recommended|Adafruit VCNL4020 Library
