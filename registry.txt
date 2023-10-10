@@ -6382,3 +6382,4 @@ https://github.com/ApophisXX/MyTimer.git|Contributed|MyTimer
 https://github.com/kikuchan/pngle.git|Contributed|pngle
 https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library.git|Contributed|ChatGPTuino
 https://github.com/RobTillaart/AD5263.git|Contributed|AD5263
+https://github.com/m5stack/M5Cardputer.git|Contributed|M5Cardputer
