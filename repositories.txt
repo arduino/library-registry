@@ -1,4 +1,6 @@
+https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
+https://github.com/ApophisXX/MyTimer.git
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
 https://github.com/SemBeacon/arduino-esp32
@@ -1625,6 +1627,7 @@ https://github.com/RobTillaart/AD5144A
 https://github.com/RobTillaart/AD520X
 https://github.com/RobTillaart/AD5245
 https://github.com/RobTillaart/AD5246
+https://github.com/RobTillaart/AD5263
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD56X8
 https://github.com/RobTillaart/AD5680
@@ -4222,6 +4225,7 @@ https://github.com/khoih-prog/nRF52_PWM
 https://github.com/khoih-prog/nRF52_Slow_PWM
 https://github.com/kigster/back-seat-driver
 https://github.com/kike-canaries/canairio_sensorlib
+https://github.com/kikuchan/pngle
 https://github.com/killer0071234/esp_abus
 https://github.com/kimballa/PyArduinoDebug
 https://github.com/kimballa/button-debounce
@@ -6278,3 +6282,5 @@ https://bitbucket.org/jezhill/SignalAcquisition
 https://github.com/KurtE/ILI9341_t3n.git
 https://github.com/KurtE/UNOR4WMatrixGFX.git
 https://github.com/m5stack/M5Capsule
+https://github.com/ito-soft-design/irboard_esp32
+https://github.com/m5stack/M5Cardputer
