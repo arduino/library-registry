@@ -6386,3 +6386,4 @@ https://github.com/m5stack/M5Cardputer.git|Contributed|M5Cardputer
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier.git|Arduino|Arduino_ScienceKitCarrier
 https://github.com/adafruit/Adafruit_VCNL4020.git|Recommended|Adafruit VCNL4020 Library
 https://github.com/makerlabvn/Waterproof_Ultrasonic.git|Contributed|Waterproof_Ultrasonic
+https://github.com/zvonler/CircuitPlaygroundGestures.git|Contributed|CircuitPlaygroundGestures
