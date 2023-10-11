@@ -6288,3 +6288,4 @@ https://github.com/ito-soft-design/irboard_esp32
 https://github.com/m5stack/M5Cardputer
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier
 https://github.com/adafruit/Adafruit_VCNL4020
+https://gitlab.com/F-Schmidt/ulm_weatherballoon
