@@ -6387,3 +6387,4 @@ https://github.com/arduino-libraries/Arduino_ScienceKitCarrier.git|Arduino|Ardui
 https://github.com/adafruit/Adafruit_VCNL4020.git|Recommended|Adafruit VCNL4020 Library
 https://github.com/makerlabvn/Waterproof_Ultrasonic.git|Contributed|Waterproof_Ultrasonic
 https://github.com/zvonler/CircuitPlaygroundGestures.git|Contributed|CircuitPlaygroundGestures
+https://gitlab.com/F-Schmidt/ulm_weatherballoon.git|Contributed|Ulm_Weatherballoon
