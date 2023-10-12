@@ -6388,3 +6388,4 @@ https://github.com/adafruit/Adafruit_VCNL4020.git|Recommended|Adafruit VCNL4020 
 https://github.com/makerlabvn/Waterproof_Ultrasonic.git|Contributed|Waterproof_Ultrasonic
 https://github.com/zvonler/CircuitPlaygroundGestures.git|Contributed|CircuitPlaygroundGestures
 https://gitlab.com/F-Schmidt/ulm_weatherballoon.git|Contributed|Ulm_Weatherballoon
+https://github.com/InterstitialTech/quadrant-lib.git|Contributed|Interstitial Quadrant
