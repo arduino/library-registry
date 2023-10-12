@@ -6389,3 +6389,4 @@ https://github.com/makerlabvn/Waterproof_Ultrasonic.git|Contributed|Waterproof_U
 https://github.com/zvonler/CircuitPlaygroundGestures.git|Contributed|CircuitPlaygroundGestures
 https://gitlab.com/F-Schmidt/ulm_weatherballoon.git|Contributed|Ulm_Weatherballoon
 https://github.com/InterstitialTech/quadrant-lib.git|Contributed|Interstitial Quadrant
+https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library.git|Contributed|SparkFun STHS34PF80 Arduino Library
