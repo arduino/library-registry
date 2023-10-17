@@ -3448,7 +3448,6 @@ https://github.com/dvarrel/ESPAsyncWebSrv
 https://github.com/dvarrel/ESPping
 https://github.com/dvarrel/TM1638.git
 https://github.com/dvernier/GDXLib
-https://github.com/dvernier/VernierLib
 https://github.com/VernierST/VernierLib
 https://github.com/dwrobel/TrivialKalmanFilter
 https://github.com/dxinteractive/AnalogMultiButton
