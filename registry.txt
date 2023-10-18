@@ -6405,3 +6405,4 @@ https://github.com/BestModules-Libraries/BME82M131.git|Contributed|BME82M131
 https://github.com/BestModules-Libraries/BMS81M001.git|Contributed|BMS81M001
 https://github.com/BestModules-Libraries/BMD11M134.git|Contributed|BMD11M134
 https://github.com/BestModules-Libraries/BMK22M131.git|Contributed|BMK22M131
+https://github.com/vacmg/MAX_RS485.git|Contributed|MAX_RS485
