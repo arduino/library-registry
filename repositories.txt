@@ -6295,3 +6295,14 @@ https://gitlab.com/F-Schmidt/ulm_weatherballoon
 https://github.com/ConsentiumInc/ConsentiumThingsDalton
 https://github.com/AITINKR/AITINKR_SHEILDS
 https://github.com/NitrofMtl/DUE_ADC_Oversampler
+https://github.com/BestModules-Libraries/BM25S3321-1
+https://github.com/BestModules-Libraries/BM25S3221-1
+https://github.com/BestModules-Libraries/BMC11T001
+https://github.com/BestModules-Libraries/BMP75M131
+https://github.com/BestModules-Libraries/BMK52M134
+https://github.com/BestModules-Libraries/BMV23M001
+https://github.com/BestModules-Libraries/BME34M101
+https://github.com/BestModules-Libraries/BME82M131
+https://github.com/BestModules-Libraries/BMS81M001
+https://github.com/BestModules-Libraries/BMD11M134
+https://github.com/BestModules-Libraries/BMK22M131
