@@ -6297,8 +6297,8 @@ https://github.com/arduino-libraries/Arduino_ScienceKitCarrier
 https://github.com/adafruit/Adafruit_VCNL4020
 https://gitlab.com/F-Schmidt/ulm_weatherballoon
 https://github.com/ConsentiumInc/ConsentiumThingsDalton
+https://github.com/AITINKR/AITINKR_SHIELDS
 https://github.com/TomergitH/Gyro_Tomer.git
-https://github.com/AITINKR/AITINKR_SHEILDS
 https://github.com/NitrofMtl/DUE_ADC_Oversampler
 https://github.com/BestModules-Libraries/BM25S3321-1
 https://github.com/BestModules-Libraries/BM25S3221-1
