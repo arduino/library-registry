@@ -6406,7 +6406,6 @@ https://github.com/BestModules-Libraries/BMS81M001.git|Contributed|BMS81M001
 https://github.com/BestModules-Libraries/BMD11M134.git|Contributed|BMD11M134
 https://github.com/BestModules-Libraries/BMK22M131.git|Contributed|BMK22M131
 https://github.com/vacmg/MAX_RS485.git|Contributed|MAX_RS485
-https://github.com/Octopus1633/Waveshare_RP2040_BLE.git|Contributed|Waveshare_RP2040_BLE
 https://github.com/Grovety/grc_arduino.git|Contributed|GRC_AI
 https://github.com/chhorisberger/M5StackMenuSystem.git|Contributed|M5StackMenuSystem
 https://github.com/stm32duino/X-NUCLEO-IKS4A1.git|Contributed|STM32duino X-NUCLEO-IKS4A1
