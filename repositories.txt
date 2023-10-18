@@ -1,3 +1,4 @@
+https://github.com/Octopus1633/Waveshare_RP2040_BLE
 https://github.com/vacmg/MAX_RS485
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
 https://github.com/InterstitialTech/quadrant-lib
