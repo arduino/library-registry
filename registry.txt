@@ -6408,3 +6408,4 @@ https://github.com/BestModules-Libraries/BMK22M131.git|Contributed|BMK22M131
 https://github.com/vacmg/MAX_RS485.git|Contributed|MAX_RS485
 https://github.com/Octopus1633/Waveshare_RP2040_BLE.git|Contributed|Waveshare_RP2040_BLE
 https://github.com/Grovety/grc_arduino.git|Contributed|GRC_AI
+https://github.com/chhorisberger/M5StackMenuSystem.git|Contributed|M5StackMenuSystem
