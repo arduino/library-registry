@@ -90,6 +90,7 @@ https://github.com/ZakKemble/LM73
 https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
 https://github.com/nthnn/PortaMob
+https://github.com/nthnn/SIM900
 https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
@@ -3451,7 +3452,7 @@ https://github.com/dvarrel/ESPAsyncWebSrv
 https://github.com/dvarrel/ESPping
 https://github.com/dvarrel/TM1638.git
 https://github.com/dvernier/GDXLib
-https://github.com/dvernier/VernierLib
+https://github.com/VernierST/VernierLib
 https://github.com/dwrobel/TrivialKalmanFilter
 https://github.com/dxinteractive/AnalogMultiButton
 https://github.com/dxinteractive/ResponsiveAnalogRead
@@ -6297,6 +6298,7 @@ https://github.com/adafruit/Adafruit_VCNL4020
 https://gitlab.com/F-Schmidt/ulm_weatherballoon
 https://github.com/ConsentiumInc/ConsentiumThingsDalton
 https://github.com/AITINKR/AITINKR_SHIELDS
+https://github.com/TomergitH/Gyro_Tomer.git
 https://github.com/NitrofMtl/DUE_ADC_Oversampler
 https://github.com/BestModules-Libraries/BM25S3321-1
 https://github.com/BestModules-Libraries/BM25S3221-1
@@ -6310,3 +6312,4 @@ https://github.com/BestModules-Libraries/BMS81M001
 https://github.com/BestModules-Libraries/BMD11M134
 https://github.com/BestModules-Libraries/BMK22M131
 https://github.com/Grovety/grc_arduino
+https://github.com/stm32duino/X-NUCLEO-IKS4A1
