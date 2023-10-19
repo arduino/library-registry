@@ -6412,3 +6412,4 @@ https://github.com/chhorisberger/M5StackMenuSystem.git|Contributed|M5StackMenuSy
 https://github.com/stm32duino/X-NUCLEO-IKS4A1.git|Contributed|STM32duino X-NUCLEO-IKS4A1
 https://github.com/nthnn/SIM900.git|Contributed|SIM900
 https://github.com/TomergitH/Gyro_Tomer.git|Contributed|Gyro_Tomer
+https://github.com/AITINKR/AITINKR_AIOT_DEVBOARD.git|Contributed|AITINKR_AIOT_DEVBOARD
