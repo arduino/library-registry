@@ -6413,3 +6413,4 @@ https://github.com/stm32duino/X-NUCLEO-IKS4A1.git|Contributed|STM32duino X-NUCLE
 https://github.com/nthnn/SIM900.git|Contributed|SIM900
 https://github.com/TomergitH/Gyro_Tomer.git|Contributed|Gyro_Tomer
 https://github.com/AITINKR/AITINKR_AIOT_DEVBOARD.git|Contributed|AITINKR_AIOT_DEVBOARD
+https://github.com/m5stack/M5-LoRa-E220-JP.git|Contributed|M5-LoRa-E220-JP
