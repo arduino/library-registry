@@ -1,4 +1,3 @@
-https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
 https://github.com/Octopus1633/Waveshare_RP2040_BLE
 https://github.com/vacmg/MAX_RS485
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
@@ -1124,7 +1123,7 @@ https://github.com/MAINAKMONDAL98/MSMPLOTTER
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
 https://github.com/MClarkDev/ArylicHTTP
-https://github.com/MClarkDev/BleeLibrary
+https://github.com/MClarkDev/BleepingLibrary
 https://github.com/MERG-DEV/CBUS
 https://github.com/MERG-DEV/CBUS2515
 https://github.com/MERG-DEV/CBUSBUZZER
@@ -3027,12 +3026,12 @@ https://github.com/blemasle/arduino-sim808
 https://github.com/blinker-iot/blinker-library
 https://github.com/bluemurder/DS1624
 https://github.com/bluemurder/EveryTimer
-https://github.com/bluemurder/esp8266-
+https://github.com/bluemurder/esp8266-ping
 https://github.com/bluerobotics/Arduino_I2C_ESC
 https://github.com/bluerobotics/BlueRobotics_KellerLD_Library
 https://github.com/bluerobotics/BlueRobotics_MS5837_Library
 https://github.com/bluerobotics/BlueRobotics_TSYS01_Library
-https://github.com/bluerobotics/-arduino
+https://github.com/bluerobotics/ping-arduino
 https://github.com/blues/note-arduino
 https://github.com/blues/notecard-aux-wifi
 https://github.com/blues/notecard-env-var-manager
@@ -3450,7 +3449,7 @@ https://github.com/dvarrel/BMP280
 https://github.com/dvarrel/DHT22
 https://github.com/dvarrel/ESPAsyncTCP.git
 https://github.com/dvarrel/ESPAsyncWebSrv
-https://github.com/dvarrel/ESP
+https://github.com/dvarrel/ESPping
 https://github.com/dvarrel/TM1638.git
 https://github.com/dvernier/GDXLib
 https://github.com/VernierST/VernierLib
@@ -4606,7 +4605,7 @@ https://github.com/mchwalfajar/jeager-one
 https://github.com/mcmchris/mcm-bl0940-lib
 https://github.com/mcmchris/mcm-grove-voltage-sensor
 https://github.com/mcxiaoke/ESPDateTime
-https://github.com/mdkendall/ThingsLib
+https://github.com/mdkendall/ThingpingsLib
 https://github.com/mdxmase/asip
 https://github.com/mdxmase/asip-additional-services
 https://github.com/mechasolution/Mecha_VoiceRecognitionModule
@@ -5956,7 +5955,7 @@ https://github.com/zharijs/FDC2214
 https://github.com/zhenek-kreker/MAX6675
 https://github.com/zimbora/esp32-BG95
 https://github.com/zischknall/BohleBots_BNO055
-https://github.com/zivoy/AdaptiveMap
+https://github.com/zivoy/AdaptiveMapping
 https://github.com/zkemble/nRF905-arduino
 https://github.com/zoubworldArduino/PinExtender
 https://github.com/zoubworldArduino/WireUtility
@@ -6079,7 +6078,7 @@ https://github.com/jgvmonteiro/SerialBus
 https://github.com/schnoog/Joystick_ESP32S2
 https://github.com/deneyapkart/deneyap_arduino_examples
 https://github.com/adafruit/Adafruit_MCP2515
-https://github.com/thelastoutpostworkshop/FastDisplayPrototy
+https://github.com/thelastoutpostworkshop/FastDisplayPrototyping
 https://github.com/cranties/escposprinter
 https://github.com/sciosense/apc1-arduino
 https://github.com/ahmedosama07/mDriverL298n
