@@ -6313,3 +6313,4 @@ https://github.com/BestModules-Libraries/BMD11M134
 https://github.com/BestModules-Libraries/BMK22M131
 https://github.com/Grovety/grc_arduino
 https://github.com/stm32duino/X-NUCLEO-IKS4A1
+https://github.com/AITINKR/AITINKR_AIOT_DEVBOARD
