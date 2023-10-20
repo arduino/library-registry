@@ -5255,6 +5255,7 @@ https://github.com/skabrits/SpeedMeasurer
 https://github.com/skabrits/StringAction
 https://github.com/skaldek/STools
 https://github.com/skathir38/Rotary
+https://github.com/skathir38/ArduinoSplash
 https://github.com/skx/Z80RetroShield
 https://github.com/slavaza/SuperButton
 https://github.com/slavaza/Thread
