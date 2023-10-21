@@ -6418,3 +6418,4 @@ https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino.git|
 https://github.com/bin2ai/zeeprom.git|Contributed|ZEEPROM
 https://github.com/Finndersen/LEDuino.git|Contributed|LEDuino
 https://github.com/AlfredoMunguia/TinyGuixhe.git|Contributed|TinyGuixhe
+https://github.com/skathir38/ArduinoSplash.git|Contributed|Splash
