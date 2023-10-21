@@ -1,3 +1,4 @@
+https://github.com/CIRCUITSTATE/CSE_ModbusRTU
 https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
 https://github.com/Octopus1633/Waveshare_RP2040_BLE
 https://github.com/vacmg/MAX_RS485
