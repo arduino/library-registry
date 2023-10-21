@@ -6421,3 +6421,4 @@ https://github.com/AlfredoMunguia/TinyGuixhe.git|Contributed|TinyGuixhe
 https://github.com/skathir38/ArduinoSplash.git|Contributed|Splash
 https://github.com/CIRCUITSTATE/CSE_ModbusRTU.git|Contributed|CSE_ModbusRTU
 https://github.com/ichirowo/FLINT_E220_900T22S_JP_Library.git|Contributed|FLINT_E220-900T22S-JP
+https://github.com/Tenveis/SimpleMotorControl.git|Contributed|SimpleMotorControl
