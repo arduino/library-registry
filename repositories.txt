@@ -6324,3 +6324,4 @@ https://github.com/Tenveis/SimpleMotorControl
 https://github.com/Finndersen/LEDuino
 https://github.com/ichirowo/FLINT_E220_900T22S_JP_Library
 https://github.com/PTSolns/PTSolns_I2CBackpack
+https://github.com/InsightLabTools/RPulse
