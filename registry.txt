@@ -6428,3 +6428,4 @@ https://github.com/satspares/DWIN_DGUS_HMI.git|Contributed|Satspares_DWIN_DGUS_H
 https://github.com/zimbora/esp32-BLE112.git|Contributed|esp32-BLE112
 https://github.com/zimbora/esp32-modem-freeRTOS.git|Contributed|modem-freeRTOS
 https://github.com/zimbora/esp32-ModbusRTU.git|Contributed|modbusrtu
+https://github.com/joshua-8/TMC5072.git|Contributed|TMC5072
