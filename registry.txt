@@ -6425,3 +6425,4 @@ https://github.com/Tenveis/SimpleMotorControl.git|Contributed|SimpleMotorControl
 https://github.com/PTSolns/PTSolns_I2CBackpack.git|Contributed|PTSolns I2CBackpack
 https://github.com/InsightLabTools/RPulse.git|Contributed|RPulse
 https://github.com/satspares/DWIN_DGUS_HMI.git|Contributed|Satspares_DWIN_DGUS_HMI
+https://github.com/zimbora/esp32-BLE112.git|Contributed|esp32-BLE112
