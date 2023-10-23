@@ -6328,3 +6328,4 @@ https://github.com/PTSolns/PTSolns_I2CBackpack
 https://github.com/InsightLabTools/RPulse
 https://github.com/zimbora/esp32-BLE112
 https://github.com/zimbora/esp32-modem-freeRTOS
+https://github.com/zimbora/esp32-ModbusRTU
