@@ -6333,3 +6333,4 @@ https://github.com/joshua-8/TMC5072
 https://github.com/sivaadchu/SmartCard
 https://github.com/zimbora/esp32-sysfile
 https://github.com/zimbora/esp32-alarm
+https://github.com/zimbora/esp32-autorequest
