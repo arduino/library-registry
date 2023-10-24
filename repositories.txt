@@ -6331,3 +6331,4 @@ https://github.com/zimbora/esp32-modem-freeRTOS
 https://github.com/zimbora/esp32-ModbusRTU
 https://github.com/joshua-8/TMC5072
 https://github.com/sivaadchu/SmartCard
+https://github.com/zimbora/esp32-sysfile
