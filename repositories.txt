@@ -2446,6 +2446,7 @@ https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
 https://github.com/adafruit/Adafruit_INA219
+https://github.com/adafruit/Adafruit_INA228
 https://github.com/adafruit/Adafruit_INA260
 https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
