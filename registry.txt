@@ -6430,3 +6430,4 @@ https://github.com/zimbora/esp32-modem-freeRTOS.git|Contributed|modem-freeRTOS
 https://github.com/zimbora/esp32-ModbusRTU.git|Contributed|modbusrtu
 https://github.com/joshua-8/TMC5072.git|Contributed|TMC5072
 https://github.com/sivaadchu/SmartCard.git|Contributed|SmartCard
+https://github.com/zimbora/esp32-sysfile.git|Contributed|sysfile
