@@ -1,3 +1,4 @@
+https://github.com/satspares/DWIN_DGUS_HMI
 https://github.com/CIRCUITSTATE/CSE_ModbusRTU
 https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
 https://github.com/Octopus1633/Waveshare_RP2040_BLE
@@ -6323,3 +6324,9 @@ https://github.com/bin2ai/zeeprom/
 https://github.com/Tenveis/SimpleControl
 https://github.com/Finndersen/LEDuino
 https://github.com/ichirowo/FLINT_E220_900T22S_JP_Library
+https://github.com/PTSolns/PTSolns_I2CBackpack
+https://github.com/InsightLabTools/RPulse
+https://github.com/zimbora/esp32-BLE112
+https://github.com/zimbora/esp32-modem-freeRTOS
+https://github.com/zimbora/esp32-ModbusRTU
+https://github.com/joshua-8/TMC5072
