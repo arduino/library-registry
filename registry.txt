@@ -5560,7 +5560,7 @@ https://github.com/RobTillaart/DMM.git|Contributed|DMM
 https://github.com/Eugeniusz-Gienek/CSWButtons.git|Contributed|CSWButtons
 https://github.com/plageoj/request-builder.git|Contributed|RequestBuilder
 https://gitlab.com/softsysco/grove-as3935-lightning-sensor.git|Contributed|Grove_AS3935Lightning_sensor
-https://github.com/Silver-Fang/ArduinoSTL.git|Contributed|STL for Arduino
+https://github.com/Silver-Fang/ArduinoSTL.git|Contributed|Cpp_Standard_Library
 https://github.com/Judiviga/ROBLEX.git|Contributed|ROBLEX
 https://github.com/RobTillaart/fast_math.git|Contributed|fast_math
 https://github.com/RCmags/pulseInput.git|Contributed|pulseInput
@@ -6422,3 +6422,17 @@ https://github.com/skathir38/ArduinoSplash.git|Contributed|Splash
 https://github.com/CIRCUITSTATE/CSE_ModbusRTU.git|Contributed|CSE_ModbusRTU
 https://github.com/ichirowo/FLINT_E220_900T22S_JP_Library.git|Contributed|FLINT_E220-900T22S-JP
 https://github.com/Tenveis/SimpleControl.git|Contributed|SimpleControl
+https://github.com/PTSolns/PTSolns_I2CBackpack.git|Contributed|PTSolns_I2CBackpack
+https://github.com/InsightLabTools/RPulse.git|Contributed|RPulse
+https://github.com/satspares/DWIN_DGUS_HMI.git|Contributed|Satspares_DWIN_DGUS_HMI
+https://github.com/zimbora/esp32-BLE112.git|Contributed|esp32-BLE112
+https://github.com/zimbora/esp32-modem-freeRTOS.git|Contributed|modem-freeRTOS
+https://github.com/zimbora/esp32-ModbusRTU.git|Contributed|modbusrtu
+https://github.com/joshua-8/TMC5072.git|Contributed|TMC5072
+https://github.com/sivaadchu/SmartCard.git|Contributed|SmartCard
+https://github.com/zimbora/esp32-sysfile.git|Contributed|sysfile
+https://github.com/zimbora/esp32-alarm.git|Contributed|alarm
+https://github.com/zimbora/esp32-autorequest.git|Contributed|autorequest
+https://github.com/Khuuxuanngoc/DHT-sensor-library.git|Contributed|DHT kxn
+https://github.com/makerlabvn/Makerlabvn_SimpleMotor.git|Contributed|Makerlabvn_SimpleMotor
+https://github.com/adafruit/Adafruit_INA228.git|Recommended|Adafruit INA228 Library
