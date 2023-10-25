@@ -1,3 +1,4 @@
+https://github.com/Khuuxuanngoc/DHT-sensor-library
 https://github.com/satspares/DWIN_DGUS_HMI
 https://github.com/CIRCUITSTATE/CSE_ModbusRTU
 https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
