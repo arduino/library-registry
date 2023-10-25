@@ -6435,3 +6435,4 @@ https://github.com/zimbora/esp32-alarm.git|Contributed|alarm
 https://github.com/zimbora/esp32-autorequest.git|Contributed|autorequest
 https://github.com/Khuuxuanngoc/DHT-sensor-library.git|Contributed|DHT kxn
 https://github.com/makerlabvn/Makerlabvn_SimpleMotor.git|Contributed|Makerlabvn_SimpleMotor
+https://github.com/adafruit/Adafruit_INA228.git|Recommended|Adafruit INA228 Library
