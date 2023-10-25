@@ -6433,3 +6433,4 @@ https://github.com/sivaadchu/SmartCard.git|Contributed|SmartCard
 https://github.com/zimbora/esp32-sysfile.git|Contributed|sysfile
 https://github.com/zimbora/esp32-alarm.git|Contributed|alarm
 https://github.com/zimbora/esp32-autorequest.git|Contributed|autorequest
+https://github.com/Khuuxuanngoc/DHT-sensor-library.git|Contributed|DHT kxn
