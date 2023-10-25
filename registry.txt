@@ -6436,3 +6436,5 @@ https://github.com/zimbora/esp32-autorequest.git|Contributed|autorequest
 https://github.com/Khuuxuanngoc/DHT-sensor-library.git|Contributed|DHT kxn
 https://github.com/makerlabvn/Makerlabvn_SimpleMotor.git|Contributed|Makerlabvn_SimpleMotor
 https://github.com/adafruit/Adafruit_INA228.git|Recommended|Adafruit INA228 Library
+https://github.com/Picovoice/picovoice-arduino-fa.git|Contributed|Picovoice_FA
+https://github.com/Picovoice/porcupine-arduino-fa.git|Contributed|Porcupine_FA
