@@ -1404,6 +1404,8 @@ https://github.com/PaulStoffregen/TimerOne
 https://github.com/PaulStoffregen/TimerThree
 https://github.com/PaulStoffregen/Tlc5940
 https://github.com/PaulStoffregen/XPT2046_Touchscreen
+https://github.com/PeaPodTechnologies/ControlSystemsOS
+https://github.com/PeaPodTechnologies/FiniteStateMachine
 https://github.com/PeaPodTechnologies/I2CIP
 https://github.com/PeterEmbedded/BH1750FVI
 https://github.com/Phambili-Tech/Newt_Display
