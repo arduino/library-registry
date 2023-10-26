@@ -6343,3 +6343,4 @@ https://github.com/zimbora/esp32-sysfile
 https://github.com/zimbora/esp32-alarm
 https://github.com/zimbora/esp32-autorequest
 https://github.com/PTSolns/PTSolns_microWatt
+https://github.com/Ev-13/StopLoop-Library
