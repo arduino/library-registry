@@ -6442,3 +6442,4 @@ https://github.com/PTSolns/PTSolns_microWatt.git|Contributed|PTSolns_microWatt
 https://github.com/XbergCode/DateTimeFunctions.git|Contributed|DateTimeFunctions
 https://github.com/PeaPodTechnologies/ControlSystemsOS.git|Contributed|ControlSystemsOS
 https://github.com/PeaPodTechnologies/FiniteStateMachine.git|Contributed|FiniteStateMachine
+https://github.com/Ev-13/StopLoop-Library.git|Contributed|StopLoop
