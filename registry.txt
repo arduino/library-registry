@@ -6443,3 +6443,4 @@ https://github.com/XbergCode/DateTimeFunctions.git|Contributed|DateTimeFunctions
 https://github.com/PeaPodTechnologies/ControlSystemsOS.git|Contributed|ControlSystemsOS
 https://github.com/PeaPodTechnologies/FiniteStateMachine.git|Contributed|FiniteStateMachine
 https://github.com/Ev-13/StopLoop-Library.git|Contributed|StopLoop
+https://github.com/hasenradball/DS3231-RTC.git|Contributed|DS3231-RTC
