@@ -43,6 +43,7 @@ https://github.com/usk-johnny-s/UTF8_Print_AdaGfx
 https://github.com/Xylopyrographer/XP_Button
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
 https://github.com/KOEGlike/AsyncButton
+https://github.com/philsilvers/mergCBUS
 https://github.com/arduino-libraries/Arduino_POSIXStorage
 https://github.com/mjdonders/CST816_TouchLib
 https://github.com/Makeblock-official/Makeblock-Libraries
