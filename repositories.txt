@@ -1,3 +1,8 @@
+https://github.com/makerlabvn/Makerlabvn_SimpleMotor
+https://github.com/Khuuxuanngoc/DHT-sensor-library
+https://github.com/satspares/DWIN_DGUS_HMI
+https://github.com/CIRCUITSTATE/CSE_ModbusRTU
+https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
 https://github.com/Octopus1633/Waveshare_RP2040_BLE
 https://github.com/vacmg/MAX_RS485
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
@@ -15,6 +20,7 @@ https://github.com/chhorisberger/M5StackMenuSystem
 https://github.com/CIRCUITSTATE/CSE_ArduinoRS485
 https://github.com/codeljo/AA_MCP2515
 https://github.com/and900/Amytol_Sample
+https://github.com/AlfredoMunguia/TinyGuixhe
 https://github.com/iMakeOfficial/iMakeBeta
 https://github.com/Kastara-Digital-Technology/Kadita
 https://github.com/netnspace/CanSatNeXT_library/
@@ -1398,6 +1404,8 @@ https://github.com/PaulStoffregen/TimerOne
 https://github.com/PaulStoffregen/TimerThree
 https://github.com/PaulStoffregen/Tlc5940
 https://github.com/PaulStoffregen/XPT2046_Touchscreen
+https://github.com/PeaPodTechnologies/ControlSystemsOS
+https://github.com/PeaPodTechnologies/FiniteStateMachine
 https://github.com/PeaPodTechnologies/I2CIP
 https://github.com/PeterEmbedded/BH1750FVI
 https://github.com/Phambili-Tech/Newt_Display
@@ -1410,6 +1418,7 @@ https://github.com/Picovoice/picovoice-arduino-ar
 https://github.com/Picovoice/picovoice-arduino-de
 https://github.com/Picovoice/picovoice-arduino-en
 https://github.com/Picovoice/picovoice-arduino-es
+https://github.com/Picovoice/picovoice-arduino-fa
 https://github.com/Picovoice/picovoice-arduino-fr
 https://github.com/Picovoice/picovoice-arduino-hi
 https://github.com/Picovoice/picovoice-arduino-it
@@ -1426,6 +1435,7 @@ https://github.com/Picovoice/porcupine-arduino-ar
 https://github.com/Picovoice/porcupine-arduino-de
 https://github.com/Picovoice/porcupine-arduino-en
 https://github.com/Picovoice/porcupine-arduino-es
+https://github.com/Picovoice/porcupine-arduino-fa
 https://github.com/Picovoice/porcupine-arduino-fr
 https://github.com/Picovoice/porcupine-arduino-hi
 https://github.com/Picovoice/porcupine-arduino-it
@@ -2283,6 +2293,7 @@ https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/XasWorks/Circios-Library
+https://github.com/XbergCode/DateTimeFunctions
 https://github.com/XbergCode/MillisCounter
 https://github.com/XbergCode/DigitSeparator
 https://github.com/XbergCode/Uptime
@@ -2440,6 +2451,7 @@ https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
 https://github.com/adafruit/Adafruit_INA219
+https://github.com/adafruit/Adafruit_INA228
 https://github.com/adafruit/Adafruit_INA260
 https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
@@ -5254,6 +5266,7 @@ https://github.com/skabrits/SpeedMeasurer
 https://github.com/skabrits/StringAction
 https://github.com/skaldek/STools
 https://github.com/skathir38/Rotary
+https://github.com/skathir38/ArduinoSplash
 https://github.com/skx/Z80RetroShield
 https://github.com/slavaza/SuperButton
 https://github.com/slavaza/Thread
@@ -6315,3 +6328,21 @@ https://github.com/Grovety/grc_arduino
 https://github.com/stm32duino/X-NUCLEO-IKS4A1
 https://github.com/AITINKR/AITINKR_AIOT_DEVBOARD
 https://github.com/m5stack/M5-LoRa-E220-JP
+https://github.com/bin2ai/zeeprom/
+https://github.com/Tenveis/SimpleControl
+https://github.com/Finndersen/LEDuino
+https://github.com/ichirowo/FLINT_E220_900T22S_JP_Library
+https://github.com/PTSolns/PTSolns_I2CBackpack
+https://github.com/InsightLabTools/RPulse
+https://github.com/zimbora/esp32-BLE112
+https://github.com/zimbora/esp32-modem-freeRTOS
+https://github.com/zimbora/esp32-ModbusRTU
+https://github.com/joshua-8/TMC5072
+https://github.com/sivaadchu/SmartCard
+https://github.com/zimbora/esp32-sysfile
+https://github.com/zimbora/esp32-alarm
+https://github.com/zimbora/esp32-autorequest
+https://github.com/PTSolns/PTSolns_microWatt
+https://github.com/Ev-13/StopLoop-Library
+https://github.com/hasenradball/DS3231-RTC
+https://github.com/m5stack/M5Module-LAN-13.2
