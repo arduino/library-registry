@@ -6446,3 +6446,4 @@ https://github.com/Ev-13/StopLoop-Library.git|Contributed|StopLoop
 https://github.com/hasenradball/DS3231-RTC.git|Contributed|DS3231-RTC
 https://github.com/hasenradball/Bosch_BME280_Arduino.git|Contributed|Bosch_BME280_Arduino
 https://github.com/gemi254/ControlAssist-ESP32-ESP8266.git|Contributed|ControlAssist
+https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library.git|Contributed|SM_TC
