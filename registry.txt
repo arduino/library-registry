@@ -6444,3 +6444,4 @@ https://github.com/PeaPodTechnologies/ControlSystemsOS.git|Contributed|ControlSy
 https://github.com/PeaPodTechnologies/FiniteStateMachine.git|Contributed|FiniteStateMachine
 https://github.com/Ev-13/StopLoop-Library.git|Contributed|StopLoop
 https://github.com/hasenradball/DS3231-RTC.git|Contributed|DS3231-RTC
+https://github.com/hasenradball/Bosch_BME280_Arduino.git|Contributed|Bosch_BME280_Arduino
