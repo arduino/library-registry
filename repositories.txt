@@ -6347,3 +6347,4 @@ https://github.com/zimbora/esp32-autorequest
 https://github.com/PTSolns/PTSolns_microWatt
 https://github.com/Ev-13/StopLoop-Library
 https://github.com/hasenradball/DS3231-RTC
+https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library
