@@ -2626,7 +2626,6 @@ https://github.com/adnan-elabdullah/KmeStepper
 https://github.com/adrian200223/Simple5641AS
 https://github.com/adrien-legrand/as5x47
 https://github.com/aelse/ArduinoStatsd
-https://github.com/affanhanifathtarech/DS3231_RTC
 https://github.com/afpineda/MeanAndVarOnTheFly-Arduino
 https://github.com/agdl/Base64
 https://github.com/agdl/GoPRO
