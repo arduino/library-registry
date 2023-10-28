@@ -6349,3 +6349,4 @@ https://github.com/PTSolns/PTSolns_microWatt
 https://github.com/Ev-13/StopLoop-Library
 https://github.com/hasenradball/DS3231-RTC
 https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library
+https://github.com/delta-G/EventLinkInterrupt
