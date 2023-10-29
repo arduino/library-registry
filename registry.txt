@@ -6450,3 +6450,4 @@ https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library.git|Contrib
 https://github.com/philsilvers/mergCBUS.git|Contributed|mergCBUS
 https://github.com/delta-G/EventLinkInterrupt.git|Contributed|EventLinkInterrupt
 https://github.com/Nolven/ftp32.git|Contributed|ftp32
+https://github.com/beegee-tokyo/Blues-Minimal-I2C.git|Contributed|Blues-Minimal-I2C
