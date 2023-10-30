@@ -6354,3 +6354,4 @@ https://github.com/hasenradball/DS3231-RTC
 https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library
 https://github.com/delta-G/EventLinkInterrupt
 https://github.com/gewisser/GyverOLEDMenu
+https://github.com/m5stack/M5Module-LAN-13.2
