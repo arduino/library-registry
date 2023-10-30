@@ -6454,3 +6454,4 @@ https://github.com/beegee-tokyo/Blues-Minimal-I2C.git|Contributed|Blues-Minimal-
 https://github.com/kaiaai/arduino_pid_timed.git|Contributed|PID_Timed
 https://github.com/gewisser/GyverOLEDMenu.git|Contributed|GyverOLEDMenu
 https://github.com/m5stack/M5Module-LAN-13.2.git|Contributed|M5Module-LAN-13.2
+https://github.com/Bridgetek/RP2040-BrtEve.git|Contributed|RP2040-BrtEve
