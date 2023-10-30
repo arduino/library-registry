@@ -6453,3 +6453,4 @@ https://github.com/Nolven/ftp32.git|Contributed|ftp32
 https://github.com/beegee-tokyo/Blues-Minimal-I2C.git|Contributed|Blues-Minimal-I2C
 https://github.com/kaiaai/arduino_pid_timed.git|Contributed|PID_Timed
 https://github.com/gewisser/GyverOLEDMenu.git|Contributed|GyverOLEDMenu
+https://github.com/m5stack/M5Module-LAN-13.2.git|Contributed|M5Module-LAN-13.2
