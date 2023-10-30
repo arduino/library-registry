@@ -717,6 +717,7 @@ https://github.com/EscaVic/ROKduino
 https://github.com/EscapeAutomate/ArduinoLib
 https://github.com/Excelsior-Robotics/Excelsior
 https://github.com/Excelsior-Robotics/Excelsior_Light
+https://github.com/Excelsior-Robotics/Excelsior_Ambassador
 https://github.com/ExperimentalCyborg/PicoStep
 https://github.com/F4GOJ/AD9850SPI
 https://github.com/FANTM/libdevlpr
