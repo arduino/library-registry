@@ -2426,6 +2426,7 @@ https://github.com/adafruit/Adafruit_CC3000_Library
 https://github.com/adafruit/Adafruit_CCS811
 https://github.com/adafruit/Adafruit_CircuitPlayground
 https://github.com/adafruit/Adafruit_CompositeVideo
+https://github.com/adafruit/Adafruit_CST8XX_Library
 https://github.com/adafruit/Adafruit_DAP
 https://github.com/adafruit/Adafruit_DPS310
 https://github.com/adafruit/Adafruit_DRV2605_Library
