@@ -6458,3 +6458,4 @@ https://github.com/Bridgetek/RP2040-BrtEve.git|Contributed|RP2040-BrtEve
 https://github.com/bonezegei/Bonezegei_WS2812.git|Contributed|Bonezegei_WS2812
 https://github.com/Excelsior-Robotics/Excelsior_Ambassador.git|Contributed|Excelsior_Ambassador
 https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515.git|Contributed|mcp_canbus
+https://github.com/adafruit/Adafruit_CST8XX_Library.git|Recommended|Adafruit CST8XX Library
