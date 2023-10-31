@@ -1,3 +1,6 @@
+https://github.com/kaiaai/arduino_pid_timed
+https://github.com/gemi254/ControlAssist-ESP32-ESP8266
+https://github.com/hasenradball/Bosch_BME280_Arduino
 https://github.com/makerlabvn/Makerlabvn_SimpleMotor
 https://github.com/AlfredoMunguia/TinyGuixhe
 https://github.com/Khuuxuanngoc/DHT-sensor-library
@@ -16,6 +19,7 @@ https://github.com/ApophisXX/MyTimer.git
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
 https://github.com/SemBeacon/arduino-esp32
+https://github.com/Nolven/ftp32
 https://github.com/zvonler/DebouncedButton
 https://github.com/chhorisberger/M5StackMenuSystem
 https://github.com/CIRCUITSTATE/CSE_ArduinoRS485
@@ -42,6 +46,7 @@ https://github.com/usk-johnny-s/UTF8_Print_AdaGfx
 https://github.com/Xylopyrographer/XP_Button
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
 https://github.com/KOEGlike/AsyncButton
+https://github.com/philsilvers/mergCBUS
 https://github.com/arduino-libraries/Arduino_POSIXStorage
 https://github.com/mjdonders/CST816_TouchLib
 https://github.com/Makeblock-official/Makeblock-Libraries
@@ -713,6 +718,7 @@ https://github.com/EscaVic/ROKduino
 https://github.com/EscapeAutomate/ArduinoLib
 https://github.com/Excelsior-Robotics/Excelsior
 https://github.com/Excelsior-Robotics/Excelsior_Light
+https://github.com/Excelsior-Robotics/Excelsior_Ambassador
 https://github.com/ExperimentalCyborg/PicoStep
 https://github.com/F4GOJ/AD9850SPI
 https://github.com/FANTM/libdevlpr
@@ -1405,6 +1411,8 @@ https://github.com/PaulStoffregen/TimerOne
 https://github.com/PaulStoffregen/TimerThree
 https://github.com/PaulStoffregen/Tlc5940
 https://github.com/PaulStoffregen/XPT2046_Touchscreen
+https://github.com/PeaPodTechnologies/ControlSystemsOS
+https://github.com/PeaPodTechnologies/FiniteStateMachine
 https://github.com/PeaPodTechnologies/I2CIP
 https://github.com/PeterEmbedded/BH1750FVI
 https://github.com/Phambili-Tech/Newt_Display
@@ -2292,6 +2300,7 @@ https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/XasWorks/Circios-Library
+https://github.com/XbergCode/DateTimeFunctions
 https://github.com/XbergCode/MillisCounter
 https://github.com/XbergCode/DigitSeparator
 https://github.com/XbergCode/Uptime
@@ -2418,6 +2427,7 @@ https://github.com/adafruit/Adafruit_CC3000_Library
 https://github.com/adafruit/Adafruit_CCS811
 https://github.com/adafruit/Adafruit_CircuitPlayground
 https://github.com/adafruit/Adafruit_CompositeVideo
+https://github.com/adafruit/Adafruit_CST8XX_Library
 https://github.com/adafruit/Adafruit_DAP
 https://github.com/adafruit/Adafruit_DPS310
 https://github.com/adafruit/Adafruit_DRV2605_Library
@@ -2971,6 +2981,7 @@ https://github.com/beegee-tokyo/VNCL4020C-Arduino
 https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/beegee-tokyo/WisBlock-API-V2
 https://github.com/beegee-tokyo/nRF52_OLED
+https://github.com/beegee-tokyo/Blues-Minimal-I2C
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/belidzs/PreciseLM35
 https://github.com/bengtmartensson/ABeacon
@@ -6175,6 +6186,7 @@ https://github.com/bonezegei/Bonezegei_GPS
 https://github.com/bonezegei/Bonezegei_Protocol
 https://github.com/bonezegei/Bonezegei_Compute
 https://github.com/bonezegei/Bonezegei_I2CScan
+https://github.com/bonezegei/Bonezegei_WS2812
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6340,3 +6352,12 @@ https://github.com/sivaadchu/SmartCard
 https://github.com/zimbora/esp32-sysfile
 https://github.com/zimbora/esp32-alarm
 https://github.com/zimbora/esp32-autorequest
+https://github.com/PTSolns/PTSolns_microWatt
+https://github.com/Ev-13/StopLoop-Library
+https://github.com/hasenradball/DS3231-RTC
+https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library
+https://github.com/delta-G/EventLinkInterrupt
+https://github.com/gewisser/GyverOLEDMenu
+https://github.com/m5stack/M5Module-LAN-13.2
+https://github.com/Bridgetek/RP2040-BrtEve
+https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515
