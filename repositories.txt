@@ -18,6 +18,7 @@ https://github.com/ApophisXX/MyTimer.git
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
 https://github.com/SemBeacon/arduino-esp32
+https://github.com/lysek01/ModbusPowerMeter/
 https://github.com/Nolven/ftp32
 https://github.com/zvonler/DebouncedButton
 https://github.com/chhorisberger/M5StackMenuSystem
