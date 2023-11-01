@@ -6461,3 +6461,4 @@ https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515.git|Contributed|mcp_canbu
 https://github.com/adafruit/Adafruit_CST8XX_Library.git|Recommended|Adafruit CST8XX Library
 https://github.com/dcondrey/MicrostepToLinear.git|Contributed|MicrostepToLinear
 https://github.com/kotwatthana/WebServerFileUpload.git|Contributed|WebServerFileUpload
+https://github.com/lysek01/ModbusPowerMeter.git|Contributed|ModbusPowerMeter
