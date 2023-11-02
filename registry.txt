@@ -6463,3 +6463,4 @@ https://github.com/dcondrey/MicrostepToLinear.git|Contributed|MicrostepToLinear
 https://github.com/kotwatthana/WebServerFileUpload.git|Contributed|WebServerFileUpload
 https://github.com/lysek01/ModbusPowerMeter.git|Contributed|ModbusPowerMeter
 https://github.com/m5stack/M5Unit-IMU-Pro-Mini.git|Contributed|M5Unit-IMU-Pro-Mini
+https://github.com/marcin-filipiak/DeviceConfigJSON.git|Contributed|DeviceConfigJSON
