@@ -18,6 +18,7 @@ https://github.com/ApophisXX/MyTimer.git
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
 https://github.com/SemBeacon/arduino-esp32
+https://github.com/lysek01/ModbusPowerMeter/
 https://github.com/Nolven/ftp32
 https://github.com/zvonler/DebouncedButton
 https://github.com/chhorisberger/M5StackMenuSystem
@@ -717,6 +718,7 @@ https://github.com/EscaVic/ROKduino
 https://github.com/EscapeAutomate/ArduinoLib
 https://github.com/Excelsior-Robotics/Excelsior
 https://github.com/Excelsior-Robotics/Excelsior_Light
+https://github.com/Excelsior-Robotics/Excelsior_Ambassador
 https://github.com/ExperimentalCyborg/PicoStep
 https://github.com/F4GOJ/AD9850SPI
 https://github.com/FANTM/libdevlpr
@@ -2425,6 +2427,7 @@ https://github.com/adafruit/Adafruit_CC3000_Library
 https://github.com/adafruit/Adafruit_CCS811
 https://github.com/adafruit/Adafruit_CircuitPlayground
 https://github.com/adafruit/Adafruit_CompositeVideo
+https://github.com/adafruit/Adafruit_CST8XX_Library
 https://github.com/adafruit/Adafruit_DAP
 https://github.com/adafruit/Adafruit_DPS310
 https://github.com/adafruit/Adafruit_DRV2605_Library
@@ -6183,6 +6186,7 @@ https://github.com/bonezegei/Bonezegei_GPS
 https://github.com/bonezegei/Bonezegei_Protocol
 https://github.com/bonezegei/Bonezegei_Compute
 https://github.com/bonezegei/Bonezegei_I2CScan
+https://github.com/bonezegei/Bonezegei_WS2812
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6355,3 +6359,8 @@ https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library
 https://github.com/delta-G/EventLinkInterrupt
 https://github.com/gewisser/GyverOLEDMenu
 https://github.com/m5stack/M5Module-LAN-13.2
+https://github.com/Bridgetek/RP2040-BrtEve
+https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515
+https://github.com/dcondrey/MicrostepToLinear
+https://github.com/kotwatthana/WebServerFileUpload
+https://github.com/m5stack/M5Unit-IMU-Pro-Mini
