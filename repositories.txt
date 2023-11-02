@@ -39,6 +39,7 @@ https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library
 https://github.com/RobertByrnes/Emulation
 https://github.com/sachinmunasinghe/FirebaseRealtime
 https://github.com/oggysaud245/haversine
+https://github.com/GyverLibs/Pairs
 https://github.com/GyverLibs/Stamp
 https://github.com/GyverLibs/GyverBeeper
 https://github.com/GyverLibs/GyverBlinker
