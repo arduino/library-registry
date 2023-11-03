@@ -6467,3 +6467,4 @@ https://github.com/marcin-filipiak/DeviceConfigJSON.git|Contributed|DeviceConfig
 https://github.com/adafruit/Adafruit_ADS7830.git|Recommended|Adafruit ADS7830
 https://github.com/GyverLibs/Pairs.git|Contributed|Pairs
 https://github.com/esp-arduino-libs/ESP32_Knob.git|Contributed|ESP32_Knob
+https://github.com/bonezegei/Bonezegei_HD44780.git|Contributed|Bonezegei_HD44780
