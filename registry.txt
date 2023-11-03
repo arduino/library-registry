@@ -6466,3 +6466,4 @@ https://github.com/m5stack/M5Unit-IMU-Pro-Mini.git|Contributed|M5Unit-IMU-Pro-Mi
 https://github.com/marcin-filipiak/DeviceConfigJSON.git|Contributed|DeviceConfigJSON
 https://github.com/adafruit/Adafruit_ADS7830.git|Recommended|Adafruit ADS7830
 https://github.com/GyverLibs/Pairs.git|Contributed|Pairs
+https://github.com/esp-arduino-libs/ESP32_Knob.git|Contributed|ESP32_Knob
