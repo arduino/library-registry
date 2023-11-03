@@ -14,6 +14,7 @@ https://github.com/InterstitialTech/quadrant-lib
 https://github.com/zvonler/CircuitPlaygroundGestures
 https://github.com/makerlabvn/Waterproof_Ultrasonic
 https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library
+https://github.com/esp-arduino-libs/ESP32_Knob
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/ApophisXX/MyTimer.git
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
