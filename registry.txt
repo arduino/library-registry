@@ -6470,3 +6470,4 @@ https://github.com/esp-arduino-libs/ESP32_Knob.git|Contributed|ESP32_Knob
 https://github.com/bonezegei/Bonezegei_HD44780.git|Contributed|Bonezegei_HD44780
 https://github.com/GoodFilling/Motor-Driver.git|Contributed|DRV8251-Driver
 https://github.com/jonnybergdahl/Bergdahl_JBLogger.git|Contributed|Bergdahl_JBLogger
+https://github.com/pg-goose/MKRWiFiLed.git|Contributed|MKRWiFiLed
