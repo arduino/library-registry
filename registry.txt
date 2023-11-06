@@ -6476,3 +6476,4 @@ https://github.com/asukiaaa/arduino-bits.git|Contributed|bits_asukiaaa
 https://github.com/asukiaaa/arduino-enum.git|Contributed|enum_asukiaaa
 https://github.com/ILoveMemes/SoftwareTimer.git|Contributed|SoftwareTimer
 https://github.com/SEGGERMicro/emWin-Arduino-Library.git|Contributed|emWin
+https://github.com/Zhu-jiatong/SQLiteDatabaseManager.git|Contributed|SQLiteDatabaseConnection
