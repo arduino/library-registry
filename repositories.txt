@@ -2923,6 +2923,7 @@ https://github.com/asukiaaa/SomeSerial
 https://github.com/asukiaaa/ThingSpeak_asukiaaa
 https://github.com/asukiaaa/WiredController_asukiaaa
 https://github.com/asukiaaa/arduino-A89306
+https://github.com/asukiaaa/arduino-bits
 https://github.com/asukiaaa/arduino-ControllerAsI2c
 https://github.com/asukiaaa/arduino-Gauge
 https://github.com/asukiaaa/arduino-HX711
