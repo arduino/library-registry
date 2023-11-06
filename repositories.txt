@@ -2449,6 +2449,7 @@ https://github.com/adafruit/Adafruit_FRAM_SPI
 https://github.com/adafruit/Adafruit_FT6206_Library
 https://github.com/adafruit/Adafruit_FXAS21002C
 https://github.com/adafruit/Adafruit_FXOS8700
+https://github.com/adafruit/Adafruit_Faux86
 https://github.com/adafruit/Adafruit_FeatherOLED
 https://github.com/adafruit/Adafruit_Floppy
 https://github.com/adafruit/Adafruit_FreeTouch
