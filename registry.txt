@@ -6479,3 +6479,4 @@ https://github.com/SEGGERMicro/emWin-Arduino-Library.git|Contributed|emWin
 https://github.com/Zhu-jiatong/SQLiteDatabaseManager.git|Contributed|SQLiteDatabaseConnection
 https://github.com/Zhu-jiatong/CredentialManager.git|Contributed|CredentialManager
 https://github.com/Zhu-jiatong/SessionManager.git|Contributed|SessionManager
+https://github.com/kevinlutzer/Arduino-PM1006K.git|Contributed|PM1006K
