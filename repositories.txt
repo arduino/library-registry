@@ -1,3 +1,4 @@
+https://github.com/netnspace/CanSatNeXT_GNSS
 https://github.com/Zhu-jiatong/SessionManager
 https://github.com/Zhu-jiatong/CredentialManager
 https://github.com/Zhu-jiatong/SQLiteDatabaseManager
