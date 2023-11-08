@@ -6480,3 +6480,4 @@ https://github.com/Zhu-jiatong/SQLiteDatabaseManager.git|Contributed|SQLiteDatab
 https://github.com/Zhu-jiatong/CredentialManager.git|Contributed|CredentialManager
 https://github.com/Zhu-jiatong/SessionManager.git|Contributed|SessionManager
 https://github.com/kevinlutzer/Arduino-PM1006K.git|Contributed|PM1006K
+https://github.com/netnspace/CanSatNeXT_GNSS.git|Contributed|CanSatNeXT_GNSS
