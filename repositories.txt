@@ -143,7 +143,7 @@ https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
 https://github.com/soylentOrange/Forced-BMX280
 https://github.com/vishesh-varma/DWIN
-https://github.com/whoelsethanjesus/Mintrix
+https://github.com/janikheiler/Mintrix
 https://github.com/DigitalCodesign/Escornabot-Library
 https://github.com/SCRN92/Sim800L
 https://github.com/manuelbl/usb-pd-arduino
