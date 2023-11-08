@@ -6469,7 +6469,7 @@ https://github.com/GyverLibs/Pairs.git|Contributed|Pairs
 https://github.com/esp-arduino-libs/ESP32_Knob.git|Contributed|ESP32_Knob
 https://github.com/bonezegei/Bonezegei_HD44780.git|Contributed|Bonezegei_HD44780
 https://github.com/GoodFilling/Motor-Driver.git|Contributed|DRV8251-Driver
-https://github.com/jonnybergdahl/Bergdahl_JBLogger.git|Contributed|Bergdahl_JBLogger
+https://github.com/jonnybergdahl/Arduino_JBLogger_Library.git|Contributed|JBLogger
 https://github.com/pg-goose/MKRWiFiLed.git|Contributed|MKRWiFiLed
 https://github.com/adafruit/Adafruit_Faux86.git|Recommended|Adafruit Faux86
 https://github.com/asukiaaa/arduino-bits.git|Contributed|bits_asukiaaa
