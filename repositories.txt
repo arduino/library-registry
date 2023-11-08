@@ -3,7 +3,7 @@ https://github.com/Zhu-jiatong/SessionManager
 https://github.com/Zhu-jiatong/CredentialManager
 https://github.com/Zhu-jiatong/SQLiteDatabaseManager
 https://github.com/pg-goose/MKRWiFiLed
-https://github.com/jonnybergdahl/Bergdahl_JBLogger
+https://github.com/jonnybergdahl/Arduino_JBLogger_Library
 https://github.com/marcin-filipiak/DeviceConfigJSON
 https://github.com/kaiaai/arduino_pid_timed
 https://github.com/gemi254/ControlAssist-ESP32-ESP8266
