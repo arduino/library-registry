@@ -6480,3 +6480,4 @@ https://github.com/Zhu-jiatong/CredentialManager.git|Contributed|CredentialManag
 https://github.com/Zhu-jiatong/SessionManager.git|Contributed|SessionManager
 https://github.com/kevinlutzer/Arduino-PM1006K.git|Contributed|PM1006K
 https://github.com/netnspace/CanSatNeXT_GNSS.git|Contributed|CanSatNeXT_GNSS
+https://github.com/MaffooClock/DFR_Radar.git|Contributed|DFR_Radar
