@@ -6051,7 +6051,6 @@ https://github.com/koendv/cst816t.git|Contributed|cst816t
 https://github.com/RobTillaart/TLC5947.git|Contributed|TLC5947
 https://github.com/bitbank2/bb_rtc.git|Contributed|bb_rtc
 https://github.com/ripred/Smooth.git|Contributed|Smooth
-https://github.com/Zhu-jiatong/FilesystemUtilities.git|Contributed|FilesystemUtilities
 https://github.com/AlfredoSystems/Alfredo-NoU2.git|Contributed|Alfredo-NoU2
 https://github.com/AlfredoSystems/AlfredoConnect-Receive.git|Contributed|AlfredoConnect-Receive
 https://github.com/ryraki/FXPS7xxx_Arduino.git|Contributed|FXPS7xxx_Arduino
