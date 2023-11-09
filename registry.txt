@@ -6018,7 +6018,6 @@ https://github.com/pablomarquez76/AnalogWrite_ESP32.git|Contributed|AnalogWrite_
 https://github.com/suratin27/DINO_PLC_V1.git|Contributed|DINO_PLC_V1
 https://github.com/arduino-libraries/Arduino_GigaDisplayTouch.git|Arduino|Arduino_GigaDisplayTouch
 https://github.com/adafruit/Adafruit_GC9A01A.git|Recommended|Adafruit GC9A01A
-https://github.com/Zhu-jiatong/TaskQueue.git|Contributed|TaskQueue
 https://github.com/dang-gun/Arduino_StepperAsync5.git|Contributed|Stepper Async 5
 https://github.com/ripred/CompileTime.git|Contributed|CompileTime
 https://github.com/Crazy-Max-Blog/Crazy_IoTik.git|Contributed|Crazy-IoTik
