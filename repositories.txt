@@ -1,3 +1,9 @@
+https://github.com/netnspace/CanSatNeXT_GNSS
+https://github.com/Zhu-jiatong/SessionManager
+https://github.com/Zhu-jiatong/CredentialManager
+https://github.com/Zhu-jiatong/SQLiteDatabaseManager
+https://github.com/pg-goose/MKRWiFiLed
+https://github.com/jonnybergdahl/Arduino_JBLogger_Library
 https://github.com/marcin-filipiak/DeviceConfigJSON
 https://github.com/kaiaai/arduino_pid_timed
 https://github.com/gemi254/ControlAssist-ESP32-ESP8266
@@ -7,13 +13,13 @@ https://github.com/Khuuxuanngoc/DHT-sensor-library
 https://github.com/satspares/DWIN_DGUS_HMI
 https://github.com/CIRCUITSTATE/CSE_ModbusRTU
 https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
-https://github.com/Octopus1633/Waveshare_RP2040_BLE
 https://github.com/vacmg/MAX_RS485
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
 https://github.com/InterstitialTech/quadrant-lib
 https://github.com/zvonler/CircuitPlaygroundGestures
 https://github.com/makerlabvn/Waterproof_Ultrasonic
 https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library
+https://github.com/esp-arduino-libs/ESP32_Knob
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/ApophisXX/MyTimer.git
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
@@ -38,6 +44,7 @@ https://github.com/ndroid/HC06_AT_CommandCenter
 https://github.com/Robotics-Competence-Center-Illertal-e-V/RocciBoard-Library
 https://github.com/RobertByrnes/Emulation
 https://github.com/sachinmunasinghe/FirebaseRealtime
+https://github.com/kevinlutzer/Arduino-PM1006K/
 https://github.com/oggysaud245/haversine
 https://github.com/GyverLibs/Pairs
 https://github.com/GyverLibs/Stamp
@@ -1910,6 +1917,7 @@ https://github.com/Rotario/noveltyDetection
 https://github.com/Rufus31415/Sharer
 https://github.com/Rupakpoddar/ESP8266Firebase
 https://github.com/Rupakpoddar/ESP8266Webhook
+https://github.com/Rupakpoddar/ESP32Webhook
 https://github.com/RyoKosaka/HelloDrum-arduino-Library
 https://github.com/SConaway/AVRUtils
 https://github.com/SF433/ILIB
@@ -2446,6 +2454,7 @@ https://github.com/adafruit/Adafruit_FRAM_SPI
 https://github.com/adafruit/Adafruit_FT6206_Library
 https://github.com/adafruit/Adafruit_FXAS21002C
 https://github.com/adafruit/Adafruit_FXOS8700
+https://github.com/adafruit/Adafruit_Faux86
 https://github.com/adafruit/Adafruit_FeatherOLED
 https://github.com/adafruit/Adafruit_Floppy
 https://github.com/adafruit/Adafruit_FreeTouch
@@ -2919,7 +2928,9 @@ https://github.com/asukiaaa/SomeSerial
 https://github.com/asukiaaa/ThingSpeak_asukiaaa
 https://github.com/asukiaaa/WiredController_asukiaaa
 https://github.com/asukiaaa/arduino-A89306
+https://github.com/asukiaaa/arduino-bits
 https://github.com/asukiaaa/arduino-ControllerAsI2c
+https://github.com/asukiaaa/arduino-enum
 https://github.com/asukiaaa/arduino-Gauge
 https://github.com/asukiaaa/arduino-HX711
 https://github.com/asukiaaa/arduino-HzMeter
@@ -6190,6 +6201,7 @@ https://github.com/bonezegei/Bonezegei_Protocol
 https://github.com/bonezegei/Bonezegei_Compute
 https://github.com/bonezegei/Bonezegei_I2CScan
 https://github.com/bonezegei/Bonezegei_WS2812
+https://github.com/bonezegei/Bonezegei_HD44780
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6367,3 +6379,7 @@ https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515
 https://github.com/dcondrey/MicrostepToLinear
 https://github.com/kotwatthana/WebServerFileUpload
 https://github.com/m5stack/M5Unit-IMU-Pro-Mini
+https://github.com/GoodFilling/Motor-Driver
+https://github.com/ILoveMemes/SoftwareTimer
+https://github.com/SEGGERMicro/emWin-Arduino-Library
+https://github.com/MaffooClock/DFR_Radar
