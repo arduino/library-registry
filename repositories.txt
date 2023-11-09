@@ -46,6 +46,7 @@ https://github.com/RobertByrnes/Emulation
 https://github.com/sachinmunasinghe/FirebaseRealtime
 https://github.com/kevinlutzer/Arduino-PM1006K/
 https://github.com/oggysaud245/haversine
+https://github.com/GyverLibs/GyverIO
 https://github.com/GyverLibs/Pairs
 https://github.com/GyverLibs/Stamp
 https://github.com/GyverLibs/GyverBeeper
