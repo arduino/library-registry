@@ -6384,3 +6384,4 @@ https://github.com/GoodFilling/Motor-Driver
 https://github.com/ILoveMemes/SoftwareTimer
 https://github.com/SEGGERMicro/emWin-Arduino-Library
 https://github.com/MaffooClock/DFR_Radar
+https://github.com/zimbora/ESP32Logger2
