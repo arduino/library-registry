@@ -1,3 +1,4 @@
+https://github.com/CuriousScientist0/ADS1256
 https://github.com/netnspace/CanSatNeXT_GNSS
 https://github.com/Zhu-jiatong/SessionManager
 https://github.com/Zhu-jiatong/CredentialManager
@@ -46,6 +47,7 @@ https://github.com/RobertByrnes/Emulation
 https://github.com/sachinmunasinghe/FirebaseRealtime
 https://github.com/kevinlutzer/Arduino-PM1006K/
 https://github.com/oggysaud245/haversine
+https://github.com/GyverLibs/GyverIO
 https://github.com/GyverLibs/Pairs
 https://github.com/GyverLibs/Stamp
 https://github.com/GyverLibs/GyverBeeper
@@ -6383,3 +6385,7 @@ https://github.com/GoodFilling/Motor-Driver
 https://github.com/ILoveMemes/SoftwareTimer
 https://github.com/SEGGERMicro/emWin-Arduino-Library
 https://github.com/MaffooClock/DFR_Radar
+https://github.com/zimbora/ESP32Logger2
+https://github.com/HITISoftware/HITIComm
+https://github.com/HITISoftware/HITICommSupport
+https://github.com/franeum/MicroMidiPot
