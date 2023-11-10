@@ -6486,3 +6486,4 @@ https://github.com/GyverLibs/GyverIO.git|Contributed|GyverIO
 https://github.com/zimbora/ESP32Logger2.git|Contributed|ESP32Logger2
 https://github.com/HITISoftware/HITIComm.git|Contributed|HITIComm
 https://github.com/HITISoftware/HITICommSupport.git|Contributed|HITICommSupport
+https://github.com/CuriousScientist0/ADS1256.git|Contributed|ADS1256
