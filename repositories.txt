@@ -1,3 +1,4 @@
+https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library
 https://github.com/Zhu-jiatong/AccessPermissionManager
 https://github.com/Zhu-jiatong/FilesystemUtility
 https://github.com/CuriousScientist0/ADS1256
