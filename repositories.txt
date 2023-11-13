@@ -6394,3 +6394,4 @@ https://github.com/zimbora/ESP32Logger2
 https://github.com/HITISoftware/HITIComm
 https://github.com/HITISoftware/HITICommSupport
 https://github.com/franeum/MicroMidiPot
+https://github.com/franeum/MicroMidiEnc
