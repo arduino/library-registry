@@ -6489,3 +6489,4 @@ https://github.com/HITISoftware/HITICommSupport.git|Contributed|HITICommSupport
 https://github.com/CuriousScientist0/ADS1256.git|Contributed|ADS1256
 https://github.com/franeum/MicroMidiPot.git|Contributed|MicroMidiPot
 https://github.com/Rupakpoddar/ESP32Firebase.git|Contributed|ESP32 Firebase
+https://github.com/Zhu-jiatong/FilesystemUtility.git|Contributed|FilesystemUtility
