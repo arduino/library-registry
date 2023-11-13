@@ -6494,3 +6494,4 @@ https://github.com/esp-arduino-libs/ESP32_Button.git|Contributed|ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_USB_Stream.git|Contributed|ESP32_USB_STREAM
 https://github.com/Zhu-jiatong/AccessPermissionManager.git|Contributed|AccessPermissionManager
 https://github.com/franeum/MicroMidiEnc.git|Contributed|MicroMidiEnc
+https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library.git|Contributed|Acrome SMD - Arduino Library
