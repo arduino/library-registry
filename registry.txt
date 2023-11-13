@@ -6493,3 +6493,4 @@ https://github.com/Zhu-jiatong/FilesystemUtility.git|Contributed|FilesystemUtili
 https://github.com/esp-arduino-libs/ESP32_Button.git|Contributed|ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_USB_Stream.git|Contributed|ESP32_USB_STREAM
 https://github.com/Zhu-jiatong/AccessPermissionManager.git|Contributed|AccessPermissionManager
+https://github.com/franeum/MicroMidiEnc.git|Contributed|MicroMidiEnc
