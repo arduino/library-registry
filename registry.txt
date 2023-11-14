@@ -6496,3 +6496,4 @@ https://github.com/Zhu-jiatong/AccessPermissionManager.git|Contributed|AccessPer
 https://github.com/franeum/MicroMidiEnc.git|Contributed|MicroMidiEnc
 https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library.git|Contributed|Acrome SMD - Arduino Library
 https://github.com/Zhu-jiatong/FilesystemAccessInterface.git|Contributed|FilesystemAccessInterface
+https://github.com/hasenradball/NINA-Wi-Fi.git|Contributed|NINA-Wi-Fi
