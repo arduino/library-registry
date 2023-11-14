@@ -6495,3 +6495,4 @@ https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library.git|Contributed
 https://github.com/Zhu-jiatong/FilesystemAccessInterface.git|Contributed|FilesystemAccessInterface
 https://github.com/hasenradball/NINA-Wi-Fi.git|Contributed|NINA-Wi-Fi
 https://github.com/GOB52/gob_unifiedButton.git|Contributed|gob_unifiedButton
+https://github.com/madhephaestus/EasyBNO055_ESP.git|Contributed|EasyBNO055 ESP
