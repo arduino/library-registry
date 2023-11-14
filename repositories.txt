@@ -6398,3 +6398,4 @@ https://github.com/HITISoftware/HITIComm
 https://github.com/HITISoftware/HITICommSupport
 https://github.com/franeum/MicroMidiPot
 https://github.com/franeum/MicroMidiEnc
+https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module
