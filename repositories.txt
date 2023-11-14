@@ -4542,6 +4542,7 @@ https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/madhephaestus/BNO055SimplePacketComs
+https://github.com/madhephaestus/EasyBNO055_ESP
 https://github.com/madhephaestus/ESP32AnalogRead
 https://github.com/madhephaestus/ESP32Encoder
 https://github.com/madhephaestus/ESP32Servo
