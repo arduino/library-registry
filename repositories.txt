@@ -144,15 +144,12 @@ https://github.com/bimac/EEPstore
 https://github.com/wzwyz/CrystalC
 https://github.com/wzwyz/Stringcalculater
 https://github.com/ejri/Cohere_Client_Arduino
-https://github.com/Zhu-jiatong/WebServerSessionManager.git
-https://github.com/Zhu-jiatong/TaskQueue
-https://github.com/Zhu-jiatong/FilesystemUtilities
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/soylentOrange/DigiSpark_PWM
 https://github.com/SanteriLindfors/WiFiProvisioner
 https://github.com/soylentOrange/Forced-BMX280
 https://github.com/vishesh-varma/DWIN
-https://github.com/whoelsethanjesus/Mintrix
+https://github.com/janikheiler/Mintrix
 https://github.com/DigitalCodesign/Escornabot-Library
 https://github.com/SCRN92/Sim800L
 https://github.com/manuelbl/usb-pd-arduino
@@ -4545,6 +4542,7 @@ https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/madhephaestus/BNO055SimplePacketComs
+https://github.com/madhephaestus/EasyBNO055_ESP
 https://github.com/madhephaestus/ESP32AnalogRead
 https://github.com/madhephaestus/ESP32Encoder
 https://github.com/madhephaestus/ESP32Servo
@@ -6399,3 +6397,4 @@ https://github.com/HITISoftware/HITICommSupport
 https://github.com/franeum/MicroMidiPot
 https://github.com/franeum/MicroMidiEnc
 https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module
+https://github.com/GOB52/gob_unifiedButton
