@@ -6398,4 +6398,4 @@ https://github.com/franeum/MicroMidiPot
 https://github.com/franeum/MicroMidiEnc
 https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module
 https://github.com/GOB52/gob_unifiedButton
-https://github.com/Hanadi80/library-registry/edit/main/repositories.txt
+https://github.com/arduino-libraries/Servo
