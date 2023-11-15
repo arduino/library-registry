@@ -6210,7 +6210,6 @@ https://github.com/bonezegei/Bonezegei_Compute
 https://github.com/bonezegei/Bonezegei_I2CScan
 https://github.com/bonezegei/Bonezegei_WS2812
 https://github.com/bonezegei/Bonezegei_HD44780
-https://github.com/bonezegei/Bonezegei_DHT11
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6399,3 +6398,4 @@ https://github.com/franeum/MicroMidiPot
 https://github.com/franeum/MicroMidiEnc
 https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module
 https://github.com/GOB52/gob_unifiedButton
+https://github.com/arduino-libraries/Servo
