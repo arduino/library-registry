@@ -6496,3 +6496,4 @@ https://github.com/Zhu-jiatong/FilesystemAccessInterface.git|Contributed|Filesys
 https://github.com/hasenradball/NINA-Wi-Fi.git|Contributed|NINA-Wi-Fi
 https://github.com/GOB52/gob_unifiedButton.git|Contributed|gob_unifiedButton
 https://github.com/madhephaestus/EasyBNO055_ESP.git|Contributed|EasyBNO055 ESP
+https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module.git|Contributed|Seeed-GroveOfflineVoiceRecognition
