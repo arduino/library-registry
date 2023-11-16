@@ -6501,3 +6501,4 @@ https://github.com/bonezegei/Bonezegei_DHT11.git|Contributed|Bonezegei_DHT11
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_sh1106.git|Contributed|VEGA_SH1106
 https://github.com/bonezegei/Bonezegei_DHT22.git|Contributed|Bonezegei_DHT22
 https://github.com/pxsty0/deneyap.telegram.git|Contributed|Deneyap Telegram
+https://github.com/GyverLibs/GyverSegment.git|Contributed|GyverSegment
