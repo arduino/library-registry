@@ -3005,6 +3005,7 @@ https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/beegee-tokyo/WisBlock-API-V2
 https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/Blues-Minimal-I2C
+https://github.com/beegee-tokyo/PicoSoftwareSerial
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/belidzs/PreciseLM35
 https://github.com/bengtmartensson/ABeacon
