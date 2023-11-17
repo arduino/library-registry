@@ -6504,3 +6504,4 @@ https://github.com/pxsty0/deneyap.telegram.git|Contributed|Deneyap Telegram
 https://github.com/GyverLibs/GyverSegment.git|Contributed|GyverSegment
 https://github.com/delta-G/LoveButton.git|Contributed|LoveButton
 https://github.com/zvonler/DebouncedLDR.git|Contributed|DebouncedLDR
+https://github.com/beegee-tokyo/PicoSoftwareSerial.git|Contributed|PicoSoftwareSerial
