@@ -6508,3 +6508,4 @@ https://github.com/beegee-tokyo/PicoSoftwareSerial.git|Contributed|PicoSoftwareS
 https://github.com/ahmedarif193/Hlw8032.git|Contributed|Hlw8032
 https://github.com/jmparatte/jm_crc-ccitt.git|Contributed|jm_crc-ccitt
 https://github.com/ArduinoSapienza/VibrationMotor.git|Contributed|VibrationMotor
+https://github.com/cotestatnt/async-esp-fs-webserver.git|Contributed|AsyncEspFsWebserver
