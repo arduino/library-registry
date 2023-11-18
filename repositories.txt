@@ -1,4 +1,5 @@
 https://github.com/ArduinoSapienza/DCMotor
+https://github.com/eb1992/ShiftLc
 https://github.com/ArduinoSapienza/VibrationMotor
 https://github.com/hasenradball/NINA-Wi-Fi
 https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library
@@ -3302,6 +3303,7 @@ https://github.com/cotestatnt/AsyncTelegram2
 https://github.com/cotestatnt/DigitalSignal
 https://github.com/cotestatnt/YA_FSM
 https://github.com/cotestatnt/esp-fs-webserver
+https://github.com/cotestatnt/async-esp-fs-webserver
 https://github.com/creatingnull/null-packet-comms-arduino
 https://github.com/cristborges/IRRemoteControl
 https://github.com/crmoratelli/SupmeaDO7016
@@ -3970,6 +3972,7 @@ https://github.com/jeremycole/Temperature_LM75_Derived
 https://github.com/jeremylindsayni/Bifrost.Arduino.Sensors.HCSR04
 https://github.com/jeroenvermeulen/JeVe_EasyOTA
 https://github.com/jfitter/MLX90614
+https://github.com/jfjlaros/array-helpers
 https://github.com/jfjlaros/serialMux
 https://github.com/jfjlaros/simpleRPC
 https://github.com/jfjlaros/textparser
