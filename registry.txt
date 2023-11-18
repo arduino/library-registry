@@ -6506,3 +6506,4 @@ https://github.com/delta-G/LoveButton.git|Contributed|LoveButton
 https://github.com/zvonler/DebouncedLDR.git|Contributed|DebouncedLDR
 https://github.com/beegee-tokyo/PicoSoftwareSerial.git|Contributed|PicoSoftwareSerial
 https://github.com/ahmedarif193/Hlw8032.git|Contributed|Hlw8032
+https://github.com/jmparatte/jm_crc-ccitt.git|Contributed|jm_crc-ccitt
