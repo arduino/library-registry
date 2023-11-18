@@ -6510,3 +6510,4 @@ https://github.com/jmparatte/jm_crc-ccitt.git|Contributed|jm_crc-ccitt
 https://github.com/ArduinoSapienza/VibrationMotor.git|Contributed|VibrationMotor
 https://github.com/cotestatnt/async-esp-fs-webserver.git|Contributed|AsyncEspFsWebserver
 https://github.com/eb1992/ShiftLcd.git|Contributed|ShiftLcd
+https://github.com/jfjlaros/array-helpers.git|Contributed|array-helpers
