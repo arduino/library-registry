@@ -6407,3 +6407,4 @@ https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module
 https://github.com/GOB52/gob_unifiedButton
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_sh1106
 https://github.com/pxsty0/deneyap.telegram
+https://github.com/jmparatte/jm_crc-ccitt
