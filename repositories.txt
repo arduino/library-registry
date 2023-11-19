@@ -1,5 +1,5 @@
 https://github.com/ArduinoSapienza/DCMotor
-https://github.com/eb1992/ShiftLc
+https://github.com/eb1992/ShiftLcd
 https://github.com/ArduinoSapienza/VibrationMotor
 https://github.com/hasenradball/NINA-Wi-Fi
 https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library
