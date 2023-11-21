@@ -6514,3 +6514,4 @@ https://github.com/jfjlaros/array-helpers.git|Contributed|array-helpers
 https://github.com/ArduinoSapienza/DCMotor.git|Contributed|DCMotor
 https://github.com/hpsaturn/espnow-joystick.git|Contributed|EspNowJoystick
 https://github.com/koendv/FloatToString.git|Contributed|FloatToString
+https://github.com/boeserfrosch/GuL_Plantower.git|Contributed|GuL_Plantower
