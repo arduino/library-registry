@@ -6414,3 +6414,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_sh1106
 https://github.com/pxsty0/deneyap.telegram
 https://github.com/jmparatte/jm_crc-ccitt
 https://github.com/hpsaturn/espnow-joystick
+https://github.com/koendv/FloatToString
