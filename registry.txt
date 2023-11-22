@@ -6517,3 +6517,4 @@ https://github.com/koendv/FloatToString.git|Contributed|FloatToString
 https://github.com/boeserfrosch/GuL_Plantower.git|Contributed|GuL_Plantower
 https://github.com/jonnybergdahl/Arduino_JBWopr_Library.git|Contributed|JBWopr
 https://github.com/Zeppelin500/MBusinoLib.git|Contributed|MBusinoLib
+https://github.com/hasenradball/AM2302-Sensor.git|Contributed|AM2302-Sensor
