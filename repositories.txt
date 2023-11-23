@@ -2182,7 +2182,6 @@ https://github.com/SunjunKim/PMW3360
 https://github.com/Suraj151/esp8266-framework
 https://github.com/SvenRosvall/SignalControl
 https://github.com/Syncano/syncano-arduino
-https://github.com/Syncano/syncano-arduino
 https://github.com/SyntaxHarvy/HACTimers
 https://github.com/SyntaxHarvy/HACWifiManager
 https://github.com/SyntaxHarvy/HaCEspSockets
@@ -5755,7 +5754,6 @@ https://github.com/thijse/Arduino-EEPROMEx
 https://github.com/thijse/Arduino-Log
 https://github.com/thingSoC/embedis
 https://github.com/thinger-io/Arduino-Library
-https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/Core32
 https://github.com/thingface/arduino
