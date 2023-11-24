@@ -6523,3 +6523,4 @@ https://github.com/MOMIZICH/Shift_Register_Controller.git|Contributed|ShiftRegis
 https://github.com/boeserfrosch/GuL_NovaFitness.git|Contributed|GuL_NovaFitness
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast_152.git|Contributed|PDLS_EXT3_Basic_Fast_152
 https://github.com/sensebox/senseBoxBLE.git|Contributed|SenseBoxBLE
+https://github.com/franeum/MicroMidiDevices.git|Contributed|MicroMidiDevices
