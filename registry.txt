@@ -6521,3 +6521,4 @@ https://github.com/hasenradball/AM2302-Sensor.git|Contributed|AM2302-Sensor
 https://github.com/m5stack/M5Unit-ToF4M.git|Contributed|M5Unit-ToF4M
 https://github.com/MOMIZICH/Shift_Register_Controller.git|Contributed|ShiftRegisterController
 https://github.com/boeserfrosch/GuL_NovaFitness.git|Contributed|GuL_NovaFitness
+https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast_152.git|Contributed|PDLS_EXT3_Basic_Fast_152
