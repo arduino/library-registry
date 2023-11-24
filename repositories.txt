@@ -6422,3 +6422,4 @@ https://github.com/Zeppelin500/MBusinoLib
 https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/MOMIZICH/Shift_Register_Controller
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast_152
+https://github.com/franeum/MicroMidiDevices
