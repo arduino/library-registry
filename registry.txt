@@ -6525,3 +6525,4 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast_152.git|Contributed|PDLS_EXT3_B
 https://github.com/sensebox/senseBoxBLE.git|Contributed|SenseBoxBLE
 https://github.com/franeum/MicroMidiDevices.git|Contributed|MicroMidiDevices
 https://github.com/adafruit/Adafruit_FT5336.git|Recommended|Adafruit FT5336
+https://github.com/jandrassy/NetApiHelpers.git|Contributed|NetApiHelpers
