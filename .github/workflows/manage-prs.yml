@@ -134,11 +134,11 @@ jobs:
 
     steps:
       - name: Checkout local repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download submission parser
         id: download-parser
-        uses: carlosperate/download-file-action@v1
+        uses: carlosperate/download-file-action@v2
         with:
           file-url: https://github.com/arduino/library-registry-submission-parser/releases/download/${{ env.SUBMISSION_PARSER_VERSION }}/parser
           location: ${{ runner.temp }}
@@ -150,7 +150,7 @@ jobs:
           name: ${{ needs.diff.outputs.artifact }}
 
       - name: Remove no longer needed artifact
-        uses: geekyeggo/delete-artifact@v1
+        uses: geekyeggo/delete-artifact@v2
         with:
           name: ${{ needs.diff.outputs.artifact }}
 
@@ -474,7 +474,7 @@ jobs:
 
       - name: Checkout index source branch
         if: steps.merge.outcome == 'success'
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: production
 
