@@ -6532,3 +6532,4 @@ https://github.com/AdamJHowell/ArrayManager.git|Contributed|FloatArrayManager
 https://github.com/ArtronShop/ArtronShop_LineNotify.git|Contributed|ArtronShop_LineNotify
 https://github.com/skyfroger/RLab.git|Contributed|RLab
 https://github.com/dejwk/roo_time.git|Contributed|roo_time
+https://github.com/alkonosst/SettingsManagerESP32.git|Contributed|SettingsManagerESP32
