@@ -319,6 +319,7 @@ https://github.com/AlexTutorial/KrokoTS
 https://github.com/AlexanderLL95/SerialUtil
 https://github.com/AlexandreHiroyuki/MovingAveragePlus
 https://github.com/alkonosst/SSLClientESP32
+https://github.com/alkonosst/SettingsManagerESP32.git
 https://github.com/AllWize/allwize
 https://github.com/AllWize/mbus-payload
 https://github.com/AloriumTechnology/UbidotsXLR8
