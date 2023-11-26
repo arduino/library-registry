@@ -6427,3 +6427,4 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast_152
 https://github.com/franeum/MicroMidiDevices
 https://github.com/franeum/TI_SN76489
 https://github.com/pxsty0/deneyapkart.agent.lib
+https://github.com/AdamJHowell/ArrayManager
