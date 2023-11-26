@@ -1281,7 +1281,7 @@ https://github.com/Mm1KEE/SmoothTouch
 https://github.com/MohammedRashad/ArduZ80
 https://github.com/Mokolea/InputDebounce
 https://github.com/MonsieurV/ArduinoPocketGeiger
-https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino
+https://github.com/Mosiwi/Mosiwi-basic-learning-kit
 https://github.com/MrYsLab/FirmataExpress
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/MrYsLab/NeoPixelConnect
