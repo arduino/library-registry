@@ -6528,3 +6528,4 @@ https://github.com/adafruit/Adafruit_FT5336.git|Recommended|Adafruit FT5336
 https://github.com/jandrassy/NetApiHelpers.git|Contributed|NetApiHelpers
 https://github.com/pxsty0/deneyapkart.agent.lib.git|Contributed|Deneyap Kart IDE Ornekler
 https://github.com/franeum/TI_SN76489.git|Contributed|TI_SN76489
+https://github.com/AdamJHowell/ArrayManager.git|Contributed|FloatArrayManager
