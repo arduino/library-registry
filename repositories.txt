@@ -1,4 +1,5 @@
 https://github.com/dejwk/roo_collections
+https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
 https://github.com/sensebox/senseBoxBLE
 https://github.com/hasenradball/AM2302-Sensor
