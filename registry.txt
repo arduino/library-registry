@@ -6539,3 +6539,4 @@ https://github.com/dev-board-tech/lvglCpp.git|Contributed|lvglCpp
 https://github.com/dejwk/roo_collections.git|Contributed|roo_collections
 https://github.com/facts-engineering/PCF8563_RTC.git|Contributed|PCF8563_RTC
 https://github.com/facts-engineering/AT24MAC_EEPROM.git|Contributed|ATMAC_EEPROM
+https://github.com/dejwk/roo_scheduler.git|Contributed|roo_scheduler
