@@ -319,6 +319,7 @@ https://github.com/AlexTutorial/KrokoTS
 https://github.com/AlexanderLL95/SerialUtil
 https://github.com/AlexandreHiroyuki/MovingAveragePlus
 https://github.com/alkonosst/SSLClientESP32
+https://github.com/alkonosst/SettingsManagerESP32.git
 https://github.com/AllWize/allwize
 https://github.com/AllWize/mbus-payload
 https://github.com/AloriumTechnology/UbidotsXLR8
@@ -6421,6 +6422,7 @@ https://github.com/hpsaturn/espnow-joystick
 https://github.com/koendv/FloatToString
 https://github.com/boeserfrosch/GuL_Plantower
 https://github.com/boeserfrosch/GuL_NovaFitness
+https://github.com/boeserfrosch/GuL_TI_Humidity
 https://github.com/Zeppelin500/MBusinoLib
 https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/MOMIZICH/Shift_Register_Controller
@@ -6431,3 +6433,5 @@ https://github.com/pxsty0/deneyapkart.agent.lib
 https://github.com/AdamJHowell/ArrayManager
 https://github.com/ArtronShop/ArtronShop_LineNotify
 https://github.com/skyfroger/RLab
+https://github.com/Frai13/EasIno
+https://github.com/dev-board-tech/lvglCpp
