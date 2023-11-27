@@ -6533,3 +6533,4 @@ https://github.com/ArtronShop/ArtronShop_LineNotify.git|Contributed|ArtronShop_L
 https://github.com/skyfroger/RLab.git|Contributed|RLab
 https://github.com/dejwk/roo_time.git|Contributed|roo_time
 https://github.com/alkonosst/SettingsManagerESP32.git|Contributed|SettingsManagerESP32
+https://github.com/Frai13/EasIno.git|Contributed|EasIno
