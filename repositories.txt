@@ -3601,6 +3601,8 @@ https://github.com/fabriziop/TalkingLED
 https://github.com/fabriziop/aTalkArduino
 https://github.com/facts-engineering/P1AM
 https://github.com/facts-engineering/ViewMarq
+https://github.com/facts-engineering/PCF8563_RTC
+https://github.com/facts-engineering/AT24MAC_EEPROM
 https://github.com/fanfanlatulipe26/XGZP6897D
 https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatkhrus/TeslaCloud
