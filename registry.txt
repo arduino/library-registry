@@ -6535,3 +6535,4 @@ https://github.com/dejwk/roo_time.git|Contributed|roo_time
 https://github.com/alkonosst/SettingsManagerESP32.git|Contributed|SettingsManagerESP32
 https://github.com/Frai13/EasIno.git|Contributed|EasIno
 https://github.com/boeserfrosch/GuL_TI_Humidity.git|Contributed|GuL_TI_Humidity_HDC10XX
+https://github.com/dev-board-tech/lvglCpp.git|Contributed|lvglCpp
