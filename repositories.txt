@@ -1,3 +1,5 @@
+https://github.com/dejwk/roo_collections
+https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
 https://github.com/sensebox/senseBoxBLE
 https://github.com/hasenradball/AM2302-Sensor
@@ -3600,6 +3602,8 @@ https://github.com/fabriziop/TalkingLED
 https://github.com/fabriziop/aTalkArduino
 https://github.com/facts-engineering/P1AM
 https://github.com/facts-engineering/ViewMarq
+https://github.com/facts-engineering/PCF8563_RTC
+https://github.com/facts-engineering/AT24MAC_EEPROM
 https://github.com/fanfanlatulipe26/XGZP6897D
 https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatkhrus/TeslaCloud
@@ -6422,6 +6426,7 @@ https://github.com/hpsaturn/espnow-joystick
 https://github.com/koendv/FloatToString
 https://github.com/boeserfrosch/GuL_Plantower
 https://github.com/boeserfrosch/GuL_NovaFitness
+https://github.com/boeserfrosch/GuL_TI_Humidity
 https://github.com/Zeppelin500/MBusinoLib
 https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/MOMIZICH/Shift_Register_Controller
@@ -6434,3 +6439,4 @@ https://github.com/ArtronShop/ArtronShop_LineNotify
 https://github.com/skyfroger/RLab
 https://github.com/Frai13/EasIno
 https://github.com/GreenLeafLocal/HydroinoJobMgr
+https://github.com/dev-board-tech/lvglCpp
