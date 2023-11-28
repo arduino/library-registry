@@ -6542,3 +6542,4 @@ https://github.com/facts-engineering/AT24MAC_EEPROM.git|Contributed|ATMAC_EEPROM
 https://github.com/dejwk/roo_scheduler.git|Contributed|roo_scheduler
 https://github.com/GreenLeafLocal/HydroinoJobMgr.git|Contributed|HydroinoJobMgr
 https://github.com/Arduino-Library-Collection/DC-Motor-Engine-Control.git|Contributed|DC Motor Engine Control
+https://github.com/Arduino-Library-Collection/Engine-Control.git|Contributed|Engine Control
