@@ -6440,4 +6440,4 @@ https://github.com/skyfroger/RLab
 https://github.com/Frai13/EasIno
 https://github.com/GreenLeafLocal/HydroinoJobMgr
 https://github.com/dev-board-tech/lvglCpp
-https://github.com/Arduino-Library-Collection/DC-Motor-Engine-Control
+https://github.com/Arduino-Library-Collection/Engine-Control
