@@ -1,3 +1,4 @@
+https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
