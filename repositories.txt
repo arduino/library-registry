@@ -116,7 +116,7 @@ https://github.com/tedtoal/wiring_analog_SAMD_TT
 https://github.com/tedtoal/msToString
 https://github.com/tedtoal/floatToString
 https://github.com/YoupiLab/YoupiLabESP32_IOT
-https://github.com/EDBCREPO/uNODEPP
+https://github.com/NodeppOficial/uNodepp
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/Aquatwix/PD-10LX-Library
