@@ -1,3 +1,4 @@
+url=https://github.com/DefHam140/DefIOTClient.git
 https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_scheduler
