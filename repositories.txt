@@ -3746,7 +3746,7 @@ https://github.com/gpb01/NVSRAM
 https://github.com/gpb01/SerialCmd
 https://github.com/gpb01/wdt_samd21
 https://github.com/gpoolb/ads1148
-https://github.com/gq97a6/IoT_Modules-Buttons
+https://github.com/gq97a6/arduino_buttons
 https://github.com/grafana/arduino-prom-loki-transport
 https://github.com/grafana/arduino-snappy-proto
 https://github.com/grafana/loki-arduino
