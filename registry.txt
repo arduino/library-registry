@@ -6543,3 +6543,4 @@ https://github.com/GreenLeafLocal/HydroinoJobMgr.git|Contributed|HydroinoJobMgr
 https://github.com/Arduino-Library-Collection/Engine-Control.git|Contributed|Engine Control
 https://github.com/hoeken/PsychicHttp.git|Contributed|PsychicHttp
 https://github.com/rm5248/m95-eeprom-arduino.git|Contributed|M95_EEPROM
+https://github.com/DefHam140/IOTClient.git|Contributed|IOTClient
