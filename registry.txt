@@ -6546,3 +6546,4 @@ https://github.com/rm5248/m95-eeprom-arduino.git|Contributed|M95_EEPROM
 https://github.com/DefHam140/IOTClient.git|Contributed|IOTClient
 https://github.com/allexoK/TinyDecisionTreeClassifier.git|Contributed|TinyDecisionTreeClassifier
 https://github.com/hasenradball/LCD-I2C.git|Contributed|LCD-I2C
+https://github.com/RobTillaart/NeumannCorrector.git|Contributed|NeumannCorrector
