@@ -6451,3 +6451,4 @@ https://github.com/dev-board-tech/lvglCpp
 https://github.com/Arduino-Library-Collection/Engine-Control
 https://github.com/kamilpajak/VirtualTherm
 https://github.com/chrmlinux/tinyCommand
+https://github.com/KurtE/MemoryHexDump.git
