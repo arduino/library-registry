@@ -6548,3 +6548,4 @@ https://github.com/allexoK/TinyDecisionTreeClassifier.git|Contributed|TinyDecisi
 https://github.com/hasenradball/LCD-I2C.git|Contributed|LCD-I2C
 https://github.com/RobTillaart/NeumannCorrector.git|Contributed|NeumannCorrector
 https://github.com/kamilpajak/VirtualTherm.git|Contributed|VirtualTherm
+https://github.com/dejwk/roo_display.git|Contributed|roo_display
