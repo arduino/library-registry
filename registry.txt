@@ -6551,3 +6551,4 @@ https://github.com/kamilpajak/VirtualTherm.git|Contributed|VirtualTherm
 https://github.com/dejwk/roo_display.git|Contributed|roo_display
 https://github.com/dejwk/roo_material_icons.git|Contributed|roo_material_icons
 https://github.com/joshua-8/TMC7300.git|Contributed|TMC7300
+https://github.com/chrmlinux/tinyCommand.git|Contributed|tinyCommand
