@@ -1,4 +1,11 @@
+https://github.com/joshua-8/TMC7300
+https://github.com/hasenradball/LCD-I2C
+https://github.com/allexoK/TinyDecisionTreeClassifier
+https://github.com/DefHam140/IOTClient
+https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
+https://github.com/dejwk/roo_display
+https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
 https://github.com/sensebox/senseBoxBLE
@@ -116,7 +123,7 @@ https://github.com/tedtoal/wiring_analog_SAMD_TT
 https://github.com/tedtoal/msToString
 https://github.com/tedtoal/floatToString
 https://github.com/YoupiLab/YoupiLabESP32_IOT
-https://github.com/EDBCREPO/uNODEPP
+https://github.com/NodeppOficial/uNodepp
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/Aquatwix/PD-10LX-Library
@@ -133,6 +140,7 @@ https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
 https://github.com/nthnn/PortaMob
 https://github.com/nthnn/SIM900
+https://github.com/nthnn/microlzw
 https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
@@ -1285,7 +1293,7 @@ https://github.com/Mm1KEE/SmoothTouch
 https://github.com/MohammedRashad/ArduZ80
 https://github.com/Mokolea/InputDebounce
 https://github.com/MonsieurV/ArduinoPocketGeiger
-https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino
+https://github.com/Mosiwi/Mosiwi-basic-learning-kit
 https://github.com/MrYsLab/FirmataExpress
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/MrYsLab/NeoPixelConnect
@@ -1808,6 +1816,7 @@ https://github.com/RobTillaart/Max44009
 https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
+https://github.com/RobTillaart/NeumannCorrector
 https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/PAR27979
 https://github.com/RobTillaart/PCA9551
@@ -5129,7 +5138,7 @@ https://github.com/red-scorp/SoftSPIB
 https://github.com/redkea/arduino-library
 https://github.com/redPanther/CQRobotTDS
 https://github.com/regimantas/Oversampling
-https://github.com/rei-vilo/PDLS_EXT3_Basic
+https://github.com/rei-vilo/PDLS_EXT3_Basic_Global
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch
 https://github.com/remicaumette/esp8266-redis
@@ -6177,6 +6186,7 @@ https://github.com/neittien0110/siotcore_sdk_v2
 https://github.com/glutio/Eventfun
 https://github.com/mhorimoto/M304-lib
 https://github.com/rm5248/liblcc-arduino
+https://github.com/rm5248/m95-eeprom-arduino
 https://github.com/pablomarquez76/AnalogWrite_ESP32
 https://github.com/SNMetamorph/FutabaVfdM202MD10C
 https://github.com/suratin27/MiniPLC_FX2N
@@ -6430,7 +6440,6 @@ https://github.com/boeserfrosch/GuL_TI_Humidity
 https://github.com/Zeppelin500/MBusinoLib
 https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/MOMIZICH/Shift_Register_Controller
-https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast_152
 https://github.com/franeum/MicroMidiDevices
 https://github.com/franeum/TI_SN76489
 https://github.com/pxsty0/deneyapkart.agent.lib
@@ -6440,5 +6449,7 @@ https://github.com/skyfroger/RLab
 https://github.com/Frai13/EasIno
 https://github.com/GreenLeafLocal/HydroinoJobMgr
 https://github.com/dev-board-tech/lvglCpp
-https://github.com/Arduino-Library-Collection/DC-Motor-Engine-Control
 https://github.com/Arduino-Library-Collection/Engine-Control
+https://github.com/kamilpajak/VirtualTherm
+https://github.com/chrmlinux/tinyCommand
+https://github.com/KurtE/MemoryHexDump.git
