@@ -6554,3 +6554,4 @@ https://github.com/joshua-8/TMC7300.git|Contributed|TMC7300
 https://github.com/chrmlinux/tinyCommand.git|Contributed|tinyCommand
 https://github.com/KurtE/MemoryHexDump.git|Contributed|MemoryHexDump
 https://github.com/nthnn/microlzw.git|Contributed|microlzw
+https://github.com/eloquentarduino/EloquentTensorFlow32.git|Contributed|EloquentTensorFlow32
