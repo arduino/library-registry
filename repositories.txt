@@ -6310,6 +6310,7 @@ https://github.com/Xairooo/SimpleTime
 https://github.com/ripred/MyKeywords
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled
 https://github.com/ArtronShop/IOXESP32Audio
+https://github.com/rnrobles/esc-thermal-printer-ble
 https://github.com/fellipecouto/ButtonControl
 https://github.com/BestModules-Libraries/BM22S2021-1
 https://github.com/BestModules-Libraries/BM22S4221-1
