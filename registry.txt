@@ -5290,7 +5290,7 @@ https://github.com/chrmlinux/easyLiDAR.git|Contributed|easyLiDAR
 https://github.com/pikido-edutainment/CleanRTOS.git|Contributed|CleanRTOS
 https://github.com/DFRobot/DFRobot_RGBButton.git|Contributed|DFRobot_RGBButton
 https://github.com/DFRobot/DFRobot_BME280.git|Contributed|DFRobot_BME280
-https://github.com/80Stepko08/EMFButton.git|Contributed|EMFButton
+https://github.com/St3p40/EMFButton.git|Contributed|EMFButton
 https://github.com/alessandromrc/JOAAT.git|Contributed|JOAAT
 https://github.com/m5stack/M5Module-2Relay-13.2.git|Contributed|MODULE_2RELAY
 https://github.com/RobTillaart/I2CKeyPad8x8.git|Contributed|I2CKeyPad8x8
