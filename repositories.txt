@@ -284,7 +284,7 @@ https://github.com/5N44P/ht1621-7-seg
 https://github.com/5pIO/BLESerial
 https://github.com/608/CH55xSwitchControl
 https://github.com/8059blank/CytronPikaBot
-https://github.com/80Stepko08/EMFButton
+https://github.com/St3p40/EMFButton
 https://github.com/8bitbuddhist/PixelMaestro
 https://github.com/934virginia/Norman
 https://github.com/9glt/arduino-attiny85-fastpin-library
