@@ -3940,7 +3940,7 @@ https://github.com/sparkfun/SparkFun_KX13X_Arduino_Library.git|Contributed|Spark
 https://github.com/fabriziop/TalkingButton.git|Contributed|TalkingButton
 https://github.com/tuya/tuya-wifi-mcu-sdk-arduino-library.git|Contributed|Tuya_WiFi_MCU_SDK
 https://github.com/khoih-prog/ESP32_S2_TimerInterrupt.git|Contributed|ESP32_S2_TimerInterrupt
-https://github.com/gq97a6/IoT_Modules-Buttons.git|Contributed|IoT_Modules-Buttons
+https://github.com/gq97a6/arduino_buttons.git|Contributed|IoT_Modules-Buttons
 https://github.com/m5stack/M5GFX.git|Contributed|M5GFX
 https://github.com/RobTillaart/PID_RT.git|Contributed|PID_RT
 https://github.com/RobTillaart/I2C_24LC1025.git|Contributed|I2C_24LC1025
