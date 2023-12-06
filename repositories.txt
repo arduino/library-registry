@@ -1,3 +1,4 @@
+https://github.com/arduino279/DirectCurrent-Motor-Module
 https://github.com/arduino279/Servo-Motor-Module
 https://github.com/eloquentarduino/EloquentTensorFlow32
 https://github.com/joshua-8/TMC7300
@@ -6452,7 +6453,6 @@ https://github.com/skyfroger/RLab
 https://github.com/Frai13/EasIno
 https://github.com/GreenLeafLocal/HydroinoJobMgr
 https://github.com/dev-board-tech/lvglCpp
-https://github.com/Arduino-Library-Collection/Engine-Control
 https://github.com/kamilpajak/VirtualTherm
 https://github.com/chrmlinux/tinyCommand
 https://github.com/KurtE/MemoryHexDump.git
