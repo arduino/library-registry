@@ -1,4 +1,6 @@
 https://github.com/arduino279/DirectCurrent-Motor-Module
+https://github.com/arduino279/Servo-Motor-Module
+https://github.com/eloquentarduino/EloquentTensorFlow32
 https://github.com/joshua-8/TMC7300
 https://github.com/hasenradball/LCD-I2C
 https://github.com/allexoK/TinyDecisionTreeClassifier
@@ -6309,6 +6311,7 @@ https://github.com/Xairooo/SimpleTime
 https://github.com/ripred/MyKeywords
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled
 https://github.com/ArtronShop/IOXESP32Audio
+https://github.com/rnrobles/esc-thermal-printer-ble
 https://github.com/fellipecouto/ButtonControl
 https://github.com/BestModules-Libraries/BM22S2021-1
 https://github.com/BestModules-Libraries/BM22S4221-1
@@ -6453,3 +6456,4 @@ https://github.com/dev-board-tech/lvglCpp
 https://github.com/kamilpajak/VirtualTherm
 https://github.com/chrmlinux/tinyCommand
 https://github.com/KurtE/MemoryHexDump.git
+https://github.com/DCC-EX/DCCEXProtocol
