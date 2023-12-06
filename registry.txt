@@ -6556,3 +6556,4 @@ https://github.com/KurtE/MemoryHexDump.git|Contributed|MemoryHexDump
 https://github.com/nthnn/microlzw.git|Contributed|microlzw
 https://github.com/eloquentarduino/EloquentTensorFlow32.git|Contributed|EloquentTensorFlow32
 https://github.com/arduino279/Servo-Motor-Module.git|Contributed|Servo_Motor_Module
+https://github.com/rnrobles/esc-thermal-printer-ble.git|Contributed|ESC Thermal Printer BLE
