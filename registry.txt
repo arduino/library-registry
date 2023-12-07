@@ -6560,3 +6560,4 @@ https://github.com/rnrobles/esc-thermal-printer-ble.git|Contributed|ESC Thermal 
 https://github.com/DCC-EX/DCCEXProtocol.git|Contributed|DCCEXProtocol
 https://github.com/ArtronShop/ATD3.5-S3_Library.git|Contributed|ATD3.5-S3
 https://github.com/AlfredoSystems/PestoLink-Receive.git|Contributed|PestoLink-Receive
+https://github.com/arduino279/Serial-Monitor.git|Contributed|Serial_Monitor
