@@ -6564,3 +6564,4 @@ https://github.com/arduino279/Serial-Monitor.git|Contributed|Serial_Monitor
 https://github.com/amiga68k/electuno.git|Contributed|electuno
 https://github.com/s-light/slight_mapping.git|Contributed|slight_mapping
 https://github.com/s-light/slight_easing.git|Contributed|slight_easing
+https://github.com/NicolasNewman/ArgParse.git|Contributed|ArgParse
