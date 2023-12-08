@@ -1680,6 +1680,7 @@ https://github.com/Reefwing-Software/Reefwing-MSP.git
 https://github.com/Reefwing-Software/Reefwing-Motorshield.git
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
 https://github.com/Reefwing-Software/reefwing_timer.git
+https://github.com/reiniiriarios/arduino-mqtt-looped
 https://github.com/RemoteXY/RemoteXY-Arduino-library
 https://github.com/RexMORE/MOREbot_Games
 https://github.com/RexMORE/MOREbot_Library
