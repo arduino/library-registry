@@ -5228,6 +5228,7 @@ https://github.com/sakabug/Bugtton
 https://github.com/sakuraio/SakuraIOArduino
 https://github.com/sakura-internet/sipf-arduino-client
 https://github.com/salvadorrueda/SerialMP3Player
+https://github.com/Sam4uk/CRSF
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
