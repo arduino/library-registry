@@ -6569,3 +6569,4 @@ https://github.com/alireza7575/MKS_SERVO57.git|Contributed|MKS_SERVO57
 https://github.com/sparkfun/SparkFun_Toolkit.git|Contributed|SparkFun Toolkit
 https://github.com/reiniiriarios/arduino-mqtt-looped.git|Contributed|MQTT_Looped
 https://github.com/littleBitsman/Asynchrony.git|Contributed|Asynchrony
+https://github.com/PU2REO/Si5351ArduinoLite.git|Contributed|PU2REO Si5351ArduinoLite
