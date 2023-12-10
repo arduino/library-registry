@@ -6470,3 +6470,4 @@ https://github.com/s-light/slight_easing
 https://github.com/AlfredoSystems/PestoLink-Receive
 https://github.com/NicolasNewman/ArgParse
 https://github.com/PU2REO/Si5351ArduinoLite
+https://github.com/hpsaturn/MultiFuncShield-Library
