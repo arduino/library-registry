@@ -6471,3 +6471,4 @@ https://github.com/AlfredoSystems/PestoLink-Receive
 https://github.com/NicolasNewman/ArgParse
 https://github.com/PU2REO/Si5351ArduinoLite
 https://github.com/hpsaturn/MultiFuncShield-Library
+https://github.com/arduino-libraries/Arduino_PF1550
