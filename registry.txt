@@ -6573,3 +6573,4 @@ https://github.com/PU2REO/Si5351ArduinoLite.git|Contributed|PU2REO Si5351Arduino
 https://github.com/Sam4uk/CRSF.git|Contributed|CRSF
 https://github.com/hpsaturn/MultiFuncShield-Library.git|Contributed|MultiFuncShield
 https://github.com/arduino-libraries/Arduino_PF1550.git|Arduino|Arduino_PF1550
+https://github.com/DavidHurtadoBanda/Salesforce-Library.git|Contributed|Salesforce
