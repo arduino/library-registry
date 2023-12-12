@@ -3328,6 +3328,7 @@ https://github.com/cotestatnt/DigitalSignal
 https://github.com/cotestatnt/YA_FSM
 https://github.com/cotestatnt/esp-fs-webserver
 https://github.com/cotestatnt/async-esp-fs-webserver
+https://github.com/cotestatnt/Arduino-MySQL
 https://github.com/creatingnull/null-packet-comms-arduino
 https://github.com/cristborges/IRRemoteControl
 https://github.com/crmoratelli/SupmeaDO7016
