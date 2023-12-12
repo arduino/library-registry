@@ -6575,3 +6575,4 @@ https://github.com/hpsaturn/MultiFuncShield-Library.git|Contributed|MultiFuncShi
 https://github.com/arduino-libraries/Arduino_PF1550.git|Arduino|Arduino_PF1550
 https://github.com/DavidHurtadoBanda/Salesforce-Library.git|Contributed|Salesforce
 https://github.com/m5stack/M5StickCPlus2.git|Contributed|M5StickCPlus2
+https://github.com/he0119/arduino-miio.git|Contributed|SerialMIIO
