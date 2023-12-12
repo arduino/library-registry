@@ -1827,6 +1827,7 @@ https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/NeumannCorrector
 https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/PAR27979
+https://github.com/RobTillaart/PCA9549
 https://github.com/RobTillaart/PCA9551
 https://github.com/RobTillaart/PCA9552
 https://github.com/RobTillaart/PCA9553
