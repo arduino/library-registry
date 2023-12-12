@@ -1,3 +1,21 @@
+https://github.com/littleBitsman/Asynchrony
+https://github.com/alireza7575/MKS_SERVO57
+https://github.com/amiga68k/electuno
+https://github.com/arduino279/Serial-Monitor
+https://github.com/arduino279/DirectCurrent-Motor-Module
+https://github.com/arduino279/Servo-Motor-Module
+https://github.com/eloquentarduino/EloquentTensorFlow32
+https://github.com/joshua-8/TMC7300
+https://github.com/hasenradball/LCD-I2C
+https://github.com/allexoK/TinyDecisionTreeClassifier
+https://github.com/DefHam140/IOTClient
+https://github.com/hoeken/PsychicHttp
+https://github.com/dejwk/roo_collections
+https://github.com/dejwk/roo_display
+https://github.com/dejwk/roo_material_icons
+https://github.com/dejwk/roo_scheduler
+https://github.com/dejwk/roo_time
+https://github.com/sensebox/senseBoxBLE
 https://github.com/hasenradball/AM2302-Sensor
 https://github.com/jonnybergdahl/Arduino_JBWopr_Library
 https://github.com/ArduinoSapienza/DCMotor
@@ -112,7 +130,7 @@ https://github.com/tedtoal/wiring_analog_SAMD_TT
 https://github.com/tedtoal/msToString
 https://github.com/tedtoal/floatToString
 https://github.com/YoupiLab/YoupiLabESP32_IOT
-https://github.com/EDBCREPO/uNODEPP
+https://github.com/NodeppOficial/uNodepp
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/Aquatwix/PD-10LX-Library
@@ -129,6 +147,7 @@ https://github.com/felias-fogg/avrCalibrate
 https://github.com/crunchysteve/EdgieD
 https://github.com/nthnn/PortaMob
 https://github.com/nthnn/SIM900
+https://github.com/nthnn/microlzw
 https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
@@ -269,7 +288,7 @@ https://github.com/5N44P/ht1621-7-seg
 https://github.com/5pIO/BLESerial
 https://github.com/608/CH55xSwitchControl
 https://github.com/8059blank/CytronPikaBot
-https://github.com/80Stepko08/EMFButton
+https://github.com/St3p40/EMFButton
 https://github.com/8bitbuddhist/PixelMaestro
 https://github.com/934virginia/Norman
 https://github.com/9glt/arduino-attiny85-fastpin-library
@@ -317,6 +336,7 @@ https://github.com/AlexTutorial/KrokoTS
 https://github.com/AlexanderLL95/SerialUtil
 https://github.com/AlexandreHiroyuki/MovingAveragePlus
 https://github.com/alkonosst/SSLClientESP32
+https://github.com/alkonosst/SettingsManagerESP32.git
 https://github.com/AllWize/allwize
 https://github.com/AllWize/mbus-payload
 https://github.com/AloriumTechnology/UbidotsXLR8
@@ -1280,7 +1300,7 @@ https://github.com/Mm1KEE/SmoothTouch
 https://github.com/MohammedRashad/ArduZ80
 https://github.com/Mokolea/InputDebounce
 https://github.com/MonsieurV/ArduinoPocketGeiger
-https://github.com/Mosiwi/Mosiwi-basic-learning-kit-for-arduino
+https://github.com/Mosiwi/Mosiwi-basic-learning-kit
 https://github.com/MrYsLab/FirmataExpress
 https://github.com/MrYsLab/NanoConnectHcSr04
 https://github.com/MrYsLab/NeoPixelConnect
@@ -1661,6 +1681,7 @@ https://github.com/Reefwing-Software/Reefwing-MSP.git
 https://github.com/Reefwing-Software/Reefwing-Motorshield.git
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
 https://github.com/Reefwing-Software/reefwing_timer.git
+https://github.com/reiniiriarios/arduino-mqtt-looped
 https://github.com/RemoteXY/RemoteXY-Arduino-library
 https://github.com/RexMORE/MOREbot_Games
 https://github.com/RexMORE/MOREbot_Library
@@ -1803,6 +1824,7 @@ https://github.com/RobTillaart/Max44009
 https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MultiMap
 https://github.com/RobTillaart/Multiplex
+https://github.com/RobTillaart/NeumannCorrector
 https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/PAR27979
 https://github.com/RobTillaart/PCA9551
@@ -2181,7 +2203,6 @@ https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab
 https://github.com/SunjunKim/PMW3360
 https://github.com/Suraj151/esp8266-framework
 https://github.com/SvenRosvall/SignalControl
-https://github.com/Syncano/syncano-arduino
 https://github.com/Syncano/syncano-arduino
 https://github.com/SyntaxHarvy/HACTimers
 https://github.com/SyntaxHarvy/HACWifiManager
@@ -2649,6 +2670,7 @@ https://github.com/adafruit/WaveHC
 https://github.com/adafruit/arduino-CAN
 https://github.com/adafruit/Adafruit_Debounce
 https://github.com/adafruit/Adafruit_ADS7830
+https://github.com/adafruit/Adafruit_FT5336
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
@@ -3368,6 +3390,7 @@ https://github.com/david1983/eBtn
 https://github.com/davidchatting/Approximate
 https://github.com/davidepalladino/AnalogIO-Arduino
 https://github.com/davidepalladino/Button-Arduino
+https://github.com/DavidHurtadoBanda/Salesforce-Library
 https://github.com/davidwhitney/snakelights
 https://github.com/dawidchyrzynski/arduino-home-assistant
 https://github.com/deltarobotone/one_system_library
@@ -3597,6 +3620,8 @@ https://github.com/fabriziop/TalkingLED
 https://github.com/fabriziop/aTalkArduino
 https://github.com/facts-engineering/P1AM
 https://github.com/facts-engineering/ViewMarq
+https://github.com/facts-engineering/PCF8563_RTC
+https://github.com/facts-engineering/AT24MAC_EEPROM
 https://github.com/fanfanlatulipe26/XGZP6897D
 https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatkhrus/TeslaCloud
@@ -3737,7 +3762,7 @@ https://github.com/gpb01/NVSRAM
 https://github.com/gpb01/SerialCmd
 https://github.com/gpb01/wdt_samd21
 https://github.com/gpoolb/ads1148
-https://github.com/gq97a6/IoT_Modules-Buttons
+https://github.com/gq97a6/arduino_buttons
 https://github.com/grafana/arduino-prom-loki-transport
 https://github.com/grafana/arduino-snappy-proto
 https://github.com/grafana/loki-arduino
@@ -3921,6 +3946,7 @@ https://github.com/jandelgado/jled-pca9685-hal
 https://github.com/jandelgado/log4arduino
 https://github.com/jandrassy/ArduinoOTA
 https://github.com/jandrassy/EthernetENC
+https://github.com/jandrassy/NetApiHelpers
 https://github.com/jandrassy/StreamLib
 https://github.com/jandrassy/TelnetStream
 https://github.com/jandrassy/UnoWiFiDevEdSerial1
@@ -4775,7 +4801,7 @@ https://github.com/ms-iot/virtual-shields-arduino
 https://github.com/mt-elektrik/MteCore
 https://github.com/mudmin/ESPCanary
 https://github.com/musicplayer0/solar2lunar
-https://github.com/mustafakemalgilor/tdslite
+https://github.com/tdslite/tdslite
 https://github.com/muwerk/mufonts
 https://github.com/muwerk/munet
 https://github.com/muwerk/mupplet-core
@@ -5121,7 +5147,7 @@ https://github.com/red-scorp/SoftSPIB
 https://github.com/redkea/arduino-library
 https://github.com/redPanther/CQRobotTDS
 https://github.com/regimantas/Oversampling
-https://github.com/rei-vilo/PDLS_EXT3_Basic
+https://github.com/rei-vilo/PDLS_EXT3_Basic_Global
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch
 https://github.com/remicaumette/esp8266-redis
@@ -5203,6 +5229,7 @@ https://github.com/sakabug/Bugtton
 https://github.com/sakuraio/SakuraIOArduino
 https://github.com/sakura-internet/sipf-arduino-client
 https://github.com/salvadorrueda/SerialMP3Player
+https://github.com/Sam4uk/CRSF
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
@@ -5530,6 +5557,7 @@ https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
 https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
+https://github.com/sparkfun/SparkFun_Toolkit
 https://github.com/sparkfun/phant-arduino
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
 https://github.com/spicajames/Rtttl
@@ -5755,7 +5783,6 @@ https://github.com/thijse/Arduino-EEPROMEx
 https://github.com/thijse/Arduino-Log
 https://github.com/thingSoC/embedis
 https://github.com/thinger-io/Arduino-Library
-https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/ClimaStick
 https://github.com/thinger-io/Core32
 https://github.com/thingface/arduino
@@ -6170,6 +6197,7 @@ https://github.com/neittien0110/siotcore_sdk_v2
 https://github.com/glutio/Eventfun
 https://github.com/mhorimoto/M304-lib
 https://github.com/rm5248/liblcc-arduino
+https://github.com/rm5248/m95-eeprom-arduino
 https://github.com/pablomarquez76/AnalogWrite_ESP32
 https://github.com/SNMetamorph/FutabaVfdM202MD10C
 https://github.com/suratin27/MiniPLC_FX2N
@@ -6291,6 +6319,7 @@ https://github.com/Xairooo/SimpleTime
 https://github.com/ripred/MyKeywords
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_chainableled
 https://github.com/ArtronShop/IOXESP32Audio
+https://github.com/rnrobles/esc-thermal-printer-ble
 https://github.com/fellipecouto/ButtonControl
 https://github.com/BestModules-Libraries/BM22S2021-1
 https://github.com/BestModules-Libraries/BM22S4221-1
@@ -6418,5 +6447,30 @@ https://github.com/jmparatte/jm_crc-ccitt
 https://github.com/hpsaturn/espnow-joystick
 https://github.com/koendv/FloatToString
 https://github.com/boeserfrosch/GuL_Plantower
+https://github.com/boeserfrosch/GuL_NovaFitness
+https://github.com/boeserfrosch/GuL_TI_Humidity
 https://github.com/Zeppelin500/MBusinoLib
 https://github.com/m5stack/M5Unit-ToF4M
+https://github.com/MOMIZICH/Shift_Register_Controller
+https://github.com/franeum/MicroMidiDevices
+https://github.com/franeum/TI_SN76489
+https://github.com/pxsty0/deneyapkart.agent.lib
+https://github.com/AdamJHowell/ArrayManager
+https://github.com/ArtronShop/ArtronShop_LineNotify
+https://github.com/skyfroger/RLab
+https://github.com/Frai13/EasIno
+https://github.com/GreenLeafLocal/HydroinoJobMgr
+https://github.com/dev-board-tech/lvglCpp
+https://github.com/kamilpajak/VirtualTherm
+https://github.com/chrmlinux/tinyCommand
+https://github.com/KurtE/MemoryHexDump.git
+https://github.com/DCC-EX/DCCEXProtocol
+https://github.com/ArtronShop/ATD3.5-S3_Library
+https://github.com/s-light/slight_mapping
+https://github.com/s-light/slight_easing
+https://github.com/AlfredoSystems/PestoLink-Receive
+https://github.com/NicolasNewman/ArgParse
+https://github.com/PU2REO/Si5351ArduinoLite
+https://github.com/hpsaturn/MultiFuncShield-Library
+https://github.com/arduino-libraries/Arduino_PF1550
+https://github.com/m5stack/M5StickCPlus2
