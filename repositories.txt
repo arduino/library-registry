@@ -6477,3 +6477,4 @@ https://github.com/hpsaturn/MultiFuncShield-Library
 https://github.com/arduino-libraries/Arduino_PF1550
 https://github.com/m5stack/M5StickCPlus2
 https://github.com/he0119/arduino-miio
+https://github.com/m-shintaro/RTC_RX8025NB
