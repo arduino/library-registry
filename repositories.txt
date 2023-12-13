@@ -712,6 +712,7 @@ https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
 https://github.com/ETLCPP/etl-arduino
+https://github.com/DarkWizarD24/fmt-arduino
 https://github.com/EasyG0ing1/BlockNot
 https://github.com/EasyG0ing1/SimpleEncoder
 https://github.com/EasyIoT-BR/Easyiot-Esp8266
