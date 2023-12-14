@@ -6585,3 +6585,4 @@ https://github.com/tatemazer/AcaiaArduinoBLE.git|Contributed|AcaiaArduinoBLE
 https://github.com/sparkfun/SparkFun_AS7331_Arduino_Library.git|Contributed|SparkFun AS7331 Arduino Library
 https://github.com/felias-fogg/FlexWire.git|Contributed|FlexWire
 https://github.com/Fourier-git/ADXL372.git|Contributed|ADXL372
+https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library.git|Contributed|SparkFun UM980 Triband RTK GNSS Arduino Library
