@@ -6583,3 +6583,4 @@ https://github.com/sh123/esp32_opus_arduino.git|Contributed|esp32_opus
 https://github.com/DarkWizarD24/fmt-arduino.git|Contributed|fmt
 https://github.com/tatemazer/AcaiaArduinoBLE.git|Contributed|AcaiaArduinoBLE
 https://github.com/sparkfun/SparkFun_AS7331_Arduino_Library.git|Contributed|SparkFun AS7331 Arduino Library
+https://github.com/felias-fogg/FlexWire.git|Contributed|FlexWire
