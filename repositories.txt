@@ -5543,6 +5543,7 @@ https://github.com/sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6
 https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library
+https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
 https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library
