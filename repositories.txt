@@ -6481,3 +6481,4 @@ https://github.com/m5stack/M5StickCPlus2
 https://github.com/he0119/arduino-miio
 https://github.com/m-shintaro/RTC_RX8025NB
 https://github.com/sh123/esp32_opus_arduino
+https://github.com/PrinceBot-Ratthanin/NKP_V2-arduinoAPI
