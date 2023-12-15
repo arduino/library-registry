@@ -2248,6 +2248,7 @@ https://github.com/TheFidax/digitalPinFast
 https://github.com/TheJLifeX/ScrollingText8x8Display
 https://github.com/TheNitek/CatGFX
 https://github.com/TheNitek/NDEF
+https://github.com/TheNitek/XPT2046_Bitbang_Arduino_Library
 https://github.com/TheSpaceDragon/rdv-gy512
 https://github.com/TheThingsNetwork/arduino-device-lib
 https://github.com/TheThingsNetwork/arduino-node-lib
