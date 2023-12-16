@@ -2679,6 +2679,7 @@ https://github.com/adafruit/Adafruit_Debounce
 https://github.com/adafruit/Adafruit_ADS7830
 https://github.com/adafruit/Adafruit_FT5336
 https://github.com/adafruit/Adafruit_MCP3421
+https://github.com/adafruit/Adafruit_xCA9554
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
