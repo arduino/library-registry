@@ -6589,3 +6589,4 @@ https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library.git|Contribute
 https://github.com/CoreX-IoT/corex-firmware.git|Contributed|CoreX
 https://github.com/TheNitek/XPT2046_Bitbang_Arduino_Library.git|Contributed|XPT2046_Bitbang_Slim
 https://github.com/handmade0octopus/ESP32-TWAI-CAN.git|Contributed|ESP32-TWAI-CAN
+https://github.com/adafruit/Adafruit_MCP3421.git|Recommended|Adafruit MCP3421
