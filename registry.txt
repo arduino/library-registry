@@ -6592,3 +6592,5 @@ https://github.com/handmade0octopus/ESP32-TWAI-CAN.git|Contributed|ESP32-TWAI-CA
 https://github.com/adafruit/Adafruit_MCP3421.git|Recommended|Adafruit MCP3421
 https://github.com/adafruit/Adafruit_xCA9554.git|Recommended|Adafruit XCA9554
 https://github.com/RobTillaart/I2C_LCD.git|Contributed|I2C_LCD
+https://github.com/dejwk/roo_flags.git|Contributed|roo_flags
+https://github.com/dejwk/roo_logging.git|Contributed|roo_logging
