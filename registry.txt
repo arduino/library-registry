@@ -6105,7 +6105,7 @@ https://github.com/fbiego/chronos-esp32.git|Contributed|ChronosESP32
 https://github.com/namino-cc/Namino_Library.git|Contributed|Namino_Industrial_Boards
 https://github.com/Aquatwix/PD-10LX-Library.git|Contributed|PD-10LX-Library
 https://github.com/bonezegei/Bonezegei_List.git|Contributed|Bonezegei_List
-https://github.com/NodeppOficial/uNodepp.git|Contributed|nodepp
+https://github.com/NodeppOficial/nodepp-arduino.git|Contributed|nodepp
 https://github.com/fbiego/Timber.git|Contributed|Timber
 https://github.com/DeimosHall/RP2040_CPU_Temperature.git|Contributed|Raspberry Pi Pico CPU Temperature
 https://github.com/RobTillaart/PCA9553.git|Contributed|PCA9553
