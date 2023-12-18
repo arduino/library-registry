@@ -6494,3 +6494,4 @@ https://github.com/he0119/arduino-miio
 https://github.com/m-shintaro/RTC_RX8025NB
 https://github.com/sh123/esp32_opus_arduino
 https://github.com/felias-fogg/FlexWire
+https://github.com/scheffield/sic45x-driver
