@@ -6595,3 +6595,4 @@ https://github.com/RobTillaart/I2C_LCD.git|Contributed|I2C_LCD
 https://github.com/dejwk/roo_flags.git|Contributed|roo_flags
 https://github.com/dejwk/roo_logging.git|Contributed|roo_logging
 https://github.com/AsproCompany/AsproSolarShield.git|Contributed|AsproSolarShield
+https://github.com/scheffield/sic45x-driver.git|Contributed|SiC45xDriver
