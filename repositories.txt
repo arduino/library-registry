@@ -2586,6 +2586,7 @@ https://github.com/adafruit/Adafruit_PM25AQI
 https://github.com/adafruit/Adafruit_PixelDust
 https://github.com/adafruit/Adafruit_Pixie
 https://github.com/adafruit/Adafruit_Protomatter
+https://github.com/adafruit/Adafruit_PyCamera
 https://github.com/adafruit/Adafruit_RA8875
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_SGP30
