@@ -6597,3 +6597,4 @@ https://github.com/dejwk/roo_logging.git|Contributed|roo_logging
 https://github.com/AsproCompany/AsproSolarShield.git|Contributed|AsproSolarShield
 https://github.com/scheffield/sic45x-driver.git|Contributed|SiC45xDriver
 https://github.com/adafruit/Adafruit_PyCamera.git|Recommended|Adafruit PyCamera Library
+https://github.com/GabyGold67/SevenSegDisplaysRTOSLib.git|Contributed|SevenSegDisplays
