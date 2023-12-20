@@ -1,4 +1,9 @@
 https://github.com/rogerjames99/json2asw-arduino
+https://github.com/AsproCompany/AsproSolarShield
+https://github.com/handmade0octopus/ESP32-TWAI-CAN
+https://github.com/CoreX-IoT/corex-firmware
+https://github.com/Fourier-git/ADXL372
+https://github.com/tatemazer/AcaiaArdu
 https://github.com/littleBitsman/Asynchrony
 https://github.com/alireza7575/MKS_SERVO57
 https://github.com/amiga68k/electuno
@@ -13,6 +18,8 @@ https://github.com/DefHam140/IOTClient
 https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_display
+https://github.com/dejwk/roo_flags
+https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
@@ -713,6 +720,7 @@ https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
 https://github.com/ETLCPP/etl-arduino
+https://github.com/DarkWizarD24/fmt-arduino
 https://github.com/EasyG0ing1/BlockNot
 https://github.com/EasyG0ing1/SimpleEncoder
 https://github.com/EasyIoT-BR/Easyiot-Esp8266
@@ -1786,6 +1794,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
+https://github.com/RobTillaart/I2C_LCD
 https://github.com/RobTillaart/I2C_SCANNER
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
@@ -1828,6 +1837,7 @@ https://github.com/RobTillaart/Multiplex
 https://github.com/RobTillaart/NeumannCorrector
 https://github.com/RobTillaart/Optoma
 https://github.com/RobTillaart/PAR27979
+https://github.com/RobTillaart/PCA9549
 https://github.com/RobTillaart/PCA9551
 https://github.com/RobTillaart/PCA9552
 https://github.com/RobTillaart/PCA9553
@@ -2244,6 +2254,7 @@ https://github.com/TheFidax/digitalPinFast
 https://github.com/TheJLifeX/ScrollingText8x8Display
 https://github.com/TheNitek/CatGFX
 https://github.com/TheNitek/NDEF
+https://github.com/TheNitek/XPT2046_Bitbang_Arduino_Library
 https://github.com/TheSpaceDragon/rdv-gy512
 https://github.com/TheThingsNetwork/arduino-device-lib
 https://github.com/TheThingsNetwork/arduino-node-lib
@@ -2576,6 +2587,7 @@ https://github.com/adafruit/Adafruit_PM25AQI
 https://github.com/adafruit/Adafruit_PixelDust
 https://github.com/adafruit/Adafruit_Pixie
 https://github.com/adafruit/Adafruit_Protomatter
+https://github.com/adafruit/Adafruit_PyCamera
 https://github.com/adafruit/Adafruit_RA8875
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_SGP30
@@ -2672,6 +2684,8 @@ https://github.com/adafruit/arduino-CAN
 https://github.com/adafruit/Adafruit_Debounce
 https://github.com/adafruit/Adafruit_ADS7830
 https://github.com/adafruit/Adafruit_FT5336
+https://github.com/adafruit/Adafruit_MCP3421
+https://github.com/adafruit/Adafruit_xCA9554
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
@@ -3329,6 +3343,7 @@ https://github.com/cotestatnt/DigitalSignal
 https://github.com/cotestatnt/YA_FSM
 https://github.com/cotestatnt/esp-fs-webserver
 https://github.com/cotestatnt/async-esp-fs-webserver
+https://github.com/cotestatnt/Arduino-MySQL
 https://github.com/creatingnull/null-packet-comms-arduino
 https://github.com/cristborges/IRRemoteControl
 https://github.com/crmoratelli/SupmeaDO7016
@@ -5398,6 +5413,7 @@ https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS6212_Qwiic_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7265x_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS726X_Arduino_Library
+https://github.com/sparkfun/SparkFun_AS7331_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library
@@ -5538,6 +5554,7 @@ https://github.com/sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6
 https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library
+https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
 https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library
@@ -6474,3 +6491,10 @@ https://github.com/NicolasNewman/ArgParse
 https://github.com/PU2REO/Si5351ArduinoLite
 https://github.com/hpsaturn/MultiFuncShield-Library
 https://github.com/arduino-libraries/Arduino_PF1550
+https://github.com/m5stack/M5StickCPlus2
+https://github.com/he0119/arduino-miio
+https://github.com/m-shintaro/RTC_RX8025NB
+https://github.com/sh123/esp32_opus_arduino
+https://github.com/felias-fogg/FlexWire
+https://github.com/scheffield/sic45x-driver
+https://github.com/GabyGold67/SevenSegDisplaysRTOSLib
