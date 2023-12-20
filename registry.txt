@@ -6598,3 +6598,4 @@ https://github.com/AsproCompany/AsproSolarShield.git|Contributed|AsproSolarShiel
 https://github.com/scheffield/sic45x-driver.git|Contributed|SiC45xDriver
 https://github.com/adafruit/Adafruit_PyCamera.git|Recommended|Adafruit PyCamera Library
 https://github.com/GabyGold67/SevenSegDisplaysRTOSLib.git|Contributed|SevenSegDisplays
+https://github.com/RobTillaart/geomath.git|Contributed|geomath
