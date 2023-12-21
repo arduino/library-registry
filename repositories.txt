@@ -6498,3 +6498,4 @@ https://github.com/sh123/esp32_opus_arduino
 https://github.com/felias-fogg/FlexWire
 https://github.com/scheffield/sic45x-driver
 https://github.com/GabyGold67/SevenSegDisplaysRTOSLib
+https://github.com/randomouscrap98/arduboy_raycast
