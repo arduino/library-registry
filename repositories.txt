@@ -5519,6 +5519,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Step_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_TMF882X_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Twist_Arduino_Library
+https://github.com/sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect
 https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library
 https://github.com/sparkfun/SparkFun_RHT03_Arduino_Library
