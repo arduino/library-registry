@@ -6603,3 +6603,4 @@ https://github.com/randomouscrap98/arduboy_raycast.git|Contributed|ArduboyRaycas
 https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git|Contributed|T-Display-AMOLED
 https://github.com/alireza7575/MKS_SERVO42.git|Contributed|MKS_SERVO42
 https://github.com/GyverLibs/StringUtils.git|Contributed|StringUtils
+https://github.com/sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library.git|Contributed|SparkFun Qwiic Ultrasonic Arduino Library
