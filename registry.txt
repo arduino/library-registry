@@ -6600,3 +6600,4 @@ https://github.com/adafruit/Adafruit_PyCamera.git|Recommended|Adafruit PyCamera 
 https://github.com/GabyGold67/SevenSegDisplaysRTOSLib.git|Contributed|SevenSegDisplays
 https://github.com/RobTillaart/geomath.git|Contributed|geomath
 https://github.com/randomouscrap98/arduboy_raycast.git|Contributed|ArduboyRaycast
+https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git|Contributed|T-Display-AMOLED
