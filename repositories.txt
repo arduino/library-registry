@@ -1,4 +1,4 @@
-https://github.com/waver/waver-library
+https://github.com/usblink/waver-library
 https://github.com/AsproCompany/AsproSolarShield
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/CoreX-IoT/corex-firmware
