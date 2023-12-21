@@ -1,3 +1,5 @@
+https://github.com/alireza7575/MKS_SERVO42
+https://github.com/AsproCompany/AsproSolarShield
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/CoreX-IoT/corex-firmware
 https://github.com/Fourier-git/ADXL372
@@ -16,6 +18,8 @@ https://github.com/DefHam140/IOTClient
 https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_display
+https://github.com/dejwk/roo_flags
+https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
@@ -1790,6 +1794,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
+https://github.com/RobTillaart/I2C_LCD
 https://github.com/RobTillaart/I2C_SCANNER
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
@@ -1900,6 +1905,7 @@ https://github.com/RobTillaart/dateTimeHelpers
 https://github.com/RobTillaart/ellipse
 https://github.com/RobTillaart/fast_math
 https://github.com/RobTillaart/float16
+https://github.com/RobTillaart/geomath
 https://github.com/RobTillaart/infiniteAverage
 https://github.com/RobTillaart/integer24
 https://github.com/RobTillaart/map2colour
@@ -2582,6 +2588,7 @@ https://github.com/adafruit/Adafruit_PM25AQI
 https://github.com/adafruit/Adafruit_PixelDust
 https://github.com/adafruit/Adafruit_Pixie
 https://github.com/adafruit/Adafruit_Protomatter
+https://github.com/adafruit/Adafruit_PyCamera
 https://github.com/adafruit/Adafruit_RA8875
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_SGP30
@@ -2678,6 +2685,8 @@ https://github.com/adafruit/arduino-CAN
 https://github.com/adafruit/Adafruit_Debounce
 https://github.com/adafruit/Adafruit_ADS7830
 https://github.com/adafruit/Adafruit_FT5336
+https://github.com/adafruit/Adafruit_MCP3421
+https://github.com/adafruit/Adafruit_xCA9554
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
@@ -6488,3 +6497,7 @@ https://github.com/he0119/arduino-miio
 https://github.com/m-shintaro/RTC_RX8025NB
 https://github.com/sh123/esp32_opus_arduino
 https://github.com/felias-fogg/FlexWire
+https://github.com/scheffield/sic45x-driver
+https://github.com/GabyGold67/SevenSegDisplaysRTOSLib
+https://github.com/randomouscrap98/arduboy_raycast
+https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git
