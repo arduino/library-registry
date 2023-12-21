@@ -6602,3 +6602,4 @@ https://github.com/RobTillaart/geomath.git|Contributed|geomath
 https://github.com/randomouscrap98/arduboy_raycast.git|Contributed|ArduboyRaycast
 https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git|Contributed|T-Display-AMOLED
 https://github.com/alireza7575/MKS_SERVO42.git|Contributed|MKS_SERVO42
+https://github.com/GyverLibs/StringUtils.git|Contributed|StringUtils
