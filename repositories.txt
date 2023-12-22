@@ -88,6 +88,7 @@ https://github.com/RobertByrnes/Emulation
 https://github.com/sachinmunasinghe/FirebaseRealtime
 https://github.com/kevinlutzer/Arduino-PM1006K/
 https://github.com/oggysaud245/haversine
+https://github.com/GyverLibs/GSON
 https://github.com/GyverLibs/StringUtils
 https://github.com/GyverLibs/GyverSegment
 https://github.com/GyverLibs/GyverIO
