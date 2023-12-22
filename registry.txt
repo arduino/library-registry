@@ -6606,3 +6606,4 @@ https://github.com/GyverLibs/StringUtils.git|Contributed|StringUtils
 https://github.com/sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library.git|Contributed|SparkFun Qwiic Ultrasonic Arduino Library
 https://github.com/usblink/waver.git|Contributed|waver
 https://github.com/RobTillaart/MCP_POT.git|Contributed|MCP_POT
+https://github.com/GyverLibs/GSON.git|Contributed|GSON
