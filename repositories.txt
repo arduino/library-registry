@@ -1,4 +1,4 @@
-https://gothib.com/rogerjames99/json2asw-arduino
+https://github.com/rogerjames99/json2asw-arduino
 https://github.com/usblink/waver
 https://github.com/alireza7575/MKS_SERVO42
 https://github.com/AsproCompany/AsproSolarShield
