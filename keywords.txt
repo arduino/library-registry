@@ -1,0 +1,18 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ultrasonic	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+read	KEYWORD2
+distanceRead	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CM	LITERAL1	Constants
+INC	LITERAL1	Constants
+
