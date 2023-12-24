@@ -1830,6 +1830,7 @@ https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
 https://github.com/RobTillaart/MS5611
 https://github.com/RobTillaart/MS5611_SPI
+https://github.com/RobTillaart/MS5837
 https://github.com/RobTillaart/MSP300
 https://github.com/RobTillaart/MT8870
 https://github.com/RobTillaart/MTP40C
