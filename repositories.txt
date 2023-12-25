@@ -6510,3 +6510,4 @@ https://github.com/randomouscrap98/arduboy_raycast
 https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git
 https://github.com/siroshy/MovingPlatform
 https://github.com/AlexandreHiroyuki/DataTome
+https://github.com/afpineda/NuS-NimBLE-Serial
