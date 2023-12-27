@@ -6614,3 +6614,4 @@ https://github.com/RobTillaart/MS5837.git|Contributed|MS5837
 https://github.com/afpineda/NuS-NimBLE-Serial.git|Contributed|NuS-NimBLE-Serial
 https://github.com/aelmendorf/eeprom_wear_level.git|Contributed|EEPROM_WL
 https://github.com/N4rcissist/OtaHelper.git|Contributed|OtaHelper
+https://github.com/RobTillaart/AD5248.git|Contributed|AD5248
