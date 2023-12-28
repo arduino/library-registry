@@ -4918,7 +4918,6 @@ https://github.com/nullptr-deref/ms5540c-library
 https://github.com/nusabot-iot/NusabotSimpleTimer
 https://github.com/nusabot-iot/dashboard-arduino
 https://github.com/nw2s/nw2s_portenta_SSD1322
-https://github.com/nhluan37/SerialMP3
 https://github.com/nwb99/MCP4151
 https://github.com/nyampass/ArduinoESPAT-Library
 https://github.com/nyampass/HaLake-M5Stack-Library
