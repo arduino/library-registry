@@ -1,3 +1,4 @@
+https://github.com/N4rcissist/OtaHelper
 https://github.com/aelmendorf/eeprom_wear_level
 https://github.com/rogerjames99/json2asw-arduino
 https://github.com/usblink/waver
@@ -143,7 +144,7 @@ https://github.com/tedtoal/wiring_analog_SAMD_TT
 https://github.com/tedtoal/msToString
 https://github.com/tedtoal/floatToString
 https://github.com/YoupiLab/YoupiLabESP32_IOT
-https://github.com/NodeppOficial/uNodepp
+https://github.com/NodeppOficial/nodepp-arduino
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/Aquatwix/PD-10LX-Library
@@ -1711,6 +1712,7 @@ https://github.com/RobTillaart/AD5144A
 https://github.com/RobTillaart/AD520X
 https://github.com/RobTillaart/AD5245
 https://github.com/RobTillaart/AD5246
+https://github.com/RobTillaart/AD5248
 https://github.com/RobTillaart/AD5263
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD56X8
