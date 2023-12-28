@@ -6616,3 +6616,4 @@ https://github.com/aelmendorf/eeprom_wear_level.git|Contributed|EEPROM_WL
 https://github.com/N4rcissist/OtaHelper.git|Contributed|OtaHelper
 https://github.com/RobTillaart/AD5248.git|Contributed|AD5248
 https://github.com/nhluan37/SerialMP3.git|Contributed|SerialMP3
+https://github.com/RobTillaart/KT0803.git|Contributed|KT0803
