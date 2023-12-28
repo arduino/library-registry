@@ -6619,3 +6619,4 @@ https://github.com/nhluan37/SerialMP3.git|Contributed|SerialMP3
 https://github.com/RobTillaart/KT0803.git|Contributed|KT0803
 https://github.com/noranraskin/MT6701.git|Contributed|MT6701
 https://github.com/eloquentarduino/EloquentTensorFlowCortexM.git|Contributed|EloquentTensorFlowCortexM
+https://github.com/smolltalk/FileConfig.git|Contributed|FileConfig
