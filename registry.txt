@@ -6621,3 +6621,4 @@ https://github.com/noranraskin/MT6701.git|Contributed|MT6701
 https://github.com/eloquentarduino/EloquentTensorFlowCortexM.git|Contributed|EloquentTensorFlowCortexM
 https://github.com/smolltalk/FileConfig.git|Contributed|FileConfig
 https://github.com/Crazy-Max-Blog/CrazyHC595.git|Contributed|CrazyHC595
+https://github.com/kmilo17pet/qlibs-cpp.git|Contributed|qlibs
