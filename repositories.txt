@@ -1,4 +1,3 @@
-https://github.com/N4rcissist/OtaHelper
 https://github.com/aelmendorf/eeprom_wear_level
 https://github.com/rogerjames99/json2asw-arduino
 https://github.com/usblink/waver
