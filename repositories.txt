@@ -4924,6 +4924,7 @@ https://github.com/nyampass/HaLake-M5Stack-Library
 https://github.com/nyampass/HaLakeKit-Library
 https://github.com/nyampass/HaLakeKitFirst-Library
 https://github.com/nyannkov/Psgino
+https://github.com/nhluan37/SerialMP3
 https://github.com/oberonspace/krypton
 https://github.com/ochiengotieno304/africastalking-esp8266
 https://github.com/ocrdu/Arduino_SAMD21_Audio_Player
