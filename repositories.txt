@@ -6519,6 +6519,7 @@ https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git
 https://github.com/siroshy/MovingPlatform
 https://github.com/AlexandreHiroyuki/DataTome
 https://github.com/afpineda/NuS-NimBLE-Serial
+https://github.com/shigobu/CH9329_Keyboard
 https://github.com/noranraskin/MT6701
 https://github.com/smolltalk/FileConfig
 https://github.com/GuruSR/SmallRTC
