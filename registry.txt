@@ -6626,3 +6626,4 @@ https://github.com/GuruSR/SmallRTC.git|Contributed|SmallRTC
 https://github.com/shigobu/CH9329_Keyboard.git|Contributed|CH9329_Keyboard
 https://github.com/mkeras/pubsubclient.git|Contributed|PubSubClient_for_protobuf
 https://github.com/H1Jam/Bind.git|Contributed|Bind
+https://github.com/pxsty0/pxserv.lib.git|Contributed|PxServ
