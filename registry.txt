@@ -6628,3 +6628,4 @@ https://github.com/mkeras/pubsubclient.git|Contributed|PubSubClient_for_protobuf
 https://github.com/H1Jam/Bind.git|Contributed|Bind
 https://github.com/pxsty0/pxserv.lib.git|Contributed|PxServ
 https://github.com/dejwk/roo_icons.git|Contributed|roo_icons
+https://github.com/RobTillaart/DS2401.git|Contributed|DS2401
