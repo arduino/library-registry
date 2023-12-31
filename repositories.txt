@@ -1774,6 +1774,7 @@ https://github.com/RobTillaart/DRV8825
 https://github.com/RobTillaart/DS1821
 https://github.com/RobTillaart/DS18B20
 https://github.com/RobTillaart/DS18B20_INT
+https://github.com/RobTillaart/DS2401
 https://github.com/RobTillaart/DS28CM00
 https://github.com/RobTillaart/DistanceTable
 https://github.com/RobTillaart/FLE
