@@ -1,3 +1,4 @@
+https://github.com/martinvichnal/AntiDelay
 https://github.com/kmilo17pet/qlibs-cpp
 https://github.com/eloquentarduino/EloquentTensorFlowCortexM
 https://github.com/N4rcissist/OtaHelper
