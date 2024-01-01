@@ -6631,3 +6631,4 @@ https://github.com/dejwk/roo_icons.git|Contributed|roo_icons
 https://github.com/RobTillaart/DS2401.git|Contributed|DS2401
 https://github.com/martinvichnal/AntiDelay.git|Contributed|AntiDelay
 https://github.com/karol-brejna-i/RemoteDebug.git|Contributed|RemoteDebug2
+https://github.com/thelastoutpostworkshop/gpio_viewer.git|Contributed|GPIOViewer
