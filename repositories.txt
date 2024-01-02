@@ -466,6 +466,7 @@ https://github.com/Beirdo/Arduino-LM96163
 https://github.com/Beirdo/Arduino-MultiWire
 https://github.com/Beirdo/Arduino-PCA9536
 https://github.com/Beirdo/Arduino-TCA9534
+https://github.com/BelaPlatform/Trill-Arduino
 https://github.com/BertanT/Arduino-RGBWConverter
 https://github.com/Bexin3/GigaScope
 https://github.com/Bexin3/STMSpeeduino
