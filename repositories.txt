@@ -4950,6 +4950,7 @@ https://github.com/offcircuit/SHCSR04
 https://github.com/ogneyar/RussianText_u8g
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/ohad32/FireBase32
+https://github.com/ojx/GigaAudio
 https://github.com/ojx/HTTPed
 https://github.com/olikraus/U8g2_Arduino
 https://github.com/olikraus/U8g2_for_Adafruit_GFX
