@@ -6636,3 +6636,4 @@ https://github.com/firefly-cpp/TCXWriter.git|Contributed|TCXWriter
 https://github.com/ojx/GigaAudio.git|Contributed|GigaAudio
 https://github.com/BelaPlatform/Trill-Arduino.git|Contributed|Trill
 https://github.com/smartpanle/PanelLan_esp32_arduino.git|Contributed|PanelLan
+https://github.com/eloquentarduino/tflm_esp32.git|Contributed|tflm_esp32
