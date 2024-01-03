@@ -6637,3 +6637,4 @@ https://github.com/ojx/GigaAudio.git|Contributed|GigaAudio
 https://github.com/BelaPlatform/Trill-Arduino.git|Contributed|Trill
 https://github.com/smartpanle/PanelLan_esp32_arduino.git|Contributed|PanelLan
 https://github.com/eloquentarduino/tflm_esp32.git|Contributed|tflm_esp32
+https://github.com/eloquentarduino/tflm_cortexm.git|Contributed|tflm_cortexm
