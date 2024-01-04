@@ -5596,6 +5596,7 @@ https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
+https://github.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
