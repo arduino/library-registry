@@ -6640,3 +6640,4 @@ https://github.com/eloquentarduino/tflm_esp32.git|Contributed|tflm_esp32
 https://github.com/eloquentarduino/tflm_cortexm.git|Contributed|tflm_cortexm
 https://github.com/okalachev/mavlink-arduino.git|Contributed|MAVLink
 https://github.com/eloquentarduino/eloquent_rtls.git|Contributed|EloquentRTLS
+https://github.com/RobTillaart/Logistic.git|Contributed|Logistic
