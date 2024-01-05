@@ -3533,6 +3533,7 @@ https://github.com/dok-net/CoopTask
 https://github.com/dok-net/ad5243.git
 https://github.com/dok-net/esp_sds011
 https://github.com/dok-net/tca9544a.git
+https://github.com/dok-net/ghostl.git
 https://github.com/domiluci/LiquidCrystal_NKC
 https://github.com/dominicklee/TrueProx/
 https://github.com/dong-higenis/HS_CAN_485_ESP32
