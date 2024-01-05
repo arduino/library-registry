@@ -1,3 +1,12 @@
+https://github.com/eloquentarduino/eloquent_rtls
+https://github.com/eloquentarduino/tflm_cortexm
+https://github.com/eloquentarduino/tflm_esp32
+https://github.com/martinvichnal/AntiDelay
+https://github.com/kmilo17pet/qlibs-cpp
+https://github.com/eloquentarduino/EloquentTensorFlowCortexM
+https://github.com/N4rcissist/OtaHelper
+https://github.com/aelmendorf/eeprom_wear_level
+https://github.com/rogerjames99/json2asw-arduino
 https://github.com/usblink/waver
 https://github.com/alireza7575/MKS_SERVO42
 https://github.com/AsproCompany/AsproSolarShield
@@ -20,6 +29,7 @@ https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
+https://github.com/dejwk/roo_icons
 https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_scheduler
@@ -141,7 +151,7 @@ https://github.com/tedtoal/wiring_analog_SAMD_TT
 https://github.com/tedtoal/msToString
 https://github.com/tedtoal/floatToString
 https://github.com/YoupiLab/YoupiLabESP32_IOT
-https://github.com/NodeppOficial/uNodepp
+https://github.com/NodeppOficial/nodepp-arduino
 https://github.com/AlexFigas/Didactic-Robot-Project
 https://github.com/MajicDesigns/MD_HX711
 https://github.com/Aquatwix/PD-10LX-Library
@@ -459,6 +469,7 @@ https://github.com/Beirdo/Arduino-LM96163
 https://github.com/Beirdo/Arduino-MultiWire
 https://github.com/Beirdo/Arduino-PCA9536
 https://github.com/Beirdo/Arduino-TCA9534
+https://github.com/BelaPlatform/Trill-Arduino
 https://github.com/BertanT/Arduino-RGBWConverter
 https://github.com/Bexin3/GigaScope
 https://github.com/Bexin3/STMSpeeduino
@@ -954,6 +965,7 @@ https://github.com/GyverLibs/microDS3231
 https://github.com/GyverLibs/microLED
 https://github.com/GyverLibs/microWire
 https://github.com/Crazy-Max-Blog/Crazy_IoTik
+https://github.com/Crazy-Max-Blog/CrazyHC595
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
 https://github.com/HNRobotica/LineTracker5
@@ -1709,6 +1721,7 @@ https://github.com/RobTillaart/AD5144A
 https://github.com/RobTillaart/AD520X
 https://github.com/RobTillaart/AD5245
 https://github.com/RobTillaart/AD5246
+https://github.com/RobTillaart/AD5248
 https://github.com/RobTillaart/AD5263
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD56X8
@@ -1766,6 +1779,7 @@ https://github.com/RobTillaart/DRV8825
 https://github.com/RobTillaart/DS1821
 https://github.com/RobTillaart/DS18B20
 https://github.com/RobTillaart/DS18B20_INT
+https://github.com/RobTillaart/DS2401
 https://github.com/RobTillaart/DS28CM00
 https://github.com/RobTillaart/DistanceTable
 https://github.com/RobTillaart/FLE
@@ -1804,6 +1818,8 @@ https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
 https://github.com/RobTillaart/Interval
 https://github.com/RobTillaart/Kelvin2RGB
+https://github.com/RobTillaart/KT0803
+https://github.com/RobTillaart/Logistic
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LUHN
 https://github.com/RobTillaart/LineFormatter
@@ -1829,6 +1845,7 @@ https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
 https://github.com/RobTillaart/MS5611
 https://github.com/RobTillaart/MS5611_SPI
+https://github.com/RobTillaart/MS5837
 https://github.com/RobTillaart/MSP300
 https://github.com/RobTillaart/MT8870
 https://github.com/RobTillaart/MTP40C
@@ -3516,6 +3533,7 @@ https://github.com/dok-net/CoopTask
 https://github.com/dok-net/ad5243.git
 https://github.com/dok-net/esp_sds011
 https://github.com/dok-net/tca9544a.git
+https://github.com/dok-net/ghostl.git
 https://github.com/domiluci/LiquidCrystal_NKC
 https://github.com/dominicklee/TrueProx/
 https://github.com/dong-higenis/HS_CAN_485_ESP32
@@ -4919,6 +4937,7 @@ https://github.com/nyampass/HaLake-M5Stack-Library
 https://github.com/nyampass/HaLakeKit-Library
 https://github.com/nyampass/HaLakeKitFirst-Library
 https://github.com/nyannkov/Psgino
+https://github.com/nhluan37/SerialMP3
 https://github.com/oberonspace/krypton
 https://github.com/ochiengotieno304/africastalking-esp8266
 https://github.com/ocrdu/Arduino_SAMD21_Audio_Player
@@ -4937,6 +4956,7 @@ https://github.com/offcircuit/SHCSR04
 https://github.com/ogneyar/RussianText_u8g
 https://github.com/oguzkaganyaglioglu/PLCustomDevicesLibrary
 https://github.com/ohad32/FireBase32
+https://github.com/ojx/GigaAudio
 https://github.com/ojx/HTTPed
 https://github.com/olikraus/U8g2_Arduino
 https://github.com/olikraus/U8g2_for_Adafruit_GFX
@@ -5577,6 +5597,7 @@ https://github.com/sparkfun/SparkFun_WiseChip_HUD_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
+https://github.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
@@ -6506,3 +6527,21 @@ https://github.com/scheffield/sic45x-driver
 https://github.com/GabyGold67/SevenSegDisplaysRTOSLib
 https://github.com/randomouscrap98/arduboy_raycast
 https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series.git
+https://github.com/siroshy/MovingPlatform
+https://github.com/AlexandreHiroyuki/DataTome
+https://github.com/afpineda/NuS-NimBLE-Serial
+https://github.com/shigobu/CH9329_Keyboard
+https://github.com/noranraskin/MT6701
+https://github.com/smolltalk/FileConfig
+https://github.com/GuruSR/SmallRTC
+https://github.com/mkeras/pubsubclient
+https://github.com/H1Jam/Bind
+https://github.com/pxsty0/pxserv.lib
+https://github.com/karol-brejna-i/RemoteDebug
+https://github.com/thelastoutpostworkshop/gpio_viewer
+https://github.com/firefly-cpp/TCXWriter
+https://github.com/smartpanle/PanelLan_esp32_arduino
+https://github.com/okalachev/mavlink-arduino
+https://github.com/rppicomidi/usb_midi_host
+https://github.com/bertbaron/arduino-animation-library
+https://github.com/rppicomidi/EZ_USB_MIDI_HOST
