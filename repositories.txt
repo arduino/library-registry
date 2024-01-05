@@ -6544,3 +6544,4 @@ https://github.com/smartpanle/PanelLan_esp32_arduino
 https://github.com/okalachev/mavlink-arduino
 https://github.com/rppicomidi/usb_midi_host
 https://github.com/bertbaron/arduino-animation-library
+https://github.com/rppicomidi/EZ_USB_MIDI_HOST
