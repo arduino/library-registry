@@ -6645,3 +6645,4 @@ https://github.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library.git|Contrib
 https://github.com/rppicomidi/usb_midi_host.git|Contributed|usb_midi_host
 https://github.com/dok-net/ghostl.git|Contributed|ghostl
 https://github.com/bertbaron/arduino-animation-library.git|Contributed|Animation
+https://github.com/rppicomidi/EZ_USB_MIDI_HOST.git|Contributed|EZ_USB_MIDI_HOST
