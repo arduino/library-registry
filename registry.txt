@@ -6642,3 +6642,4 @@ https://github.com/okalachev/mavlink-arduino.git|Contributed|MAVLink
 https://github.com/eloquentarduino/eloquent_rtls.git|Contributed|EloquentRTLS
 https://github.com/RobTillaart/Logistic.git|Contributed|Logistic
 https://github.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library.git|Contributed|SparkFun u-blox Cellular Arduino Library
+https://github.com/rppicomidi/usb_midi_host.git|Contributed|usb_midi_host
