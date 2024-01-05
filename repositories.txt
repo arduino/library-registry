@@ -6541,3 +6541,4 @@ https://github.com/thelastoutpostworkshop/gpio_viewer
 https://github.com/firefly-cpp/TCXWriter
 https://github.com/smartpanle/PanelLan_esp32_arduino
 https://github.com/okalachev/mavlink-arduino
+https://github.com/rppicomidi/usb_midi_host
