@@ -6649,3 +6649,4 @@ https://github.com/rppicomidi/EZ_USB_MIDI_HOST.git|Contributed|EZ_USB_MIDI_HOST
 https://github.com/GyverLibs/GyverShift.git|Contributed|GyverShift
 https://github.com/men100/MJScore.git|Contributed|MJScore
 https://github.com/u-fire/HABridge.git|Contributed|Microfire_HABridge
+https://github.com/Dono7/DonoLed.git|Contributed|DonoLed
