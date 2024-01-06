@@ -293,6 +293,7 @@ https://github.com/1452206376/CH9328-Keyboard
 https://github.com/1IoT/cloud-connectivity-lib
 https://github.com/256dpi/arduino-mqtt
 https://github.com/2dom/PxMatrix
+https://github.com/tort32/PxMatrix
 https://github.com/4-20ma/I2cDiscreteIoExpander
 https://github.com/4-20ma/ModbusMaster
 https://github.com/4-20ma/i2c_adc_ads7828
