@@ -6647,3 +6647,4 @@ https://github.com/dok-net/ghostl.git|Contributed|ghostl
 https://github.com/bertbaron/arduino-animation-library.git|Contributed|Animation
 https://github.com/rppicomidi/EZ_USB_MIDI_HOST.git|Contributed|EZ_USB_MIDI_HOST
 https://github.com/GyverLibs/GyverShift.git|Contributed|GyverShift
+https://github.com/men100/MJScore.git|Contributed|MJScore
