@@ -6547,3 +6547,4 @@ https://github.com/rppicomidi/usb_midi_host
 https://github.com/bertbaron/arduino-animation-library
 https://github.com/rppicomidi/EZ_USB_MIDI_HOST
 https://github.com/men100/MJScore
+https://github.com/Dono7/DonoLed
