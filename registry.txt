@@ -6653,3 +6653,4 @@ https://github.com/Dono7/DonoLed.git|Contributed|DonoLed
 https://github.com/tort32/PxMatrix.git|Contributed|PxMatrix-1R
 https://github.com/remocons/iosignal-arduino.git|Contributed|IOSignal
 https://github.com/Bexin3/SpeeduinoGL.git|Contributed|SpeeduinoGL
+https://github.com/Mewtry/TCS230_ESP32.git|Contributed|TCS230_ESP32
