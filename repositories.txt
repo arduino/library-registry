@@ -170,7 +170,6 @@ https://github.com/crunchysteve/EdgieD
 https://github.com/nthnn/PortaMob
 https://github.com/nthnn/SIM900
 https://github.com/nthnn/microlzw
-https://github.com/nthnn/Diwa
 https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/Navigador
