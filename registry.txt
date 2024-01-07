@@ -6250,7 +6250,6 @@ https://github.com/BestModules-Libraries/BM22S3221-1.git|Contributed|BM22S3221-1
 https://github.com/BestModules-Libraries/BMN31K522.git|Contributed|BMN31K522
 https://github.com/BestModules-Libraries/BM52D5021-1.git|Contributed|BM52D5021-1
 https://github.com/BestModules-Libraries/BM52D5121-1.git|Contributed|BM52D5121-1
-https://github.com/nthnn/Diwa.git|Contributed|diwa
 https://github.com/thekakester/Arduino-LoRa-Sx1262.git|Contributed|LoraSx1262
 https://github.com/holgerlembke/ESPFMfGK.git|Contributed|ESP32 File Manager for Generation Klick ESPFMfGK
 https://github.com/Xylopyrographer/BooleanButton.git|Contributed|BooleanButton
