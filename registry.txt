@@ -6651,3 +6651,4 @@ https://github.com/men100/MJScore.git|Contributed|MJScore
 https://github.com/u-fire/HABridge.git|Contributed|Microfire_HABridge
 https://github.com/Dono7/DonoLed.git|Contributed|DonoLed
 https://github.com/tort32/PxMatrix.git|Contributed|PxMatrix-1R
+https://github.com/remocons/iosignal-arduino.git|Contributed|IOSignal
