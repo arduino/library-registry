@@ -6554,3 +6554,4 @@ https://github.com/men100/MJScore
 https://github.com/Dono7/DonoLed
 https://github.com/Bexin3/SpeeduinoGL
 https://github.com/MicrochipTech/RNBD451_BLE_ARDUINO_LIBRARY
+https://github.com/teamprof/arduprof
