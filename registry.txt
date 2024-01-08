@@ -6654,3 +6654,4 @@ https://github.com/tort32/PxMatrix.git|Contributed|PxMatrix-1R
 https://github.com/remocons/iosignal-arduino.git|Contributed|IOSignal
 https://github.com/Bexin3/SpeeduinoGL.git|Contributed|SpeeduinoGL
 https://github.com/Mewtry/TCS230_ESP32.git|Contributed|TCS230_ESP32
+https://github.com/MicrochipTech/RNBD451_BLE_ARDUINO_LIBRARY.git|Contributed|Microchip_RNBD451
