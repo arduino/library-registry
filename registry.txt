@@ -6656,3 +6656,4 @@ https://github.com/Bexin3/SpeeduinoGL.git|Contributed|SpeeduinoGL
 https://github.com/Mewtry/TCS230_ESP32.git|Contributed|TCS230_ESP32
 https://github.com/MicrochipTech/RNBD451_BLE_ARDUINO_LIBRARY.git|Contributed|Microchip_RNBD451
 https://github.com/teamprof/arduprof.git|Contributed|ArduProf
+https://github.com/sciosense/ens16x-arduino.git|Contributed|ScioSense_ENS16x
