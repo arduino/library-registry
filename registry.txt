@@ -6658,3 +6658,4 @@ https://github.com/MicrochipTech/RNBD451_BLE_ARDUINO_LIBRARY.git|Contributed|Mic
 https://github.com/teamprof/arduprof.git|Contributed|ArduProf
 https://github.com/sciosense/ens16x-arduino.git|Contributed|ScioSense_ENS16x
 https://github.com/eloquentarduino/eloquent_edgeimpulse.git|Contributed|Eloquent_EdgeImpulse
+https://github.com/pkyanam/ArduRoomba.git|Contributed|ArduRoomba
