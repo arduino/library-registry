@@ -773,6 +773,7 @@ https://github.com/Energesis-Ingenieria/Energesis_Sensor
 https://github.com/EngineeringRoom/Engineer_EasyEEPROM
 https://github.com/EngineeringRoom/Engineer_Regulator
 https://github.com/engin100/980
+https://github.com/engin100/950
 https://github.com/EnhancedRadioDevices/DDS
 https://github.com/EnhancedRadioDevices/HamShield
 https://github.com/EnhancedRadioDevices/HamShield_KISS
