@@ -1,3 +1,4 @@
+https://github.com/PlayingWithFusion/PwFusion_I2C_Encoder_Arduino_Library
 https://github.com/lmtreser/Robotec
 https://github.com/pkyanam/ArduRoomba
 https://github.com/eloquentarduino/eloquent_edgeimpulse
