@@ -6659,3 +6659,4 @@ https://github.com/pkyanam/ArduRoomba.git|Contributed|ArduRoomba
 https://github.com/engin100/950.git|Contributed|ENGR100-950
 https://github.com/lacamera/ESPAsyncWebServer.git|Contributed|ESPAsyncWebServer
 https://github.com/lmtreser/Robotec.git|Contributed|Robotec
+https://github.com/PlayingWithFusion/PwFusion_I2C_Encoder_Arduino_Library.git|Contributed|PwFusion_I2C_Encoder_Arduino_Library
