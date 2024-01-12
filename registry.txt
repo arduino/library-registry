@@ -6667,3 +6667,4 @@ https://github.com/PlayingWithFusion/PwFusion_I2C_Joystick_Arduino_Library.git|C
 https://github.com/cschorn01/2.4GHz_Lora_for_Arduino.git|Contributed|sx1280OverSpi
 https://github.com/ripred/Bang.git|Contributed|Bang
 https://github.com/nihinihikun/E220-900T22S-JP_Arduino.git|Contributed|E220-900T22S-JP
+https://github.com/RobTillaart/ADC081S.git|Contributed|ADC081S
