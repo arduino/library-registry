@@ -6564,3 +6564,4 @@ https://github.com/MicrochipTech/RNBD451_BLE_ARDUINO_LIBRARY
 https://github.com/teamprof/arduprof
 https://github.com/sciosense/ens16x-arduino
 https://github.com/lacamera/ESPAsyncWebServer
+https://github.com/ripred/Bang
