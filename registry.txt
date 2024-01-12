@@ -6664,3 +6664,4 @@ https://github.com/PlayingWithFusion/PwFusion_Data_Transfer.git|Contributed|PwFu
 https://github.com/PlayingWithFusion/PwFusion_I2C_Toggle_Arduino_Library.git|Contributed|PwFusion_I2C_Toggle_Arduino_Library
 https://github.com/PlayingWithFusion/PwFusion_I2C_Buttons_Arduino_Library.git|Contributed|PwFusion_I2C_Buttons_Arduino_Library
 https://github.com/PlayingWithFusion/PwFusion_I2C_Joystick_Arduino_Library.git|Contributed|PwFusion_I2C_Joystick_Arduino_Library
+https://github.com/cschorn01/2.4GHz_Lora_for_Arduino.git|Contributed|sx1280OverSpi
