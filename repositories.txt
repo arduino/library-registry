@@ -1741,6 +1741,7 @@ https://github.com/RobTillaart/AD5680
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
+https://github.com/RobTillaart/ADC081S
 https://github.com/RobTillaart/ADG725
 https://github.com/RobTillaart/ADG726
 https://github.com/RobTillaart/ADG731
