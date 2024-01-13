@@ -6670,3 +6670,4 @@ https://github.com/nihinihikun/E220-900T22S-JP_Arduino.git|Contributed|E220-900T
 https://github.com/RobTillaart/ADC081S.git|Contributed|ADC081S
 https://github.com/N4rcissist/OtaHelper.git|Contributed|OtaHelper
 https://github.com/PU2REO/PU2REO_Si570.git|Contributed|PU2REO_Si570
+https://github.com/PU2REO/PU2REO_AD9851.git|Contributed|PU2REO_AD9851
