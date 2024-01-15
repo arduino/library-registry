@@ -6677,3 +6677,4 @@ https://github.com/RobTillaart/ADC08XS.git|Contributed|ADC08XS
 https://github.com/PaulNTU/Wizibot_VescMotorController.git|Contributed|VescMotorController
 https://github.com/alekseizarubin/CD22M3494EZ.git|Contributed|CD22M3494EZ
 https://github.com/simonlmn/gpiobj.git|Contributed|GPIObj
+https://github.com/simonlmn/esp-iot-core.git|Contributed|ESP IoT Core
