@@ -6573,3 +6573,4 @@ https://github.com/ripred/Bang
 https://github.com/PU2REO/PU2REO_Si570
 https://github.com/PU2REO/PU2REO_AD9851
 https://github.com/pk17r/PushButtonTaps
+https://github.com/PaulNTU/Wizibot_VescMotorController
