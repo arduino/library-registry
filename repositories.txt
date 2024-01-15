@@ -177,7 +177,7 @@ https://github.com/KCN-judu/KCN-Utility-Arduino-lib
 https://github.com/addy123d/I2CDisplayController
 https://github.com/ZakKemble/LM73
 https://github.com/felias-fogg/avrCalibrate
-https://github.com/crunchysteve/EdgieD
+ https://github.com/crunchysteve/EdgieD
 https://github.com/nthnn/PortaMob
 https://github.com/nthnn/SIM900
 https://github.com/nthnn/microlzw
