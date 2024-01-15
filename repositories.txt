@@ -6414,6 +6414,7 @@ https://github.com/stm32duino/SHT40-AD1B
 https://github.com/stm32duino/LSM6DSO16IS
 https://github.com/WeSpeakEnglish/ANTIRTOS.git
 https://github.com/simonlmn/yatest
+https://github.com/simonlmn/gpiobj
 https://gitlab.com/alexpr0/ssd1306wire.git
 https://github.com/ICRS/ICRS-101-Devkit
 https://github.com/machinefi/w3bstream-client-arduino-ce
