@@ -6578,3 +6578,4 @@ https://github.com/pk17r/PushButtonTaps
 https://github.com/PaulNTU/Wizibot_VescMotorController
 https://github.com/alekseizarubin/CD22M3494EZ
 https://github.com/yhur/ConfigPortal32
+https://github.com/yhur/ConfigPortal8266
