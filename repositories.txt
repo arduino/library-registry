@@ -6416,6 +6416,7 @@ https://github.com/WeSpeakEnglish/ANTIRTOS.git
 https://github.com/simonlmn/yatest
 https://github.com/simonlmn/gpiobj
 https://github.com/simonlmn/esp-iot-core
+https://github.com/simonlmn/serial-transport
 https://gitlab.com/alexpr0/ssd1306wire.git
 https://github.com/ICRS/ICRS-101-Devkit
 https://github.com/machinefi/w3bstream-client-arduino-ce
