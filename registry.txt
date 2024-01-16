@@ -6678,3 +6678,4 @@ https://github.com/PaulNTU/Wizibot_VescMotorController.git|Contributed|VescMotor
 https://github.com/alekseizarubin/CD22M3494EZ.git|Contributed|CD22M3494EZ
 https://github.com/simonlmn/gpiobj.git|Contributed|GPIObj
 https://github.com/simonlmn/esp-iot-core.git|Contributed|ESP IoT Core
+https://github.com/yhur/ConfigPortal32.git|Contributed|ConfigPortal32
