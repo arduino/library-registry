@@ -1,3 +1,4 @@
+https://github.com/eloquentarduino/eloquent_esp32cam_remote
 https://github.com/N4rcissist/OtaHelper
 https://github.com/nihinihikun/E220-900T22S-JP_Arduino
 https://github.com/cschorn01/2.4GHz_Lora_for_Arduino
