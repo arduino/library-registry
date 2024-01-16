@@ -6681,3 +6681,4 @@ https://github.com/simonlmn/esp-iot-core.git|Contributed|ESP IoT Core
 https://github.com/yhur/ConfigPortal32.git|Contributed|ConfigPortal32
 https://github.com/yhur/ConfigPortal8266.git|Contributed|ConfigPortal8266
 https://github.com/simonlmn/serial-transport.git|Contributed|serial-transport
+https://github.com/bonezegei/Bonezegei_PCF8574.git|Contributed|Bonezegei_PCF8574
