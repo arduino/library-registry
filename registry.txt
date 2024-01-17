@@ -6689,3 +6689,4 @@ https://github.com/mkeras/BasicTag.git|Contributed|BasicTag
 https://github.com/bonezegei/Bonezegei_LCD1602_I2C.git|Contributed|Bonezegei LCD1602 I2C
 https://github.com/remocons/remocon-arduino.git|Contributed|Remocon
 https://github.com/nguyenmanhthao996tn/Kionix_KX023.git|Contributed|Kionix_KX023
+https://github.com/pmassio/ArduinoLMI.git|Contributed|LMI
