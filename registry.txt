@@ -6686,3 +6686,4 @@ https://github.com/arduino-libraries/Arduino_PortentaMachineControl.git|Arduino|
 https://github.com/eloquentarduino/eloquent_esp32cam_remote.git|Contributed|eloquent_remote
 https://github.com/sb1978/rgbled.git|Contributed|rgbled
 https://github.com/mkeras/BasicTag.git|Contributed|BasicTag
+https://github.com/bonezegei/Bonezegei_LCD1602_I2C.git|Contributed|Bonezegei LCD1602 I2C
