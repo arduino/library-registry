@@ -3362,6 +3362,7 @@ https://github.com/combs/DLxx416_Arduino
 https://github.com/remocons/boho-arduino
 https://github.com/remocons/remote-signal-arduino
 https://github.com/remocons/iosignal-arduino
+https://github.com/remocons/remocon-arduino
 https://github.com/connect-things/ConnectThings_ESP8266
 https://github.com/connornishijima/AlertMe
 https://github.com/connornishijima/Lixie-arduino
