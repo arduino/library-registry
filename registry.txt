@@ -6690,3 +6690,4 @@ https://github.com/bonezegei/Bonezegei_LCD1602_I2C.git|Contributed|Bonezegei LCD
 https://github.com/remocons/remocon-arduino.git|Contributed|Remocon
 https://github.com/nguyenmanhthao996tn/Kionix_KX023.git|Contributed|Kionix_KX023
 https://github.com/pmassio/ArduinoLMI.git|Contributed|LMI
+https://github.com/TobiGr/SimplifiedTimer.git|Contributed|SimplifiedTimer
