@@ -6588,3 +6588,8 @@ https://github.com/yhur/ConfigPortal8266
 https://github.com/sb1978/rgbled
 https://github.com/mkeras/BasicTag
 https://github.com/nguyenmanhthao996tn/Kionix_KX023
+https://github.com/pmassio/ArduinoLMI
+https://github.com/TobiGr/SimplifiedTimer
+https://github.com/AlfredoSystems/Alfredo_NoU3
+https://github.com/AlfredoSystems/AlfredoCRSF
+https://github.com/AlfredoSystems/SimpleMelt
