@@ -6595,3 +6595,6 @@ https://github.com/AlfredoSystems/Alfredo_NoU3
 https://github.com/AlfredoSystems/AlfredoCRSF
 https://github.com/AlfredoSystems/SimpleMelt
 https://github.com/BenCestMoiQuoi/INSARIANNE
+https://github.com/dndg/Finder7M
+https://github.com/dndg/Finder6M
+
