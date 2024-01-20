@@ -6697,3 +6697,4 @@ https://github.com/AlfredoSystems/SimpleMelt.git|Contributed|SimpleMelt
 https://github.com/BenCestMoiQuoi/INSARIANNE.git|Contributed|INSARIANNE
 https://github.com/fyrus7/RTC3231.git|Contributed|RTC3231
 https://github.com/nthnn/diwa.git|Contributed|diwa
+https://github.com/aniket-hpp/TFT_eSPI_Scroll.git|Contributed|TFT_eSPI_Scroll
