@@ -6593,3 +6593,4 @@ https://github.com/TobiGr/SimplifiedTimer
 https://github.com/AlfredoSystems/Alfredo_NoU3
 https://github.com/AlfredoSystems/AlfredoCRSF
 https://github.com/AlfredoSystems/SimpleMelt
+https://github.com/fyrus7/RTC3231
