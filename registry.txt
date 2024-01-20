@@ -6696,3 +6696,4 @@ https://github.com/AlfredoSystems/AlfredoCRSF.git|Contributed|AlfredoCRSF
 https://github.com/AlfredoSystems/SimpleMelt.git|Contributed|SimpleMelt
 https://github.com/BenCestMoiQuoi/INSARIANNE.git|Contributed|INSARIANNE
 https://github.com/fyrus7/RTC3231.git|Contributed|RTC3231
+https://github.com/nthnn/diwa.git|Contributed|diwa
