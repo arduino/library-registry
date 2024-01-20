@@ -774,6 +774,7 @@ https://github.com/EmotiBit/EmotiBit_FW_Si7013
 https://github.com/EmotiBit/EmotiBit_MAX30101
 https://github.com/EmotiBit/EmotiBit_MLX90632
 https://github.com/EmotiBit/EmotiBit_NCP5623
+https://github.com/fyrus7/RTC3231
 https://github.com/EmotiBit/EmotiBit_XPlat_Utils
 https://github.com/EndlessParadox7/GFX_Thaana
 https://github.com/Energesis-Ingenieria/Energesis_LM35
