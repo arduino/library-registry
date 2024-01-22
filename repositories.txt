@@ -6603,3 +6603,4 @@ https://github.com/dndg/Finder6M
 https://github.com/mathieucarbou/MycilaLogger
 https://github.com/mathieucarbou/MycilaConfig
 https://github.com/xreef/EByte_LoRa_E70_Series_Library
+https://github.com/mathieucarbou/MycilaJSY
