@@ -6703,3 +6703,4 @@ https://github.com/dndg/Finder6M.git|Contributed|Finder 6M for Finder Opta
 https://github.com/kaiaai/LDS.git|Contributed|LDS
 https://github.com/mathieucarbou/MycilaLogger.git|Contributed|MycilaLogger
 https://github.com/mathieucarbou/MycilaConfig.git|Contributed|MycilaConfig
+https://github.com/xreef/EByte_LoRa_E70_Series_Library.git|Contributed|EByte LoRa E70 library
