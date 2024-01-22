@@ -6702,3 +6702,4 @@ https://github.com/dndg/Finder7M.git|Contributed|Finder 7M for Finder Opta
 https://github.com/dndg/Finder6M.git|Contributed|Finder 6M for Finder Opta
 https://github.com/kaiaai/LDS.git|Contributed|LDS
 https://github.com/mathieucarbou/MycilaLogger.git|Contributed|MycilaLogger
+https://github.com/mathieucarbou/MycilaConfig.git|Contributed|MycilaConfig
