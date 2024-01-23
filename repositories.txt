@@ -6606,3 +6606,4 @@ https://github.com/xreef/EByte_LoRa_E70_Series_Library
 https://github.com/mathieucarbou/MycilaJSY
 https://github.com/mathieucarbou/ESPAsyncWebServer
 https://github.com/mathieucarbou/MycilaESPConnect
+https://github.com/mathieucarbou/MycilaRelay
