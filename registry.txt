@@ -6707,3 +6707,4 @@ https://github.com/xreef/EByte_LoRa_E70_Series_Library.git|Contributed|EByte LoR
 https://github.com/mathieucarbou/MycilaJSY.git|Contributed|MycilaJSY
 https://github.com/mathieucarbou/ESPAsyncWebServer.git|Contributed|ESP Async WebServer
 https://github.com/mathieucarbou/MycilaESPConnect.git|Contributed|MycilaESPConnect
+https://github.com/mathieucarbou/MycilaRelay.git|Contributed|MycilaRelay
