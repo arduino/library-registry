@@ -3426,6 +3426,7 @@ https://github.com/danidask/MatrizLed
 https://github.com/daniel-centore/arduino-tone-library
 https://github.com/danilopinotti/Battery18650Stats
 https://github.com/danja/TM1638lite
+https://github.com/danmowehhuk/AD75019
 https://github.com/danny270793/ArduinoShiftRegister
 https://github.com/dantler/GroveEncoder
 https://github.com/dantler/LircRemote101
