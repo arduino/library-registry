@@ -544,6 +544,7 @@ https://github.com/Chris--A/PGMWrap
 https://github.com/Chris--A/PrintEx
 https://github.com/Chris--A/SmallSetup
 https://github.com/ChrisDinhNZ/SMoS-cpp
+https://github.com/chrisneukam/MidiDmxBridge
 https://github.com/ChuckBell/MySQL_Connector_Arduino
 https://github.com/CieNTi/arduino-IoTesla-client
 https://github.com/CircuitMess/CircuitMess-Ringo
