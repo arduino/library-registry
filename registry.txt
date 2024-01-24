@@ -6709,3 +6709,4 @@ https://github.com/mathieucarbou/ESPAsyncWebServer.git|Contributed|ESP Async Web
 https://github.com/mathieucarbou/MycilaESPConnect.git|Contributed|MycilaESPConnect
 https://github.com/mathieucarbou/MycilaRelay.git|Contributed|MycilaRelay
 https://github.com/ReneRichterDE/ButtonMatrix.git|Contributed|ButtonMatrix
+https://github.com/mjbots/moteus-arduino.git|Contributed|Moteus
