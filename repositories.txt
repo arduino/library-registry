@@ -1,3 +1,4 @@
+https://github.com/FabioNMI/fancyTerminal
 https://github.com/kaiaai/LDS
 https://github.com/aniket-hpp/TFT_eSPI_Scroll
 https://github.com/eloquentarduino/eloquent_esp32cam_remote
