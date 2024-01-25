@@ -6712,3 +6712,4 @@ https://github.com/ReneRichterDE/ButtonMatrix.git|Contributed|ButtonMatrix
 https://github.com/mjbots/moteus-arduino.git|Contributed|Moteus
 https://github.com/chrisneukam/MidiDmxBridge.git|Contributed|MidiDmxBridge
 https://github.com/danmowehhuk/AD75019.git|Contributed|AD75019
+https://github.com/Xinyuan-LilyGO/LilyGo-T-RGB.git|Contributed|LilyGo-T-RGB
