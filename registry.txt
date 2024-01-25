@@ -6676,8 +6676,8 @@ https://github.com/pk17r/PushButtonTaps.git|Contributed|PushButtonTaps
 https://github.com/RobTillaart/ADC08XS.git|Contributed|ADC08XS
 https://github.com/PaulNTU/Wizibot_VescMotorController.git|Contributed|VescMotorController
 https://github.com/alekseizarubin/CD22M3494EZ.git|Contributed|CD22M3494EZ
-https://github.com/simonlmn/gpiobj.git|Contributed|GPIObj
 https://github.com/simonlmn/esp-iot-core.git|Contributed|esp-iot-core
+https://github.com/simonlmn/gpiobj.git|Contributed|gpiobj
 https://github.com/yhur/ConfigPortal32.git|Contributed|ConfigPortal32
 https://github.com/yhur/ConfigPortal8266.git|Contributed|ConfigPortal8266
 https://github.com/simonlmn/serial-transport.git|Contributed|serial-transport
@@ -6700,3 +6700,19 @@ https://github.com/nthnn/diwa.git|Contributed|diwa
 https://github.com/aniket-hpp/TFT_eSPI_Scroll.git|Contributed|TFT_eSPI_Scroll
 https://github.com/dndg/Finder7M.git|Contributed|Finder 7M for Finder Opta
 https://github.com/dndg/Finder6M.git|Contributed|Finder 6M for Finder Opta
+https://github.com/kaiaai/LDS.git|Contributed|LDS
+https://github.com/mathieucarbou/MycilaLogger.git|Contributed|MycilaLogger
+https://github.com/mathieucarbou/MycilaConfig.git|Contributed|MycilaConfig
+https://github.com/xreef/EByte_LoRa_E70_Series_Library.git|Contributed|EByte LoRa E70 library
+https://github.com/mathieucarbou/MycilaJSY.git|Contributed|MycilaJSY
+https://github.com/mathieucarbou/ESPAsyncWebServer.git|Contributed|ESP Async WebServer
+https://github.com/mathieucarbou/MycilaESPConnect.git|Contributed|MycilaESPConnect
+https://github.com/mathieucarbou/MycilaRelay.git|Contributed|MycilaRelay
+https://github.com/ReneRichterDE/ButtonMatrix.git|Contributed|ButtonMatrix
+https://github.com/mjbots/moteus-arduino.git|Contributed|Moteus
+https://github.com/chrisneukam/MidiDmxBridge.git|Contributed|MidiDmxBridge
+https://github.com/danmowehhuk/AD75019.git|Contributed|AD75019
+https://github.com/Xinyuan-LilyGO/LilyGo-T-RGB.git|Contributed|LilyGo-T-RGB
+https://github.com/FabioNMI/fancyTerminal.git|Contributed|FancyTerminal
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_arduinoble.git|Contributed|VEGA_ArduinoBLE
+https://github.com/mathieucarbou/MycilaTaskMonitor.git|Contributed|MycilaTaskMonitor
