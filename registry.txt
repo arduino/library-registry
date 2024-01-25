@@ -6676,8 +6676,8 @@ https://github.com/pk17r/PushButtonTaps.git|Contributed|PushButtonTaps
 https://github.com/RobTillaart/ADC08XS.git|Contributed|ADC08XS
 https://github.com/PaulNTU/Wizibot_VescMotorController.git|Contributed|VescMotorController
 https://github.com/alekseizarubin/CD22M3494EZ.git|Contributed|CD22M3494EZ
+https://github.com/simonlmn/esp-iot-core.git|Contributed|esp-iot-core
 https://github.com/simonlmn/gpiobj.git|Contributed|gpiobj
-https://github.com/simonlmn/esp-iot-core.git|Contributed|ESP IoT Core
 https://github.com/yhur/ConfigPortal32.git|Contributed|ConfigPortal32
 https://github.com/yhur/ConfigPortal8266.git|Contributed|ConfigPortal8266
 https://github.com/simonlmn/serial-transport.git|Contributed|serial-transport
