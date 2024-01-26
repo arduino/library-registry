@@ -6616,3 +6616,4 @@ https://github.com/Xinyuan-LilyGO/LilyGo-T-RGB
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_arduinoble
 https://github.com/mathieucarbou/MycilaTaskMonitor
 https://github.com/SALITIBI/WMS7202DigitalPotentiometer
+https://github.com/mathieucarbou/MycilaNTP
