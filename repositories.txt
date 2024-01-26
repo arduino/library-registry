@@ -6619,3 +6619,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_arduinobl
 https://github.com/mathieucarbou/MycilaTaskMonitor
 https://github.com/SALITIBI/WMS7202DigitalPotentiometer
 https://github.com/mathieucarbou/MycilaNTP
+https://github.com/mathieucarbou/MycilaHADiscovery
