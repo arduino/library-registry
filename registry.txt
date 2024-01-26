@@ -6717,3 +6717,4 @@ https://github.com/FabioNMI/fancyTerminal.git|Contributed|FancyTerminal
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_arduinoble.git|Contributed|VEGA_ArduinoBLE
 https://github.com/mathieucarbou/MycilaTaskMonitor.git|Contributed|MycilaTaskMonitor
 https://github.com/SALITIBI/WMS7202DigitalPotentiometer.git|Contributed|WMS7202
+https://github.com/mathieucarbou/MycilaNTP.git|Contributed|MycilaNTP
