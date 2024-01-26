@@ -6719,3 +6719,4 @@ https://github.com/mathieucarbou/MycilaTaskMonitor.git|Contributed|MycilaTaskMon
 https://github.com/SALITIBI/WMS7202DigitalPotentiometer.git|Contributed|WMS7202
 https://github.com/mathieucarbou/MycilaNTP.git|Contributed|MycilaNTP
 https://github.com/RobTillaart/DS2438.git|Contributed|DS2438
+https://github.com/bonezegei/Bonezegei_DS3231.git|Contributed|Bonezegei_DS3231
