@@ -27,7 +27,7 @@ https://github.com/alireza7575/MKS_SERVO42
 https://github.com/AsproCompany/AsproSolarShield
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/CoreX-IoT/corex-firmware
-https://github.com/Fourier-git/ADXL372
+https://github.com/WilliamMS-git/ADXL372
 https://github.com/tatemazer/AcaiaArduinoBLE
 https://github.com/littleBitsman/Asynchrony
 https://github.com/alireza7575/MKS_SERVO57
