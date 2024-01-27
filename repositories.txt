@@ -6620,3 +6620,4 @@ https://github.com/mathieucarbou/MycilaTaskMonitor
 https://github.com/SALITIBI/WMS7202DigitalPotentiometer
 https://github.com/mathieucarbou/MycilaNTP
 https://github.com/mathieucarbou/MycilaHADiscovery
+https://github.com/holgerlembke/st7567sfGK
