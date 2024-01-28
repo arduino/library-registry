@@ -6502,6 +6502,7 @@ https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library
 https://github.com/delta-G/EventLinkInterrupt
 https://github.com/delta-G/LoveButton
 https://github.com/delta-G/GPT_Stepper
+https://github.com/delta-G/PID_DG
 https://github.com/gewisser/GyverOLEDMenu
 https://github.com/m5stack/M5Module-LAN-13.2
 https://github.com/Bridgetek/RP2040-BrtEve
