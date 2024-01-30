@@ -6727,3 +6727,4 @@ https://github.com/delta-G/PID_DG.git|Contributed|PID_DG
 https://github.com/mathieucarbou/MycilaMQTT.git|Contributed|MycilaMQTT
 https://github.com/hpsaturn/esp32s3-cam.git|Contributed|EspNowCam
 https://github.com/AhmedYousryM/NonBlockingSequence.git|Contributed|NonBlockingSequence
+https://github.com/DEIS-Tools/CLAIRE-library.git|Contributed|CLAIRE
