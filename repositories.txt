@@ -3043,6 +3043,7 @@ https://github.com/asukiaaa/arduino-XboxSeriesXHIDReportBuilder
 https://github.com/asukiaaa/arduino-button
 https://github.com/asukiaaa/arduino-rs485
 https://github.com/asukiaaa/arduino-string
+https://github.com/asukiaaa/arduino-WindSensorHWD
 https://github.com/asukiaaa/arduino-wire
 https://github.com/asukiaaa/utils_asukiaaa
 https://github.com/aszopko/somfy-esp8266
