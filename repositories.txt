@@ -6625,3 +6625,4 @@ https://github.com/holgerlembke/st7567sfGK
 https://github.com/t-oot/ESP32-PTQS1005
 https://github.com/mathieucarbou/MycilaMQTT
 https://github.com/hpsaturn/esp32s3-cam
+https://github.com/AhmedYousryM/NonBlockingSequence
