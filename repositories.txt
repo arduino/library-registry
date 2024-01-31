@@ -918,6 +918,7 @@ https://github.com/beegee-tokyo/Blues-Minimal-I2C
 https://github.com/beegee-tokyo/DHTesp
 https://github.com/beegee-tokyo/nRF52_OLED
 https://github.com/beegee-tokyo/PicoSoftwareSerial
+https://github.com/beegee-tokyo/RAKwireless_RAK14000_EPD_2_13
 https://github.com/beegee-tokyo/SHT1x-ESP
 https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
