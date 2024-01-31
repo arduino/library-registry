@@ -6732,3 +6732,5 @@ https://github.com/asukiaaa/arduino-WindSensorHWD.git|Contributed|WindSensorHWD_
 https://github.com/RobTillaart/MAX471_RT.git|Contributed|MAX471_RT
 https://github.com/danmowehhuk/Eventuino.git|Contributed|Eventuino
 https://github.com/beegee-tokyo/RAKwireless_RAK14000_EPD_2_13.git|Contributed|RAK14000_EPD
+https://github.com/simonlmn/jsons.git|Contributed|jsons
+https://github.com/simonlmn/toolbox.git|Contributed|toolbox
