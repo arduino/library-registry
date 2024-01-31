@@ -5402,7 +5402,9 @@ https://github.com/silvervest/Silvervest_OLED_0010_SPI
 https://github.com/simap/TouchWheel
 https://github.com/simonlmn/esp-iot-core
 https://github.com/simonlmn/gpiobj
+https://github.com/simonlmn/jsons
 https://github.com/simonlmn/serial-transport
+https://github.com/simonlmn/toolbox
 https://github.com/simonlmn/yatest
 https://github.com/simonmonk/arduino_TEA5767
 https://github.com/Simpit-team/KerbalSimpitRevamped-Arduino
