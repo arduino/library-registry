@@ -6730,3 +6730,4 @@ https://github.com/AhmedYousryM/NonBlockingSequence.git|Contributed|NonBlockingS
 https://github.com/DEIS-Tools/CLAIRE-library.git|Contributed|CLAIRE
 https://github.com/asukiaaa/arduino-WindSensorHWD.git|Contributed|WindSensorHWD_asukiaaa
 https://github.com/RobTillaart/MAX471_RT.git|Contributed|MAX471_RT
+https://github.com/danmowehhuk/Eventuino.git|Contributed|Eventuino
