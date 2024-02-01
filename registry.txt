@@ -6738,3 +6738,4 @@ https://github.com/anthonyshibitov/text1306.git|Contributed|text1306
 https://github.com/m5stack/M5Atomic-Motion.git|Contributed|M5Atomic-Motion
 https://github.com/m5stack/M5Unit-QRCode.git|Contributed|M5UnitQRCode
 https://github.com/m5stack/M5Unit-Synth.git|Contributed|M5UnitSynth
+https://github.com/BenCestMoiQuoi/I2C_Insarianne.git|Contributed|I2C_Insarianne
