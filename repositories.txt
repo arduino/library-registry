@@ -3478,6 +3478,7 @@ https://github.com/m516/TinyMatrixMath
 https://github.com/m5stack/ATOM_DTU_CAT1
 https://github.com/m5stack/ATOM_DTU_LoRaWAN
 https://github.com/m5stack/ATOM_DTU_NB
+https://github.com/m5stack/M5Atomic-Motion
 https://github.com/m5stack/DEMO-BOARD
 https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
@@ -3535,6 +3536,8 @@ https://github.com/m5stack/M5Unit-Sonic
 https://github.com/m5stack/M5Unit-Thermal2
 https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/m5stack/M5Unit-UHF-RFID
+https://github.com/m5stack/M5Unit-QRCode
+https://github.com/m5stack/M5Unit-Synth
 https://github.com/m5stack/PoE_CAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
@@ -6634,3 +6637,4 @@ https://gitlab.com/yesbotics/libs/arduino/voltmeter
 https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
 https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
+
