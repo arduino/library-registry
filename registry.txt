@@ -6734,3 +6734,4 @@ https://github.com/danmowehhuk/Eventuino.git|Contributed|Eventuino
 https://github.com/beegee-tokyo/RAKwireless_RAK14000_EPD_2_13.git|Contributed|RAK14000_EPD
 https://github.com/simonlmn/jsons.git|Contributed|jsons
 https://github.com/simonlmn/toolbox.git|Contributed|toolbox
+https://github.com/anthonyshibitov/text1306.git|Contributed|text1306
