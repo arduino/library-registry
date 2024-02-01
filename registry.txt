@@ -6735,3 +6735,6 @@ https://github.com/beegee-tokyo/RAKwireless_RAK14000_EPD_2_13.git|Contributed|RA
 https://github.com/simonlmn/jsons.git|Contributed|jsons
 https://github.com/simonlmn/toolbox.git|Contributed|toolbox
 https://github.com/anthonyshibitov/text1306.git|Contributed|text1306
+https://github.com/m5stack/M5Atomic-Motion.git|Contributed|M5Atomic-Motion
+https://github.com/m5stack/M5Unit-QRCode.git|Contributed|M5UnitQRCode
+https://github.com/m5stack/M5Unit-Synth.git|Contributed|M5UnitSynth
