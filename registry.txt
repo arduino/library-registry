@@ -6740,3 +6740,4 @@ https://github.com/m5stack/M5Unit-QRCode.git|Contributed|M5UnitQRCode
 https://github.com/m5stack/M5Unit-Synth.git|Contributed|M5UnitSynth
 https://github.com/BenCestMoiQuoi/I2C_Insarianne.git|Contributed|I2C_Insarianne
 https://github.com/arduino279/AISwitch.git|Contributed|AISwitch
+https://github.com/mkeras/EmbeddedSparkplugNode.git|Contributed|EmbeddedSparkplugNode
