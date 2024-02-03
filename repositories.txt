@@ -8,6 +8,7 @@ https://bitbucket.org/christandlg/bmx280mi
 https://bitbucket.org/christandlg/iaq-coremi
 https://bitbucket.org/christandlg/tsl2591mi
 https://bitbucket.org/geekfactory/gfbutton
+https://github.com/PinoRinaudo/DoublyLinkedList
 https://bitbucket.org/geekfactory/shell
 https://bitbucket.org/harmonicbionics/ease_arduinocode
 https://bitbucket.org/jezhill/Keyhole
