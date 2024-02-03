@@ -6742,3 +6742,4 @@ https://github.com/BenCestMoiQuoi/I2C_Insarianne.git|Contributed|I2C_Insarianne
 https://github.com/arduino279/AISwitch.git|Contributed|AISwitch
 https://github.com/mkeras/EmbeddedSparkplugNode.git|Contributed|EmbeddedSparkplugNode
 https://github.com/Malih002/Klinik-Encoder.git|Contributed|KLEncoder
+https://github.com/RobTillaart/map2bits.git|Contributed|map2bits
