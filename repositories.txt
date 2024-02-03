@@ -5,6 +5,7 @@ https://bitbucket.org/amotzek/mqtt-client
 https://bitbucket.org/christandlg/as3935mi
 https://bitbucket.org/christandlg/bmp180mi
 https://bitbucket.org/christandlg/bmx280mi
+https://github.com/PinoRinaudo/DoublyLinkedList
 https://bitbucket.org/christandlg/iaq-coremi
 https://bitbucket.org/christandlg/tsl2591mi
 https://bitbucket.org/geekfactory/gfbutton
