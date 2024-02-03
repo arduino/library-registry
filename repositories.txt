@@ -5485,6 +5485,7 @@ https://github.com/SndrSchnklshk/TMP6x
 https://github.com/sne3ks/ExodeCore
 https://github.com/SNMetamorph/FutabaVfdM202MD10C
 https://github.com/snototter/BasicTinkering
+https://github.com/PinoRinaudo/DoublyLinkedList
 https://github.com/soburi/IoTivity-Lite
 https://github.com/soburi/IoTivity-Lite_arduino-porting
 https://github.com/soburi/tinycbor
