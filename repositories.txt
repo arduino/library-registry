@@ -3239,6 +3239,7 @@ https://github.com/lansium-dev/lansium-arduino
 https://github.com/laserir/NL2Client
 https://github.com/Laserlicht/MaerklinMotorola
 https://github.com/lasselukkari/aWOT
+https://github.com/latchdevel/RemoteSensor
 https://github.com/lathoub/Arduino-AppleMidi-Library
 https://github.com/lathoub/Arduino-BLE-MIDI
 https://github.com/lathoub/Arduino-ipMIDI
