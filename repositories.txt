@@ -3348,6 +3348,7 @@ https://github.com/LiquidCGS/FastIMU
 https://github.com/littleBitsman/Asynchrony
 https://github.com/liuyinze/CumulocityHttpDownstream
 https://github.com/liuyinze/CumulocityHttpUpstream
+https://github.com/llschall/ardwloop/tree/main/src/arduino/ardwloop
 https://github.com/llelundberg/EasyWebServer
 https://github.com/lmtreser/Robotec
 https://github.com/lnbits/arduino-nostr/
