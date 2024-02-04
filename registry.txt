@@ -6746,3 +6746,4 @@ https://github.com/RobTillaart/map2bits.git|Contributed|map2bits
 https://github.com/PinoRinaudo/DoublyLinkedList.git|Contributed|DoublyLinkedList
 https://github.com/latchdevel/RemoteSensor.git|Contributed|RemoteSensor
 https://github.com/RobTillaart/CHT8310.git|Contributed|CHT8310
+https://github.com/llschall/ardwloop-ino.git|Contributed|adrwloop
