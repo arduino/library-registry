@@ -6744,3 +6744,4 @@ https://github.com/mkeras/EmbeddedSparkplugNode.git|Contributed|EmbeddedSparkplu
 https://github.com/Malih002/Klinik-Encoder.git|Contributed|KLEncoder
 https://github.com/RobTillaart/map2bits.git|Contributed|map2bits
 https://github.com/PinoRinaudo/DoublyLinkedList.git|Contributed|DoublyLinkedList
+https://github.com/latchdevel/RemoteSensor.git|Contributed|RemoteSensor
