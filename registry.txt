@@ -6749,3 +6749,4 @@ https://github.com/RobTillaart/CHT8310.git|Contributed|CHT8310
 https://github.com/llschall/ardwloop-ino.git|Contributed|adrwloop
 https://github.com/todbot/TouchyTouch.git|Contributed|TouchyTouch
 https://github.com/ProjectNeura/LEADS-Arduino.git|Contributed|LEADS
+https://github.com/RobTillaart/DS3232.git|Contributed|DS3232
