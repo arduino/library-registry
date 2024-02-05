@@ -6750,3 +6750,4 @@ https://github.com/llschall/ardwloop-ino.git|Contributed|adrwloop
 https://github.com/todbot/TouchyTouch.git|Contributed|TouchyTouch
 https://github.com/ProjectNeura/LEADS-Arduino.git|Contributed|LEADS
 https://github.com/RobTillaart/DS3232.git|Contributed|DS3232
+https://github.com/CodingArray/CA_MotorShield_V1_Library.git|Contributed|CodingArray MotorShield V1 Library
