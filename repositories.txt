@@ -3865,7 +3865,6 @@ https://github.com/mjackdk/AmbientCO2
 https://github.com/mjbots/moteus-arduino
 https://github.com/mjdonders/CST816_TouchLib
 https://github.com/mkeras/BasicTag
-https://github.com/mkeras/pubsubclient
 https://github.com/mkhuthir/Si4703
 https://github.com/mkogax/GG_for_Arduino
 https://github.com/ML-VPN/OtD_Library
