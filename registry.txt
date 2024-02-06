@@ -6752,3 +6752,4 @@ https://github.com/ProjectNeura/LEADS-Arduino.git|Contributed|LEADS
 https://github.com/RobTillaart/DS3232.git|Contributed|DS3232
 https://github.com/CodingArray/CA_MotorShield_V1_Library.git|Contributed|CodingArray MotorShield V1 Library
 https://github.com/handmade0octopus/ds2.git|Contributed|DS2
+https://github.com/Blue-Crescent/JJYReceiver.git|Contributed|JJY Receiver Library
