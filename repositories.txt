@@ -6651,3 +6651,4 @@ https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/BenCestMoiQuoi/I2C_Insarianne
 https://github.com/mkeras/EmbeddedSparkplugNode
+https://github.com/arduino-libraries/Servo
