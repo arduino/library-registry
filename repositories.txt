@@ -5329,7 +5329,7 @@ https://github.com/Sensirion/arduino-sps
 https://github.com/Sensirion/arduino-uart-sen44
 https://github.com/Sensirion/arduino-uart-sfa3x
 https://github.com/sensirion/arduino-uart-svm4x
-https://github.com/Sensirion/upt-core
+https://github.com/Sensirion/arduino-upt-core
 https://github.com/sensorium/Mozzi
 https://github.com/sensslen/LibLanc
 https://github.com/septillion-git/FadeLed
