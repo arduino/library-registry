@@ -3687,6 +3687,7 @@ https://github.com/mathertel/RotaryEncoder
 https://github.com/Mathieu52/GPSP
 https://github.com/mathieucarbou/ESPAsyncWebServer
 https://github.com/mathieucarbou/MycilaConfig
+https://github.com/mathieucarbou/MycilaEasyDisplay
 https://github.com/mathieucarbou/MycilaESPConnect
 https://github.com/mathieucarbou/MycilaHADiscovery
 https://github.com/mathieucarbou/MycilaJSY
