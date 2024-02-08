@@ -6756,3 +6756,4 @@ https://github.com/Blue-Crescent/JJYReceiver.git|Contributed|JJY Receiver Librar
 https://github.com/bonezegei/Bonezegei_LCD2004_I2C.git|Contributed|Bonezegei_LCD2004_I2C
 https://github.com/mathieucarbou/MycilaEasyDisplay.git|Contributed|MycilaEasyDisplay
 https://github.com/mathieucarbou/MycilaTrial.git|Contributed|MycilaTrial
+https://github.com/io7lab/IO7F8266.git|Contributed|IO7F8266
