@@ -1,3 +1,4 @@
+https://github.com/WilliamMS-git/ADXL372
 https://github.com/CodingArray/CA_MotorShield_V1_Library
 https://github.com/ProjectNeura/LEADS-Arduino
 https://github.com/todbot/TouchyTouch
@@ -2145,7 +2146,6 @@ https://github.com/forkineye/ESPAsyncE131
 https://github.com/forntoh/LcdMenu
 https://github.com/FortySevenEffects/arduino_midi_library
 https://github.com/FortySevenEffects/serde
-https://github.com/Fourier-git/ADXL372
 https://github.com/Foxdogface/arduino-VEML6070
 https://github.com/foxel/arduino-noolite-tx
 https://github.com/fp64lib/fp64lib
