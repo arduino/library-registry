@@ -6760,3 +6760,4 @@ https://github.com/io7lab/IO7F8266.git|Contributed|IO7F8266
 https://github.com/io7lab/IO7F32.git|Contributed|IO7F32
 https://github.com/kenichi884/M5StackToio.git|Contributed|M5StackToio
 https://github.com/RobTillaart/INA3221_RT.git|Contributed|INA3221_RT
+https://github.com/lualtek/buttino-handler.git|Contributed|LualtekButtinoHandler
