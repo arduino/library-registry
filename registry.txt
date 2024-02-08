@@ -6758,3 +6758,4 @@ https://github.com/mathieucarbou/MycilaEasyDisplay.git|Contributed|MycilaEasyDis
 https://github.com/mathieucarbou/MycilaTrial.git|Contributed|MycilaTrial
 https://github.com/io7lab/IO7F8266.git|Contributed|IO7F8266
 https://github.com/io7lab/IO7F32.git|Contributed|IO7F32
+https://github.com/kenichi884/M5StackToio.git|Contributed|M5StackToio
