@@ -6605,7 +6605,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library.git|Contri
 https://github.com/usblink/waver.git|Contributed|waver
 https://github.com/RobTillaart/MCP_POT.git|Contributed|MCP_POT
 https://github.com/GyverLibs/GSON.git|Contributed|GSON
-https://github.com/siroshy/MovingPlatform.git|Contributed|MovingPlatvorm
+https://github.com/siroshy/MovingPlatform.git|Contributed|MovingPlatform
 https://github.com/rogerjames99/json2asw-arduino.git|Contributed|json2asw
 https://github.com/AlexandreHiroyuki/DataTome.git|Contributed|DataTome
 https://github.com/RobTillaart/MS5837.git|Contributed|MS5837
