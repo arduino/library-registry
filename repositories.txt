@@ -4965,6 +4965,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
+https://github.com/RobTillaart/INA3221_RT
 https://github.com/RobTillaart/infiniteAverage
 https://github.com/RobTillaart/integer24
 https://github.com/RobTillaart/Interval
