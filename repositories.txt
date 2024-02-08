@@ -6656,3 +6656,4 @@ https://github.com/BenCestMoiQuoi/I2C_Insarianne
 https://github.com/mkeras/EmbeddedSparkplugNode
 https://github.com/Blue-Crescent/JJYReceiver
 https://github.com/io7lab/IO7F8266
+https://github.com/io7lab/IO7F32
