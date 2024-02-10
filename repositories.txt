@@ -1143,6 +1143,7 @@ https://github.com/bonezegei/Bonezegei_Compute
 https://github.com/bonezegei/Bonezegei_DHT11
 https://github.com/bonezegei/Bonezegei_DHT22
 https://github.com/bonezegei/Bonezegei_DS3231
+https://github.com/bonezegei/Bonezegei_DS1307
 https://github.com/bonezegei/Bonezegei_GL
 https://github.com/bonezegei/Bonezegei_GPS
 https://github.com/bonezegei/Bonezegei_GSM
