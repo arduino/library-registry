@@ -101,6 +101,7 @@ https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library
 https://github.com/adafruit/Adafruit_10DOF
 https://github.com/adafruit/Adafruit_9DOF
 https://github.com/adafruit/Adafruit_AD569x
+https://github.com/adafruit/Adafruit_ADG72x
 https://github.com/adafruit/Adafruit_ADS1X15
 https://github.com/adafruit/Adafruit_ADS7830
 https://github.com/adafruit/Adafruit_ADT7410
