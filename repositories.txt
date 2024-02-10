@@ -5445,6 +5445,7 @@ https://github.com/siroshy/MovingPlatform
 https://github.com/SirSundays/LDC1312-Arduino
 https://github.com/siteswapjuggler/RAMP
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
 https://github.com/sivar2311/WebMonitor
 https://github.com/sixfab/Sixfab_Arduino_CellularIoT_Library
