@@ -6764,3 +6764,4 @@ https://github.com/lualtek/buttino-handler.git|Contributed|LualtekButtinoHandler
 https://github.com/HackerNowful/BLEHID-SD.git|Contributed|blesdlib
 https://github.com/bonezegei/Bonezegei_DS1307.git|Contributed|Bonezegei_DS1307
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library.git|Contributed|Sitron Labs WK2132 Arduino Library
+https://github.com/adafruit/Adafruit_ADG72x.git|Recommended|Adafruit ADG72x
