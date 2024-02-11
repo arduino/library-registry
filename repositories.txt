@@ -5596,6 +5596,7 @@ https://github.com/sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library
 https://github.com/sparkfun/SparkFun_AD5330_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADIN1110_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADS1015_Arduino_Library
+https://github.com/sparkfun/SparkFun_ADS1219_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADS122C04_ADC_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADXL313_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADXL345_Arduino_Library
