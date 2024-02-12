@@ -5448,6 +5448,7 @@ https://github.com/SirSundays/LDC1312-Arduino
 https://github.com/siteswapjuggler/RAMP
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
 https://github.com/sivar2311/WebMonitor
