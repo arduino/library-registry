@@ -6768,3 +6768,4 @@ https://github.com/adafruit/Adafruit_ADG72x.git|Recommended|Adafruit ADG72x
 https://github.com/sparkfun/SparkFun_ADS1219_Arduino_Library.git|Contributed|SparkFun ADS1219 Arduino Library
 https://github.com/arduino-libraries/Arduino_SecureElement.git|Arduino|Arduino_SecureElement
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library.git|Contributed|Sitron Labs TIC Arduino Library
+https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library.git|Contributed|Sitron Labs ST75256 Arduino Library
