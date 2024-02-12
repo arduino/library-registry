@@ -6766,3 +6766,4 @@ https://github.com/bonezegei/Bonezegei_DS1307.git|Contributed|Bonezegei_DS1307
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library.git|Contributed|Sitron Labs WK2132 Arduino Library
 https://github.com/adafruit/Adafruit_ADG72x.git|Recommended|Adafruit ADG72x
 https://github.com/sparkfun/SparkFun_ADS1219_Arduino_Library.git|Contributed|SparkFun ADS1219 Arduino Library
+https://github.com/arduino-libraries/Arduino_SecureElement.git|Arduino|Arduino_SecureElement
