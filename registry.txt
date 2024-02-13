@@ -6769,3 +6769,4 @@ https://github.com/sparkfun/SparkFun_ADS1219_Arduino_Library.git|Contributed|Spa
 https://github.com/arduino-libraries/Arduino_SecureElement.git|Arduino|Arduino_SecureElement
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library.git|Contributed|Sitron Labs TIC Arduino Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library.git|Contributed|Sitron Labs ST75256 Arduino Library
+https://github.com/thelastoutpostworkshop/virtualScreen.git|Contributed|VirtualScreen
