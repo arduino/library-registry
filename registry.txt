@@ -6771,3 +6771,4 @@ https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library.git|Contribu
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library.git|Contributed|Sitron Labs ST75256 Arduino Library
 https://github.com/thelastoutpostworkshop/virtualScreen.git|Contributed|VirtualScreen
 https://github.com/bestrobotics/ArduinoGizmo.git|Contributed|Gizmo
+https://github.com/lualtek/lualtek-rakrui.git|Contributed|LualtekRAKRUI
