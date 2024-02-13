@@ -5633,6 +5633,7 @@ https://github.com/sparkfun/SparkFun_BMP581_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO080_Arduino_Library
 https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library
 https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library
+https://github.com/sparkfun/SparkFun_BQ40Z50_Battery_Manager_Arduino_Library
 https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library
 https://github.com/sparkfun/SparkFun_CCS811_Arduino_Library
 https://github.com/sparkfun/SparkFun_Clock_5P49V60_Arduino_Library
