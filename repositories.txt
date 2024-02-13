@@ -5640,6 +5640,7 @@ https://github.com/sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library
 https://github.com/sparkfun/SparkFun_DE2120_Arduino_Library
 https://github.com/sparkfun/SparkFun_Displacement_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library
+https://github.com/sparkfun/SparkFun_Extensible_Message_Parser
 https://github.com/sparkfun/SparkFun_External_EEPROM_Arduino_Library
 https://github.com/sparkfun/SparkFun_Flying_Jalapeno_2_Arduino_Library
 https://github.com/sparkfun/SparkFun_Flying_Jalapeno_Arduino_Library
