@@ -6772,3 +6772,4 @@ https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library.git|Co
 https://github.com/thelastoutpostworkshop/virtualScreen.git|Contributed|VirtualScreen
 https://github.com/bestrobotics/ArduinoGizmo.git|Contributed|Gizmo
 https://github.com/lualtek/lualtek-rakrui.git|Contributed|LualtekRAKRUI
+https://github.com/ropg/OOKwiz.git|Contributed|OOKwiz
