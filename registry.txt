@@ -6775,3 +6775,4 @@ https://github.com/lualtek/lualtek-rakrui.git|Contributed|LualtekRAKRUI
 https://github.com/ropg/OOKwiz.git|Contributed|OOKwiz
 https://github.com/sparkfun/SparkFun_BQ40Z50_Battery_Manager_Arduino_Library.git|Contributed|SparkFun BQ40Z50 Battery Manager Arduino Library
 https://github.com/sparkfun/SparkFun_Extensible_Message_Parser.git|Contributed|SparkFun Extensible Message Parser
+https://github.com/sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library.git|Contributed|SparkFun Qwiic Buzzer Library
