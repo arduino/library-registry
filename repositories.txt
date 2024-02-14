@@ -6675,3 +6675,4 @@ https://github.com/io7lab/IO7F32
 https://github.com/lualtek/buttino-handler
 https://github.com/thelastoutpostworkshop/virtualScreen
 https://github.com/lualtek/lualtek-rakrui
+https://github.com/EmotiBit/EmotiBit_SimpleFTPServer
