@@ -5703,6 +5703,7 @@ https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG_Arduino_Library
 https://github.com/sparkfun/SparkFun_Quadstepper_Motor_Driver_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Button_Arduino_Library
+https://github.com/sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Digital_Capacitor_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Fan_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_GPIO_Library
