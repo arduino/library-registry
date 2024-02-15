@@ -6777,3 +6777,4 @@ https://github.com/sparkfun/SparkFun_BQ40Z50_Battery_Manager_Arduino_Library.git
 https://github.com/sparkfun/SparkFun_Extensible_Message_Parser.git|Contributed|SparkFun Extensible Message Parser
 https://github.com/sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library.git|Contributed|SparkFun Qwiic Buzzer Library
 https://github.com/EmotiBit/EmotiBit_SimpleFTPServer.git|Contributed|EmotiBit SimpleFTPServer
+https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library.git|Contributed|Sitron Labs SH1106 Arduino Library
