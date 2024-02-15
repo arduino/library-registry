@@ -4203,7 +4203,7 @@ https://github.com/olkal/LCD_ST7032
 https://github.com/ollprogram/SimpleShiftRegisterController
 https://github.com/OM222O/ADS1219
 https://github.com/onelife/Arduino_RT-Thread
-https://github.com/onelife/Arduino_wolfssl
+https://github.com/wolfSSL/arduino-wolfSSL
 https://github.com/onelife/RTT-CMSIS-OS
 https://github.com/onelife/RTT-Ethernet
 https://github.com/onelife/RTT-GUI
