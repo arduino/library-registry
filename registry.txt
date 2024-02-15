@@ -5846,7 +5846,7 @@ https://github.com/fxprime/ModuleMoreSumoV2.git|Contributed|ModuleMore Sumo V2
 https://github.com/naiithink/musicians-mate.git|Contributed|MusiciansMate
 https://github.com/Kaist-ICLab/KAIST_IoTDataScience.git|Contributed|KAIST_IoTDataScience
 https://github.com/teddokano/GPIO_NXP_Arduino.git|Contributed|GPIO_NXP_Arduino
-https://github.com/Sensirion/arduino-upt-core.git|Contributed|Sensirion_UPT_Core
+https://github.com/Sensirion/arduino-upt-core.git|Contributed|Sensirion UPT Core
 https://github.com/MicroBeaut/Finite-State.git|Contributed|Finite-State
 https://github.com/Nickjgniklu/ESP_TF.git|Contributed|ESP_TF
 https://github.com/mlesniew/PicoMQTT.git|Contributed|PicoMQTT
