@@ -6779,3 +6779,4 @@ https://github.com/sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library.git|Contribute
 https://github.com/EmotiBit/EmotiBit_SimpleFTPServer.git|Contributed|EmotiBit SimpleFTPServer
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library.git|Contributed|Sitron Labs SH1106 Arduino Library
 https://github.com/The-Randalorian/Rando-HX711-Arduino-Library.git|Contributed|Rando HX711 Library
+https://github.com/teddokano/BusRepeater_NXP_Arduino.git|Contributed|BusRepeater_NXP_Arduino
