@@ -6783,3 +6783,4 @@ https://github.com/teddokano/BusRepeater_NXP_Arduino.git|Contributed|BusRepeater
 https://github.com/tdk-invn-oss/pressure.arduino.ICP101XX.git|Contributed|ICP101xx
 https://github.com/nruin7/Arduino-XBox-Controller-Handler.git|Contributed|XBoxControllerHandler
 https://github.com/Sam4uk/Password.git|Contributed|Password
+https://github.com/mbrugman67/Uno-Minimal-HUB75.git|Contributed|Uno_HUB75_Driver
