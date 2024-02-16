@@ -6062,6 +6062,7 @@ https://github.com/techwillsaveus/Gamer
 https://github.com/techwillsaveus/GamerIR
 https://github.com/teckel12/arduino-toneac
 https://github.com/teddokano/AFE_NXP_Arduino
+https://github.com/teddokano/BusRepeater_NXP_Arduino
 https://github.com/teddokano/GPIO_NXP_Arduino
 https://github.com/teddokano/I2C_device_Arduino
 https://github.com/teddokano/LCDDriver_NXP_Arduino
