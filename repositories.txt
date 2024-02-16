@@ -5170,6 +5170,7 @@ https://github.com/sakuraio/SakuraIOArduino
 https://github.com/SALITIBI/WMS7202DigitalPotentiometer
 https://github.com/Salterm27/Watch
 https://github.com/salvadorrueda/SerialMP3Player
+https://github.com/Sam4uk/CRSF
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Sam4uk/CRSF
 https://github.com/samelement/ACS-M1128
