@@ -6782,3 +6782,4 @@ https://github.com/The-Randalorian/Rando-HX711-Arduino-Library.git|Contributed|R
 https://github.com/teddokano/BusRepeater_NXP_Arduino.git|Contributed|BusRepeater_NXP_Arduino
 https://github.com/tdk-invn-oss/pressure.arduino.ICP101XX.git|Contributed|ICP101xx
 https://github.com/nruin7/Arduino-XBox-Controller-Handler.git|Contributed|XBoxControllerHandler
+https://github.com/Sam4uk/Password.git|Contributed|Password
