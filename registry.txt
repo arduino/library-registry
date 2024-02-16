@@ -6778,3 +6778,4 @@ https://github.com/sparkfun/SparkFun_Extensible_Message_Parser.git|Contributed|S
 https://github.com/sparkfun/SparkFun_Qwiic_Buzzer_Arduino_Library.git|Contributed|SparkFun Qwiic Buzzer Library
 https://github.com/EmotiBit/EmotiBit_SimpleFTPServer.git|Contributed|EmotiBit SimpleFTPServer
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library.git|Contributed|Sitron Labs SH1106 Arduino Library
+https://github.com/The-Randalorian/Rando-HX711-Arduino-Library.git|Contributed|Rando HX711 Library
