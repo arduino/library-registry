@@ -6685,3 +6685,4 @@ https://github.com/lualtek/lualtek-rakrui
 https://github.com/EmotiBit/EmotiBit_SimpleFTPServer
 https://github.com/The-Randalorian/Rando-HX711-Arduino-Library
 https://github.com/mbrugman67/Uno-Minimal-HUB75
+https://github.com/derekcurry/super_easing
