@@ -2709,7 +2709,6 @@ https://github.com/Jacobllc/SDU_AGS
 https://github.com/jacobrosenthal/MergedStreams
 https://github.com/jaean123/DeadReckoning-library
 https://github.com/jaean123/SnappyXO-PreciseMovement-library
-https://github.com/jaemannyeh/SharkJ1939
 https://github.com/jaggzh/mini-ppm-info
 https://github.com/JAICHANGPARK/Arduino-Watch
 https://github.com/jakalada/Arduino-ADXL345
