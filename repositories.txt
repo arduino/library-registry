@@ -4771,6 +4771,7 @@ https://github.com/ripred/Profiler
 https://github.com/ripred/Smooth
 https://github.com/ripred/TomServo
 https://github.com/riraosan/ESP32MSGraph
+https://github.com/gpb01/R4SwRTC
 https://github.com/RiversEngineering/RiversEngineering
 https://github.com/rleddy/tinycmdtable
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-5813A_5814A_00000057
