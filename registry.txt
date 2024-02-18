@@ -6787,3 +6787,4 @@ https://github.com/mbrugman67/Uno-Minimal-HUB75.git|Contributed|Uno_HUB75_Driver
 https://github.com/mathieucarbou/MycilaTaskManager.git|Contributed|MycilaTaskManager
 https://github.com/gpb01/R4SwRTC.git|Contributed|r4SwRTC
 https://github.com/derekcurry/super_easing.git|Contributed|super_easing
+https://github.com/byrmeng/DeneyapKart.QRCodeReader.git|Contributed|Deneyap Kart QRCodeReader
