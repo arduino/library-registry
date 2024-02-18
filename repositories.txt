@@ -6688,3 +6688,7 @@ https://github.com/mbrugman67/Uno-Minimal-HUB75
 https://github.com/derekcurry/super_easing
 https://github.com/byrmeng/DeneyapKart.QRCodeReader
 https://github.com/Jens3382/xy6020l
+https://github.com/braydenanderson2014/ArduinoArrayList
+https://github.com/braydenanderson2014/ArduinoDoubleLinkedList
+https://github.com/braydenanderson2014/ArduinoLinkedList
+https://github.com/braydenanderson2014/SimpleVector
