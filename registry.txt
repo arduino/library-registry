@@ -6788,3 +6788,4 @@ https://github.com/mathieucarbou/MycilaTaskManager.git|Contributed|MycilaTaskMan
 https://github.com/gpb01/R4SwRTC.git|Contributed|r4SwRTC
 https://github.com/derekcurry/super_easing.git|Contributed|super_easing
 https://github.com/byrmeng/DeneyapKart.QRCodeReader.git|Contributed|Deneyap Kart QRCodeReader
+https://github.com/Jens3382/xy6020l.git|Contributed|xy6020l
