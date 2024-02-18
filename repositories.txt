@@ -6687,3 +6687,4 @@ https://github.com/The-Randalorian/Rando-HX711-Arduino-Library
 https://github.com/mbrugman67/Uno-Minimal-HUB75
 https://github.com/derekcurry/super_easing
 https://github.com/byrmeng/DeneyapKart.QRCodeReader
+https://github.com/Jens3382/xy6020l
