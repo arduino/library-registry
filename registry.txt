@@ -6796,3 +6796,4 @@ https://github.com/braydenanderson2014/SimpleVector.git|Contributed|SimpleVector
 https://github.com/braydenanderson2014/ArduinoSDList.git|Contributed|SDList
 https://github.com/braydenanderson2014/ArduinoHashtable.git|Contributed|Hashtable
 https://github.com/SylvainMontagny/LoRaE5.git|Contributed|LoRaWAN-Seeed-Grove-Wio-E5
+https://github.com/qqqlab/madflight.git|Contributed|madflight
