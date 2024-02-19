@@ -1,3 +1,6 @@
+https://github.com/SylvainMontagny/LoRaE5
+https://github.com/nruin7/Arduino-XBox-Controller-Handler
+https://github.com/tdk-invn-oss/pressure.arduino.ICP101XX
 https://github.com/ropg/OOKwiz
 https://github.com/HackerNowful/BLEHID-SD
 https://github.com/WilliamMS-git/ADXL372
@@ -3701,6 +3704,7 @@ https://github.com/mathieucarbou/MycilaLogger
 https://github.com/mathieucarbou/MycilaMQTT
 https://github.com/mathieucarbou/MycilaNTP
 https://github.com/mathieucarbou/MycilaRelay
+https://github.com/mathieucarbou/MycilaTaskManager
 https://github.com/mathieucarbou/MycilaTaskMonitor
 https://github.com/mathieucarbou/MycilaTrial
 https://github.com/mathworks/thingspeak-arduino
@@ -4768,6 +4772,7 @@ https://github.com/ripred/Profiler
 https://github.com/ripred/Smooth
 https://github.com/ripred/TomServo
 https://github.com/riraosan/ESP32MSGraph
+https://github.com/gpb01/R4SwRTC
 https://github.com/RiversEngineering/RiversEngineering
 https://github.com/rleddy/tinycmdtable
 https://github.com/RLL-Blue-Dragon/OSS-EC_ABLIC_S-5813A_5814A_00000057
@@ -5170,6 +5175,7 @@ https://github.com/Salterm27/Watch
 https://github.com/salvadorrueda/SerialMP3Player
 https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Sam4uk/CRSF
+https://github.com/Sam4uk/Password
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
 https://github.com/Samyz/CESmartCamp
@@ -6679,3 +6685,17 @@ https://github.com/thelastoutpostworkshop/virtualScreen
 https://github.com/lualtek/lualtek-rakrui
 https://github.com/EmotiBit/EmotiBit_SimpleFTPServer
 https://github.com/The-Randalorian/Rando-HX711-Arduino-Library
+https://github.com/mbrugman67/Uno-Minimal-HUB75
+https://github.com/derekcurry/super_easing
+https://github.com/byrmeng/DeneyapKart.QRCodeReader
+https://github.com/Jens3382/xy6020l
+https://github.com/braydenanderson2014/ArduinoArrayList
+https://github.com/braydenanderson2014/ArduinoDoubleLinkedList
+https://github.com/braydenanderson2014/ArduinoLinkedList
+https://github.com/braydenanderson2014/SimpleVector
+https://github.com/braydenanderson2014/ArduinoSDList
+https://github.com/braydenanderson2014/ArduinoHashtable
+https://github.com/braydenanderson2014/ArduinoTimer
+https://github.com/braydenanderson2014/SimpleProperties
+https://github.com/braydenanderson2014/UnorderedMap
+https://github.com/qqqlab/madflight
