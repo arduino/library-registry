@@ -6800,3 +6800,4 @@ https://github.com/qqqlab/madflight.git|Contributed|madflight
 https://github.com/braydenanderson2014/ArduinoTimer.git|Contributed|SuperTimers
 https://github.com/braydenanderson2014/SimpleProperties.git|Contributed|SimpleProperties
 https://github.com/braydenanderson2014/UnorderedMap.git|Contributed|UnorderedMap
+https://github.com/teddokano/BusInOut_Arduino.git|Contributed|BusInOut_Arduino
