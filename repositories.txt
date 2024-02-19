@@ -3208,7 +3208,6 @@ https://github.com/KOEGlike/AsyncButton
 https://github.com/koendv/Arduino-RTTStream
 https://github.com/koendv/CheckDS18B20
 https://github.com/koendv/cst816t
-https://github.com/koendv/FloatToString
 https://github.com/koendv/RTTStream
 https://github.com/koendv/SerialWireOutput
 https://github.com/koendv/STM32duino-Semihosting
