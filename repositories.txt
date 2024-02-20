@@ -6701,3 +6701,4 @@ https://github.com/braydenanderson2014/ArduinoTimer
 https://github.com/braydenanderson2014/SimpleProperties
 https://github.com/braydenanderson2014/UnorderedMap
 https://github.com/qqqlab/madflight
+https://github.com/MJBeltran13/Bucopi_library
