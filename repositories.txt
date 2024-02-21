@@ -1435,7 +1435,7 @@ https://github.com/cschorn01/2.4GHz_Lora_for_Arduino
 https://github.com/CsCrazy85/DatavisionLCD
 https://github.com/CsCrazy85/SCA100T
 https://github.com/cubicleguy/su_arduino_spi
-https://github.com/cubicleguy/su_arduino_uart 
+https://github.com/cubicleguy/su_arduino_uart
 https://github.com/cujomalainey/ant-arduino
 https://github.com/cujomalainey/antplus-arduino
 https://github.com/CuriosityGym/MotorDriver
@@ -2889,7 +2889,7 @@ https://github.com/JoulePhi/Escon-Library
 https://github.com/joysfera/arduino-tasker
 https://github.com/jpb10/SolarCalculator/
 https://github.com/jpconstantineau/BlueMicro_Engine_Arduino_Library
-https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library 
+https://github.com/jpconstantineau/BlueMicro_Examples_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_HID_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_nRF52_Arduino_Library
 https://github.com/jpconstantineau/BlueMicro_RP2040_Arduino_Library.git
@@ -4208,7 +4208,6 @@ https://github.com/olkal/LCD_ST7032
 https://github.com/ollprogram/SimpleShiftRegisterController
 https://github.com/OM222O/ADS1219
 https://github.com/onelife/Arduino_RT-Thread
-https://github.com/wolfSSL/arduino-wolfSSL
 https://github.com/onelife/RTT-CMSIS-OS
 https://github.com/onelife/RTT-Ethernet
 https://github.com/onelife/RTT-GUI
@@ -6442,6 +6441,7 @@ https://github.com/WK-Software56/AdvKeyPad
 https://github.com/wloche/LcdProgressBar
 https://github.com/wloche/LcdProgressBarDouble
 https://github.com/wokwi/TinyDebug
+https://github.com/wolfSSL/Arduino-wolfSSL
 https://github.com/wolfv6/keybrd
 https://github.com/Wolkabout/WolkConnect-Arduino
 https://github.com/wollewald/ADS1115_WE
