@@ -6807,3 +6807,4 @@ https://github.com/tabahi/TabahiConsole.git|Contributed|TabahiConsole
 https://github.com/tabahi/ESP-Wifi-Config.git|Contributed|ESP-Wifi-Config
 https://github.com/mathieucarbou/MycilaPZEM004Tv3.git|Contributed|MycilaPZEM004Tv3
 https://github.com/koendv/FloatToAscii.git|Contributed|FloatToAscii
+https://github.com/DigitalCodesign/DC-Core-Library.git|Contributed|DC-Core-Library
