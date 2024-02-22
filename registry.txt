@@ -6809,3 +6809,4 @@ https://github.com/mathieucarbou/MycilaPZEM004Tv3.git|Contributed|MycilaPZEM004T
 https://github.com/koendv/FloatToAscii.git|Contributed|FloatToAscii
 https://github.com/DigitalCodesign/DC-Core-Library.git|Contributed|DC-Core-Library
 https://github.com/lualtek/buttino-rak.git|Contributed|ButtinoRAK
+https://github.com/tomcombriat/FixMath.git|Contributed|FixMath
