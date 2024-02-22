@@ -6810,3 +6810,4 @@ https://github.com/koendv/FloatToAscii.git|Contributed|FloatToAscii
 https://github.com/DigitalCodesign/DC-Core-Library.git|Contributed|DC-Core-Library
 https://github.com/lualtek/buttino-rak.git|Contributed|ButtinoRAK
 https://github.com/tomcombriat/FixMath.git|Contributed|FixMath
+https://github.com/teddokano/EEPROM_STM_Arduino.git|Contributed|EEPROM_STM_Arduino
