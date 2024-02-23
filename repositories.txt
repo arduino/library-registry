@@ -6717,3 +6717,4 @@ https://github.com/BestModules-Libraries/BM22S3421-1
 https://github.com/BestModules-Libraries/BM25S3421-1
 https://github.com/BestModules-Libraries/BM42S5321-1
 https://github.com/BestModules-Libraries/BMV36T001
+https://github.com/SequentMicrosystems/Sequent-16digin-Library
