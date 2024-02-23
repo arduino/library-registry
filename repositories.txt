@@ -4866,6 +4866,7 @@ https://github.com/ROBOTIS-GIT/ros2arduino
 https://github.com/robotman2412/pax-graphics
 https://github.com/Robox-Robotics/Grove-Offline-Voice-Recognition-Module
 https://github.com/RobPo/Paperino
+https://github.com/RobTillaart/74HC138
 https://github.com/RobTillaart/A1301
 https://github.com/RobTillaart/ACD10
 https://github.com/RobTillaart/ACS712
