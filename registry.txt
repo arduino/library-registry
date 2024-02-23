@@ -6811,3 +6811,7 @@ https://github.com/DigitalCodesign/DC-Core-Library.git|Contributed|DC-Core-Libra
 https://github.com/lualtek/buttino-rak.git|Contributed|ButtinoRAK
 https://github.com/tomcombriat/FixMath.git|Contributed|FixMath
 https://github.com/teddokano/EEPROM_STM_Arduino.git|Contributed|EEPROM_STM_Arduino
+https://github.com/BestModules-Libraries/BM22S3421-1.git|Contributed|BM22S3421-1
+https://github.com/BestModules-Libraries/BM25S3421-1.git|Contributed|BM25S3421-1
+https://github.com/BestModules-Libraries/BM42S5321-1.git|Contributed|BM42S5321-1
+https://github.com/BestModules-Libraries/BMV36T001.git|Contributed|BMV36T001
