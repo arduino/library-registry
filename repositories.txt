@@ -6710,3 +6710,7 @@ https://github.com/qqqlab/madflight
 https://github.com/MJBeltran13/Bucopi_library
 https://github.com/lualtek/buttino-rak
 https://github.com/tomcombriat/FixMath
+https://github.com/BestModules-Libraries/BM22S3421-1
+https://github.com/BestModules-Libraries/BM25S3421-1
+https://github.com/BestModules-Libraries/BM42S5321-1
+https://github.com/BestModules-Libraries/BMV36T001
