@@ -6817,3 +6817,4 @@ https://github.com/BestModules-Libraries/BM42S5321-1.git|Contributed|BM42S5321-1
 https://github.com/BestModules-Libraries/BMV36T001.git|Contributed|BMV36T001
 https://github.com/tdk-invn-oss/pressure.arduino.ICP201XX.git|Contributed|ICP201xx
 https://github.com/RobTillaart/74HC138.git|Contributed|74HC138
+https://github.com/RobTillaart/74HC154.git|Contributed|74HC154
