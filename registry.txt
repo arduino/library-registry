@@ -6758,7 +6758,6 @@ https://github.com/io7lab/IO7F8266.git|Contributed|IO7F8266
 https://github.com/io7lab/IO7F32.git|Contributed|IO7F32
 https://github.com/kenichi884/M5StackToio.git|Contributed|M5StackToio
 https://github.com/RobTillaart/INA3221_RT.git|Contributed|INA3221_RT
-https://github.com/lualtek/buttino-handler.git|Contributed|LualtekButtinoHandler
 https://github.com/HackerNowful/BLEHID-SD.git|Contributed|blesdlib
 https://github.com/bonezegei/Bonezegei_DS1307.git|Contributed|Bonezegei_DS1307
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library.git|Contributed|Sitron Labs WK2132 Arduino Library
