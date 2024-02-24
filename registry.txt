@@ -6822,3 +6822,4 @@ https://github.com/SequentMicrosystems/Sequent-16digin-Library.git|Contributed|S
 https://github.com/yishii/Meiro.git|Contributed|Meiro library
 https://github.com/Abhijeetbyte/StreamLog.git|Contributed|StreamLog
 https://github.com/StefanHerald/Timing.git|Contributed|SimpleTiming
+https://bitbucket.org/logsdonj/rl_tonesongplayer.git|Contributed|RL_ToneSongPlayer
