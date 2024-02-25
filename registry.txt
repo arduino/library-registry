@@ -6825,3 +6825,4 @@ https://github.com/StefanHerald/Timing.git|Contributed|SimpleTiming
 https://bitbucket.org/logsdonj/rl_tonesongplayer.git|Contributed|RL_ToneSongPlayer
 https://github.com/x0x0200/VARSTEP_ultrasonic.git|Contributed|HCSR04 ultrasonic distance sensor
 https://github.com/IlikeChooros/lazyjson.git|Contributed|lazyjson
+https://github.com/The-Young-Maker/OpenMenuOS.git|Contributed|OpenMenuOS
