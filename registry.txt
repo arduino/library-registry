@@ -6823,3 +6823,4 @@ https://github.com/yishii/Meiro.git|Contributed|Meiro library
 https://github.com/Abhijeetbyte/StreamLog.git|Contributed|StreamLog
 https://github.com/StefanHerald/Timing.git|Contributed|SimpleTiming
 https://bitbucket.org/logsdonj/rl_tonesongplayer.git|Contributed|RL_ToneSongPlayer
+https://github.com/x0x0200/VARSTEP_ultrasonic.git|Contributed|HCSR04 ultrasonic distance sensor
