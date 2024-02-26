@@ -6826,3 +6826,5 @@ https://bitbucket.org/logsdonj/rl_tonesongplayer.git|Contributed|RL_ToneSongPlay
 https://github.com/x0x0200/VARSTEP_ultrasonic.git|Contributed|HCSR04 ultrasonic distance sensor
 https://github.com/IlikeChooros/lazyjson.git|Contributed|lazyjson
 https://github.com/The-Young-Maker/OpenMenuOS.git|Contributed|OpenMenuOS
+https://github.com/hex705/Scissors.git|Contributed|Scissors
+https://github.com/hex705/Glue.git|Contributed|Glue
