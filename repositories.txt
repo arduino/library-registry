@@ -1,3 +1,5 @@
+https://github.com/hex705/Scissors
+https://github.com/hex705/Glue
 https://github.com/x0x0200/VARSTEP_ultrasonic
 https://github.com/StefanHerald/Timing
 https://github.com/tdk-invn-oss/pressure.arduino.ICP201XX
