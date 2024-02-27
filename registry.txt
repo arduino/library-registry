@@ -6828,3 +6828,4 @@ https://github.com/IlikeChooros/lazyjson.git|Contributed|lazyjson
 https://github.com/The-Young-Maker/OpenMenuOS.git|Contributed|OpenMenuOS
 https://github.com/hex705/Scissors.git|Contributed|Scissors
 https://github.com/hex705/Glue.git|Contributed|Glue
+https://github.com/winghoko/simpleEvents.git|Contributed|simpleEvents
