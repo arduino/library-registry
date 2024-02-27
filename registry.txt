@@ -85,7 +85,7 @@ https://github.com/arduino-libraries/Arduino_Portenta_OTA.git|Arduino|Arduino_Po
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials.git|Arduino|Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_EdgeControl.git|Arduino|Arduino_EdgeControl
 https://github.com/arduino-libraries/Arduino_NineAxesMotion.git|Arduino|Arduino_NineAxesMotion
-https://github.com/arduino-libraries/Arduino_MachineControl.git|Arduino|Arduino_MachineControl
+https://github.com/arduino-libraries/Arduino_MachineControl.git|Arduino,Retired|Arduino_MachineControl
 https://github.com/arduino-libraries/Arduino_LSM6DSOX.git|Arduino|Arduino_LSM6DSOX
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP.git|Arduino|Arduino_CMSIS-DSP
 
