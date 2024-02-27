@@ -6829,3 +6829,5 @@ https://github.com/The-Young-Maker/OpenMenuOS.git|Contributed|OpenMenuOS
 https://github.com/hex705/Scissors.git|Contributed|Scissors
 https://github.com/hex705/Glue.git|Contributed|Glue
 https://github.com/winghoko/simpleEvents.git|Contributed|simpleEvents
+https://github.com/Destination-SPACE/DS_MCP4018_Library.git|Contributed|DS MCP4018 Library
+https://github.com/Destination-SPACE/DS_PCA9536_Library.git|Contributed|DS PCA9536 Library
