@@ -3413,7 +3413,6 @@ https://github.com/lperez31/youmadeit-arduino
 https://github.com/LSatan/SmartRC-CC1101-Driver-Lib
 https://github.com/lu1aat/hellschreiberlib
 https://github.com/lualtek/cubecell-device-lib
-https://github.com/lualtek/lualtek-rak3172
 https://github.com/lualtek/ttn-device-lib
 https://github.com/lualtek/wisblock-io-extension-mini
 https://github.com/lucadentella/ArduinoLib_CEClient
@@ -6698,7 +6697,6 @@ https://github.com/Blue-Crescent/JJYReceiver
 https://github.com/io7lab/IO7F8266
 https://github.com/kenichi884/M5StackToio
 https://github.com/io7lab/IO7F32
-https://github.com/lualtek/buttino-handler
 https://github.com/thelastoutpostworkshop/virtualScreen
 https://github.com/lualtek/lualtek-rakrui
 https://github.com/EmotiBit/EmotiBit_SimpleFTPServer
