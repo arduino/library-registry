@@ -1431,7 +1431,7 @@ https://github.com/cotestatnt/async-esp-fs-webserver
 https://github.com/cotestatnt/AsyncTelegram2
 https://github.com/cotestatnt/DigitalSignal
 https://github.com/cotestatnt/esp-fs-webserver
-https://github.com/cotestatnt/YA_FSM
+https://github.com/cotestatnt/AgileStateMachine/
 https://github.com/cranties/escposprinter
 https://github.com/Crazy-Max-Blog/Crazy_IoTik
 https://github.com/Crazy-Max-Blog/CrazyHC595
