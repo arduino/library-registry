@@ -6834,3 +6834,4 @@ https://github.com/bonezegei/Bonezegei_DRV8825.git|Contributed|Bonezegei_DRV8825
 https://github.com/cotestatnt/AgileStateMachine.git|Contributed|AgileStateMachine
 https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201.git|Contributed|ICUX0201
 https://github.com/dlyckelid/HDC2010.git|Contributed|HDC2010
+https://github.com/Sensirion/arduino-upt-i2c-auto-detection.git|Contributed|Sensirion UPT I2C Auto Detection
