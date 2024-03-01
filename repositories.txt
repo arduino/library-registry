@@ -1161,6 +1161,7 @@ https://github.com/bolderflight/vector_nav
 https://github.com/bonezegei/Bonezegei_Compute
 https://github.com/bonezegei/Bonezegei_DHT11
 https://github.com/bonezegei/Bonezegei_DHT22
+https://github.com/bonezegei/Bonezegei_DRV8825
 https://github.com/bonezegei/Bonezegei_DS3231
 https://github.com/bonezegei/Bonezegei_DS1307
 https://github.com/bonezegei/Bonezegei_GL
