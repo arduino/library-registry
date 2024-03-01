@@ -6832,3 +6832,4 @@ https://github.com/Destination-SPACE/DS_PCA9536_Library.git|Contributed|DS PCA95
 https://github.com/dennisfrett/Arduino-Direct-NEC-Transmitter.git|Contributed|DirectNECTransmitter
 https://github.com/bonezegei/Bonezegei_DRV8825.git|Contributed|Bonezegei_DRV8825
 https://github.com/cotestatnt/AgileStateMachine.git|Contributed|AgileStateMachine
+https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201.git|Contributed|ICUX0201
