@@ -6830,3 +6830,4 @@ https://github.com/winghoko/simpleEvents.git|Contributed|simpleEvents
 https://github.com/Destination-SPACE/DS_MCP4018_Library.git|Contributed|DS MCP4018 Library
 https://github.com/Destination-SPACE/DS_PCA9536_Library.git|Contributed|DS PCA9536 Library
 https://github.com/dennisfrett/Arduino-Direct-NEC-Transmitter.git|Contributed|DirectNECTransmitter
+https://github.com/bonezegei/Bonezegei_DRV8825.git|Contributed|Bonezegei_DRV8825
