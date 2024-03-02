@@ -6836,3 +6836,4 @@ https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201.git|Contributed|ICUX
 https://github.com/dlyckelid/HDC2010.git|Contributed|HDC2010
 https://github.com/Sensirion/arduino-upt-i2c-auto-detection.git|Contributed|Sensirion UPT I2C Auto Detection
 https://github.com/PowerFeather/powerfeather-sdk.git|Contributed|PowerFeather-SDK
+https://github.com/bonezegei/Bonezegei_ULN2003_Stepper.git|Contributed|Bonezegei_ULN2003_Stepper
