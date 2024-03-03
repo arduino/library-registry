@@ -1176,6 +1176,7 @@ https://github.com/bonezegei/Bonezegei_ILI9341v2
 https://github.com/bonezegei/Bonezegei_LCD1602_I2C
 https://github.com/bonezegei/Bonezegei_LCD2004_I2C
 https://github.com/bonezegei/Bonezegei_List
+https://github.com/bonezegei/Bonezegei_PCA9685
 https://github.com/bonezegei/Bonezegei_PCF8574
 https://github.com/bonezegei/Bonezegei_Protocol
 https://github.com/bonezegei/Bonezegei_RS485
