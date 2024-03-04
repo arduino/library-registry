@@ -6839,3 +6839,4 @@ https://github.com/PowerFeather/powerfeather-sdk.git|Contributed|PowerFeather-SD
 https://github.com/bonezegei/Bonezegei_ULN2003_Stepper.git|Contributed|Bonezegei_ULN2003_Stepper
 https://github.com/AdvancerTechnologies/MyoWare-Arduino-Library.git|Contributed|MyoWare Arduino Library
 https://github.com/bonezegei/Bonezegei_PCA9685.git|Contributed|Bonezegei_PCA9685
+https://github.com/RaffaeleMorganti/protectedAES.git|Contributed|protectedAES
