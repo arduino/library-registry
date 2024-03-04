@@ -6842,3 +6842,4 @@ https://github.com/bonezegei/Bonezegei_PCA9685.git|Contributed|Bonezegei_PCA9685
 https://github.com/RaffaeleMorganti/protectedAES.git|Contributed|protectedAES
 https://github.com/ropg/ESP32_RTC_EEPROM.git|Contributed|ESP32_RTC_EEPROM
 https://github.com/ropg/heltec_esp32_lora_v3.git|Contributed|Heltec_ESP32_LoRa_v3
+https://github.com/WitsanuP/WitsanuDotH.git|Contributed|Witsanu
