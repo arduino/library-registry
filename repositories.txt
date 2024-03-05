@@ -6745,3 +6745,4 @@ https://github.com/RaffaeleMorganti/protectedAES
 https://github.com/WitsanuP/WitsanuDotH
 https://github.com/blackhack/LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c
+https://github.com/zumatt/Supabase-ESP32
