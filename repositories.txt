@@ -1,3 +1,4 @@
+https://github.com/x-radio/EEBoom
 https://github.com/ropg/ESP32_RTC_EEPROM
 https://github.com/ropg/heltec_esp32_lora_v3
 https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201
