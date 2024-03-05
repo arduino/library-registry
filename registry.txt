@@ -6845,3 +6845,4 @@ https://github.com/ropg/heltec_esp32_lora_v3.git|Contributed|Heltec_ESP32_LoRa_v
 https://github.com/WitsanuP/WitsanuDotH.git|Contributed|Witsanu
 https://github.com/blackhack/LittleVector.git|Contributed|LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c.git|Contributed|Qmi8658c
+https://github.com/x-radio/EEBoom.git|Contributed|EEBoom
