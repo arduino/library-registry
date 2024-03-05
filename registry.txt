@@ -6846,3 +6846,4 @@ https://github.com/WitsanuP/WitsanuDotH.git|Contributed|Witsanu
 https://github.com/blackhack/LittleVector.git|Contributed|LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c.git|Contributed|Qmi8658c
 https://github.com/x-radio/EEBoom.git|Contributed|EEBoom
+https://github.com/zumatt/Supabase-ESP32.git|Contributed|Supabase-ESP32
