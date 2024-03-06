@@ -1,3 +1,8 @@
+https://github.com/ojw5014/OpenJigWare_A
+https://github.com/x-radio/EEBoom
+https://github.com/ropg/ESP32_RTC_EEPROM
+https://github.com/ropg/heltec_esp32_lora_v3
+https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201
 https://github.com/dennisfrett/Arduino-Direct-NEC-Transmitter
 https://github.com/Destination-SPACE/DS_MCP4018_Library
 https://github.com/Destination-SPACE/DS_PCA9536_Library
@@ -1175,12 +1180,14 @@ https://github.com/bonezegei/Bonezegei_ILI9341v2
 https://github.com/bonezegei/Bonezegei_LCD1602_I2C
 https://github.com/bonezegei/Bonezegei_LCD2004_I2C
 https://github.com/bonezegei/Bonezegei_List
+https://github.com/bonezegei/Bonezegei_PCA9685
 https://github.com/bonezegei/Bonezegei_PCF8574
 https://github.com/bonezegei/Bonezegei_Protocol
 https://github.com/bonezegei/Bonezegei_RS485
 https://github.com/bonezegei/Bonezegei_Search
 https://github.com/bonezegei/Bonezegei_SoftSerial
 https://github.com/bonezegei/Bonezegei_SSD1306
+https://github.com/bonezegei/Bonezegei_ULN2003_Stepper
 https://github.com/bonezegei/Bonezegei_Utility
 https://github.com/bonezegei/Bonezegei_WS2812
 https://github.com/bonezegei/Bonezegei_XPT2046
@@ -1792,6 +1799,7 @@ https://github.com/Dlloydev/ESP32-ESP32S2-AnalogWrite
 https://github.com/Dlloydev/QuickPID
 https://github.com/Dlloydev/sTune
 https://github.com/Dlloydev/Toggle
+https://github.com/dlyckelid/HDC2010
 https://github.com/dlyckelid/IOExpander-TLA2518
 https://github.com/dlyckelid/KX023-1025-IMU
 https://github.com/dmadison/AnalogSelector-Arduino
@@ -5358,6 +5366,7 @@ https://github.com/Sensirion/arduino-uart-sen44
 https://github.com/Sensirion/arduino-uart-sfa3x
 https://github.com/sensirion/arduino-uart-svm4x
 https://github.com/Sensirion/arduino-upt-core
+https://github.com/Sensirion/arduino-upt-i2c-auto-detection
 https://github.com/sensorium/Mozzi
 https://github.com/sensslen/LibLanc
 https://github.com/septillion-git/FadeLed
@@ -6730,3 +6739,10 @@ https://bitbucket.org/logsdonj/rl_tonesongplayer/
 https://github.com/IlikeChooros/lazyjson
 https://github.com/The-Young-Maker/OpenMenuOS
 https://github.com/winghoko/simpleEvents
+https://github.com/PowerFeather/powerfeather-sdk
+https://github.com/AdvancerTechnologies/MyoWare-Arduino-Library
+https://github.com/RaffaeleMorganti/protectedAES
+https://github.com/WitsanuP/WitsanuDotH
+https://github.com/blackhack/LittleVector
+https://github.com/ALICHOUCHENE/Qmi8658c
+https://github.com/zumatt/Supabase-ESP32
