@@ -6847,3 +6847,4 @@ https://github.com/blackhack/LittleVector.git|Contributed|LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c.git|Contributed|Qmi8658c
 https://github.com/x-radio/EEBoom.git|Contributed|EEBoom
 https://github.com/zumatt/Supabase-ESP32.git|Contributed|Supabase-ESP32
+https://github.com/ojw5014/OpenJigWare_A.git|Contributed|OpenJigWare_A
