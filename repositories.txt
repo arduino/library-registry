@@ -7,6 +7,7 @@ https://github.com/dennisfrett/Arduino-Direct-NEC-Transmitter
 https://github.com/Destination-SPACE/DS_MCP4018_Library
 https://github.com/Destination-SPACE/DS_PCA9536_Library
 https://github.com/hex705/Scissors
+https://github.com/Robotistan/REX-8in1-V2
 https://github.com/hex705/Glue
 https://github.com/x0x0200/VARSTEP_ultrasonic
 https://github.com/StefanHerald/Timing
