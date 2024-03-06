@@ -5015,6 +5015,7 @@ https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/map2bits
 https://github.com/RobTillaart/map2colour
 https://github.com/RobTillaart/MATRIX7219
+https://github.com/RobTillaart/MAX520
 https://github.com/RobTillaart/MAX14661
 https://github.com/RobTillaart/MAX31850
 https://github.com/RobTillaart/MAX31855_RT
