@@ -3515,6 +3515,10 @@ https://github.com/m2m-solutions/M2M_MiraOne
 https://github.com/m2m-solutions/M2M_Quectel
 https://github.com/m2m-solutions/M2M_TLV
 https://github.com/m516/TinyMatrixMath
+https://github.com/m5stack/M5DinMeter
+https://github.com/m5stack/M5Unit-WeightI2C
+https://github.com/m5stack/M5Unit-PbHub
+https://github.com/m5stack/M5Unit-CAN
 https://github.com/m5stack/ATOM_DTU_CAT1
 https://github.com/m5stack/ATOM_DTU_LoRaWAN
 https://github.com/m5stack/ATOM_DTU_NB
