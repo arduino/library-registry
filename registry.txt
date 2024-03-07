@@ -6856,3 +6856,4 @@ https://github.com/m5stack/M5Unit-WeightI2C.git|Contributed|M5UnitWeightI2C
 https://github.com/m5stack/M5Unit-PbHub.git|Contributed|M5Unit-PbHub
 https://github.com/m5stack/M5Unit-CAN.git|Contributed|M5Unit-CAN
 https://github.com/pierremolinaro/acanfd-giga-r1.git|Contributed|ACANFD_GIGA_R1
+https://github.com/bonezegei/Bonezegei_A4988.git|Contributed|Bonezegei_A4988
