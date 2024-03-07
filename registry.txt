@@ -6850,3 +6850,4 @@ https://github.com/zumatt/Supabase-ESP32.git|Contributed|Supabase-ESP32
 https://github.com/ojw5014/OpenJigWare_A.git|Contributed|OpenJigWare_A
 https://github.com/RobTillaart/float16ext.git|Contributed|float16ext
 https://github.com/RobTillaart/MAX520.git|Contributed|MAX520
+https://github.com/RajasundaramM/ReadFilter.git|Contributed|ReadFilter
