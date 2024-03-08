@@ -6857,3 +6857,4 @@ https://github.com/m5stack/M5Unit-CAN.git|Contributed|M5Unit-CAN
 https://github.com/pierremolinaro/acanfd-giga-r1.git|Contributed|ACANFD_GIGA_R1
 https://github.com/bonezegei/Bonezegei_A4988.git|Contributed|Bonezegei_A4988
 https://github.com/FXDuke/Tools.git|Contributed|Tools
+https://github.com/MarcoAntonioGonCas/LedLib.git|Contributed|LedLib
