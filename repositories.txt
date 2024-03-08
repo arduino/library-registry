@@ -6749,6 +6749,7 @@ https://bitbucket.org/logsdonj/rl_tonesongplayer/
 https://github.com/IlikeChooros/lazyjson
 https://github.com/The-Young-Maker/OpenMenuOS
 https://github.com/winghoko/simpleEvents
+https://github.com/MarcoAntonioGonCas/LedLib
 https://github.com/PowerFeather/powerfeather-sdk
 https://github.com/AdvancerTechnologies/MyoWare-Arduino-Library
 https://github.com/RaffaeleMorganti/protectedAES
