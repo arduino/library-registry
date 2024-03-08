@@ -1038,7 +1038,7 @@ https://github.com/BestModules-Libraries/BMS36T001
 https://github.com/BestModules-Libraries/BMS56M605
 https://github.com/BestModules-Libraries/BMS81M001
 https://github.com/BestModules-Libraries/BMV23M001
-https://github.com/bestrobotics/ArduinoGizmo
+https://github.com/gizmo-platform/ArduinoGizmo
 https://github.com/Bexin3/GigaScope
 https://github.com/Bexin3/Snowduino
 https://github.com/Bexin3/Speeduino
