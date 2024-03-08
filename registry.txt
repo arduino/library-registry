@@ -6617,7 +6617,7 @@ https://github.com/Crazy-Max-Blog/CrazyHC595.git|Contributed|CrazyHC595
 https://github.com/kmilo17pet/qlibs-cpp.git|Contributed|qlibs
 https://github.com/GuruSR/SmallRTC.git|Contributed|SmallRTC
 https://github.com/shigobu/CH9329_Keyboard.git|Contributed|CH9329_Keyboard
-https://github.com/mkeras/pubsubclient.git|Contributed|PubSubClient_for_protobuf
+https://github.com/mkeras/pubsubclient.git|Contributed|PubSubClient_iiot
 https://github.com/H1Jam/Bind.git|Contributed|Bind
 https://github.com/pxsty0/pxserv.lib.git|Contributed|PxServ
 https://github.com/dejwk/roo_icons.git|Contributed|roo_icons
