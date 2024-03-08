@@ -6757,3 +6757,8 @@ https://github.com/WitsanuP/WitsanuDotH
 https://github.com/blackhack/LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c
 https://github.com/zumatt/Supabase-ESP32
+https://github.com/deangi/TiltSensor
+https://github.com/deangi/UltrasonicSensor
+https://github.com/deangi/RCWL0516
+https://github.com/deangi/IRProxSensor
+https://github.com/deangi/PIRSensor
