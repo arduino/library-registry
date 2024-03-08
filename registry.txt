@@ -6765,7 +6765,7 @@ https://github.com/arduino-libraries/Arduino_SecureElement.git|Arduino|Arduino_S
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library.git|Contributed|Sitron Labs TIC Arduino Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library.git|Contributed|Sitron Labs ST75256 Arduino Library
 https://github.com/thelastoutpostworkshop/virtualScreen.git|Contributed|VirtualScreen
-https://github.com/bestrobotics/ArduinoGizmo.git|Contributed|Gizmo
+https://github.com/gizmo-platform/ArduinoGizmo.git|Contributed|Gizmo
 https://github.com/lualtek/lualtek-rakrui.git|Contributed|LualtekRAKRUI
 https://github.com/ropg/OOKwiz.git|Contributed|OOKwiz
 https://github.com/sparkfun/SparkFun_BQ40Z50_Battery_Manager_Arduino_Library.git|Contributed|SparkFun BQ40Z50 Battery Manager Arduino Library
