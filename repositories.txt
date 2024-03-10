@@ -8,6 +8,7 @@ https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201
 https://github.com/dennisfrett/Arduino-Direct-NEC-Transmitter
 https://github.com/Destination-SPACE/DS_MCP4018_Library
 https://github.com/Destination-SPACE/DS_PCA9536_Library
+https://github.com/FinianLandes/SpotifyEsp32
 https://github.com/hex705/Scissors
 https://github.com/hex705/Glue
 https://github.com/x0x0200/VARSTEP_ultrasonic
