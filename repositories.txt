@@ -2744,6 +2744,7 @@ https://github.com/jakalada/Arduino-S5851A
 https://github.com/jakalada/Arduino-S9706
 https://github.com/jakerabid/WiFiManager
 https://github.com/jakeread/osap-arduino
+https://github.com/jakeread/mudlink
 https://github.com/Jakkapan-a/TcBUTTON
 https://github.com/jalr/EE895
 https://github.com/Jan-NiklasB/MH-Z14A-Library
