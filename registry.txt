@@ -6865,3 +6865,4 @@ https://github.com/deangi/IRProxSensor.git|Contributed|IRProxSensor
 https://github.com/deangi/PIRSensor.git|Contributed|PIRSensor
 https://github.com/jakeread/mudlink.git|Contributed|mudlink
 https://github.com/FinianLandes/SpotifyEsp32.git|Contributed|Spotify_Esp32
+https://github.com/ropg/HotButton.git|Contributed|HotButton
