@@ -6868,3 +6868,4 @@ https://github.com/FinianLandes/SpotifyEsp32.git|Contributed|Spotify_Esp32
 https://github.com/ropg/HotButton.git|Contributed|HotButton
 https://github.com/bluejunimo/YX5300_ESP32.git|Contributed|YX5300 for ESP32
 https://gitlab.com/soruce/pimiento-clock-library.git|Contributed|PimientoClockLib
+https://github.com/buildybee/blite.git|Contributed|blite
