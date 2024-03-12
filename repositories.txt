@@ -6767,3 +6767,4 @@ https://github.com/deangi/IRProxSensor
 https://github.com/deangi/PIRSensor
 https://github.com/bluejunimo/YX5300_ESP32
 https://gitlab.com/soruce/pimiento-clock-library
+https://github.com/buildybee/blite
