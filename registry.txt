@@ -6871,3 +6871,4 @@ https://gitlab.com/soruce/pimiento-clock-library.git|Contributed|PimientoClockLi
 https://github.com/buildybee/blite.git|Contributed|blite
 https://github.com/lysek01/PulseFlowMeter.git|Contributed|PulseFlowMeter
 https://github.com/Howard-Z/UCLA-SMV-CAN.git|Contributed|SMV_CAN_Bus
+https://github.com/bonezegei/Bonezegei_Printf.git|Contributed|Bonezegei_Printf
