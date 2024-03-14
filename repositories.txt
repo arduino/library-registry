@@ -1,3 +1,7 @@
+https://github.com/I-AM-ENGINEER/MT6701-arduino
+https://github.com/Erqos/EQSP32
+https://github.com/ropg/HotButton
+https://github.com/FXDuke/Tools
 https://github.com/pierremolinaro/acanfd-giga-r1
 https://github.com/ojw5014/OpenJigWare_A
 https://github.com/x-radio/EEBoom
@@ -7,6 +11,7 @@ https://github.com/tdk-invn-oss/ultrasonic.arduino.ICUX0201
 https://github.com/dennisfrett/Arduino-Direct-NEC-Transmitter
 https://github.com/Destination-SPACE/DS_MCP4018_Library
 https://github.com/Destination-SPACE/DS_PCA9536_Library
+https://github.com/FinianLandes/SpotifyEsp32
 https://github.com/hex705/Scissors
 https://github.com/hex705/Glue
 https://github.com/x0x0200/VARSTEP_ultrasonic
@@ -1185,6 +1190,7 @@ https://github.com/bonezegei/Bonezegei_LCD2004_I2C
 https://github.com/bonezegei/Bonezegei_List
 https://github.com/bonezegei/Bonezegei_PCA9685
 https://github.com/bonezegei/Bonezegei_PCF8574
+https://github.com/bonezegei/Bonezegei_Printf
 https://github.com/bonezegei/Bonezegei_Protocol
 https://github.com/bonezegei/Bonezegei_RS485
 https://github.com/bonezegei/Bonezegei_Search
@@ -2743,6 +2749,7 @@ https://github.com/jakalada/Arduino-S5851A
 https://github.com/jakalada/Arduino-S9706
 https://github.com/jakerabid/WiFiManager
 https://github.com/jakeread/osap-arduino
+https://github.com/jakeread/mudlink
 https://github.com/Jakkapan-a/TcBUTTON
 https://github.com/jalr/EE895
 https://github.com/Jan-NiklasB/MH-Z14A-Library
@@ -3502,6 +3509,7 @@ https://github.com/Lynxmotion/Arduino-PPM
 https://github.com/Lynxmotion/LSS_Library_Arduino
 https://github.com/lyriarte/StripDisplay
 https://github.com/lysek01/ModbusPowerMeter/
+https://github.com/lysek01/PulseFlowMeter/
 https://github.com/lyvewave/arduino-serial-data-exporter
 https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
@@ -6748,6 +6756,7 @@ https://bitbucket.org/logsdonj/rl_tonesongplayer/
 https://github.com/IlikeChooros/lazyjson
 https://github.com/The-Young-Maker/OpenMenuOS
 https://github.com/winghoko/simpleEvents
+https://github.com/MarcoAntonioGonCas/LedLib
 https://github.com/PowerFeather/powerfeather-sdk
 https://github.com/AdvancerTechnologies/MyoWare-Arduino-Library
 https://github.com/RaffaeleMorganti/protectedAES
@@ -6755,3 +6764,12 @@ https://github.com/WitsanuP/WitsanuDotH
 https://github.com/blackhack/LittleVector
 https://github.com/ALICHOUCHENE/Qmi8658c
 https://github.com/zumatt/Supabase-Arduino
+https://github.com/deangi/TiltSensor
+https://github.com/deangi/UltrasonicSensor
+https://github.com/deangi/RCWL0516
+https://github.com/deangi/IRProxSensor
+https://github.com/deangi/PIRSensor
+https://github.com/bluejunimo/YX5300_ESP32
+https://gitlab.com/soruce/pimiento-clock-library
+https://github.com/buildybee/blite
+https://github.com/Howard-Z/UCLA-SMV-CAN
