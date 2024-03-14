@@ -6617,7 +6617,7 @@ https://github.com/Crazy-Max-Blog/CrazyHC595.git|Contributed|CrazyHC595
 https://github.com/kmilo17pet/qlibs-cpp.git|Contributed|qlibs
 https://github.com/GuruSR/SmallRTC.git|Contributed|SmallRTC
 https://github.com/shigobu/CH9329_Keyboard.git|Contributed|CH9329_Keyboard
-https://github.com/mkeras/pubsubclient.git|Contributed|PubSubClient_for_protobuf
+https://github.com/mkeras/pubsubclient.git|Contributed|PubSubClient_iiot
 https://github.com/H1Jam/Bind.git|Contributed|Bind
 https://github.com/pxsty0/pxserv.lib.git|Contributed|PxServ
 https://github.com/dejwk/roo_icons.git|Contributed|roo_icons
@@ -6865,3 +6865,12 @@ https://github.com/deangi/IRProxSensor.git|Contributed|IRProxSensor
 https://github.com/deangi/PIRSensor.git|Contributed|PIRSensor
 https://github.com/jakeread/mudlink.git|Contributed|mudlink
 https://github.com/FinianLandes/SpotifyEsp32.git|Contributed|SpotifyEsp32
+https://github.com/ropg/HotButton.git|Contributed|HotButton
+https://github.com/bluejunimo/YX5300_ESP32.git|Contributed|YX5300 for ESP32
+https://gitlab.com/soruce/pimiento-clock-library.git|Contributed|PimientoClockLib
+https://github.com/buildybee/blite.git|Contributed|blite
+https://github.com/lysek01/PulseFlowMeter.git|Contributed|PulseFlowMeter
+https://github.com/Howard-Z/UCLA-SMV-CAN.git|Contributed|SMV_CAN_Bus
+https://github.com/bonezegei/Bonezegei_Printf.git|Contributed|Bonezegei_Printf
+https://github.com/Erqos/EQSP32.git|Contributed|EQSP32
+https://github.com/I-AM-ENGINEER/MT6701-arduino.git|Contributed|MT6701-arduino
