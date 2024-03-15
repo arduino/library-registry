@@ -6776,3 +6776,4 @@ https://github.com/bluejunimo/YX5300_ESP32
 https://gitlab.com/soruce/pimiento-clock-library
 https://github.com/buildybee/blite
 https://github.com/Howard-Z/UCLA-SMV-CAN
+https://github.com/paulino/ha-mqtt-entities
