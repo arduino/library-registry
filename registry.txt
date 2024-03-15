@@ -6877,3 +6877,4 @@ https://github.com/I-AM-ENGINEER/MT6701-arduino.git|Contributed|MT6701-arduino
 https://github.com/yuuu/M5StampC3LED.git|Contributed|M5StampC3LED
 https://github.com/okalachev/flixperiph.git|Contributed|FlixPeriph
 https://github.com/crozone-technology/crozone-veml6040.git|Contributed|CROZONE-VEML6040
+https://github.com/paulino/ha-mqtt-entities.git|Contributed|HaMqttEntities
