@@ -6779,3 +6779,4 @@ https://github.com/buildybee/blite
 https://github.com/Howard-Z/UCLA-SMV-CAN
 https://github.com/paulino/ha-mqtt-entities
 https://github.com/dattasaurabh82/DFRobot_GDL
+https://github.com/iwandwip/Kinematrix
