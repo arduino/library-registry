@@ -6880,3 +6880,4 @@ https://github.com/crozone-technology/crozone-veml6040.git|Contributed|CROZONE-V
 https://github.com/paulino/ha-mqtt-entities.git|Contributed|HaMqttEntities
 https://github.com/fanfanlatulipe26/FS_MX1508.git|Contributed|FS_MX1508
 https://github.com/dattasaurabh82/DFRobot_GDL.git|Contributed|DFRobot_GDL
+https://github.com/iwandwip/Kinematrix.git|Contributed|Kinematrix
