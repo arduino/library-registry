@@ -6882,3 +6882,4 @@ https://github.com/fanfanlatulipe26/FS_MX1508.git|Contributed|FS_MX1508
 https://github.com/dattasaurabh82/DFRobot_GDL.git|Contributed|DFRobot_GDL
 https://github.com/iwandwip/Kinematrix.git|Contributed|Kinematrix
 https://github.com/floatplane/Ministache.git|Contributed|Ministache
+https://github.com/Witty-Wizard/SerialIO.git|Contributed|serialIO
