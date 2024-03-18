@@ -5778,6 +5778,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect
 https://github.com/sparkfun/SparkFun_QwiicNES_Arduino_Library
 https://github.com/sparkfun/SparkFun_QwiicRF_Library
+https://github.com/sparkfun/SparkFun_Qwiic_XM125_Arduino_Library
 https://github.com/sparkfun/SparkFun_RedBot_Arduino_Library
 https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library
 https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
