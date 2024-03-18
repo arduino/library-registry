@@ -6783,3 +6783,4 @@ https://github.com/paulino/ha-mqtt-entities
 https://github.com/dattasaurabh82/DFRobot_GDL
 https://github.com/iwandwip/Kinematrix
 https://github.com/floatplane/Ministache
+https://github.com/MHeironimus/ArduinoJoystickLibrary
