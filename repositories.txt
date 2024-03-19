@@ -6415,6 +6415,13 @@ https://github.com/vivitainc/VivicoreSerial
 https://github.com/VizIoT-com/viziot-mqtt-client-arduino
 https://github.com/VMinute/RootCertificates
 https://github.com/vonnieda/ScreenUi
+https://github.com/vovagorodok/ArduinoBleChess
+https://github.com/vovagorodok/ArduinoBleOTA
+https://github.com/vovagorodok/ArduinoPin
+https://github.com/vovagorodok/ArduinoStreamLogger
+https://github.com/vovagorodok/ArrayUtils
+https://github.com/vovagorodok/PicChess
+https://github.com/vovagorodok/Servo
 https://github.com/Vrekrer/Vrekrer_scpi_parser
 https://github.com/vshymanskyy/Preferences
 https://github.com/vshymanskyy/StreamDebugger
