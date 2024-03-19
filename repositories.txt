@@ -1,3 +1,4 @@
+https://github.com/Karibura-Cyber/NHBot
 https://github.com/locple/LiquidCrystal_I2C_UTF8
 https://github.com/Witty-Wizard/SerialIO
 https://github.com/fanfanlatulipe26/FS_MX1508
@@ -5778,6 +5779,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_Ultrasonic_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Universal_Auto-Detect
 https://github.com/sparkfun/SparkFun_QwiicNES_Arduino_Library
 https://github.com/sparkfun/SparkFun_QwiicRF_Library
+https://github.com/sparkfun/SparkFun_Qwiic_XM125_Arduino_Library
 https://github.com/sparkfun/SparkFun_RedBot_Arduino_Library
 https://github.com/sparkfun/SparkFun_RFD77402_Arduino_Library
 https://github.com/sparkfun/Sparkfun_RGB_OLED_64x64_Arduino_Library
@@ -6790,3 +6792,4 @@ https://github.com/paulino/ha-mqtt-entities
 https://github.com/dattasaurabh82/DFRobot_GDL
 https://github.com/iwandwip/Kinematrix
 https://github.com/floatplane/Ministache
+https://github.com/dvelaren/ThingworxESP32
