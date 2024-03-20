@@ -6794,3 +6794,4 @@ https://github.com/iwandwip/Kinematrix
 https://github.com/floatplane/Ministache
 https://github.com/dvelaren/ThingworxESP32
 https://github.com/alunit3/ServoESP32
+https://github.com/fire1/CmdSerial
