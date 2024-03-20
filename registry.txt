@@ -6894,3 +6894,4 @@ https://github.com/vovagorodok/ArduinoStreamLogger.git|Contributed|vovagorodok_A
 https://github.com/vovagorodok/ArrayUtils.git|Contributed|vovagorodok_ArrayUtils
 https://github.com/vovagorodok/PicChess.git|Contributed|vovagorodok_PicChess
 https://github.com/vovagorodok/Servo.git|Contributed|vovagorodok_Servo
+https://github.com/alunit3/ServoESP32.git|Contributed|ServoESP32Fix
