@@ -6883,7 +6883,7 @@ https://github.com/dattasaurabh82/DFRobot_GDL.git|Contributed|DFRobot_GDL
 https://github.com/iwandwip/Kinematrix.git|Contributed|Kinematrix
 https://github.com/floatplane/Ministache.git|Contributed|Ministache
 https://github.com/Witty-Wizard/SerialIO.git|Contributed|serialIO
-https://github.com/locple/LiquidCrystal_I2C_UTF8.git|Contributed|LiquidCrystal I2C UTF8
+https://github.com/locple/LiquidCrystal_I2C_UTF8.git|Contributed|LiquidCrystal_I2C_UTF8
 https://github.com/sparkfun/SparkFun_Qwiic_XM125_Arduino_Library.git|Contributed|SparkFun XM125 Arduino Library
 https://github.com/Karibura-Cyber/NHBot.git|Contributed|NHBot
 https://github.com/dvelaren/ThingworxESP32.git|Contributed|Thingworx ESP32
