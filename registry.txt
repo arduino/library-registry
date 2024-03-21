@@ -6896,3 +6896,4 @@ https://github.com/vovagorodok/PicChess.git|Contributed|vovagorodok_PicChess
 https://github.com/vovagorodok/Servo.git|Contributed|vovagorodok_Servo
 https://github.com/alunit3/ServoESP32.git|Contributed|ServoESP32Fix
 https://github.com/fire1/CmdSerial.git|Contributed|CmdSerial
+https://github.com/pokerobo/Pokerobo_RCB.git|Contributed|Pokerobo RCB
