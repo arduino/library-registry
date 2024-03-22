@@ -6899,3 +6899,4 @@ https://github.com/pokerobo/Pokerobo_RCB.git|Contributed|Pokerobo RCB
 https://github.com/SikongJueluo/LCT200.git|Contributed|LCT200
 https://github.com/pokerobo/Pokerobo_Car.git|Contributed|Pokerobo_Car
 https://github.com/pokerobo/Pokerobo_Labs.git|Contributed|Pokerobo_Labs
+https://github.com/HackerNowful/SD-Ducky.git|Contributed|sd-ducky-v1
