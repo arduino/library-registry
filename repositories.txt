@@ -756,7 +756,7 @@ https://github.com/arduino-libraries/Keyboard
 https://github.com/arduino-libraries/LiquidCrystal
 https://github.com/arduino-libraries/MadgwickAHRS
 https://github.com/arduino-libraries/MIDIUSB
-https://github.com/arduino-libraries/MKRGSM
+https://github.com/arduino-libraries/Timing
 https://github.com/arduino-libraries/MKRIMU
 https://github.com/arduino-libraries/MKRMotorCarrier
 https://github.com/arduino-libraries/MKRNB
