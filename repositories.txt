@@ -5395,6 +5395,7 @@ https://github.com/Sensirion/arduino-uart-sfa3x
 https://github.com/sensirion/arduino-uart-svm4x
 https://github.com/Sensirion/arduino-upt-core
 https://github.com/Sensirion/arduino-upt-i2c-auto-detection
+https://github.com/Sensirion/arduino-upt-ble-auto-detection
 https://github.com/sensorium/Mozzi
 https://github.com/sensslen/LibLanc
 https://github.com/septillion-git/FadeLed
