@@ -6901,3 +6901,4 @@ https://github.com/pokerobo/Pokerobo_Car.git|Contributed|Pokerobo_Car
 https://github.com/pokerobo/Pokerobo_Labs.git|Contributed|Pokerobo_Labs
 https://github.com/HackerNowful/SD-Ducky.git|Contributed|sd-ducky-v1
 https://github.com/Witty-Wizard/DriveMaster.git|Contributed|DriveMaster
+https://github.com/mobizt/FirebaseClient.git|Contributed|FirebaseClient
