@@ -2733,6 +2733,7 @@ https://github.com/ivanseidel/ArduinoThread
 https://github.com/ivanseidel/DueTimer
 https://github.com/ivanseidel/Gaussian
 https://github.com/ivanseidel/LinkedList
+https://github.com/ijiki16/LiquidCrystal_I2C_STEM
 https://github.com/J-Rios/minbasecli
 https://github.com/J-Rios/mqtt_fuota_duino
 https://github.com/J-Rios/uTLGBotLib-arduino
