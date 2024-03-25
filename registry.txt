@@ -6906,3 +6906,4 @@ https://github.com/RobTillaart/TLC5917.git|Contributed|TLC5917
 https://github.com/Sensirion/arduino-upt-ble-auto-detection.git|Contributed|Sensirion UPT BLE Auto Detection
 https://github.com/axlan/arduino-pixels-dice.git|Contributed|pixels-dice-interface
 https://github.com/AntonioPrevitali/ApSDM120.git|Contributed|ApSDM120
+https://github.com/ijiki16/LiquidCrystal_I2C_STEM.git|Contributed|LiquidCrystal_I2C_STEM
