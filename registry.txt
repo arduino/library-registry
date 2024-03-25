@@ -6905,3 +6905,4 @@ https://github.com/mobizt/FirebaseClient.git|Contributed|FirebaseClient
 https://github.com/RobTillaart/TLC5917.git|Contributed|TLC5917
 https://github.com/Sensirion/arduino-upt-ble-auto-detection.git|Contributed|Sensirion UPT BLE Auto Detection
 https://github.com/axlan/arduino-pixels-dice.git|Contributed|pixels-dice-interface
+https://github.com/AntonioPrevitali/ApSDM120.git|Contributed|ApSDM120
