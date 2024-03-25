@@ -6803,3 +6803,4 @@ https://github.com/alunit3/ServoESP32
 https://github.com/fire1/CmdSerial
 https://github.com/SikongJueluo/LCT200
 https://github.com/mobizt/FirebaseClient
+https://github.com/axlan/arduino-pixels-dice.git
