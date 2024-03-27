@@ -647,6 +647,7 @@ https://github.com/AntonioPrevitali/DueAdcFast
 https://github.com/anunpanya/ESP8266_QRcode
 https://github.com/anwarminarso/ESPWiFiMqttWrapper
 https://github.com/AnyLeaf/ph-cpp
+https://github.com/ApogeoSpace/ApogeoNode
 https://github.com/Apollon77/I2CSoilMoistureSensor
 https://github.com/ApophisXX/MyTimer.git
 https://github.com/aptinex/Aptinex_DAC
