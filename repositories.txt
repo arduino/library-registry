@@ -722,6 +722,7 @@ https://github.com/arduino-libraries/Arduino_ScienceJournal
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier
 https://github.com/arduino-libraries/Arduino_SecureElement
 https://github.com/arduino-libraries/Arduino_SensorKit
+https://github.com/arduino-libraries/Arduino_SerialUpdater
 https://github.com/arduino-libraries/Arduino_Threads
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
 https://github.com/arduino-libraries/Arduino_USBHostMbed5
