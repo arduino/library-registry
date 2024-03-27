@@ -711,6 +711,7 @@ https://github.com/arduino-libraries/Arduino_MultiWiFi
 https://github.com/arduino-libraries/Arduino_NineAxesMotion
 https://github.com/arduino-libraries/Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_OplaUI
+https://github.com/arduino-libraries/Arduino_Opta_Blueprint
 https://github.com/arduino-libraries/Arduino_OV767X
 https://github.com/arduino-libraries/Arduino_PF1550
 https://github.com/arduino-libraries/Arduino_Portenta_OTA
