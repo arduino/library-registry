@@ -6915,3 +6915,4 @@ https://github.com/arduino-libraries/Arduino_SerialUpdater.git|Arduino|Arduino_S
 https://github.com/arduino-libraries/Arduino_Opta_Blueprint.git|Arduino|Arduino_Opta_Blueprint
 https://github.com/orkungedik/kmeans.git|Contributed|kMeans
 https://github.com/MOMIZICH/OneShot.git|Contributed|OneShot
+https://github.com/RobTillaart/TinyKT0803.git|Contributed|TinyKT0803
