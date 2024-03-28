@@ -1,3 +1,6 @@
+https://github.com/bitcode-tech/bc7215
+https://github.com/VIDI-X/VIDI-X_BQ24295
+https://github.com/pervu/FIFObuf
 https://github.com/orkungedik/kmeans
 https://github.com/JulyIghor/PinButtonEvents
 https://github.com/Witty-Wizard/DriveMaster
@@ -5140,6 +5143,7 @@ https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/timing
+https://github.com/RobTillaart/TinyKT0803
 https://github.com/RobTillaart/tinySHT2x
 https://github.com/RobTillaart/TLC5917
 https://github.com/RobTillaart/TLC5947
@@ -6814,3 +6818,5 @@ https://github.com/axlan/arduino-pixels-dice.git
 https://github.com/AntonioPrevitali/ApSDM120
 https://github.com/SNP-FIT/snp-light
 https://github.com/MOMIZICH/PBEnhancer
+https://github.com/MOMIZICH/OneShot
+https://github.com/siroshy/SerialTerminalIO
