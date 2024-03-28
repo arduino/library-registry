@@ -6914,3 +6914,4 @@ https://github.com/MOMIZICH/PBEnhancer.git|Contributed|PBEnhancer
 https://github.com/arduino-libraries/Arduino_SerialUpdater.git|Arduino|Arduino_SerialUpdater
 https://github.com/arduino-libraries/Arduino_Opta_Blueprint.git|Arduino|Arduino_Opta_Blueprint
 https://github.com/orkungedik/kmeans.git|Contributed|kMeans
+https://github.com/MOMIZICH/OneShot.git|Contributed|OneShot
