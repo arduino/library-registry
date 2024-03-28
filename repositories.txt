@@ -6818,3 +6818,4 @@ https://github.com/AntonioPrevitali/ApSDM120
 https://github.com/SNP-FIT/snp-light
 https://github.com/MOMIZICH/PBEnhancer
 https://github.com/MOMIZICH/OneShot
+https://github.com/siroshy/SerialTerminalIO
