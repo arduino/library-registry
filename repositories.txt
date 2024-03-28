@@ -5139,6 +5139,7 @@ https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/timing
+https://github.com/RobTillaart/TinyKT0803
 https://github.com/RobTillaart/tinySHT2x
 https://github.com/RobTillaart/TLC5917
 https://github.com/RobTillaart/TLC5947
