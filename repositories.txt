@@ -1,3 +1,4 @@
+https://github.com/VIDI-X/VIDI-X_BQ24295
 https://github.com/orkungedik/kmeans
 https://github.com/JulyIghor/PinButtonEvents
 https://github.com/Witty-Wizard/DriveMaster
