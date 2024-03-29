@@ -586,6 +586,7 @@ https://github.com/ameltech/sme-nt3h1x01-library
 https://github.com/ameltech/sme-se868-a-library
 https://github.com/ameltech/sme-vl6180x-library
 https://github.com/americodias/PI4IOE5V9554
+https://github.com/Amethyste-PCB/Amethyste_LSM6DS3
 https://github.com/amiga68k/electuno
 https://github.com/amirchev/EZPROM
 https://github.com/amirchev/VariableTimedAction
