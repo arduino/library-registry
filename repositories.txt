@@ -1875,7 +1875,6 @@ https://github.com/drewfish/arduino-FourRegs
 https://github.com/drewfish/arduino-TrimWright
 https://github.com/drewfish/arduino-ZeroRegs
 https://github.com/drf5n/Arduino-PID-Library
-https://github.com/DrGamerGuy/GLCD
 https://github.com/DrGFreeman/SharpDistSensor
 https://github.com/DrGFreeman/TimedPID
 https://github.com/drifkind/QDispatch
