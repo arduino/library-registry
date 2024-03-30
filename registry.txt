@@ -6922,3 +6922,4 @@ https://github.com/bitcode-tech/bc7215.git|Contributed|IR-infrared Remote Contro
 https://github.com/siroshy/SerialTerminalIO.git|Contributed|SerialTerminalIO
 https://github.com/cygig/AlmostRandom.git|Contributed|AlmostRandom
 https://github.com/Amethyste-PCB/Amethyste_LSM6DS3.git|Contributed|Amethyste_LSM6DS3
+https://github.com/MaximilianKautzsch/MovingAverage.git|Contributed|Moving-Average
