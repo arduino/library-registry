@@ -1,3 +1,4 @@
+https://github.com/MaximilianKautzsch/MovingAverage/
 https://github.com/cygig/AlmostRandom
 https://github.com/bitcode-tech/bc7215
 https://github.com/VIDI-X/VIDI-X_BQ24295
