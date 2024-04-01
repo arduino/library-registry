@@ -6927,3 +6927,4 @@ https://github.com/CIRCUITSTATE/CSE_GNSS.git|Contributed|CSE_GNSS
 https://github.com/MOMIZICH/JoystickController.git|Contributed|JoystickController
 https://github.com/agomezgar/masaylolibrary.git|Contributed|Masaylo
 https://github.com/huemonelab/HuemonelabKit.git|Contributed|HuemonelabKit
+https://github.com/stefangs/arduino-library-at24cxxx.git|Contributed|AT24C
