@@ -6926,3 +6926,4 @@ https://github.com/MaximilianKautzsch/MovingAverage.git|Contributed|Moving-Avera
 https://github.com/CIRCUITSTATE/CSE_GNSS.git|Contributed|CSE_GNSS
 https://github.com/MOMIZICH/JoystickController.git|Contributed|JoystickController
 https://github.com/agomezgar/masaylolibrary.git|Contributed|Masaylo
+https://github.com/huemonelab/HuemonelabKit.git|Contributed|HuemonelabKit
