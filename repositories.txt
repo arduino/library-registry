@@ -1,7 +1,7 @@
 https://github.com/CIRCUITSTATE/CSE_GNSS
 https://github.com/MaximilianKautzsch/MovingAverage/
 https://github.com/cygig/AlmostRandom
-https://github.com/escornabot/libreria-arduino/tree/master/escornabot
+https://github.com/agomezgar/masaylolibrary
 https://github.com/bitcode-tech/bc7215
 https://github.com/VIDI-X/VIDI-X_BQ24295
 https://github.com/pervu/FIFObuf
