@@ -6931,3 +6931,4 @@ https://github.com/stefangs/arduino-library-at24cxxx.git|Contributed|AT24C
 https://github.com/vortigont/esp32-flashz.git|Contributed|esp32-flashz
 https://github.com/vortigont/pzem-edl.git|Contributed|pzem-edl
 https://github.com/moduhub/openafe.git|Contributed|openafe
+https://github.com/ig-66/openAFEComm.git|Contributed|openafe_comm
