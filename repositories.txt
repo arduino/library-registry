@@ -6830,3 +6830,4 @@ https://github.com/MOMIZICH/OneShot
 https://github.com/siroshy/SerialTerminalIO
 https://github.com/MOMIZICH/JoystickController
 https://github.com/moduhub/openafe
+https://github.com/ig-66/openAFEComm
