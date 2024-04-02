@@ -6829,3 +6829,4 @@ https://github.com/MOMIZICH/PBEnhancer
 https://github.com/MOMIZICH/OneShot
 https://github.com/siroshy/SerialTerminalIO
 https://github.com/MOMIZICH/JoystickController
+https://github.com/moduhub/openafe
