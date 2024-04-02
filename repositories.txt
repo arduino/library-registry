@@ -6439,6 +6439,7 @@ https://github.com/VizIoT-com/viziot-mqtt-client-arduino
 https://github.com/VMinute/RootCertificates
 https://github.com/vonnieda/ScreenUi
 https://github.com/vortigont/esp32-flashz
+https://github.com/vortigont/ESPAsyncButton
 https://github.com/vortigont/pzem-edl/
 https://github.com/vovagorodok/ArduinoBleChess
 https://github.com/vovagorodok/ArduinoBleOTA
