@@ -6932,3 +6932,4 @@ https://github.com/vortigont/esp32-flashz.git|Contributed|esp32-flashz
 https://github.com/vortigont/pzem-edl.git|Contributed|pzem-edl
 https://github.com/moduhub/openafe.git|Contributed|openafe
 https://github.com/ig-66/openAFEComm.git|Contributed|openafe_comm
+https://github.com/vortigont/ESPAsyncButton.git|Contributed|ESPAsyncButton
