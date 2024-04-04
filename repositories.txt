@@ -1,7 +1,7 @@
 https://github.com/stefangs/arduino-library-at24cxxx
 https://github.com/huemonelab/HuemonelabKit
 https://github.com/CIRCUITSTATE/CSE_GNSS
-https://github.com/MaximilianKautzsch/MovingAverage/
+https://github.com/Zone-of-Engineering-Newcomers/MovingAverage
 https://github.com/cygig/AlmostRandom
 https://github.com/agomezgar/masaylolibrary
 https://github.com/bitcode-tech/bc7215
