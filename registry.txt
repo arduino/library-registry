@@ -6933,3 +6933,4 @@ https://github.com/ig-66/openAFEComm.git|Contributed|openafe_comm
 https://github.com/vortigont/ESPAsyncButton.git|Contributed|ESPAsyncButton
 https://github.com/chankame/sclm-p105_shield.git|Contributed|sclm-p105_shield
 https://github.com/siroshy/SharpIR.git|Contributed|sharpIRSensor
+https://github.com/tdk-invn-oss/ultrasonic.arduino.CHx01.git|Contributed|CHx01
