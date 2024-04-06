@@ -6838,3 +6838,4 @@ https://github.com/siroshy/SharpIR
 https://github.com/kashif-baig/StringLib
 https://github.com/kashif-baig/MessagingLib
 https://github.com/Krookikk/my_STL
+https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266
