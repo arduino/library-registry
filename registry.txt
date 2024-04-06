@@ -6937,3 +6937,4 @@ https://github.com/tdk-invn-oss/ultrasonic.arduino.CHx01.git|Contributed|CHx01
 https://github.com/1ux/DCF77Decode.git|Contributed|DCF77Decode
 https://github.com/1ux/BasicColorLedControl.git|Contributed|BasicColorLedControl
 https://github.com/kashif-baig/StringLib.git|Contributed|StringLib
+https://github.com/kashif-baig/MessagingLib.git|Contributed|MessagingLib
