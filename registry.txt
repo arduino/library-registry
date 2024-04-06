@@ -5981,7 +5981,7 @@ https://github.com/wzwyz/Stringcalculater.git|Contributed|Stringcalculater
 https://github.com/wzwyz/CrystalC.git|Contributed|Crystal C Interpreter
 https://github.com/pazi88/STM32_CAN.git|Contributed|STM32_CAN
 https://github.com/bimac/EEPstore.git|Contributed|EEPstore
-https://github.com/htmltiger/dhtESP32-rmt.git|Contributed|dhtESP32-rmt
+https://github.com/junkfix/dhtESP32-rmt.git|Contributed|dhtESP32-rmt
 https://github.com/htmltiger/esp32-ds18b20.git|Contributed|esp32-ds18b20
 https://github.com/dang-gun/Arduino_ButtonClickCheck.git|Contributed|ButtonClickCheck
 https://github.com/flash62au/WiThrottleProtocol.git|Contributed|WiThrottleProtocol
