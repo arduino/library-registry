@@ -6835,3 +6835,4 @@ https://github.com/moduhub/openafe
 https://github.com/ig-66/openAFEComm
 https://github.com/chankame/sclm-p105_shield
 https://github.com/siroshy/SharpIR
+https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266
