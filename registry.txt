@@ -6940,3 +6940,4 @@ https://github.com/kashif-baig/StringLib.git|Contributed|StringLib
 https://github.com/kashif-baig/MessagingLib.git|Contributed|MessagingLib
 https://github.com/Krookikk/my_STL.git|Contributed|my_STL
 https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266.git|Contributed|CraftConnect_ESP8266
+https://github.com/kashif-baig/MvcWebServerLib.git|Contributed|MvcWebServerLib
