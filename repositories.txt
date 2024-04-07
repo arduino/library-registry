@@ -1262,6 +1262,7 @@ https://github.com/btomaev/Segma
 https://github.com/budryerson/TFLuna-I2C
 https://github.com/budryerson/TFMini-Plus
 https://github.com/budryerson/TFMini-Plus-I2C
+https://github.com/dhrubasaha08/TFminiS
 https://github.com/buelowp/sunset
 https://github.com/burksbuilds/PreferencesCLI
 https://github.com/bxparks/AceButton
