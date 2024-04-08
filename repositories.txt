@@ -3615,7 +3615,7 @@ https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-QRCode
 https://github.com/m5stack/M5Unit-Synth
-https://github.com/m5stack/PoE_CAM
+https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/machinefi/psa-crypto-arduino
