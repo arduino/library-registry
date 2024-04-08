@@ -6841,3 +6841,4 @@ https://github.com/kashif-baig/MessagingLib
 https://github.com/Krookikk/my_STL
 https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266
 https://github.com/kashif-baig/MvcWebServerLib
+https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
