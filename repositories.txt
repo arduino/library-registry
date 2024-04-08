@@ -5610,3 +5610,5 @@ https://github.com/ExperimentalCyborg/PicoStep
 https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/Augmented-Robotics/roboheart-arduino-library
 https://github.com/tanakamasayuki/EspEasyUtils
+https://github.com/STM32duino/VL53L4ED
+https://github.com/stm32duino/X-NUCLEO-53L4A3
