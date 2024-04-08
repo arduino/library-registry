@@ -139,6 +139,7 @@ https://github.com/Abdurraziq/ZMPT101B-arduino
 https://github.com/abel6jose/Trial
 https://github.com/Abhishektiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B
 https://github.com/abishur/ms5x
+https://github.com/jrowberg/i2cdevlib/tree/master/Arduino
 https://github.com/acksen/AcksenButton
 https://github.com/acksen/AcksenIntEEPROM
 https://github.com/acksen/AcksenPump
