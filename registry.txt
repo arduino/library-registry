@@ -6944,3 +6944,5 @@ https://github.com/kashif-baig/MvcWebServerLib.git|Contributed|MvcWebServerLib
 https://github.com/dhrubasaha08/TFminiS.git|Contributed|TFminiS
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47.git|Contributed|LilyGo-EPD47
 https://github.com/bavathd/tago_esp32.git|Contributed|Tago ESP32
+https://github.com/stm32duino/X-NUCLEO-53L4A3.git|Contributed|STM32duino X-NUCLEO-53L4A3
+https://github.com/stm32duino/VL53L4ED.git|Contributed|STM32duino VL53L4ED
