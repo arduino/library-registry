@@ -6942,3 +6942,4 @@ https://github.com/Krookikk/my_STL.git|Contributed|my_STL
 https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266.git|Contributed|CraftConnect_ESP8266
 https://github.com/kashif-baig/MvcWebServerLib.git|Contributed|MvcWebServerLib
 https://github.com/dhrubasaha08/TFminiS.git|Contributed|TFminiS
+https://github.com/Xinyuan-LilyGO/LilyGo-EPD47.git|Contributed|LilyGo-EPD47
