@@ -1441,6 +1441,7 @@ https://github.com/codecodecodec/CCC_Lib
 https://github.com/codeljo/AA_MCP2515
 https://github.com/Coder-X15/MCUOS.git
 https://github.com/coderfls/Arduino_MultiFunctionShield
+https://github.com/codewithher/CC-Lantern
 https://github.com/codewrite/arduino-capacitor
 https://github.com/codinghusi/ArduinoKnockPatternDetector
 https://github.com/collin80/due_can
