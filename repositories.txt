@@ -6845,3 +6845,4 @@ https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
 https://github.com/bavathd/tago_esp32
 https://github.com/stm32duino/X-NUCLEO-53L4A3
 https://github.com/stm32duino/VL53L4ED
+https://github.com/arduino-libraries/Arduino_Cellular
