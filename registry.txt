@@ -6947,3 +6947,4 @@ https://github.com/bavathd/tago_esp32.git|Contributed|Tago ESP32
 https://github.com/stm32duino/X-NUCLEO-53L4A3.git|Contributed|STM32duino X-NUCLEO-53L4A3
 https://github.com/stm32duino/VL53L4ED.git|Contributed|STM32duino VL53L4ED
 https://github.com/codewithher/CC-Lantern.git|Contributed|CC-Lantern
+https://github.com/arduino-libraries/Arduino_Cellular.git|Arduino|Arduino_Cellular
