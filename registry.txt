@@ -6950,3 +6950,4 @@ https://github.com/codewithher/CC-Lantern.git|Contributed|CC-Lantern
 https://github.com/arduino-libraries/Arduino_Cellular.git|Arduino|Arduino_Cellular
 https://github.com/SnailDragon/MightyOhmGeigerCounter.git|Contributed|MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types.git|Contributed|bosejis_Types
+https://github.com/agomezgar/escornabotLibrary.git|Contributed|escornabot
