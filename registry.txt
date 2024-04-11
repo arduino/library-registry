@@ -115,130 +115,130 @@ https://github.com/arduino-libraries/Temboo.git|Arduino|Temboo
 
 # Adafruit
 # --------
-https://github.com/adafruit/Adafruit_ADS1X15.git|Recommended|Adafruit ADS1X15
-https://github.com/adafruit/Adafruit_ADXL345.git|Recommended|Adafruit ADXL345
-https://github.com/adafruit/Adafruit_AHRS.git|Recommended|Adafruit AHRS
-https://github.com/adafruit/Adafruit_AM2315.git|Recommended|Adafruit AM2315
-https://github.com/adafruit/Adafruit_BLEFirmata.git|Recommended|Adafruit BLEFirmata
-https://github.com/adafruit/Adafruit-BMP085-Library.git|Recommended|Adafruit BMP085 Library
-https://github.com/adafruit/Adafruit_BMP085_Unified.git|Recommended|Adafruit BMP085 Unified
-https://github.com/adafruit/Adafruit_BMP183_Library.git|Recommended|Adafruit BMP183 Library
-https://github.com/adafruit/Adafruit_BMP183_Unified_Library.git|Recommended|Adafruit BMP183 Unified Library
-https://github.com/adafruit/Adafruit_CAP1188_Library.git|Recommended|Adafruit CAP1188 Library
-https://github.com/adafruit/Adafruit_CC3000_Library.git|Recommended|Adafruit CC3000 Library
-# REMOVED: https://github.com/adafruit/Adafruit_DHT_Unified.git|Recommended|Adafruit DHT Unified
-https://github.com/adafruit/Adafruit_DotStar.git|Recommended|Adafruit DotStar
-https://github.com/adafruit/Adafruit_DRV2605_Library.git|Recommended|Adafruit DRV2605 Library
-https://github.com/adafruit/Adafruit_ESP8266.git|Recommended|Adafruit ESP8266
-# REMOVED. https://github.com/adafruit/Adafruit_Fingerprint_Due.git|Recommended
-https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library.git|Recommended|Adafruit Fingerprint Sensor Library
-https://github.com/adafruit/Adafruit-Flora-Pixel-Library.git|Recommended|Adafruit Flora Pixel Library
-https://github.com/adafruit/Adafruit_FONA.git|Recommended|Adafruit FONA Library
-https://github.com/adafruit/Adafruit_FRAM_I2C.git|Recommended|Adafruit FRAM I2C
-https://github.com/adafruit/Adafruit_FRAM_SPI.git|Recommended|Adafruit FRAM SPI
-https://github.com/adafruit/Adafruit_FT6206_Library.git|Recommended|Adafruit FT6206 Library
-https://github.com/adafruit/Adafruit_GPS.git|Recommended|Adafruit GPS Library
-https://github.com/adafruit/Adafruit-Graphic-VFD-Display-Library.git|Recommended|Adafruit Graphic VFD Display Library
-https://github.com/adafruit/Adafruit_HDC1000_Library.git|Recommended|Adafruit HDC1000 Library
-https://github.com/adafruit/Adafruit_HMC5883_Unified.git|Recommended|Adafruit HMC5883 Unified
-https://github.com/adafruit/Adafruit_HTU21DF_Library.git|Recommended|Adafruit HTU21DF Library
-# REMOVED: https://github.com/adafruit/Adafruit-HX8340B.git|Recommended|Adafruit HX8340B
-https://github.com/adafruit/Adafruit_HX8357_Library.git|Recommended|Adafruit HX8357 Library
-https://github.com/adafruit/Adafruit_ILI9341.git|Recommended|Adafruit ILI9341
-https://github.com/adafruit/Adafruit_INA219.git|Recommended|Adafruit INA219
-# REMOVED: https://github.com/adafruit/Adafruit_L3GD20.git|Recommended|Adafruit L3GD20
-https://github.com/adafruit/Adafruit_L3GD20_U.git|Recommended|Adafruit L3GD20 U
-https://github.com/adafruit/Adafruit_LED_Backpack.git|Recommended|Adafruit LED Backpack Library
-https://github.com/adafruit/Adafruit_LSM303DLHC.git|Recommended|Adafruit LSM303DLHC
-# REMOVED. https://github.com/adafruit/Adafruit_LSM303.git|Recommended|Adafruit LSM303
-https://github.com/adafruit/Adafruit_LSM9DS0_Library.git|Recommended|Adafruit LSM9DS0 Library
-https://github.com/adafruit/Adafruit-MAX31855-library.git|Recommended|Adafruit MAX31855 library
-https://github.com/adafruit/Adafruit-MCP23008-library.git|Recommended|Adafruit MCP23008 library
-https://github.com/adafruit/Adafruit-MCP23017-Arduino-Library.git|Recommended|Adafruit MCP23017 Arduino Library
-https://github.com/adafruit/Adafruit_MCP4725.git|Recommended|Adafruit MCP4725
-https://github.com/adafruit/Adafruit_MCP9808_Library.git|Recommended|Adafruit MCP9808 Library
-https://github.com/adafruit/Adafruit_MiniMLX90614.git|Recommended|Adafruit MiniMLX90614
-https://github.com/adafruit/Adafruit-MLX90614-Library.git|Recommended|Adafruit MLX90614 Library
-https://github.com/adafruit/Adafruit_MMA8451_Library.git|Recommended|Adafruit MMA8451 Library
-https://github.com/adafruit/Adafruit-Motor-Shield-library.git|Recommended|Adafruit Motor Shield library
-https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library.git|Recommended|Adafruit Motor Shield V2 Library
-https://github.com/adafruit/Adafruit_MPL115A2.git|Recommended|Adafruit MPL115A2
-https://github.com/adafruit/Adafruit_MPL3115A2_Library.git|Recommended|Adafruit MPL3115A2 Library
-https://github.com/adafruit/Adafruit_MPR121_Library.git|Recommended|Adafruit MPR121
-https://github.com/adafruit/Adafruit_NeoMatrix.git|Recommended|Adafruit NeoMatrix
-https://github.com/adafruit/Adafruit_NeoPixel.git|Recommended|Adafruit NeoPixel
-https://github.com/adafruit/Adafruit_nRF8001.git|Recommended|Adafruit nRF8001
-https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git|Recommended|Adafruit PCD8544 Nokia 5110 LCD library
-https://github.com/adafruit/Adafruit-PN532.git|Recommended|Adafruit PN532
-https://github.com/adafruit/Adafruit-PS2-Trackpad.git|Recommended|Adafruit PS2 Trackpad
-https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library.git|Recommended|Adafruit PWM Servo Driver Library
-https://github.com/adafruit/Adafruit_RA8875.git|Recommended|Adafruit RA8875
-https://github.com/adafruit/Adafruit-RGB-LCD-Shield-Library.git|Recommended|Adafruit RGB LCD Shield Library
-https://github.com/adafruit/Adafruit_SHARP_Memory_Display.git|Recommended|Adafruit SHARP Memory Display
-https://github.com/adafruit/Adafruit_SI1145_Library.git|Recommended|Adafruit SI1145 Library
-https://github.com/adafruit/Adafruit-Si4713-Library.git|Recommended|Adafruit Si4713 Library
-https://github.com/adafruit/Adafruit_Si5351_Library.git|Recommended|Adafruit Si5351 Library
-https://github.com/adafruit/Adafruit_SoftServo.git|Recommended|Adafruit SoftServo
-https://github.com/adafruit/Adafruit_Soundboard_library.git|Recommended|Adafruit Soundboard library
-https://github.com/adafruit/Adafruit_SSD1306.git|Recommended|Adafruit SSD1306
-https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino.git|Recommended|Adafruit SSD1331 OLED Driver Library for Arduino
-https://github.com/adafruit/Adafruit-SSD1351-library.git|Recommended|Adafruit SSD1351 library
-https://github.com/adafruit/Adafruit-ST7735-Library.git|Recommended|Adafruit ST7735 and ST7789 Library
-https://github.com/adafruit/Adafruit_STMPE610.git|Recommended|Adafruit STMPE610
-https://github.com/adafruit/Adafruit_TCS34725.git|Recommended|Adafruit TCS34725
-https://github.com/adafruit/Adafruit-Thermal-Printer-Library.git|Recommended|Adafruit Thermal Printer Library
-https://github.com/adafruit/Adafruit_TiCoServo.git|Recommended|Adafruit TiCoServo
-https://github.com/adafruit/Adafruit_TinyFlash.git|Recommended|Adafruit TinyFlash
-https://github.com/adafruit/Adafruit_TinyRGBLCDShield.git|Recommended|Adafruit TinyRGBLCDShield
-https://github.com/adafruit/Adafruit_TLC5947.git|Recommended|Adafruit TLC5947
-https://github.com/adafruit/Adafruit_TLC59711.git|Recommended|Adafruit TLC59711
-https://github.com/adafruit/Adafruit_TMP006.git|Recommended|Adafruit TMP006
-https://github.com/adafruit/Adafruit_TMP007_Library.git|Recommended|Adafruit TMP007 Library
-https://github.com/adafruit/Adafruit-TPA2016-Library.git|Recommended|Adafruit TPA2016 Library
-https://github.com/adafruit/Adafruit_Trellis_Library.git|Recommended|Adafruit Trellis Library
-https://github.com/adafruit/Adafruit_TSL2561.git|Recommended|Adafruit TSL2561
-https://github.com/adafruit/Adafruit_TSL2591_Library.git|Recommended|Adafruit TSL2591 Library
-https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library.git|Recommended|Adafruit VC0706 Serial Camera Library
-https://github.com/adafruit/Adafruit_VS1053_Library.git|Recommended|Adafruit VS1053 Library
-https://github.com/adafruit/Adafruit-WS2801-Library.git|Recommended|Adafruit WS2801 Library
-https://github.com/adafruit/CC3000_MDNS.git|Recommended|CC3000 MDNS
-https://github.com/adafruit/DHT-sensor-library.git|Recommended|DHT sensor library
-https://github.com/adafruit/FifteenStep.git|Recommended|FifteenStep
-https://github.com/adafruit/HL1606-LED-Strip.git|Recommended|HL1606 LED Strip
-https://github.com/adafruit/HL1606-LED-Strip-PWM.git|Recommended|HL1606 LED Strip PWM
-https://github.com/adafruit/HT1632.git|Recommended|HT1632
-https://github.com/adafruit/LPD6803-RGB-Pixels.git|Recommended|LPD6803 RGB Pixels
-https://github.com/adafruit/LPD8806.git|Recommended|LPD8806
-https://github.com/adafruit/MAX31850_DallasTemp.git|Recommended|MAX31850 DallasTemp
-https://github.com/adafruit/MAX31850_OneWire.git|Recommended|MAX31850 OneWire
-https://github.com/adafruit/MAX6675-library.git|Recommended|MAX6675 library
-https://github.com/adafruit/Pro_Trinket_USB_Keyboard_Library.git|Recommended|Pro Trinket USB Keyboard Library
-https://github.com/adafruit/Pro_Trinket_USB_Mouse.git|Recommended|Pro Trinket USB Mouse
-https://github.com/adafruit/RGB-matrix-Panel.git|Recommended|RGB matrix Panel
-https://github.com/adafruit/RTClib.git|Recommended|RTClib
-https://github.com/adafruit/SPI_VFD.git|Recommended|SPI VFD
-https://github.com/adafruit/TinyLiquidCrystal.git|Recommended|TinyLiquidCrystal
-https://github.com/adafruit/TinyRTCLib.git|Recommended|TinyRTCLib
-https://github.com/adafruit/TinyWireM.git|Recommended|TinyWireM
-https://github.com/adafruit/Adafruit-GFX-Library.git|Recommended|Adafruit GFX Library
-https://github.com/adafruit/Adafruit_Sensor.git|Recommended|Adafruit Unified Sensor
-https://github.com/adafruit/Adafruit_BNO055.git|Recommended|Adafruit BNO055
-https://github.com/adafruit/Adafruit_MQTT_Library.git|Recommended|Adafruit MQTT Library
-https://github.com/adafruit/Adafruit_SleepyDog.git|Recommended|Adafruit SleepyDog Library
-https://github.com/adafruit/Adafruit_IO_Arduino.git|Recommended|Adafruit IO Arduino
-https://github.com/adafruit/Adafruit_BluefruitLE_nRF51.git|Recommended|Adafruit BluefruitLE nRF51
-https://github.com/adafruit/Adafruit_UNTZtrument.git|Recommended|Adafruit UNTZtrument
-https://github.com/adafruit/Adafruit_SSD1325_Library.git|Recommended|Adafruit SSD1325
-https://github.com/adafruit/Adafruit_BME280_Library.git|Recommended|Adafruit BME280 Library
-https://github.com/adafruit/Adafruit_BMP280_Library.git|Recommended|Adafruit BMP280 Library
-https://github.com/adafruit/Adafruit_LIS3DH.git|Recommended|Adafruit LIS3DH
-https://github.com/adafruit/Adafruit_SHT31.git|Recommended|Adafruit SHT31 Library
-https://github.com/adafruit/Adafruit_LiquidCrystal.git|Recommended|Adafruit LiquidCrystal
-https://github.com/adafruit/Adafruit_CircuitPlayground.git|Recommended|Adafruit Circuit Playground
-https://github.com/adafruit/Adafruit_MAX31865.git|Recommended|Adafruit MAX31865 library
-https://github.com/adafruit/Adafruit_MAX31856.git|Recommended|Adafruit MAX31856 library
-https://github.com/adafruit/Adafruit_FXAS21002C.git|Recommended|Adafruit FXAS21002C
-https://github.com/adafruit/Adafruit_FXOS8700.git|Recommended|Adafruit FXOS8700
+https://github.com/adafruit/Adafruit_ADS1X15.git|Contributed|Adafruit ADS1X15
+https://github.com/adafruit/Adafruit_ADXL345.git|Contributed|Adafruit ADXL345
+https://github.com/adafruit/Adafruit_AHRS.git|Contributed|Adafruit AHRS
+https://github.com/adafruit/Adafruit_AM2315.git|Contributed|Adafruit AM2315
+https://github.com/adafruit/Adafruit_BLEFirmata.git|Contributed|Adafruit BLEFirmata
+https://github.com/adafruit/Adafruit-BMP085-Library.git|Contributed|Adafruit BMP085 Library
+https://github.com/adafruit/Adafruit_BMP085_Unified.git|Contributed|Adafruit BMP085 Unified
+https://github.com/adafruit/Adafruit_BMP183_Library.git|Contributed|Adafruit BMP183 Library
+https://github.com/adafruit/Adafruit_BMP183_Unified_Library.git|Contributed|Adafruit BMP183 Unified Library
+https://github.com/adafruit/Adafruit_CAP1188_Library.git|Contributed|Adafruit CAP1188 Library
+https://github.com/adafruit/Adafruit_CC3000_Library.git|Retired|Adafruit CC3000 Library
+# REMOVED: https://github.com/adafruit/Adafruit_DHT_Unified.git|Retired|Adafruit DHT Unified
+https://github.com/adafruit/Adafruit_DotStar.git|Contributed|Adafruit DotStar
+https://github.com/adafruit/Adafruit_DRV2605_Library.git|Contributed|Adafruit DRV2605 Library
+https://github.com/adafruit/Adafruit_ESP8266.git|Contributed|Adafruit ESP8266
+# REMOVED. https://github.com/adafruit/Adafruit_Fingerprint_Due.git|Retired
+https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library.git|Contributed|Adafruit Fingerprint Sensor Library
+https://github.com/adafruit/Adafruit-Flora-Pixel-Library.git|Retired|Adafruit Flora Pixel Library
+https://github.com/adafruit/Adafruit_FONA.git|Contributed|Adafruit FONA Library
+https://github.com/adafruit/Adafruit_FRAM_I2C.git|Contributed|Adafruit FRAM I2C
+https://github.com/adafruit/Adafruit_FRAM_SPI.git|Contributed|Adafruit FRAM SPI
+https://github.com/adafruit/Adafruit_FT6206_Library.git|Contributed|Adafruit FT6206 Library
+https://github.com/adafruit/Adafruit_GPS.git|Contributed|Adafruit GPS Library
+https://github.com/adafruit/Adafruit-Graphic-VFD-Display-Library.git|Contributed|Adafruit Graphic VFD Display Library
+https://github.com/adafruit/Adafruit_HDC1000_Library.git|Contributed|Adafruit HDC1000 Library
+https://github.com/adafruit/Adafruit_HMC5883_Unified.git|Contributed|Adafruit HMC5883 Unified
+https://github.com/adafruit/Adafruit_HTU21DF_Library.git|Contributed|Adafruit HTU21DF Library
+# REMOVED: https://github.com/adafruit/Adafruit-HX8340B.git|Retired|Adafruit HX8340B
+https://github.com/adafruit/Adafruit_HX8357_Library.git|Contributed|Adafruit HX8357 Library
+https://github.com/adafruit/Adafruit_ILI9341.git|Contributed|Adafruit ILI9341
+https://github.com/adafruit/Adafruit_INA219.git|Contributed|Adafruit INA219
+# REMOVED: https://github.com/adafruit/Adafruit_L3GD20.git|Retired|Adafruit L3GD20
+https://github.com/adafruit/Adafruit_L3GD20_U.git|Contributed|Adafruit L3GD20 U
+https://github.com/adafruit/Adafruit_LED_Backpack.git|Contributed|Adafruit LED Backpack Library
+https://github.com/adafruit/Adafruit_LSM303DLHC.git|Retired|Adafruit LSM303DLHC
+# REMOVED. https://github.com/adafruit/Adafruit_LSM303.git|Retired|Adafruit LSM303
+https://github.com/adafruit/Adafruit_LSM9DS0_Library.git|Contributed|Adafruit LSM9DS0 Library
+https://github.com/adafruit/Adafruit-MAX31855-library.git|Contributed|Adafruit MAX31855 library
+https://github.com/adafruit/Adafruit-MCP23008-library.git|Retired|Adafruit MCP23008 library
+https://github.com/adafruit/Adafruit-MCP23017-Arduino-Library.git|Contributed|Adafruit MCP23017 Arduino Library
+https://github.com/adafruit/Adafruit_MCP4725.git|Contributed|Adafruit MCP4725
+https://github.com/adafruit/Adafruit_MCP9808_Library.git|Contributed|Adafruit MCP9808 Library
+https://github.com/adafruit/Adafruit_MiniMLX90614.git|Retired|Adafruit MiniMLX90614
+https://github.com/adafruit/Adafruit-MLX90614-Library.git|Contributed|Adafruit MLX90614 Library
+https://github.com/adafruit/Adafruit_MMA8451_Library.git|Contributed|Adafruit MMA8451 Library
+https://github.com/adafruit/Adafruit-Motor-Shield-library.git|Retired|Adafruit Motor Shield library
+https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library.git|Contributed|Adafruit Motor Shield V2 Library
+https://github.com/adafruit/Adafruit_MPL115A2.git|Contributed|Adafruit MPL115A2
+https://github.com/adafruit/Adafruit_MPL3115A2_Library.git|Contributed|Adafruit MPL3115A2 Library
+https://github.com/adafruit/Adafruit_MPR121_Library.git|Contributed|Adafruit MPR121
+https://github.com/adafruit/Adafruit_NeoMatrix.git|Contributed|Adafruit NeoMatrix
+https://github.com/adafruit/Adafruit_NeoPixel.git|Contributed|Adafruit NeoPixel
+https://github.com/adafruit/Adafruit_nRF8001.git|Contributed|Adafruit nRF8001
+https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git|Contributed|Adafruit PCD8544 Nokia 5110 LCD library
+https://github.com/adafruit/Adafruit-PN532.git|Contributed|Adafruit PN532
+https://github.com/adafruit/Adafruit-PS2-Trackpad.git|Contributed|Adafruit PS2 Trackpad
+https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library.git|Contributed|Adafruit PWM Servo Driver Library
+https://github.com/adafruit/Adafruit_RA8875.git|Contributed|Adafruit RA8875
+https://github.com/adafruit/Adafruit-RGB-LCD-Shield-Library.git|Contributed|Adafruit RGB LCD Shield Library
+https://github.com/adafruit/Adafruit_SHARP_Memory_Display.git|Contributed|Adafruit SHARP Memory Display
+https://github.com/adafruit/Adafruit_SI1145_Library.git|Contributed|Adafruit SI1145 Library
+https://github.com/adafruit/Adafruit-Si4713-Library.git|Contributed|Adafruit Si4713 Library
+https://github.com/adafruit/Adafruit_Si5351_Library.git|Contributed|Adafruit Si5351 Library
+https://github.com/adafruit/Adafruit_SoftServo.git|Contributed|Adafruit SoftServo
+https://github.com/adafruit/Adafruit_Soundboard_library.git|Contributed|Adafruit Soundboard library
+https://github.com/adafruit/Adafruit_SSD1306.git|Contributed|Adafruit SSD1306
+https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino.git|Contributed|Adafruit SSD1331 OLED Driver Library for Arduino
+https://github.com/adafruit/Adafruit-SSD1351-library.git|Contributed|Adafruit SSD1351 library
+https://github.com/adafruit/Adafruit-ST7735-Library.git|Contributed|Adafruit ST7735 and ST7789 Library
+https://github.com/adafruit/Adafruit_STMPE610.git|Contributed|Adafruit STMPE610
+https://github.com/adafruit/Adafruit_TCS34725.git|Contributed|Adafruit TCS34725
+https://github.com/adafruit/Adafruit-Thermal-Printer-Library.git|Retired|Adafruit Thermal Printer Library
+https://github.com/adafruit/Adafruit_TiCoServo.git|Contributed|Adafruit TiCoServo
+https://github.com/adafruit/Adafruit_TinyFlash.git|Retired|Adafruit TinyFlash
+https://github.com/adafruit/Adafruit_TinyRGBLCDShield.git|Contributed|Adafruit TinyRGBLCDShield
+https://github.com/adafruit/Adafruit_TLC5947.git|Contributed|Adafruit TLC5947
+https://github.com/adafruit/Adafruit_TLC59711.git|Contributed|Adafruit TLC59711
+https://github.com/adafruit/Adafruit_TMP006.git|Retired|Adafruit TMP006
+https://github.com/adafruit/Adafruit_TMP007_Library.git|Contributed|Adafruit TMP007 Library
+https://github.com/adafruit/Adafruit-TPA2016-Library.git|Contributed|Adafruit TPA2016 Library
+https://github.com/adafruit/Adafruit_Trellis_Library.git|Contributed|Adafruit Trellis Library
+https://github.com/adafruit/Adafruit_TSL2561.git|Contributed|Adafruit TSL2561
+https://github.com/adafruit/Adafruit_TSL2591_Library.git|Contributed|Adafruit TSL2591 Library
+https://github.com/adafruit/Adafruit-VC0706-Serial-Camera-Library.git|Contributed|Adafruit VC0706 Serial Camera Library
+https://github.com/adafruit/Adafruit_VS1053_Library.git|Contributed|Adafruit VS1053 Library
+https://github.com/adafruit/Adafruit-WS2801-Library.git|Contributed|Adafruit WS2801 Library
+https://github.com/adafruit/CC3000_MDNS.git|Retired|CC3000 MDNS
+https://github.com/adafruit/DHT-sensor-library.git|Contributed|DHT sensor library
+https://github.com/adafruit/FifteenStep.git|Contributed|FifteenStep
+https://github.com/adafruit/HL1606-LED-Strip.git|Contributed|HL1606 LED Strip
+https://github.com/adafruit/HL1606-LED-Strip-PWM.git|Retired|HL1606 LED Strip PWM
+https://github.com/adafruit/HT1632.git|Contributed|HT1632
+https://github.com/adafruit/LPD6803-RGB-Pixels.git|Contributed|LPD6803 RGB Pixels
+https://github.com/adafruit/LPD8806.git|Contributed|LPD8806
+https://github.com/adafruit/MAX31850_DallasTemp.git|Contributed|MAX31850 DallasTemp
+https://github.com/adafruit/MAX31850_OneWire.git|Contributed|MAX31850 OneWire
+https://github.com/adafruit/MAX6675-library.git|Contributed|MAX6675 library
+https://github.com/adafruit/Pro_Trinket_USB_Keyboard_Library.git|Contributed|Pro Trinket USB Keyboard Library
+https://github.com/adafruit/Pro_Trinket_USB_Mouse.git|Contributed|Pro Trinket USB Mouse
+https://github.com/adafruit/RGB-matrix-Panel.git|Contributed|RGB matrix Panel
+https://github.com/adafruit/RTClib.git|Contributed|RTClib
+https://github.com/adafruit/SPI_VFD.git|Contributed|SPI VFD
+https://github.com/adafruit/TinyLiquidCrystal.git|Contributed|TinyLiquidCrystal
+https://github.com/adafruit/TinyRTCLib.git|Contributed|TinyRTCLib
+https://github.com/adafruit/TinyWireM.git|Contributed|TinyWireM
+https://github.com/adafruit/Adafruit-GFX-Library.git|Contributed|Adafruit GFX Library
+https://github.com/adafruit/Adafruit_Sensor.git|Contributed|Adafruit Unified Sensor
+https://github.com/adafruit/Adafruit_BNO055.git|Contributed|Adafruit BNO055
+https://github.com/adafruit/Adafruit_MQTT_Library.git|Contributed|Adafruit MQTT Library
+https://github.com/adafruit/Adafruit_SleepyDog.git|Contributed|Adafruit SleepyDog Library
+https://github.com/adafruit/Adafruit_IO_Arduino.git|Contributed|Adafruit IO Arduino
+https://github.com/adafruit/Adafruit_BluefruitLE_nRF51.git|Contributed|Adafruit BluefruitLE nRF51
+https://github.com/adafruit/Adafruit_UNTZtrument.git|Contributed|Adafruit UNTZtrument
+https://github.com/adafruit/Adafruit_SSD1325_Library.git|Contributed|Adafruit SSD1325
+https://github.com/adafruit/Adafruit_BME280_Library.git|Contributed|Adafruit BME280 Library
+https://github.com/adafruit/Adafruit_BMP280_Library.git|Contributed|Adafruit BMP280 Library
+https://github.com/adafruit/Adafruit_LIS3DH.git|Contributed|Adafruit LIS3DH
+https://github.com/adafruit/Adafruit_SHT31.git|Contributed|Adafruit SHT31 Library
+https://github.com/adafruit/Adafruit_LiquidCrystal.git|Contributed|Adafruit LiquidCrystal
+https://github.com/adafruit/Adafruit_CircuitPlayground.git|Contributed|Adafruit Circuit Playground
+https://github.com/adafruit/Adafruit_MAX31865.git|Contributed|Adafruit MAX31865 library
+https://github.com/adafruit/Adafruit_MAX31856.git|Contributed|Adafruit MAX31856 library
+https://github.com/adafruit/Adafruit_FXAS21002C.git|Contributed|Adafruit FXAS21002C
+https://github.com/adafruit/Adafruit_FXOS8700.git|Contributed|Adafruit FXOS8700
 
 # Ameltech
 https://github.com/ameltech/sme-le51-868-library.git|Contributed|SmartEverything SIGFOX LE51-868
@@ -4289,7 +4289,7 @@ https://github.com/khoih-prog/WiFiManager_Portenta_H7_Lite.git|Contributed|WiFiM
 https://github.com/khoih-prog/Ethernet_Manager_Portenta_H7.git|Contributed|Ethernet_Manager_Portenta_H7
 https://github.com/DFRobot/DFRobot_RTU.git|Contributed|DFRobot_RTU
 https://github.com/andriell/arduino-library-WT2003M02-mp3-decoder.git|Contributed|AndreyRybalko WT2003M02 MP3 Decoder
-https://github.com/adafruit/Adafruit_IS31FL3741.git|Recommended|Adafruit IS31FL3741 Library
+https://github.com/adafruit/Adafruit_IS31FL3741.git|Contributed|Adafruit IS31FL3741 Library
 https://github.com/khoih-prog/Portenta_H7_TimerInterrupt.git|Contributed|Portenta_H7_TimerInterrupt
 https://github.com/MajicDesigns/MD_Stepper.git|Contributed|MD_Stepper
 https://github.com/BreadBoardMates/Arduino-Mates-Controller.git|Contributed|MatesController
@@ -4386,7 +4386,7 @@ https://github.com/DFRobot/DFRobot_BMX160.git|Contributed|DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_PAJ7620U2.git|Contributed|DFRobot_PAJ7620U2
 https://github.com/m5stack/M5_EzData.git|Contributed|M5_EzData
 https://github.com/stm32duino/ST25R95.git|Contributed|STM32duino ST25R95
-https://github.com/adafruit/Adafruit_VL53L1X.git|Recommended|Adafruit VL53L1X
+https://github.com/adafruit/Adafruit_VL53L1X.git|Contributed|Adafruit VL53L1X
 https://github.com/DFRobot/DFRobot_DS323X.git|Contributed|DFRobot_DS323X
 https://github.com/Gbertaz/NonBlockingDallas.git|Contributed|NonBlockingDallas
 https://github.com/OSSLibraries/Arduino_MFRC522v2.git|Contributed|RFID_MFRC522v2
@@ -4555,7 +4555,7 @@ https://github.com/xavjb/KiddeeExpress.git|Contributed|KiddeeExpress
 https://github.com/mobizt/ESP-Google-Sheet-Client.git|Contributed|ESP-Google-Sheet-Client
 https://github.com/rodrigodornelles/3bc-lang.git|Contributed|3BC Language Virtual Machine
 https://github.com/ysard/TCS34725.git|Contributed|TCS34725 async
-https://github.com/adafruit/Adafruit_TestBed.git|Recommended|Adafruit TestBed
+https://github.com/adafruit/Adafruit_TestBed.git|Contributed|Adafruit TestBed
 https://github.com/GyverLibs/SimplePortal.git|Contributed|SimplePortal
 https://github.com/dndubins/EEPROMsimple.git|Contributed|EEPROMsimple
 https://github.com/dndubins/SRAMsimple.git|Contributed|SRAMsimple
@@ -4568,7 +4568,7 @@ https://github.com/autowp/arduino-mcp2515.git|Contributed|autowp-mcp2515
 https://github.com/Gbertaz/JDI_MIP_Display.git|Contributed|JDI_MIP_Display
 https://github.com/gavinlyonsrepo/MAX471.git|Contributed|MAX471
 https://github.com/Dlloydev/sTune.git|Contributed|sTune
-https://github.com/adafruit/Adafruit_Floppy.git|Recommended|Adafruit Floppy
+https://github.com/adafruit/Adafruit_Floppy.git|Contributed|Adafruit Floppy
 https://github.com/stm32duino/VL53L4CD.git|Contributed|STM32duino VL53L4CD
 https://github.com/stm32duino/X-NUCLEO-53L4A1.git|Contributed|STM32duino X-NUCLEO-53L4A1
 https://github.com/RobTillaart/PCA9634.git|Contributed|PCA9634
@@ -4578,7 +4578,7 @@ https://github.com/DFRobot/DFRobot_GM60.git|Contributed|DFRobot_GM60
 https://github.com/MaximIntegrated/MaxEssentialToolkit.git|Contributed|MaxEssentialToolkit
 https://github.com/RobTillaart/AM2315.git|Contributed|AM2315
 https://github.com/Stutchbury/EncoderButton.git|Contributed|EncoderButton
-https://github.com/adafruit/Adafruit_Wippersnapper_Arduino.git|Recommended|Adafruit WipperSnapper
+https://github.com/adafruit/Adafruit_Wippersnapper_Arduino.git|Contributed|Adafruit WipperSnapper
 https://github.com/sstaub/gma3.git|Contributed|gma3
 https://github.com/sstaub/NTP.git|Contributed|NTP
 https://github.com/sstaub/TeensyID.git|Contributed|TeensyID
@@ -4611,7 +4611,7 @@ https://github.com/RobTillaart/DHT20.git|Contributed|DHT20
 https://github.com/ewertons/esp32-azureiotkit-sensors.git|Contributed|Espressif ESP32 Azure IoT Kit Sensors
 https://github.com/Kei0208/SUSHI-IO-EXP.git|Contributed|SUSHI-EXP-BOARD
 https://github.com/RobTillaart/MAX6675.git|Contributed|MAX6675
-https://github.com/adafruit/Adafruit_InternalFlash.git|Recommended|Adafruit InternalFlash
+https://github.com/adafruit/Adafruit_InternalFlash.git|Contributed|Adafruit InternalFlash
 https://github.com/DFRobot/DFRobot_SHT20.git|Contributed|DFRobot_SHT20
 https://github.com/DFRobot/DFRobot_DS1307.git|Contributed|DFRobot_DS1307
 https://github.com/chandrawi/LoRaRF-Arduino.git|Contributed|LoRaRF
@@ -4707,7 +4707,7 @@ https://github.com/DFRobot/DFRobot_DHT11.git|Contributed|DFRobot_DHT11
 https://github.com/cike-567/arduino-ps2zhuji.git|Contributed|ps2zhuji
 https://github.com/creatingnull/null-packet-comms-arduino.git|Contributed|NullPacketComms
 https://github.com/RobTillaart/X9C10X.git|Contributed|X9C10X
-https://github.com/adafruit/Adafruit_ADXL375.git|Recommended|Adafruit ADXL375
+https://github.com/adafruit/Adafruit_ADXL375.git|Contributed|Adafruit ADXL375
 https://github.com/cike-567/arduino-ps2shebei.git|Contributed|ps2shebei
 https://github.com/arduino-libraries/Arduino_Braccio_plusplus.git|Arduino|Arduino_Braccio_plusplus
 https://github.com/chrmlinux/tinyESPNow.git|Contributed|tinyESPNow
@@ -4838,7 +4838,7 @@ https://github.com/DFRobot/DFRobot_OxygenSensor.git|Contributed|DFRobot_OxygenSe
 https://github.com/chcbaram/HS_JOY_ESP32.git|Contributed|HS_JOY_ESP32
 https://github.com/ArtronShop/KidMotorV4-Arduino.git|Contributed|KidMotorV4-Arduino
 https://github.com/bheesma-10/IP5306_I2C.git|Contributed|IP5306_I2C
-https://github.com/adafruit/Adafruit_TSC2007.git|Recommended|Adafruit TSC2007
+https://github.com/adafruit/Adafruit_TSC2007.git|Contributed|Adafruit TSC2007
 https://github.com/khoih-prog/Ethernet_Generic.git|Contributed|Ethernet_Generic
 https://github.com/An7orAhmed/LiquidCrystalSerial.git|Contributed|LiquidCrystalSerial
 https://github.com/An7orAhmed/LettersKeypad.git|Contributed|LettersKeypad
@@ -5085,8 +5085,8 @@ https://github.com/KravitzLab/MicrocontrollersForNeuroscience.git|Contributed|Op
 https://github.com/RobTillaart/DRV8825.git|Contributed|DRV8825
 https://github.com/Megunolink/FileManager.git|Contributed|MegunoLink File Manager
 https://github.com/ftjuh/I2Cwrapper.git|Contributed|I2Cwrapper
-https://github.com/adafruit/Adafruit_MMC56x3.git|Recommended|Adafruit MMC56x3
-https://github.com/adafruit/Adafruit_PCF8574.git|Recommended|Adafruit PCF8574
+https://github.com/adafruit/Adafruit_MMC56x3.git|Contributed|Adafruit MMC56x3
+https://github.com/adafruit/Adafruit_PCF8574.git|Contributed|Adafruit PCF8574
 https://github.com/blues/notecard-aux-wifi.git|Contributed|Blues Wireless Notecard Auxiliary Wi-Fi
 https://github.com/m5stack/M5-ADS1115.git|Contributed|M5-ADS1115
 https://github.com/WinsonAPP/WinsonLibrary.git|Contributed|WinsonLib
@@ -5187,7 +5187,7 @@ https://github.com/m5stack/M5-LoRaWAN.git|Contributed|M5-LoRaWAN
 https://github.com/shurillu/Cdrv8833.git|Contributed|Cdrv8833
 https://github.com/Andy4495/SWI2C.git|Contributed|SWI2C
 https://github.com/khoih-prog/WiFiManager_RP2040W_Lite.git|Contributed|WiFiManager_RP2040W_Lite
-https://github.com/adafruit/Adafruit_MAX1704X.git|Recommended|Adafruit MAX1704X
+https://github.com/adafruit/Adafruit_MAX1704X.git|Contributed|Adafruit MAX1704X
 https://github.com/khoih-prog/WiFiManager_RP2040W.git|Contributed|WiFiManager_RP2040W
 https://github.com/natnqweb/EventSystem.git|Contributed|EventSystem
 https://github.com/DIYODEmag/DIYsplay.git|Contributed|DIYsplay
@@ -5205,7 +5205,7 @@ https://github.com/khoih-prog/ATtiny_TimerInterrupt.git|Contributed|ATtiny_Timer
 https://github.com/gspsp/Series.git|Contributed|Series
 https://github.com/berrak/LedTask.git|Contributed|LedTask
 https://github.com/asjdf/WebSerialLite.git|Contributed|WebSerialLite
-https://github.com/adafruit/Adafruit_LTR329_LTR303.git|Recommended|Adafruit LTR329 and LTR303
+https://github.com/adafruit/Adafruit_LTR329_LTR303.git|Contributed|Adafruit LTR329 and LTR303
 https://github.com/lucas-inacio/TinyLiquidCrystal_I2C.git|Contributed|TinyLiquidCrystal_I2C
 https://github.com/khoih-prog/ATtiny_Slow_PWM.git|Contributed|ATtiny_Slow_PWM
 https://github.com/4dsystems/Pixxi-Serial-Arduino-Library.git|Contributed|Pixxi-Serial-Arduino-Library
@@ -5271,7 +5271,7 @@ https://github.com/MrYsLab/Telemetrix4RpiPicoW.git|Contributed|Telemetrix4RPiPic
 https://github.com/tanakamasayuki/ESP32PsramLock.git|Contributed|ESP32PsramLock
 https://github.com/RaphaelStorch/Library-for-LTS01A---MAX31725.git|Contributed|LTS01A_MAX31725
 https://github.com/chrmlinux/tinyDC.git|Contributed|tynyDC
-https://github.com/adafruit/Adafruit_TCA8418.git|Recommended|Adafruit TCA8418
+https://github.com/adafruit/Adafruit_TCA8418.git|Contributed|Adafruit TCA8418
 https://github.com/serenewaffles/OctoPrinter.git|Contributed|OctoPrinter
 https://github.com/1337encrypted/BTS7960_Motordriver.git|Contributed|BTS7960_Motordriver
 https://github.com/DFRobot/DFRobot_MAX98357A.git|Contributed|DFRobot_MAX98357A
@@ -5732,7 +5732,7 @@ https://github.com/acksen/AcksenButton.git|Contributed|AcksenButton
 https://github.com/acksen/AcksenIntEEPROM.git|Contributed|AcksenIntEEPROM
 https://github.com/acksen/AcksenUtils.git|Contributed|AcksenUtils
 https://github.com/danny270793/ArduinoShiftRegister.git|Contributed|ShiftRegister
-https://github.com/adafruit/PicoDVI.git|Recommended|PicoDVI - Adafruit Fork
+https://github.com/adafruit/PicoDVI.git|Contributed|PicoDVI - Adafruit Fork
 https://github.com/Foxdogface/arduino-VEML6070.git|Contributed|VEML6070
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog.git|Contributed|SimpleSyslog
 https://github.com/ripred/fANSI.git|Contributed|fANSI
@@ -5799,7 +5799,7 @@ https://github.com/tony-bringardner/NetworkMonitor.git|Contributed|NetworkMonito
 https://github.com/sparkfun/SparkFun_WebServer_ESP32_W5500.git|Contributed|SparkFun_WebServer_ESP32_W5500
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_mlx90614.git|Contributed|VEGA_MLX90614
 https://github.com/gilman88/xmodem-lib.git|Contributed|XModem
-https://github.com/adafruit/Adafruit_CAN.git|Recommended|Adafruit CAN
+https://github.com/adafruit/Adafruit_CAN.git|Contributed|Adafruit CAN
 https://github.com/teddokano/RTC_NXP_Arduino.git|Contributed|RTC_NXP_Arduino
 https://github.com/honvl/Seeed-Xiao-NRF52840-Battery.git|Contributed|Xiao NRF52840 Battery
 https://github.com/Gfy63/NE555.git|Contributed|NE555
@@ -5855,7 +5855,7 @@ https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102.git|Contributed|VEGA_MAX30102
 https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|MCP23017 Soldered Library
 https://github.com/Tobiyouth/WaterFlow.git|Contributed|WaterFlow
-https://github.com/adafruit/Adafruit_IntelliKeys.git|Recommended|Adafruit IntelliKeys
+https://github.com/adafruit/Adafruit_IntelliKeys.git|Contributed|Adafruit IntelliKeys
 https://github.com/zakarialaoui10/ZikoMatrix.git|Contributed|ZikoMatrix
 https://github.com/SolderedElectronics/Soldered-CCS811-Air-Quality-Sensor-Arduino-Library.git|Contributed|CCS811-Soldered
 https://github.com/SolderedElectronics/Soldered-CAN-Bus-Breakout-MCP2518-Arduino-Library.git|Contributed|Soldered CAN Bus Breakout Arduino Library
@@ -5873,7 +5873,7 @@ https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Libra
 https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_st7735_and_st7789.git|Contributed|VEGA_ST7735_and_ST7789
 https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library.git|Contributed|Soldered SIM7020 NB-IoT Library
 https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library.git|Contributed|SM_ESP32Pi
-https://github.com/adafruit/Adafruit_CPFS.git|Recommended|Adafruit CPFS
+https://github.com/adafruit/Adafruit_CPFS.git|Contributed|Adafruit CPFS
 https://github.com/yashi/Servo328.git|Contributed|Servo328
 https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library.git|Contributed|HX711 SOLDERED
 https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library.git|Contributed|Soldered SI114X Light Sensor
@@ -5943,7 +5943,7 @@ https://github.com/schnoog/Joystick_ESP32S2.git|Contributed|Joystick_ESP32S2
 https://github.com/SanteriLindfors/WiFiProvisioner.git|Contributed|WiFiProvisioner
 https://github.com/deneyapkart/deneyap_arduino_examples.git|Contributed|Deneyap Arduino Examples
 https://github.com/soylentOrange/DigiSpark_PWM.git|Contributed|DigiSpark_PWM
-https://github.com/adafruit/Adafruit_MCP2515.git|Recommended|Adafruit MCP2515
+https://github.com/adafruit/Adafruit_MCP2515.git|Contributed|Adafruit MCP2515
 https://github.com/thelastoutpostworkshop/FastDisplayPrototyping.git|Contributed|FastDisplayPrototyping
 https://github.com/cranties/escposprinter.git|Contributed|escposprinter
 https://github.com/sciosense/apc1-arduino.git|Contributed|ScioSense_APC1
@@ -6011,7 +6011,7 @@ https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library.git|Contributed|Yfrobot Fin
 https://github.com/pablomarquez76/AnalogWrite_ESP32.git|Contributed|AnalogWrite_ESP32
 https://github.com/suratin27/DINO_PLC_V1.git|Contributed|DINO_PLC_V1
 https://github.com/arduino-libraries/Arduino_GigaDisplayTouch.git|Arduino|Arduino_GigaDisplayTouch
-https://github.com/adafruit/Adafruit_GC9A01A.git|Recommended|Adafruit GC9A01A
+https://github.com/adafruit/Adafruit_GC9A01A.git|Contributed|Adafruit GC9A01A
 https://github.com/dang-gun/Arduino_StepperAsync5.git|Contributed|Stepper Async 5
 https://github.com/ripred/CompileTime.git|Contributed|CompileTime
 https://github.com/Crazy-Max-Blog/Crazy_IoTik.git|Contributed|Crazy-IoTik
@@ -6161,7 +6161,7 @@ https://github.com/govorox/SSLClient.git|Contributed|GovoroxSSLClient
 https://github.com/soryone1/fog.git|Contributed|fog
 https://github.com/todd-herbert/unoHID.git|Contributed|unoHID
 https://github.com/RobTillaart/MTP40F.git|Contributed|MTP40F
-https://github.com/adafruit/Adafruit_TSC2046.git|Recommended|Adafruit TSC2046
+https://github.com/adafruit/Adafruit_TSC2046.git|Contributed|Adafruit TSC2046
 https://github.com/sebaJoSt/BlaeckTCP.git|Contributed|BlaeckTCP
 https://github.com/RobTillaart/MATRIX7219.git|Contributed|MATRIX7219
 https://github.com/MicroBeaut/MAX6816.git|Contributed|MAX6816
@@ -6296,16 +6296,16 @@ https://github.com/stm32duino/SHT40-AD1B.git|Contributed|STM32duino SHT40-AD1B
 https://github.com/stm32duino/LSM6DSO16IS.git|Contributed|STM32duino LSM6DSO16IS
 https://github.com/usk-johnny-s/UTF8_Print_AdaGfx.git|Contributed|UTF8 Print AdaGfx
 https://github.com/ardnew/cronos.git|Contributed|cronos
-https://github.com/adafruit/Adafruit_AGS02MA.git|Recommended|Adafruit AGS02MA
-https://github.com/adafruit/Adafruit_HUSB238.git|Recommended|Adafruit HUSB238 Library
-https://github.com/adafruit/ENS160_driver.git|Recommended|ENS160 - Adafruit Fork
+https://github.com/adafruit/Adafruit_AGS02MA.git|Contributed|Adafruit AGS02MA
+https://github.com/adafruit/Adafruit_HUSB238.git|Contributed|Adafruit HUSB238 Library
+https://github.com/adafruit/ENS160_driver.git|Contributed|ENS160 - Adafruit Fork
 https://github.com/WeSpeakEnglish/ANTIRTOS.git|Contributed|ANTIRTOS
 https://github.com/simonlmn/yatest.git|Contributed|yatest
 https://gitlab.com/alexpr0/ssd1306wire.git|Contributed|SSD1306wire
 https://github.com/RobTillaart/PulseDivider.git|Contributed|PulseDivider
 https://github.com/ICRS/ICRS-101-Devkit.git|Contributed|ICRS 101
 https://github.com/JayasinghePasan/Honeywell_SPI_FMA.git|Contributed|HoneyWellFMA_SPI
-https://github.com/adafruit/Adafruit_Debounce.git|Recommended|Adafruit Debounce
+https://github.com/adafruit/Adafruit_Debounce.git|Contributed|Adafruit Debounce
 https://github.com/swharden/NumberSpeaker.git|Contributed|NumberSpeaker
 https://github.com/machinefi/w3bstream-client-arduino-ce.git|Contributed|W3bstreamClient
 https://github.com/GyverLibs/GyverBeeper.git|Contributed|GyverBeeper
@@ -6339,7 +6339,7 @@ https://github.com/arduino-libraries/Arduino_GigaDisplay_GFX.git|Arduino|Arduino
 https://github.com/ReWire-LLC/rewire_max32664.git|Contributed|ReWire MAX32664 Biosensor Hub Library
 https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library.git|Contributed|SparkFun Color Sensor OPT4048
 https://github.com/nbourre/Makeblock-Libraries.git|Contributed|MakeBlock Drive Updated
-https://github.com/adafruit/Adafruit_AD569x.git|Recommended|Adafruit AD569x Library
+https://github.com/adafruit/Adafruit_AD569x.git|Contributed|Adafruit AD569x Library
 https://github.com/ndroid/HC06_AT_CommandCenter.git|Contributed|HC0x_AT_Config
 https://github.com/peetj/Nexgen_Rover.git|Contributed|Nexgen_Rover
 https://github.com/lbirkert/asyncino.git|Contributed|asyncino
@@ -6374,7 +6374,7 @@ https://github.com/ProgrammingElectronicsAcademy/chatGPT-Arduino-library.git|Con
 https://github.com/RobTillaart/AD5263.git|Contributed|AD5263
 https://github.com/m5stack/M5Cardputer.git|Contributed|M5Cardputer
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier.git|Arduino|Arduino_ScienceKitCarrier
-https://github.com/adafruit/Adafruit_VCNL4020.git|Recommended|Adafruit VCNL4020 Library
+https://github.com/adafruit/Adafruit_VCNL4020.git|Contributed|Adafruit VCNL4020 Library
 https://github.com/makerlabvn/Waterproof_Ultrasonic.git|Contributed|Waterproof_Ultrasonic
 https://github.com/zvonler/CircuitPlaygroundGestures.git|Contributed|CircuitPlaygroundGestures
 https://gitlab.com/F-Schmidt/ulm_weatherballoon.git|Contributed|Ulm_Weatherballoon
@@ -6424,7 +6424,7 @@ https://github.com/zimbora/esp32-alarm.git|Contributed|alarm
 https://github.com/zimbora/esp32-autorequest.git|Contributed|autorequest
 https://github.com/Khuuxuanngoc/DHT-sensor-library.git|Contributed|DHT kxn
 https://github.com/makerlabvn/Makerlabvn_SimpleMotor.git|Contributed|Makerlabvn_SimpleMotor
-https://github.com/adafruit/Adafruit_INA228.git|Recommended|Adafruit INA228 Library
+https://github.com/adafruit/Adafruit_INA228.git|Contributed|Adafruit INA228 Library
 https://github.com/Picovoice/picovoice-arduino-fa.git|Contributed|Picovoice_FA
 https://github.com/Picovoice/porcupine-arduino-fa.git|Contributed|Porcupine_FA
 https://github.com/PTSolns/PTSolns_microWatt.git|Contributed|PTSolns_microWatt
@@ -6447,20 +6447,20 @@ https://github.com/Bridgetek/RP2040-BrtEve.git|Contributed|RP2040-BrtEve
 https://github.com/bonezegei/Bonezegei_WS2812.git|Contributed|Bonezegei_WS2812
 https://github.com/Excelsior-Robotics/Excelsior_Ambassador.git|Contributed|Excelsior_Ambassador
 https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515.git|Contributed|mcp_canbus
-https://github.com/adafruit/Adafruit_CST8XX_Library.git|Recommended|Adafruit CST8XX Library
+https://github.com/adafruit/Adafruit_CST8XX_Library.git|Contributed|Adafruit CST8XX Library
 https://github.com/dcondrey/MicrostepToLinear.git|Contributed|MicrostepToLinear
 https://github.com/kotwatthana/WebServerFileUpload.git|Contributed|WebServerFileUpload
 https://github.com/lysek01/ModbusPowerMeter.git|Contributed|ModbusPowerMeter
 https://github.com/m5stack/M5Unit-IMU-Pro-Mini.git|Contributed|M5Unit-IMU-Pro-Mini
 https://github.com/marcin-filipiak/DeviceConfigJSON.git|Contributed|DeviceConfigJSON
-https://github.com/adafruit/Adafruit_ADS7830.git|Recommended|Adafruit ADS7830
+https://github.com/adafruit/Adafruit_ADS7830.git|Contributed|Adafruit ADS7830
 https://github.com/GyverLibs/Pairs.git|Contributed|Pairs
 https://github.com/esp-arduino-libs/ESP32_Knob.git|Contributed|ESP32_Knob
 https://github.com/bonezegei/Bonezegei_HD44780.git|Contributed|Bonezegei_HD44780
 https://github.com/GoodFilling/Motor-Driver.git|Contributed|DRV8251-Driver
 https://github.com/jonnybergdahl/Arduino_JBLogger_Library.git|Contributed|JBLogger
 https://github.com/pg-goose/MKRWiFiLed.git|Contributed|MKRWiFiLed
-https://github.com/adafruit/Adafruit_Faux86.git|Recommended|Adafruit Faux86
+https://github.com/adafruit/Adafruit_Faux86.git|Contributed|Adafruit Faux86
 https://github.com/asukiaaa/arduino-bits.git|Contributed|bits_asukiaaa
 https://github.com/asukiaaa/arduino-enum.git|Contributed|enum_asukiaaa
 https://github.com/ILoveMemes/SoftwareTimer.git|Contributed|SoftwareTimer
@@ -6515,7 +6515,7 @@ https://github.com/MOMIZICH/Shift_Register_Controller.git|Contributed|ShiftRegis
 https://github.com/boeserfrosch/GuL_NovaFitness.git|Contributed|GuL_NovaFitness
 https://github.com/sensebox/senseBoxBLE.git|Contributed|SenseBoxBLE
 https://github.com/franeum/MicroMidiDevices.git|Contributed|MicroMidiDevices
-https://github.com/adafruit/Adafruit_FT5336.git|Recommended|Adafruit FT5336
+https://github.com/adafruit/Adafruit_FT5336.git|Contributed|Adafruit FT5336
 https://github.com/jandrassy/NetApiHelpers.git|Contributed|NetApiHelpers
 https://github.com/pxsty0/deneyapkart.agent.lib.git|Contributed|Deneyap Kart IDE Ornekler
 https://github.com/franeum/TI_SN76489.git|Contributed|TI_SN76489
@@ -6581,14 +6581,14 @@ https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library.git|Contribute
 https://github.com/CoreX-IoT/corex-firmware.git|Contributed|CoreX
 https://github.com/TheNitek/XPT2046_Bitbang_Arduino_Library.git|Contributed|XPT2046_Bitbang_Slim
 https://github.com/handmade0octopus/ESP32-TWAI-CAN.git|Contributed|ESP32-TWAI-CAN
-https://github.com/adafruit/Adafruit_MCP3421.git|Recommended|Adafruit MCP3421
-https://github.com/adafruit/Adafruit_xCA9554.git|Recommended|Adafruit XCA9554
+https://github.com/adafruit/Adafruit_MCP3421.git|Contributed|Adafruit MCP3421
+https://github.com/adafruit/Adafruit_xCA9554.git|Contributed|Adafruit XCA9554
 https://github.com/RobTillaart/I2C_LCD.git|Contributed|I2C_LCD
 https://github.com/dejwk/roo_flags.git|Contributed|roo_flags
 https://github.com/dejwk/roo_logging.git|Contributed|roo_logging
 https://github.com/AsproCompany/AsproSolarShield.git|Contributed|AsproSolarShield
 https://github.com/scheffield/sic45x-driver.git|Contributed|SiC45xDriver
-https://github.com/adafruit/Adafruit_PyCamera.git|Recommended|Adafruit PyCamera Library
+https://github.com/adafruit/Adafruit_PyCamera.git|Contributed|Adafruit PyCamera Library
 https://github.com/GabyGold67/SevenSegDisplaysRTOSLib.git|Contributed|SevenSegDisplays
 https://github.com/RobTillaart/geomath.git|Contributed|geomath
 https://github.com/randomouscrap98/arduboy_raycast.git|Contributed|ArduboyRaycast
@@ -6756,7 +6756,7 @@ https://github.com/RobTillaart/INA3221_RT.git|Contributed|INA3221_RT
 https://github.com/HackerNowful/BLEHID-SD.git|Contributed|blesdlib
 https://github.com/bonezegei/Bonezegei_DS1307.git|Contributed|Bonezegei_DS1307
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library.git|Contributed|Sitron Labs WK2132 Arduino Library
-https://github.com/adafruit/Adafruit_ADG72x.git|Recommended|Adafruit ADG72x
+https://github.com/adafruit/Adafruit_ADG72x.git|Contributed|Adafruit ADG72x
 https://github.com/sparkfun/SparkFun_ADS1219_Arduino_Library.git|Contributed|SparkFun ADS1219 Arduino Library
 https://github.com/arduino-libraries/Arduino_SecureElement.git|Arduino|Arduino_SecureElement
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library.git|Contributed|Sitron Labs TIC Arduino Library
