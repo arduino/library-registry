@@ -924,6 +924,7 @@ https://github.com/Asyasyarif/RFID-Spacecat
 https://github.com/aszopko/somfy-esp8266
 https://github.com/atc1441/NETSGPClient
 https://github.com/athombv/homey-arduino-library
+https://github.com/AtrivaTECH/AtrivaTECH_PicUNO
 https://github.com/Atzingen/controleForno
 https://github.com/audeme/MOVIArduinoAPI
 https://github.com/Augmented-Robotics/roboheart-arduino-library
