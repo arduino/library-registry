@@ -2422,7 +2422,6 @@ https://github.com/GyverLibs/fixed
 https://github.com/GyverLibs/Forecaster
 https://github.com/GyverLibs/GParser
 https://github.com/GyverLibs/GRGB
-https://github.com/GyverLibs/GSON
 https://github.com/GyverLibs/Gyver433
 https://github.com/GyverLibs/GyverBeeper
 https://github.com/GyverLibs/GyverBlinker
@@ -2462,7 +2461,6 @@ https://github.com/GyverLibs/GyverTM1637
 https://github.com/GyverLibs/GyverTransfer
 https://github.com/GyverLibs/GyverUART
 https://github.com/GyverLibs/GyverWDT
-https://github.com/GyverLibs/Hamming
 https://github.com/GyverLibs/microDS18B20
 https://github.com/GyverLibs/microDS3231
 https://github.com/GyverLibs/microLED
@@ -2481,7 +2479,6 @@ https://github.com/GyverLibs/SevenSegmentsDisp
 https://github.com/GyverLibs/SimplePortal
 https://github.com/GyverLibs/SoftServo
 https://github.com/GyverLibs/Stamp
-https://github.com/GyverLibs/StringUtils
 https://github.com/GyverLibs/SunPosition
 https://github.com/GyverLibs/Tachometer
 https://github.com/GyverLibs/TimeRandom
