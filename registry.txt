@@ -108,7 +108,7 @@ https://github.com/arduinoverkstad/EducationShield.git|Contributed|EducationShie
 # REMOVED: https://github.com/arduinoverkstad/Svante-Workshop.git|Contributed|Svante
 
 # Microsoft
-https://github.com/ms-iot/virtual-shields-arduino.git|Partner|Windows Virtual Shields for Arduino
+https://github.com/ms-iot/virtual-shields-arduino.git|Retired|Windows Virtual Shields for Arduino
 
 # Temboo
 https://github.com/arduino-libraries/Temboo.git|Arduino|Temboo
@@ -241,15 +241,15 @@ https://github.com/adafruit/Adafruit_FXAS21002C.git|Recommended|Adafruit FXAS210
 https://github.com/adafruit/Adafruit_FXOS8700.git|Recommended|Adafruit FXOS8700
 
 # Ameltech
-https://github.com/ameltech/sme-le51-868-library.git|Partner|SmartEverything SIGFOX LE51-868
-https://github.com/ameltech/sme-nt3h1x01-library.git|Partner|SmartEverything NFC NT3H1101
-https://github.com/ameltech/sme-vl6180x-library.git|Partner|SmartEverything VL6180X
-https://github.com/ameltech/sme-hts221-library.git|Partner|SmartEverything HTS221
-https://github.com/ameltech/sme-se868-a-library.git|Partner|SmartEverything SE868-AS
-https://github.com/ameltech/sme-lsm9ds1-library.git|Partner|SmartEverything LSM9DS1
-https://github.com/ameltech/sme-lps25h-library.git|Partner|SmartEverything LPS25H
+https://github.com/ameltech/sme-le51-868-library.git|Contributed|SmartEverything SIGFOX LE51-868
+https://github.com/ameltech/sme-nt3h1x01-library.git|Contributed|SmartEverything NFC NT3H1101
+https://github.com/ameltech/sme-vl6180x-library.git|Contributed|SmartEverything VL6180X
+https://github.com/ameltech/sme-hts221-library.git|Contributed|SmartEverything HTS221
+https://github.com/ameltech/sme-se868-a-library.git|Contributed|SmartEverything SE868-AS
+https://github.com/ameltech/sme-lsm9ds1-library.git|Contributed|SmartEverything LSM9DS1
+https://github.com/ameltech/sme-lps25h-library.git|Contributed|SmartEverything LPS25H
 
-# DUPLICATE. https://github.com/ms-iot/virtual-shields-arduino.git|Partner
+# DUPLICATE. https://github.com/ms-iot/virtual-shields-arduino.git|Contributed
 
 https://github.com/ParsePlatform/Parse-SDK-Arduino.git|Contributed|Parse Arduino SDK
 
@@ -4508,7 +4508,7 @@ https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_V
 https://github.com/GyverLibs/GyverHTU21D.git|Contributed|GyverHTU21D
 https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
 https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
-https://github.com/Azure/azure-sdk-for-c-arduino.git|Partner|Azure SDK for C
+https://github.com/Azure/azure-sdk-for-c-arduino.git|Contributed|Azure SDK for C
 https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
 https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
 https://github.com/dndubins/QuickStats.git|Contributed|QuickStats
