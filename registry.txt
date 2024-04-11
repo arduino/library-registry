@@ -4461,7 +4461,7 @@ https://github.com/Picovoice/picovoice-arduino-fr.git|Contributed|Picovoice_FR
 https://github.com/Picovoice/porcupine-arduino-de.git|Contributed|Porcupine_DE
 https://github.com/Picovoice/porcupine-arduino-fr.git|Contributed|Porcupine_FR
 https://github.com/Picovoice/porcupine-arduino-es.git|Contributed|Porcupine_ES
-https://github.com/m5stack/PoE_CAM.git|Contributed|PoE_CAM
+https://github.com/m5stack/M5PoECAM.git|Contributed|M5PoECAM
 https://github.com/sensirion/arduino-gas-index-algorithm.git|Contributed|Sensirion Gas Index Algorithm
 https://github.com/sensirion/arduino-i2c-sdp.git|Contributed|Sensirion I2C SDP
 https://github.com/sensirion/arduino-i2c-sgp40.git|Contributed|Sensirion I2C SGP40
@@ -5981,8 +5981,8 @@ https://github.com/wzwyz/Stringcalculater.git|Contributed|Stringcalculater
 https://github.com/wzwyz/CrystalC.git|Contributed|Crystal C Interpreter
 https://github.com/pazi88/STM32_CAN.git|Contributed|STM32_CAN
 https://github.com/bimac/EEPstore.git|Contributed|EEPstore
-https://github.com/htmltiger/dhtESP32-rmt.git|Contributed|dhtESP32-rmt
 https://github.com/junkfix/esp32-ds18b20.git|Contributed|esp32-ds18b20
+https://github.com/junkfix/dhtESP32-rmt.git|Contributed|dhtESP32-rmt
 https://github.com/dang-gun/Arduino_ButtonClickCheck.git|Contributed|ButtonClickCheck
 https://github.com/flash62au/WiThrottleProtocol.git|Contributed|WiThrottleProtocol
 https://github.com/ArtronShop/ArtronShop_PCF85363.git|Contributed|ArtronShop_PCF85363
@@ -6938,3 +6938,17 @@ https://github.com/1ux/DCF77Decode.git|Contributed|DCF77Decode
 https://github.com/1ux/BasicColorLedControl.git|Contributed|BasicColorLedControl
 https://github.com/kashif-baig/StringLib.git|Contributed|StringLib
 https://github.com/kashif-baig/MessagingLib.git|Contributed|MessagingLib
+https://github.com/Krookikk/my_STL.git|Contributed|my_STL
+https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266.git|Contributed|CraftConnect_ESP8266
+https://github.com/kashif-baig/MvcWebServerLib.git|Contributed|MvcWebServerLib
+https://github.com/dhrubasaha08/TFminiS.git|Contributed|TFminiS
+https://github.com/Xinyuan-LilyGO/LilyGo-EPD47.git|Contributed|LilyGo-EPD47
+https://github.com/bavathd/tago_esp32.git|Contributed|Tago ESP32
+https://github.com/stm32duino/X-NUCLEO-53L4A3.git|Contributed|STM32duino X-NUCLEO-53L4A3
+https://github.com/stm32duino/VL53L4ED.git|Contributed|STM32duino VL53L4ED
+https://github.com/codewithher/CC-Lantern.git|Contributed|CC-Lantern
+https://github.com/arduino-libraries/Arduino_Cellular.git|Arduino|Arduino_Cellular
+https://github.com/SnailDragon/MightyOhmGeigerCounter.git|Contributed|MightyOhmGeigerCounter
+https://github.com/ardlib/bosejis_Types.git|Contributed|bosejis_Types
+https://github.com/agomezgar/escornabotLibrary.git|Contributed|escornabot
+https://github.com/AtrivaTECH/AtrivaTECH_PicUNO.git|Contributed|AtrivaTECH PicUNO
