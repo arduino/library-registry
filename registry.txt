@@ -6951,3 +6951,4 @@ https://github.com/arduino-libraries/Arduino_Cellular.git|Arduino|Arduino_Cellul
 https://github.com/SnailDragon/MightyOhmGeigerCounter.git|Contributed|MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types.git|Contributed|bosejis_Types
 https://github.com/agomezgar/escornabotLibrary.git|Contributed|escornabot
+https://github.com/AtrivaTECH/AtrivaTECH_PicUNO.git|Contributed|AtrivaTECH PicUNO
