@@ -4461,7 +4461,7 @@ https://github.com/Picovoice/picovoice-arduino-fr.git|Contributed|Picovoice_FR
 https://github.com/Picovoice/porcupine-arduino-de.git|Contributed|Porcupine_DE
 https://github.com/Picovoice/porcupine-arduino-fr.git|Contributed|Porcupine_FR
 https://github.com/Picovoice/porcupine-arduino-es.git|Contributed|Porcupine_ES
-https://github.com/m5stack/PoE_CAM.git|Contributed|PoE_CAM
+https://github.com/m5stack/M5PoECAM.git|Contributed|M5PoECAM
 https://github.com/sensirion/arduino-gas-index-algorithm.git|Contributed|Sensirion Gas Index Algorithm
 https://github.com/sensirion/arduino-i2c-sdp.git|Contributed|Sensirion I2C SDP
 https://github.com/sensirion/arduino-i2c-sgp40.git|Contributed|Sensirion I2C SGP40
