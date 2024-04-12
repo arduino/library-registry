@@ -6953,3 +6953,4 @@ https://github.com/ardlib/bosejis_Types.git|Contributed|bosejis_Types
 https://github.com/agomezgar/escornabotLibrary.git|Contributed|escornabot
 https://github.com/AtrivaTECH/AtrivaTECH_PicUNO.git|Contributed|AtrivaTECH PicUNO
 https://github.com/ardlib/bosejis_AMV.git|Contributed|bosejis_AMV
+https://github.com/nayooooo/StreamDeviceAT.git|Contributed|StreamDeviceAT
