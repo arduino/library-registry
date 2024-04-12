@@ -6846,6 +6846,7 @@ https://github.com/Krookikk/my_STL
 https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266
 https://github.com/kashif-baig/MvcWebServerLib
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
+https://github.com/board707/DMD_STM32
 https://github.com/bavathd/tago_esp32
 https://github.com/stm32duino/X-NUCLEO-53L4A3
 https://github.com/stm32duino/VL53L4ED
