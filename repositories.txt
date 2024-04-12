@@ -782,6 +782,7 @@ https://github.com/arduino-libraries/MKRMotorCarrier
 https://github.com/arduino-libraries/MKRNB
 https://github.com/arduino-libraries/MKRWAN
 https://github.com/arduino-libraries/MKRWAN_v2
+https://github.com/arduino-libraries/Modulino
 https://github.com/arduino-libraries/Mouse
 https://github.com/arduino-libraries/NTPClient
 https://github.com/arduino-libraries/PhysicsLabFirmware
