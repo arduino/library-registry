@@ -6955,3 +6955,4 @@ https://github.com/AtrivaTECH/AtrivaTECH_PicUNO.git|Contributed|AtrivaTECH PicUN
 https://github.com/ardlib/bosejis_AMV.git|Contributed|bosejis_AMV
 https://github.com/nayooooo/StreamDeviceAT.git|Contributed|StreamDeviceAT
 https://github.com/board707/DMD_STM32.git|Contributed|DMD_STM32
+https://github.com/arduino-libraries/Modulino.git|Arduino|Modulino
