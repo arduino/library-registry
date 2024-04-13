@@ -6856,3 +6856,4 @@ https://github.com/arduino-libraries/Arduino_Cellular
 https://github.com/SnailDragon/MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types
 https://github.com/ardlib/bosejis_AMV
+https://github.com/kalmak07/SensorNorm
