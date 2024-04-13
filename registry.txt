@@ -6958,3 +6958,4 @@ https://github.com/board707/DMD_STM32.git|Contributed|DMD_STM32
 https://github.com/arduino-libraries/Modulino.git|Arduino|Modulino
 https://github.com/GyverLibs/GyverDS18.git|Contributed|GyverDS18
 https://github.com/kalmak07/SensorNorm.git|Contributed|SensorNormalization
+https://github.com/SkHCrusher/TinyButton.git|Contributed|TinyButton
