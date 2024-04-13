@@ -5546,6 +5546,7 @@ https://github.com/skaldek/STools
 https://github.com/Skallwar/GSL1680
 https://github.com/skathir38/ArduinoSplash
 https://github.com/skathir38/Rotary
+https://github.com/SkHCrusher/TinyButton
 https://github.com/skx/Z80RetroShield
 https://github.com/skyfroger/RLab
 https://github.com/skyfroger/RPlatform
