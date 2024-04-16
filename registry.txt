@@ -6962,3 +6962,4 @@ https://github.com/SkHCrusher/TinyButton.git|Contributed|TinyButton
 https://github.com/D-314/IP2368-Arduino-Library.git|Contributed|IP2368
 https://github.com/maxpromer/AX-Mini.git|Contributed|AX-Mini
 https://github.com/leaphy-robotics/leaphy-extensions.git|Contributed|Leaphy Extensions
+https://github.com/RobTillaart/DAC8571.git|Contributed|DAC8571
