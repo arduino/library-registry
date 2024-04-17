@@ -1,5 +1,6 @@
+https://github.com/nayooooo/StreamDeviceAT
+https://github.com/1ux/LED_RGB_Control
 https://github.com/1ux/DCF77Decode
-https://github.com/1ux/BasicColorLedControl
 https://github.com/tdk-invn-oss/ultrasonic.arduino.CHx01
 https://github.com/stefangs/arduino-library-at24cxxx
 https://github.com/huemonelab/HuemonelabKit
@@ -781,6 +782,7 @@ https://github.com/arduino-libraries/MKRMotorCarrier
 https://github.com/arduino-libraries/MKRNB
 https://github.com/arduino-libraries/MKRWAN
 https://github.com/arduino-libraries/MKRWAN_v2
+https://github.com/arduino-libraries/Modulino
 https://github.com/arduino-libraries/Mouse
 https://github.com/arduino-libraries/NTPClient
 https://github.com/arduino-libraries/PhysicsLabFirmware
@@ -924,6 +926,7 @@ https://github.com/Asyasyarif/RFID-Spacecat
 https://github.com/aszopko/somfy-esp8266
 https://github.com/atc1441/NETSGPClient
 https://github.com/athombv/homey-arduino-library
+https://github.com/AtrivaTECH/AtrivaTECH_PicUNO
 https://github.com/Atzingen/controleForno
 https://github.com/audeme/MOVIArduinoAPI
 https://github.com/Augmented-Robotics/roboheart-arduino-library
@@ -2401,6 +2404,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverDS18
 https://github.com/GyverLibs/AccelMotor
 https://github.com/GyverLibs/AnalogKey
 https://github.com/GyverLibs/Approxy
@@ -2626,8 +2630,8 @@ https://github.com/hpwit/SID6581
 https://github.com/hsaturn/TinyConsole
 https://github.com/hsaturn/TinyMqtt
 https://github.com/hsfl/artemis-teensy
-https://github.com/htmltiger/dhtESP32-rmt
-https://github.com/htmltiger/esp32-ds18b20
+https://github.com/junkfix/dhtESP32-rmt
+https://github.com/junkfix/esp32-ds18b20
 https://github.com/HuangYuTse/GM1602lib
 https://github.com/huilab/HoneywellTruStabilitySPI
 https://github.com/huilab/HoneywellZephyrI2C
@@ -3330,6 +3334,7 @@ https://github.com/ldab/lis3dh-motion-detection
 https://github.com/ldab/u-blox_GNSS
 https://github.com/Leafony/LeafonySTM32
 https://github.com/LeandroLimaPRO/Pressure
+https://github.com/leaphy-robotics/leaphy-extensions
 https://github.com/leaphy-robotics/leaphy-extensions-extra
 https://github.com/leaphy-robotics/leaphy-extensions-original
 https://github.com/lebuni/ZACwire-Library
@@ -3617,7 +3622,7 @@ https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-QRCode
 https://github.com/m5stack/M5Unit-Synth
-https://github.com/m5stack/PoE_CAM
+https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/machinefi/psa-crypto-arduino
@@ -4983,6 +4988,7 @@ https://github.com/RobTillaart/DAC8550
 https://github.com/RobTillaart/DAC8551
 https://github.com/RobTillaart/DAC8552
 https://github.com/RobTillaart/DAC8554
+https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/dateTimeHelpers
 https://github.com/RobTillaart/DEVFULL
 https://github.com/RobTillaart/DEVNULL
@@ -5542,6 +5548,7 @@ https://github.com/skaldek/STools
 https://github.com/Skallwar/GSL1680
 https://github.com/skathir38/ArduinoSplash
 https://github.com/skathir38/Rotary
+https://github.com/SkHCrusher/TinyButton
 https://github.com/skx/Z80RetroShield
 https://github.com/skyfroger/RLab
 https://github.com/skyfroger/RPlatform
@@ -6844,9 +6851,14 @@ https://github.com/Krookikk/my_STL
 https://github.com/addowneer01/CraftConnect-library-for-Arduino-ESP8266
 https://github.com/kashif-baig/MvcWebServerLib
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47
+https://github.com/board707/DMD_STM32
 https://github.com/bavathd/tago_esp32
 https://github.com/stm32duino/X-NUCLEO-53L4A3
 https://github.com/stm32duino/VL53L4ED
 https://github.com/arduino-libraries/Arduino_Cellular
 https://github.com/SnailDragon/MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types
+https://github.com/ardlib/bosejis_AMV
+https://github.com/kalmak07/SensorNorm
+https://github.com/D-314/IP2368-Arduino-Library
+https://github.com/maxpromer/AX-Mini
