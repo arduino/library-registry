@@ -6970,3 +6970,6 @@ https://github.com/HighASG936/hw262.git|Contributed|hw262
 https://github.com/gershnik/MbedNanoTLS.git|Contributed|MbedNanoTLS
 https://github.com/gershnik/BetterWiFiNINA.git|Contributed|BetterWiFiNINA
 https://github.com/hassanalitamam/Car_robot.git|Contributed|car robot vip
+https://github.com/Sensirion/arduino-i2c-sfm-sf06.git|Contributed|Sensirion I2C SFM-SF06
+https://github.com/Sensirion/arduino-i2c-sht3x.git|Contributed|SensirionI2cSht3x
+https://github.com/Sensirion/arduino-i2c-sts3x.git|Contributed|SensirionI2cSts3x
