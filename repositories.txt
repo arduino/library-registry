@@ -6070,6 +6070,7 @@ https://github.com/SukkoPera/N64PadForArduino
 https://github.com/SukkoPera/PsxNewLib
 https://github.com/SukkoPera/Webbino
 https://github.com/sunfounder/SunFounder_Ai_Camera
+https://github.com/sunfounder/arduino_spc
 https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino
 https://github.com/SunitRaut/Smart-Duty-Cycling-Arduino
 https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab
