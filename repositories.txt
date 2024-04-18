@@ -61,6 +61,7 @@ https://bitbucket.org/amotzek/mqtt-client
 https://bitbucket.org/christandlg/as3935mi
 https://bitbucket.org/christandlg/bmp180mi
 https://bitbucket.org/christandlg/bmx280mi
+https://github.com/timtro/wiinunchuck-h/blob/5d0ed460622b851505045d79495ae01cc14b7439/wiinunchuck.h
 https://github.com/PinoRinaudo/DoublyLinkedList
 https://bitbucket.org/christandlg/iaq-coremi
 https://bitbucket.org/christandlg/tsl2591mi
