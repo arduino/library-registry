@@ -6968,3 +6968,4 @@ https://github.com/Embeddronics-ltd/MS5837_30BA_Library.git|Contributed|MS5837_3
 https://github.com/sunfounder/arduino_spc.git|Contributed|SunFounderPowerControl
 https://github.com/HighASG936/hw262.git|Contributed|hw262
 https://github.com/gershnik/MbedNanoTLS.git|Contributed|MbedNanoTLS
+https://github.com/gershnik/BetterWiFiNINA.git|Contributed|BetterWiFiNINA
