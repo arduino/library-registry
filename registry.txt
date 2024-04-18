@@ -4822,7 +4822,7 @@ https://github.com/n-wach/camino.git|Contributed|Camino
 https://github.com/PowerBroker2/navduino.git|Contributed|navduino
 https://github.com/khoih-prog/MQTTPubSubClient_Generic.git|Contributed|MQTTPubSubClient_Generic
 https://github.com/usini/usini_discord_webhook.git|Contributed|Discord_WebHook
-https://github.com/stnkl/FastLEDHub.git|Contributed|FastLEDHub
+https://github.com/srwi/FastLEDHub.git|Contributed|FastLEDHub
 https://github.com/DFRobot/DFRobot_INA219.git|Contributed|DFRobot_INA219
 https://github.com/RobTillaart/WaveMix.git|Contributed|WaveMix
 https://github.com/tttmmmsss/ICM7218C.git|Contributed|ICM7218C
