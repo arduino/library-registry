@@ -6864,3 +6864,4 @@ https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
 https://github.com/maxpromer/Hanuman
 https://github.com/Embeddronics-ltd/MS5837_30BA_Library
+https://github.com/lorenz4672/PZEM017
