@@ -6044,8 +6044,8 @@ https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/stm32duino/X-NUCLEO-S2868A1
 https://github.com/stm32duino/X-NUCLEO-S2868A2
 https://github.com/stm32duino/X-NUCLEO-S2915A1
-https://github.com/stnkl/ESPEssentials
-https://github.com/stnkl/FastLEDHub
+https://github.com/srwi/ESPEssentials
+https://github.com/srwi/FastLEDHub
 https://github.com/STONElibrary/arduino_lib
 https://github.com/stoneroweast/HoldButton
 https://github.com/Strabox/Easyuino
