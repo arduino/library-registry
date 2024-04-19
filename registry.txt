@@ -6974,3 +6974,4 @@ https://github.com/Sensirion/arduino-i2c-sfm-sf06.git|Contributed|Sensirion I2C 
 https://github.com/Sensirion/arduino-i2c-sht3x.git|Contributed|SensirionI2cSht3x
 https://github.com/Sensirion/arduino-i2c-sts3x.git|Contributed|SensirionI2cSts3x
 https://github.com/Embeddronics-ltd/BLEOTALIBRARY.git|Contributed|EmbeddronicsBleOTA
+https://github.com/NightHawk-Technology/NH8CHIR-lib.git|Contributed|NH8CHIR-lib
