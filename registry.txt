@@ -6979,3 +6979,4 @@ https://github.com/rgot-org/LoRaWan_esp32.git|Contributed|LoRaWan_esp32
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7.git|Arduino|Arduino_LowPowerPortentaH7
 https://github.com/ropg/LoRaWAN_ESP32.git|Contributed|LoRaWAN_ESP32
 https://github.com/mathieucarbou/AsyncTCP.git|Contributed|Async TCP
+https://github.com/agomezgar/rupertobotLibrary.git|Contributed|rupertobot
