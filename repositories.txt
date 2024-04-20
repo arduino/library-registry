@@ -1,3 +1,6 @@
+https://github.com/ropg/LoRaWAN_ESP32
+https://github.com/NightHawk-Technology/NH8CHIR-lib
+https://github.com/hassanalitamam/Car_robot/
 https://github.com/nayooooo/StreamDeviceAT
 https://github.com/1ux/LED_RGB_Control
 https://github.com/1ux/DCF77Decode
@@ -711,6 +714,7 @@ https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
+https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7
 https://github.com/arduino-libraries/Arduino_LPS22HB
 https://github.com/arduino-libraries/Arduino_LSM6DS3
 https://github.com/arduino-libraries/Arduino_LSM6DSOX
@@ -3759,6 +3763,7 @@ https://github.com/mathertel/Radio
 https://github.com/mathertel/RFCodes
 https://github.com/mathertel/RotaryEncoder
 https://github.com/Mathieu52/GPSP
+https://github.com/mathieucarbou/AsyncTCP
 https://github.com/mathieucarbou/ESPAsyncWebServer
 https://github.com/mathieucarbou/MycilaConfig
 https://github.com/mathieucarbou/MycilaEasyDisplay
@@ -4817,6 +4822,7 @@ https://github.com/rfetick/MPU6050_light
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
 https://github.com/rgot-org/TTN_M5Stack
+https://github.com/rgot-org/LoRaWan_esp32
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rhrhhrhr/MPC_ruih
@@ -6043,8 +6049,8 @@ https://github.com/stm32duino/X-NUCLEO-NFC08A1
 https://github.com/stm32duino/X-NUCLEO-S2868A1
 https://github.com/stm32duino/X-NUCLEO-S2868A2
 https://github.com/stm32duino/X-NUCLEO-S2915A1
-https://github.com/stnkl/ESPEssentials
-https://github.com/stnkl/FastLEDHub
+https://github.com/srwi/ESPEssentials
+https://github.com/srwi/FastLEDHub
 https://github.com/STONElibrary/arduino_lib
 https://github.com/stoneroweast/HoldButton
 https://github.com/Strabox/Easyuino
@@ -6070,6 +6076,7 @@ https://github.com/SukkoPera/N64PadForArduino
 https://github.com/SukkoPera/PsxNewLib
 https://github.com/SukkoPera/Webbino
 https://github.com/sunfounder/SunFounder_Ai_Camera
+https://github.com/sunfounder/arduino_spc
 https://github.com/SunitRaut/Lightweight-CD74HC4067-Arduino
 https://github.com/SunitRaut/Smart-Duty-Cycling-Arduino
 https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab
@@ -6862,3 +6869,12 @@ https://github.com/ardlib/bosejis_AMV
 https://github.com/kalmak07/SensorNorm
 https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
+https://github.com/maxpromer/Hanuman
+https://github.com/Embeddronics-ltd/MS5837_30BA_Library
+https://github.com/HighASG936/hw262
+https://github.com/gershnik/MbedNanoTLS
+https://github.com/gershnik/BetterWiFiNINA
+https://github.com/Sensirion/arduino-i2c-sfm-sf06
+https://github.com/Sensirion/arduino-i2c-sht3x
+https://github.com/Sensirion/arduino-i2c-sts3x
+https://github.com/Embeddronics-ltd/BLEOTALIBRARY/
