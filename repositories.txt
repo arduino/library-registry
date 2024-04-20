@@ -6879,3 +6879,4 @@ https://github.com/Sensirion/arduino-i2c-sfm-sf06
 https://github.com/Sensirion/arduino-i2c-sht3x
 https://github.com/Sensirion/arduino-i2c-sts3x
 https://github.com/Embeddronics-ltd/BLEOTALIBRARY/
+https://github.com/SMotlaq/PI3EQX12908-arduino
