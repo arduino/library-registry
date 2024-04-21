@@ -6982,3 +6982,4 @@ https://github.com/mathieucarbou/AsyncTCP.git|Contributed|Async TCP
 https://github.com/agomezgar/rupertobotLibrary.git|Contributed|rupertobot
 https://github.com/SMotlaq/PI3EQX12908-arduino.git|Contributed|PI3EQX12908 PCIe redriver library
 https://github.com/2taras/espwifiarduino_ide_lib.git|Contributed|espwifiarduino
+https://github.com/mmarkin/GeoIP.git|Contributed|GeoIP
