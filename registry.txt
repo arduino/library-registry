@@ -6984,3 +6984,4 @@ https://github.com/SMotlaq/PI3EQX12908-arduino.git|Contributed|PI3EQX12908 PCIe 
 https://github.com/2taras/espwifiarduino_ide_lib.git|Contributed|espwifiarduino
 https://github.com/mmarkin/GeoIP.git|Contributed|GeoIP
 https://github.com/Sam4uk/Filter.Easy.git|Contributed|Filter Easy
+https://github.com/FCrins1/WeatherCall.git|Contributed|weathercall
