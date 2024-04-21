@@ -2154,6 +2154,7 @@ https://github.com/fbiego/ESP32Time
 https://github.com/fbiego/MpesaSTK
 https://github.com/fbiego/Timber
 https://github.com/Fbisinger/HeidelbergInterface
+https://github.com/FCrins1/WeatherCall
 https://github.com/fdivitto/FabGL
 https://github.com/feanor-anglin/PCF8575-lib
 https://github.com/feilipu/Arduino_FreeRTOS_Library
