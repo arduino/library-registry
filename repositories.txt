@@ -4824,7 +4824,7 @@ https://github.com/rfetick/MPU6050_light
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
 https://github.com/rgot-org/TTN_M5Stack
-https://github.com/rgot-org/LoRaWan_esp32
+https://github.com/rgot-org/Easy_LoRaWan_esp32
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rhrhhrhr/MPC_ruih
