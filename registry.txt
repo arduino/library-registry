@@ -6985,3 +6985,4 @@ https://github.com/2taras/espwifiarduino_ide_lib.git|Contributed|espwifiarduino
 https://github.com/mmarkin/GeoIP.git|Contributed|GeoIP
 https://github.com/Sam4uk/Filter.Easy.git|Contributed|Filter Easy
 https://github.com/FCrins1/WeatherCall.git|Contributed|weathercall
+https://github.com/Subodh-roy2/Modular.git|Contributed|Modular
