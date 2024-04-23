@@ -6988,3 +6988,4 @@ https://github.com/FCrins1/WeatherCall.git|Contributed|weathercall
 https://github.com/Subodh-roy2/Modular.git|Contributed|Modular
 https://github.com/Chuque/arduino-CallbackButton.git|Contributed|CallbackButton
 https://github.com/ardlib/bosejis_TWI.git|Contributed|bosejis_TWI
+https://github.com/arduino279/ArduinoAI.git|Contributed|AISwitch
