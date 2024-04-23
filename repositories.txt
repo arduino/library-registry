@@ -1,4 +1,3 @@
-https://github.com/arduino279/ArduinoAI
 https://github.com/Chuque/arduino-CallbackButton
 https://github.com/Subodh-roy2/Modular
 https://github.com/agomezgar/rupertobotLibrary
