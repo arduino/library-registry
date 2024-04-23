@@ -1,3 +1,7 @@
+https://github.com/arduino279/AI/
+https://github.com/arduino279/ArduinoAI
+https://github.com/Chuque/arduino-CallbackButton
+https://github.com/Subodh-roy2/Modular
 https://github.com/agomezgar/rupertobotLibrary
 https://github.com/ropg/LoRaWAN_ESP32
 https://github.com/NightHawk-Technology/NH8CHIR-lib
@@ -6870,6 +6874,7 @@ https://github.com/arduino-libraries/Arduino_Cellular
 https://github.com/SnailDragon/MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types
 https://github.com/ardlib/bosejis_AMV
+https://github.com/ardlib/bosejis_TWI
 https://github.com/kalmak07/SensorNorm
 https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
