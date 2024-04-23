@@ -5872,6 +5872,7 @@ https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3
+https://github.com/sparkfun/SparkFun_u-blox_PointPerfect_Library
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
 https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library
