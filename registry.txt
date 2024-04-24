@@ -6972,5 +6972,28 @@ https://github.com/gershnik/BetterWiFiNINA.git|Contributed|BetterWiFiNINA
 https://github.com/hassanalitamam/Car_robot.git|Contributed|car robot vip
 https://github.com/Sensirion/arduino-i2c-sfm-sf06.git|Contributed|Sensirion I2C SFM-SF06
 https://github.com/Sensirion/arduino-i2c-sht3x.git|Contributed|Sensirion I2C SHT3x
-https://github.com/Sensirion/arduino-i2c-sts3x.git|Contributed|SensirionI2cSts3x
+https://github.com/Sensirion/arduino-i2c-sts3x.git|Contributed|Sensirion I2C STS3x
 https://github.com/Embeddronics-ltd/BLEOTALIBRARY.git|Contributed|EmbeddronicsBleOTA
+https://github.com/NightHawk-Technology/NH8CHIR-lib.git|Contributed|NH8CHIR-lib
+https://github.com/rgot-org/LoRaWan_esp32.git|Contributed|LoRaWan_esp32
+https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7.git|Arduino|Arduino_LowPowerPortentaH7
+https://github.com/ropg/LoRaWAN_ESP32.git|Contributed|LoRaWAN_ESP32
+https://github.com/mathieucarbou/AsyncTCP.git|Contributed|Async TCP
+https://github.com/agomezgar/rupertobotLibrary.git|Contributed|rupertobot
+https://github.com/SMotlaq/PI3EQX12908-arduino.git|Contributed|PI3EQX12908 PCIe redriver library
+https://github.com/2taras/espwifiarduino_ide_lib.git|Contributed|espwifiarduino
+https://github.com/mmarkin/GeoIP.git|Contributed|GeoIP
+https://github.com/Sam4uk/Filter.Easy.git|Contributed|Filter Easy
+https://github.com/FCrins1/WeatherCall.git|Contributed|weathercall
+https://github.com/Subodh-roy2/Modular.git|Contributed|Modular
+https://github.com/Chuque/arduino-CallbackButton.git|Contributed|CallbackButton
+https://github.com/ardlib/bosejis_TWI.git|Contributed|bosejis_TWI
+https://github.com/arduino279/ArduinoAI.git|Contributed|AISwitch
+https://github.com/arduino279/AI.git|Contributed|AISwitch
+https://github.com/sparkfun/SparkFun_u-blox_PointPerfect_Library.git|Contributed|SparkFun u-blox PointPerfect Library
+https://github.com/sparkfun/SparkFun_IM19_IMU_Arduino_Library.git|Contributed|SparkFun IM19 IMU Arduino Library
+https://github.com/HighASG936/Mc74hc595a.git|Contributed|mc74hc595a
+https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA.git|Contributed|Seeed Arduino SSCMA
+https://github.com/anton-freddy/move_buffer.git|Contributed|Move Buffer
+https://github.com/Sensirion/arduino-i2c-sfx6xxx.git|Contributed|Sensirion I2C SFx6xxx
+https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|SensirionUartSfx6xxx
