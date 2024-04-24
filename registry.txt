@@ -6994,3 +6994,4 @@ https://github.com/sparkfun/SparkFun_u-blox_PointPerfect_Library.git|Contributed
 https://github.com/sparkfun/SparkFun_IM19_IMU_Arduino_Library.git|Contributed|SparkFun IM19 IMU Arduino Library
 https://github.com/HighASG936/Mc74hc595a.git|Contributed|mc74hc595a
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA.git|Contributed|Seeed Arduino SSCMA
+https://github.com/anton-freddy/move_buffer.git|Contributed|Move Buffer
