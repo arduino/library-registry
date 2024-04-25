@@ -6997,3 +6997,4 @@ https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA.git|Contributed|Seeed Arduin
 https://github.com/anton-freddy/move_buffer.git|Contributed|Move Buffer
 https://github.com/Sensirion/arduino-i2c-sfx6xxx.git|Contributed|Sensirion I2C SFx6xxx
 https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|SensirionUartSfx6xxx
+https://github.com/nthnn/n2cmu-arduino.git|Contributed|n2cmu
