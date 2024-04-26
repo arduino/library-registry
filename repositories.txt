@@ -1575,6 +1575,7 @@ https://github.com/dantudose/LTR308
 https://github.com/dantudose/MAX44009
 https://github.com/danyev3/JAREL
 https://github.com/dariomas/DigitLed72xx
+https://github.com/dariomas/Pictiva_OS288048
 https://github.com/DarkDust/MHGroveBLE
 https://github.com/DarkWizarD24/fmt-arduino
 https://github.com/darrenjcosborne/NextionSerialString
