@@ -7002,3 +7002,4 @@ https://github.com/makerlabvn/kxnTask.git|Contributed|kxnTask
 https://github.com/trongthan210/iMaker-PS2.git|Contributed|iMakerPS2
 https://github.com/makerlabvn/BlynkGate.git|Contributed|MakerLab.vn MKE-M16 BlynkGate Library
 https://github.com/GyverLibs/Stack.git|Contributed|Stack
+https://github.com/dariomas/Pictiva_OS288048.git|Contributed|Pictiva OS288048
