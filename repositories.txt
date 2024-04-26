@@ -4096,7 +4096,7 @@ https://github.com/naiithink/musicians-mate
 https://github.com/nailujx86/ESP8266_multipart
 https://github.com/namino-cc/Namino_Library
 https://github.com/NanitRobot/NanitLib
-https://github.com/Nargott/birdhouse_sdk
+https://github.com/Nat/birdhouse_sdk
 https://github.com/narinaviation/iBotX
 https://github.com/Narwhalsss360/NColor
 https://github.com/Narwhalsss360/NDefs
@@ -4836,7 +4836,6 @@ https://github.com/rfetick/MPU6050_light
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
 https://github.com/rgot-org/TTN_M5Stack
-https://github.com/rgot-org/LoRaWan_esp32
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rhrhhrhr/MPC_ruih
