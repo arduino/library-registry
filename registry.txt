@@ -6999,3 +6999,4 @@ https://github.com/Sensirion/arduino-i2c-sfx6xxx.git|Contributed|Sensirion I2C S
 https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|SensirionUartSfx6xxx
 https://github.com/nthnn/n2cmu-arduino.git|Contributed|n2cmu
 https://github.com/makerlabvn/kxnTask.git|Contributed|kxnTask
+https://github.com/trongthan210/iMaker-PS2.git|Contributed|iMakerPS2
