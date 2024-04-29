@@ -5,7 +5,6 @@ https://github.com/trongthan210/iMaker-PS2
 https://github.com/makerlabvn/kxnTask
 https://github.com/arduino279/AI/
 https://github.com/anton-freddy/move_buffer
-https://github.com/arduino279/ArduinoAI
 https://github.com/Chuque/arduino-CallbackButton
 https://github.com/Subodh-roy2/Modular
 https://github.com/agomezgar/rupertobotLibrary
