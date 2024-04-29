@@ -2661,6 +2661,7 @@ https://github.com/hunamizawa/ESPPerfectTime
 https://github.com/hunsalz/log4Esp
 https://github.com/hutorny/cojson.lib
 https://github.com/hvanvoorthuijsen/InkyBoard
+https://github.com/hydra/arduino-ICM42605
 https://github.com/hzkincony/kc868-arduino-library
 https://github.com/i3water/Blinker_PMSX003ST
 https://github.com/iagows/arduino_io
