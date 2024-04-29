@@ -6988,7 +6988,6 @@ https://github.com/FCrins1/WeatherCall.git|Contributed|weathercall
 https://github.com/Subodh-roy2/Modular.git|Contributed|Modular
 https://github.com/Chuque/arduino-CallbackButton.git|Contributed|CallbackButton
 https://github.com/ardlib/bosejis_TWI.git|Contributed|bosejis_TWI
-https://github.com/arduino279/ArduinoAI.git|Contributed|AISwitch
 https://github.com/arduino279/AI.git|Contributed|AISwitch
 https://github.com/sparkfun/SparkFun_u-blox_PointPerfect_Library.git|Contributed|SparkFun u-blox PointPerfect Library
 https://github.com/sparkfun/SparkFun_IM19_IMU_Arduino_Library.git|Contributed|SparkFun IM19 IMU Arduino Library
