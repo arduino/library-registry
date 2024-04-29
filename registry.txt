@@ -7006,3 +7006,4 @@ https://github.com/brincode/Fa3el_kher.git|Contributed|fa3el_khar
 https://github.com/beegee-tokyo/RUI3-Arduino-Library.git|Contributed|RUI3-Arduino-Library
 https://github.com/locple/LCDI2C_Multilingual.git|Contributed|LiquidCrystal I2C Multilingual
 https://github.com/hydra/arduino-ICM42605.git|Contributed|ICM42605
+https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples.git|Contributed|Heltec_LoRa_OLED_Examples
