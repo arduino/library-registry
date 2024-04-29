@@ -7007,3 +7007,4 @@ https://github.com/beegee-tokyo/RUI3-Arduino-Library.git|Contributed|RUI3-Arduin
 https://github.com/locple/LCDI2C_Multilingual.git|Contributed|LiquidCrystal I2C Multilingual
 https://github.com/hydra/arduino-ICM42605.git|Contributed|ICM42605
 https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples.git|Contributed|Heltec_LoRa_OLED_Examples
+https://github.com/Gissio/mcu-renderer.git|Contributed|mcu-renderer
