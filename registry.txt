@@ -7002,7 +7002,6 @@ https://github.com/trongthan210/iMaker-PS2.git|Contributed|iMakerPS2
 https://github.com/makerlabvn/BlynkGate.git|Contributed|BlynkGate
 https://github.com/GyverLibs/Stack.git|Contributed|Stack
 https://github.com/dariomas/Pictiva_OS288048.git|Contributed|Pictiva OS288048
-https://github.com/brincode/Fa3el_kher.git|Contributed|fa3el_khar
 https://github.com/beegee-tokyo/RUI3-Arduino-Library.git|Contributed|RUI3-Arduino-Library
 https://github.com/locple/LCDI2C_Multilingual.git|Contributed|LiquidCrystal I2C Multilingual
 https://github.com/hydra/arduino-ICM42605.git|Contributed|ICM42605
