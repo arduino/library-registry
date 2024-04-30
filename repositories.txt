@@ -6902,7 +6902,6 @@ https://github.com/Sensirion/arduino-i2c-sfm-sf06
 https://github.com/Sensirion/arduino-i2c-sht3x
 https://github.com/Sensirion/arduino-i2c-sts3x
 https://github.com/Embeddronics-ltd/BLEOTALIBRARY/
-https://github.com/SMotlaq/PI3EQX12908-arduino
 https://github.com/mmarkin/GeoIP
 https://github.com/HighASG936/Mc74hc595a
 https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples
