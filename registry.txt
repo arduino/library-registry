@@ -7010,3 +7010,4 @@ https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples.git|Contribut
 https://github.com/Gissio/mcu-renderer.git|Contributed|mcu-renderer
 https://github.com/Gissio/mcu-max.git|Contributed|mcu-max
 https://github.com/RCMgames/BSCD.git|Contributed|byte-sized-encoder-decoder
+https://github.com/ZeeDesigns7/AdvancedSerial.git|Contributed|AdvancedSerial
