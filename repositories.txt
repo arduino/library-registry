@@ -1,5 +1,11 @@
+https://github.com/ZeeDesigns7/AdvancedSerial
+https://github.com/locple/LCDI2C_Multilingual
+https://github.com/brincode/Fa3el_kher
+https://github.com/makerlabvn/BlynkGate
+https://github.com/trongthan210/iMaker-PS2
+https://github.com/makerlabvn/kxnTask
 https://github.com/arduino279/AI/
-https://github.com/arduino279/ArduinoAI
+https://github.com/anton-freddy/move_buffer
 https://github.com/Chuque/arduino-CallbackButton
 https://github.com/anton-freddy/move_buffer
 https://github.com/Subodh-roy2/Modular
@@ -1003,6 +1009,7 @@ https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
 https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/beegee-tokyo/WisBlock-API-V2
+https://github.com/beegee-tokyo/RUI3-Arduino-Library
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/Beirdo/Arduino-FRAM-Cache
 https://github.com/Beirdo/Arduino-LIN
@@ -1572,6 +1579,7 @@ https://github.com/dantudose/LTR308
 https://github.com/dantudose/MAX44009
 https://github.com/danyev3/JAREL
 https://github.com/dariomas/DigitLed72xx
+https://github.com/dariomas/Pictiva_OS288048
 https://github.com/DarkDust/MHGroveBLE
 https://github.com/DarkWizarD24/fmt-arduino
 https://github.com/darrenjcosborne/NextionSerialString
@@ -2307,7 +2315,6 @@ https://github.com/geekblemaker/Geekble_note2freq
 https://github.com/geekbleofficial/Geekble_LieDetector
 https://github.com/geekbleofficial/Geekble_Oscillator
 https://github.com/geeny/geenymodem
-https://github.com/gelraen/Arduino-PID-Library
 https://github.com/Gemelon/Pushbutton
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/gemi254/ControlAssist-ESP32-ESP8266
@@ -2416,6 +2423,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/Stack
 https://github.com/GyverLibs/GyverDS18
 https://github.com/GyverLibs/AccelMotor
 https://github.com/GyverLibs/AnalogKey
@@ -2653,6 +2661,7 @@ https://github.com/hunamizawa/ESPPerfectTime
 https://github.com/hunsalz/log4Esp
 https://github.com/hutorny/cojson.lib
 https://github.com/hvanvoorthuijsen/InkyBoard
+https://github.com/hydra/arduino-ICM42605
 https://github.com/hzkincony/kc868-arduino-library
 https://github.com/i3water/Blinker_PMSX003ST
 https://github.com/iagows/arduino_io
@@ -2682,6 +2691,7 @@ https://github.com/iliaslamprou/virtuinoCM
 https://github.com/iliaslamprou/virtuinoESP
 https://github.com/ILoveMemes/SoftwareTimer
 https://github.com/iMakeOfficial/iMakeBeta
+https://github.com/imax9000/Arduino-PID-Library
 https://github.com/imfrancisd/MorseCodeMachine
 https://github.com/imiconsystem/MicromationDevboardV3
 https://github.com/ImpulseAdventure/GUIslice
@@ -4222,6 +4232,7 @@ https://github.com/nrwiersma/ESP8266Scheduler
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/diwa
 https://github.com/nthnn/microlzw
+https://github.com/nthnn/n2cmu-arduino
 https://github.com/nthnn/Navigador
 https://github.com/nthnn/PH4502C-Sensor
 https://github.com/nthnn/PortaMob
@@ -5431,11 +5442,13 @@ https://github.com/Sensirion/arduino-i2c-sht4x
 https://github.com/Sensirion/arduino-i2c-stc3x
 https://github.com/Sensirion/arduino-i2c-sts4x
 https://github.com/sensirion/arduino-i2c-svm4x
+https://github.com/Sensirion/arduino-i2c-sfx6xxx
 https://github.com/Sensirion/arduino-sht
 https://github.com/Sensirion/arduino-sps
 https://github.com/Sensirion/arduino-uart-sen44
 https://github.com/Sensirion/arduino-uart-sfa3x
 https://github.com/sensirion/arduino-uart-svm4x
+https://github.com/Sensirion/arduino-uart-sfx6xxx
 https://github.com/Sensirion/arduino-upt-core
 https://github.com/Sensirion/arduino-upt-i2c-auto-detection
 https://github.com/Sensirion/arduino-upt-ble-auto-detection
@@ -6894,3 +6907,7 @@ https://github.com/Embeddronics-ltd/BLEOTALIBRARY/
 https://github.com/SMotlaq/PI3EQX12908-arduino
 https://github.com/mmarkin/GeoIP
 https://github.com/HighASG936/Mc74hc595a
+https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples
+https://github.com/Gissio/mcu-renderer
+https://github.com/Gissio/mcu-max
+https://github.com/RCMgames/BSCD
