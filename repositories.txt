@@ -3865,6 +3865,7 @@ https://github.com/mdxmase/asip
 https://github.com/mdxmase/asip-additional-services
 https://github.com/MeArm/MeArm-Arduino
 https://github.com/mechasolution/Mecha_VoiceRecognitionModule
+https://github.com/mechasolution/Mecha_Rfinder10D
 https://github.com/MeelonUsk/tb9051ftg-motor-carrier-arduino
 https://github.com/meeo/meeo-arduino
 https://github.com/meganetaaan/m5stack-avatar
