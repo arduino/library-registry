@@ -7013,3 +7013,4 @@ https://github.com/RCMgames/BSCD.git|Contributed|byte-sized-encoder-decoder
 https://github.com/ZeeDesigns7/AdvancedSerial.git|Contributed|AdvancedSerial
 https://github.com/mechasolution/Mecha_Rfinder10D.git|Contributed|Mechasolution R finder10D Arduino Library
 https://github.com/ripred/SmartPin.git|Contributed|SmartPin
+https://github.com/Pascal2511/TimerUtils.git|Contributed|TimerUtils
