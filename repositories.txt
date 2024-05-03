@@ -2422,6 +2422,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/rtc_utils
 https://github.com/GyverLibs/Stack
 https://github.com/GyverLibs/GyverDS18
 https://github.com/GyverLibs/AccelMotor
