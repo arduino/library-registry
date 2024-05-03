@@ -1,9 +1,11 @@
+https://github.com/ZeeDesigns7/AdvancedSerial
+https://github.com/locple/LCDI2C_Multilingual
+https://github.com/brincode/Fa3el_kher
 https://github.com/makerlabvn/BlynkGate
 https://github.com/trongthan210/iMaker-PS2
 https://github.com/makerlabvn/kxnTask
 https://github.com/arduino279/AI/
 https://github.com/anton-freddy/move_buffer
-https://github.com/arduino279/ArduinoAI
 https://github.com/Chuque/arduino-CallbackButton
 https://github.com/Subodh-roy2/Modular
 https://github.com/agomezgar/rupertobotLibrary
@@ -1006,6 +1008,7 @@ https://github.com/beegee-tokyo/SX126x-Arduino
 https://github.com/beegee-tokyo/VNCL4020C-Arduino
 https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/beegee-tokyo/WisBlock-API-V2
+https://github.com/beegee-tokyo/RUI3-Arduino-Library
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/Beirdo/Arduino-FRAM-Cache
 https://github.com/Beirdo/Arduino-LIN
@@ -1575,6 +1578,7 @@ https://github.com/dantudose/LTR308
 https://github.com/dantudose/MAX44009
 https://github.com/danyev3/JAREL
 https://github.com/dariomas/DigitLed72xx
+https://github.com/dariomas/Pictiva_OS288048
 https://github.com/DarkDust/MHGroveBLE
 https://github.com/DarkWizarD24/fmt-arduino
 https://github.com/darrenjcosborne/NextionSerialString
@@ -2310,7 +2314,6 @@ https://github.com/geekblemaker/Geekble_note2freq
 https://github.com/geekbleofficial/Geekble_LieDetector
 https://github.com/geekbleofficial/Geekble_Oscillator
 https://github.com/geeny/geenymodem
-https://github.com/gelraen/Arduino-PID-Library
 https://github.com/Gemelon/Pushbutton
 https://github.com/gemi254/ConfigAssist-ESP32-ESP8266
 https://github.com/gemi254/ControlAssist-ESP32-ESP8266
@@ -2657,6 +2660,7 @@ https://github.com/hunamizawa/ESPPerfectTime
 https://github.com/hunsalz/log4Esp
 https://github.com/hutorny/cojson.lib
 https://github.com/hvanvoorthuijsen/InkyBoard
+https://github.com/hydra/arduino-ICM42605
 https://github.com/hzkincony/kc868-arduino-library
 https://github.com/i3water/Blinker_PMSX003ST
 https://github.com/iagows/arduino_io
@@ -2686,6 +2690,7 @@ https://github.com/iliaslamprou/virtuinoCM
 https://github.com/iliaslamprou/virtuinoESP
 https://github.com/ILoveMemes/SoftwareTimer
 https://github.com/iMakeOfficial/iMakeBeta
+https://github.com/imax9000/Arduino-PID-Library
 https://github.com/imfrancisd/MorseCodeMachine
 https://github.com/imiconsystem/MicromationDevboardV3
 https://github.com/ImpulseAdventure/GUIslice
@@ -3860,6 +3865,7 @@ https://github.com/mdxmase/asip
 https://github.com/mdxmase/asip-additional-services
 https://github.com/MeArm/MeArm-Arduino
 https://github.com/mechasolution/Mecha_VoiceRecognitionModule
+https://github.com/mechasolution/Mecha_Rfinder10D
 https://github.com/MeelonUsk/tb9051ftg-motor-carrier-arduino
 https://github.com/meeo/meeo-arduino
 https://github.com/meganetaaan/m5stack-avatar
@@ -6901,3 +6907,10 @@ https://github.com/Embeddronics-ltd/BLEOTALIBRARY/
 https://github.com/SMotlaq/PI3EQX12908-arduino
 https://github.com/mmarkin/GeoIP
 https://github.com/HighASG936/Mc74hc595a
+https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples
+https://github.com/Gissio/mcu-renderer
+https://github.com/Gissio/mcu-max
+https://github.com/RCMgames/BSCD
+https://github.com/ripred/SmartPin
+https://github.com/Pascal2511/TimerUtils
+https://github.com/XavierBrassoud/Arduino_Epson_PNL_CE02
