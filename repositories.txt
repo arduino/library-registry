@@ -6893,6 +6893,7 @@ https://github.com/SnailDragon/MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types
 https://github.com/ardlib/bosejis_AMV
 https://github.com/ardlib/bosejis_TWI
+https://github.com/ardlib/bosejis_PString
 https://github.com/kalmak07/SensorNorm
 https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
