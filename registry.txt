@@ -7017,3 +7017,4 @@ https://github.com/Pascal2511/TimerUtils.git|Contributed|TimerUtils
 https://github.com/XavierBrassoud/Arduino_Epson_PNL_CE02.git|Contributed|Epson_PNL_CE02
 https://github.com/GyverLibs/rtc_utils.git|Contributed|rtc_utils
 https://github.com/AlbertGBarber/PixelSpork.git|Contributed|Pixel_Spork
+https://github.com/ardlib/bosejis_PString.git|Contributed|bosejis_PString
