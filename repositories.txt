@@ -3923,6 +3923,7 @@ https://github.com/micro-bitcoin/uBitcoin
 https://github.com/MicroBahner/MobaTools
 https://github.com/MicroBeaut/ADebouncer
 https://github.com/MicroBeaut/Finite-State
+https://github.com/MicroBeaut/Generic-Queue
 https://github.com/MicroBeaut/MAX6816
 https://github.com/MicroBeaut/MicroBeaut
 https://github.com/MicroBeaut/MicroBeaut-TCone
