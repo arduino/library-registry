@@ -7020,3 +7020,6 @@ https://github.com/AlbertGBarber/PixelSpork.git|Contributed|Pixel_Spork
 https://github.com/ardlib/bosejis_PString.git|Contributed|bosejis_PString
 https://github.com/manicken/sf22aswt.git|Contributed|sf22aswt
 https://github.com/pokerobo/Pokerobo_Arm.git|Contributed|Pokerobo_Arm
+https://github.com/arduino-libraries/Arduino_MAX17332.git|Arduino|Arduino_MAX17332
+https://github.com/arduino-libraries/Arduino_Alvik.git|Arduino|Arduino_Alvik
+https://github.com/arduino-libraries/Arduino_AlvikCarrier.git|Arduino|Arduino_AlvikCarrier
