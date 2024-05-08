@@ -6923,3 +6923,4 @@ https://github.com/manicken/sf22aswt
 https://github.com/arduino-libraries/Arduino_MAX17332
 https://github.com/arduino-libraries/Arduino_Alvik
 https://github.com/arduino-libraries/Arduino_AlvikCarrier
+https://github.com/dndg/OptaUSBUpdate
