@@ -7024,3 +7024,4 @@ https://github.com/arduino-libraries/Arduino_MAX17332.git|Arduino|Arduino_MAX173
 https://github.com/arduino-libraries/Arduino_Alvik.git|Arduino|Arduino_Alvik
 https://github.com/arduino-libraries/Arduino_AlvikCarrier.git|Arduino|Arduino_AlvikCarrier
 https://github.com/MicroBeaut/Generic-Queue.git|Contributed|Generic-Queue
+https://github.com/dndg/OptaUSBUpdate.git|Contributed|OptaUSBUpdate
