@@ -7026,3 +7026,4 @@ https://github.com/arduino-libraries/Arduino_AlvikCarrier.git|Arduino|Arduino_Al
 https://github.com/MicroBeaut/Generic-Queue.git|Contributed|Generic-Queue
 https://github.com/dndg/OptaUSBUpdate.git|Contributed|OptaUSBUpdate
 https://github.com/adafruit/Adafruit_S-35710.git|Recommended|Adafruit S-35710 Library
+https://github.com/RobTillaart/LTR390_DFR.git|Contributed|LTR390_DFR
