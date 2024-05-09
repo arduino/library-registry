@@ -7025,3 +7025,4 @@ https://github.com/arduino-libraries/Arduino_Alvik.git|Arduino|Arduino_Alvik
 https://github.com/arduino-libraries/Arduino_AlvikCarrier.git|Arduino|Arduino_AlvikCarrier
 https://github.com/MicroBeaut/Generic-Queue.git|Contributed|Generic-Queue
 https://github.com/dndg/OptaUSBUpdate.git|Contributed|OptaUSBUpdate
+https://github.com/adafruit/Adafruit_S-35710.git|Recommended|Adafruit S-35710 Library
