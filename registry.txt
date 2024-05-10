@@ -7029,3 +7029,4 @@ https://github.com/adafruit/Adafruit_S-35710.git|Recommended|Adafruit S-35710 Li
 https://github.com/RobTillaart/LTR390_DFR.git|Contributed|LTR390_DFR
 https://github.com/RobTillaart/LTR390_RT.git|Contributed|LTR390_RT
 https://github.com/mlesniew/PicoWebsocket.git|Contributed|PicoWebsocket
+https://github.com/pmarques-dev/PicoEncoder.git|Contributed|PicoEncoder
