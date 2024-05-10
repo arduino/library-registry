@@ -6930,3 +6930,4 @@ https://github.com/arduino-libraries/Arduino_Alvik
 https://github.com/arduino-libraries/Arduino_AlvikCarrier
 https://github.com/dndg/OptaUSBUpdate
 https://github.com/mlesniew/PicoWebsocket
+https://github.com/Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass
