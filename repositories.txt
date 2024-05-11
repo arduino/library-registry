@@ -2533,7 +2533,7 @@ https://github.com/HakkanR/DMD2TUR
 https://github.com/HakkanR/slowAES
 https://github.com/HakkanR/SSD1306TUR
 https://github.com/HamzaYslmn/detaBaseESP8266
-https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
+https://github.com/handmade0octopus/Curserepo:yesbotics/simple-serial-protocol-node arduinodDoubleLinkedListInterface-library
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/happy12/SPL06-001
 https://github.com/haratta27/M5Stack_SimpleBeep
@@ -6803,12 +6803,12 @@ https://gitlab.com/ug-cp/fast_samd21_tc
 https://gitlab.com/UJUR007/mpu6050_ind
 https://gitlab.com/virchow-personal/arduino-ledflasher
 https://gitlab.com/xoan/escornabot-extlib
-https://gitlab.com/yesbotics/libs/arduino/average-value
-https://gitlab.com/yesbotics/libs/arduino/interval-callback
+https://github.com/yesbotics/average-value
+https://github.com/yesbotics/interval-callback
 https://gitlab.com/yesbotics/libs/arduino/led
-https://gitlab.com/yesbotics/libs/arduino/timeout-callback
-https://gitlab.com/yesbotics/libs/arduino/voltmeter
-https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
+https://github.com/yesbotics/timeout-callback
+https://github.com/yesbotics/voltmeter
+https://github.com/yesbotics/simple-serial-protocol-arduino
 https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
 https://github.com/BenCestMoiQuoi/I2C_Insarianne
