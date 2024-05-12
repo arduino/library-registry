@@ -7033,3 +7033,4 @@ https://github.com/pmarques-dev/PicoEncoder.git|Contributed|PicoEncoder
 https://github.com/YFROBOT-TM/Yfrobot-Valon3-Library.git|Contributed|Yfrobot VALON-I3 Library
 https://github.com/Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass.git|Contributed|LilyGO T-Wristband and T-Glass
 https://github.com/ahmedosama07/PID-autotune.git|Contributed|pid-autotune
+https://github.com/jibrilsharafi/AdvancedLogger.git|Contributed|AdvancedLogger
