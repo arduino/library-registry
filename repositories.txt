@@ -3749,7 +3749,7 @@ https://github.com/marcmerlin/SmartMatrix_GFX
 https://github.com/marcobrianza/ClickButton
 https://github.com/marcoschwartz/aREST
 https://github.com/marcoschwartz/aREST_UI
-https://github.com/marcoschwartz/LiquidCrystal_I2C
+https://github.com/johnrickman/LiquidCrystal_I2C
 https://github.com/marecl/HPDL1414
 https://github.com/marecl/settingsManager
 https://github.com/marhar/ArrbotMonitor
