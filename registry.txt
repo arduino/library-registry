@@ -6974,7 +6974,6 @@ https://github.com/Sensirion/arduino-i2c-sht3x.git|Contributed|Sensirion I2C SHT
 https://github.com/Sensirion/arduino-i2c-sts3x.git|Contributed|Sensirion I2C STS3x
 https://github.com/Embeddronics-ltd/BLEOTALIBRARY.git|Contributed|EmbeddronicsBleOTA
 https://github.com/NightHawk-Technology/NH8CHIR-lib.git|Contributed|NH8CHIR-lib
-https://github.com/rgot-org/LoRaWan_esp32.git|Contributed|LoRaWan_esp32
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7.git|Arduino|Arduino_LowPowerPortentaH7
 https://github.com/ropg/LoRaWAN_ESP32.git|Contributed|LoRaWAN_ESP32
 https://github.com/mathieucarbou/AsyncTCP.git|Contributed|Async TCP
