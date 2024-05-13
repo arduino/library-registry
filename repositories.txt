@@ -1,3 +1,4 @@
+https://github.com/LordofRobots/LoR
 https://github.com/jibrilsharafi/AdvancedLogger
 https://github.com/ZeeDesigns7/AdvancedSerial
 https://github.com/locple/LCDI2C_Multilingual
