@@ -7033,3 +7033,4 @@ https://github.com/ahmedosama07/PID-autotune.git|Contributed|pid-autotune
 https://github.com/jibrilsharafi/AdvancedLogger.git|Contributed|AdvancedLogger
 https://github.com/LordofRobots/LoR.git|Contributed|LoR
 https://github.com/arduino-libraries/Arduino_CloudConnectionFeedback.git|Arduino|Arduino_CloudConnectionFeedback
+https://github.com/RobTillaart/INA228.git|Contributed|INA228
