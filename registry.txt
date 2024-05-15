@@ -7035,3 +7035,4 @@ https://github.com/LordofRobots/LoR.git|Contributed|LoR
 https://github.com/arduino-libraries/Arduino_CloudConnectionFeedback.git|Arduino|Arduino_CloudConnectionFeedback
 https://github.com/RobTillaart/INA228.git|Contributed|INA228
 https://github.com/bonkmachines/ctrl-arduino.git|Contributed|CTRL
+https://github.com/Matrix-Robotics/MatrixMiniR4.git|Contributed|MatrixMiniR4
