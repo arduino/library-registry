@@ -6934,3 +6934,4 @@ https://github.com/mlesniew/PicoWebsocket
 https://github.com/Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass
 https://github.com/arduino-libraries/Arduino_CloudConnectionFeedback
 https://github.com/bonkmachines/ctrl-arduino
+https://github.com/Matrix-Robotics/MatrixMiniR4
