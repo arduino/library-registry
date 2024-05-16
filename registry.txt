@@ -7036,3 +7036,4 @@ https://github.com/arduino-libraries/Arduino_CloudConnectionFeedback.git|Arduino
 https://github.com/RobTillaart/INA228.git|Contributed|INA228
 https://github.com/bonkmachines/ctrl-arduino.git|Contributed|CTRL
 https://github.com/Matrix-Robotics/MatrixMiniR4.git|Contributed|MatrixMiniR4
+https://github.com/MERG-DEV/CBUSMCP_CAN.git|Contributed|CBUSMCP_CAN
