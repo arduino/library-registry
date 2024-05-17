@@ -3650,6 +3650,7 @@ https://github.com/m5stack/M5Unit-Synth
 https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
+https://github.com/m5stack/M5-SX127x
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/machinefi/w3bstream-client-arduino-ce
 https://github.com/MacroYau/LTC2942-Arduino-Library
