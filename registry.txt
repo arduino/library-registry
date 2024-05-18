@@ -7039,3 +7039,4 @@ https://github.com/Matrix-Robotics/MatrixMiniR4.git|Contributed|MatrixMiniR4
 https://github.com/MERG-DEV/CBUSMCP_CAN.git|Contributed|CBUSMCP_CAN
 https://github.com/ardlib/bosejis_Bin.git|Contributed|bosejis_Bin
 https://github.com/m5stack/M5-SX127x.git|Contributed|M5-SX127x
+https://github.com/pokerobo/Pokerobo_IRx.git|Contributed|Pokerobo_IRx
