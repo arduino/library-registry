@@ -7040,3 +7040,4 @@ https://github.com/MERG-DEV/CBUSMCP_CAN.git|Contributed|CBUSMCP_CAN
 https://github.com/ardlib/bosejis_Bin.git|Contributed|bosejis_Bin
 https://github.com/m5stack/M5-SX127x.git|Contributed|M5-SX127x
 https://github.com/pokerobo/Pokerobo_IRx.git|Contributed|Pokerobo_IRx
+https://github.com/CIRCUITSTATE/CSE_MillisTimer.git|Contributed|CSE_MillisTimer
