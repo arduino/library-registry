@@ -6940,3 +6940,7 @@ https://github.com/arduino-libraries/Arduino_CloudConnectionFeedback
 https://github.com/bonkmachines/ctrl-arduino
 https://github.com/Matrix-Robotics/MatrixMiniR4
 https://github.com/MERG-DEV/CBUSMCP_CAN
+https://github.com/Narwhalsss360/BitArray
+https://github.com/Narwhalsss360/stdcol-arduino
+https://github.com/Narwhalsss360/StreamUtilities
+https://github.com/Narwhalsss360/SketchBinder
