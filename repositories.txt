@@ -6945,3 +6945,6 @@ https://github.com/Narwhalsss360/stdcol-arduino
 https://github.com/Narwhalsss360/StreamUtilities
 https://github.com/Narwhalsss360/SketchBinder
 https://github.com/Narwhalsss360/Callables
+https://github.com/Narwhalsss360/PinMatrix
+https://github.com/Narwhalsss360/NStreamCom-arduino
+
