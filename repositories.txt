@@ -4734,6 +4734,7 @@ https://github.com/pokerobo/Pokerobo_Arm
 https://github.com/pokerobo/Pokerobo_Car
 https://github.com/pokerobo/Pokerobo_Labs
 https://github.com/pokerobo/Pokerobo_RCB
+https://github.com/pokerobo/Pokerobo_IRx
 https://github.com/qisun1/ESP8266_LED_64x16_Matrix
 https://github.com/QuadrifoglioVerde/DL_PAC_NK76
 https://github.com/qub1750ul/Arduino_HTTP
