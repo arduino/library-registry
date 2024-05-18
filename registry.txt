@@ -7045,3 +7045,4 @@ https://github.com/Narwhalsss360/BitArray.git|Contributed|NBitArray
 https://github.com/Narwhalsss360/stdcol-arduino.git|Contributed|stdcol
 https://github.com/Narwhalsss360/StreamUtilities.git|Contributed|StreamUtilities
 https://github.com/Narwhalsss360/SketchBinder.git|Contributed|SketchBinder
+https://github.com/Narwhalsss360/Callables.git|Contributed|Callables
