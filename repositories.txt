@@ -6950,3 +6950,4 @@ https://github.com/Narwhalsss360/StreamUtilities
 https://github.com/Narwhalsss360/SketchBinder
 https://github.com/Narwhalsss360/Callables
 https://github.com/gadaman-rm/ESP_MultiWiFi
+https://github.com/boodskap/ArduinoDigitalTwin
