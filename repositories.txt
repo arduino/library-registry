@@ -243,6 +243,7 @@ https://github.com/adafruit/Adafruit_HTS221
 https://github.com/adafruit/Adafruit_HTU21DF_Library
 https://github.com/adafruit/Adafruit_HTU31D
 https://github.com/adafruit/Adafruit_HUSB238
+https://github.com/adafruit/Adafruit_HX711
 https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
