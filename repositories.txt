@@ -1,6 +1,9 @@
+https://github.com/bmurzabaev/mcp3201
+https://github.com/CIRCUITSTATE/CSE_MillisTimer
+https://github.com/LordofRobots/LoR
+https://github.com/jibrilsharafi/AdvancedLogger
 https://github.com/ZeeDesigns7/AdvancedSerial
 https://github.com/locple/LCDI2C_Multilingual
-https://github.com/brincode/Fa3el_kher
 https://github.com/makerlabvn/BlynkGate
 https://github.com/trongthan210/iMaker-PS2
 https://github.com/makerlabvn/kxnTask
@@ -2568,6 +2571,7 @@ https://github.com/HerrNamenlos123/JTAG_Interface
 https://github.com/hexaedron/PostNeoSWSerial
 https://github.com/HexFab/HexFabQuadroMotorShield
 https://github.com/hideakitai/ADS1x1x
+https://github.com/hideakitai/ADS1220
 https://github.com/hideakitai/ArduinoEigen
 https://github.com/hideakitai/ArduinoOSC
 https://github.com/hideakitai/ArtNet
@@ -3649,6 +3653,7 @@ https://github.com/m5stack/M5Unit-Synth
 https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
+https://github.com/m5stack/M5-SX127x
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/machinefi/w3bstream-client-arduino-ce
 https://github.com/MacroYau/LTC2942-Arduino-Library
@@ -3747,7 +3752,7 @@ https://github.com/marcmerlin/SmartMatrix_GFX
 https://github.com/marcobrianza/ClickButton
 https://github.com/marcoschwartz/aREST
 https://github.com/marcoschwartz/aREST_UI
-https://github.com/marcoschwartz/LiquidCrystal_I2C
+https://github.com/johnrickman/LiquidCrystal_I2C
 https://github.com/marecl/HPDL1414
 https://github.com/marecl/settingsManager
 https://github.com/marhar/ArrbotMonitor
@@ -4732,6 +4737,7 @@ https://github.com/pokerobo/Pokerobo_Arm
 https://github.com/pokerobo/Pokerobo_Car
 https://github.com/pokerobo/Pokerobo_Labs
 https://github.com/pokerobo/Pokerobo_RCB
+https://github.com/pokerobo/Pokerobo_IRx
 https://github.com/qisun1/ESP8266_LED_64x16_Matrix
 https://github.com/QuadrifoglioVerde/DL_PAC_NK76
 https://github.com/qub1750ul/Arduino_HTTP
@@ -4846,8 +4852,6 @@ https://github.com/rfetick/Kalman
 https://github.com/rfetick/MPU6050_light
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
-https://github.com/rgot-org/TTN_M5Stack
-https://github.com/rgot-org/LoRaWan_esp32
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rhrhhrhr/MPC_ruih
@@ -5080,6 +5084,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
+https://github.com/RobTillaart/INA228
 https://github.com/RobTillaart/INA3221_RT
 https://github.com/RobTillaart/infiniteAverage
 https://github.com/RobTillaart/integer24
@@ -5286,6 +5291,7 @@ https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Sam4uk/CRSF
 https://github.com/Sam4uk/Password
 https://github.com/Sam4uk/Filter.Easy
+https://github.com/Sam4uk/Tools.Easy
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
 https://github.com/Samyz/CESmartCamp
@@ -6900,6 +6906,7 @@ https://github.com/arduino-libraries/Arduino_Cellular
 https://github.com/SnailDragon/MightyOhmGeigerCounter
 https://github.com/ardlib/bosejis_Types
 https://github.com/ardlib/bosejis_AMV
+https://github.com/ardlib/bosejis_Bin
 https://github.com/ardlib/bosejis_TWI
 https://github.com/ardlib/bosejis_PString
 https://github.com/kalmak07/SensorNorm
@@ -6920,7 +6927,7 @@ https://github.com/HighASG936/Mc74hc595a
 https://github.com/cwru-greener-pastures/Heltec_LoRa_OLED_Examples
 https://github.com/Gissio/mcu-renderer
 https://github.com/Gissio/mcu-max
-https://github.com/RCMgames/BSCD
+https://github.com/RCMgames/BSED
 https://github.com/ripred/SmartPin
 https://github.com/Pascal2511/TimerUtils
 https://github.com/XavierBrassoud/Arduino_Epson_PNL_CE02
@@ -6932,3 +6939,12 @@ https://github.com/arduino-libraries/Arduino_AlvikCarrier
 https://github.com/dndg/OptaUSBUpdate
 https://github.com/mlesniew/PicoWebsocket
 https://github.com/Xinyuan-LilyGO/LilyGO-T-Wristband-and-T-Glass
+https://github.com/arduino-libraries/Arduino_CloudConnectionFeedback
+https://github.com/bonkmachines/ctrl-arduino
+https://github.com/Matrix-Robotics/MatrixMiniR4
+https://github.com/MERG-DEV/CBUSMCP_CAN
+https://github.com/Narwhalsss360/BitArray
+https://github.com/Narwhalsss360/stdcol-arduino
+https://github.com/Narwhalsss360/StreamUtilities
+https://github.com/Narwhalsss360/SketchBinder
+https://github.com/Narwhalsss360/Callables
