@@ -7052,3 +7052,4 @@ https://github.com/hideakitai/ADS1220.git|Contributed|ADS1220
 https://github.com/gadaman-rm/ESP_MultiWiFi.git|Contributed|ESP_MultiWiFi
 https://github.com/CIRCUITSTATE/CSE_CircularBuffer.git|Contributed|CSE_CircularBuffer
 https://github.com/boodskap/ArduinoDigitalTwin.git|Contributed|Boodskap IoT Digital Twin library
+https://github.com/adafruit/Adafruit_HX711.git|Recommended|Adafruit HX711
