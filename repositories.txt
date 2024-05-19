@@ -2571,6 +2571,7 @@ https://github.com/HerrNamenlos123/JTAG_Interface
 https://github.com/hexaedron/PostNeoSWSerial
 https://github.com/HexFab/HexFabQuadroMotorShield
 https://github.com/hideakitai/ADS1x1x
+https://github.com/hideakitai/ADS1220
 https://github.com/hideakitai/ArduinoEigen
 https://github.com/hideakitai/ArduinoOSC
 https://github.com/hideakitai/ArtNet
