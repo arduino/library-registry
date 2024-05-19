@@ -1,3 +1,5 @@
+https://github.com/CIRCUITSTATE/CSE_CircularBuffer
+https://github.com/bmurzabaev/mcp3201
 https://github.com/CIRCUITSTATE/CSE_MillisTimer
 https://github.com/LordofRobots/LoR
 https://github.com/jibrilsharafi/AdvancedLogger
@@ -242,6 +244,7 @@ https://github.com/adafruit/Adafruit_HTS221
 https://github.com/adafruit/Adafruit_HTU21DF_Library
 https://github.com/adafruit/Adafruit_HTU31D
 https://github.com/adafruit/Adafruit_HUSB238
+https://github.com/adafruit/Adafruit_HX711
 https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
@@ -2570,6 +2573,7 @@ https://github.com/HerrNamenlos123/JTAG_Interface
 https://github.com/hexaedron/PostNeoSWSerial
 https://github.com/HexFab/HexFabQuadroMotorShield
 https://github.com/hideakitai/ADS1x1x
+https://github.com/hideakitai/ADS1220
 https://github.com/hideakitai/ArduinoEigen
 https://github.com/hideakitai/ArduinoOSC
 https://github.com/hideakitai/ArtNet
@@ -5289,6 +5293,7 @@ https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Sam4uk/CRSF
 https://github.com/Sam4uk/Password
 https://github.com/Sam4uk/Filter.Easy
+https://github.com/Sam4uk/Tools.Easy
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
 https://github.com/Samyz/CESmartCamp
@@ -6945,6 +6950,7 @@ https://github.com/Narwhalsss360/stdcol-arduino
 https://github.com/Narwhalsss360/StreamUtilities
 https://github.com/Narwhalsss360/SketchBinder
 https://github.com/Narwhalsss360/Callables
-https://github.com/Narwhalsss360/PinMatrix
+https://github.com/gadaman-rm/ESP_MultiWiFi
+https://github.com/boodskap/ArduinoDigitalTwin
 https://github.com/Narwhalsss360/NStreamCom-arduino
-
+https://github.com/Narwhalsss360/PinMatrix
