@@ -7048,3 +7048,4 @@ https://github.com/Narwhalsss360/SketchBinder.git|Contributed|SketchBinder
 https://github.com/Narwhalsss360/Callables.git|Contributed|Callables
 https://github.com/bmurzabaev/mcp3201.git|Contributed|MCP3201
 https://github.com/Sam4uk/Tools.Easy.git|Contributed|Tools.Easy
+https://github.com/hideakitai/ADS1220.git|Contributed|ADS1220
