@@ -5714,7 +5714,7 @@ https://github.com/schlarmann/esp8266channel3lib.git|Contributed|esp8266channel3
 https://github.com/ochiengotieno304/africastalking-esp8266.git|Contributed|AfricasTalking
 https://github.com/scottchiefbaker/ESP-WebOTA.git|Contributed|ESP32-OTA
 https://github.com/afpineda/MeanAndVarOnTheFly-Arduino.git|Contributed|MeanAndVarOnTheFly
-https://gitlab.com/yesbotics/libs/arduino/led.git|Contributed|Led
+https://github.com/yesbotics/arduino-lib-led.git|Contributed|Led
 https://github.com/Duckle29/HUSB238.git|Contributed|HUSB238
 https://github.com/MicroBeaut/RepeatButton.git|Contributed|RepeatButton
 https://github.com/deneyapkart/deneyap-arduino-projeleri.git|Contributed|Deneyap Arduino Projeleri
