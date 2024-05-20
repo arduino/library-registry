@@ -5295,6 +5295,7 @@ https://github.com/Sam4uk/CRSF
 https://github.com/Sam4uk/Password
 https://github.com/Sam4uk/Filter.Easy
 https://github.com/Sam4uk/Tools.Easy
+https://github.com/Sam4uk/WD.Easy
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
 https://github.com/Samyz/CESmartCamp
