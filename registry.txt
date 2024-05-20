@@ -7056,3 +7056,4 @@ https://github.com/adafruit/Adafruit_HX711.git|Recommended|Adafruit HX711
 https://github.com/Narwhalsss360/NStreamCom-arduino.git|Contributed|NStreamCom
 https://github.com/Narwhalsss360/PinMatrix.git|Contributed|PinMatrix
 https://github.com/adafruit/Adafruit_CH9328.git|Recommended|Adafruit CH9328
+https://github.com/Sam4uk/WD.Easy.git|Contributed|WD Easy
