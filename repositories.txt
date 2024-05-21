@@ -241,6 +241,7 @@ https://github.com/adafruit/Adafruit_FXOS8700
 https://github.com/adafruit/Adafruit_GC9A01A
 https://github.com/adafruit/Adafruit_GPS
 https://github.com/adafruit/Adafruit_HDC1000_Library
+https://github.com/adafruit/Adafruit_HDC302x
 https://github.com/adafruit/Adafruit_HMC5883_Unified
 https://github.com/adafruit/Adafruit_HTS221
 https://github.com/adafruit/Adafruit_HTU21DF_Library
