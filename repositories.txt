@@ -241,6 +241,7 @@ https://github.com/adafruit/Adafruit_FXOS8700
 https://github.com/adafruit/Adafruit_GC9A01A
 https://github.com/adafruit/Adafruit_GPS
 https://github.com/adafruit/Adafruit_HDC1000_Library
+https://github.com/adafruit/Adafruit_HDC302x
 https://github.com/adafruit/Adafruit_HMC5883_Unified
 https://github.com/adafruit/Adafruit_HTS221
 https://github.com/adafruit/Adafruit_HTU21DF_Library
@@ -419,7 +420,7 @@ https://github.com/adafruit/CC3000_MDNS
 https://github.com/adafruit/DHT-sensor-library
 https://github.com/adafruit/ENS160_driver
 https://github.com/adafruit/Ethernet2
-https://github.com/adafruit/FifteenStep
+https://github.com/adafruit/FifteenSte
 https://github.com/adafruit/HL1606-LED-Strip
 https://github.com/adafruit/HL1606-LED-Strip-PWM
 https://github.com/adafruit/HT1632
