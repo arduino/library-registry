@@ -1,3 +1,5 @@
+https://github.com/eloquentarduino/tinyml4all-arduino.git
+https://github.com/CIRCUITSTATE/CSE_CircularBuffer
 https://github.com/bmurzabaev/mcp3201
 https://github.com/CIRCUITSTATE/CSE_MillisTimer
 https://github.com/LordofRobots/LoR
@@ -209,6 +211,7 @@ https://github.com/adafruit/Adafruit_CAN
 https://github.com/adafruit/Adafruit_CAP1188_Library
 https://github.com/adafruit/Adafruit_CC3000_Library
 https://github.com/adafruit/Adafruit_CCS811
+https://github.com/adafruit/Adafruit_CH9328
 https://github.com/adafruit/Adafruit_CircuitPlayground
 https://github.com/adafruit/Adafruit_CompositeVideo
 https://github.com/adafruit/Adafruit_CPFS
@@ -238,11 +241,13 @@ https://github.com/adafruit/Adafruit_FXOS8700
 https://github.com/adafruit/Adafruit_GC9A01A
 https://github.com/adafruit/Adafruit_GPS
 https://github.com/adafruit/Adafruit_HDC1000_Library
+https://github.com/adafruit/Adafruit_HDC302x
 https://github.com/adafruit/Adafruit_HMC5883_Unified
 https://github.com/adafruit/Adafruit_HTS221
 https://github.com/adafruit/Adafruit_HTU21DF_Library
 https://github.com/adafruit/Adafruit_HTU31D
 https://github.com/adafruit/Adafruit_HUSB238
+https://github.com/adafruit/Adafruit_HX711
 https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
@@ -3654,6 +3659,7 @@ https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
 https://github.com/m5stack/M5-SX127x
+https://github.com/m5stack/M5Unit-8Encoder
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/machinefi/w3bstream-client-arduino-ce
 https://github.com/MacroYau/LTC2942-Arduino-Library
@@ -5292,6 +5298,7 @@ https://github.com/Sam4uk/CRSF
 https://github.com/Sam4uk/Password
 https://github.com/Sam4uk/Filter.Easy
 https://github.com/Sam4uk/Tools.Easy
+https://github.com/Sam4uk/WD.Easy
 https://github.com/samelement/ACS-M1128
 https://github.com/samverstraete/TimerFour
 https://github.com/Samyz/CESmartCamp
@@ -6948,3 +6955,7 @@ https://github.com/Narwhalsss360/stdcol-arduino
 https://github.com/Narwhalsss360/StreamUtilities
 https://github.com/Narwhalsss360/SketchBinder
 https://github.com/Narwhalsss360/Callables
+https://github.com/gadaman-rm/ESP_MultiWiFi
+https://github.com/boodskap/ArduinoDigitalTwin
+https://github.com/Narwhalsss360/NStreamCom-arduino
+https://github.com/Narwhalsss360/PinMatrix
