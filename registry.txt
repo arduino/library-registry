@@ -7063,3 +7063,4 @@ https://github.com/adafruit/Adafruit_HDC302x.git|Recommended|Adafruit HDC302x
 https://github.com/RobTillaart/Kurtosis.git|Contributed|Kurtosis
 https://github.com/hideakitai/LTC230x.git|Contributed|LTC230x
 https://github.com/Every-Flavor-Robotics/motorgo-arduino.git|Contributed|MotorGo_Mini_Driver
+https://github.com/pokerobo/Pokerobo_PSx.git|Contributed|Pokerobo_PSx
