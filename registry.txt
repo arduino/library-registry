@@ -7062,3 +7062,4 @@ https://github.com/eloquentarduino/tinyml4all-arduino.git|Contributed|tinyml4all
 https://github.com/adafruit/Adafruit_HDC302x.git|Recommended|Adafruit HDC302x
 https://github.com/RobTillaart/Kurtosis.git|Contributed|Kurtosis
 https://github.com/hideakitai/LTC230x.git|Contributed|LTC230x
+https://github.com/Every-Flavor-Robotics/motorgo-arduino.git|Contributed|MotorGo_Mini_Driver
