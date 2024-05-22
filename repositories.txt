@@ -5097,6 +5097,7 @@ https://github.com/RobTillaart/integer24
 https://github.com/RobTillaart/Interval
 https://github.com/RobTillaart/Kelvin2RGB
 https://github.com/RobTillaart/KT0803
+https://github.com/RobTillaart/Kurtosis
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logistic
 https://github.com/RobTillaart/LTC2991
