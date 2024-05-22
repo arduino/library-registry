@@ -7061,3 +7061,4 @@ https://github.com/m5stack/M5Unit-8Encoder.git|Contributed|M5UNIT_8Encoder
 https://github.com/eloquentarduino/tinyml4all-arduino.git|Contributed|tinyml4all
 https://github.com/adafruit/Adafruit_HDC302x.git|Recommended|Adafruit HDC302x
 https://github.com/RobTillaart/Kurtosis.git|Contributed|Kurtosis
+https://github.com/hideakitai/LTC230x.git|Contributed|LTC230x
