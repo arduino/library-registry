@@ -1,5 +1,6 @@
 https://github.com/eloquentarduino/tinyml4all-arduino.git
 https://github.com/CIRCUITSTATE/CSE_CircularBuffer
+https://github.com/arduino-libraries/Servo
 https://github.com/bmurzabaev/mcp3201
 https://github.com/CIRCUITSTATE/CSE_MillisTimer
 https://github.com/LordofRobots/LoR
