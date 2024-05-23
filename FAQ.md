@@ -26,6 +26,7 @@
   - [When I install a library that I know depends on another library, will this other library be installed as well?](#when-i-install-a-library-that-i-know-depends-on-another-library-will-this-other-library-be-installed-as-well)
   - [Can I install multiple versions of one library and use the proper one in my sketches?](#can-i-install-multiple-versions-of-one-library-and-use-the-proper-one-in-my-sketches)
   - [How can I remove a library I installed via Library Manager?](#how-can-i-remove-a-library-i-installed-via-library-manager)
+- [Security & Malware Reporting](#security--malware-reporting)
 
 <!-- tocstop -->
 
@@ -195,3 +196,11 @@ This version of the Arduino IDE does not have an integrated uninstall functional
 #### Arduino CLI
 
 Libraries can be uninstalled via [the `arduino-cli lib uninstall` command](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib_uninstall/).
+
+## Security & Malware Reporting
+
+If you think you found a vulnerability, malware or other security-related defect in any Arduino Library projects, please take a look at our security policy and report it to our Security Team 🛡️.
+
+Thank you!
+
+E-mail contact: security@arduino.cc
