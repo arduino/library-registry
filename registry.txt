@@ -6515,7 +6515,7 @@ https://github.com/boeserfrosch/GuL_NovaFitness.git|Contributed|GuL_NovaFitness
 https://github.com/sensebox/senseBoxBLE.git|Contributed|SenseBoxBLE
 https://github.com/franeum/MicroMidiDevices.git|Contributed|MicroMidiDevices
 https://github.com/adafruit/Adafruit_FT5336.git|Contributed|Adafruit FT5336
-https://github.com/jandrassy/NetApiHelpers.git|Contributed|NetApiHelpers
+https://github.com/Networking-for-Arduino/NetApiHelpers.git|Contributed|NetApiHelpers
 https://github.com/pxsty0/deneyapkart.agent.lib.git|Contributed|Deneyap Kart IDE Ornekler
 https://github.com/franeum/TI_SN76489.git|Contributed|TI_SN76489
 https://github.com/AdamJHowell/ArrayManager.git|Contributed|FloatArrayManager
