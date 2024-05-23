@@ -6824,7 +6824,7 @@ https://gitlab.com/virchow-personal/arduino-ledflasher
 https://gitlab.com/xoan/escornabot-extlib
 https://gitlab.com/yesbotics/libs/arduino/average-value
 https://gitlab.com/yesbotics/libs/arduino/interval-callback
-https://gitlab.com/yesbotics/libs/arduino/led
+https://github.com/yesbotics/arduino-lib-led
 https://gitlab.com/yesbotics/libs/arduino/timeout-callback
 https://gitlab.com/yesbotics/libs/arduino/voltmeter
 https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
