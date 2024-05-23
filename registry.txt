@@ -7067,3 +7067,4 @@ https://github.com/pokerobo/Pokerobo_PSx.git|Contributed|Pokerobo_PSx
 https://github.com/piruetasxyz/NotasMIDI.git|Contributed|NotasMIDI
 https://github.com/Khuuxuanngoc/TongHopThuVien.git|Contributed|TongHopThuVien
 https://github.com/BasPaap/Bas.SinglePinDevice.git|Contributed|Bas.SinglePinDevice
+https://github.com/thepudding/bofu.git|Contributed|Bofu
