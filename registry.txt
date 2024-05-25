@@ -7069,3 +7069,4 @@ https://github.com/Khuuxuanngoc/TongHopThuVien.git|Contributed|TongHopThuVien
 https://github.com/BasPaap/Bas.SinglePinDevice.git|Contributed|Bas.SinglePinDevice
 https://github.com/thepudding/bofu.git|Contributed|Bofu
 https://github.com/become-cool/beshell-arduino-precompiled.git|Contributed|BeShell
+https://github.com/hpsaturn/easy-preferences.git|Contributed|EasyPreferences
