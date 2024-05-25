@@ -6968,3 +6968,4 @@ https://github.com/Narwhalsss360/NStreamCom-arduino
 https://github.com/Narwhalsss360/PinMatrix
 https://github.com/Every-Flavor-Robotics/motorgo-arduino
 https://github.com/become-cool/beshell-arduino-precompiled
+https://github.com/hpsaturn/easy-preferences
