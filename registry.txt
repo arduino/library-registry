@@ -7070,3 +7070,4 @@ https://github.com/BasPaap/Bas.SinglePinDevice.git|Contributed|Bas.SinglePinDevi
 https://github.com/thepudding/bofu.git|Contributed|Bofu
 https://github.com/become-cool/beshell-arduino-precompiled.git|Contributed|BeShell
 https://github.com/hpsaturn/easy-preferences.git|Contributed|EasyPreferences
+https://github.com/Tobsoft/HTL_onboard.git|Contributed|HTL_onboard
