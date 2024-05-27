@@ -7073,3 +7073,4 @@ https://github.com/hpsaturn/easy-preferences.git|Contributed|EasyPreferences
 https://github.com/Tobsoft/HTL_onboard.git|Contributed|HTL_onboard
 https://github.com/asukiaaa/arduino-MCP4661.git|Contributed|MCP4661_asukiaaa
 https://github.com/Franzininho/biblioteca-laboratorioFW-DIY.git|Contributed|laboratorioFW-DIY
+https://github.com/Khuuxuanngoc/TongHopThuVienCon1.git|Contributed|TongHopThuVienCon1
