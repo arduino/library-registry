@@ -7078,3 +7078,4 @@ https://github.com/ozantoteles/IPS-7100-I2C-Arduino.git|Contributed|IPS-7100-I2C
 https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver.git|Contributed|SerialWombat18ABVGADriver
 https://github.com/felixthecat8a/LCD_BacklightRGB.git|Contributed|LCD_BackgroundRGB
 https://github.com/RobTillaart/INA236.git|Contributed|INA236
+https://github.com/cschorn01/PlugAndPlayForLoRa.git|Contributed|PlugAndPlayForLoRa
