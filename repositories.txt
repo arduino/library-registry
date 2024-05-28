@@ -3348,7 +3348,6 @@ https://github.com/KwangryeolPark/GLCD_QY_12864BG
 https://github.com/kyuseok-oh/ArduinoThingsOfValueSDK
 https://github.com/LabAixBidouille/RobotDuLAB-arduino-library
 https://github.com/labfruits/mcp3208
-https://github.com/lacamera/ESPAsyncWebServer
 https://github.com/LaCocoRoco/DataVisualizer
 https://github.com/lansium-dev/lansium-arduino
 https://github.com/laserir/NL2Client
