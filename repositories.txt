@@ -6978,3 +6978,4 @@ https://github.com/Franzininho/biblioteca-laboratorioFW-DIY/
 https://github.com/ozantoteles/IPS-7100-I2C-Arduino
 https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver
 https://github.com/felixthecat8a/LCD_BacklightRGB
+https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut
