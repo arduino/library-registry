@@ -7079,3 +7079,4 @@ https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver.git|Contribu
 https://github.com/felixthecat8a/LCD_BacklightRGB.git|Contributed|LCD_BackgroundRGB
 https://github.com/RobTillaart/INA236.git|Contributed|INA236
 https://github.com/cschorn01/PlugAndPlayForLoRa.git|Contributed|PlugAndPlayForLoRa
+https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut.git|Contributed|SpaceTrek ExoNaut
