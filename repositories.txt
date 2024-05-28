@@ -6975,3 +6975,4 @@ https://github.com/hpsaturn/easy-preferences
 https://github.com/Franzininho/biblioteca-laboratorioFW-DIY/
 https://github.com/ozantoteles/IPS-7100-I2C-Arduino
 https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver
+https://github.com/felixthecat8a/LCD_BacklightRGB
