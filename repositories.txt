@@ -6974,3 +6974,4 @@ https://github.com/become-cool/beshell-arduino-precompiled
 https://github.com/hpsaturn/easy-preferences
 https://github.com/Franzininho/biblioteca-laboratorioFW-DIY/
 https://github.com/ozantoteles/IPS-7100-I2C-Arduino
+https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver
