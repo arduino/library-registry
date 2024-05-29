@@ -7082,3 +7082,4 @@ https://github.com/cschorn01/PlugAndPlayForLoRa.git|Contributed|PlugAndPlayForLo
 https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut.git|Contributed|SpaceTrek ExoNaut
 https://github.com/BrainCoTech/brain_arduino.git|Contributed|NeuroMaster
 https://github.com/Syafiqlim/ESP32_MySQL.git|Contributed|ESP32_MySQL
+https://github.com/agfy/CxMQTT.git|Contributed|CX_MQTT
