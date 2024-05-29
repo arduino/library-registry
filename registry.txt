@@ -7080,3 +7080,4 @@ https://github.com/felixthecat8a/LCD_BacklightRGB.git|Contributed|LCD_Background
 https://github.com/RobTillaart/INA236.git|Contributed|INA236
 https://github.com/cschorn01/PlugAndPlayForLoRa.git|Contributed|PlugAndPlayForLoRa
 https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut.git|Contributed|SpaceTrek ExoNaut
+https://github.com/BrainCoTech/brain_arduino.git|Contributed|NeuroMaster
