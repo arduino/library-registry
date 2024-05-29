@@ -6979,5 +6979,6 @@ https://github.com/Franzininho/biblioteca-laboratorioFW-DIY/
 https://github.com/ozantoteles/IPS-7100-I2C-Arduino
 https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver
 https://github.com/felixthecat8a/LCD_BacklightRGB
+https://github.com/agfy/CxMQTT
 https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut
 https://github.com/Syafiqlim/ESP32_MySQL
