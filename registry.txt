@@ -7088,3 +7088,4 @@ https://github.com/nananauno/M5EasyUI.git|Contributed|M5EasyUI
 https://github.com/GyverLibs/EspSleep.git|Contributed|EspSleep
 https://github.com/GyverLibs/pgm_utils.git|Contributed|pgm_utils
 https://github.com/sparkfun/SparkFun_Qwiic_OTOS_Arduino_Library.git|Contributed|SparkFun Qwiic OTOS Arduino Library
+https://github.com/BasPaap/Bas.CallbackCaller.git|Contributed|Bas.CallbackCaller
