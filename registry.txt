@@ -7084,3 +7084,4 @@ https://github.com/BrainCoTech/brain_arduino.git|Contributed|NeuroMaster
 https://github.com/Syafiqlim/ESP32_MySQL.git|Contributed|ESP32_MySQL
 https://github.com/agfy/CxMQTT.git|Contributed|CX_MQTT
 https://github.com/Herwig9820/Justina_interpreter.git|Contributed|Justina interpreter
+https://github.com/nananauno/M5EasyUI.git|Contributed|M5EasyUI
