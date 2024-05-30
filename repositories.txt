@@ -5868,6 +5868,7 @@ https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_OpenLog_Arduino_Library
+https://github.com/sparkfun/SparkFun_Qwiic_OTOS_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_PIR_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Power_Switch_Arduino_Library
 https://github.com/sparkfun/SparkFun_Qwiic_Relay_Arduino_Library
