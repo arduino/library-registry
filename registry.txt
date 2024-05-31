@@ -7092,3 +7092,4 @@ https://github.com/BasPaap/Bas.CallbackCaller.git|Contributed|Bas.CallbackCaller
 https://github.com/pokerobo/Pokerobo_I2C.git|Contributed|Pokerobo_I2C
 https://github.com/RobTillaart/PCR.git|Contributed|PCR
 https://github.com/x821938/erpc.git|Contributed|ERPC
+https://github.com/jonp92/TemplateTango.git|Contributed|TemplateTango
