@@ -7061,3 +7061,4 @@ https://github.com/tremaru/iarduino_VCC
 https://github.com/tremaru/iarduino_VpH
 https://github.com/tremaru/iarduino_Wattmeter
 https://github.com/tremaru/iocontrol
+https://github.com/xamrex/arduino-InstagramFollowers
