@@ -7160,3 +7160,5 @@ https://github.com/tremaru/iarduino_VCC.git|Contributed|iarduino_VCC
 https://github.com/tremaru/iarduino_VpH.git|Contributed|iarduino_VpH
 https://github.com/tremaru/iarduino_Wattmeter.git|Contributed|iarduino_Wattmeter
 https://github.com/tremaru/iocontrol.git|Contributed|iocontrol
+https://github.com/GyverLibs/GyverHTTP.git|Contributed|GyverHTTP
+https://github.com/GyverLibs/GTL.git|Contributed|GTL
