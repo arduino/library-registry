@@ -7162,3 +7162,4 @@ https://github.com/tremaru/iarduino_Wattmeter.git|Contributed|iarduino_Wattmeter
 https://github.com/tremaru/iocontrol.git|Contributed|iocontrol
 https://github.com/GyverLibs/GyverHTTP.git|Contributed|GyverHTTP
 https://github.com/GyverLibs/GTL.git|Contributed|GTL
+https://github.com/xamrex/arduino-InstagramFollowers.git|Contributed|InstagramFollowers
