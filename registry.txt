@@ -7166,3 +7166,4 @@ https://github.com/xamrex/arduino-InstagramFollowers.git|Contributed|InstagramFo
 https://github.com/Networking-for-Arduino/EthernetESP32.git|Contributed|EthernetESP32
 https://github.com/Dhananjayaprabath/WiFiProvision.git|Contributed|WiFiProvision
 https://github.com/yasir-shahzad/ADS122U04_ADC_Arduino_Library.git|Contributed|ADS122U04 ADC Arduino Library
+https://github.com/yasir-shahzad/CS5530_ADC_Arduino_Library.git|Contributed|CS5530
