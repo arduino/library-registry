@@ -6683,6 +6683,7 @@ https://github.com/YashuYathi/controlKeyboard
 https://github.com/yasir-shahzad/AM4096
 https://github.com/yasir-shahzad/SoftI2C
 https://github.com/yasir-shahzad/ADS122U04_ADC_Arduino_Library
+https://github.com/yasir-shahzad/CS1237-24-Bit-ADC-Module
 https://github.com/yellobyte/DacESP32
 https://github.com/yellobyte/SoapESP32
 https://github.com/yergin/Yabl
