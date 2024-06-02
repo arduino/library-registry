@@ -7164,3 +7164,4 @@ https://github.com/GyverLibs/GyverHTTP.git|Contributed|GyverHTTP
 https://github.com/GyverLibs/GTL.git|Contributed|GTL
 https://github.com/xamrex/arduino-InstagramFollowers.git|Contributed|InstagramFollowers
 https://github.com/Networking-for-Arduino/EthernetESP32.git|Contributed|EthernetESP32
+https://github.com/Dhananjayaprabath/WiFiProvision.git|Contributed|WiFiProvision
