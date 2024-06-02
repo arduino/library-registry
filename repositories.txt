@@ -7062,3 +7062,4 @@ https://github.com/tremaru/iarduino_VpH
 https://github.com/tremaru/iarduino_Wattmeter
 https://github.com/tremaru/iocontrol
 https://github.com/xamrex/arduino-InstagramFollowers
+https://github.com/Networking-for-Arduino/EthernetESP32
