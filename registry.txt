@@ -7168,3 +7168,4 @@ https://github.com/Dhananjayaprabath/WiFiProvision.git|Contributed|WiFiProvision
 https://github.com/yasir-shahzad/ADS122U04_ADC_Arduino_Library.git|Contributed|ADS122U04 ADC Arduino Library
 https://github.com/yasir-shahzad/CS5530_ADC_Arduino_Library.git|Contributed|CS5530
 https://github.com/Tyler-Barnes/promplus.git|Contributed|PROMPLUS
+https://github.com/tomasz90/debounce-me.git|Contributed|DebounceMe
