@@ -6377,6 +6377,7 @@ https://github.com/Toernblom/SimpleWiFiClient
 https://github.com/tofuman0/PCA9505_06
 https://github.com/TomasRoj/BasicsLibrary
 https://github.com/TomasRoj/OctopusLab-Library
+https://github.com/tomasz90/debounce-me
 https://github.com/tomasz90/two-buttons-interface
 https://github.com/TomergitH/Gyro_Tomer.git
 https://github.com/tommag/DS2431_Arduino
