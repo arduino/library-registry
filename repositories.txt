@@ -5301,6 +5301,7 @@ https://github.com/s-light/slight_LiquidCrystalDummy
 https://github.com/s-light/slight_mapping
 https://github.com/s-light/slight_RotaryEncoder
 https://github.com/s-light/slight_TLC5957
+https://github.com/s-light/slight_PlainTime
 https://github.com/s00500/ESPUI
 https://github.com/s00500/SimpleExpressions
 https://github.com/sabas1080/FXAS21002C_Arduino_Library
