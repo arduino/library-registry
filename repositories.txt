@@ -7073,3 +7073,4 @@ https://github.com/Networking-for-Arduino/EthernetESP32
 https://github.com/Tyler-Barnes/promplus
 https://github.com/lucas-sesti/JWT_RS256
 https://github.com/agfy/CxDevices
+https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer
