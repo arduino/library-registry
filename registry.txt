@@ -7169,3 +7169,4 @@ https://github.com/yasir-shahzad/ADS122U04_ADC_Arduino_Library.git|Contributed|A
 https://github.com/yasir-shahzad/CS5530_ADC_Arduino_Library.git|Contributed|CS5530
 https://github.com/Tyler-Barnes/promplus.git|Contributed|PROMPLUS
 https://github.com/tomasz90/debounce-me.git|Contributed|DebounceMe
+https://github.com/lucas-sesti/JWT_RS256.git|Contributed|JWT_RS256
