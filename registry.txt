@@ -7174,3 +7174,4 @@ https://github.com/makerlabvn/mke-s01-ultrasonic-sensor.git|Contributed|HCSR04 u
 https://github.com/qqqlab/ESP32_SoftWire.git|Contributed|ESP32_SoftWire
 https://github.com/agfy/CxDevices.git|Contributed|CX_Devices
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT.git|Contributed|Makerlabvn_kit_CIA0_BOT
+https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer.git|Contributed|ESPAsyncHTTPUpdateServer
