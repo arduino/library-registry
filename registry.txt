@@ -7176,3 +7176,4 @@ https://github.com/agfy/CxDevices.git|Contributed|CX_Devices
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT.git|Contributed|Makerlabvn_kit_CIA0_BOT
 https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer.git|Contributed|ESPAsyncHTTPUpdateServer
 https://github.com/s-light/slight_PlainTime.git|Contributed|slight_PlainTime
+https://github.com/makerlabvn/makerlabvnlib.git|Contributed|MAKERLABVN
