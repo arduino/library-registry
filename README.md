@@ -15,6 +15,7 @@ This repository contains the list of libraries in the
 - [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
 - [Removing a library from Library Manager](#removing-a-library-from-library-manager)
 - [Report a problem with Library Manager](#report-a-problem-with-library-manager)
+- [Security & Malware Reporting](#security--malware-reporting)
 
 <!-- tocstop -->
 
@@ -118,3 +119,11 @@ This repository is not an appropriate place to request support or report problem
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
 
 If the problem is about something else, please submit an issue report [here](https://github.com/arduino/library-registry/issues/new/choose).
+
+## Security & Malware Reporting
+
+If you think you found a vulnerability, malware or other security-related defect in any Arduino Library projects, please take a look at our security policy and report it to our Security Team 🛡️.
+
+Thank you!
+
+E-mail contact: security@arduino.cc
