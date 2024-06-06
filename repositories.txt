@@ -6544,6 +6544,7 @@ https://github.com/Vrekrer/Vrekrer_scpi_parser
 https://github.com/vshymanskyy/Preferences
 https://github.com/vshymanskyy/StreamDebugger
 https://github.com/vshymanskyy/TinyGSM
+https://github.com/vulcu/terminal-commander
 https://github.com/Vulintus/ATWINC3400_Driver_Arduino
 https://github.com/vurdalakov/radsensboard
 https://github.com/warhog/Arduino-MedianFilter
