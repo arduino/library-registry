@@ -7178,3 +7178,4 @@ https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer.git|Contributed|ESPAsyncH
 https://github.com/s-light/slight_PlainTime.git|Contributed|slight_PlainTime
 https://github.com/makerlabvn/makerlabvnlib.git|Contributed|MAKERLABVN
 https://github.com/vulcu/terminal-commander.git|Contributed|TerminalCommander
+https://github.com/YFROBOT-TM/Yfrobot-TTS-Library.git|Contributed|yfrobot_tts
