@@ -7177,3 +7177,4 @@ https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT.git|Contributed|Makerlabvn
 https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer.git|Contributed|ESPAsyncHTTPUpdateServer
 https://github.com/s-light/slight_PlainTime.git|Contributed|slight_PlainTime
 https://github.com/makerlabvn/makerlabvnlib.git|Contributed|MAKERLABVN
+https://github.com/vulcu/terminal-commander.git|Contributed|TerminalCommander
