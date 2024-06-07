@@ -7080,3 +7080,4 @@ https://github.com/lucas-sesti/JWT_RS256
 https://github.com/agfy/CxDevices
 https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer
 https://github.com/shunceyb/MultiMAX6675
+https://github.com/SequentMicrosystems/Sequent-16univin-Library
