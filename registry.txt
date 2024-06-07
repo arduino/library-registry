@@ -7180,3 +7180,4 @@ https://github.com/makerlabvn/makerlabvnlib.git|Contributed|MAKERLABVN
 https://github.com/vulcu/terminal-commander.git|Contributed|TerminalCommander
 https://github.com/YFROBOT-TM/Yfrobot-TTS-Library.git|Contributed|yfrobot_tts
 https://github.com/shunceyb/MultiMAX6675.git|Contributed|MultiMAX6675
+https://github.com/raghulrajg/OTAUpdateManager.git|Contributed|OTAUpdateManager
