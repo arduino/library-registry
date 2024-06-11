@@ -6701,6 +6701,7 @@ https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
 https://github.com/YFROBOT-TM/Yfrobot-Valon3-Library
 https://github.com/YFROBOT-TM/Yfrobot-TTS-Library
+https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/YiannisBourkelis/Uptime-Library
