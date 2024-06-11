@@ -1,3 +1,4 @@
+https://github.com/meebplayzs/GoogleCalendarClient
 https://github.com/raghulrajg/OTAUpdateManager
 https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
