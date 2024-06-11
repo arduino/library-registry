@@ -7183,3 +7183,4 @@ https://github.com/shunceyb/MultiMAX6675.git|Contributed|MultiMAX6675
 https://github.com/raghulrajg/OTAUpdateManager.git|Contributed|OTAUpdateManager
 https://github.com/SequentMicrosystems/Sequent-16univin-Library.git|Contributed|SM_16UNIVIN
 https://github.com/delta-G/R4_Touch.git|Contributed|R4_Touch
+https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library.git|Contributed|Yfrobot Motor Driver IIC1508 Library
