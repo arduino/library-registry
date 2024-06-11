@@ -3766,6 +3766,7 @@ https://github.com/marcin-filipiak/DeviceConfigJSON
 https://github.com/marcinbor85/BlinkCode
 https://github.com/marcinbor85/microshell
 https://github.com/marcinbor85/SmartButton
+https://github.com/marcinbor85/clip
 https://github.com/marcinsaj/FlipDisc
 https://github.com/marcinsaj/RTC_RX8025T
 https://github.com/marclura/PT2258-Arduino-Library
