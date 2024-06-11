@@ -7186,3 +7186,4 @@ https://github.com/delta-G/R4_Touch.git|Contributed|R4_Touch
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library.git|Contributed|Yfrobot Motor Driver IIC1508 Library
 https://github.com/marcinbor85/clip.git|Contributed|Clip
 https://github.com/IPdotSetAF/EZButton.git|Contributed|EZButton
+https://github.com/meebplayzs/GoogleCalendarClient.git|Contributed|GoogleCalendarClient
