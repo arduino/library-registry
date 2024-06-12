@@ -7189,3 +7189,4 @@ https://github.com/IPdotSetAF/EZButton.git|Contributed|EZButton
 https://github.com/meebplayzs/GoogleCalendarClient.git|Contributed|GoogleCalendarClient
 https://github.com/calliope-edu/Calliope_Arduino_library.git|Contributed|Calliope Arduino library
 https://github.com/4ngel2769/Coloria.git|Contributed|Coloria
+https://github.com/adafruit/Adafruit_DS248x.git|Recommended|Adafruit DS248x
