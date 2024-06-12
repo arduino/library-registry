@@ -7086,3 +7086,4 @@ https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer
 https://github.com/IPdotSetAF/EZButton
 https://github.com/shunceyb/MultiMAX6675
 https://github.com/SequentMicrosystems/Sequent-16univin-Library
+https://github.com/calliope-edu/Calliope_Arduino_library
