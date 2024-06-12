@@ -7187,3 +7187,4 @@ https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library.git|Contribut
 https://github.com/marcinbor85/clip.git|Contributed|Clip
 https://github.com/IPdotSetAF/EZButton.git|Contributed|EZButton
 https://github.com/meebplayzs/GoogleCalendarClient.git|Contributed|GoogleCalendarClient
+https://github.com/calliope-edu/Calliope_Arduino_library.git|Contributed|Calliope Arduino library
