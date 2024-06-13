@@ -6993,7 +6993,7 @@ https://github.com/HighASG936/Mc74hc595a.git|Contributed|mc74hc595a
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA.git|Contributed|Seeed Arduino SSCMA
 https://github.com/anton-freddy/move_buffer.git|Contributed|Move Buffer
 https://github.com/Sensirion/arduino-i2c-sfx6xxx.git|Contributed|Sensirion I2C SFx6xxx
-https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|SensirionUartSfx6xxx
+https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|Sensirion UART SFx6xxx
 https://github.com/nthnn/n2cmu-arduino.git|Contributed|n2cmu
 https://github.com/makerlabvn/kxnTask.git|Contributed|kxnTask
 https://github.com/trongthan210/iMaker-PS2.git|Contributed|iMakerPS2
