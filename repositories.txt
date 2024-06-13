@@ -1,3 +1,7 @@
+https://github.com/alexi-c/Primsteppermotor
+https://github.com/MJBeltran13/trioe
+https://github.com/4ngel2769/Coloria
+https://github.com/meebplayzs/GoogleCalendarClient
 https://github.com/raghulrajg/OTAUpdateManager
 https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
@@ -234,6 +238,7 @@ https://github.com/adafruit/Adafruit_DotStarMatrix
 https://github.com/adafruit/Adafruit_DPS310
 https://github.com/adafruit/Adafruit_DRV2605_Library
 https://github.com/adafruit/Adafruit_DS1841
+https://github.com/adafruit/Adafruit_DS248x
 https://github.com/adafruit/Adafruit_DS3502
 https://github.com/adafruit/Adafruit_EMC2101
 https://github.com/adafruit/Adafruit_EPD
@@ -1385,8 +1390,8 @@ https://github.com/chipKIT32-libraries/RN487x
 https://github.com/ChipTechno/ESP8266OTA
 https://github.com/ChipTechno/WiFiMan
 https://github.com/chirp/chirp-arduino
-https://github.com/ChitoKim/mahjongAsst
 https://github.com/ChitoKim/EiMOS_U8X8
+https://github.com/ChitoKim/EiMOS
 https://github.com/chochain/eForth1
 https://github.com/chochain/nanoFORTH
 https://github.com/Chris--A/ArdOSC
@@ -3766,6 +3771,7 @@ https://github.com/marcin-filipiak/DeviceConfigJSON
 https://github.com/marcinbor85/BlinkCode
 https://github.com/marcinbor85/microshell
 https://github.com/marcinbor85/SmartButton
+https://github.com/marcinbor85/clip
 https://github.com/marcinsaj/FlipDisc
 https://github.com/marcinsaj/RTC_RX8025T
 https://github.com/marclura/PT2258-Arduino-Library
@@ -4522,6 +4528,7 @@ https://github.com/pilotak/MovingAverageAngle
 https://github.com/pilotak/MovingAverageFloat
 https://github.com/pilotak/WeatherMeters
 https://github.com/piruetasxyz/NotasMIDI
+https://github.com/piruetasxyz/maqui_library
 https://github.com/Pixelbo/Pelco_And_Arduino
 https://github.com/pixelmatix/GifDecoder
 https://github.com/pixelmatix/SmartMatrix
@@ -6701,6 +6708,7 @@ https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
 https://github.com/YFROBOT-TM/Yfrobot-Valon3-Library
 https://github.com/YFROBOT-TM/Yfrobot-TTS-Library
+https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/YiannisBourkelis/Uptime-Library
@@ -7080,5 +7088,8 @@ https://github.com/Tyler-Barnes/promplus
 https://github.com/lucas-sesti/JWT_RS256
 https://github.com/agfy/CxDevices
 https://github.com/IPdotSetAF/ESPAsyncHTTPUpdateServer
+https://github.com/IPdotSetAF/EZButton
 https://github.com/shunceyb/MultiMAX6675
 https://github.com/SequentMicrosystems/Sequent-16univin-Library
+https://github.com/calliope-edu/Calliope_Arduino_library
+https://github.com/schreinerman/amx8x5
