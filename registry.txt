@@ -7193,3 +7193,4 @@ https://github.com/piruetasxyz/maqui_library.git|Contributed|maqui
 https://github.com/schreinerman/amx8x5.git|Contributed|AMx8x5
 https://github.com/alexi-c/Primsteppermotor.git|Contributed|PrimitiveStepperMotor
 https://github.com/MJBeltran13/trioe.git|Contributed|Trioe
+https://github.com/daguerpedro/MQSensor.git|Contributed|MQ Sensor
