@@ -6602,7 +6602,6 @@ https://github.com/witnessmenow/arduino-coinmarketcap-api
 https://github.com/witnessmenow/arduino-facebook-api
 https://github.com/witnessmenow/arduino-google-maps-api
 https://github.com/witnessmenow/arduino-ifttt-maker
-https://github.com/witnessmenow/arduino-instagram-stats
 https://github.com/witnessmenow/arduino-instructables-api
 https://github.com/witnessmenow/arduino-kickstarter-stats
 https://github.com/witnessmenow/arduino-slack-api
