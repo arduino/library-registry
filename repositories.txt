@@ -1390,8 +1390,8 @@ https://github.com/chipKIT32-libraries/RN487x
 https://github.com/ChipTechno/ESP8266OTA
 https://github.com/ChipTechno/WiFiMan
 https://github.com/chirp/chirp-arduino
+https://github.com/ChitoKim/EiMOS_U8X8
 https://github.com/ChitoKim/EiMOS
-https://github.com/ChitoKim/mahjongAsst_U8X8
 https://github.com/chochain/eForth1
 https://github.com/chochain/nanoFORTH
 https://github.com/Chris--A/ArdOSC
