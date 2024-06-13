@@ -5935,8 +5935,8 @@ https://github.com/DFRobot/DFRobot_LPUPS.git|Contributed|DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_RainfallSensor.git|Contributed|DFRobot_RainfallSensor
 https://github.com/DFRobot/DFRobot_RP2040_SCI.git|Contributed|DFRobot_RP2040_SCI
 https://github.com/softplus/GoogleFormPost.git|Contributed|GoogleFormPost
-https://github.com/ChitoKim/mahjongAsst.git|Contributed|mahjongAsst
-https://github.com/ChitoKim/EiMOS_U8X8.git|Contributed|EiMOS_U8X8
+https://github.com/ChitoKim/EiMOS_U8X8.git|Contributed|EiMOS_U8X
+https://github.com/ChitoKim/EiMOS.git|Contributed|EiMOS
 https://github.com/schnoog/vl53l0x-arduino-mod.git|Contributed|VL53L0X_mod
 https://github.com/schnoog/Joystick_ESP32S2.git|Contributed|Joystick_ESP32S2
 https://github.com/SanteriLindfors/WiFiProvisioner.git|Contributed|WiFiProvisioner
@@ -6993,7 +6993,7 @@ https://github.com/HighASG936/Mc74hc595a.git|Contributed|mc74hc595a
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA.git|Contributed|Seeed Arduino SSCMA
 https://github.com/anton-freddy/move_buffer.git|Contributed|Move Buffer
 https://github.com/Sensirion/arduino-i2c-sfx6xxx.git|Contributed|Sensirion I2C SFx6xxx
-https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|SensirionUartSfx6xxx
+https://github.com/Sensirion/arduino-uart-sfx6xxx.git|Contributed|Sensirion UART SFx6xxx
 https://github.com/nthnn/n2cmu-arduino.git|Contributed|n2cmu
 https://github.com/makerlabvn/kxnTask.git|Contributed|kxnTask
 https://github.com/trongthan210/iMaker-PS2.git|Contributed|iMakerPS2
@@ -7076,7 +7076,7 @@ https://github.com/Franzininho/biblioteca-laboratorioFW-DIY.git|Contributed|labo
 https://github.com/Khuuxuanngoc/TongHopThuVienCon1.git|Contributed|TongHopThuVienCon1
 https://github.com/ozantoteles/IPS-7100-I2C-Arduino.git|Contributed|IPS-7100-I2C-Arduino
 https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver.git|Contributed|SerialWombat18ABVGADriver
-https://github.com/felixthecat8a/LCD_BacklightRGB.git|Contributed|LCD_BackgroundRGB
+https://github.com/felixthecat8a/LCD_BacklightRGB.git|Contributed|LCD_BacklightRGB
 https://github.com/RobTillaart/INA236.git|Contributed|INA236
 https://github.com/cschorn01/PlugAndPlayForLoRa.git|Contributed|PlugAndPlayForLoRa
 https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut.git|Contributed|SpaceTrek ExoNaut
@@ -7183,3 +7183,14 @@ https://github.com/shunceyb/MultiMAX6675.git|Contributed|MultiMAX6675
 https://github.com/raghulrajg/OTAUpdateManager.git|Contributed|OTAUpdateManager
 https://github.com/SequentMicrosystems/Sequent-16univin-Library.git|Contributed|SM_16UNIVIN
 https://github.com/delta-G/R4_Touch.git|Contributed|R4_Touch
+https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library.git|Contributed|Yfrobot Motor Driver IIC1508 Library
+https://github.com/marcinbor85/clip.git|Contributed|Clip
+https://github.com/IPdotSetAF/EZButton.git|Contributed|EZButton
+https://github.com/meebplayzs/GoogleCalendarClient.git|Contributed|GoogleCalendarClient
+https://github.com/calliope-edu/Calliope_Arduino_library.git|Contributed|Calliope Arduino library
+https://github.com/4ngel2769/Coloria.git|Contributed|Coloria
+https://github.com/adafruit/Adafruit_DS248x.git|Recommended|Adafruit DS248x
+https://github.com/piruetasxyz/maqui_library.git|Contributed|maqui
+https://github.com/schreinerman/amx8x5.git|Contributed|AMx8x5
+https://github.com/alexi-c/Primsteppermotor.git|Contributed|PrimitiveStepperMotor
+https://github.com/MJBeltran13/trioe.git|Contributed|Trioe
