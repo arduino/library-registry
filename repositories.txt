@@ -1,3 +1,4 @@
+https://github.com/daguerpedro/MQSensor
 https://github.com/alexi-c/Primsteppermotor
 https://github.com/MJBeltran13/trioe
 https://github.com/4ngel2769/Coloria
