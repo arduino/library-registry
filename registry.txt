@@ -5935,7 +5935,7 @@ https://github.com/DFRobot/DFRobot_LPUPS.git|Contributed|DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_RainfallSensor.git|Contributed|DFRobot_RainfallSensor
 https://github.com/DFRobot/DFRobot_RP2040_SCI.git|Contributed|DFRobot_RP2040_SCI
 https://github.com/softplus/GoogleFormPost.git|Contributed|GoogleFormPost
-https://github.com/ChitoKim/mahjongAsst.git|Contributed|mahjongAsst
+https://github.com/ChitoKim/EiMOS.git|Contributed|EiMOS
 https://github.com/ChitoKim/mahjongAsst_U8X8.git|Contributed|mahjongAsst_U8X8
 https://github.com/schnoog/vl53l0x-arduino-mod.git|Contributed|VL53L0X_mod
 https://github.com/schnoog/Joystick_ESP32S2.git|Contributed|Joystick_ESP32S2
