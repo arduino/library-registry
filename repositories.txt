@@ -1959,7 +1959,7 @@ https://github.com/dvarrel/ESPAsyncTCP.git
 https://github.com/dvarrel/ESPAsyncWebSrv
 https://github.com/dvarrel/ESPping
 https://github.com/dvarrel/TM1638.git
-https://github.com/dvernier/GDXLib
+https://github.com/VernierST/GDXLib
 https://github.com/dwinhmi/DWIN_DGUS_HMI
 https://github.com/dwrobel/TrivialKalmanFilter
 https://github.com/dxinteractive/AnalogMultiButton
