@@ -1,3 +1,4 @@
+https://github.com/3D-CNC-Reutlingen/library-registry/edit/main/repositories.txt
 https://github.com/alexi-c/Primsteppermotor
 https://github.com/daguerpedro/MQSensor
 https://github.com/MJBeltran13/trioe
