@@ -7195,3 +7195,4 @@ https://github.com/alexi-c/Primsteppermotor.git|Contributed|PrimitiveStepperMoto
 https://github.com/MJBeltran13/trioe.git|Contributed|Trioe
 https://github.com/daguerpedro/MQSensor.git|Contributed|MQ Sensor
 https://github.com/crudlabs/StevesAwesomeButton.git|Contributed|StevesAwesomeButton
+https://github.com/superdinmc/MicroPOP32.git|Contributed|MicroPOP32
