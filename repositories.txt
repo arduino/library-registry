@@ -4767,6 +4767,7 @@ https://github.com/pvizeli/CmdParser
 https://github.com/pxsty0/deneyap.telegram
 https://github.com/pxsty0/deneyapkart.agent.lib
 https://github.com/pxsty0/pxserv.lib
+https://github.com/pxsty0/DisCard
 https://github.com/Pylo/MCreatorLinkArduino
 https://github.com/pokerobo/Pokerobo_Arm
 https://github.com/pokerobo/Pokerobo_Car
