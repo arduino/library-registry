@@ -2692,6 +2692,7 @@ https://github.com/hsaturn/TinyMqtt
 https://github.com/hsfl/artemis-teensy
 https://github.com/junkfix/dhtESP32-rmt
 https://github.com/junkfix/esp32-ds18b20
+https://github.com/junkfix/esp32-rmt-ir
 https://github.com/HuangYuTse/GM1602lib
 https://github.com/huilab/HoneywellTruStabilitySPI
 https://github.com/huilab/HoneywellZephyrI2C
