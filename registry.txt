@@ -7201,3 +7201,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM45688P.git|Contributed|ICM4568
 https://github.com/tdk-invn-oss/motion.arduino.ICM45686.git|Contributed|ICM45686
 https://github.com/tdk-invn-oss/motion.arduino.ICM45605.git|Contributed|ICM45605
 https://github.com/junkfix/esp32-rmt-ir.git|Contributed|esp32-rmt-ir
+https://github.com/Tyler-Barnes/RPM.git|Contributed|RPM
