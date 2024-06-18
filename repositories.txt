@@ -6,6 +6,7 @@ https://github.com/daguerpedro/MQSensor
 https://github.com/MJBeltran13/trioe
 https://github.com/4ngel2769/Coloria
 https://github.com/meebplayzs/GoogleCalendarClient
+https://github.com/ys1374/AS5600_PsW
 https://github.com/raghulrajg/OTAUpdateManager
 https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
