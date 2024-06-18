@@ -1,4 +1,3 @@
-https://github.com/HackerNowful/SD-Ducky
 https://github.com/tdk-invn-oss/motion.arduino.ICM45688P
 https://github.com/tdk-invn-oss/motion.arduino.ICM45686
 https://github.com/tdk-invn-oss/motion.arduino.ICM45605
