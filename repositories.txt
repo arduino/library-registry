@@ -1,5 +1,6 @@
 https://github.com/tdk-invn-oss/motion.arduino.ICM45688P
 https://github.com/tdk-invn-oss/motion.arduino.ICM45686
+https://github.com/MJBeltran13/TRIOE_library
 https://github.com/tdk-invn-oss/motion.arduino.ICM45605
 https://github.com/MJBeltran13/trioe
 https://github.com/alexi-c/Primsteppermotor
