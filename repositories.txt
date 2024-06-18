@@ -4143,6 +4143,7 @@ https://github.com/Naguissa/uMuxOutputLib
 https://github.com/Naguissa/uRTCLib
 https://github.com/Naguissa/uSevenSegmentLib
 https://github.com/Naguissa/uTimerLib
+https://github.com/Naguissa/uTimerBrokerLib
 https://github.com/Naguissa/uUnixDate
 https://github.com/naiithink/musicians-mate
 https://github.com/nailujx86/ESP8266_multipart
