@@ -7203,3 +7203,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM45605.git|Contributed|ICM45605
 https://github.com/junkfix/esp32-rmt-ir.git|Contributed|esp32-rmt-ir
 https://github.com/Tyler-Barnes/RPM.git|Contributed|RPM
 https://github.com/Naguissa/uTimerBrokerLib.git|Contributed|uTimerBrokerLib
+https://github.com/ys1374/AS5600_PsW.git|Contributed|AS5600_PsW
