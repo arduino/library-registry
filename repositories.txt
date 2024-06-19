@@ -7104,3 +7104,4 @@ https://github.com/schreinerman/amx8x5
 https://github.com/paramoshkinandrew/BME280_Arduino_I2C
 https://github.com/crudlabs/StevesAwesomeButton
 https://github.com/superdinmc/MicroPOP32
+https://github.com/qingmeijiupiao/DJIMotorCtrlESP
