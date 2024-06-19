@@ -7205,3 +7205,4 @@ https://github.com/Tyler-Barnes/RPM.git|Contributed|RPM
 https://github.com/Naguissa/uTimerBrokerLib.git|Contributed|uTimerBrokerLib
 https://github.com/ys1374/AS5600_PsW.git|Contributed|AS5600_PsW
 https://github.com/paramoshkinandrew/BME280_Arduino_I2C.git|Contributed|BME280_Arduino_I2C
+https://github.com/qingmeijiupiao/DJIMotorCtrlESP.git|Contributed|DJIMotorCtrlESP
