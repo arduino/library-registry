@@ -3665,6 +3665,7 @@ https://github.com/m5stack/M5Station
 https://github.com/m5stack/M5StickC
 https://github.com/m5stack/M5StickC-Plus
 https://github.com/m5stack/M5StickCPlus2
+https://github.com/m5stack/M5NanoC6
 https://github.com/m5stack/M5Unified
 https://github.com/m5stack/M5Unit-4RELAY
 https://github.com/m5stack/M5Unit-ACSSR
