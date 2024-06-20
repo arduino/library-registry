@@ -7208,3 +7208,4 @@ https://github.com/qingmeijiupiao/DJIMotorCtrlESP.git|Contributed|DJIMotorCtrlES
 https://github.com/piruetasxyz/Pantalla12x8.git|Contributed|Pantalla12x8
 https://github.com/michaelnixonau/MaxLedControl.git|Contributed|MaxLedControl
 https://github.com/m5stack/M5NanoC6.git|Contributed|M5NanoC6
+https://github.com/nthnn/DynaConfig.git|Contributed|dynaconfig
