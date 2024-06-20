@@ -4497,7 +4497,6 @@ https://github.com/RobTillaart/palindrome.git|Contributed|palindrome
 https://github.com/jpb10/SolarCalculator.git|Contributed|SolarCalculator
 https://github.com/icomedit/Arduino-KIMlib.git|Contributed|KIMlib
 https://github.com/RobTillaart/map2colour.git|Contributed|map2colour
-https://github.com/yourapiexpert/ATCommands.git|Contributed|ATCommands
 https://github.com/bolderflight/filter.git|Contributed|Bolder Flight Systems Filter
 https://github.com/0015/ESP32-OV5640-AF.git|Contributed|OV5640 Auto Focus for ESP32 Camera
 https://github.com/bolderflight/excitation.git|Contributed|Bolder Flight Systems Excitation
