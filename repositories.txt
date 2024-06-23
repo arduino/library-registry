@@ -7112,4 +7112,4 @@ https://github.com/qingmeijiupiao/DJIMotorCtrlESP
 https://github.com/volty98/GP2Y0A21YK_lib
 https://github.com/KobaProduction/BDSP
 https://github.com/a3510377/MKPin
-https://github.com/a3510377/Arduino-MK_HC595
+https://github.com/a3510377/MKHC595
