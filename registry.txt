@@ -7212,3 +7212,5 @@ https://github.com/nthnn/DynaConfig.git|Contributed|dynaconfig
 https://github.com/volty98/GP2Y0A21YK_lib.git|Contributed|GP2Y0A21YK_lib
 https://github.com/eloquentarduino/arduino-WebTerminal.git|Contributed|WebTerminal
 https://github.com/KobaProduction/BDSP.git|Contributed|BDSP
+https://github.com/a3510377/MKPin.git|Contributed|MKPin
+https://github.com/a3510377/MKHC595.git|Contributed|MKHC595
