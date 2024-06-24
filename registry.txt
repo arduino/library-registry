@@ -7214,3 +7214,4 @@ https://github.com/eloquentarduino/arduino-WebTerminal.git|Contributed|WebTermin
 https://github.com/KobaProduction/BDSP.git|Contributed|BDSP
 https://github.com/a3510377/MKPin.git|Contributed|MKPin
 https://github.com/a3510377/MKHC595.git|Contributed|MKHC595
+https://github.com/AkessonUlrik/RLNode.git|Contributed|RLNode
