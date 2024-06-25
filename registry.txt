@@ -7217,3 +7217,4 @@ https://github.com/a3510377/MKHC595.git|Contributed|MKHC595
 https://github.com/AkessonUlrik/RLNode.git|Contributed|RLNode
 https://github.com/tdk-invn-oss/motion.arduino.ICM42670S.git|Contributed|ICM42670S
 https://github.com/spaziochirale/Chirale_TensorFlowLite.git|Contributed|Chirale_TensorFLowLite
+https://github.com/Pranjal-Prabhat/ultrasonic-arduino.git|Contributed|ultrasonic
