@@ -1,3 +1,8 @@
+https://github.com/mamunul/BanglaText
+https://github.com/sqmsmu/PMIC_BQ25896
+https://github.com/DIYables/DIYables_Keypad
+https://github.com/spaziochirale/Chirale_TensorFlowLite
+https://github.com/tdk-invn-oss/motion.arduino.ICM42670S
 https://github.com/eloquentarduino/arduino-WebTerminal
 https://github.com/michaelnixonau/MaxLedControl
 https://github.com/tdk-invn-oss/motion.arduino.ICM45688P
@@ -4780,6 +4785,7 @@ https://github.com/pxsty0/deneyapkart.agent.lib
 https://github.com/pxsty0/pxserv.lib
 https://github.com/pxsty0/DisCard
 https://github.com/Pylo/MCreatorLinkArduino
+https://github.com/pokerobo/Pokerobo_ABC
 https://github.com/pokerobo/Pokerobo_Arm
 https://github.com/pokerobo/Pokerobo_Car
 https://github.com/pokerobo/Pokerobo_Labs
@@ -7113,3 +7119,6 @@ https://github.com/volty98/GP2Y0A21YK_lib
 https://github.com/KobaProduction/BDSP
 https://github.com/a3510377/MKPin
 https://github.com/a3510377/MKHC595
+https://github.com/AkessonUlrik/RLNode.git
+https://github.com/Pranjal-Prabhat/ultrasonic-arduino
+https://github.com/clavisound/SlimLoRa
