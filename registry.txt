@@ -7220,3 +7220,4 @@ https://github.com/spaziochirale/Chirale_TensorFlowLite.git|Contributed|Chirale_
 https://github.com/Pranjal-Prabhat/ultrasonic-arduino.git|Contributed|ultrasonic
 https://github.com/DIYables/DIYables_Keypad.git|Contributed|DIYables_Keypad
 https://github.com/sqmsmu/PMIC_BQ25896.git|Contributed|PMIC_BQ25896
+https://github.com/mamunul/BanglaText.git|Contributed|BanglaText
