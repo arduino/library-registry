@@ -1,5 +1,4 @@
 https://github.com/DIYables/DIYables_Keypad
-https://github.com/DIYables/DIYables_IRcontroller
 https://github.com/spaziochirale/Chirale_TensorFlowLite
 https://github.com/tdk-invn-oss/motion.arduino.ICM42670S
 https://github.com/eloquentarduino/arduino-WebTerminal
