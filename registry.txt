@@ -7223,3 +7223,4 @@ https://github.com/sqmsmu/PMIC_BQ25896.git|Contributed|PMIC_BQ25896
 https://github.com/mamunul/BanglaText.git|Contributed|BanglaText
 https://github.com/pokerobo/Pokerobo_ABC.git|Contributed|Pokerobo_ABC
 https://github.com/clavisound/SlimLoRa.git|Contributed|SlimLoRa
+https://github.com/chan1sook/Web3E-jbc.git|Contributed|Web3JBC
