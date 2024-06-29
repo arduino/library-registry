@@ -7128,3 +7128,4 @@ https://github.com/clavisound/SlimLoRa
 https://github.com/chan1sook/Web3E-jbc
 https://github.com/arkhipenko/PersistentQueue
 https://github.com/Meli0609/I0Servo
+https://github.com/Freenove/Freenove_IR_Lib_for_ESP32
