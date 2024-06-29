@@ -7229,3 +7229,4 @@ https://github.com/Meli0609/I0Servo.git|Contributed|I0Servo
 https://github.com/rgot-org/EzLoRaWAN.git|Contributed|EzLoRaWAN
 https://github.com/rgot-org/EzLoRaWAN_BLE.git|Contributed|EzLoRaWAN_BLE
 https://github.com/maarten-pennings/ENS210.git|Contributed|ENS210
+https://github.com/Freenove/Freenove_IR_Lib_for_ESP32.git|Contributed|Freenove IR Lib for ESP32
