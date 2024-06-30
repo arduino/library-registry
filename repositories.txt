@@ -5233,6 +5233,7 @@ https://github.com/RobTillaart/relativity
 https://github.com/RobTillaart/rotaryDecoder
 https://github.com/RobTillaart/rotaryDecoderSwitch
 https://github.com/RobTillaart/RS485
+https://github.com/RobTillaart/RunAvgWeight
 https://github.com/RobTillaart/runningAngle
 https://github.com/RobTillaart/RunningAverage
 https://github.com/RobTillaart/RunningMedian
