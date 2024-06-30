@@ -7231,3 +7231,4 @@ https://github.com/rgot-org/EzLoRaWAN_BLE.git|Contributed|EzLoRaWAN_BLE
 https://github.com/maarten-pennings/ENS210.git|Contributed|ENS210
 https://github.com/Freenove/Freenove_IR_Lib_for_ESP32.git|Contributed|Freenove IR Lib for ESP32
 https://github.com/DerWaldi/Tiny-I2C-Drivers.git|Contributed|Tiny-I2C-Drivers
+https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors.git|Contributed|Wind Functions
