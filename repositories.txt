@@ -7131,3 +7131,4 @@ https://github.com/arkhipenko/PersistentQueue
 https://github.com/Meli0609/I0Servo
 https://github.com/Freenove/Freenove_IR_Lib_for_ESP32
 https://github.com/DerWaldi/Tiny-I2C-Drivers
+https://github.com/bayeggex/Arduino-AI-Chat-Library
