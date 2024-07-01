@@ -1,8 +1,8 @@
+https://github.com/spaziochirale/Chirale_TensorFlowLite
 https://github.com/mamunul/BanglaText
 https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors
 https://github.com/sqmsmu/PMIC_BQ25896
 https://github.com/DIYables/DIYables_Keypad
-https://github.com/spaziochirale/Chirale_TensorFlowLite
 https://github.com/tdk-invn-oss/motion.arduino.ICM42670S
 https://github.com/eloquentarduino/arduino-WebTerminal
 https://github.com/michaelnixonau/MaxLedControl
