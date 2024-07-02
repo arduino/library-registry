@@ -7235,3 +7235,4 @@ https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors.git|
 https://github.com/bayeggex/Arduino-AI-Chat-Library.git|Contributed|AIChatBot
 https://github.com/RobTillaart/RunAvgWeight.git|Contributed|RunAvgWeight
 https://github.com/GyverLibs/Benchmark.git|Contributed|Benchmark
+https://github.com/GRMrGecko/cmd.git|Contributed|cmd
