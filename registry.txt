@@ -7239,3 +7239,4 @@ https://github.com/GRMrGecko/cmd.git|Contributed|cmd
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500.git|Contributed|MTR_STUSB4500
 https://github.com/joaoaugustocz/LidarArray.git|Contributed|LidarArray
 https://github.com/a3510377/arduino-uno-car.git|Contributed|UnoCar
+https://github.com/ayushsharma82/NetWizard.git|Contributed|NetWizard
