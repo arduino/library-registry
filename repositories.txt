@@ -7137,3 +7137,4 @@ https://github.com/DerWaldi/Tiny-I2C-Drivers
 https://github.com/bayeggex/Arduino-AI-Chat-Library
 https://github.com/GRMrGecko/cmd
 https://github.com/joaoaugustocz/LidarArray
+https://github.com/a3510377/arduino-uno-car
