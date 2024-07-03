@@ -5049,6 +5049,7 @@ https://github.com/RobTillaart/ADC08XS
 https://github.com/RobTillaart/ADG725
 https://github.com/RobTillaart/ADG726
 https://github.com/RobTillaart/ADG728
+https://github.com/RobTillaart/ADG729
 https://github.com/RobTillaart/ADG731
 https://github.com/RobTillaart/ADG732
 https://github.com/RobTillaart/Adler
