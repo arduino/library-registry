@@ -7138,3 +7138,4 @@ https://github.com/bayeggex/Arduino-AI-Chat-Library
 https://github.com/GRMrGecko/cmd
 https://github.com/joaoaugustocz/LidarArray
 https://github.com/a3510377/arduino-uno-car
+https://github.com/ayushsharma82/NetWizard
