@@ -7237,3 +7237,4 @@ https://github.com/RobTillaart/RunAvgWeight.git|Contributed|RunAvgWeight
 https://github.com/GyverLibs/Benchmark.git|Contributed|Benchmark
 https://github.com/GRMrGecko/cmd.git|Contributed|cmd
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500.git|Contributed|MTR_STUSB4500
+https://github.com/joaoaugustocz/LidarArray.git|Contributed|LidarArray
