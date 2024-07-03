@@ -1,4 +1,6 @@
+https://github.com/MoreThanRobotsFR/MTR_STUSB4500
 https://github.com/mamunul/BanglaText
+https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors
 https://github.com/sqmsmu/PMIC_BQ25896
 https://github.com/DIYables/DIYables_Keypad
 https://github.com/spaziochirale/Chirale_TensorFlowLite
@@ -18,6 +20,7 @@ https://github.com/raghulrajg/OTAUpdateManager
 https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
 https://github.com/makerlabvn/mke-s01-ultrasonic-sensor
+https://github.com/maarten-pennings/ENS210
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
@@ -2464,6 +2467,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/Benchmark
 https://github.com/GyverLibs/GyverHTTP
 https://github.com/GyverLibs/GTL
 https://github.com/GyverLibs/EspSleep
@@ -4907,6 +4911,8 @@ https://github.com/rfetick/Kalman
 https://github.com/rfetick/MPU6050_light
 https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
+https://github.com/rgot-org/EzLoRaWAN
+https://github.com/rgot-org/EzLoRaWAN_BLE
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rhrhhrhr/MPC_ruih
@@ -5229,6 +5235,7 @@ https://github.com/RobTillaart/relativity
 https://github.com/RobTillaart/rotaryDecoder
 https://github.com/RobTillaart/rotaryDecoderSwitch
 https://github.com/RobTillaart/RS485
+https://github.com/RobTillaart/RunAvgWeight
 https://github.com/RobTillaart/runningAngle
 https://github.com/RobTillaart/RunningAverage
 https://github.com/RobTillaart/RunningMedian
@@ -7122,3 +7129,10 @@ https://github.com/a3510377/MKHC595
 https://github.com/AkessonUlrik/RLNode.git
 https://github.com/Pranjal-Prabhat/ultrasonic-arduino
 https://github.com/clavisound/SlimLoRa
+https://github.com/chan1sook/Web3E-jbc
+https://github.com/arkhipenko/PersistentQueue
+https://github.com/Meli0609/I0Servo
+https://github.com/Freenove/Freenove_IR_Lib_for_ESP32
+https://github.com/DerWaldi/Tiny-I2C-Drivers
+https://github.com/bayeggex/Arduino-AI-Chat-Library
+https://github.com/GRMrGecko/cmd
