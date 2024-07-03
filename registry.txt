@@ -7241,3 +7241,4 @@ https://github.com/joaoaugustocz/LidarArray.git|Contributed|LidarArray
 https://github.com/a3510377/arduino-uno-car.git|Contributed|UnoCar
 https://github.com/ayushsharma82/NetWizard.git|Contributed|NetWizard
 https://github.com/RobTillaart/ADG728.git|Contributed|ADG728
+https://github.com/RobTillaart/ADG729.git|Contributed|ADG729
