@@ -7246,3 +7246,4 @@ https://github.com/spaziochirale/ArduTFLite.git|Contributed|ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_ADS7830.git|Contributed|MTR_ADS7830
 https://github.com/Zhentao-Lin/WS2812_Lib_for_Air001.git|Contributed|WS2812 Lib for Air001
 https://github.com/microbotsio/DriveCell.git|Contributed|DriveCell
+https://github.com/JoJos1220/adafruit_INA219_mock.git|Contributed|adafruit_ina219_mock
