@@ -7245,3 +7245,4 @@ https://github.com/RobTillaart/ADG729.git|Contributed|ADG729
 https://github.com/spaziochirale/ArduTFLite.git|Contributed|ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_ADS7830.git|Contributed|MTR_ADS7830
 https://github.com/Zhentao-Lin/WS2812_Lib_for_Air001.git|Contributed|WS2812 Lib for Air001
+https://github.com/microbotsio/DriveCell.git|Contributed|DriveCell
