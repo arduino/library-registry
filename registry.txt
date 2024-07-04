@@ -7243,3 +7243,4 @@ https://github.com/ayushsharma82/NetWizard.git|Contributed|NetWizard
 https://github.com/RobTillaart/ADG728.git|Contributed|ADG728
 https://github.com/RobTillaart/ADG729.git|Contributed|ADG729
 https://github.com/spaziochirale/ArduTFLite.git|Contributed|ArduTFLite
+https://github.com/MoreThanRobotsFR/MTR_ADS7830.git|Contributed|MTR_ADS7830
