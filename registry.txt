@@ -7250,3 +7250,4 @@ https://github.com/JoJos1220/adafruit_INA219_mock.git|Contributed|adafruit_ina21
 https://github.com/GyverLibs/GyverDB.git|Contributed|GyverDB
 https://github.com/JoJos1220/adafruit_fram_i2C_mock.git|Contributed|adafruit_fram_i2c_mock
 https://github.com/nthnn/mdif.git|Contributed|mdif
+https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib.git|Contributed|TLE9012_BMS_IC
