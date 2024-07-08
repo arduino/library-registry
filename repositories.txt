@@ -5001,6 +5001,7 @@ https://github.com/robertsallent/arduino_flanco
 https://github.com/robgmsn/PureDigit
 https://github.com/Robo-Wunderkind/RoboWunduino
 https://github.com/RoboCore/RoboCore_MMA8452Q
+https://github.com/RoboCore/RoboCore_Rocky
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0
 https://github.com/RoboCore/RoboCore_Vespa
