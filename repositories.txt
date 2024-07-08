@@ -7150,3 +7150,4 @@ https://github.com/Zhentao-Lin/WS2812_Lib_for_Air001
 https://github.com/JoJos1220/adafruit_INA219_mock
 https://github.com/JoJos1220/adafruit_fram_i2C_mock
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib
+https://github.com/crane-elec/EthernetSP
