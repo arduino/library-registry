@@ -6995,7 +6995,6 @@ https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
 https://github.com/maxpromer/Hanuman
 https://github.com/Embeddronics-ltd/MS5837_30BA_Library
-https://github.com/HighASG936/hw262
 https://github.com/gershnik/MbedNanoTLS
 https://github.com/gershnik/BetterWiFiNINA
 https://github.com/Sensirion/arduino-i2c-sfm-sf06
@@ -7151,3 +7150,4 @@ https://github.com/JoJos1220/adafruit_INA219_mock
 https://github.com/JoJos1220/adafruit_fram_i2C_mock
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib
 https://github.com/crane-elec/EthernetSP
+https://github.com/HighASG936/hw262
