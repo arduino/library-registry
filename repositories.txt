@@ -24,6 +24,8 @@ https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
 https://github.com/makerlabvn/mke-s01-ultrasonic-sensor
 https://github.com/maarten-pennings/ENS210
+https://github.com/ams-OSRAM-Group/OSP_aospi
+https://github.com/ams-OSRAM-Group/OSP_aoresult
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
