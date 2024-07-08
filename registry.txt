@@ -7254,3 +7254,4 @@ https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib.git|Contributed|TLE9012_B
 https://github.com/crane-elec/EthernetSP.git|Contributed|EthernetSP
 https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2-wire SPI - aospi
 https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP Result codes - aoresult
+https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
