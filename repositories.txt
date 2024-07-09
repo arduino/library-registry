@@ -2472,6 +2472,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/StreamIO
 https://github.com/GyverLibs/GyverDB
 https://github.com/GyverLibs/Benchmark
 https://github.com/GyverLibs/GyverHTTP
