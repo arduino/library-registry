@@ -7255,3 +7255,4 @@ https://github.com/crane-elec/EthernetSP.git|Contributed|EthernetSP
 https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2-wire SPI - aospi
 https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP Result codes - aoresult
 https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
+https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
