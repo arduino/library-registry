@@ -7256,3 +7256,4 @@ https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2-wire SPI - ao
 https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP Result codes - aoresult
 https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
 https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
+https://github.com/GyverLibs/StreamIO.git|Contributed|StreamIO
