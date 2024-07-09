@@ -5191,6 +5191,7 @@ https://github.com/RobTillaart/MCP23008
 https://github.com/RobTillaart/MCP23017_RT
 https://github.com/RobTillaart/MCP23S08
 https://github.com/RobTillaart/MCP23S17
+https://github.com/RobTillaart/MCP4261
 https://github.com/RobTillaart/MCP4725
 https://github.com/RobTillaart/MCP9808_RT
 https://github.com/RobTillaart/MHZCO2
