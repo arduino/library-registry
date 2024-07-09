@@ -24,6 +24,8 @@ https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
 https://github.com/makerlabvn/mke-s01-ultrasonic-sensor
 https://github.com/maarten-pennings/ENS210
+https://github.com/ams-OSRAM-Group/OSP_aospi
+https://github.com/ams-OSRAM-Group/OSP_aoresult
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
@@ -4298,6 +4300,7 @@ https://github.com/nthnn/diwa
 https://github.com/nthnn/DynaConfig
 https://github.com/nthnn/microlzw
 https://github.com/nthnn/n2cmu-arduino
+https://github.com/nthnn/mdif
 https://github.com/nthnn/Navigador
 https://github.com/nthnn/PH4502C-Sensor
 https://github.com/nthnn/PortaMob
@@ -4998,6 +5001,7 @@ https://github.com/robertsallent/arduino_flanco
 https://github.com/robgmsn/PureDigit
 https://github.com/Robo-Wunderkind/RoboWunduino
 https://github.com/RoboCore/RoboCore_MMA8452Q
+https://github.com/RoboCore/RoboCore_Rocky
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0
 https://github.com/RoboCore/RoboCore_Vespa
@@ -5187,6 +5191,7 @@ https://github.com/RobTillaart/MCP23008
 https://github.com/RobTillaart/MCP23017_RT
 https://github.com/RobTillaart/MCP23S08
 https://github.com/RobTillaart/MCP23S17
+https://github.com/RobTillaart/MCP4261
 https://github.com/RobTillaart/MCP4725
 https://github.com/RobTillaart/MCP9808_RT
 https://github.com/RobTillaart/MHZCO2
@@ -7147,3 +7152,6 @@ https://github.com/a3510377/arduino-uno-car
 https://github.com/ayushsharma82/NetWizard
 https://github.com/Zhentao-Lin/WS2812_Lib_for_Air001
 https://github.com/JoJos1220/adafruit_INA219_mock
+https://github.com/JoJos1220/adafruit_fram_i2C_mock
+https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib
+https://github.com/crane-elec/EthernetSP
