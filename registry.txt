@@ -7259,3 +7259,4 @@ https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
 https://github.com/GyverLibs/StreamIO.git|Contributed|StreamIO
 https://github.com/orcadom/DS4.git|Contributed|DS4
 https://github.com/SeeedJP/wio_cellular.git|Contributed|Wio Cellular
+https://github.com/drrnb/SingleSevenSegment.git|Contributed|SingleSevenSegment
