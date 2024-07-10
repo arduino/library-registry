@@ -1,3 +1,4 @@
+https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
 https://github.com/spaziochirale/ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500
