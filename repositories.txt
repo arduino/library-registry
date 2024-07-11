@@ -1,3 +1,4 @@
+https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
@@ -7164,5 +7165,4 @@ https://github.com/crane-elec/EthernetSP
 https://github.com/orcadom/DS4
 https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
-https://github.com/pu2clr/QN8066
 
