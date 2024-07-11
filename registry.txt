@@ -7265,3 +7265,4 @@ https://github.com/RBEGamer/HLK-LD2450.git|Contributed|HLK-LD2450
 https://github.com/bitbank2/zlib_turbo.git|Contributed|zlib_turbo
 https://github.com/microbotsio/CoilCell.git|Contributed|CoilCell
 https://github.com/Tympan/Tympan_Library.git|Contributed|Tympan_Library
+https://github.com/pu2clr/QN8066.git|Contributed|QN8066
