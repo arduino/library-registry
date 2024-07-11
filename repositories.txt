@@ -7164,3 +7164,5 @@ https://github.com/crane-elec/EthernetSP
 https://github.com/orcadom/DS4
 https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
+https://github.com/pu2clr/QN8066
+
