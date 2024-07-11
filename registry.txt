@@ -7264,3 +7264,4 @@ https://github.com/makerlabvn/MKL_DHT.git|Contributed|MKL_DHT sensor library
 https://github.com/RBEGamer/HLK-LD2450.git|Contributed|HLK-LD2450
 https://github.com/bitbank2/zlib_turbo.git|Contributed|zlib_turbo
 https://github.com/microbotsio/CoilCell.git|Contributed|CoilCell
+https://github.com/Tympan/Tympan_Library.git|Contributed|Tympan_Library
