@@ -7262,3 +7262,4 @@ https://github.com/SeeedJP/wio_cellular.git|Contributed|Wio Cellular
 https://github.com/drrnb/SingleSevenSegment.git|Contributed|SingleSevenSegment
 https://github.com/makerlabvn/MKL_DHT.git|Contributed|MKL_DHT sensor library
 https://github.com/RBEGamer/HLK-LD2450.git|Contributed|HLK-LD2450
+https://github.com/bitbank2/zlib_turbo.git|Contributed|zlib_turbo
