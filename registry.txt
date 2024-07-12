@@ -7266,3 +7266,4 @@ https://github.com/bitbank2/zlib_turbo.git|Contributed|zlib_turbo
 https://github.com/microbotsio/CoilCell.git|Contributed|CoilCell
 https://github.com/Tympan/Tympan_Library.git|Contributed|Tympan_Library
 https://github.com/pu2clr/QN8066.git|Contributed|QN8066
+https://github.com/makerlabvn/MKL_DS18B20.git|Contributed|MKL_DS18B20
