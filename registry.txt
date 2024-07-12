@@ -7196,7 +7196,6 @@ https://github.com/daguerpedro/MQSensor.git|Contributed|MQSensor
 https://github.com/crudlabs/StevesAwesomeButton.git|Contributed|StevesAwesomeButton
 https://github.com/superdinmc/MicroPOP32.git|Contributed|MicroPOP32
 https://github.com/pxsty0/DisCard.git|Contributed|DisCard
-https://github.com/tdk-invn-oss/motion.arduino.ICM45688P.git|Contributed|ICM45688P
 https://github.com/tdk-invn-oss/motion.arduino.ICM45686.git|Contributed|ICM45686
 https://github.com/tdk-invn-oss/motion.arduino.ICM45605.git|Contributed|ICM45605
 https://github.com/junkfix/esp32-rmt-ir.git|Contributed|esp32-rmt-ir
