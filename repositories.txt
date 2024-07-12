@@ -3532,6 +3532,7 @@ https://github.com/Locoduino/ScheduleTable
 https://github.com/Locoduino/SlowMotionServo
 https://github.com/LoganTraceur/LogansGreatButton
 https://github.com/logickworkshop/du-ino
+https://github.com/loginov-rocks/AwsIotWiFiClient
 https://github.com/loginov-rocks/UbxGps
 https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515
 https://github.com/loopj/i2c-sensor-hal
