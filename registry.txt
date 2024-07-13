@@ -7270,3 +7270,4 @@ https://github.com/makerlabvn/MKL_DS18B20.git|Contributed|MKL_DS18B20
 https://github.com/loginov-rocks/AwsIotWiFiClient.git|Contributed|AwsIotWiFiClient
 https://github.com/vvs551/IRRemoteESP32.git|Contributed|IRRemoteESP32
 https://github.com/makerlabvn/MKL_RTClib.git|Contributed|MKL_RTClib
+https://github.com/AbdulBasitKhatri/OLED_Display_SSD1306.git|Contributed|OLED_Display_SSD1306
