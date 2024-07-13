@@ -7271,3 +7271,4 @@ https://github.com/loginov-rocks/AwsIotWiFiClient.git|Contributed|AwsIotWiFiClie
 https://github.com/vvs551/IRRemoteESP32.git|Contributed|IRRemoteESP32
 https://github.com/makerlabvn/MKL_RTClib.git|Contributed|MKL_RTClib
 https://github.com/AbdulBasitKhatri/OLED_Display_SSD1306.git|Contributed|OLED_Display_SSD1306
+https://github.com/Hedrahexon/X9C103S.git|Contributed|X9C103S
