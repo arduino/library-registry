@@ -1801,6 +1801,7 @@ https://github.com/DFRobot/DFRobot_ICP10111
 https://github.com/DFRobot/DFRobot_ID809_I2C
 https://github.com/DFRobot/DFRobot_IICSerial
 https://github.com/DFRobot/DFRobot_IIS
+https://github.com/AlexMihai1804/Yeelight
 https://github.com/DFRobot/DFRobot_INA219
 https://github.com/DFRobot/DFRobot_ITG3200
 https://github.com/DFRobot/DFRobot_LcdDisplay
