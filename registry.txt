@@ -7278,3 +7278,4 @@ https://github.com/uutzinger/SavitzkyGolayFilter.git|Contributed|SavitzkyGolayFi
 https://github.com/AlexMihai1804/Yeelight.git|Contributed|Yeelight
 https://github.com/stemosofc/AraraLib.git|Contributed|Arara
 https://github.com/ConsentiumInc/ConsentiumThings.git|Contributed|ConsentiumThings
+https://github.com/PowerBroker2/DataLogger.git|Contributed|DataLogger
