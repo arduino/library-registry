@@ -7276,3 +7276,4 @@ https://github.com/vvs551/ESP_NOW_Network.git|Contributed|ESP_NOW_Network
 https://github.com/aadilmallick/ez-arduino.git|Contributed|EzArduino
 https://github.com/uutzinger/SavitzkyGolayFilter.git|Contributed|SavitzkyGolayFilter
 https://github.com/AlexMihai1804/Yeelight.git|Contributed|Yeelight
+https://github.com/stemosofc/AraraLib.git|Contributed|Arara
