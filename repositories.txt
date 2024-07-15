@@ -1544,7 +1544,7 @@ https://github.com/connornishijima/Pixie
 https://github.com/connornishijima/Pixie_Chroma
 https://github.com/connornishijima/Pixie_Chroma_Lite
 https://github.com/connornishijima/TinySnore
-https://github.com/ConsentiumInc/ConsentiumThingsDalton
+https://github.com/ConsentiumInc/ConsentiumThings
 https://github.com/constiko/RV-3028_C7-Arduino_Library
 https://github.com/contrem/arduino-timer
 https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
