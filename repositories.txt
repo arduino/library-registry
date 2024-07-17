@@ -1,3 +1,18 @@
+https://github.com/PowerBroker2/DataLogger
+https://github.com/stemosofc/AraraLib
+https://github.com/vvs551/ESP_NOW_Network
+https://github.com/Hedrahexon/X9C103S
+https://github.com/AbdulBasitKhatri/OLED_Display_SSD1306
+https://github.com/makerlabvn/MKL_RTClib
+https://github.com/vvs551/IRRemoteESP32
+https://github.com/aadilmallick/ez-arduino
+https://github.com/makerlabvn/MKL_DS18B20
+https://github.com/pu2clr/QN8066
+https://github.com/Tympan/Tympan_Library
+https://github.com/microbotsio/CoilCell
+https://github.com/RBEGamer/HLK-LD2450
+https://github.com/makerlabvn/MKL_DHT
+https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
 https://github.com/spaziochirale/ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500
@@ -1788,6 +1803,7 @@ https://github.com/DFRobot/DFRobot_ICP10111
 https://github.com/DFRobot/DFRobot_ID809_I2C
 https://github.com/DFRobot/DFRobot_IICSerial
 https://github.com/DFRobot/DFRobot_IIS
+https://github.com/AlexMihai1804/Yeelight
 https://github.com/DFRobot/DFRobot_INA219
 https://github.com/DFRobot/DFRobot_ITG3200
 https://github.com/DFRobot/DFRobot_LcdDisplay
@@ -3525,6 +3541,7 @@ https://github.com/Locoduino/ScheduleTable
 https://github.com/Locoduino/SlowMotionServo
 https://github.com/LoganTraceur/LogansGreatButton
 https://github.com/logickworkshop/du-ino
+https://github.com/loginov-rocks/AwsIotWiFiClient
 https://github.com/loginov-rocks/UbxGps
 https://github.com/Longan-Labs/Arduino_CAN_BUS_MCP2515
 https://github.com/loopj/i2c-sensor-hal
@@ -7156,3 +7173,9 @@ https://github.com/JoJos1220/adafruit_INA219_mock
 https://github.com/JoJos1220/adafruit_fram_i2C_mock
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib
 https://github.com/crane-elec/EthernetSP
+https://github.com/orcadom/DS4
+https://github.com/SeeedJP/wio_cellular
+https://github.com/bitbank2/zlib_turbo
+https://github.com/uutzinger/SavitzkyGolayFilter
+https://github.com/ConsentiumInc/ConsentiumThings
+https://github.com/iavorvel/MyLD2410
