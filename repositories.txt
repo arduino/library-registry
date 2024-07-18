@@ -27,7 +27,6 @@ https://github.com/spaziochirale/Chirale_TensorFlowLite
 https://github.com/tdk-invn-oss/motion.arduino.ICM42670S
 https://github.com/eloquentarduino/arduino-WebTerminal
 https://github.com/michaelnixonau/MaxLedControl
-https://github.com/tdk-invn-oss/motion.arduino.ICM45688P
 https://github.com/tdk-invn-oss/motion.arduino.ICM45686
 https://github.com/tdk-invn-oss/motion.arduino.ICM45605
 https://github.com/alexi-c/Primsteppermotor
