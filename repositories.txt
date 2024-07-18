@@ -7,6 +7,7 @@ https://github.com/makerlabvn/MKL_RTClib
 https://github.com/vvs551/IRRemoteESP32
 https://github.com/aadilmallick/ez-arduino
 https://github.com/makerlabvn/MKL_DS18B20
+https://github.com/KMESmart/KMESerial
 https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
