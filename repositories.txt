@@ -1029,9 +1029,7 @@ https://github.com/axelelettronica/sme-lsm6ds3-library
 https://github.com/axelelettronica/sme-nxp-st-library
 https://github.com/axelelettronica/sme-rn2483-library
 https://github.com/Aypac/Arduino-TR-064-SOAP-Library
-https://github.com/ayushsharma82/AsyncElegantOTA
 https://github.com/ayushsharma82/EasyDDNS
-https://github.com/ayushsharma82/EasyUI
 https://github.com/ayushsharma82/ElegantOTA
 https://github.com/ayushsharma82/ESP-DASH
 https://github.com/ayushsharma82/ESPConnect
