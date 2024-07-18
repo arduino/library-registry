@@ -7281,3 +7281,4 @@ https://github.com/ConsentiumInc/ConsentiumThings.git|Contributed|ConsentiumThin
 https://github.com/PowerBroker2/DataLogger.git|Contributed|DataLogger
 https://github.com/iavorvel/MyLD2410.git|Contributed|MyLD2410
 https://github.com/GyverLibs/Settings.git|Contributed|Settings
+https://github.com/KMESmart/KMESerial.git|Contributed|KMESerial
