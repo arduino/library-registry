@@ -7283,3 +7283,4 @@ https://github.com/iavorvel/MyLD2410.git|Contributed|MyLD2410
 https://github.com/GyverLibs/Settings.git|Contributed|Settings
 https://github.com/KMESmart/KMESerial.git|Contributed|KMESerial
 https://github.com/Sam4uk/RC.Easy.git|Contributed|RC.Easy
+https://github.com/ClemensAtElektor/Elektor_AudioDSP.git|Contributed|Elektor_AudioDSP
