@@ -5798,7 +5798,7 @@ https://github.com/adafruit/Adafruit_CAN.git|Contributed|Adafruit CAN
 https://github.com/teddokano/RTC_NXP_Arduino.git|Contributed|RTC_NXP_Arduino
 https://github.com/honvl/Seeed-Xiao-NRF52840-Battery.git|Contributed|Xiao NRF52840 Battery
 https://github.com/Gfy63/NE555.git|Contributed|NE555
-https://github.com/jhagas/ESP32-Supabase.git|Contributed|ESPSupabase
+https://github.com/jhagas/ESPSupabase.git|Contributed|ESPSupabase
 https://github.com/Dhanabhon/TomIBT2.git|Contributed|TomIBT2
 https://github.com/teddokano/LCDDriver_NXP_Arduino.git|Contributed|LCDDrivers_NXP_Arduino
 https://github.com/peanut-king-solution/PeanutKing_ArduinoShield.git|Contributed|PeanutKing ArduinoShield
