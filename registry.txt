@@ -7282,3 +7282,4 @@ https://github.com/KMESmart/KMESerial.git|Contributed|KMESerial
 https://github.com/Sam4uk/RC.Easy.git|Contributed|RC.Easy
 https://github.com/ClemensAtElektor/Elektor_AudioDSP.git|Contributed|Elektor_AudioDSP
 https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver.git|Contributed|IOXESP32_4-20mA_Receiver
+https://github.com/jamesy0ung/MPXHZ6116A.git|Contributed|MPXHZ6116A
