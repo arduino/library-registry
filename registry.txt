@@ -7286,3 +7286,4 @@ https://github.com/jamesy0ung/MPXHZ6116A.git|Contributed|MPXHZ6116A
 https://github.com/mgoblin/ArduinoSplashScreen.git|Contributed|SplashScreen
 https://github.com/jackjansen/esp32_idf5_https_server.git|Contributed|ESP32_IDF5_HTTPS_Server
 https://github.com/jackjansen/esp32_idf5_https_server_compat.git|Contributed|esp32_idf5_https_server_compat
+https://github.com/Morgritech/MT-arduino-pin-debouncer.git|Contributed|MT-arduino-pin-debouncer
