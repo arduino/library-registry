@@ -1,3 +1,5 @@
+https://github.com/jackjansen/esp32_idf5_https_server
+https://github.com/jackjansen/esp32_idf5_https_server_compat
 https://github.com/jamesy0ung/MPXHZ6116A
 https://github.com/ClemensAtElektor/Elektor_AudioDSP
 https://github.com/PowerBroker2/DataLogger
