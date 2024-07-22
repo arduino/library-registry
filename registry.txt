@@ -7287,3 +7287,4 @@ https://github.com/mgoblin/ArduinoSplashScreen.git|Contributed|SplashScreen
 https://github.com/jackjansen/esp32_idf5_https_server.git|Contributed|ESP32_IDF5_HTTPS_Server
 https://github.com/jackjansen/esp32_idf5_https_server_compat.git|Contributed|esp32_idf5_https_server_compat
 https://github.com/Morgritech/MT-arduino-pin-debouncer.git|Contributed|MT-arduino-pin-debouncer
+https://github.com/m5stack/M5Unit-BLDC.git|Contributed|M5Unit-BLDC
