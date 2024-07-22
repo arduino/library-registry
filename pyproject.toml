@@ -12,7 +12,7 @@ license = "CC0-1.0"
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
-pytest = "^8.2.2"
+pytest = "^8.3.1"
 invoke = "^2.2.0"
 black = "^24.4"
 flake8 = "^7.1.0"
