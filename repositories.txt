@@ -5803,6 +5803,7 @@ https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino
 https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LSM9DS1TR-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-BMP280-Arduino-Library
 https://github.com/solderparty/arduino_bbq10kbd
 https://github.com/solderparty/arduino_tsc2004
 https://github.com/solidsnake745/MIDI_Device_Controller
