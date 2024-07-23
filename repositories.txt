@@ -5296,6 +5296,7 @@ https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
 https://github.com/RobTillaart/Statistic
 https://github.com/RobTillaart/StopWatch_RT
+https://github.com/RobTillaart/Student
 https://github.com/RobTillaart/SWSerialOut
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
