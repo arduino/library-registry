@@ -2744,6 +2744,7 @@ https://github.com/HullabalooRobotics/Hyperduino-Library
 https://github.com/HullabalooRobotics/Soldering-Machine
 https://github.com/hunamizawa/ESPPerfectTime
 https://github.com/hunsalz/log4Esp
+https://github.com/husarnet/husarnet-esp32-arduino
 https://github.com/hutorny/cojson.lib
 https://github.com/hvanvoorthuijsen/InkyBoard
 https://github.com/hydra/arduino-ICM42605
