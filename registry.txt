@@ -7293,3 +7293,4 @@ https://github.com/peomcherry/DJIMotorAlgoESP.git|Contributed|DJIMotorAlgoESP
 https://github.com/IoliteCoding/IoliteCoding_SerialCommands.git|Contributed|IoliteCoding SerialCommands
 https://github.com/johngavel/Terminal.git|Contributed|Terminal
 https://github.com/Morgritech/MT-arduino-momentary-button.git|Contributed|MT-arduino-momentary-button
+https://github.com/RobTillaart/Student.git|Contributed|Student
