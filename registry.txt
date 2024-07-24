@@ -7298,3 +7298,5 @@ https://github.com/husarnet/husarnet-esp32-arduino.git|Contributed|Husarnet ESP3
 https://github.com/SolderedElectronics/Soldered-LSM9DS1TR-Arduino-Library.git|Contributed|Soldered LSM9DS1TR Arduino Library
 https://github.com/SolderedElectronics/Soldered-BMP280-Arduino-Library.git|Contributed|Soldered BMP280 Arduino Library
 https://github.com/senseshift/arduino-ble-serial.git|Contributed|Serial_BLE
+https://github.com/stm32duino/VL53L7CH.git|Contributed|STM32duino VL53L7CH
+https://github.com/stm32duino/VL53L8CH.git|Contributed|STM32duino VL53L8CH
