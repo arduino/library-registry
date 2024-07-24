@@ -7297,3 +7297,4 @@ https://github.com/RobTillaart/Student.git|Contributed|Student
 https://github.com/husarnet/husarnet-esp32-arduino.git|Contributed|Husarnet ESP32
 https://github.com/SolderedElectronics/Soldered-LSM9DS1TR-Arduino-Library.git|Contributed|Soldered LSM9DS1TR Arduino Library
 https://github.com/SolderedElectronics/Soldered-BMP280-Arduino-Library.git|Contributed|Soldered BMP280 Arduino Library
+https://github.com/senseshift/arduino-ble-serial.git|Contributed|Serial_BLE
