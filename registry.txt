@@ -7301,3 +7301,4 @@ https://github.com/senseshift/arduino-ble-serial.git|Contributed|Serial_BLE
 https://github.com/stm32duino/VL53L7CH.git|Contributed|STM32duino VL53L7CH
 https://github.com/stm32duino/VL53L8CH.git|Contributed|STM32duino VL53L8CH
 https://github.com/kanitawa/VersatileSwitch.git|Contributed|VersatileSwitch
+https://github.com/Infineon/arduino-xensiv-3d-magnetic-sensor-tlx493d.git|Contributed|XENSIV 3D Magnetic Sensor TLx493D
