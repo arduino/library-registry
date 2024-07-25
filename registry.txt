@@ -7300,3 +7300,4 @@ https://github.com/SolderedElectronics/Soldered-BMP280-Arduino-Library.git|Contr
 https://github.com/senseshift/arduino-ble-serial.git|Contributed|Serial_BLE
 https://github.com/stm32duino/VL53L7CH.git|Contributed|STM32duino VL53L7CH
 https://github.com/stm32duino/VL53L8CH.git|Contributed|STM32duino VL53L8CH
+https://github.com/kanitawa/VersatileSwitch.git|Contributed|VersatileSwitch
