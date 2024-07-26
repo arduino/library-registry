@@ -7204,4 +7204,4 @@ https://github.com/senseshift/arduino-ble-serial
 https://github.com/stm32duino/VL53L7CH
 https://github.com/stm32duino/VL53L8CH
 https://github.com/Arathierl/Home-Automation-library
-https://github.com/Arathierl/Bluetooth-Controlled-robot
+https://github.com/Arathierl/Bluetooth-Controlled-robot.git
