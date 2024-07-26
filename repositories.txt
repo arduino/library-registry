@@ -7203,4 +7203,4 @@ https://github.com/mgoblin/ArduinoSplashScreen
 https://github.com/senseshift/arduino-ble-serial
 https://github.com/stm32duino/VL53L7CH
 https://github.com/stm32duino/VL53L8CH
-https://github.com/protheeuz/AsyncWebServerESP.git
+https://github.com/protheeuz/AsyncWebServerESP
