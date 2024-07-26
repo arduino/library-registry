@@ -1,3 +1,4 @@
+https://github.com/davidlmorris/debuggery
 https://github.com/Infineon/arduino-xensiv-3d-magnetic-sensor-tlx493d
 https://github.com/Morgritech/MT-arduino-momentary-button
 https://github.com/johngavel/Terminal
@@ -3685,6 +3686,7 @@ https://github.com/m5stack/M5-FPC1020A
 https://github.com/m5stack/M5-LoRa-E220-JP
 https://github.com/m5stack/M5-LoRaWAN
 https://github.com/m5stack/M5-RoverC
+https://github.com/m5stack/M5-STHS34PF80
 https://github.com/m5stack/M5Atom
 https://github.com/m5stack/M5AtomS3
 https://github.com/m5stack/M5BurnerNVS
