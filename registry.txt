@@ -7306,3 +7306,4 @@ https://github.com/davidlmorris/debuggery.git|Contributed|debuggery
 https://github.com/m5stack/M5-STHS34PF80.git|Contributed|M5-STHS34PF80
 https://github.com/protheeuz/AsyncWebServerESP.git|Contributed|ESP Async Web Server
 https://github.com/JoelJojoP/SimpleIMU.git|Contributed|SimpleIMU
+https://github.com/GyverLibs/GyverDS3231.git|Contributed|GyverDS3231
