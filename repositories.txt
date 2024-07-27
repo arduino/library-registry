@@ -7205,3 +7205,4 @@ https://github.com/stm32duino/VL53L7CH
 https://github.com/stm32duino/VL53L8CH
 https://github.com/protheeuz/AsyncWebServerESP.git
 https://github.com/Arathierl/RobotControl.git
+https://github.com/JoelJojoP/SimpleIMU
