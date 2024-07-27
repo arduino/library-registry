@@ -1,3 +1,15 @@
+https://github.com/davidlmorris/debuggery
+https://github.com/Infineon/arduino-xensiv-3d-magnetic-sensor-tlx493d
+https://github.com/Morgritech/MT-arduino-momentary-button
+https://github.com/johngavel/Terminal
+https://github.com/IoliteCoding/IoliteCoding_SerialCommands
+https://github.com/jamesy0ung/MPXA6115A
+https://github.com/peomcherry/DJIMotorAlgoESP
+https://github.com/Morgritech/MT-arduino-pin-debouncer
+https://github.com/jackjansen/esp32_idf5_https_server
+https://github.com/jackjansen/esp32_idf5_https_server_compat
+https://github.com/jamesy0ung/MPXHZ6116A
+https://github.com/ClemensAtElektor/Elektor_AudioDSP
 https://github.com/PowerBroker2/DataLogger
 https://github.com/stemosofc/AraraLib
 https://github.com/vvs551/ESP_NOW_Network
@@ -7,6 +19,7 @@ https://github.com/makerlabvn/MKL_RTClib
 https://github.com/vvs551/IRRemoteESP32
 https://github.com/aadilmallick/ez-arduino
 https://github.com/makerlabvn/MKL_DS18B20
+https://github.com/KMESmart/KMESerial
 https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
@@ -25,7 +38,6 @@ https://github.com/spaziochirale/Chirale_TensorFlowLite
 https://github.com/tdk-invn-oss/motion.arduino.ICM42670S
 https://github.com/eloquentarduino/arduino-WebTerminal
 https://github.com/michaelnixonau/MaxLedControl
-https://github.com/tdk-invn-oss/motion.arduino.ICM45688P
 https://github.com/tdk-invn-oss/motion.arduino.ICM45686
 https://github.com/tdk-invn-oss/motion.arduino.ICM45605
 https://github.com/alexi-c/Primsteppermotor
@@ -69,6 +81,7 @@ https://github.com/NightHawk-Technology/NH8CHIR-lib
 https://github.com/hassanalitamam/Car_robot/
 https://github.com/nayooooo/StreamDeviceAT
 https://github.com/1ux/LED_RGB_Control
+https://github.com/kanitawa/VersatileSwitch
 https://github.com/1ux/DCF77Decode
 https://github.com/tdk-invn-oss/ultrasonic.arduino.CHx01
 https://github.com/stefangs/arduino-library-at24cxxx
@@ -110,7 +123,7 @@ https://github.com/2taras/espwifiarduino_ide_lib
 https://github.com/x0x0200/VARSTEP_ultrasonic
 https://github.com/StefanHerald/Timing
 https://github.com/tdk-invn-oss/pressure.arduino.ICP201XX
-https://github.com/DigitalCodesign/DC-Core-Library
+https://github.com/DigitalCodesign/MentorBit-Library
 https://github.com/tabahi/ESP-Wifi-Config
 https://github.com/tabahi/TabahiConsole
 https://github.com/karolis1115/FTPduino
@@ -1027,9 +1040,7 @@ https://github.com/axelelettronica/sme-lsm6ds3-library
 https://github.com/axelelettronica/sme-nxp-st-library
 https://github.com/axelelettronica/sme-rn2483-library
 https://github.com/Aypac/Arduino-TR-064-SOAP-Library
-https://github.com/ayushsharma82/AsyncElegantOTA
 https://github.com/ayushsharma82/EasyDDNS
-https://github.com/ayushsharma82/EasyUI
 https://github.com/ayushsharma82/ElegantOTA
 https://github.com/ayushsharma82/ESP-DASH
 https://github.com/ayushsharma82/ESPConnect
@@ -2736,6 +2747,7 @@ https://github.com/HullabalooRobotics/Hyperduino-Library
 https://github.com/HullabalooRobotics/Soldering-Machine
 https://github.com/hunamizawa/ESPPerfectTime
 https://github.com/hunsalz/log4Esp
+https://github.com/husarnet/husarnet-esp32-arduino
 https://github.com/hutorny/cojson.lib
 https://github.com/hvanvoorthuijsen/InkyBoard
 https://github.com/hydra/arduino-ICM42605
@@ -3674,6 +3686,7 @@ https://github.com/m5stack/M5-FPC1020A
 https://github.com/m5stack/M5-LoRa-E220-JP
 https://github.com/m5stack/M5-LoRaWAN
 https://github.com/m5stack/M5-RoverC
+https://github.com/m5stack/M5-STHS34PF80
 https://github.com/m5stack/M5Atom
 https://github.com/m5stack/M5AtomS3
 https://github.com/m5stack/M5BurnerNVS
@@ -3723,6 +3736,7 @@ https://github.com/m5stack/M5Unit-ToF4M
 https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-QRCode
 https://github.com/m5stack/M5Unit-Synth
+https://github.com/m5stack/M5Unit-BLDC
 https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
@@ -5287,6 +5301,7 @@ https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
 https://github.com/RobTillaart/Statistic
 https://github.com/RobTillaart/StopWatch_RT
+https://github.com/RobTillaart/Student
 https://github.com/RobTillaart/SWSerialOut
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9555
@@ -5387,6 +5402,7 @@ https://github.com/sam-peach/Adafruit_SSD1306_EMULATOR
 https://github.com/Sam4uk/CRSF
 https://github.com/Sam4uk/Password
 https://github.com/Sam4uk/Filter.Easy
+https://github.com/Sam4uk/RC.Easy
 https://github.com/Sam4uk/Tools.Easy
 https://github.com/Sam4uk/WD.Easy
 https://github.com/samelement/ACS-M1128
@@ -5790,6 +5806,8 @@ https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Libra
 https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-LSM9DS1TR-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-BMP280-Arduino-Library
 https://github.com/solderparty/arduino_bbq10kbd
 https://github.com/solderparty/arduino_tsc2004
 https://github.com/solidsnake745/MIDI_Device_Controller
@@ -7180,3 +7198,10 @@ https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/ConsentiumInc/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
+https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver
+https://github.com/mgoblin/ArduinoSplashScreen
+https://github.com/senseshift/arduino-ble-serial
+https://github.com/stm32duino/VL53L7CH
+https://github.com/stm32duino/VL53L8CH
+https://github.com/protheeuz/AsyncWebServerESP.git
+https://github.com/JoelJojoP/SimpleIMU
