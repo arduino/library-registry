@@ -7308,3 +7308,4 @@ https://github.com/protheeuz/AsyncWebServerESP.git|Contributed|ESP Async Web Ser
 https://github.com/JoelJojoP/SimpleIMU.git|Contributed|SimpleIMU
 https://github.com/GyverLibs/GyverDS3231.git|Contributed|GyverDS3231
 https://github.com/mathieucarbou/MycilaDS18.git|Contributed|MycilaDS18
+https://github.com/mathieucarbou/MycilaWebSerial.git|Contributed|MycilaWebSerial
