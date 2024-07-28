@@ -6376,7 +6376,6 @@ https://gitlab.com/F-Schmidt/ulm_weatherballoon.git|Contributed|Ulm_Weatherballo
 https://github.com/InterstitialTech/quadrant-lib.git|Contributed|Interstitial Quadrant
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library.git|Contributed|SparkFun STHS34PF80 Arduino Library
 https://github.com/tech-box-io/TB_TFT_eSPI.git|Contributed|TB_TFT_eSPI
-https://github.com/ConsentiumInc/ConsentiumThingsDalton.git|Contributed|ConsentiumThingsDalton
 https://github.com/NitrofMtl/DUE_ADC_Oversampler.git|Contributed|DUE_ADC_Oversampler
 https://github.com/AITINKR/AITINKR_SHIELDS.git|Contributed|AITINKR_SHIELDS
 https://github.com/BestModules-Libraries/BM25S3321-1.git|Contributed|BM25S3321-1
