@@ -7311,3 +7311,4 @@ https://github.com/mathieucarbou/MycilaDS18.git|Contributed|MycilaDS18
 https://github.com/mathieucarbou/MycilaWebSerial.git|Contributed|MycilaWebSerial
 https://github.com/mathieucarbou/MycilaUtilities.git|Contributed|MycilaUtilities
 https://github.com/mathieucarbou/MycilaSystem.git|Contributed|MycilaSystem
+https://github.com/boschsensortec/Bosch-BSEC2-Library.git|Contributed|bsec2
