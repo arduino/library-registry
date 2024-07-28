@@ -2170,6 +2170,7 @@ https://github.com/evert-arias/EasyBuzzer
 https://github.com/evert-arias/LedSync
 https://github.com/evert-arias/MyBlinker
 https://github.com/evivetoolkit/evive-Library
+https://github.com/EVNdevs/EVN-arduino
 https://github.com/EvTheFuture/WebConsole
 https://github.com/ewertons/esp32-azureiotkit-sensors
 https://github.com/ewpa/LibSSH-ESP32
