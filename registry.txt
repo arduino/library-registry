@@ -4814,7 +4814,6 @@ https://github.com/vurdalakov/radsensboard.git|Contributed|RadSensBoard
 https://github.com/Kineis/KIM_Arduino_Library.git|Contributed|KIM Arduino Library
 https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library.git|Contributed|SparkFun Qwiic OLED Arduino Library
 https://github.com/n-wach/camino.git|Contributed|Camino
-https://github.com/PowerBroker2/navduino.git|Contributed|navduino
 https://github.com/khoih-prog/MQTTPubSubClient_Generic.git|Contributed|MQTTPubSubClient_Generic
 https://github.com/usini/usini_discord_webhook.git|Contributed|Discord_WebHook
 https://github.com/srwi/FastLEDHub.git|Contributed|FastLEDHub
