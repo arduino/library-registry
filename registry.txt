@@ -4502,7 +4502,7 @@ https://github.com/DFRobot/DFRobot_VEML7700.git|Contributed|DFRobot_VEML7700
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_VisualRotaryEncoder
 https://github.com/GyverLibs/GyverHTU21D.git|Contributed|GyverHTU21D
 https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
-https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
+https://github.com/TcMenu/SimpleCollections.git|Contributed|SimpleCollections
 https://github.com/Azure/azure-sdk-for-c-arduino.git|Contributed|Azure SDK for C
 https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
 https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
