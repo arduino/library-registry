@@ -5566,7 +5566,7 @@ https://github.com/m5stack/M5Module-4IN8OUT.git|Contributed|MODULE_4IN8OUT
 https://github.com/nw2s/nw2s_portenta_SSD1322.git|Contributed|nw2s_portenta_SSD1322
 https://github.com/RobTillaart/LUHN.git|Contributed|LUHN
 https://github.com/happy12/SPL06-001.git|Contributed|SPL06-001
-https://github.com/davetcc/tcUnicodeHelper.git|Contributed|tcUnicodeHelper
+https://github.com/TcMenu/tcUnicodeHelper.git|Contributed|tcUnicodeHelper
 https://github.com/RobTillaart/AtomicWeight.git|Contributed|AtomicWeight
 https://github.com/Matrixchung/SFM-V1.7.git|Contributed|SFM-V1.7
 https://github.com/matthewturner/EventuallyStateMachine.git|Contributed|EventuallyStateMachine
