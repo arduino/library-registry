@@ -1328,6 +1328,7 @@ https://github.com/boothinator/ProgmemAssert
 https://github.com/boothinator/TimerExtensions
 https://github.com/BoschSensortec/Bosch-BME68x-Library
 https://github.com/BoschSensortec/BSEC-Arduino-library
+https://github.com/boschsensortec/Bosch-BSEC2-Library
 https://github.com/botletics/Botletics-SIM7000
 https://github.com/Botly-Studio/Botly-Library
 https://github.com/boxtec/Witty
