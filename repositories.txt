@@ -1,6 +1,7 @@
 https://github.com/PowerBroker2/Units
 https://github.com/PowerBroker2/NMEA_Parser
 https://github.com/davidlmorris/debuggery
+https://github.com/fmeng/UserManager
 https://github.com/Infineon/arduino-xensiv-3d-magnetic-sensor-tlx493d
 https://github.com/Morgritech/MT-arduino-momentary-button
 https://github.com/johngavel/Terminal
@@ -1559,7 +1560,6 @@ https://github.com/connornishijima/Pixie
 https://github.com/connornishijima/Pixie_Chroma
 https://github.com/connornishijima/Pixie_Chroma_Lite
 https://github.com/connornishijima/TinySnore
-https://github.com/ConsentiumInc/ConsentiumThingsDalton
 https://github.com/constiko/RV-3028_C7-Arduino_Library
 https://github.com/contrem/arduino-timer
 https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
@@ -1668,12 +1668,12 @@ https://github.com/datacute/TinyOLED-Fonts
 https://github.com/DatavenueLiveObjects/LiveObjects_SDK_for_Arduino
 https://github.com/dattasaurabh82/RV8803Tiny
 https://github.com/dattasaurabh82/TinyMegaI2C
-https://github.com/davetcc/IoAbstraction
-https://github.com/davetcc/LiquidCrystalIO
-https://github.com/davetcc/SimpleCollections
-https://github.com/davetcc/TaskManagerIO
-https://github.com/davetcc/tcMenuLib
-https://github.com/davetcc/tcUnicodeHelper
+https://github.com/TcMenu/IoAbstraction
+https://github.com/TcMenu/LiquidCrystalIO
+https://github.com/TcMenu/SimpleCollections
+https://github.com/TcMenu/TaskManagerIO
+https://github.com/TcMenu/tcMenuLib
+https://github.com/TcMenu/tcUnicodeHelper
 https://github.com/david1983/eBtn
 https://github.com/DavidArmstrong/SCL3300
 https://github.com/DavidArmstrong/SiderealObjects
@@ -2988,7 +2988,6 @@ https://github.com/jgOhYeah/LCDGraph
 https://github.com/jgOhYeah/TunePlayer
 https://github.com/jgromes/RadioLib
 https://github.com/jgvmonteiro/SerialBus
-https://github.com/jhagas/ESP32-Supabase
 https://github.com/JHershey69/DarkSkySevenDay
 https://github.com/jhershey69/MoonStruck
 https://github.com/JHershey69/OpenWeatherOneCall
@@ -7208,6 +7207,7 @@ https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/ConsentiumInc/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
+https://github.com/jhagas/ESPSupabase
 https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver
 https://github.com/mgoblin/ArduinoSplashScreen
 https://github.com/senseshift/arduino-ble-serial
