@@ -2987,7 +2987,6 @@ https://github.com/jgOhYeah/LCDGraph
 https://github.com/jgOhYeah/TunePlayer
 https://github.com/jgromes/RadioLib
 https://github.com/jgvmonteiro/SerialBus
-https://github.com/jhagas/ESP32-Supabase
 https://github.com/JHershey69/DarkSkySevenDay
 https://github.com/jhershey69/MoonStruck
 https://github.com/JHershey69/OpenWeatherOneCall
@@ -7207,6 +7206,7 @@ https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/ConsentiumInc/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
+https://github.com/jhagas/ESPSupabase
 https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver
 https://github.com/mgoblin/ArduinoSplashScreen
 https://github.com/senseshift/arduino-ble-serial
