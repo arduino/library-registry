@@ -7318,3 +7318,4 @@ https://github.com/PowerBroker2/NMEA_Parser.git|Contributed|NMEA_Parser
 https://github.com/kanitawa/RotEnc.git|Contributed|RotEnc
 https://github.com/GyverLibs/FastBot2.git|Contributed|FastBot2
 https://github.com/fmeng/UserManager.git|Contributed|UserManager
+https://github.com/GyverLibs/FOR_MACRO.git|Contributed|FOR_MACRO
