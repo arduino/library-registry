@@ -1,3 +1,5 @@
+https://github.com/PowerBroker2/Units
+https://github.com/PowerBroker2/NMEA_Parser
 https://github.com/davidlmorris/debuggery
 https://github.com/Infineon/arduino-xensiv-3d-magnetic-sensor-tlx493d
 https://github.com/Morgritech/MT-arduino-momentary-button
@@ -1328,6 +1330,7 @@ https://github.com/boothinator/ProgmemAssert
 https://github.com/boothinator/TimerExtensions
 https://github.com/BoschSensortec/Bosch-BME68x-Library
 https://github.com/BoschSensortec/BSEC-Arduino-library
+https://github.com/boschsensortec/Bosch-BSEC2-Library
 https://github.com/botletics/Botletics-SIM7000
 https://github.com/Botly-Studio/Botly-Library
 https://github.com/boxtec/Witty
@@ -2169,6 +2172,7 @@ https://github.com/evert-arias/EasyBuzzer
 https://github.com/evert-arias/LedSync
 https://github.com/evert-arias/MyBlinker
 https://github.com/evivetoolkit/evive-Library
+https://github.com/EVNdevs/EVN-arduino
 https://github.com/EvTheFuture/WebConsole
 https://github.com/ewertons/esp32-azureiotkit-sensors
 https://github.com/ewpa/LibSSH-ESP32
@@ -2499,6 +2503,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverDS3231
 https://github.com/GyverLibs/Settings
 https://github.com/GyverLibs/StreamIO
 https://github.com/GyverLibs/GyverDB
@@ -3880,6 +3885,7 @@ https://github.com/Mathieu52/GPSP
 https://github.com/mathieucarbou/AsyncTCP
 https://github.com/mathieucarbou/ESPAsyncWebServer
 https://github.com/mathieucarbou/MycilaConfig
+https://github.com/mathieucarbou/MycilaDS18
 https://github.com/mathieucarbou/MycilaEasyDisplay
 https://github.com/mathieucarbou/MycilaESPConnect
 https://github.com/mathieucarbou/MycilaHADiscovery
@@ -3889,9 +3895,12 @@ https://github.com/mathieucarbou/MycilaMQTT
 https://github.com/mathieucarbou/MycilaNTP
 https://github.com/mathieucarbou/MycilaPZEM004Tv3
 https://github.com/mathieucarbou/MycilaRelay
+https://github.com/mathieucarbou/MycilaSystem
 https://github.com/mathieucarbou/MycilaTaskManager
 https://github.com/mathieucarbou/MycilaTaskMonitor
 https://github.com/mathieucarbou/MycilaTrial
+https://github.com/mathieucarbou/MycilaUtilities
+https://github.com/mathieucarbou/MycilaWebSerial
 https://github.com/mathworks/thingspeak-arduino
 https://github.com/matmunk/DS18B20
 https://github.com/matmunk/LiquidCrystal_74HC595
@@ -7205,4 +7214,6 @@ https://github.com/stm32duino/VL53L7CH
 https://github.com/stm32duino/VL53L8CH
 https://github.com/protheeuz/AsyncWebServerESP.git
 https://github.com/Arathierl/RobotControl.git
+https://github.com/protheeuz/AsyncWebServerESP
 https://github.com/JoelJojoP/SimpleIMU
+https://github.com/vickash/RotaryEncoderPCNT
