@@ -7317,3 +7317,4 @@ https://github.com/vickash/RotaryEncoderPCNT.git|Contributed|RotaryEncoderPCNT
 https://github.com/PowerBroker2/Units.git|Contributed|Units
 https://github.com/PowerBroker2/NMEA_Parser.git|Contributed|NMEA_Parser
 https://github.com/kanitawa/RotEnc.git|Contributed|RotEnc
+https://github.com/GyverLibs/FastBot2.git|Contributed|FastBot2
