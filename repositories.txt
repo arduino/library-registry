@@ -1,6 +1,7 @@
 https://github.com/PowerBroker2/Units
 https://github.com/PowerBroker2/NMEA_Parser
 https://github.com/davidlmorris/debuggery
+https://github.com/fmeng/ArduinoPlatformIOLibrary
 https://github.com/Infineon/arduino-xensiv-3d-magnetic-sensor-tlx493d
 https://github.com/Morgritech/MT-arduino-momentary-button
 https://github.com/johngavel/Terminal
