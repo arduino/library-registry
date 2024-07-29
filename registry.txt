@@ -1864,7 +1864,7 @@ https://github.com/dycodex/ESPectro32.git|Contributed|ESPectro32
 https://github.com/tobiasschuerg/MH-Z-CO2-Sensors.git|Contributed|MH-Z CO2 Sensors
 https://github.com/zischknall/BohleBots_BNO055.git|Contributed|BohleBots_BNO055
 https://github.com/end2endzone/BitReader.git|Contributed|BitReader
-https://github.com/davetcc/IoAbstraction.git|Contributed|IoAbstraction
+https://github.com/TcMenu/IoAbstraction.git|Contributed|IoAbstraction
 https://github.com/sadr0b0t/arduino-timer-api.git|Contributed|arduino-timer-api
 https://bitbucket.org/christandlg/as3935mi.git|Contributed|AS3935MI
 https://github.com/sixfab/Sixfab_Arduino_CellularIoT_Library.git|Contributed|Sixfab_CellularIoT
@@ -3001,7 +3001,7 @@ https://github.com/RobTillaart/DHTNew.git|Contributed|DHTNEW
 https://github.com/gicking/LIN_master_Arduino.git|Contributed|LIN master emulation with background operation
 https://github.com/RobTillaart/DistanceTable.git|Contributed|DistanceTable
 https://github.com/Nargott/birdhouse_sdk.git|Contributed|BirdhouseSDK
-https://github.com/davetcc/LiquidCrystalIO.git|Contributed|LiquidCrystalIO
+https://github.com/TcMenu/LiquidCrystalIO.git|Contributed|LiquidCrystalIO
 https://github.com/RobTillaart/FastShiftIn.git|Contributed|FastShiftIn
 https://github.com/RobTillaart/FastShiftOut.git|Contributed|FastShiftOut
 https://github.com/Asyasyarif/RFID-Spacecat.git|Contributed|Spacecat
@@ -3067,7 +3067,7 @@ https://github.com/jmparatte/jm_LCM2004A_I2C.git|Contributed|jm_LCM2004A_I2C
 https://github.com/tanakamasayuki/LinxESP32.git|Contributed|LinxESP32
 https://github.com/saghonfly/SimpleEspNowConnection.git|Contributed|SimpleEspNowConnection
 https://github.com/CelliesProjects/moonPhase-esp32.git|Contributed|MoonPhase
-https://github.com/davetcc/tcMenuLib.git|Contributed|tcMenu
+https://github.com/TcMenu/tcMenuLib.git|Contributed|tcMenu
 https://github.com/ostaquet/Arduino-MQ131-driver.git|Contributed|MQ131 gas sensor
 https://github.com/sparkfun/SparkFun_PHT_MS8607_Arduino_Library.git|Contributed|SparkFun PHT MS8607 Arduino Library
 https://github.com/LAtimes2/InternalTemperature.git|Contributed|InternalTemperature
@@ -3363,7 +3363,7 @@ https://github.com/WPIRoboticsEngineering/wpi-32u4-library.git|Contributed|wpi-3
 https://github.com/freaklabs/cmdArduino.git|Contributed|cmdArduino
 https://github.com/keimochizuki/cgnuino.git|Contributed|cgnuino
 https://github.com/openmv/openmv-arduino-rpc.git|Contributed|OpenMV Arduino RPC
-https://github.com/davetcc/TaskManagerIO.git|Contributed|TaskManagerIO
+https://github.com/TcMenu/TaskManagerIO.git|Contributed|TaskManagerIO
 https://github.com/milador/EasyMorse.git|Contributed|EasyMorse
 https://github.com/m5stack/M5Core2.git|Contributed|M5Core2
 https://github.com/HNRobotica/LineTracker5.git|Contributed|LineTracker5 Library
@@ -4502,7 +4502,7 @@ https://github.com/DFRobot/DFRobot_VEML7700.git|Contributed|DFRobot_VEML7700
 https://github.com/DFRobot/DFRobot_VisualRotaryEncoder.git|Contributed|DFRobot_VisualRotaryEncoder
 https://github.com/GyverLibs/GyverHTU21D.git|Contributed|GyverHTU21D
 https://github.com/kolabse/KolabseCarsCan.git|Contributed|KolabseCarsCan
-https://github.com/davetcc/SimpleCollections.git|Contributed|SimpleCollections
+https://github.com/TcMenu/SimpleCollections.git|Contributed|SimpleCollections
 https://github.com/Azure/azure-sdk-for-c-arduino.git|Contributed|Azure SDK for C
 https://github.com/Coder-X15/MCUOS.git|Contributed|MCUOS
 https://github.com/John-Karatka/24LC64F.git|Contributed|EEPROM_24LC64F
@@ -5566,7 +5566,7 @@ https://github.com/m5stack/M5Module-4IN8OUT.git|Contributed|MODULE_4IN8OUT
 https://github.com/nw2s/nw2s_portenta_SSD1322.git|Contributed|nw2s_portenta_SSD1322
 https://github.com/RobTillaart/LUHN.git|Contributed|LUHN
 https://github.com/happy12/SPL06-001.git|Contributed|SPL06-001
-https://github.com/davetcc/tcUnicodeHelper.git|Contributed|tcUnicodeHelper
+https://github.com/TcMenu/tcUnicodeHelper.git|Contributed|tcUnicodeHelper
 https://github.com/RobTillaart/AtomicWeight.git|Contributed|AtomicWeight
 https://github.com/Matrixchung/SFM-V1.7.git|Contributed|SFM-V1.7
 https://github.com/matthewturner/EventuallyStateMachine.git|Contributed|EventuallyStateMachine
@@ -5798,7 +5798,7 @@ https://github.com/adafruit/Adafruit_CAN.git|Contributed|Adafruit CAN
 https://github.com/teddokano/RTC_NXP_Arduino.git|Contributed|RTC_NXP_Arduino
 https://github.com/honvl/Seeed-Xiao-NRF52840-Battery.git|Contributed|Xiao NRF52840 Battery
 https://github.com/Gfy63/NE555.git|Contributed|NE555
-https://github.com/jhagas/ESP32-Supabase.git|Contributed|ESP32 Supabase
+https://github.com/jhagas/ESPSupabase.git|Contributed|ESPSupabase
 https://github.com/Dhanabhon/TomIBT2.git|Contributed|TomIBT2
 https://github.com/teddokano/LCDDriver_NXP_Arduino.git|Contributed|LCDDrivers_NXP_Arduino
 https://github.com/peanut-king-solution/PeanutKing_ArduinoShield.git|Contributed|PeanutKing ArduinoShield
@@ -6376,7 +6376,6 @@ https://gitlab.com/F-Schmidt/ulm_weatherballoon.git|Contributed|Ulm_Weatherballo
 https://github.com/InterstitialTech/quadrant-lib.git|Contributed|Interstitial Quadrant
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library.git|Contributed|SparkFun STHS34PF80 Arduino Library
 https://github.com/tech-box-io/TB_TFT_eSPI.git|Contributed|TB_TFT_eSPI
-https://github.com/ConsentiumInc/ConsentiumThingsDalton.git|Contributed|ConsentiumThingsDalton
 https://github.com/NitrofMtl/DUE_ADC_Oversampler.git|Contributed|DUE_ADC_Oversampler
 https://github.com/AITINKR/AITINKR_SHIELDS.git|Contributed|AITINKR_SHIELDS
 https://github.com/BestModules-Libraries/BM25S3321-1.git|Contributed|BM25S3321-1
@@ -7250,12 +7249,12 @@ https://github.com/nthnn/mdif.git|Contributed|mdif
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib.git|Contributed|TLE9012_BMS_IC
 https://github.com/crane-elec/EthernetSP.git|Contributed|EthernetSP
 https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2wireSPI aospi
-https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP Result codes - aoresult
+https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP ResultCodes aoresult
 https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
 https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
 https://github.com/GyverLibs/StreamIO.git|Contributed|StreamIO
 https://github.com/orcadom/DS4.git|Contributed|DS4
-https://github.com/SeeedJP/wio_cellular.git|Contributed|Wio Cellular
+https://github.com/SeeedJP/wio_cellular.git|Contributed|WioCellular
 https://github.com/drrnb/SingleSevenSegment.git|Contributed|SingleSevenSegment
 https://github.com/makerlabvn/MKL_DHT.git|Contributed|MKL_DHT sensor library
 https://github.com/RBEGamer/HLK-LD2450.git|Contributed|HLK-LD2450
@@ -7312,3 +7311,9 @@ https://github.com/mathieucarbou/MycilaWebSerial.git|Contributed|MycilaWebSerial
 https://github.com/mathieucarbou/MycilaUtilities.git|Contributed|MycilaUtilities
 https://github.com/mathieucarbou/MycilaSystem.git|Contributed|MycilaSystem
 https://github.com/boschsensortec/Bosch-BSEC2-Library.git|Contributed|bsec2
+https://github.com/EVNdevs/EVN-arduino.git|Contributed|EVN
+https://github.com/vickash/RotaryEncoderPCNT.git|Contributed|RotaryEncoderPCNT
+https://github.com/PowerBroker2/Units.git|Contributed|Units
+https://github.com/PowerBroker2/NMEA_Parser.git|Contributed|NMEA_Parser
+https://github.com/kanitawa/RotEnc.git|Contributed|RotEnc
+https://github.com/GyverLibs/FastBot2.git|Contributed|FastBot2
