@@ -7314,3 +7314,5 @@ https://github.com/mathieucarbou/MycilaSystem.git|Contributed|MycilaSystem
 https://github.com/boschsensortec/Bosch-BSEC2-Library.git|Contributed|bsec2
 https://github.com/EVNdevs/EVN-arduino.git|Contributed|EVN
 https://github.com/vickash/RotaryEncoderPCNT.git|Contributed|RotaryEncoderPCNT
+https://github.com/PowerBroker2/Units.git|Contributed|Units
+https://github.com/PowerBroker2/NMEA_Parser.git|Contributed|NMEA_Parser
