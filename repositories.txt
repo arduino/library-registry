@@ -90,6 +90,7 @@ https://github.com/tdk-invn-oss/ultrasonic.arduino.CHx01
 https://github.com/stefangs/arduino-library-at24cxxx
 https://github.com/huemonelab/HuemonelabKit
 https://github.com/CIRCUITSTATE/CSE_GNSS
+https://github.com/GaudiLabs/OpenDrop/tree/master/OpenDropV4/Software/Libraries
 https://github.com/Zone-of-Engineering-Newcomers/MovingAverage
 https://github.com/cygig/AlmostRandom
 https://github.com/agomezgar/masaylolibrary
