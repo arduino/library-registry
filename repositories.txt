@@ -7220,5 +7220,7 @@ https://github.com/JoelJojoP/SimpleIMU
 https://github.com/vickash/RotaryEncoderPCNT
 https://github.com/kanitawa/RotEnc
 https://github.com/vpBharath/RobotControl.git
+https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI
 https://github.com/ERLtech/ERLtech-RobotControl.git
 https://github.com/giocip/ARDUINO_num7
+https://github.com/ErlTechnologies/BTRobocontrol.git
