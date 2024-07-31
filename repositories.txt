@@ -7222,3 +7222,4 @@ https://github.com/kanitawa/RotEnc
 https://github.com/vpBharath/RobotControl.git
 https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI
 https://github.com/ERLtech/ERLtech-RobotControl.git
+https://github.com/ErlTechnologies/BTRobotControl.git
