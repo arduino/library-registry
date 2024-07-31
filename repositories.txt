@@ -3895,6 +3895,7 @@ https://github.com/mathieucarbou/MycilaJSY
 https://github.com/mathieucarbou/MycilaLogger
 https://github.com/mathieucarbou/MycilaMQTT
 https://github.com/mathieucarbou/MycilaNTP
+https://github.com/mathieucarbou/MycilaPulseAnalyzer
 https://github.com/mathieucarbou/MycilaPZEM004Tv3
 https://github.com/mathieucarbou/MycilaRelay
 https://github.com/mathieucarbou/MycilaSystem
