@@ -7218,4 +7218,4 @@ https://github.com/protheeuz/AsyncWebServerESP
 https://github.com/JoelJojoP/SimpleIMU
 https://github.com/vickash/RotaryEncoderPCNT
 https://github.com/kanitawa/RotEnc
-https://github.com/vpBharath/RobotControl.git
+https://github.com/ERLtechtvm/RobotControl.git
