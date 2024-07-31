@@ -210,6 +210,7 @@ https://github.com/608/CH55xSwitchControl
 https://github.com/8059blank/CytronPikaBot
 https://github.com/8bitbuddhist/PixelMaestro
 https://github.com/934virginia/Norman
+https://github.com/ad039/ZSSC3230_I2C_Driver
 https://github.com/9glt/arduino-attiny85-fastpin-library
 https://github.com/9glt/arduino-attiny85-mcp23017-library
 https://github.com/A-Vision-Software/AVision_ESP8266
