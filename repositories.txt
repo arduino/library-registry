@@ -27,6 +27,7 @@ https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
+https://github.com/giocip/ARDUINO_num7
 https://github.com/makerlabvn/MKL_DHT
 https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
