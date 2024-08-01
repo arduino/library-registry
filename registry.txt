@@ -7327,3 +7327,4 @@ https://github.com/ErlTechnologies/BTRobocontrol.git|Contributed|BTRobocontrol
 https://github.com/pschatzmann/arduino-audio-tools.git|Contributed|audio-tools
 https://github.com/mathieucarbou/MycilaPulseAnalyzer.git|Contributed|MycilaPulseAnalyzer
 https://github.com/giocip/ARDUINO_num7.git|Contributed|num7
+https://github.com/Naguissa/uHexLib.git|Contributed|uHexLib
