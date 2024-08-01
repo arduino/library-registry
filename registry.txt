@@ -5697,7 +5697,6 @@ https://github.com/stm32duino/VL53L7CX.git|Contributed|STM32duino VL53L7CX
 https://github.com/arduino-libraries/Arduino_AdvancedAnalog.git|Arduino|Arduino_AdvancedAnalog
 https://github.com/stm32duino/X-NUCLEO-53L7A1.git|Contributed|STM32duino X-NUCLEO-53L7A1
 https://github.com/virtual-maker/MaterialBoard.git|Contributed|MaterialBoard
-https://github.com/PowerBroker2/UM7.git|Contributed|UM7
 https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino.git|Contributed|Simple-Hydroponics-Arduino
 https://github.com/NachtRaveVL/Simple-SolarTracker-Arduino.git|Contributed|Simple-SolarTracker-Arduino
 https://github.com/awootton/mqtt5nano.git|Contributed|mqtt5nano
