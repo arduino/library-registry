@@ -27,6 +27,7 @@ https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
+https://github.com/giocip/ARDUINO_num7
 https://github.com/makerlabvn/MKL_DHT
 https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
@@ -3895,6 +3896,7 @@ https://github.com/mathieucarbou/MycilaJSY
 https://github.com/mathieucarbou/MycilaLogger
 https://github.com/mathieucarbou/MycilaMQTT
 https://github.com/mathieucarbou/MycilaNTP
+https://github.com/mathieucarbou/MycilaPulseAnalyzer
 https://github.com/mathieucarbou/MycilaPZEM004Tv3
 https://github.com/mathieucarbou/MycilaRelay
 https://github.com/mathieucarbou/MycilaSystem
@@ -4787,6 +4789,7 @@ https://github.com/Protocentral/protocentral-ads1292r-arduino
 https://github.com/Protocentral/protocentral-ads1293-arduino
 https://github.com/Protocentral/protocentral-afe4490-arduino
 https://github.com/Protocentral/protocentral-pulse-express
+https://github.com/pschatzmann/arduino-audio-tools
 https://github.com/pseudoVella/shift7seg
 https://github.com/pstolarz/CoopThreads
 https://github.com/pstolarz/NRF_HAL
@@ -7220,6 +7223,7 @@ https://github.com/JoelJojoP/SimpleIMU
 https://github.com/vickash/RotaryEncoderPCNT
 https://github.com/kanitawa/RotEnc
 https://github.com/vpBharath/RobotControl.git
+https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI
 https://github.com/ERLtech/ERLtech-RobotControl.git
 https://github.com/ErlTechnologies/ERLAutomation.git
-
+https://github.com/ErlTechnologies/BTRobocontrol.git
