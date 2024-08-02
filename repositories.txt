@@ -4790,10 +4790,7 @@ https://github.com/pschatzmann/arduino-audio-driver
 https://github.com/pschatzmann/arduino-audio-tools
 https://github.com/pschatzmann/arduino-fdk-aac
 https://github.com/pschatzmann/arduino-libhelix
-https://github.com/pschatzmann/arduino-libfaad
 https://github.com/pschatzmann/arduino-libflac
-https://github.com/pschatzmann/arduino-libg7xx
-https://github.com/pschatzmann/arduino-libilbc
 https://github.com/pschatzmann/arduino-liblame
 https://github.com/pschatzmann/arduino-libmad
 https://github.com/pschatzmann/arduino-libopus
