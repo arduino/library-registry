@@ -7324,3 +7324,4 @@ https://github.com/mathieucarbou/MycilaPulseAnalyzer.git|Contributed|MycilaPulse
 https://github.com/giocip/ARDUINO_num7.git|Contributed|num7
 https://github.com/Naguissa/uHexLib.git|Contributed|uHexLib
 https://github.com/ErlTechnologies/ERLtechRobotcontrol.git|Contributed|ERLtechRobotcontrol
+https://github.com/Muhammed-jbareen/Alarm.git|Contributed|Alarm
