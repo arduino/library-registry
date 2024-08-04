@@ -7327,7 +7327,6 @@ https://github.com/ErlTechnologies/ERLtechRobotcontrol.git|Contributed|ERLtechRo
 https://github.com/Muhammed-jbareen/Alarm.git|Contributed|Alarm
 https://github.com/pschatzmann/arduino-audio-driver.git|Contributed|audio-driver
 https://github.com/pschatzmann/arduino-fdk-aac.git|Contributed|fdk-aac
-https://github.com/pschatzmann/arduino-libhelix.git|Contributed|libhelix
 https://github.com/pschatzmann/arduino-libflac.git|Contributed|libflac
 https://github.com/pschatzmann/arduino-liblame.git|Contributed|libLAME
 https://github.com/pschatzmann/arduino-libmad.git|Contributed|libMAD
