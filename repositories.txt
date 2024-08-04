@@ -2334,6 +2334,7 @@ https://github.com/franeum/TI_SN76489
 https://github.com/FrankBoesing/FastCRC
 https://github.com/frankjoshua/rosserial_arduino_lib
 https://github.com/Franzininho/Franzininho_LiquidCrystal
+https://github.com/Matrix-Robotics/MatrixMini
 https://github.com/Fraunhofer-IMS/AIfES_for_Arduino
 https://github.com/freaklabs/cmdArduino
 https://github.com/Fredi/ArduinoIRC
@@ -7236,4 +7237,3 @@ https://github.com/ErlTechnologies/BTRobocontrol.git
 https://github.com/ErlTechnologies/ERLtechRobotcontrol.git
 https://github.com/lhtran114/OnlyTimer
 https://github.com/sinricpro/arduino-renesas-sdk
-https://github.com/Matrix-Robotics/MatrixMini
