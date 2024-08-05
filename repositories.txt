@@ -1,3 +1,5 @@
+https://github.com/devtagse/DEVTAGLibIA
+https://github.com/Muhammed-jbareen/Alarm
 https://github.com/PowerBroker2/Units
 https://github.com/PowerBroker2/NMEA_Parser
 https://github.com/davidlmorris/debuggery
@@ -27,6 +29,7 @@ https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
+https://github.com/giocip/ARDUINO_num7
 https://github.com/makerlabvn/MKL_DHT
 https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
@@ -210,6 +213,7 @@ https://github.com/608/CH55xSwitchControl
 https://github.com/8059blank/CytronPikaBot
 https://github.com/8bitbuddhist/PixelMaestro
 https://github.com/934virginia/Norman
+https://github.com/ad039/ZSSC3230_I2C_Driver
 https://github.com/9glt/arduino-attiny85-fastpin-library
 https://github.com/9glt/arduino-attiny85-mcp23017-library
 https://github.com/A-Vision-Software/AVision_ESP8266
@@ -3401,6 +3405,7 @@ https://github.com/kosme/flex_DST
 https://github.com/kosme/timestamp32bits
 https://github.com/kotobuki/SetPoint
 https://github.com/kotwatthana/WebServerFileUpload
+https://github.com/kotwatthana/TimerOne_V2
 https://github.com/kousheekc/Kinematics
 https://github.com/kpn-iot/thingsml-c-library
 https://github.com/KravitzLab/MicrocontrollersForNeuroscience
@@ -3894,6 +3899,7 @@ https://github.com/mathieucarbou/MycilaJSY
 https://github.com/mathieucarbou/MycilaLogger
 https://github.com/mathieucarbou/MycilaMQTT
 https://github.com/mathieucarbou/MycilaNTP
+https://github.com/mathieucarbou/MycilaPulseAnalyzer
 https://github.com/mathieucarbou/MycilaPZEM004Tv3
 https://github.com/mathieucarbou/MycilaRelay
 https://github.com/mathieucarbou/MycilaSystem
@@ -4206,6 +4212,7 @@ https://github.com/Naguissa/uSevenSegmentLib
 https://github.com/Naguissa/uTimerLib
 https://github.com/Naguissa/uTimerBrokerLib
 https://github.com/Naguissa/uUnixDate
+https://github.com/Naguissa/uHexLib
 https://github.com/naiithink/musicians-mate
 https://github.com/nailujx86/ESP8266_multipart
 https://github.com/namino-cc/Namino_Library
@@ -4696,21 +4703,16 @@ https://github.com/porrey/Mioduino
 https://github.com/postfixNotation/OLED_LIB_VGY12864L_03
 https://github.com/postpersonality/melt-7segment-lcd
 https://github.com/pothos/arduino-n64-controller-library
-https://github.com/PowerBroker2/ArdUAV
 https://github.com/PowerBroker2/ArduPID
-https://github.com/PowerBroker2/Autopilot
 https://github.com/PowerBroker2/DFPlayerMini_Fast
 https://github.com/PowerBroker2/ELMduino
 https://github.com/PowerBroker2/FireTimer
 https://github.com/PowerBroker2/MotorController
 https://github.com/PowerBroker2/MultivariateNormal
-https://github.com/PowerBroker2/navduino
-https://github.com/PowerBroker2/NEO-6M_GPS
 https://github.com/PowerBroker2/SafeString
 https://github.com/PowerBroker2/SdTerminal
 https://github.com/PowerBroker2/SerialTransfer
 https://github.com/PowerBroker2/Teensy_3X_Multipurpose_Board
-https://github.com/PowerBroker2/UM7
 https://github.com/PowerBroker2/UniversalTransmitter
 https://github.com/pozyxLabs/Pozyx-Arduino-library
 https://github.com/ppedro74/Arduino-SerialCommands
@@ -4786,6 +4788,16 @@ https://github.com/Protocentral/protocentral-ads1292r-arduino
 https://github.com/Protocentral/protocentral-ads1293-arduino
 https://github.com/Protocentral/protocentral-afe4490-arduino
 https://github.com/Protocentral/protocentral-pulse-express
+https://github.com/pschatzmann/arduino-audio-driver
+https://github.com/pschatzmann/arduino-audio-tools
+https://github.com/pschatzmann/arduino-fdk-aac
+https://github.com/pschatzmann/arduino-libhelix
+https://github.com/pschatzmann/arduino-libflac
+https://github.com/pschatzmann/arduino-liblame
+https://github.com/pschatzmann/arduino-libmad
+https://github.com/pschatzmann/arduino-libopus
+https://github.com/pschatzmann/arduino-libsbc
+https://github.com/pschatzmann/arduino-libvorbis-tremor
 https://github.com/pseudoVella/shift7seg
 https://github.com/pstolarz/CoopThreads
 https://github.com/pstolarz/NRF_HAL
@@ -7218,4 +7230,12 @@ https://github.com/protheeuz/AsyncWebServerESP
 https://github.com/JoelJojoP/SimpleIMU
 https://github.com/vickash/RotaryEncoderPCNT
 https://github.com/kanitawa/RotEnc
+https://github.com/vpbharath/Robocontrol.git
 https://github.com/ERLtechtvm/RobotControl.git
+https://github.com/vpBharath/RobotControl.git
+https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI
+https://github.com/ERLtech/ERLtech-RobotControl.git
+https://github.com/ErlTechnologies/BTRobocontrol.git
+https://github.com/ErlTechnologies/ERLtechRobotcontrol.git
+https://github.com/lhtran114/OnlyTimer
+https://github.com/sinricpro/arduino-renesas-sdk
