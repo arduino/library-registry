@@ -7340,3 +7340,4 @@ https://github.com/kotwatthana/TimerOne_V2.git|Contributed|TimerOne_V2
 https://github.com/devtagse/DEVTAGLibIA.git|Contributed|DEVTAGLibIA
 https://github.com/septentrio-gnss/Septentrio_Arduino_library.git|Contributed|Eridano-Septentrio
 https://github.com/ams-OSRAM-Group/OSP_aoosp.git|Contributed|OSP Telegrams aoosp
+https://github.com/dejwk/roo_prefs.git|Contributed|roo_prefs
