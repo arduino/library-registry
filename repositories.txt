@@ -1704,6 +1704,7 @@ https://github.com/DefProc/somo-ii-lib
 https://github.com/DeimosHall/RP2040_CPU_Temperature.git
 https://github.com/DEIS-Tools/CLAIRE-library
 https://github.com/dejwk/roo_collections
+https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
 https://github.com/dejwk/roo_icons
