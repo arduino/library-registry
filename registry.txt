@@ -7342,3 +7342,4 @@ https://github.com/septentrio-gnss/Septentrio_Arduino_library.git|Contributed|Er
 https://github.com/ams-OSRAM-Group/OSP_aoosp.git|Contributed|OSP Telegrams aoosp
 https://github.com/dejwk/roo_prefs.git|Contributed|roo_prefs
 https://github.com/dejwk/roo_control.git|Contributed|roo_control
+https://github.com/dejwk/roo_wifi.git|Contributed|roo_wifi
