@@ -1712,6 +1712,7 @@ https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_prefs
 https://github.com/dejwk/roo_scheduler
+https://github.com/dejwk/roo_temperature
 https://github.com/dejwk/roo_time
 https://github.com/dejwk/roo_wifi
 https://github.com/dejwk/roo_windows
