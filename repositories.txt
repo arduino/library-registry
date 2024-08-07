@@ -6744,6 +6744,7 @@ https://github.com/Wolodia-M/btnapi-library
 https://github.com/Wolodia-M/flagsapi-library
 https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
+https://github.com/workloads/scservo
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/WPIRoboticsEngineering/DFW
 https://github.com/WPIRoboticsEngineering/RBE1001Lib
