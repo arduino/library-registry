@@ -627,7 +627,7 @@ https://github.com/alextaujenis/RBD_Timer
 https://github.com/alextaujenis/RBD_WaterSensor
 https://github.com/AlexTutorial/KrokoTS
 https://github.com/AlfredoMunguia/TinyGuixhe
-https://github.com/AlfredoSystems/Alfredo_NoU3
+https://github.com/AlfredoSystems/Alfredo-NoU3
 https://github.com/AlfredoSystems/Alfredo-NoU2
 https://github.com/AlfredoSystems/AlfredoConnect-Receive
 https://github.com/AlfredoSystems/AlfredoCRSF
