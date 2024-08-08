@@ -7340,3 +7340,4 @@ https://github.com/csl-3/Pasos.git|Contributed|Pasos
 https://github.com/dejwk/roo_onewire.git|Contributed|roo_onewire
 https://github.com/janscience/TeeGrid.git|Contributed|TeeGrid
 https://github.com/dejwk/roo_windows_wifi.git|Contributed|roo_windows_wifi
+https://github.com/dejwk/roo_windows_onewire.git|Contributed|roo_windows_onewire
