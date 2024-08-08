@@ -7319,7 +7319,6 @@ https://github.com/ERLtech/ERLtech-RobotControl.git|Contributed|ERLtech-RobotCon
 https://github.com/ad039/ZSSC3230_I2C_Driver.git|Contributed|ZSSC3230 I2C Driver
 https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI.git|Contributed|Newhaven_CharacterOLED_SPI
 https://github.com/ErlTechnologies/BTRobocontrol.git|Contributed|BTRobocontrol
-https://github.com/pschatzmann/arduino-audio-tools.git|Contributed|audio-tools
 https://github.com/mathieucarbou/MycilaPulseAnalyzer.git|Contributed|MycilaPulseAnalyzer
 https://github.com/giocip/ARDUINO_num7.git|Contributed|num7
 https://github.com/Naguissa/uHexLib.git|Contributed|uHexLib
