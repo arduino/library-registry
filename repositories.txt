@@ -1,3 +1,5 @@
+https://github.com/csl-3/Pasos
+https://github.com/devtagse/DEVTAGLibIA
 https://github.com/Muhammed-jbareen/Alarm
 https://github.com/PowerBroker2/Units
 https://github.com/PowerBroker2/NMEA_Parser
@@ -58,6 +60,7 @@ https://github.com/makerlabvn/mke-s01-ultrasonic-sensor
 https://github.com/maarten-pennings/ENS210
 https://github.com/ams-OSRAM-Group/OSP_aospi
 https://github.com/ams-OSRAM-Group/OSP_aoresult
+https://github.com/ams-OSRAM-Group/OSP_aoosp
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
@@ -1702,13 +1705,18 @@ https://github.com/DefProc/somo-ii-lib
 https://github.com/DeimosHall/RP2040_CPU_Temperature.git
 https://github.com/DEIS-Tools/CLAIRE-library
 https://github.com/dejwk/roo_collections
+https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
 https://github.com/dejwk/roo_icons
 https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
+https://github.com/dejwk/roo_prefs
 https://github.com/dejwk/roo_scheduler
+https://github.com/dejwk/roo_temperature
 https://github.com/dejwk/roo_time
+https://github.com/dejwk/roo_wifi
+https://github.com/dejwk/roo_windows
 https://github.com/delta-G/EventLinkInterrupt
 https://github.com/delta-G/GPT_Stepper
 https://github.com/delta-G/LoveButton
@@ -3404,6 +3412,7 @@ https://github.com/kosme/flex_DST
 https://github.com/kosme/timestamp32bits
 https://github.com/kotobuki/SetPoint
 https://github.com/kotwatthana/WebServerFileUpload
+https://github.com/kotwatthana/TimerOne_V2
 https://github.com/kousheekc/Kinematics
 https://github.com/kpn-iot/thingsml-c-library
 https://github.com/KravitzLab/MicrocontrollersForNeuroscience
@@ -6726,6 +6735,7 @@ https://github.com/Wolodia-M/btnapi-library
 https://github.com/Wolodia-M/flagsapi-library
 https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
+https://github.com/workloads/scservo
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/WPIRoboticsEngineering/DFW
 https://github.com/WPIRoboticsEngineering/RBE1001Lib
@@ -7225,3 +7235,4 @@ https://github.com/ErlTechnologies/BTRobocontrol.git
 https://github.com/ErlTechnologies/ERLtechRobotcontrol.git
 https://github.com/lhtran114/OnlyTimer
 https://github.com/sinricpro/arduino-renesas-sdk
+https://github.com/septentrio-gnss/Septentrio_Arduino_library 
