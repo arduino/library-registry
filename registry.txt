@@ -7346,3 +7346,4 @@ https://github.com/dejwk/roo_wifi.git|Contributed|roo_wifi
 https://github.com/dejwk/roo_windows.git|Contributed|roo_windows
 https://github.com/dejwk/roo_temperature.git|Contributed|roo_temperature
 https://github.com/workloads/scservo.git|Contributed|SCServo
+https://github.com/csl-3/Pasos.git|Contributed|Pasos
