@@ -2341,7 +2341,7 @@ https://github.com/franeum/TI_SN76489
 https://github.com/FrankBoesing/FastCRC
 https://github.com/frankjoshua/rosserial_arduino_lib
 https://github.com/Franzininho/Franzininho_LiquidCrystal
-https://github.com/frason5566/MatrixMini
+https://github.com/Matrix-Robotics/MatrixMini
 https://github.com/Fraunhofer-IMS/AIfES_for_Arduino
 https://github.com/freaklabs/cmdArduino
 https://github.com/Fredi/ArduinoIRC
