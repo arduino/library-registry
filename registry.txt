@@ -7325,7 +7325,6 @@ https://github.com/Naguissa/uHexLib.git|Contributed|uHexLib
 https://github.com/ErlTechnologies/ERLtechRobotcontrol.git|Contributed|ERLtechRobotcontrol
 https://github.com/Muhammed-jbareen/Alarm.git|Contributed|Alarm
 https://github.com/pschatzmann/arduino-fdk-aac.git|Contributed|fdk-aac
-https://github.com/pschatzmann/arduino-libhelix.git|Contributed|libhelix
 https://github.com/pschatzmann/arduino-libflac.git|Contributed|libflac
 https://github.com/pschatzmann/arduino-liblame.git|Contributed|libLAME
 https://github.com/pschatzmann/arduino-libmad.git|Contributed|libMAD
