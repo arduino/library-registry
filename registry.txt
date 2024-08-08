@@ -6674,7 +6674,7 @@ https://github.com/remocons/remocon-arduino.git|Contributed|Remocon
 https://github.com/nguyenmanhthao996tn/Kionix_KX023.git|Contributed|Kionix_KX023
 https://github.com/pmassio/ArduinoLMI.git|Contributed|LMI
 https://github.com/TobiGr/SimplifiedTimer.git|Contributed|SimplifiedTimer
-https://github.com/AlfredoSystems/Alfredo_NoU3.git|Contributed|Alfredo-NoU3
+https://github.com/AlfredoSystems/Alfredo-NoU3.git|Contributed|Alfredo-NoU3
 https://github.com/AlfredoSystems/AlfredoCRSF.git|Contributed|AlfredoCRSF
 https://github.com/AlfredoSystems/SimpleMelt.git|Contributed|SimpleMelt
 https://github.com/BenCestMoiQuoi/INSARIANNE.git|Contributed|INSARIANNE
