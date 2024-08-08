@@ -7319,21 +7319,21 @@ https://github.com/ERLtech/ERLtech-RobotControl.git|Contributed|ERLtech-RobotCon
 https://github.com/ad039/ZSSC3230_I2C_Driver.git|Contributed|ZSSC3230 I2C Driver
 https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI.git|Contributed|Newhaven_CharacterOLED_SPI
 https://github.com/ErlTechnologies/BTRobocontrol.git|Contributed|BTRobocontrol
-https://github.com/pschatzmann/arduino-audio-tools.git|Contributed|audio-tools
 https://github.com/mathieucarbou/MycilaPulseAnalyzer.git|Contributed|MycilaPulseAnalyzer
 https://github.com/giocip/ARDUINO_num7.git|Contributed|num7
 https://github.com/Naguissa/uHexLib.git|Contributed|uHexLib
 https://github.com/ErlTechnologies/ERLtechRobotcontrol.git|Contributed|ERLtechRobotcontrol
 https://github.com/Muhammed-jbareen/Alarm.git|Contributed|Alarm
-https://github.com/pschatzmann/arduino-audio-driver.git|Contributed|audio-driver
-https://github.com/pschatzmann/arduino-fdk-aac.git|Contributed|fdk-aac
-https://github.com/pschatzmann/arduino-libhelix.git|Contributed|libhelix
-https://github.com/pschatzmann/arduino-libflac.git|Contributed|libflac
-https://github.com/pschatzmann/arduino-liblame.git|Contributed|libLAME
-https://github.com/pschatzmann/arduino-libmad.git|Contributed|libMAD
-https://github.com/pschatzmann/arduino-libopus.git|Contributed|libopus
-https://github.com/pschatzmann/arduino-libvorbis-tremor.git|Contributed|libvorbisidec
 https://github.com/lhtran114/OnlyTimer.git|Contributed|OnlyTimer
 https://github.com/sinricpro/arduino-renesas-sdk.git|Contributed|SinricPro_Renesas
 https://github.com/kotwatthana/TimerOne_V2.git|Contributed|TimerOne_V2
 https://github.com/devtagse/DEVTAGLibIA.git|Contributed|DEVTAGLibIA
+https://github.com/septentrio-gnss/Septentrio_Arduino_library.git|Contributed|Eridano-Septentrio
+https://github.com/ams-OSRAM-Group/OSP_aoosp.git|Contributed|OSP Telegrams aoosp
+https://github.com/dejwk/roo_prefs.git|Contributed|roo_prefs
+https://github.com/dejwk/roo_control.git|Contributed|roo_control
+https://github.com/dejwk/roo_wifi.git|Contributed|roo_wifi
+https://github.com/dejwk/roo_windows.git|Contributed|roo_windows
+https://github.com/dejwk/roo_temperature.git|Contributed|roo_temperature
+https://github.com/workloads/scservo.git|Contributed|SCServo
+https://github.com/csl-3/Pasos.git|Contributed|Pasos
