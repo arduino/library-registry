@@ -2942,6 +2942,7 @@ https://github.com/janelia-arduino/Watchdog
 https://github.com/janikheiler/Mintrix
 https://github.com/janscience/ESensors
 https://github.com/janscience/TeeRec
+https://github.com/janscience/TeeGrid
 https://github.com/janthefischer/SerialVariable
 https://github.com/janw-cz/JWA_BME280
 https://github.com/jaredliw/PikaBot
