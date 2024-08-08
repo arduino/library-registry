@@ -7330,7 +7330,6 @@ https://github.com/pschatzmann/arduino-liblame.git|Contributed|libLAME
 https://github.com/pschatzmann/arduino-libmad.git|Contributed|libMAD
 https://github.com/pschatzmann/arduino-libopus.git|Contributed|libopus
 https://github.com/pschatzmann/arduino-libsbc.git|Contributed|libsbc
-https://github.com/pschatzmann/arduino-libvorbis-tremor.git|Contributed|libvorbisidec
 https://github.com/lhtran114/OnlyTimer.git|Contributed|OnlyTimer
 https://github.com/sinricpro/arduino-renesas-sdk.git|Contributed|SinricPro_Renesas
 https://github.com/kotwatthana/TimerOne_V2.git|Contributed|TimerOne_V2
