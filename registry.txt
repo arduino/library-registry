@@ -7350,3 +7350,4 @@ https://github.com/Johboh/HomeAssistantEntities.git|Contributed|HomeAssistantEnt
 https://github.com/Johboh/nlohmann-json.git|Contributed|nlohmann-json
 https://github.com/ams-OSRAM-Group/OSP_aocmd.git|Contributed|OSP CommandInterpreter aocmd
 https://github.com/Danzo-Systems/FM25060_Library.git|Contributed|FM25060
+https://github.com/DouglasFlores-fun/SimpleLogger.git|Contributed|SimpleLogger
