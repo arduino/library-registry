@@ -7348,3 +7348,4 @@ https://github.com/Johboh/EspNowNetwork.git|Contributed|EspNowNetwork
 https://github.com/Johboh/MQTTRemote.git|Contributed|MQTTRemote
 https://github.com/Johboh/HomeAssistantEntities.git|Contributed|HomeAssistantEntities
 https://github.com/Johboh/nlohmann-json.git|Contributed|nlohmann-json
+https://github.com/ams-OSRAM-Group/OSP_aocmd.git|Contributed|OSP CommandInterpreter aocmd
