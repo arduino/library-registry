@@ -7248,3 +7248,4 @@ https://github.com/lhtran114/OnlyTimer
 https://github.com/sinricpro/arduino-renesas-sdk
 https://github.com/septentrio-gnss/Septentrio_Arduino_library 
 https://github.com/iamfaraz/Waveshare_ST7262_LVGL
+https://github.com/Danzo-Systems/FM25060_Library
