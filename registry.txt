@@ -7349,3 +7349,4 @@ https://github.com/Johboh/MQTTRemote.git|Contributed|MQTTRemote
 https://github.com/Johboh/HomeAssistantEntities.git|Contributed|HomeAssistantEntities
 https://github.com/Johboh/nlohmann-json.git|Contributed|nlohmann-json
 https://github.com/ams-OSRAM-Group/OSP_aocmd.git|Contributed|OSP CommandInterpreter aocmd
+https://github.com/Danzo-Systems/FM25060_Library.git|Contributed|FM25060
