@@ -3043,6 +3043,9 @@ https://github.com/joeqread/arduino-duktape
 https://github.com/joeycastillo/OSO_Arduino_LCD
 https://github.com/JoeyStrandnes/Arduino-Toggl-API
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver
+https://github.com/Johboh/ConnectionHelper
+https://github.com/Johboh/EspNowNetwork
+https://github.com/Johboh/MQTTRemote
 https://github.com/John-Karatka/24LC64F
 https://github.com/johnnyb/Eventually
 https://github.com/johnnyb/Shifty
