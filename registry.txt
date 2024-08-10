@@ -7353,3 +7353,4 @@ https://github.com/Danzo-Systems/FM25060_Library.git|Contributed|FM25060
 https://github.com/DouglasFlores-fun/SimpleLogger.git|Contributed|SimpleLogger
 https://github.com/KobaProduction/AvrFHT.git|Contributed|AVR FHT Library
 https://github.com/thirstyice/TinyDMXSerial.git|Contributed|TinyDMXSerial
+https://github.com/GyverLibs/Table.git|Contributed|Table
