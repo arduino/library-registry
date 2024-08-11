@@ -7358,3 +7358,4 @@ https://github.com/Johboh/EspNowNetworkShared.git|Contributed|EspNowNetworkShare
 https://github.com/Johboh/EspNowNetworkHost.git|Contributed|EspNowNetworkHost
 https://github.com/Johboh/EspNowNetworkHostDriver.git|Contributed|EspNowNetworkHostDriver
 https://github.com/Johboh/EspNowNetworkNode.git|Contributed|EspNowNetworkNode
+https://github.com/nthnn/goblin3d.git|Contributed|goblin3d
