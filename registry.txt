@@ -7355,3 +7355,6 @@ https://github.com/KobaProduction/AvrFHT.git|Contributed|AVR FHT Library
 https://github.com/thirstyice/TinyDMXSerial.git|Contributed|TinyDMXSerial
 https://github.com/GyverLibs/Table.git|Contributed|Table
 https://github.com/Johboh/EspNowNetworkShared.git|Contributed|EspNowNetworkShared
+https://github.com/Johboh/EspNowNetworkHost.git|Contributed|EspNowNetworkHost
+https://github.com/Johboh/EspNowNetworkHostDriver.git|Contributed|EspNowNetworkHostDriver
+https://github.com/Johboh/EspNowNetworkNode.git|Contributed|EspNowNetworkNode
