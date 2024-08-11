@@ -4371,6 +4371,7 @@ https://github.com/nrwiersma/ESP8266Scheduler
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/diwa
 https://github.com/nthnn/DynaConfig
+https://github.com/nthnn/goblin3d
 https://github.com/nthnn/microlzw
 https://github.com/nthnn/n2cmu-arduino
 https://github.com/nthnn/mdif
