@@ -3047,6 +3047,7 @@ https://github.com/JoeyStrandnes/Arduino-Toggl-API
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver
 https://github.com/Johboh/ConnectionHelper
 https://github.com/Johboh/EspNowNetwork
+https://github.com/Johboh/EspNowNetworkShared
 https://github.com/Johboh/HomeAssistantEntities
 https://github.com/Johboh/MQTTRemote
 https://github.com/Johboh/nlohmann-json
