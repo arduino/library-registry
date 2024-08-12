@@ -2168,11 +2168,15 @@ https://github.com/ESDeveloperBR/ES32Lab
 https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
+https://github.com/espressif/esp-ui
 https://github.com/esp-arduino-libs/ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/esp-arduino-libs/ESP32_Knob
 https://github.com/esp-arduino-libs/ESP32_USB_Stream
+https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet
+https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet
+https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet
 https://github.com/ethanhjennings/MQTTSerialPrinter
 https://github.com/ethanjli/linear-position-control
 https://github.com/ethanjli/liquid-handling-robotics
