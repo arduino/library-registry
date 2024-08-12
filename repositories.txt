@@ -21,6 +21,7 @@ https://github.com/PowerBroker2/DataLogger
 https://github.com/stemosofc/AraraLib
 https://github.com/vvs551/ESP_NOW_Network
 https://github.com/Hedrahexon/X9C103S
+https://github.com/JFlores88/SteerBot_TB6612
 https://github.com/AbdulBasitKhatri/OLED_Display_SSD1306
 https://github.com/makerlabvn/MKL_RTClib
 https://github.com/vvs551/IRRemoteESP32
