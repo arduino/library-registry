@@ -7363,3 +7363,4 @@ https://github.com/espressif/esp-ui.git|Contributed|esp-ui
 https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet.git|Contributed|esp-ui-phone_480_480_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet.git|Contributed|esp-ui-phone_800_480_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet.git|Contributed|esp-ui-phone_1024_600_stylesheet
+https://github.com/GyverLibs/WiFiConnector.git|Contributed|WiFiConnector
