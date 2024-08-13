@@ -7344,7 +7344,6 @@ https://github.com/dejwk/roo_windows_onewire.git|Contributed|roo_windows_onewire
 https://github.com/iamfaraz/Waveshare_ST7262_LVGL.git|Contributed|Waveshare_ST7262_LVGL
 https://github.com/makkorjamal/PLSduino.git|Contributed|PLSduino
 https://github.com/Johboh/ConnectionHelper.git|Contributed|ConnectionHelper
-https://github.com/Johboh/EspNowNetwork.git|Contributed|EspNowNetwork
 https://github.com/Johboh/MQTTRemote.git|Contributed|MQTTRemote
 https://github.com/Johboh/HomeAssistantEntities.git|Contributed|HomeAssistantEntities
 https://github.com/Johboh/nlohmann-json.git|Contributed|nlohmann-json
