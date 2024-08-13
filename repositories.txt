@@ -21,6 +21,7 @@ https://github.com/PowerBroker2/DataLogger
 https://github.com/stemosofc/AraraLib
 https://github.com/vvs551/ESP_NOW_Network
 https://github.com/Hedrahexon/X9C103S
+https://github.com/JFlores88/SteerBot_TB6612
 https://github.com/AbdulBasitKhatri/OLED_Display_SSD1306
 https://github.com/makerlabvn/MKL_RTClib
 https://github.com/vvs551/IRRemoteESP32
@@ -2167,11 +2168,15 @@ https://github.com/ESDeveloperBR/ES32Lab
 https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
+https://github.com/espressif/esp-ui
 https://github.com/esp-arduino-libs/ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/esp-arduino-libs/ESP32_Knob
 https://github.com/esp-arduino-libs/ESP32_USB_Stream
+https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet
+https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet
+https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet
 https://github.com/ethanhjennings/MQTTSerialPrinter
 https://github.com/ethanjli/linear-position-control
 https://github.com/ethanjli/liquid-handling-robotics
@@ -3046,7 +3051,10 @@ https://github.com/joeycastillo/OSO_Arduino_LCD
 https://github.com/JoeyStrandnes/Arduino-Toggl-API
 https://github.com/JoeyStrandnes/NST1001_Arduino-Driver
 https://github.com/Johboh/ConnectionHelper
-https://github.com/Johboh/EspNowNetwork
+https://github.com/Johboh/EspNowNetworkHost
+https://github.com/Johboh/EspNowNetworkHostDriver
+https://github.com/Johboh/EspNowNetworkNode
+https://github.com/Johboh/EspNowNetworkShared
 https://github.com/Johboh/HomeAssistantEntities
 https://github.com/Johboh/MQTTRemote
 https://github.com/Johboh/nlohmann-json
@@ -4367,6 +4375,7 @@ https://github.com/nrwiersma/ESP8266Scheduler
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/diwa
 https://github.com/nthnn/DynaConfig
+https://github.com/nthnn/goblin3d
 https://github.com/nthnn/microlzw
 https://github.com/nthnn/n2cmu-arduino
 https://github.com/nthnn/mdif
