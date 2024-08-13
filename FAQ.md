@@ -47,7 +47,7 @@ More information:
 - https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library#installing-a-library
 - https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager
 - https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/
-- https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a
+- https://docs.arduino.cc/arduino-cloud/guides/editor/#library-manager
 
 ### How is the Library Manager index generated?
 
