@@ -7365,3 +7365,4 @@ https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet.git|Contribu
 https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet.git|Contributed|esp-ui-phone_1024_600_stylesheet
 https://github.com/GyverLibs/WiFiConnector.git|Contributed|WiFiConnector
 https://github.com/cgobat/spartan-edge-esp32-boot.git|Contributed|spartan_edge_esp32_boot
+https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQTT
