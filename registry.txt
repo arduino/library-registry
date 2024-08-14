@@ -7367,3 +7367,4 @@ https://github.com/GyverLibs/WiFiConnector.git|Contributed|WiFiConnector
 https://github.com/cgobat/spartan-edge-esp32-boot.git|Contributed|spartan_edge_esp32_boot
 https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQTT
 https://github.com/EduKits/ColourKit.git|Contributed|ColourKit
+https://github.com/microbotsio/CodeCell.git|Contributed|CodeCell
