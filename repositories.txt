@@ -7264,3 +7264,4 @@ https://github.com/Danzo-Systems/FM25060_Library
 https://github.com/DouglasFlores-fun/SimpleLogger
 https://github.com/KobaProduction/AvrFHT
 https://github.com/cgobat/spartan-edge-esp32-boot/
+https://github.com/sierramike/HomeAssistantMQTT
