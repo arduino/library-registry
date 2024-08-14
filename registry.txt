@@ -7368,3 +7368,4 @@ https://github.com/cgobat/spartan-edge-esp32-boot.git|Contributed|spartan_edge_e
 https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQTT
 https://github.com/EduKits/ColourKit.git|Contributed|ColourKit
 https://github.com/microbotsio/CodeCell.git|Contributed|CodeCell
+https://github.com/DannyRavi/AD7747.git|Contributed|AD7747
