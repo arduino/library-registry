@@ -7369,3 +7369,4 @@ https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQT
 https://github.com/EduKits/ColourKit.git|Contributed|ColourKit
 https://github.com/microbotsio/CodeCell.git|Contributed|CodeCell
 https://github.com/DannyRavi/AD7747.git|Contributed|AD7747
+https://github.com/avandalen/avdweb_CodeDebugScope.git|Contributed|CodeDebugScope
