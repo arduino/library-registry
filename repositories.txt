@@ -1,4 +1,4 @@
-https://github.com/semilimes/semilimes_mcu_sdk/tree/main/semilimes
+https://github.com/semilimes/semilimes_mcu_sdk
 https://github.com/zwieblum/ch32_deep_sleep
 https://github.com/microbotsio/CodeCell
 https://github.com/EduKits/ColourKit
