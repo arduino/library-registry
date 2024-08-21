@@ -7374,3 +7374,4 @@ https://github.com/LeeLeahy2/R4A_ESP32.git|Contributed|R4A_ESP32
 https://github.com/zwieblum/ch32_deep_sleep.git|Contributed|CH32_Deep_Sleep
 https://github.com/semilimes/semilimes_mcu_sdk.git|Contributed|semilimes
 https://github.com/loginov-rocks/BluetoothTerminal.git|Contributed|BluetoothTerminal
+https://github.com/yuri-rage/arduino-i2c-slave.git|Contributed|I2C_Slave
