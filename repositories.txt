@@ -1111,7 +1111,6 @@ https://github.com/Beirdo/Arduino-PCA9536
 https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/BelaPlatform/Trill-Arduino
 https://github.com/belidzs/PreciseLM35
-https://github.com/BenCestMoiQuoi/INSARIANNE
 https://github.com/bengtmartensson/ABeacon
 https://github.com/bengtmartensson/AGirs
 https://github.com/bengtmartensson/Arduino-DecodeIR
