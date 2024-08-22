@@ -1,3 +1,4 @@
+https://github.com/0xnobodyreally/Control-LED-strip-with-IR-Remote/blob/b2554bbd84a5cf73547f736cec91a8fc562a7fd4/Libraries/MyRGBcolors/MyRGBcolors.h
 https://github.com/PowerBroker2/Filters
 https://github.com/semilimes/semilimes_mcu_sdk
 https://github.com/zwieblum/ch32_deep_sleep
