@@ -6591,6 +6591,7 @@ https://github.com/udoklein/MLX90393_raw
 https://github.com/ug-cp/precise_sntp
 https://github.com/UIPEthernet/UIPEthernet
 https://github.com/ukkz/green-beacon-esp32
+https://github.com/ukkz/tiny-key-value-store
 https://github.com/ukw100/IRMP
 https://github.com/uldara1/Modbus.git
 https://github.com/UlmerMan/Elegoo
