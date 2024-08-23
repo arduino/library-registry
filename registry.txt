@@ -6467,7 +6467,6 @@ https://github.com/HITISoftware/HITIComm.git|Contributed|HITIComm
 https://github.com/HITISoftware/HITICommSupport.git|Contributed|HITICommSupport
 https://github.com/CuriousScientist0/ADS1256.git|Contributed|ADS1256
 https://github.com/franeum/MicroMidiPot.git|Contributed|MicroMidiPot
-https://github.com/Rupakpoddar/ESP32Firebase.git|Contributed|ESP32 Firebase
 https://github.com/Zhu-jiatong/FilesystemUtility.git|Contributed|FilesystemUtility
 https://github.com/esp-arduino-libs/ESP32_Button.git|Contributed|ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_USB_Stream.git|Contributed|ESP32_USB_STREAM
