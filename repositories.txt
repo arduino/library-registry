@@ -2180,6 +2180,7 @@ https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
 https://github.com/esp-arduino-libs/ESP32_Knob
 https://github.com/esp-arduino-libs/ESP32_USB_Stream
+https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet
