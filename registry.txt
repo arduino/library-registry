@@ -7383,3 +7383,4 @@ https://github.com/ukkz/tiny-key-value-store.git|Contributed|Tiny Key Value Stor
 https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet.git|Contributed|esp-ui-phone_320_240_stylesheet
 https://github.com/MAKIST-EDU/ESP32CAR.git|Contributed|ESP32CAR
 https://github.com/MAKIST-EDU/MakistCar.git|Contributed|ESP32CAR
+https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS FP-Fork
