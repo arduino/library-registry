@@ -6460,7 +6460,6 @@ https://github.com/Zhu-jiatong/SessionManager.git|Contributed|SessionManager
 https://github.com/kevinlutzer/Arduino-PM1006K.git|Contributed|PM1006K
 https://github.com/netnspace/CanSatNeXT_GNSS.git|Contributed|CanSatNeXT_GNSS
 https://github.com/MaffooClock/DFR_Radar.git|Contributed|DFR_Radar
-https://github.com/Rupakpoddar/ESP32Webhook.git|Contributed|ESP32 Webhook
 https://github.com/GyverLibs/GyverIO.git|Contributed|GyverIO
 https://github.com/zimbora/ESP32Logger2.git|Contributed|ESP32Logger2
 https://github.com/HITISoftware/HITIComm.git|Contributed|HITIComm
