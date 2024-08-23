@@ -7379,3 +7379,4 @@ https://github.com/arduino-libraries/Arduino_LowPowerPortentaC33.git|Arduino|Ard
 https://bitbucket.org/jezhill/SyncGenie.git|Contributed|SyncGenie
 https://github.com/PowerBroker2/Filters.git|Contributed|DSPFilters
 https://github.com/Rupakpoddar/FirebaseArduino.git|Contributed|Firebase
+https://github.com/ukkz/tiny-key-value-store.git|Contributed|Tiny Key Value Store
