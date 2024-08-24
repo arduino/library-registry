@@ -7282,4 +7282,5 @@ https://github.com/avandalen/avdweb_CodeDebugScope
 https://github.com/LeeLeahy2/R4A_ESP32
 https://github.com/yuri-rage/arduino-i2c-slave
 https://bitbucket.org/jezhill/SyncGenie
+https://github.com/Vegetable-SYC/IMU_Fusion_SYC
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library
