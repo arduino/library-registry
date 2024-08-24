@@ -7386,3 +7386,6 @@ https://github.com/MAKIST-EDU/MakistCar.git|Contributed|ESP32CAR
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS FP-Fork
 https://github.com/Vegetable-SYC/IMU_Fusion_SYC.git|Contributed|IMU_Fusion_SYC
 https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library.git|Contributed|K24C16 EEPROM Library
+https://github.com/gilesp1729/FontCollection.git|Contributed|FontCollection
+https://github.com/gilesp1729/GestureDetector.git|Contributed|GestureDetector
+https://github.com/gilesp1729/GU_Elements.git|Contributed|GU_Elements
