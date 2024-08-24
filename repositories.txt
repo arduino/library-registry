@@ -7283,3 +7283,4 @@ https://github.com/LeeLeahy2/R4A_ESP32
 https://github.com/yuri-rage/arduino-i2c-slave
 https://bitbucket.org/jezhill/SyncGenie
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library
+https://github.com/LeeLeahy2/R4A_I2C
