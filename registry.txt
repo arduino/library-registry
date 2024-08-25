@@ -7390,3 +7390,4 @@ https://github.com/gilesp1729/FontCollection.git|Contributed|FontCollection
 https://github.com/gilesp1729/GestureDetector.git|Contributed|GestureDetector
 https://github.com/gilesp1729/GU_Elements.git|Contributed|GU_Elements
 https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library.git|Contributed|Appnostic SC16IS7XX Arduino Library
+https://github.com/Networking-for-Arduino/EthernetEspAT.git|Contributed|EthernetEspAT
