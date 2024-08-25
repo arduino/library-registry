@@ -7288,3 +7288,4 @@ https://bitbucket.org/jezhill/SyncGenie
 https://github.com/Vegetable-SYC/IMU_Fusion_SYC
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library
 https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library.git
+https://github.com/suratin27/PLCCore2
