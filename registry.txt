@@ -7389,3 +7389,4 @@ https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library.git|Contributed|K24C16 E
 https://github.com/gilesp1729/FontCollection.git|Contributed|FontCollection
 https://github.com/gilesp1729/GestureDetector.git|Contributed|GestureDetector
 https://github.com/gilesp1729/GU_Elements.git|Contributed|GU_Elements
+https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library.git|Contributed|Appnostic SC16IS7XX Arduino Library
