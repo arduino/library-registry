@@ -6300,7 +6300,7 @@ https://github.com/suratin27/DINO_PLC_V1
 https://github.com/suratin27/ESP32_Control
 https://github.com/suratin27/ESP32_Control_Lite
 https://github.com/suratin27/ESP32_FX1N
-https://github.com/suratin27/PLCCore2
+https://github.com/suratin27/MiniPLC_FX2N
 https://github.com/suratin27/PicoPLC
 https://github.com/SV-Zanshin/INA
 https://github.com/SvenRosvall/SignalControl
