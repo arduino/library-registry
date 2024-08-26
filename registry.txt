@@ -7393,3 +7393,4 @@ https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library.git|Contribu
 https://github.com/Networking-for-Arduino/EthernetEspAT.git|Contributed|EthernetEspAT
 https://github.com/suratin27/PLCCore2.git|Contributed|PLCCore2
 https://github.com/microbotsio/MotorCell.git|Contributed|MotorCell
+https://github.com/shorepine/amy.git|Contributed|AMY Synthesizer
