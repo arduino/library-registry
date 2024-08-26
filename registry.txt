@@ -7392,3 +7392,4 @@ https://github.com/gilesp1729/GU_Elements.git|Contributed|GU_Elements
 https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library.git|Contributed|Appnostic SC16IS7XX Arduino Library
 https://github.com/Networking-for-Arduino/EthernetEspAT.git|Contributed|EthernetEspAT
 https://github.com/suratin27/PLCCore2.git|Contributed|PLCCore2
+https://github.com/microbotsio/MotorCell.git|Contributed|MotorCell
