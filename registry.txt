@@ -7394,3 +7394,4 @@ https://github.com/Networking-for-Arduino/EthernetEspAT.git|Contributed|Ethernet
 https://github.com/suratin27/PLCCore2.git|Contributed|PLCCore2
 https://github.com/microbotsio/MotorCell.git|Contributed|MotorCell
 https://github.com/shorepine/amy.git|Contributed|AMY Synthesizer
+https://github.com/sub1inear/ArduboyI2C.git|Contributed|ArduboyI2C
