@@ -1,3 +1,9 @@
+https://github.com/sub1inear/ArduboyI2C
+https://github.com/shorepine/amy
+https://github.com/microbotsio/MotorCell
+https://github.com/gilesp1729/FontCollection
+https://github.com/gilesp1729/GestureDetector
+https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
 https://github.com/MAKIST-EDU/ESP32CAR
 https://github.com/PowerBroker2/Filters
@@ -2939,6 +2945,7 @@ https://github.com/jandelgado/jled-pca9685-hal
 https://github.com/jandelgado/log4arduino
 https://github.com/jandrassy/ArduinoOTA
 https://github.com/Networking-for-Arduino/EthernetENC
+https://github.com/Networking-for-Arduino/EthernetEspAT
 https://github.com/Networking-for-Arduino/NetApiHelpers
 https://github.com/jandrassy/StreamLib
 https://github.com/jandrassy/TelnetStream
@@ -7282,4 +7289,8 @@ https://github.com/avandalen/avdweb_CodeDebugScope
 https://github.com/LeeLeahy2/R4A_ESP32
 https://github.com/yuri-rage/arduino-i2c-slave
 https://bitbucket.org/jezhill/SyncGenie
+https://github.com/Vegetable-SYC/IMU_Fusion_SYC
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library
+https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library
+https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library
+https://github.com/suratin27/PLCCore2
