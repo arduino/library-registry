@@ -7294,3 +7294,4 @@ https://github.com/DCS-Skunkworks/dcs-bios-arduino-library
 https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library
 https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library
 https://github.com/suratin27/PLCCore2
+https://github.com/Lopfi/ina780x
