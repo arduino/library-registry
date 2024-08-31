@@ -7396,3 +7396,5 @@ https://github.com/microbotsio/MotorCell.git|Contributed|MotorCell
 https://github.com/shorepine/amy.git|Contributed|AMY Synthesizer
 https://github.com/sub1inear/ArduboyI2C.git|Contributed|ArduboyI2C
 https://github.com/Lopfi/ina780x.git|Contributed|INA780x
+https://github.com/cbm80amiga/ST7789_AVR.git|Contributed|ST7789 AVR
+https://github.com/cbm80amiga/GC9A01A_AVR.git|Contributed|GC9A01A AVR
