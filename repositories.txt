@@ -1,4 +1,4 @@
-https://github.com/HackerNowful/SD-Ducky
+https://github.com/HackerNowful/SD-Ducky/releases/download/v1.0.1/library.json
 https://github.com/sub1inear/ArduboyI2C
 https://github.com/shorepine/amy
 https://github.com/microbotsio/MotorCell
