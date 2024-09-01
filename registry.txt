@@ -7399,3 +7399,5 @@ https://github.com/Lopfi/ina780x.git|Contributed|INA780x
 https://github.com/cbm80amiga/ST7789_AVR.git|Contributed|ST7789 AVR
 https://github.com/cbm80amiga/GC9A01A_AVR.git|Contributed|GC9A01A AVR
 https://github.com/uutzinger/Arduino_AFE44XX.git|Contributed|AFE44XX library
+https://github.com/CMB27/ModbusADU.git|Contributed|ModbusADU
+https://github.com/CMB27/ModbusRTUComm.git|Contributed|ModbusRTUComm
