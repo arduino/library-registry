@@ -7298,3 +7298,5 @@ https://github.com/suratin27/PLCCore2
 https://github.com/Lopfi/ina780x
 https://github.com/cbm80amiga/ST7789_AVR
 https://github.com/cbm80amiga/GC9A01A_AVR
+https://github.com/CMB27/ModbusADU
+https://github.com/CMB27/ModbusRTUComm
