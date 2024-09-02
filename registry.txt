@@ -7402,3 +7402,4 @@ https://github.com/uutzinger/Arduino_AFE44XX.git|Contributed|AFE44XX library
 https://github.com/CMB27/ModbusADU.git|Contributed|ModbusADU
 https://github.com/CMB27/ModbusRTUComm.git|Contributed|ModbusRTUComm
 https://github.com/Zhentao-Lin/ESP32_WS2812_Lib.git|Contributed|ESP32_WS2812_Lib
+https://github.com/stack-chan/stackchan-arduino.git|Contributed|stackchan-arduino
