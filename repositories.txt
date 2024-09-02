@@ -7300,3 +7300,4 @@ https://github.com/cbm80amiga/ST7789_AVR
 https://github.com/cbm80amiga/GC9A01A_AVR
 https://github.com/CMB27/ModbusADU
 https://github.com/CMB27/ModbusRTUComm
+https://github.com/Zhentao-Lin/ESP32_WS2812_Lib
