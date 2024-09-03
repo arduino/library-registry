@@ -7406,3 +7406,4 @@ https://github.com/stack-chan/stackchan-arduino.git|Contributed|stackchan-arduin
 https://github.com/adbancroft/avr-fast-div.git|Contributed|avr-fast-div
 https://github.com/adbancroft/avr-fast-shift.git|Contributed|avr-fast-shift
 https://github.com/LeeLeahy2/R4A_I2C.git|Contributed|R4A_I2C
+https://github.com/LeeLeahy2/R4A_Robot.git|Contributed|R4A_Robot
