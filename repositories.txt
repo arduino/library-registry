@@ -7258,6 +7258,7 @@ https://github.com/orcadom/DS4
 https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
+https://github.com/uutzinger/Arduino_AFE44XX
 https://github.com/ConsentiumInc/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
 https://github.com/jhagas/ESPSupabase
@@ -7294,3 +7295,12 @@ https://github.com/DCS-Skunkworks/dcs-bios-arduino-library
 https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library
 https://github.com/appnostic-io/Appnostic_SC16IS7XX_Arduino_Library
 https://github.com/suratin27/PLCCore2
+https://github.com/Lopfi/ina780x
+https://github.com/cbm80amiga/ST7789_AVR
+https://github.com/cbm80amiga/GC9A01A_AVR
+https://github.com/CMB27/ModbusADU
+https://github.com/CMB27/ModbusRTUComm
+https://github.com/Zhentao-Lin/ESP32_WS2812_Lib
+https://github.com/stack-chan/stackchan-arduino
+https://github.com/adbancroft/avr-fast-div
+https://github.com/adbancroft/avr-fast-shift
