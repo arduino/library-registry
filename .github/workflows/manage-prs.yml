@@ -144,7 +144,7 @@ jobs:
           location: ${{ runner.temp }}
 
       - name: Download diff
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         with:
           path: ${{ needs.diff.outputs.path }}
           name: ${{ needs.diff.outputs.artifact }}
@@ -396,7 +396,7 @@ jobs:
     steps:
       - name: Check for existence of submission check failure flag artifact
         id: failure-flag-exists
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4.1.7
         continue-on-error: true
         with:
           name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
