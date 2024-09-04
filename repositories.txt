@@ -2005,6 +2005,7 @@ https://github.com/dok-net/ghostl.git
 https://github.com/dok-net/tca9544a.git
 https://github.com/domiluci/LiquidCrystal_NKC
 https://github.com/dominicklee/TrueProx/
+https://github.com/Domochip/Palazzetti
 https://github.com/dong-higenis/HS_CAN_485_ESP32
 https://github.com/DonnyCraft1/PIDArduino
 https://github.com/Dono7/DonoLed
