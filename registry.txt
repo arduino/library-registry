@@ -7410,3 +7410,4 @@ https://github.com/LeeLeahy2/R4A_Robot.git|Contributed|R4A_Robot
 https://github.com/GyverLibs/Looper.git|Contributed|Looper
 https://github.com/GyverLibs/AutoOTA.git|Contributed|AutoOTA
 https://github.com/Domochip/Palazzetti.git|Contributed|Palazzetti
+https://github.com/0015/LVGL_Joystick.git|Contributed|Virtual Joystick for LVGL
