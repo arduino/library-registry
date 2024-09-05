@@ -7311,4 +7311,4 @@ https://github.com/adbancroft/avr-fast-shift
 https://github.com/LeeLeahy2/R4A_I2C
 https://github.com/LeeLeahy2/R4A_Robot
 https://github.com/zoho/zoho-iot-sdk-arduino
-https://github.com/AndreiOp235/24s02ya__M24SR02-Y_Library
+https://github.com/AndreiOp235/24s02ya__M24SR02-Y
