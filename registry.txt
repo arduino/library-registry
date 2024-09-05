@@ -7412,4 +7412,4 @@ https://github.com/GyverLibs/AutoOTA.git|Contributed|AutoOTA
 https://github.com/Domochip/Palazzetti.git|Contributed|Palazzetti
 https://github.com/0015/LVGL_Joystick.git|Contributed|Virtual Joystick for LVGL
 https://github.com/zoho/zoho-iot-sdk-arduino.git|Contributed|ZOHO-IOT-SDK
-https://github.com/AndreiOp235/24s02ya__M24SR02-Y_Library.git|Contributed|24s02ya__M24SR02-Y_Library
+https://github.com/AndreiOp235/24s02ya__M24SR02-Y_Library.git|Contributed|24s02ya__M24SR02-Y
