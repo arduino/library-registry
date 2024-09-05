@@ -7411,3 +7411,4 @@ https://github.com/GyverLibs/Looper.git|Contributed|Looper
 https://github.com/GyverLibs/AutoOTA.git|Contributed|AutoOTA
 https://github.com/Domochip/Palazzetti.git|Contributed|Palazzetti
 https://github.com/0015/LVGL_Joystick.git|Contributed|Virtual Joystick for LVGL
+https://github.com/zoho/zoho-iot-sdk-arduino.git|Contributed|ZOHO-IOT-SDK
