@@ -181,6 +181,7 @@ https://bitbucket.org/teckel12/arduino-new-ping
 https://bitbucket.org/xoseperez/pcf8583
 https://git.antares.id/lorawan-loraid/arduino-loraid
 https://github.com/anthonyshibitov/text1306
+https://github.com/0015/LVGL_Joystick
 https://github.com/0015/ChatGPT_Client_For_Arduino
 https://github.com/0015/ESP32-OV5640-AF
 https://github.com/0015/TP_Arduino_DigitalRain_Anim
