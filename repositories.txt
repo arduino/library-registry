@@ -77,6 +77,8 @@ https://github.com/ams-OSRAM-Group/OSP_aospi
 https://github.com/ams-OSRAM-Group/OSP_aoresult
 https://github.com/ams-OSRAM-Group/OSP_aoosp
 https://github.com/ams-OSRAM-Group/OSP_aocmd
+https://github.com/ams-OSRAM-Group/OSP_aomw
+https://github.com/ams-OSRAM-Group/OSP_aoui32
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
