@@ -7417,3 +7417,4 @@ https://github.com/ams-OSRAM-Group/OSP_aomw.git|Contributed|OSP Middleware aomw
 https://github.com/ams-OSRAM-Group/OSP_aoui32.git|Contributed|OSP UIDriversOSP32 aoui32
 https://github.com/NaveItay/NonBlockingDelay.git|Contributed|NonBlockingDelay
 https://github.com/arduino-libraries/Arduino_PowerManagement.git|Arduino|Arduino_PowerManagement
+https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library.git|Contributed|EERAM_47XXX
