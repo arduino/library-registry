@@ -854,6 +854,7 @@ https://github.com/arduino-libraries/Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_PortentaBreakout
 https://github.com/arduino-libraries/Arduino_PortentaMachineControl
 https://github.com/arduino-libraries/Arduino_POSIXStorage
+https://github.com/arduino-libraries/Arduino_PowerManagement
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_ScienceJournal
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier
