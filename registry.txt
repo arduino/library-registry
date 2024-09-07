@@ -7421,3 +7421,4 @@ https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library.git|Contributed|EERA
 https://github.com/ConsentiumInc/EdgeNeuron.git|Contributed|EdgeNeuron
 https://github.com/cbm80amiga/DigiFont.git|Contributed|DigiFont
 https://github.com/NaveItay/PCA6408A.git|Contributed|PCA6408A
+https://github.com/NaveItay/XRA1405.git|Contributed|XRA1405
