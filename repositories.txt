@@ -7318,3 +7318,4 @@ https://github.com/zoho/zoho-iot-sdk-arduino
 https://github.com/AndreiOp235/24s02ya__M24SR02-Y_Library
 https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library
 https://github.com/ConsentiumInc/EdgeNeuron
+https://github.com/cbm80amiga/DigiFont
