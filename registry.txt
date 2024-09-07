@@ -7419,3 +7419,4 @@ https://github.com/NaveItay/NonBlockingDelay.git|Contributed|NonBlockingDelay
 https://github.com/arduino-libraries/Arduino_PowerManagement.git|Arduino|Arduino_PowerManagement
 https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library.git|Contributed|EERAM_47XXX
 https://github.com/ConsentiumInc/EdgeNeuron.git|Contributed|EdgeNeuron
+https://github.com/cbm80amiga/DigiFont.git|Contributed|DigiFont
