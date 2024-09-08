@@ -6466,6 +6466,7 @@ https://github.com/thingsboard/pubsubclient
 https://github.com/thingsboard/thingsboard-client-sdk
 https://github.com/thingSoC/embedis
 https://github.com/thinkovation/Ambimate
+https://github.com/thirstyice/Olimex16x2
 https://github.com/ThisSmartHouse/CoogleIOT
 https://github.com/thirstyice/TinyDMXSerial
 https://github.com/thomasfredericks/Bounce2
