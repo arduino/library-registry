@@ -7426,3 +7426,4 @@ https://github.com/thirstyice/Olimex16x2.git|Contributed|Olimex16x2
 https://github.com/Company-of-Things/deploii-library.git|Contributed|deploii
 https://github.com/NaveItay/XRA1405_Button.git|Contributed|XRA1405_Button
 https://github.com/thirstyice/RedEye.git|Contributed|RedEye
+https://github.com/lysek01/ENS22.git|Contributed|ENS22
