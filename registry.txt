@@ -7428,3 +7428,4 @@ https://github.com/NaveItay/XRA1405_Button.git|Contributed|XRA1405_Button
 https://github.com/thirstyice/RedEye.git|Contributed|RedEye
 https://github.com/lysek01/ENS22.git|Contributed|ENS22
 https://github.com/IlikeChooros/EEPROMReader.git|Contributed|EEPROMReader
+https://github.com/GabyGold67/ButtonToSwitch_ESP32.git|Contributed|ButtonToSwitch_ESP32
