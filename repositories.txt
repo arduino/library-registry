@@ -7330,4 +7330,3 @@ https://github.com/ConsentiumInc/EdgeNeuron
 https://github.com/cbm80amiga/DigiFont
 https://github.com/IlikeChooros/EEPROMReader
 https://github.com/GabyGold67/ButtonToSwitch_ESP32
-https://gitlab.com/iridium/9704_launch_pad/arduino_library
