@@ -7429,4 +7429,4 @@ https://github.com/thirstyice/RedEye.git|Contributed|RedEye
 https://github.com/lysek01/ENS22.git|Contributed|ENS22
 https://github.com/IlikeChooros/EEPROMReader.git|Contributed|EEPROMReader
 https://github.com/GabyGold67/ButtonToSwitch_ESP32.git|Contributed|ButtonToSwitch_ESP32
-https://gitlab.com/iridium/9704_launch_pad/arduino_library.git|Contributed|Iridium 9704 Launch Pad
+https://gitlab.com/iridium/9704_launch_pad/arduino_library.git|Contributed|Iridium9704LaunchPad
