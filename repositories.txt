@@ -1,4 +1,5 @@
 https://github.com/NaveItay/XRA1405_Button
+https://github.com/Softpath-Electronics/SoftPathElectronics
 https://github.com/Company-of-Things/deploii-library
 https://github.com/NaveItay/XRA1405
 https://github.com/NaveItay/PCA6408A
