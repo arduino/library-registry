@@ -1,3 +1,9 @@
+https://github.com/NaveItay/XRA1405_Button
+https://github.com/Softpath-Electronics/SoftPathElectronics
+https://github.com/Company-of-Things/deploii-library
+https://github.com/NaveItay/XRA1405
+https://github.com/NaveItay/PCA6408A
+https://github.com/NaveItay/NonBlockingDelay
 https://github.com/sub1inear/ArduboyI2C
 https://github.com/shorepine/amy
 https://github.com/microbotsio/MotorCell
@@ -5,7 +11,6 @@ https://github.com/gilesp1729/FontCollection
 https://github.com/gilesp1729/GestureDetector
 https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
-https://github.com/MAKIST-EDU/ESP32CAR
 https://github.com/PowerBroker2/Filters
 https://github.com/semilimes/semilimes_mcu_sdk
 https://github.com/zwieblum/ch32_deep_sleep
@@ -77,6 +82,8 @@ https://github.com/ams-OSRAM-Group/OSP_aospi
 https://github.com/ams-OSRAM-Group/OSP_aoresult
 https://github.com/ams-OSRAM-Group/OSP_aoosp
 https://github.com/ams-OSRAM-Group/OSP_aocmd
+https://github.com/ams-OSRAM-Group/OSP_aomw
+https://github.com/ams-OSRAM-Group/OSP_aoui32
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
@@ -851,6 +858,7 @@ https://github.com/arduino-libraries/Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_PortentaBreakout
 https://github.com/arduino-libraries/Arduino_PortentaMachineControl
 https://github.com/arduino-libraries/Arduino_POSIXStorage
+https://github.com/arduino-libraries/Arduino_PowerManagement
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_ScienceJournal
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier
@@ -1120,7 +1128,6 @@ https://github.com/Beirdo/Arduino-PCA9536
 https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/BelaPlatform/Trill-Arduino
 https://github.com/belidzs/PreciseLM35
-https://github.com/BenCestMoiQuoi/INSARIANNE
 https://github.com/bengtmartensson/ABeacon
 https://github.com/bengtmartensson/AGirs
 https://github.com/bengtmartensson/Arduino-DecodeIR
@@ -3713,6 +3720,9 @@ https://github.com/Lynxmotion/LSS_Library_Arduino
 https://github.com/lyriarte/StripDisplay
 https://github.com/lysek01/ModbusPowerMeter/
 https://github.com/lysek01/PulseFlowMeter/
+
+https://github.com/lysek01/ENS22/
+
 https://github.com/lyvewave/arduino-serial-data-exporter
 https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
@@ -5426,10 +5436,6 @@ https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/ruminize/FlashLightLED
 https://github.com/Rupakpoddar/FirebaseArduino
-https://github.com/Rupakpoddar/ESP32Firebase
-https://github.com/Rupakpoddar/ESP32Webhook
-https://github.com/Rupakpoddar/ESP8266Firebase
-https://github.com/Rupakpoddar/ESP8266Webhook
 https://github.com/rv701/SPL06-007
 https://github.com/RyoKosaka/HelloDrum-arduino-Library
 https://github.com/ryraki/FXLS89xx_Arduino
@@ -5724,7 +5730,7 @@ https://github.com/siktec-lab/SIKTEC-SdExplore
 https://github.com/siktec-lab/SIKTEC-SPI
 https://github.com/siktec-lab/SIKTEC-SRAM
 https://github.com/Silvan85/Nova_SDS011
-https://github.com/Silver-Fang/ArduinoSTL
+https://github.com/Silver-Fang/Cpp_Standard_Library
 https://github.com/Silver-Fang/Low-level-quick-digital-IO
 https://github.com/Silver-Fang/TimersOneForAll
 https://github.com/silvervest/Silvervest_OLED_0010_SPI
@@ -6460,6 +6466,8 @@ https://github.com/thingsboard/pubsubclient
 https://github.com/thingsboard/thingsboard-client-sdk
 https://github.com/thingSoC/embedis
 https://github.com/thinkovation/Ambimate
+https://github.com/thirstyice/Olimex16x2
+https://github.com/thirstyice/RedEye
 https://github.com/ThisSmartHouse/CoogleIOT
 https://github.com/thirstyice/TinyDMXSerial
 https://github.com/thomasfredericks/Bounce2
@@ -7290,7 +7298,7 @@ https://github.com/KobaProduction/AvrFHT
 https://github.com/cgobat/spartan-edge-esp32-boot/
 https://github.com/sierramike/HomeAssistantMQTT
 https://github.com/DannyRavi/AD7747
-https://github.com/avandalen/avdweb_CodeDebugScope
+https://github.com/avdwebLibraries/avdweb_CodeDebugScope
 https://github.com/LeeLeahy2/R4A_ESP32
 https://github.com/yuri-rage/arduino-i2c-slave
 https://bitbucket.org/jezhill/SyncGenie
@@ -7312,3 +7320,9 @@ https://github.com/LeeLeahy2/R4A_I2C
 https://github.com/LeeLeahy2/R4A_Robot
 https://github.com/zoho/zoho-iot-sdk-arduino
 https://github.com/AndreiOp235/24s02ya__M24SR02-Y
+https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library
+https://github.com/ConsentiumInc/EdgeNeuron
+https://github.com/cbm80amiga/DigiFont
+https://github.com/IlikeChooros/EEPROMReader
+https://github.com/GabyGold67/ButtonToSwitch_ESP32
+https://gitlab.com/iridium/9704_launch_pad/arduino_library
