@@ -7383,7 +7383,7 @@ https://github.com/ukkz/tiny-key-value-store.git|Contributed|Tiny Key Value Stor
 https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet.git|Contributed|esp-ui-phone_320_240_stylesheet
 https://github.com/MAKIST-EDU/ESP32CAR.git|Contributed|ESP32CAR
 https://github.com/MAKIST-EDU/MakistCar.git|Contributed|ESP32CAR
-https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS FP-Fork
+https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS
 https://github.com/Vegetable-SYC/IMU_Fusion_SYC.git|Contributed|IMU_Fusion_SYC
 https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library.git|Contributed|K24C16 EEPROM Library
 https://github.com/gilesp1729/FontCollection.git|Contributed|FontCollection
