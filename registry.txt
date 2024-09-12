@@ -4085,9 +4085,7 @@ https://github.com/ekkai/WizFi360.git|Contributed|WizFi360
 https://github.com/mathertel/RFCodes.git|Contributed|RFCodes
 https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library.git|Contributed|SparkFun SCD4x Arduino Library
 https://github.com/Silver-Fang/TimersOneForAll.git|Contributed|TimersOneForAll
-https://github.com/Rupakpoddar/ESP8266Firebase.git|Contributed|ESP8266 Firebase
 https://github.com/dmadison/CtrlUtil.git|Contributed|Controller Utilities
-https://github.com/Rupakpoddar/ESP8266Webhook.git|Contributed|ESP8266 Webhook
 https://github.com/wokwi/TinyDebug.git|Contributed|TinyDebug
 https://github.com/chochain/nanoFORTH.git|Contributed|nanoFORTH
 https://github.com/kevinstadler/TCS34725AutoGain.git|Contributed|TCS34725AutoGain
@@ -5548,7 +5546,7 @@ https://github.com/RobTillaart/DMM.git|Contributed|DMM
 https://github.com/Eugeniusz-Gienek/CSWButtons.git|Contributed|CSWButtons
 https://github.com/plageoj/request-builder.git|Contributed|RequestBuilder
 https://gitlab.com/softsysco/grove-as3935-lightning-sensor.git|Contributed|Grove_AS3935Lightning_sensor
-https://github.com/Silver-Fang/ArduinoSTL.git|Contributed|Cpp_Standard_Library
+https://github.com/Silver-Fang/Cpp_Standard_Library.git|Contributed|Cpp_Standard_Library
 https://github.com/Judiviga/ROBLEX.git|Contributed|ROBLEX
 https://github.com/RobTillaart/fast_math.git|Contributed|fast_math
 https://github.com/RCmags/pulseInput.git|Contributed|pulseInput
@@ -6460,14 +6458,12 @@ https://github.com/Zhu-jiatong/SessionManager.git|Contributed|SessionManager
 https://github.com/kevinlutzer/Arduino-PM1006K.git|Contributed|PM1006K
 https://github.com/netnspace/CanSatNeXT_GNSS.git|Contributed|CanSatNeXT_GNSS
 https://github.com/MaffooClock/DFR_Radar.git|Contributed|DFR_Radar
-https://github.com/Rupakpoddar/ESP32Webhook.git|Contributed|ESP32 Webhook
 https://github.com/GyverLibs/GyverIO.git|Contributed|GyverIO
 https://github.com/zimbora/ESP32Logger2.git|Contributed|ESP32Logger2
 https://github.com/HITISoftware/HITIComm.git|Contributed|HITIComm
 https://github.com/HITISoftware/HITICommSupport.git|Contributed|HITICommSupport
 https://github.com/CuriousScientist0/ADS1256.git|Contributed|ADS1256
 https://github.com/franeum/MicroMidiPot.git|Contributed|MicroMidiPot
-https://github.com/Rupakpoddar/ESP32Firebase.git|Contributed|ESP32 Firebase
 https://github.com/Zhu-jiatong/FilesystemUtility.git|Contributed|FilesystemUtility
 https://github.com/esp-arduino-libs/ESP32_Button.git|Contributed|ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_USB_Stream.git|Contributed|ESP32_USB_STREAM
@@ -6677,7 +6673,6 @@ https://github.com/TobiGr/SimplifiedTimer.git|Contributed|SimplifiedTimer
 https://github.com/AlfredoSystems/Alfredo-NoU3.git|Contributed|Alfredo-NoU3
 https://github.com/AlfredoSystems/AlfredoCRSF.git|Contributed|AlfredoCRSF
 https://github.com/AlfredoSystems/SimpleMelt.git|Contributed|SimpleMelt
-https://github.com/BenCestMoiQuoi/INSARIANNE.git|Contributed|INSARIANNE
 https://github.com/fyrus7/RTC3231.git|Contributed|RTC3231
 https://github.com/nthnn/diwa.git|Contributed|diwa
 https://github.com/aniket-hpp/TFT_eSPI_Scroll.git|Contributed|TFT_eSPI_Scroll
@@ -7369,7 +7364,7 @@ https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQT
 https://github.com/EduKits/ColourKit.git|Contributed|ColourKit
 https://github.com/microbotsio/CodeCell.git|Contributed|CodeCell
 https://github.com/DannyRavi/AD7747.git|Contributed|AD7747
-https://github.com/avandalen/avdweb_CodeDebugScope.git|Contributed|CodeDebugScope
+https://github.com/avdwebLibraries/avdweb_CodeDebugScope.git|Contributed|CodeDebugScope
 https://github.com/LeeLeahy2/R4A_ESP32.git|Contributed|R4A_ESP32
 https://github.com/zwieblum/ch32_deep_sleep.git|Contributed|CH32_Deep_Sleep
 https://github.com/semilimes/semilimes_mcu_sdk.git|Contributed|semilimes
@@ -7381,9 +7376,8 @@ https://github.com/PowerBroker2/Filters.git|Contributed|DSPFilters
 https://github.com/Rupakpoddar/FirebaseArduino.git|Contributed|Firebase
 https://github.com/ukkz/tiny-key-value-store.git|Contributed|Tiny Key Value Store
 https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet.git|Contributed|esp-ui-phone_320_240_stylesheet
-https://github.com/MAKIST-EDU/ESP32CAR.git|Contributed|ESP32CAR
 https://github.com/MAKIST-EDU/MakistCar.git|Contributed|ESP32CAR
-https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS FP-Fork
+https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS
 https://github.com/Vegetable-SYC/IMU_Fusion_SYC.git|Contributed|IMU_Fusion_SYC
 https://github.com/Bhanuka-Anjana/K24C16-EEPROM-Library.git|Contributed|K24C16 EEPROM Library
 https://github.com/gilesp1729/FontCollection.git|Contributed|FontCollection
@@ -7413,3 +7407,21 @@ https://github.com/Domochip/Palazzetti.git|Contributed|Palazzetti
 https://github.com/0015/LVGL_Joystick.git|Contributed|Virtual Joystick for LVGL
 https://github.com/zoho/zoho-iot-sdk-arduino.git|Contributed|ZOHO-IOT-SDK
 https://github.com/AndreiOp235/24s02ya__M24SR02-Y.git|Contributed|24s02ya__M24SR02-Y
+https://github.com/ams-OSRAM-Group/OSP_aomw.git|Contributed|OSP Middleware aomw
+https://github.com/ams-OSRAM-Group/OSP_aoui32.git|Contributed|OSP UIDriversOSP32 aoui32
+https://github.com/NaveItay/NonBlockingDelay.git|Contributed|NonBlockingDelay
+https://github.com/arduino-libraries/Arduino_PowerManagement.git|Arduino|Arduino_PowerManagement
+https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library.git|Contributed|EERAM_47XXX
+https://github.com/ConsentiumInc/EdgeNeuron.git|Contributed|EdgeNeuron
+https://github.com/cbm80amiga/DigiFont.git|Contributed|DigiFont
+https://github.com/NaveItay/PCA6408A.git|Contributed|PCA6408A
+https://github.com/NaveItay/XRA1405.git|Contributed|XRA1405
+https://github.com/thirstyice/Olimex16x2.git|Contributed|Olimex16x2
+https://github.com/Company-of-Things/deploii-library.git|Contributed|deploii
+https://github.com/NaveItay/XRA1405_Button.git|Contributed|XRA1405_Button
+https://github.com/thirstyice/RedEye.git|Contributed|RedEye
+https://github.com/lysek01/ENS22.git|Contributed|ENS22
+https://github.com/IlikeChooros/EEPROMReader.git|Contributed|EEPROMReader
+https://github.com/GabyGold67/ButtonToSwitch_ESP32.git|Contributed|ButtonToSwitch_ESP32
+https://gitlab.com/iridium/9704_launch_pad/arduino_library.git|Contributed|Iridium9704LaunchPad
+https://github.com/Softpath-Electronics/SoftPathElectronics.git|Contributed|SoftPathElectronics
