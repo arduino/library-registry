@@ -5546,7 +5546,7 @@ https://github.com/RobTillaart/DMM.git|Contributed|DMM
 https://github.com/Eugeniusz-Gienek/CSWButtons.git|Contributed|CSWButtons
 https://github.com/plageoj/request-builder.git|Contributed|RequestBuilder
 https://gitlab.com/softsysco/grove-as3935-lightning-sensor.git|Contributed|Grove_AS3935Lightning_sensor
-https://github.com/Silver-Fang/ArduinoSTL.git|Contributed|Cpp_Standard_Library
+https://github.com/Silver-Fang/Cpp_Standard_Library.git|Contributed|Cpp_Standard_Library
 https://github.com/Judiviga/ROBLEX.git|Contributed|ROBLEX
 https://github.com/RobTillaart/fast_math.git|Contributed|fast_math
 https://github.com/RCmags/pulseInput.git|Contributed|pulseInput
