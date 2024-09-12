@@ -7381,7 +7381,6 @@ https://github.com/PowerBroker2/Filters.git|Contributed|DSPFilters
 https://github.com/Rupakpoddar/FirebaseArduino.git|Contributed|Firebase
 https://github.com/ukkz/tiny-key-value-store.git|Contributed|Tiny Key Value Store
 https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet.git|Contributed|esp-ui-phone_320_240_stylesheet
-https://github.com/MAKIST-EDU/ESP32CAR.git|Contributed|ESP32CAR
 https://github.com/MAKIST-EDU/MakistCar.git|Contributed|ESP32CAR
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS
 https://github.com/Vegetable-SYC/IMU_Fusion_SYC.git|Contributed|IMU_Fusion_SYC
