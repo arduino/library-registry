@@ -6642,6 +6642,7 @@ https://github.com/VasilKalchev/LiquidMenu
 https://github.com/VasilKalchev/RGBLED
 https://github.com/VassilyDev/TSBridge
 https://github.com/VassilyDev/TSController
+https://github.com/vasutornjays/SCL3400
 https://github.com/vChavezB/lwip-Arduino
 https://github.com/vChavezB/NoBlockEEPROM
 https://github.com/vChavezB/qpcpp_esp32
