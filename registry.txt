@@ -7427,3 +7427,4 @@ https://gitlab.com/iridium/9704_launch_pad/arduino_library.git|Contributed|Iridi
 https://github.com/Softpath-Electronics/SoftPathElectronics.git|Contributed|SoftPathElectronics
 https://github.com/vasutornjays/SCL3400.git|Contributed|SCL3400
 https://github.com/Morgritech/MT-arduino-stepper-driver.git|Contributed|MT-arduino-stepper-driver
+https://github.com/Kernow-Robotics/Guppy.git|Contributed|Guppy
