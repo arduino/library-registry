@@ -7426,3 +7426,4 @@ https://github.com/GabyGold67/ButtonToSwitch_ESP32.git|Contributed|ButtonToSwitc
 https://gitlab.com/iridium/9704_launch_pad/arduino_library.git|Contributed|Iridium9704LaunchPad
 https://github.com/Softpath-Electronics/SoftPathElectronics.git|Contributed|SoftPathElectronics
 https://github.com/vasutornjays/SCL3400.git|Contributed|SCL3400
+https://github.com/Morgritech/MT-arduino-stepper-driver.git|Contributed|MT-arduino-stepper-driver
