@@ -7429,3 +7429,4 @@ https://github.com/vasutornjays/SCL3400.git|Contributed|SCL3400
 https://github.com/Morgritech/MT-arduino-stepper-driver.git|Contributed|MT-arduino-stepper-driver
 https://github.com/Kernow-Robotics/Guppy.git|Contributed|Guppy
 https://github.com/Infineon/TLE9879-BLDC-Shield.git|Contributed|TLE9879 BLDC Motor Control Shield
+https://github.com/johnsnow-nam/elio-arduino-example.git|Contributed|ELIO-ARDUINO-EXAMPLE
