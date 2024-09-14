@@ -7431,3 +7431,4 @@ https://github.com/Kernow-Robotics/Guppy.git|Contributed|Guppy
 https://github.com/Infineon/TLE9879-BLDC-Shield.git|Contributed|TLE9879 BLDC Motor Control Shield
 https://github.com/johnsnow-nam/elio-arduino-example.git|Contributed|ELIO-ARDUINO-EXAMPLE
 https://github.com/tochinet/Posit.git|Contributed|Posit
+https://github.com/vasya-zh/TMD3725.git|Contributed|TMD3725
