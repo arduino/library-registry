@@ -55,6 +55,7 @@ https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
 https://github.com/giocip/ARDUINO_num7
 https://github.com/makerlabvn/MKL_DHT
+https://github.com/vasya-zh/TMD3725
 https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
 https://github.com/spaziochirale/ArduTFLite
