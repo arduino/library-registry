@@ -7333,3 +7333,4 @@ https://github.com/GabyGold67/ButtonToSwitch_ESP32
 https://gitlab.com/iridium/9704_launch_pad/arduino_library
 https://github.com/Kernow-Robotics/Guppy
 https://github.com/johnsnow-nam/elio-arduino-example
+https://github.com/johnosbb/MicroTFLite
