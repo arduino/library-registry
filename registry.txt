@@ -7433,3 +7433,4 @@ https://github.com/johnsnow-nam/elio-arduino-example.git|Contributed|ELIO-ARDUIN
 https://github.com/tochinet/Posit.git|Contributed|Posit
 https://github.com/vasya-zh/TMD3725.git|Contributed|TMD3725
 https://github.com/johnosbb/MicroTFLite.git|Contributed|MicroTFLite
+https://github.com/thirstyice/JVC-Stereo.git|Contributed|JVC-Stereo
