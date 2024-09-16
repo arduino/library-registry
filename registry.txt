@@ -7412,7 +7412,7 @@ https://github.com/ams-OSRAM-Group/OSP_aoui32.git|Contributed|OSP UIDriversOSP32
 https://github.com/NaveItay/NonBlockingDelay.git|Contributed|NonBlockingDelay
 https://github.com/arduino-libraries/Arduino_PowerManagement.git|Arduino|Arduino_PowerManagement
 https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library.git|Contributed|EERAM_47XXX
-https://github.com/ConsentiumInc/EdgeNeuron.git|Contributed|EdgeNeuron
+https://github.com/ConsentiumIoT/EdgeNeuron.git|Contributed|EdgeNeuron
 https://github.com/cbm80amiga/DigiFont.git|Contributed|DigiFont
 https://github.com/NaveItay/PCA6408A.git|Contributed|PCA6408A
 https://github.com/NaveItay/XRA1405.git|Contributed|XRA1405
