@@ -7435,3 +7435,4 @@ https://github.com/vasya-zh/TMD3725.git|Contributed|TMD3725
 https://github.com/johnosbb/MicroTFLite.git|Contributed|MicroTFLite
 https://github.com/thirstyice/JVC-Stereo.git|Contributed|JVC-Stereo
 https://github.com/denicsdevices/DS1307.git|Contributed|DS1307
+https://github.com/RobTillaart/MCP3424.git|Contributed|MCP3424
