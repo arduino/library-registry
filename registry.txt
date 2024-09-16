@@ -7436,3 +7436,5 @@ https://github.com/johnosbb/MicroTFLite.git|Contributed|MicroTFLite
 https://github.com/thirstyice/JVC-Stereo.git|Contributed|JVC-Stereo
 https://github.com/denicsdevices/DS1307.git|Contributed|DS1307
 https://github.com/RobTillaart/MCP3424.git|Contributed|MCP3424
+https://github.com/Maaajaaa/GaussianFilter1D.git|Contributed|GaussianFilter1D
+https://github.com/Maaajaaa/SeeedNrf52480Battery.git|Contributed|SeeedNrf52480Battery
