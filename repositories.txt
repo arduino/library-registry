@@ -7277,7 +7277,7 @@ https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/uutzinger/Arduino_AFE44XX
-https://github.com/ConsentiumInc/ConsentiumThings
+https://github.com/ConsentiumIoT/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
 https://github.com/jhagas/ESPSupabase
 https://github.com/ArtronShop/IOXESP32_4-20mA_Receiver
@@ -7327,7 +7327,7 @@ https://github.com/LeeLeahy2/R4A_Robot
 https://github.com/zoho/zoho-iot-sdk-arduino
 https://github.com/AndreiOp235/24s02ya__M24SR02-Y
 https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library
-https://github.com/ConsentiumInc/EdgeNeuron
+https://github.com/ConsentiumIoT/EdgeNeuron
 https://github.com/cbm80amiga/DigiFont
 https://github.com/IlikeChooros/EEPROMReader
 https://github.com/GabyGold67/ButtonToSwitch_ESP32
