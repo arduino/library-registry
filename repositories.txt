@@ -7339,3 +7339,4 @@ https://github.com/Kernow-Robotics/Guppy
 https://github.com/johnsnow-nam/elio-arduino-example
 https://github.com/johnosbb/MicroTFLite
 https://github.com/denicsdevices/DS1307
+https://github.com/lucweb/SmartLadderFirmware
