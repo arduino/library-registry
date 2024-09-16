@@ -7438,3 +7438,4 @@ https://github.com/denicsdevices/DS1307.git|Contributed|DS1307
 https://github.com/RobTillaart/MCP3424.git|Contributed|MCP3424
 https://github.com/Maaajaaa/GaussianFilter1D.git|Contributed|GaussianFilter1D
 https://github.com/Maaajaaa/SeeedNrf52480Battery.git|Contributed|SeeedNrf52480Battery
+https://github.com/lucweb/SmartLadderFirmware.git|Contributed|SmartLadder
