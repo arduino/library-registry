@@ -7441,3 +7441,4 @@ https://github.com/Maaajaaa/SeeedNrf52480Battery.git|Contributed|SeeedNrf52480Ba
 https://github.com/lucweb/SmartLadderFirmware.git|Contributed|SmartLadder
 https://github.com/YUKAI/MakerBoard.git|Contributed|MakerBoard
 https://github.com/Kei0208/M8058.git|Contributed|M8058
+https://github.com/Alexander57rus/ADE7880Energy.git|Contributed|ADE7880Energy
