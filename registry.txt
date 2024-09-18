@@ -7442,3 +7442,4 @@ https://github.com/lucweb/SmartLadderFirmware.git|Contributed|SmartLadder
 https://github.com/YUKAI/MakerBoard.git|Contributed|MakerBoard
 https://github.com/Kei0208/M8058.git|Contributed|M8058
 https://github.com/Alexander57rus/ADE7880Energy.git|Contributed|ADE7880Energy
+https://github.com/bgo/oled-ui-lib.git|Contributed|Oled UI Components
