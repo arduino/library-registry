@@ -7440,3 +7440,4 @@ https://github.com/Maaajaaa/GaussianFilter1D.git|Contributed|GaussianFilter1D
 https://github.com/Maaajaaa/SeeedNrf52480Battery.git|Contributed|SeeedNrf52480Battery
 https://github.com/lucweb/SmartLadderFirmware.git|Contributed|SmartLadder
 https://github.com/YUKAI/MakerBoard.git|Contributed|MakerBoard
+https://github.com/Kei0208/M8058.git|Contributed|M8058
