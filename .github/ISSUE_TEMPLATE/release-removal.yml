@@ -1,0 +1,25 @@
+# See:
+# https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+
+name: Library release removal
+description: Request the removal of a library release.
+title: Library release removal request
+labels:
+  - "topic: release removal"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read the instructions for removing a library release: [here](https://github.com/arduino/library-registry/blob/main/FAQ.md#how-can-i-remove-a-release-of-my-library-from-library-manager).
+  - type: input
+    id: name
+    attributes:
+      label: Library name
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version to remove
+    validations:
+      required: true
