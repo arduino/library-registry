@@ -7342,3 +7342,4 @@ https://github.com/denicsdevices/DS1307
 https://github.com/lucweb/SmartLadderFirmware
 https://github.com/YUKAI/MakerBoard
 https://github.com/Kei0208/M8058
+https://github.com/Alexander57rus/ADE7880Energy
