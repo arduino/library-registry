@@ -1,3 +1,5 @@
+https://github.com/Maaajaaa/GaussianFilter1D
+https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
 https://github.com/Infineon/TLE9879-BLDC-Shield.git
 https://github.com/Morgritech/MT-arduino-stepper-driver
@@ -5300,6 +5302,7 @@ https://github.com/RobTillaart/MCP23008
 https://github.com/RobTillaart/MCP23017_RT
 https://github.com/RobTillaart/MCP23S08
 https://github.com/RobTillaart/MCP23S17
+https://github.com/RobTillaart/MCP3424
 https://github.com/RobTillaart/MCP4261
 https://github.com/RobTillaart/MCP4725
 https://github.com/RobTillaart/MCP9808_RT
@@ -7335,3 +7338,9 @@ https://gitlab.com/iridium/9704_launch_pad/arduino_library
 https://github.com/Kernow-Robotics/Guppy
 https://github.com/johnsnow-nam/elio-arduino-example
 https://github.com/johnosbb/MicroTFLite
+https://github.com/denicsdevices/DS1307
+https://github.com/lucweb/SmartLadderFirmware
+https://github.com/YUKAI/MakerBoard
+https://github.com/Kei0208/M8058
+https://github.com/Alexander57rus/ADE7880Energy
+https://github.com/bgo/oled-ui-lib
