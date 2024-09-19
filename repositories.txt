@@ -1068,7 +1068,7 @@ https://github.com/Avamander/arduino-tvout
 https://github.com/avandalen/avdweb_AnalogReadFast
 https://github.com/avandalen/avdweb_FreqPeriodCounter
 https://github.com/avandalen/avdweb_SAMDtimer
-https://github.com/avandalen/avdweb_Switch
+https://github.com/avdwebLibraries/avdweb_Switch
 https://github.com/avandalen/VirtualDelay
 https://github.com/avinabmalla/ESP32_BleSerial
 https://github.com/avishorp/TM1637
