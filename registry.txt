@@ -7443,3 +7443,5 @@ https://github.com/YUKAI/MakerBoard.git|Contributed|MakerBoard
 https://github.com/Kei0208/M8058.git|Contributed|M8058
 https://github.com/Alexander57rus/ADE7880Energy.git|Contributed|ADE7880Energy
 https://github.com/bgo/oled-ui-lib.git|Contributed|Oled UI Components
+https://github.com/AITINKR/AITINKR_JSON_FIELDS.git|Contributed|AITINKR_JSON_FIELDS
+https://github.com/AITINKR/AITINKR_AIOT_V2.git|Contributed|AITINKR_AIOT_V2
