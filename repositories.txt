@@ -7344,3 +7344,5 @@ https://github.com/YUKAI/MakerBoard
 https://github.com/Kei0208/M8058
 https://github.com/Alexander57rus/ADE7880Energy
 https://github.com/bgo/oled-ui-lib
+https://github.com/AITINKR/AITINKR_JSON_FIELDS
+https://github.com/AITINKR/AITINKR_AIOT_V2
