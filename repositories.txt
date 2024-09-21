@@ -1,4 +1,4 @@
-https://github.com/arielzw/DPS-Power-Supply-library-for-Arduino
+https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
 https://github.com/Maaajaaa/GaussianFilter1D
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
@@ -4498,6 +4498,7 @@ https://github.com/OpenBCI/OpenBCI_Radios
 https://github.com/OpenBCI/OpenBCI_WIFI
 https://github.com/OpenBCI/OpenBCI_Wifi_Master_Library
 https://github.com/OpenCIAg/BlueFairy
+https://gitlab.com/ettotog/tiny-scheduler
 https://github.com/OpenDevice/opendevice-lib-arduino
 https://github.com/openenergymonitor/EmonLib
 https://github.com/OpenFTC/HiTechnic-Arduino
@@ -7345,3 +7346,7 @@ https://github.com/YUKAI/MakerBoard
 https://github.com/Kei0208/M8058
 https://github.com/Alexander57rus/ADE7880Energy
 https://github.com/bgo/oled-ui-lib
+https://github.com/AITINKR/AITINKR_JSON_FIELDS
+https://github.com/AITINKR/AITINKR_AIOT_V2
+https://github.com/guerratron/minIniFS
+https://github.com/arielzw/DPS-Power-Supply-library-for-Arduino
