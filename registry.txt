@@ -7447,3 +7447,4 @@ https://github.com/AITINKR/AITINKR_JSON_FIELDS.git|Contributed|AITINKR_JSON_FIEL
 https://github.com/AITINKR/AITINKR_AIOT_V2.git|Contributed|AITINKR_AIOT_V2
 https://github.com/guerratron/minIniFS.git|Contributed|minIniFS
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib.git|Contributed|dswpainelpro
+https://gitlab.com/ettotog/tiny-scheduler.git|Contributed|TinyScheduler
