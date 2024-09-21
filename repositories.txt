@@ -1,3 +1,4 @@
+https://github.com/arielzw/DPS-Power-Supply-library-for-Arduino
 https://github.com/Maaajaaa/GaussianFilter1D
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
