@@ -1711,6 +1711,7 @@ https://github.com/TcMenu/LiquidCrystalIO
 https://github.com/TcMenu/SimpleCollections
 https://github.com/TcMenu/TaskManagerIO
 https://github.com/TcMenu/tcMenuLib
+https://github.com/TcMenu/tcMenuLog
 https://github.com/TcMenu/tcUnicodeHelper
 https://github.com/david1983/eBtn
 https://github.com/DavidArmstrong/SCL3300
