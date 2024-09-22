@@ -7350,3 +7350,4 @@ https://github.com/AITINKR/AITINKR_JSON_FIELDS
 https://github.com/AITINKR/AITINKR_AIOT_V2
 https://github.com/guerratron/minIniFS
 https://github.com/arielzw/DPS-Power-Supply-library-for-Arduino
+https://github.com/arastaskiran/RustyKeypad
