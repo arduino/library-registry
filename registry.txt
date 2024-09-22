@@ -7449,3 +7449,4 @@ https://github.com/guerratron/minIniFS.git|Contributed|minIniFS
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib.git|Contributed|dswpainelpro
 https://gitlab.com/ettotog/tiny-scheduler.git|Contributed|TinyScheduler
 https://github.com/arastaskiran/RustyKeypad.git|Contributed|RustyKeypad
+https://github.com/TcMenu/tcMenuLog.git|Contributed|TcMenuLog
