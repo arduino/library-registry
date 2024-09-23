@@ -5848,7 +5848,7 @@ https://github.com/zakarialaoui10/ZikoMatrix.git|Contributed|ZikoMatrix
 https://github.com/SolderedElectronics/Soldered-CCS811-Air-Quality-Sensor-Arduino-Library.git|Contributed|CCS811-Soldered
 https://github.com/SolderedElectronics/Soldered-CAN-Bus-Breakout-MCP2518-Arduino-Library.git|Contributed|Soldered CAN Bus Breakout Arduino Library
 https://github.com/SolderedElectronics/Soldered-BME280-BME680-Gas-Sensor-Arduino-Library.git|Contributed|Soldered BME280 and BME680 EasyC Library
-https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library.git|Contributed|Soldered PCF85063A RTC Library
+https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library.git|Contributed|Soldered PCF85063A RTC Arduino Library
 https://github.com/SolderedElectronics/Soldered-DAC-Breakout_MCP47A1-Arduino-Library.git|Contributed|Soldered MCP47A1 DAC library
 https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Library.git|Contributed|Soldered WS2812 Arduino Library
 https://github.com/SolderedElectronics/Soldered-Fingerprint-Sensor-Arduino-Library.git|Contributed|Soldered Fingerprint Sensor
