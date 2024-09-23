@@ -5870,7 +5870,7 @@ https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Libra
 https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library.git|Contributed|Soldered MCP4018 Digipot Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library.git|Contributed|Soldered ADS1015 and ADS1115 EasyC Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library.git|Contributed|Soldered AS3935 Lightning sensor library
-https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library.git|Contributed|Soldered OLED Display
+https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library.git|Contributed|Soldered OLED Display Arduino Library
 https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library.git|Contributed|Soldered MQ-X Gas Sensor Library
 https://github.com/mtsurumaki/PwmSin.git|Contributed|PwmSin
 https://github.com/kmilo17pet/QuarkTS-cpp.git|Contributed|QuarkTS
