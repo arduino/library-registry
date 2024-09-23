@@ -7450,3 +7450,4 @@ https://github.com/Valdemir-DSW/DSW-painel-arduino-lib.git|Contributed|dswpainel
 https://gitlab.com/ettotog/tiny-scheduler.git|Contributed|TinyScheduler
 https://github.com/arastaskiran/RustyKeypad.git|Contributed|RustyKeypad
 https://github.com/TcMenu/tcMenuLog.git|Contributed|TcMenuLog
+https://github.com/Freenove/Freenove_RFID_Lib_for_Pico.git|Contributed|Freenove RFID Lib for Pico
