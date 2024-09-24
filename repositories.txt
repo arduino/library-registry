@@ -7353,3 +7353,5 @@ https://github.com/guerratron/minIniFS
 https://github.com/arielzw/DPS-Power-Supply-library-for-Arduino
 https://github.com/arastaskiran/RustyKeypad
 https://github.com/Freenove/Freenove_RFID_Lib_for_Pico
+https://github.com/thomasgeissl/Parameter
+https://github.com/thomasgeissl/ESP-NOW-MIDI
