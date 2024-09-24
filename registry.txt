@@ -7354,7 +7354,7 @@ https://github.com/Johboh/EspNowNetworkHostDriver.git|Contributed|EspNowNetworkH
 https://github.com/Johboh/EspNowNetworkNode.git|Contributed|EspNowNetworkNode
 https://github.com/nthnn/goblin3d.git|Contributed|goblin3d
 https://github.com/JFlores88/SteerBot_TB6612.git|Contributed|SteerBot_TB6612
-https://github.com/espressif/esp-ui.git|Contributed|esp-ui
+https://github.com/espressif/esp-ui.git|Contributed|esp-brookesia
 https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet.git|Contributed|esp-ui-phone_480_480_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet.git|Contributed|esp-ui-phone_800_480_stylesheet
 https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet.git|Contributed|esp-ui-phone_1024_600_stylesheet
