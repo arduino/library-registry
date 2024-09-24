@@ -7451,3 +7451,5 @@ https://gitlab.com/ettotog/tiny-scheduler.git|Contributed|TinyScheduler
 https://github.com/arastaskiran/RustyKeypad.git|Contributed|RustyKeypad
 https://github.com/TcMenu/tcMenuLog.git|Contributed|TcMenuLog
 https://github.com/Freenove/Freenove_RFID_Lib_for_Pico.git|Contributed|Freenove RFID Lib for Pico
+https://github.com/thomasgeissl/Parameter.git|Contributed|Parameter
+https://github.com/thomasgeissl/ESP-NOW-MIDI.git|Contributed|ESP-NOW MIDI
