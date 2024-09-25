@@ -7454,3 +7454,4 @@ https://github.com/Freenove/Freenove_RFID_Lib_for_Pico.git|Contributed|Freenove 
 https://github.com/thomasgeissl/Parameter.git|Contributed|Parameter
 https://github.com/thomasgeissl/ESP-NOW-MIDI.git|Contributed|ESP-NOW MIDI
 https://gitlab.com/ettotog/tiny-io.git|Contributed|TinyIO
+https://github.com/adbancroft/avr-fast-map.git|Contributed|avr-fast-map
