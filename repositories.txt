@@ -7356,3 +7356,4 @@ https://github.com/arastaskiran/RustyKeypad
 https://github.com/Freenove/Freenove_RFID_Lib_for_Pico
 https://github.com/thomasgeissl/Parameter
 https://github.com/thomasgeissl/ESP-NOW-MIDI
+https://github.com/adbancroft/avr-fast-map
