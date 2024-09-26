@@ -1,5 +1,6 @@
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
 https://github.com/Maaajaaa/GaussianFilter1D
+https://github.com/elecrazy/servoctr.git
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
 https://github.com/Infineon/TLE9879-BLDC-Shield.git
