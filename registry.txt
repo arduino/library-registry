@@ -7457,3 +7457,4 @@ https://gitlab.com/ettotog/tiny-io.git|Contributed|TinyIO
 https://github.com/adbancroft/avr-fast-map.git|Contributed|avr-fast-map
 https://github.com/soynaldo/Labvee.git|Contributed|Labvee Library
 https://github.com/JensDMadsen/Multitasker.git|Contributed|Multitasker
+https://github.com/elecrazy/servoctr.git|Contributed|ServoCtrl
