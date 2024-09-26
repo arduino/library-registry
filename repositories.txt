@@ -7358,3 +7358,4 @@ https://github.com/thomasgeissl/Parameter
 https://github.com/thomasgeissl/ESP-NOW-MIDI
 https://github.com/adbancroft/avr-fast-map
 https://github.com/soynaldo/Labvee
+https://github.com/JensDMadsen/Multitasker
