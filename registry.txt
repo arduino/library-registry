@@ -7460,3 +7460,4 @@ https://github.com/JensDMadsen/Multitasker.git|Contributed|Multitasker
 https://github.com/elecrazy/servoctr.git|Contributed|ServoCtrl
 https://github.com/bwucke/TouchLed.git|Contributed|TouchLed
 https://github.com/MIT-Senseable-City-Lab/octopus-firmware.git|Contributed|Octopus Firmware
+https://github.com/piscodev/r4httpclient.git|Contributed|R4HttpClient
