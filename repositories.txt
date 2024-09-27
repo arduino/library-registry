@@ -7313,7 +7313,6 @@ https://github.com/DouglasFlores-fun/SimpleLogger
 https://github.com/KobaProduction/AvrFHT
 https://github.com/cgobat/spartan-edge-esp32-boot/
 https://github.com/sierramike/HomeAssistantMQTT
-https://github.com/DannyRavi/AD7747
 https://github.com/avdwebLibraries/avdweb_CodeDebugScope
 https://github.com/LeeLeahy2/R4A_ESP32
 https://github.com/yuri-rage/arduino-i2c-slave
