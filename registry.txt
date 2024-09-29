@@ -7462,3 +7462,4 @@ https://github.com/bwucke/TouchLed.git|Contributed|TouchLed
 https://github.com/MIT-Senseable-City-Lab/octopus-firmware.git|Contributed|Octopus Firmware
 https://github.com/piscodev/r4httpclient.git|Contributed|R4HttpClient
 https://github.com/arastaskiran/RustyVoltmeter.git|Contributed|RustyVoltmeter
+https://github.com/rszczepanski93/EduBox_ArduinoLibrary.git|Contributed|EduBox
