@@ -1,3 +1,4 @@
+https://github.com/rszczepanski93/EduBox_ArduinoLibrary
 https://github.com/MIT-Senseable-City-Lab/octopus-firmware
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
 https://github.com/elecrazy/servoctr.git
