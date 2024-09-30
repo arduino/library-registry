@@ -7471,3 +7471,4 @@ https://github.com/dashio-connect/arduino-dashioBluno.git|Contributed|DashioBlun
 https://github.com/dashio-connect/arduino-dashioBluefruit.git|Contributed|DashioBluefruit
 https://github.com/dashio-connect/arduino-dashioSAMD_NINA.git|Contributed|DashioSAMD_NINA
 https://github.com/DIYables/DIYables-LED-Matrix.git|Contributed|DIYables_LED_Matrix
+https://github.com/RoboCore/RoboCore_BRIICK_Keypad.git|Contributed|RoboCore - BRIICK Keypad
