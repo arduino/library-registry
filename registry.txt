@@ -7463,3 +7463,10 @@ https://github.com/MIT-Senseable-City-Lab/octopus-firmware.git|Contributed|Octop
 https://github.com/piscodev/r4httpclient.git|Contributed|R4HttpClient
 https://github.com/arastaskiran/RustyVoltmeter.git|Contributed|RustyVoltmeter
 https://github.com/rszczepanski93/EduBox_ArduinoLibrary.git|Contributed|EduBox
+https://github.com/dashio-connect/arduin-dashio-utils.git|Contributed|Dashio
+https://github.com/dashio-connect/arduino-dashioNano33BLE.git|Contributed|DashioNano33BLE
+https://github.com/dashio-connect/arduino-dashioMKR1500.git|Contributed|DashioMKR1500
+https://github.com/dashio-connect/arduino-dashioESP.git|Contributed|DashioESP
+https://github.com/dashio-connect/arduino-dashioBluno.git|Contributed|DashioBluno
+https://github.com/dashio-connect/arduino-dashioBluefruit.git|Contributed|DashioBluefruit
+https://github.com/dashio-connect/arduino-dashioSAMD_NINA.git|Contributed|DashioSAMD_NINA
