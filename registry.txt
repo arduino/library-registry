@@ -7470,3 +7470,4 @@ https://github.com/dashio-connect/arduino-dashioESP.git|Contributed|DashioESP
 https://github.com/dashio-connect/arduino-dashioBluno.git|Contributed|DashioBluno
 https://github.com/dashio-connect/arduino-dashioBluefruit.git|Contributed|DashioBluefruit
 https://github.com/dashio-connect/arduino-dashioSAMD_NINA.git|Contributed|DashioSAMD_NINA
+https://github.com/DIYables/DIYables-LED-Matrix.git|Contributed|DIYables_LED_Matrix
