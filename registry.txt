@@ -5866,7 +5866,7 @@ https://github.com/yashi/Servo328.git|Contributed|Servo328
 https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library.git|Contributed|HX711 SOLDERED
 https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library.git|Contributed|Soldered SI114X Light Sensor
 https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino-Library.git|Contributed|Soldered TCA9548A Multiplexer Arduino Library
-https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library.git|Contributed|Soldered Hall Effect Library
+https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library.git|Contributed|Soldered Hall Effect Arduino Library
 https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library.git|Contributed|Soldered MCP4018 Arduino Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library.git|Contributed|Soldered ADS1015 and ADS1115 EasyC Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library.git|Contributed|Soldered AS3935 Lightning sensor library
