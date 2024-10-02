@@ -5841,7 +5841,7 @@ https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-
 https://github.com/SolderedElectronics/Soldered-LCD-library.git|Contributed|Soldered LCD
 https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.git|Contributed|Soldered Obstacle Sensor
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102.git|Contributed|VEGA_MAX30102
-https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|MCP23017 Soldered Library
+https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|Soldered MCP23017 Arduino Library
 https://github.com/Tobiyouth/WaterFlow.git|Contributed|WaterFlow
 https://github.com/adafruit/Adafruit_IntelliKeys.git|Contributed|Adafruit IntelliKeys
 https://github.com/zakarialaoui10/ZikoMatrix.git|Contributed|ZikoMatrix
