@@ -1,4 +1,15 @@
+https://github.com/DIYables/DIYables-LED-Matrix
+https://github.com/dashio-connect/arduin-dashio-utils
+https://github.com/dashio-connect/arduino-dashioNano33BLE
+https://github.com/dashio-connect/arduino-dashioMKR1500
+https://github.com/dashio-connect/arduino-dashioESP
+https://github.com/dashio-connect/arduino-dashioBluno
+https://github.com/dashio-connect/arduino-dashioBluefruit
+https://github.com/dashio-connect/arduino-dashioSAMD_NINA
+https://github.com/rszczepanski93/EduBox_ArduinoLibrary
+https://github.com/MIT-Senseable-City-Lab/octopus-firmware
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
+https://github.com/elecrazy/servoctr.git
 https://github.com/Maaajaaa/GaussianFilter1D
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
@@ -992,6 +1003,7 @@ https://github.com/arpruss/vectordisplayarduino
 https://github.com/ARSadri/PushButtonClicks
 https://github.com/ArsaLearn/Arsa-Main
 https://github.com/arsalmaner/Arduino-Libraries
+https://github.com/bwucke/TouchLed
 https://github.com/ArtronShop/Artron_DS1338
 https://github.com/ArtronShop/ArtronShop_BH1750
 https://github.com/ArtronShop/ArtronShop_LineNotify
@@ -1711,6 +1723,7 @@ https://github.com/TcMenu/LiquidCrystalIO
 https://github.com/TcMenu/SimpleCollections
 https://github.com/TcMenu/TaskManagerIO
 https://github.com/TcMenu/tcMenuLib
+https://github.com/TcMenu/tcMenuLog
 https://github.com/TcMenu/tcUnicodeHelper
 https://github.com/david1983/eBtn
 https://github.com/DavidArmstrong/SCL3300
@@ -4499,6 +4512,7 @@ https://github.com/OpenBCI/OpenBCI_WIFI
 https://github.com/OpenBCI/OpenBCI_Wifi_Master_Library
 https://github.com/OpenCIAg/BlueFairy
 https://gitlab.com/ettotog/tiny-scheduler
+https://gitlab.com/ettotog/tiny-io
 https://github.com/OpenDevice/opendevice-lib-arduino
 https://github.com/openenergymonitor/EmonLib
 https://github.com/OpenFTC/HiTechnic-Arduino
@@ -5113,6 +5127,7 @@ https://github.com/Robertndrei/SCD30-Modbus
 https://github.com/robertsallent/arduino_flanco
 https://github.com/robgmsn/PureDigit
 https://github.com/Robo-Wunderkind/RoboWunduino
+https://github.com/RoboCore/RoboCore_BRIICK_Keypad
 https://github.com/RoboCore/RoboCore_MMA8452Q
 https://github.com/RoboCore/RoboCore_Rocky
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0
@@ -5399,6 +5414,7 @@ https://github.com/RobTillaart/Troolean
 https://github.com/RobTillaart/TSL235R
 https://github.com/RobTillaart/TSL260R
 https://github.com/RobTillaart/UUID
+https://github.com/RobTillaart/Vibration
 https://github.com/RobTillaart/VolumeConverter
 https://github.com/RobTillaart/WaterMix
 https://github.com/RobTillaart/WaveMix
@@ -7350,3 +7366,12 @@ https://github.com/AITINKR/AITINKR_JSON_FIELDS
 https://github.com/AITINKR/AITINKR_AIOT_V2
 https://github.com/guerratron/minIniFS
 https://github.com/arielzw/DpsPowerSupply
+https://github.com/arastaskiran/RustyKeypad
+https://github.com/Freenove/Freenove_RFID_Lib_for_Pico
+https://github.com/thomasgeissl/Parameter
+https://github.com/thomasgeissl/ESP-NOW-MIDI
+https://github.com/adbancroft/avr-fast-map
+https://github.com/soynaldo/Labvee
+https://github.com/JensDMadsen/Multitasker
+https://github.com/piscodev/r4httpclient
+https://github.com/arastaskiran/RustyVoltmeter
