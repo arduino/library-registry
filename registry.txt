@@ -5854,7 +5854,7 @@ https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Librar
 https://github.com/SolderedElectronics/Soldered-Fingerprint-Sensor-Arduino-Library.git|Contributed|Soldered Fingerprint Sensor
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library.git|Contributed|Soldered PMS7003 Arduino Library
 https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library.git|Contributed|Soldered nRF24 Library
-https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library.git|Contributed|Soldered Digital Light Sensor
+https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library.git|Contributed|Soldered LTR-507 Arduino Library
 https://github.com/SolderedElectronics/Soldered-BQ27441-Battery-Fuel-Gauge-Arduino-Library.git|Contributed|Soldered BQ27441-G1 Arduino Library
 https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library.git|Contributed|Soldered INA219 Board Arduino Library
 https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Library.git|Contributed|Soldered SIM800L Arduino Library
