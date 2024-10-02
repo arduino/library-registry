@@ -5839,7 +5839,7 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30100.git|Co
 https://github.com/LuSeKa/HX711_light.git|Contributed|HX711_light
 https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-Library.git|Contributed|Soldered Ultrasonic Distance Sensor Arduino library
 https://github.com/SolderedElectronics/Soldered-LCD-library.git|Contributed|Soldered LCD
-https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.git|Contributed|Soldered Obstacle Sensor
+https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.git|Contributed|Soldered Obstacle Sensor Arduino Library
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102.git|Contributed|VEGA_MAX30102
 https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|Soldered MCP23017 Arduino Library
 https://github.com/Tobiyouth/WaterFlow.git|Contributed|WaterFlow
