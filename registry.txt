@@ -7355,7 +7355,6 @@ https://github.com/Johboh/EspNowNetworkNode.git|Contributed|EspNowNetworkNode
 https://github.com/nthnn/goblin3d.git|Contributed|goblin3d
 https://github.com/JFlores88/SteerBot_TB6612.git|Contributed|SteerBot_TB6612
 https://github.com/espressif/esp-brookesia.git|Contributed|esp-brookesia
-https://github.com/esp-arduino-libs/esp-ui-phone_1024_600_stylesheet.git|Contributed|esp-ui-phone_1024_600_stylesheet
 https://github.com/GyverLibs/WiFiConnector.git|Contributed|WiFiConnector
 https://github.com/cgobat/spartan-edge-esp32-boot.git|Contributed|spartan_edge_esp32_boot
 https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQTT
