@@ -5839,22 +5839,22 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30100.git|Co
 https://github.com/LuSeKa/HX711_light.git|Contributed|HX711_light
 https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-Library.git|Contributed|Soldered Ultrasonic Distance Sensor Arduino library
 https://github.com/SolderedElectronics/Soldered-LCD-library.git|Contributed|Soldered LCD
-https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.git|Contributed|Soldered Obstacle Sensor
+https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library.git|Contributed|Soldered Obstacle Sensor Arduino Library
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_max30102.git|Contributed|VEGA_MAX30102
-https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|MCP23017 Soldered Library
+https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library.git|Contributed|Soldered MCP23017 Arduino Library
 https://github.com/Tobiyouth/WaterFlow.git|Contributed|WaterFlow
 https://github.com/adafruit/Adafruit_IntelliKeys.git|Contributed|Adafruit IntelliKeys
 https://github.com/zakarialaoui10/ZikoMatrix.git|Contributed|ZikoMatrix
 https://github.com/SolderedElectronics/Soldered-CCS811-Air-Quality-Sensor-Arduino-Library.git|Contributed|CCS811-Soldered
 https://github.com/SolderedElectronics/Soldered-CAN-Bus-Breakout-MCP2518-Arduino-Library.git|Contributed|Soldered CAN Bus Breakout Arduino Library
 https://github.com/SolderedElectronics/Soldered-BME280-BME680-Gas-Sensor-Arduino-Library.git|Contributed|Soldered BME280 and BME680 EasyC Library
-https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library.git|Contributed|Soldered PCF85063A RTC Library
+https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library.git|Contributed|Soldered PCF85063A RTC Arduino Library
 https://github.com/SolderedElectronics/Soldered-DAC-Breakout_MCP47A1-Arduino-Library.git|Contributed|Soldered MCP47A1 DAC library
 https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Library.git|Contributed|Soldered WS2812 Arduino Library
 https://github.com/SolderedElectronics/Soldered-Fingerprint-Sensor-Arduino-Library.git|Contributed|Soldered Fingerprint Sensor
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library.git|Contributed|Soldered PMS7003 Arduino Library
-https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library.git|Contributed|Soldered nRF24 Library
-https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library.git|Contributed|Soldered Digital Light Sensor
+https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library.git|Contributed|Soldered nRF24 Arduino Library
+https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library.git|Contributed|Soldered LTR-507 Arduino Library
 https://github.com/SolderedElectronics/Soldered-BQ27441-Battery-Fuel-Gauge-Arduino-Library.git|Contributed|Soldered BQ27441-G1 Arduino Library
 https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library.git|Contributed|Soldered INA219 Board Arduino Library
 https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Library.git|Contributed|Soldered SIM800L Arduino Library
@@ -5863,15 +5863,15 @@ https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library.g
 https://github.com/SequentMicrosystems/Sequent-ESP32-PI-Library.git|Contributed|SM_ESP32Pi
 https://github.com/adafruit/Adafruit_CPFS.git|Contributed|Adafruit CPFS
 https://github.com/yashi/Servo328.git|Contributed|Servo328
-https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library.git|Contributed|HX711 SOLDERED
-https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library.git|Contributed|Soldered SI114X Light Sensor
+https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library.git|Contributed|Soldered SI114X Light Sensor Arduino Library
+https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library.git|Contributed|SOLDERED HX711 Arduino Library
 https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino-Library.git|Contributed|Soldered TCA9548A Multiplexer Arduino Library
-https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library.git|Contributed|Soldered Hall Effect Library
-https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library.git|Contributed|Soldered MCP4018 Digipot Library
+https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library.git|Contributed|Soldered Hall Effect Arduino Library
+https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library.git|Contributed|Soldered MCP4018 Arduino Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library.git|Contributed|Soldered ADS1015 and ADS1115 EasyC Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library.git|Contributed|Soldered AS3935 Lightning sensor library
-https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library.git|Contributed|Soldered OLED Display
-https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library.git|Contributed|Soldered MQ-X Gas Sensor Library
+https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library.git|Contributed|Soldered OLED Display Arduino Library
+https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library.git|Contributed|Soldered MQ-X Gas Sensor Arduino Library
 https://github.com/mtsurumaki/PwmSin.git|Contributed|PwmSin
 https://github.com/kmilo17pet/QuarkTS-cpp.git|Contributed|QuarkTS
 https://github.com/2bndy5/CirquePinnacle.git|Contributed|CirquePinnacle
@@ -7354,9 +7354,7 @@ https://github.com/Johboh/EspNowNetworkHostDriver.git|Contributed|EspNowNetworkH
 https://github.com/Johboh/EspNowNetworkNode.git|Contributed|EspNowNetworkNode
 https://github.com/nthnn/goblin3d.git|Contributed|goblin3d
 https://github.com/JFlores88/SteerBot_TB6612.git|Contributed|SteerBot_TB6612
-https://github.com/espressif/esp-ui.git|Contributed|esp-ui
-https://github.com/esp-arduino-libs/esp-ui-phone_480_480_stylesheet.git|Contributed|esp-ui-phone_480_480_stylesheet
-https://github.com/esp-arduino-libs/esp-ui-phone_800_480_stylesheet.git|Contributed|esp-ui-phone_800_480_stylesheet
+https://github.com/espressif/esp-brookesia.git|Contributed|esp-brookesia
 https://github.com/GyverLibs/WiFiConnector.git|Contributed|WiFiConnector
 https://github.com/cgobat/spartan-edge-esp32-boot.git|Contributed|spartan_edge_esp32_boot
 https://github.com/sierramike/HomeAssistantMQTT.git|Contributed|HomeAssistantMQTT
@@ -7374,7 +7372,6 @@ https://bitbucket.org/jezhill/SyncGenie.git|Contributed|SyncGenie
 https://github.com/PowerBroker2/Filters.git|Contributed|DSPFilters
 https://github.com/Rupakpoddar/FirebaseArduino.git|Contributed|Firebase
 https://github.com/ukkz/tiny-key-value-store.git|Contributed|Tiny Key Value Store
-https://github.com/esp-arduino-libs/esp-ui-phone_320_240_stylesheet.git|Contributed|esp-ui-phone_320_240_stylesheet
 https://github.com/MAKIST-EDU/MakistCar.git|Contributed|ESP32CAR
 https://github.com/DCS-Skunkworks/dcs-bios-arduino-library.git|Contributed|DCS-BIOS
 https://github.com/Vegetable-SYC/IMU_Fusion_SYC.git|Contributed|IMU_Fusion_SYC
@@ -7452,3 +7449,24 @@ https://github.com/TcMenu/tcMenuLog.git|Contributed|TcMenuLog
 https://github.com/Freenove/Freenove_RFID_Lib_for_Pico.git|Contributed|Freenove RFID Lib for Pico
 https://github.com/thomasgeissl/Parameter.git|Contributed|Parameter
 https://github.com/thomasgeissl/ESP-NOW-MIDI.git|Contributed|ESP-NOW MIDI
+https://gitlab.com/ettotog/tiny-io.git|Contributed|TinyIO
+https://github.com/adbancroft/avr-fast-map.git|Contributed|avr-fast-map
+https://github.com/soynaldo/Labvee.git|Contributed|Labvee Library
+https://github.com/JensDMadsen/Multitasker.git|Contributed|Multitasker
+https://github.com/elecrazy/servoctr.git|Contributed|ServoCtrl
+https://github.com/bwucke/TouchLed.git|Contributed|TouchLed
+https://github.com/MIT-Senseable-City-Lab/octopus-firmware.git|Contributed|Octopus Firmware
+https://github.com/piscodev/r4httpclient.git|Contributed|R4HttpClient
+https://github.com/arastaskiran/RustyVoltmeter.git|Contributed|RustyVoltmeter
+https://github.com/rszczepanski93/EduBox_ArduinoLibrary.git|Contributed|EduBox
+https://github.com/dashio-connect/arduin-dashio-utils.git|Contributed|Dashio
+https://github.com/dashio-connect/arduino-dashioNano33BLE.git|Contributed|DashioNano33BLE
+https://github.com/dashio-connect/arduino-dashioMKR1500.git|Contributed|DashioMKR1500
+https://github.com/dashio-connect/arduino-dashioESP.git|Contributed|DashioESP
+https://github.com/dashio-connect/arduino-dashioBluno.git|Contributed|DashioBluno
+https://github.com/dashio-connect/arduino-dashioBluefruit.git|Contributed|DashioBluefruit
+https://github.com/dashio-connect/arduino-dashioSAMD_NINA.git|Contributed|DashioSAMD_NINA
+https://github.com/DIYables/DIYables-LED-Matrix.git|Contributed|DIYables_LED_Matrix
+https://github.com/RoboCore/RoboCore_BRIICK_Keypad.git|Contributed|RoboCore - BRIICK Keypad
+https://github.com/RobTillaart/Vibration.git|Contributed|Vibration
+https://github.com/OpenBuilds/OpenBuildsBLOX.git|Contributed|OpenBuildsBlox
