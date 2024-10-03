@@ -7470,3 +7470,4 @@ https://github.com/DIYables/DIYables-LED-Matrix.git|Contributed|DIYables_LED_Mat
 https://github.com/RoboCore/RoboCore_BRIICK_Keypad.git|Contributed|RoboCore - BRIICK Keypad
 https://github.com/RobTillaart/Vibration.git|Contributed|Vibration
 https://github.com/OpenBuilds/OpenBuildsBLOX.git|Contributed|OpenBuildsBlox
+https://github.com/csd-robocon-nitk/LSA08_Simplified.git|Contributed|LSA08_Simplified
