@@ -3857,6 +3857,7 @@ https://github.com/MaffooClock/DFR_Radar
 https://github.com/MaffooClock/ESP32RotaryEncoder
 https://github.com/MAINAKMONDAL98/MSMPLOTTER
 https://github.com/mairas/ReactESP
+https://github.com/maikelsalazar/SevenSegmentDisplay
 https://github.com/maisonsmd/msTask
 https://github.com/MaiTheLord/BetterOTA
 https://github.com/MajicDesigns/MD_AButton
