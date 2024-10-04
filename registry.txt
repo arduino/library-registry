@@ -7473,3 +7473,4 @@ https://github.com/OpenBuilds/OpenBuildsBLOX.git|Contributed|OpenBuildsBlox
 https://github.com/csd-robocon-nitk/LSA08_Simplified.git|Contributed|LSA08_Simplified
 https://github.com/Oshima-Shosen-Robotics-Research-Club/liboshima.git|Contributed|liboshima
 https://github.com/gpstar81/GPStarAudio-Serial-Library.git|Contributed|GPStar Audio Serial Library
+https://github.com/linus81/PCF8574_LH.git|Contributed|PCF8574_LH
