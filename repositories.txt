@@ -7374,3 +7374,4 @@ https://github.com/piscodev/r4httpclient
 https://github.com/arastaskiran/RustyVoltmeter
 https://github.com/OpenBuilds/OpenBuildsBLOX
 https://github.com/csd-robocon-nitk/LSA08_Simplified
+https://github.com/gpstar81/GPStarAudio-Serial-Library
