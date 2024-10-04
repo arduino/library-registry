@@ -7475,3 +7475,4 @@ https://github.com/Oshima-Shosen-Robotics-Research-Club/liboshima.git|Contribute
 https://github.com/gpstar81/GPStarAudio-Serial-Library.git|Contributed|GPStar Audio Serial Library
 https://github.com/linus81/PCF8574_LH.git|Contributed|PCF8574_LH
 https://github.com/moinologics/AsyncTask.git|Contributed|AsyncTask
+https://github.com/maikelsalazar/SevenSegmentDisplay.git|Contributed|SevenSegmentDisplay
