@@ -1,4 +1,4 @@
-https://github.com/linus81/PCF8574_LIB
+https://github.com/linus81/PCF8574_LH
 https://github.com/Oshima-Shosen-Robotics-Research-Club/liboshima
 https://github.com/DIYables/DIYables-LED-Matrix
 https://github.com/dashio-connect/arduin-dashio-utils
