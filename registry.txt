@@ -7239,7 +7239,7 @@ https://github.com/nthnn/mdif.git|Contributed|mdif
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib.git|Contributed|TLE9012_BMS_IC
 https://github.com/crane-elec/EthernetSP.git|Contributed|EthernetSP
 https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2wireSPI aospi
-https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP ResultCodes aoresult
+https://github.com/ams-OSRAM/OSP_aoresult.git|Contributed|OSP ResultCodes aoresult
 https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
 https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
 https://github.com/GyverLibs/StreamIO.git|Contributed|StreamIO
