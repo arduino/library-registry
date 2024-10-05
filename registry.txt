@@ -7476,3 +7476,4 @@ https://github.com/gpstar81/GPStarAudio-Serial-Library.git|Contributed|GPStar Au
 https://github.com/linus81/PCF8574_LH.git|Contributed|PCF8574_LH
 https://github.com/moinologics/AsyncTask.git|Contributed|AsyncTask
 https://github.com/maikelsalazar/SevenSegmentDisplay.git|Contributed|SevenSegmentDisplay
+https://github.com/MoCoMakers/esp-fipsy.git|Contributed|esp-fipsy
