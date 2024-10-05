@@ -7378,3 +7378,4 @@ https://github.com/OpenBuilds/OpenBuildsBLOX
 https://github.com/csd-robocon-nitk/LSA08_Simplified
 https://github.com/gpstar81/GPStarAudio-Serial-Library
 https://github.com/moinologics/AsyncTask
+https://github.com/MoCoMakers/esp-fipsy
