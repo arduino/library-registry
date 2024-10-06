@@ -7381,3 +7381,4 @@ https://github.com/moinologics/AsyncTask
 https://github.com/MoCoMakers/esp-fipsy
 https://github.com/galarb/ev3lego.git
 https://github.com/bitbank2/bb_truetype.git
+https://github.com/nseinlet/Modelisme.git
