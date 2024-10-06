@@ -7478,3 +7478,4 @@ https://github.com/moinologics/AsyncTask.git|Contributed|AsyncTask
 https://github.com/maikelsalazar/SevenSegmentDisplay.git|Contributed|SevenSegmentDisplay
 https://github.com/MoCoMakers/esp-fipsy.git|Contributed|esp-fipsy
 https://github.com/galarb/ev3lego.git|Contributed|ev3lego
+https://github.com/bitbank2/bb_truetype.git|Contributed|bb_truetype
