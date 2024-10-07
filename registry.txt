@@ -7482,3 +7482,4 @@ https://github.com/bitbank2/bb_truetype.git|Contributed|bb_truetype
 https://github.com/nseinlet/Modelisme.git|Contributed|Modelisme
 https://github.com/JensDMadsen/ISRHandler.git|Contributed|ISRHandler
 https://github.com/arslan437/EspFileManager.git|Contributed|EspFileManager
+https://github.com/McOrts/WindQX_Library.git|Contributed|WindQX_Library
