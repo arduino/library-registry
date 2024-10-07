@@ -1,4 +1,5 @@
 https://github.com/Maaajaaa/GaussianFilter1D
+https://github.com/McOrts/WindQX_Library
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
 https://github.com/Infineon/TLE9879-BLDC-Shield.git
