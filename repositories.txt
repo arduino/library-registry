@@ -7359,8 +7359,6 @@ https://github.com/johnsnow-nam/elio-arduino-example
 https://github.com/johnosbb/MicroTFLite
 https://github.com/denicsdevices/DS1307
 https://github.com/lucweb/SmartLadderFirmware
-<<<<<<< HEAD
-=======
 https://github.com/YUKAI/MakerBoard
 https://github.com/Kei0208/M8058
 https://github.com/Alexander57rus/ADE7880Energy
@@ -7388,4 +7386,3 @@ https://github.com/bitbank2/bb_truetype.git
 https://github.com/nseinlet/Modelisme.git
 https://github.com/JensDMadsen/ISRHandler
 https://github.com/JarikDem-Bot/OCServo
->>>>>>> upstream/main
