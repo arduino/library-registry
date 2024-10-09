@@ -7485,3 +7485,4 @@ https://github.com/arslan437/EspFileManager.git|Contributed|EspFileManager
 https://github.com/McOrts/WindQX_Library.git|Contributed|WindQX_Library
 https://github.com/JarikDem-Bot/OCServo.git|Contributed|OCServo
 https://github.com/TheSpaceEgg/InfinitePCA9685.git|Contributed|InfinitePCA9685
+https://github.com/vindar/tgx.git|Contributed|TGX
