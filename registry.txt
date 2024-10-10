@@ -7487,3 +7487,4 @@ https://github.com/JarikDem-Bot/OCServo.git|Contributed|OCServo
 https://github.com/TheSpaceEgg/InfinitePCA9685.git|Contributed|InfinitePCA9685
 https://github.com/vindar/tgx.git|Contributed|TGX
 https://github.com/arduino-libraries/Arduino_NiclaSenseEnv.git|Arduino|Arduino_NiclaSenseEnv
+https://github.com/ArtronShop/ArtronShop_HDC302x.git|Contributed|ArtronShop_HDC302x
