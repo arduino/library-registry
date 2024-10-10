@@ -7389,3 +7389,4 @@ https://github.com/nseinlet/Modelisme.git
 https://github.com/JensDMadsen/ISRHandler
 https://github.com/JarikDem-Bot/OCServo
 https://github.com/TheSpaceEgg/InfinitePCA9685
+https://github.com/ArtronShop/ArtronShop_HDC302x
