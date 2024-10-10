@@ -7238,8 +7238,8 @@ https://github.com/JoJos1220/adafruit_fram_i2C_mock.git|Contributed|adafruit_fra
 https://github.com/nthnn/mdif.git|Contributed|mdif
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib.git|Contributed|TLE9012_BMS_IC
 https://github.com/crane-elec/EthernetSP.git|Contributed|EthernetSP
-https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2wireSPI aospi
 https://github.com/ams-OSRAM/OSP_aoresult.git|Contributed|OSP ResultCodes aoresult
+https://github.com/ams-OSRAM/OSP_aospi.git|Contributed|OSP 2wireSPI aospi
 https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
 https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
 https://github.com/GyverLibs/StreamIO.git|Contributed|StreamIO
@@ -7478,3 +7478,13 @@ https://github.com/moinologics/AsyncTask.git|Contributed|AsyncTask
 https://github.com/maikelsalazar/SevenSegmentDisplay.git|Contributed|SevenSegmentDisplay
 https://github.com/MoCoMakers/esp-fipsy.git|Contributed|esp-fipsy
 https://github.com/galarb/ev3lego.git|Contributed|ev3lego
+https://github.com/bitbank2/bb_truetype.git|Contributed|bb_truetype
+https://github.com/nseinlet/Modelisme.git|Contributed|Modelisme
+https://github.com/JensDMadsen/ISRHandler.git|Contributed|ISRHandler
+https://github.com/arslan437/EspFileManager.git|Contributed|EspFileManager
+https://github.com/McOrts/WindQX_Library.git|Contributed|WindQX
+https://github.com/JarikDem-Bot/OCServo.git|Contributed|OCServo
+https://github.com/TheSpaceEgg/InfinitePCA9685.git|Contributed|InfinitePCA9685
+https://github.com/vindar/tgx.git|Contributed|tgx
+https://github.com/arduino-libraries/Arduino_NiclaSenseEnv.git|Arduino|Arduino_NiclaSenseEnv
+https://github.com/ArtronShop/ArtronShop_HDC302x.git|Contributed|ArtronShop_HDC302x
