@@ -871,6 +871,7 @@ https://github.com/arduino-libraries/Arduino_MKRMEM
 https://github.com/arduino-libraries/Arduino_MKRRGB
 https://github.com/arduino-libraries/Arduino_MKRTHERM
 https://github.com/arduino-libraries/Arduino_MultiWiFi
+https://github.com/arduino-libraries/Arduino_NiclaSenseEnv
 https://github.com/arduino-libraries/Arduino_NineAxesMotion
 https://github.com/arduino-libraries/Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_OplaUI
