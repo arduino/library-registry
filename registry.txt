@@ -7238,8 +7238,8 @@ https://github.com/JoJos1220/adafruit_fram_i2C_mock.git|Contributed|adafruit_fra
 https://github.com/nthnn/mdif.git|Contributed|mdif
 https://github.com/MaxMax-embedded/TLE9012_Arduino_Lib.git|Contributed|TLE9012_BMS_IC
 https://github.com/crane-elec/EthernetSP.git|Contributed|EthernetSP
-https://github.com/ams-OSRAM-Group/OSP_aospi.git|Contributed|OSP 2wireSPI aospi
-https://github.com/ams-OSRAM-Group/OSP_aoresult.git|Contributed|OSP ResultCodes aoresult
+https://github.com/ams-OSRAM/OSP_aoresult.git|Contributed|OSP ResultCodes aoresult
+https://github.com/ams-OSRAM/OSP_aospi.git|Contributed|OSP 2wireSPI aospi
 https://github.com/RoboCore/RoboCore_Rocky.git|Contributed|RoboCore - Rocky
 https://github.com/RobTillaart/MCP4261.git|Contributed|MCP4261
 https://github.com/GyverLibs/StreamIO.git|Contributed|StreamIO
@@ -7324,7 +7324,7 @@ https://github.com/sinricpro/arduino-renesas-sdk.git|Contributed|SinricPro_Renes
 https://github.com/kotwatthana/TimerOne_V2.git|Contributed|TimerOne_V2
 https://github.com/devtagse/DEVTAGLibIA.git|Contributed|DEVTAGLibIA
 https://github.com/septentrio-gnss/Septentrio_Arduino_library.git|Contributed|Eridano-Septentrio
-https://github.com/ams-OSRAM-Group/OSP_aoosp.git|Contributed|OSP Telegrams aoosp
+https://github.com/ams-OSRAM/OSP_aoosp.git|Contributed|OSP Telegrams aoosp
 https://github.com/dejwk/roo_prefs.git|Contributed|roo_prefs
 https://github.com/dejwk/roo_control.git|Contributed|roo_control
 https://github.com/dejwk/roo_wifi.git|Contributed|roo_wifi
@@ -7342,7 +7342,7 @@ https://github.com/Johboh/ConnectionHelper.git|Contributed|ConnectionHelper
 https://github.com/Johboh/MQTTRemote.git|Contributed|MQTTRemote
 https://github.com/Johboh/HomeAssistantEntities.git|Contributed|HomeAssistantEntities
 https://github.com/Johboh/nlohmann-json.git|Contributed|nlohmann-json
-https://github.com/ams-OSRAM-Group/OSP_aocmd.git|Contributed|OSP CommandInterpreter aocmd
+https://github.com/ams-OSRAM/OSP_aocmd.git|Contributed|OSP CommandInterpreter aocmd
 https://github.com/Danzo-Systems/FM25060_Library.git|Contributed|FM25060
 https://github.com/DouglasFlores-fun/SimpleLogger.git|Contributed|SimpleLogger
 https://github.com/KobaProduction/AvrFHT.git|Contributed|AVR FHT Library
@@ -7403,7 +7403,7 @@ https://github.com/Domochip/Palazzetti.git|Contributed|Palazzetti
 https://github.com/0015/LVGL_Joystick.git|Contributed|Virtual Joystick for LVGL
 https://github.com/zoho/zoho-iot-sdk-arduino.git|Contributed|ZOHO-IOT-SDK
 https://github.com/AndreiOp235/24s02ya__M24SR02-Y.git|Contributed|24s02ya__M24SR02-Y
-https://github.com/ams-OSRAM-Group/OSP_aomw.git|Contributed|OSP Middleware aomw
+https://github.com/ams-OSRAM/OSP_aomw.git|Contributed|OSP Middleware aomw
 https://github.com/ams-OSRAM/OSP_aoui32.git|Contributed|OSP UIDriversOSP32 aoui32
 https://github.com/NaveItay/NonBlockingDelay.git|Contributed|NonBlockingDelay
 https://github.com/arduino-libraries/Arduino_PowerManagement.git|Arduino|Arduino_PowerManagement
@@ -7478,3 +7478,13 @@ https://github.com/moinologics/AsyncTask.git|Contributed|AsyncTask
 https://github.com/maikelsalazar/SevenSegmentDisplay.git|Contributed|SevenSegmentDisplay
 https://github.com/MoCoMakers/esp-fipsy.git|Contributed|esp-fipsy
 https://github.com/galarb/ev3lego.git|Contributed|ev3lego
+https://github.com/bitbank2/bb_truetype.git|Contributed|bb_truetype
+https://github.com/nseinlet/Modelisme.git|Contributed|Modelisme
+https://github.com/JensDMadsen/ISRHandler.git|Contributed|ISRHandler
+https://github.com/arslan437/EspFileManager.git|Contributed|EspFileManager
+https://github.com/McOrts/WindQX_Library.git|Contributed|WindQX
+https://github.com/JarikDem-Bot/OCServo.git|Contributed|OCServo
+https://github.com/TheSpaceEgg/InfinitePCA9685.git|Contributed|InfinitePCA9685
+https://github.com/vindar/tgx.git|Contributed|tgx
+https://github.com/arduino-libraries/Arduino_NiclaSenseEnv.git|Arduino|Arduino_NiclaSenseEnv
+https://github.com/ArtronShop/ArtronShop_HDC302x.git|Contributed|ArtronShop_HDC302x
