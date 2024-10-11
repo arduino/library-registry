@@ -3825,6 +3825,7 @@ https://github.com/m5stack/M5Unit-KMeter
 https://github.com/m5stack/M5Unit-HEART
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-PoESP32
+https://github.com/m5stack/M5HAL
 https://github.com/m5stack/M5Unit-HUB
 https://github.com/m5stack/M5Unit-RELAY
 https://github.com/m5stack/M5Unit-RTC
