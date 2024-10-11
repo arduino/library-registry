@@ -7494,3 +7494,4 @@ https://github.com/Shiddieqy/MR76_Radar.git|Contributed|mr76_radar
 https://github.com/m5stack/M5Unit-HEART.git|Contributed|M5Unit-HEART
 https://github.com/m5stack/M5Unit-GESTURE.git|Contributed|M5Unit-GESTURE
 https://github.com/m5stack/M5Unit-HUB.git|Contributed|M5Unit-HUB
+https://github.com/m5stack/M5Unit-METER.git|Contributed|M5Unit-METER
