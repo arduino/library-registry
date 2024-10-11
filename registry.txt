@@ -7496,3 +7496,4 @@ https://github.com/m5stack/M5Unit-GESTURE.git|Contributed|M5Unit-GESTURE
 https://github.com/m5stack/M5Unit-HUB.git|Contributed|M5Unit-HUB
 https://github.com/m5stack/M5Unit-METER.git|Contributed|M5Unit-METER
 https://github.com/m5stack/M5HAL.git|Contributed|M5HAL
+https://github.com/m5stack/M5UnitUnified.git|Contributed|M5UnitUnified
