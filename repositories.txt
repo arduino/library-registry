@@ -3820,6 +3820,7 @@ https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5Unit-GLASS
 https://github.com/m5stack/M5Unit-IMU-Pro-Mini
 https://github.com/m5stack/M5Unit-KMeter
+https://github.com/m5stack/M5Unit-HEART
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-PoESP32
 https://github.com/m5stack/M5Unit-RELAY
