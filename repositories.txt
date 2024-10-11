@@ -3775,6 +3775,7 @@ https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/M5-ADS1100
 https://github.com/m5stack/M5-ADS1115
+https://github.com/m5stack/M5UnitUnified
 https://github.com/m5stack/M5-DLight
 https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/M5-FPC1020A
