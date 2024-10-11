@@ -7491,3 +7491,4 @@ https://github.com/ArtronShop/ArtronShop_HDC302x.git|Contributed|ArtronShop_HDC3
 https://github.com/ams-OSRAM/OSP_aoapps.git|Contributed|OSP ReusableApps aoapps
 https://github.com/ams-OSRAM/OSP_aotop.git|Contributed|OSP ToplevelSketches aotop
 https://github.com/Shiddieqy/MR76_Radar.git|Contributed|mr76_radar
+https://github.com/m5stack/M5Unit-HEART.git|Contributed|M5Unit-HEART
