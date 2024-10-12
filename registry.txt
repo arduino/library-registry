@@ -7498,3 +7498,4 @@ https://github.com/m5stack/M5Unit-METER.git|Contributed|M5Unit-METER
 https://github.com/m5stack/M5HAL.git|Contributed|M5HAL
 https://github.com/m5stack/M5UnitUnified.git|Contributed|M5UnitUnified
 https://github.com/styropyr0/MX8650.git|Contributed|MX8650 Mouse sensor library
+https://github.com/styropyr0/JSON_Encoder.git|Contributed|JSON Encoder
