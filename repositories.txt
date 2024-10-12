@@ -7401,3 +7401,4 @@ https://github.com/ArtronShop/ArtronShop_HDC302x
 https://github.com/Shiddieqy/MR76_Radar
 https://github.com/styropyr0/MX8650
 https://github.com/styropyr0/JSON_Encoder
+https://github.com/giuliopons/PenguinBotLib
