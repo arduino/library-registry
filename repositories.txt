@@ -7405,3 +7405,4 @@ https://github.com/styropyr0/JSON_Encoder
 https://github.com/giuliopons/PenguinBotLib
 https://github.com/leocoderu/LC_EEPROM
 https://github.com/JensDMadsen/RotEncoder
+https://github.com/codingABI/DFR0534
