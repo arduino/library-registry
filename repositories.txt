@@ -1,3 +1,5 @@
+https://github.com/vindar/tgx
+https://github.com/arslan437/EspFileManager.git
 https://github.com/linus81/PCF8574_LH
 https://github.com/Oshima-Shosen-Robotics-Research-Club/liboshima
 https://github.com/DIYables/DIYables-LED-Matrix
@@ -13,6 +15,7 @@ https://github.com/MIT-Senseable-City-Lab/octopus-firmware
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
 https://github.com/elecrazy/servoctr.git
 https://github.com/Maaajaaa/GaussianFilter1D
+https://github.com/McOrts/WindQX_Library
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
 https://github.com/Infineon/TLE9879-BLDC-Shield.git
@@ -98,12 +101,14 @@ https://github.com/makerlabvn/makerlabvnlib
 https://github.com/makerlabvn/Makerlabvn_kit_CIA0_BOT
 https://github.com/makerlabvn/mke-s01-ultrasonic-sensor
 https://github.com/maarten-pennings/ENS210
-https://github.com/ams-OSRAM-Group/OSP_aospi
-https://github.com/ams-OSRAM-Group/OSP_aoresult
-https://github.com/ams-OSRAM-Group/OSP_aoosp
-https://github.com/ams-OSRAM-Group/OSP_aocmd
-https://github.com/ams-OSRAM-Group/OSP_aomw
-https://github.com/ams-OSRAM-Group/OSP_aoui32
+https://github.com/ams-OSRAM/OSP_aospi
+https://github.com/ams-OSRAM/OSP_aoresult
+https://github.com/ams-OSRAM/OSP_aoosp
+https://github.com/ams-OSRAM/OSP_aocmd
+https://github.com/ams-OSRAM/OSP_aomw
+https://github.com/ams-OSRAM/OSP_aoui32
+https://github.com/ams-OSRAM/OSP_aoapps
+https://github.com/ams-OSRAM/OSP_aotop
 https://github.com/Herwig9820/Justina_interpreter
 https://github.com/BrainCoTech/brain_arduino
 https://github.com/cschorn01/PlugAndPlayForLoRa
@@ -868,6 +873,7 @@ https://github.com/arduino-libraries/Arduino_MKRMEM
 https://github.com/arduino-libraries/Arduino_MKRRGB
 https://github.com/arduino-libraries/Arduino_MKRTHERM
 https://github.com/arduino-libraries/Arduino_MultiWiFi
+https://github.com/arduino-libraries/Arduino_NiclaSenseEnv
 https://github.com/arduino-libraries/Arduino_NineAxesMotion
 https://github.com/arduino-libraries/Arduino_OAuth
 https://github.com/arduino-libraries/Arduino_OplaUI
@@ -3757,6 +3763,7 @@ https://github.com/m2m-solutions/M2M_TLV
 https://github.com/m516/TinyMatrixMath
 https://github.com/m5stack/M5DinMeter
 https://github.com/m5stack/M5Unit-WeightI2C
+https://github.com/m5stack/M5Unit-METER
 https://github.com/m5stack/M5Unit-PbHub
 https://github.com/m5stack/M5Unit-CAN
 https://github.com/m5stack/ATOM_DTU_CAT1
@@ -3768,6 +3775,7 @@ https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
 https://github.com/m5stack/M5-ADS1100
 https://github.com/m5stack/M5-ADS1115
+https://github.com/m5stack/M5UnitUnified
 https://github.com/m5stack/M5-DLight
 https://github.com/m5stack/M5-Ethernet
 https://github.com/m5stack/M5-FPC1020A
@@ -3812,10 +3820,14 @@ https://github.com/m5stack/M5Unit-Encoder
 https://github.com/m5stack/M5Unit-ENV
 https://github.com/m5stack/M5Unit-EXTIO2
 https://github.com/m5stack/M5Unit-GLASS
+https://github.com/m5stack/M5Unit-GESTURE
 https://github.com/m5stack/M5Unit-IMU-Pro-Mini
 https://github.com/m5stack/M5Unit-KMeter
+https://github.com/m5stack/M5Unit-HEART
 https://github.com/m5stack/M5Unit-MQTT
 https://github.com/m5stack/M5Unit-PoESP32
+https://github.com/m5stack/M5HAL
+https://github.com/m5stack/M5Unit-HUB
 https://github.com/m5stack/M5Unit-RELAY
 https://github.com/m5stack/M5Unit-RTC
 https://github.com/m5stack/M5Unit-Sonic
@@ -7383,4 +7395,12 @@ https://github.com/galarb/ev3lego.git
 https://github.com/bitbank2/bb_truetype.git
 https://github.com/nseinlet/Modelisme.git
 https://github.com/JensDMadsen/ISRHandler
+https://github.com/JarikDem-Bot/OCServo
+https://github.com/TheSpaceEgg/InfinitePCA9685
+https://github.com/ArtronShop/ArtronShop_HDC302x
+https://github.com/Shiddieqy/MR76_Radar
+https://github.com/styropyr0/MX8650
+https://github.com/styropyr0/JSON_Encoder
+https://github.com/giuliopons/PenguinBotLib
+https://github.com/leocoderu/LC_EEPROM
 https://github.com/JensDMadsen/RotEncoder
