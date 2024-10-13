@@ -7500,3 +7500,4 @@ https://github.com/m5stack/M5UnitUnified.git|Contributed|M5UnitUnified
 https://github.com/styropyr0/MX8650.git|Contributed|MX8650 Mouse sensor library
 https://github.com/styropyr0/JSON_Encoder.git|Contributed|JSON Encoder
 https://github.com/giuliopons/PenguinBotLib.git|Contributed|PenguinBotLib
+https://github.com/leocoderu/LC_EEPROM.git|Contributed|LC_EEPROM
