@@ -7504,3 +7504,4 @@ https://github.com/leocoderu/LC_EEPROM.git|Contributed|LC_EEPROM
 https://github.com/AlexMihai1804/ATC_MiThermometer-Arduino.git|Contributed|ATC_MiThermometer-Arduino
 https://github.com/JensDMadsen/RotEncoder.git|Contributed|RotEncoder
 https://github.com/codingABI/DFR0534.git|Contributed|DFR0534
+https://github.com/sinricpro/esp32-business-sdk.git|Contributed|SinricProBusinessSdk
