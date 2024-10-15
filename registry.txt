@@ -7508,3 +7508,4 @@ https://github.com/sinricpro/esp32-business-sdk.git|Contributed|SinricProBusines
 https://github.com/m5stack/M5Utility.git|Contributed|M5Utility
 https://github.com/rushairer/AbenoGameBoyShield.git|Contributed|GameBoyShield
 https://github.com/DBSStore/EIS.git|Contributed|EIS
+https://github.com/guerratron/TouchCal.git|Contributed|TouchCal
