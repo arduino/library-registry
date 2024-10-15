@@ -7509,3 +7509,4 @@ https://github.com/m5stack/M5Utility.git|Contributed|M5Utility
 https://github.com/rushairer/AbenoGameBoyShield.git|Contributed|GameBoyShield
 https://github.com/DBSStore/EIS.git|Contributed|EIS
 https://github.com/guerratron/TouchCal.git|Contributed|TouchCal
+https://github.com/GabyGold67/ButtonToSwitch_AVR.git|Contributed|ButtonToSwitch
