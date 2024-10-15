@@ -7411,3 +7411,4 @@ https://github.com/codingABI/DFR0534
 https://github.com/sinricpro/esp32-business-sdk
 https://github.com/DBSStore/EIS
 https://github.com/guerratron/TouchCal
+https://github.com/GabyGold67/ButtonToSwitch_AVR
