@@ -7507,3 +7507,4 @@ https://github.com/codingABI/DFR0534.git|Contributed|DFR0534
 https://github.com/sinricpro/esp32-business-sdk.git|Contributed|SinricProBusinessSdk
 https://github.com/m5stack/M5Utility.git|Contributed|M5Utility
 https://github.com/rushairer/AbenoGameBoyShield.git|Contributed|GameBoyShield
+https://github.com/DBSStore/EIS.git|Contributed|EIS
