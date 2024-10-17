@@ -7414,3 +7414,4 @@ https://github.com/DBSStore/EIS
 https://github.com/guerratron/TouchCal
 https://github.com/GabyGold67/ButtonToSwitch_AVR
 https://github.com/bitbank2/bb_epaper
+https://github.com/Kei0208/RX8900
