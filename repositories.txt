@@ -7413,3 +7413,4 @@ https://github.com/sinricpro/esp32-business-sdk
 https://github.com/DBSStore/EIS
 https://github.com/guerratron/TouchCal
 https://github.com/GabyGold67/ButtonToSwitch_AVR
+https://github.com/bitbank2/bb_epaper
