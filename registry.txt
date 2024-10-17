@@ -7511,3 +7511,4 @@ https://github.com/DBSStore/EIS.git|Contributed|EIS
 https://github.com/guerratron/TouchCal.git|Contributed|TouchCal
 https://github.com/GabyGold67/ButtonToSwitch_AVR.git|Contributed|ButtonToSwitch
 https://github.com/MINDS-i/MINDS-i-Utils.git|Contributed|MINDS-i-Utils
+https://github.com/bitbank2/bb_epaper.git|Contributed|bb_epaper
