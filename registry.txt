@@ -7513,3 +7513,4 @@ https://github.com/GabyGold67/ButtonToSwitch_AVR.git|Contributed|ButtonToSwitch
 https://github.com/MINDS-i/MINDS-i-Utils.git|Contributed|MINDS-i-Utils
 https://github.com/bitbank2/bb_epaper.git|Contributed|bb_epaper
 https://github.com/Kei0208/RX8900.git|Contributed|RX8900
+https://github.com/adafruit/Adafruit_INA3221.git|Recommended|Adafruit INA3221 Library
