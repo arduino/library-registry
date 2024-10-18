@@ -378,6 +378,7 @@ https://github.com/adafruit/Adafruit_ImageReader
 https://github.com/adafruit/Adafruit_INA219
 https://github.com/adafruit/Adafruit_INA228
 https://github.com/adafruit/Adafruit_INA260
+https://github.com/adafruit/Adafruit_INA3221
 https://github.com/adafruit/Adafruit_IntelliKeys
 https://github.com/adafruit/Adafruit_InternalFlash
 https://github.com/adafruit/Adafruit_IO_Arduino
