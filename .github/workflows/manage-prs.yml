@@ -383,6 +383,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           if-no-files-found: error
+          include-hidden-files: true
           path: ${{ env.FAIL_FLAG_PATH }}
           name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
 
