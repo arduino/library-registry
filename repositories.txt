@@ -7419,3 +7419,4 @@ https://github.com/GabyGold67/ButtonToSwitch_AVR
 https://github.com/bitbank2/bb_epaper
 https://github.com/Kei0208/RX8900
 https://github.com/Garfius/cliSerialMenu
+https://github.com/nhjschulz/cfsm
