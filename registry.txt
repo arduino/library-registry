@@ -7519,3 +7519,4 @@ https://github.com/Garfius/cliSerialMenu.git|Contributed|Menu-UI
 https://github.com/ncmreynolds/milesTag.git|Contributed|milesTag
 https://github.com/nhjschulz/cfsm.git|Contributed|CFSM
 https://github.com/bitcode-tech/uart_keyboard.git|Contributed|UART_Keyboard
+https://github.com/julio22011/EasyOledUI.git|Contributed|EasyOledUI
