@@ -1759,6 +1759,7 @@ https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
 https://github.com/DeanIsMe/SevSeg
 https://github.com/DedeHai/NeoPixelPainter
 https://github.com/DefHam140/IOTClient
+https://github.com/DefHam140/ZModbusRTU
 https://github.com/DefProc/lewis
 https://github.com/DefProc/somo-ii-lib
 https://github.com/DeimosHall/RP2040_CPU_Temperature.git
