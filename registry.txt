@@ -7522,3 +7522,4 @@ https://github.com/bitcode-tech/uart_keyboard.git|Contributed|UART_Keyboard
 https://github.com/julio22011/EasyOledUI.git|Contributed|EasyOledUI
 https://github.com/DefHam140/ZModbusRTU.git|Contributed|ZModbusRTU
 https://github.com/felixerdy/QRCodeGenerator.git|Contributed|QRCodeGenerator
+https://github.com/chrmlinux/spreGnssRtcLib.git|Contributed|spreGnssRtcLib
