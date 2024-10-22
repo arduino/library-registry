@@ -1,3 +1,4 @@
+https://github.com/felixerdy/QRCodeGenerator
 https://github.com/julio22011/EasyOledUI
 https://github.com/bitcode-tech/uart_keyboard
 https://github.com/ncmreynolds/milesTag
