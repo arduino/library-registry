@@ -7524,3 +7524,4 @@ https://github.com/DefHam140/ZModbusRTU.git|Contributed|ZModbusRTU
 https://github.com/felixerdy/QRCodeGenerator.git|Contributed|QRCodeGenerator
 https://github.com/chrmlinux/spreGnssRtcLib.git|Contributed|spreGnssRtcLib
 https://github.com/bitcode-tech/uart_7seg_display.git|Contributed|UART_7Seg_Display
+https://github.com/chrmlinux/spreLgfxTouch.git|Contributed|spreLgfxTouch
