@@ -1,4 +1,5 @@
 https://github.com/bitcode-tech/uart_7seg_display
+https://github.com/EnergizeLab/ServoSDK-Arduino.git
 https://github.com/felixerdy/QRCodeGenerator
 https://github.com/julio22011/EasyOledUI
 https://github.com/bitcode-tech/uart_keyboard
