@@ -7530,3 +7530,4 @@ https://github.com/EnergizeLab/ServoSDK-Arduino.git|Contributed|Energize Lab Ser
 https://github.com/PaulStoffregen/WS2812Capture.git|Contributed|WS2812Capture
 https://github.com/Naguissa/uMessagesBrokerLib.git|Contributed|uMessagesBrokerLib
 https://github.com/chrmlinux/spreMP3Lib.git|Contributed|spreMP3Lib
+https://github.com/voelkerb/STPM3X.git|Contributed|STPM3X
