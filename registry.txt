@@ -7534,3 +7534,4 @@ https://github.com/voelkerb/STPM3X.git|Contributed|STPM3X
 https://github.com/voelkerb/ESP.multiLogger.git|Contributed|multiLogger
 https://github.com/voelkerb/ADE9000.git|Contributed|ADE9000
 https://github.com/voelkerb/bistableRelay.git|Contributed|BistableRelay
+https://github.com/m5stack/M5Module-LLM.git|Contributed|M5ModuleLLM
