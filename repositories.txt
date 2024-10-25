@@ -1,3 +1,4 @@
+https://github.com/voelkerb/bistableRelay
 https://github.com/voelkerb/ADE9000
 https://github.com/voelkerb/ESP.multiLogger
 https://github.com/bitcode-tech/uart_7seg_display
