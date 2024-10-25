@@ -7527,3 +7527,4 @@ https://github.com/bitcode-tech/uart_7seg_display.git|Contributed|UART_7Seg_Disp
 https://github.com/chrmlinux/spreLgfxTouch.git|Contributed|spreLgfxTouch
 https://github.com/quarkifii/quark-db-arduino.git|Contributed|QuarkDB
 https://github.com/EnergizeLab/ServoSDK-Arduino.git|Contributed|Energize Lab Servo
+https://github.com/PaulStoffregen/WS2812Capture.git|Contributed|WS2812Capture
