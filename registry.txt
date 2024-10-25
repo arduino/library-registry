@@ -7532,3 +7532,4 @@ https://github.com/Naguissa/uMessagesBrokerLib.git|Contributed|uMessagesBrokerLi
 https://github.com/chrmlinux/spreMP3Lib.git|Contributed|spreMP3Lib
 https://github.com/voelkerb/STPM3X.git|Contributed|STPM3X
 https://github.com/voelkerb/ESP.multiLogger.git|Contributed|multiLogger
+https://github.com/voelkerb/ADE9000.git|Contributed|ADE9000
