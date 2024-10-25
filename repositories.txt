@@ -7431,4 +7431,4 @@ https://github.com/chrmlinux/spreGnssRtcLib
 https://github.com/chrmlinux/spreLgfxTouch
 https://github.com/quarkifii/quark-db-arduino
 https://github.com/PaulStoffregen/WS2812Capture
-
+https://github.com/chrmlinux/spreMP3Lib
