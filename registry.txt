@@ -7536,3 +7536,4 @@ https://github.com/voelkerb/ADE9000.git|Contributed|ADE9000
 https://github.com/voelkerb/bistableRelay.git|Contributed|BistableRelay
 https://github.com/m5stack/M5Module-LLM.git|Contributed|M5ModuleLLM
 https://github.com/modspi/MODSPI_Modules.git|Contributed|MODSPI
+https://github.com/blasilli/GBALib_Potentiometer.git|Contributed|GBALib Potentiometer
