@@ -1,3 +1,4 @@
+https://github.com/voelkerb/ESP.multiLogger
 https://github.com/bitcode-tech/uart_7seg_display
 https://github.com/EnergizeLab/ServoSDK-Arduino.git
 https://github.com/felixerdy/QRCodeGenerator
