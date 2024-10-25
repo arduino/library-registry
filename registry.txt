@@ -7529,3 +7529,4 @@ https://github.com/quarkifii/quark-db-arduino.git|Contributed|QuarkDB
 https://github.com/EnergizeLab/ServoSDK-Arduino.git|Contributed|Energize Lab Servo
 https://github.com/PaulStoffregen/WS2812Capture.git|Contributed|WS2812Capture
 https://github.com/Naguissa/uMessagesBrokerLib.git|Contributed|uMessagesBrokerLib
+https://github.com/chrmlinux/spreMP3Lib.git|Contributed|spreMP3Lib
