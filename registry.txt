@@ -7538,3 +7538,4 @@ https://github.com/m5stack/M5Module-LLM.git|Contributed|M5ModuleLLM
 https://github.com/modspi/MODSPI_Modules.git|Contributed|MODSPI
 https://github.com/blasilli/GBALib_Potentiometer.git|Contributed|GBALib Potentiometer
 https://github.com/RobTillaart/AD5620.git|Contributed|AD5620
+https://github.com/Aleksandr-ru/StepperMulti.git|Contributed|StepperMulti
