@@ -7540,3 +7540,4 @@ https://github.com/blasilli/GBALib_Potentiometer.git|Contributed|GBALib Potentio
 https://github.com/RobTillaart/AD5620.git|Contributed|AD5620
 https://github.com/Aleksandr-ru/StepperMulti.git|Contributed|StepperMulti
 https://github.com/RobTillaart/DAC8560.git|Contributed|DAC8560
+https://github.com/blasilli/GBALib_Wave.git|Contributed|GBALib_Wave
