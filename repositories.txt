@@ -5253,6 +5253,7 @@ https://github.com/RobTillaart/DAC8550
 https://github.com/RobTillaart/DAC8551
 https://github.com/RobTillaart/DAC8552
 https://github.com/RobTillaart/DAC8554
+https://github.com/RobTillaart/DAC8560
 https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/dateTimeHelpers
 https://github.com/RobTillaart/DEVFULL
