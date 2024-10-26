@@ -7539,3 +7539,4 @@ https://github.com/modspi/MODSPI_Modules.git|Contributed|MODSPI
 https://github.com/blasilli/GBALib_Potentiometer.git|Contributed|GBALib Potentiometer
 https://github.com/RobTillaart/AD5620.git|Contributed|AD5620
 https://github.com/Aleksandr-ru/StepperMulti.git|Contributed|StepperMulti
+https://github.com/RobTillaart/DAC8560.git|Contributed|DAC8560
