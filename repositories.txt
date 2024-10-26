@@ -7440,3 +7440,4 @@ https://github.com/PaulStoffregen/WS2812Capture
 https://github.com/chrmlinux/spreMP3Lib
 https://github.com/voelkerb/STPM3X
 https://github.com/blasilli/GBALib_Potentiometer
+https://github.com/Aleksandr-ru/StepperMulti
