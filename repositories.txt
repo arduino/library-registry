@@ -7443,3 +7443,4 @@ https://github.com/chrmlinux/spreMP3Lib
 https://github.com/voelkerb/STPM3X
 https://github.com/blasilli/GBALib_Potentiometer
 https://github.com/Aleksandr-ru/StepperMulti
+https://github.com/nikitagricanuk/CCS811-library-by-ASTRON
