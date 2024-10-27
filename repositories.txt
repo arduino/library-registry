@@ -7444,3 +7444,4 @@ https://github.com/voelkerb/STPM3X
 https://github.com/blasilli/GBALib_Potentiometer
 https://github.com/Aleksandr-ru/StepperMulti
 https://github.com/nikitagricanuk/CCS811-library-by-ASTRON
+https://github.com/joaoaugustocz/mpu6050_FastAngles
