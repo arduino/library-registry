@@ -7541,3 +7541,4 @@ https://github.com/RobTillaart/AD5620.git|Contributed|AD5620
 https://github.com/Aleksandr-ru/StepperMulti.git|Contributed|StepperMulti
 https://github.com/RobTillaart/DAC8560.git|Contributed|DAC8560
 https://github.com/blasilli/GBALib_Wave.git|Contributed|GBALib_Wave
+https://github.com/nikitagricanuk/CCS811-library-by-ASTRON.git|Contributed|ASTRON_CCS811
