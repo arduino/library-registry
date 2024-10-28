@@ -7547,3 +7547,4 @@ https://github.com/goodisplayshare/esp32_epd.git|Contributed|esp32_epd
 https://github.com/m5stack/M5Unit-WEIGHT.git|Contributed|M5Unit-WEIGHT
 https://github.com/m5stack/M5Unit-TOF.git|Contributed|M5Unit-TOF
 https://github.com/adafruit/Adafruit_VCNL4200.git|Recommended|Adafruit VCNL4200 Library
+https://github.com/Naguissa/uConfigLib.git|Contributed|uConfigLib
