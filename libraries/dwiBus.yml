@@ -1,0 +1,9 @@
+name: dwiBus
+version: 1.0.0
+author: Ali Çimen <cimenwd@gmail.com>
+maintainer: Ali Çimen <cimenwd@gmail.com>
+sentence: A UART-based multi-device communication library.
+paragraph: dwiBus provides support for both SoftwareSerial and HardwareSerial. It is compatible with Arduino and ESP32 platforms.
+category: Communication
+url: https://github.com/dralicimen/dwiBus
+architectures: *
