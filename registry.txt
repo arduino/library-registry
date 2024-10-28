@@ -7545,3 +7545,4 @@ https://github.com/nikitagricanuk/CCS811-library-by-ASTRON.git|Contributed|ASTRO
 https://github.com/joaoaugustocz/mpu6050_FastAngles.git|Contributed|mpu6050_FastAngles
 https://github.com/goodisplayshare/esp32_epd.git|Contributed|esp32_epd
 https://github.com/m5stack/M5Unit-WEIGHT.git|Contributed|M5Unit-WEIGHT
+https://github.com/m5stack/M5Unit-TOF.git|Contributed|M5Unit-TOF
