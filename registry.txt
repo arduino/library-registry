@@ -7544,3 +7544,4 @@ https://github.com/blasilli/GBALib_Wave.git|Contributed|GBALib_Wave
 https://github.com/nikitagricanuk/CCS811-library-by-ASTRON.git|Contributed|ASTRON_CCS811
 https://github.com/joaoaugustocz/mpu6050_FastAngles.git|Contributed|mpu6050_FastAngles
 https://github.com/goodisplayshare/esp32_epd.git|Contributed|esp32_epd
+https://github.com/m5stack/M5Unit-WEIGHT.git|Contributed|M5Unit-WEIGHT
