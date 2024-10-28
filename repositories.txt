@@ -1,3 +1,4 @@
+https://github.com/m5stack/M5Unit-WEIGHT
 https://github.com/blasilli/GBALib_Wave
 https://github.com/modspi/MODSPI_Modules
 https://github.com/voelkerb/bistableRelay
