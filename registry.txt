@@ -7549,3 +7549,4 @@ https://github.com/m5stack/M5Unit-TOF.git|Contributed|M5Unit-TOF
 https://github.com/adafruit/Adafruit_VCNL4200.git|Recommended|Adafruit VCNL4200 Library
 https://github.com/Naguissa/uConfigLib.git|Contributed|uConfigLib
 https://github.com/MiguelLoureiro98/LM35IC.git|Contributed|LM35IC
+https://github.com/dralicimen/dwiBus.git|Contributed|dwiBus
