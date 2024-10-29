@@ -5204,6 +5204,7 @@ https://github.com/RobTillaart/74HC138
 https://github.com/RobTillaart/74HC154
 https://github.com/RobTillaart/A1301
 https://github.com/RobTillaart/ACD10
+https://github.com/RobTillaart/ACD3100
 https://github.com/RobTillaart/ACS712
 https://github.com/RobTillaart/AD5144A
 https://github.com/RobTillaart/AD520X
