@@ -7554,3 +7554,4 @@ https://github.com/bdlow/IO22_IO_Board.git|Contributed|IO22_IO_Board
 https://github.com/RobTillaart/ACD3100.git|Contributed|ACD3100
 https://github.com/arduino-libraries/Arduino_OPC_UA.git|Arduino|Arduino_OPC_UA
 https://github.com/RobTillaart/AD5660.git|Contributed|AD5660
+https://github.com/MonHauVD/PlayNote.git|Contributed|PlayNote
