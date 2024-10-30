@@ -27,6 +27,7 @@ https://github.com/dashio-connect/arduino-dashioESP
 https://github.com/dashio-connect/arduino-dashioBluno
 https://github.com/dashio-connect/arduino-dashioBluefruit
 https://github.com/dashio-connect/arduino-dashioSAMD_NINA
+https://github.com/jjlondonoc/AFE4950-Arduino-Library
 https://github.com/rszczepanski93/EduBox_ArduinoLibrary
 https://github.com/MIT-Senseable-City-Lab/octopus-firmware
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
