@@ -1,3 +1,4 @@
+https://github.com/cheerlights/cheerlights-arduino-library
 https://github.com/gi0rg0sPapamichail/QuickESPNow
 https://github.com/jjlondonoc/AFE4950-Arduino-Library
 https://github.com/MiguelLoureiro98/LM35IC
