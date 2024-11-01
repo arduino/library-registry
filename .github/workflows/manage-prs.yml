@@ -114,7 +114,7 @@ jobs:
         run: echo "::set-output name=head::$(jq -c .head.sha "${{ steps.configuration.outputs.path }}/${{ env.JSON_IDENTIFIER }}")"
 
       - name: Upload diff file to workflow artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: ${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}
           name: ${{ steps.configuration.outputs.artifact }}
@@ -380,7 +380,7 @@ jobs:
       # So it's necessary to use an alternative means of indicating that at least one submission failed the checks.
       - name: Upload failure flag artifact
         if: env.PASS == 'false'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           if-no-files-found: error
           include-hidden-files: true
