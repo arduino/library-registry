@@ -7566,3 +7566,4 @@ https://github.com/UltiBlox/DisplayValueOLED.git|Contributed|UltiBlox DisplayVal
 https://github.com/UltiBlox/LCDI2C.git|Contributed|UltiBlox LCDI2C
 https://github.com/UltiBlox/SensorAnalog.git|Contributed|UltiBlox SensorAnalog
 https://github.com/arielzw/DPS-Power-Supply.git|Contributed|DpsPowerSupply
+https://github.com/1e1/Arduino-GoogleSchedular.git|Contributed|GoogleSchedular
