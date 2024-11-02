@@ -7467,3 +7467,7 @@ https://github.com/UltiBlox/DisplayValueOLED
 https://github.com/UltiBlox/LCDI2C
 https://github.com/UltiBlox/SensorAnalog
 https://github.com/UltiBlox/SerialLogger
+https://github.com/UltiBlox/ActiveThreshold
+https://github.com/UltiBlox/DisplayValueLCD
+https://github.com/UltiBlox/DisplayValueCommon
+https://github.com/UltiBlox/UltiBloxExamples
