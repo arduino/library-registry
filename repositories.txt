@@ -7463,4 +7463,7 @@ https://github.com/goodisplayshare/esp32_epd
 https://github.com/dralicimen/dwiBus
 https://github.com/MonHauVD/PlayNote
 https://github.com/1e1/Arduino-FastTimer
+https://github.com/UltiBlox/DisplayValueOLED
+https://github.com/UltiBlox/LCDI2C
+https://github.com/UltiBlox/SensorAnalog
 https://github.com/UltiBlox/SerialLogger
