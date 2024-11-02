@@ -7565,3 +7565,4 @@ https://github.com/UltiBlox/SerialLogger.git|Contributed|UltiBlox SerialLogger
 https://github.com/UltiBlox/DisplayValueOLED.git|Contributed|UltiBlox DisplayValueOLED
 https://github.com/UltiBlox/LCDI2C.git|Contributed|UltiBlox LCDI2C
 https://github.com/UltiBlox/SensorAnalog.git|Contributed|UltiBlox SensorAnalog
+https://github.com/arielzw/DPS-Power-Supply.git|Contributed|DpsPowerSupply
