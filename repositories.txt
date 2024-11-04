@@ -7475,3 +7475,4 @@ https://github.com/UltiBlox/DisplayValueLCD
 https://github.com/UltiBlox/DisplayValueCommon
 https://github.com/UltiBlox/UltiBloxExamples
 https://github.com/mirs240x/micro_ros_arduino_mirs240x
+https://github.com/smelpro/Smelpro_Macaron/
