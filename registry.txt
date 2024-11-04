@@ -7572,3 +7572,4 @@ https://github.com/UltiBlox/DisplayValueLCD.git|Contributed|UltiBlox DisplayValu
 https://github.com/UltiBlox/DisplayValueCommon.git|Contributed|UltiBlox DisplayValueCommon
 https://github.com/UltiBlox/UltiBloxExamples.git|Contributed|UltiBloxExamples
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30.git|Contributed|Seeed Arduino SGP30
+https://github.com/mirs240x/micro_ros_arduino_mirs240x.git|Contributed|micro_ros_arduino
