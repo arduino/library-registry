@@ -1794,6 +1794,7 @@ https://github.com/dejwk/roo_prefs
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_temperature
 https://github.com/dejwk/roo_time
+https://github.com/dejwk/roo_time_ds3231
 https://github.com/dejwk/roo_wifi
 https://github.com/dejwk/roo_windows
 https://github.com/dejwk/roo_windows_onewire
