@@ -5805,8 +5805,8 @@ https://github.com/siktec-lab/SIKTEC-SPI
 https://github.com/siktec-lab/SIKTEC-SRAM
 https://github.com/Silvan85/Nova_SDS011
 https://github.com/Ebola-Chan-bot/Cpp_Standard_Library
-https://github.com/Ebola-Chan-bot/Low-level-quick-digital-IO
-https://github.com/Ebola-Chan-bot/TimersOneForAll
+https://github.com/Ebola-Chan-bot/Low_level_quick_digital_IO
+https://github.com/Ebola-Chan-bot/Timers_one_for_all
 https://github.com/silvervest/Silvervest_OLED_0010_SPI
 https://github.com/simap/TouchWheel
 https://github.com/simonlmn/esp-iot-core
