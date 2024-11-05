@@ -7372,7 +7372,6 @@ https://github.com/septentrio-gnss/Septentrio_Arduino_library
 https://github.com/iamfaraz/Waveshare_ST7262_LVGL
 https://github.com/Danzo-Systems/FM25060_Library
 https://github.com/DouglasFlores-fun/SimpleLogger
-https://github.com/KobaProduction/AvrFHT
 https://github.com/cgobat/spartan-edge-esp32-boot/
 https://github.com/sierramike/HomeAssistantMQTT
 https://github.com/DannyRavi/AD7747
