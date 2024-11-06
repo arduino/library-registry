@@ -7578,3 +7578,4 @@ https://github.com/SequentMicrosystems/Sequent-16relays-Library.git|Contributed|
 https://github.com/canusorn/CynoIOT.git|Contributed|CynoIOT
 https://github.com/biomurph/GrayCode.git|Contributed|GrayCode
 https://github.com/UltiBlox/DisplayValueNull.git|Contributed|UltiBlox DisplayValueNull
+https://github.com/VanSilver/LCD595.git|Contributed|LCD595
