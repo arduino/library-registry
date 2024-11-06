@@ -1,3 +1,4 @@
+https://github.com/biomurph/GrayCode
 https://github.com/arielzw/DPS-Power-Supply
 https://github.com/cheerlights/cheerlights-arduino-library
 https://github.com/gi0rg0sPapamichail/QuickESPNow
@@ -1794,6 +1795,7 @@ https://github.com/dejwk/roo_prefs
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_temperature
 https://github.com/dejwk/roo_time
+https://github.com/dejwk/roo_time_ds3231
 https://github.com/dejwk/roo_wifi
 https://github.com/dejwk/roo_windows
 https://github.com/dejwk/roo_windows_onewire
@@ -5659,6 +5661,7 @@ https://github.com/Seeed-Studio/Seeed_Arduino_rpcUnified
 https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi
 https://github.com/Seeed-Studio/Seeed_Arduino_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD
+https://github.com/Seeed-Studio/Seeed_Arduino_SGP30
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
 https://github.com/Seeed-Studio/Seeed_LDC1612
@@ -7473,4 +7476,7 @@ https://github.com/UltiBlox/ActiveThreshold
 https://github.com/UltiBlox/DisplayValueLCD
 https://github.com/UltiBlox/DisplayValueCommon
 https://github.com/UltiBlox/UltiBloxExamples
-https://github.com/ultiblox/DisplayValueNull.git
+https://github.com/UltiBlox/DisplayValueNull.git
+https://github.com/mirs240x/micro_ros_arduino_mirs240x
+https://github.com/SequentMicrosystems/Sequent-16relays-Library
+https://github.com/canusorn/CynoIOT
