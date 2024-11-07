@@ -7582,3 +7582,4 @@ https://github.com/VanSilver/LCD595.git|Contributed|LCD595
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2.git|Contributed|YDLidar
 https://github.com/MINDS-i/MINDS-i-Trailer.git|Contributed|MINDS-i-Trailer
 https://github.com/RobTillaart/AD8495.git|Contributed|AD8495
+https://github.com/GitCoyote/solarfunctions.git|Contributed|solarfunctions
