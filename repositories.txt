@@ -4191,6 +4191,7 @@ https://github.com/mimeindustries/Marceau
 https://github.com/mimuz/mimuz-ch55x
 https://github.com/MINDS-i/MINDS-i
 https://github.com/MINDS-i/MINDS-i-Drone
+https://github.com/MINDS-i/MINDS-i-Trailer
 https://github.com/MINDS-i/MINDS-i-Utils
 https://github.com/minhaj6/DigiPotX9Cxxx
 https://github.com/Mirco04/Simple_HC-SR04_Control
