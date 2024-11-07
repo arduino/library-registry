@@ -7580,3 +7580,4 @@ https://github.com/biomurph/GrayCode.git|Contributed|GrayCode
 https://github.com/UltiBlox/DisplayValueNull.git|Contributed|UltiBlox DisplayValueNull
 https://github.com/VanSilver/LCD595.git|Contributed|LCD595
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2.git|Contributed|YDLidar
+https://github.com/MINDS-i/MINDS-i-Trailer.git|Contributed|MINDS-i-Trailer
