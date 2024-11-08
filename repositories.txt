@@ -1,4 +1,5 @@
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
+https://github.com/arduino-libraries/Servo
 https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
 https://github.com/arielzw/DPS-Power-Supply
