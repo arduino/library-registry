@@ -1,3 +1,4 @@
+https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
 https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
 https://github.com/arielzw/DPS-Power-Supply
@@ -4190,6 +4191,7 @@ https://github.com/mimeindustries/Marceau
 https://github.com/mimuz/mimuz-ch55x
 https://github.com/MINDS-i/MINDS-i
 https://github.com/MINDS-i/MINDS-i-Drone
+https://github.com/MINDS-i/MINDS-i-Trailer
 https://github.com/MINDS-i/MINDS-i-Utils
 https://github.com/minhaj6/DigiPotX9Cxxx
 https://github.com/Mirco04/Simple_HC-SR04_Control
@@ -4890,6 +4892,7 @@ https://github.com/PribaNosati/mrm-us-b
 https://github.com/PribaNosati/mrm-us1
 https://github.com/printoo/printoo_library
 https://github.com/PrivateHomeIoT/SecureMQTT
+https://github.com/Production3000/mvp3000esp
 https://github.com/ProfTahseen/Tarmos
 https://github.com/ProgettoCompany/Progetto_One_Pin_Keypad_Arduino_Library
 https://github.com/Programmable-Air/Code
@@ -5226,6 +5229,7 @@ https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
+https://github.com/RobTillaart/AD8495
 https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADC081S
@@ -7481,3 +7485,4 @@ https://github.com/UltiBlox/DisplayValueNull.git
 https://github.com/mirs240x/micro_ros_arduino_mirs240x
 https://github.com/SequentMicrosystems/Sequent-16relays-Library
 https://github.com/canusorn/CynoIOT
+https://github.com/GitCoyote/solarfunctions
