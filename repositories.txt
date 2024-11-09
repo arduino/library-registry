@@ -1,3 +1,4 @@
+https://github.com/fabricioitajuba/Internal_eeprom
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
 https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
