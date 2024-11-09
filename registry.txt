@@ -7584,3 +7584,4 @@ https://github.com/MINDS-i/MINDS-i-Trailer.git|Contributed|MINDS-i-Trailer
 https://github.com/RobTillaart/AD8495.git|Contributed|AD8495
 https://github.com/GitCoyote/solarfunctions.git|Contributed|solarfunctions
 https://github.com/Production3000/mvp3000esp.git|Contributed|MVP3000esp
+https://github.com/fabricioitajuba/Internal_eeprom.git|Contributed|Internal eeprom
