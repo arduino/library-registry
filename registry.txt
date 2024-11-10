@@ -7586,3 +7586,4 @@ https://github.com/GitCoyote/solarfunctions.git|Contributed|solarfunctions
 https://github.com/Production3000/mvp3000esp.git|Contributed|MVP3000esp
 https://github.com/fabricioitajuba/Internal_eeprom.git|Contributed|Internal eeprom
 https://github.com/RobTillaart/HX710AB.git|Contributed|HX710AB
+https://github.com/TheSpaceEgg/SimpleAD9833.git|Contributed|SimpleAD9833
