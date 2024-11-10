@@ -7570,7 +7570,7 @@ https://github.com/1e1/Arduino-GoogleSchedular.git|Contributed|GoogleSchedular
 https://github.com/UltiBlox/ActiveThreshold.git|Contributed|ActiveThreshold
 https://github.com/UltiBlox/DisplayValueLCD.git|Contributed|UltiBlox DisplayValueLCD
 https://github.com/UltiBlox/DisplayValueCommon.git|Contributed|UltiBlox DisplayValueCommon
-https://github.com/UltiBlox/UltiBloxExamples.git|Contributed|UltiBloxExamples
+https://github.com/UltiBlox/UltiBloxExamples.git|Contributed|UltiBlox-Examples
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30.git|Contributed|Seeed Arduino SGP30
 https://github.com/mirs240x/micro_ros_arduino_mirs240x.git|Contributed|micro_ros_arduino
 https://github.com/dejwk/roo_time_ds3231.git|Contributed|roo_time_ds3231
