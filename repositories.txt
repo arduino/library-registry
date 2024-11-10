@@ -7489,3 +7489,4 @@ https://github.com/SequentMicrosystems/Sequent-16relays-Library
 https://github.com/canusorn/CynoIOT
 https://github.com/GitCoyote/solarfunctions
 https://github.com/TheSpaceEgg/SimpleAD9833
+https://github.com/TomerOzer/GyroTomerOzer
