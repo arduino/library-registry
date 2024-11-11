@@ -7593,3 +7593,4 @@ https://github.com/matthewgream/DalyBMSInterface.git|Contributed|DalyBMSInterfac
 https://github.com/RobTillaart/DS1804.git|Contributed|DS1804
 https://github.com/MINDS-i/MINDS-i-Common.git|Contributed|MINDS-i-Common
 https://github.com/MINDS-i/MINDS-i-Farming.git|Contributed|MINDS-i-Farming
+https://github.com/MINDS-i/MINDS-i-Foundations.git|Contributed|MINDS-i-Foundations
