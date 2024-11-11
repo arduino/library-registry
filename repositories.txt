@@ -1,3 +1,4 @@
+https://github.com/fabricioitajuba/Internal_eeprom
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
 https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
@@ -4894,6 +4895,7 @@ https://github.com/PribaNosati/mrm-us-b
 https://github.com/PribaNosati/mrm-us1
 https://github.com/printoo/printoo_library
 https://github.com/PrivateHomeIoT/SecureMQTT
+https://github.com/Production3000/mvp3000esp
 https://github.com/ProfTahseen/Tarmos
 https://github.com/ProgettoCompany/Progetto_One_Pin_Keypad_Arduino_Library
 https://github.com/Programmable-Air/Code
@@ -5230,6 +5232,7 @@ https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
+https://github.com/RobTillaart/AD8495
 https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADC081S
@@ -5290,6 +5293,7 @@ https://github.com/RobTillaart/DHTstable
 https://github.com/RobTillaart/DistanceTable
 https://github.com/RobTillaart/DMM
 https://github.com/RobTillaart/DRV8825
+https://github.com/RobTillaart/DS1804
 https://github.com/RobTillaart/DS1821
 https://github.com/RobTillaart/DS18B20
 https://github.com/RobTillaart/DS18B20_INT
@@ -5324,6 +5328,7 @@ https://github.com/RobTillaart/HeartBeat
 https://github.com/RobTillaart/Histogram
 https://github.com/RobTillaart/HMC6352
 https://github.com/RobTillaart/HT16K33
+https://github.com/RobTillaart/HX710AB
 https://github.com/RobTillaart/HX711
 https://github.com/RobTillaart/HX711_MP
 https://github.com/RobTillaart/I2C_24LC1025
@@ -7485,3 +7490,8 @@ https://github.com/UltiBlox/DisplayValueNull.git
 https://github.com/mirs240x/micro_ros_arduino_mirs240x
 https://github.com/SequentMicrosystems/Sequent-16relays-Library
 https://github.com/canusorn/CynoIOT
+https://github.com/GitCoyote/solarfunctions
+https://github.com/TheSpaceEgg/SimpleAD9833
+https://github.com/matthewgream/ArduinoLightMDNS
+https://github.com/matthewgream/BluetoothTPMS
+https://github.com/matthewgream/DalyBMSInterface
