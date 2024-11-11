@@ -7590,3 +7590,4 @@ https://github.com/TheSpaceEgg/SimpleAD9833.git|Contributed|SimpleAD9833
 https://github.com/matthewgream/ArduinoLightMDNS.git|Contributed|LightMDNS
 https://github.com/matthewgream/BluetoothTPMS.git|Contributed|BluetoothTPMS
 https://github.com/matthewgream/DalyBMSInterface.git|Contributed|DalyBMSInterface
+https://github.com/RobTillaart/DS1804.git|Contributed|DS1804
