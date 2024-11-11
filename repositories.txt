@@ -7490,3 +7490,4 @@ https://github.com/canusorn/CynoIOT
 https://github.com/GitCoyote/solarfunctions
 https://github.com/TheSpaceEgg/SimpleAD9833
 https://github.com/matthewgream/ArduinoLightMDNS
+https://github.com/matthewgream/BluetoothTPMS
