@@ -5291,6 +5291,7 @@ https://github.com/RobTillaart/DHTstable
 https://github.com/RobTillaart/DistanceTable
 https://github.com/RobTillaart/DMM
 https://github.com/RobTillaart/DRV8825
+https://github.com/RobTillaart/DS1804
 https://github.com/RobTillaart/DS1821
 https://github.com/RobTillaart/DS18B20
 https://github.com/RobTillaart/DS18B20_INT
