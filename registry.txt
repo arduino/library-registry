@@ -7591,3 +7591,5 @@ https://github.com/matthewgream/ArduinoLightMDNS.git|Contributed|LightMDNS
 https://github.com/matthewgream/BluetoothTPMS.git|Contributed|BluetoothTPMS
 https://github.com/matthewgream/DalyBMSInterface.git|Contributed|DalyBMSInterface
 https://github.com/RobTillaart/DS1804.git|Contributed|DS1804
+https://github.com/MINDS-i/MINDS-i-Common.git|Contributed|MINDS-i-Common
+https://github.com/MINDS-i/MINDS-i-Farming.git|Contributed|MINDS-i-Farming
