@@ -7588,3 +7588,4 @@ https://github.com/fabricioitajuba/Internal_eeprom.git|Contributed|Internal eepr
 https://github.com/RobTillaart/HX710AB.git|Contributed|HX710AB
 https://github.com/TheSpaceEgg/SimpleAD9833.git|Contributed|SimpleAD9833
 https://github.com/matthewgream/ArduinoLightMDNS.git|Contributed|LightMDNS
+https://github.com/matthewgream/BluetoothTPMS.git|Contributed|BluetoothTPMS
