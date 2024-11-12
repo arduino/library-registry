@@ -4343,6 +4343,7 @@ https://github.com/Naguissa/uUnixDate
 https://github.com/Naguissa/uHexLib
 https://github.com/Naguissa/uMessagesBrokerLib
 https://github.com/Naguissa/uConfigLib
+https://github.com/Naguissa/uEspConfigLib
 https://github.com/naiithink/musicians-mate
 https://github.com/nailujx86/ESP8266_multipart
 https://github.com/namino-cc/Namino_Library
