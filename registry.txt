@@ -7593,3 +7593,4 @@ https://github.com/MINDS-i/MINDS-i-Farming.git|Contributed|MINDS-i-Farming
 https://github.com/MINDS-i/MINDS-i-Foundations.git|Contributed|MINDS-i-Foundations
 https://github.com/Naguissa/uEspConfigLib.git|Contributed|uEspConfigLib
 https://github.com/MMZBin/Arduino_MacroPad.git|Contributed|MacroPad
+https://github.com/jlopezr/arduino-yl800n.git|Contributed|YL-800N
