@@ -7494,7 +7494,7 @@ https://github.com/SequentMicrosystems/Sequent-16relays-Library
 https://github.com/canusorn/CynoIOT
 https://github.com/GitCoyote/solarfunctions
 https://github.com/TheSpaceEgg/SimpleAD9833
-https://github.com/matthewgream/ArduinoLightMDNS
+https://github.com/matthewgream/LightMDNS
 https://github.com/matthewgream/BluetoothTPMS
 https://github.com/matthewgream/DalyBMSInterface
 https://github.com/MMZBin/Arduino_MacroPad
