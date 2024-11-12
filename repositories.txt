@@ -7,6 +7,7 @@ https://github.com/cheerlights/cheerlights-arduino-library
 https://github.com/gi0rg0sPapamichail/QuickESPNow
 https://github.com/jjlondonoc/AFE4950-Arduino-Library
 https://github.com/dberry34/library-registry/edit/main/repositories.txt
+https://github.com/arduino-libraries/Servo
 https://github.com/MiguelLoureiro98/LM35IC
 https://github.com/m5stack/M5Unit-TOF
 https://github.com/m5stack/M5Unit-WEIGHT
