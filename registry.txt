@@ -7561,16 +7561,16 @@ https://github.com/jjlondonoc/AFE4950-Arduino-Library.git|Contributed|AFE4950
 https://github.com/D-314/IP2366-Arduino-Library.git|Contributed|IP2366
 https://github.com/RobTillaart/SWSPI.git|Contributed|SWSPI
 https://github.com/cheerlights/cheerlights-arduino-library.git|Contributed|CheerLights
-https://github.com/UltiBlox/SerialLogger.git|Contributed|UltiBlox SerialLogger
-https://github.com/UltiBlox/DisplayValueOLED.git|Contributed|UltiBlox DisplayValueOLED
-https://github.com/UltiBlox/LCDI2C.git|Contributed|UltiBlox LCDI2C
+https://github.com/UltiBlox/SerialLogger.git|Contributed|UltiBlox-SerialLogger
+https://github.com/UltiBlox/DisplayValueOLED.git|Contributed|UltiBlox-DisplayValueOLED
+https://github.com/UltiBlox/LCDI2C.git|Contributed|UltiBlox-LCDI2C
 https://github.com/UltiBlox/SensorAnalog.git|Contributed|UltiBlox SensorAnalog
 https://github.com/arielzw/DPS-Power-Supply.git|Contributed|DpsPowerSupply
 https://github.com/1e1/Arduino-GoogleSchedular.git|Contributed|GoogleSchedular
-https://github.com/UltiBlox/ActiveThreshold.git|Contributed|ActiveThreshold
+https://github.com/UltiBlox/ActiveThreshold.git|Contributed|UltiBlox-ActiveThreshold
 https://github.com/UltiBlox/DisplayValueLCD.git|Contributed|UltiBlox-DisplayValueLCD
 https://github.com/UltiBlox/DisplayValueCommon.git|Contributed|UltiBlox DisplayValueCommon
-https://github.com/UltiBlox/UltiBloxExamples.git|Contributed|UltiBloxExamples
+https://github.com/UltiBlox/UltiBloxExamples.git|Contributed|UltiBlox-Examples
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30.git|Contributed|Seeed Arduino SGP30
 https://github.com/mirs240x/micro_ros_arduino_mirs240x.git|Contributed|micro_ros_arduino
 https://github.com/dejwk/roo_time_ds3231.git|Contributed|roo_time_ds3231
@@ -7587,3 +7587,12 @@ https://github.com/Production3000/mvp3000esp.git|Contributed|MVP3000esp
 https://github.com/fabricioitajuba/Internal_eeprom.git|Contributed|Internal eeprom
 https://github.com/RobTillaart/HX710AB.git|Contributed|HX710AB
 https://github.com/TheSpaceEgg/SimpleAD9833.git|Contributed|SimpleAD9833
+https://github.com/matthewgream/ArduinoLightMDNS.git|Contributed|LightMDNS
+https://github.com/matthewgream/BluetoothTPMS.git|Contributed|BluetoothTPMS
+https://github.com/matthewgream/DalyBMSInterface.git|Contributed|DalyBMSInterface
+https://github.com/RobTillaart/DS1804.git|Contributed|DS1804
+https://github.com/MINDS-i/MINDS-i-Common.git|Contributed|MINDS-i-Common
+https://github.com/MINDS-i/MINDS-i-Farming.git|Contributed|MINDS-i-Farming
+https://github.com/MINDS-i/MINDS-i-Foundations.git|Contributed|MINDS-i-Foundations
+https://github.com/Naguissa/uEspConfigLib.git|Contributed|uEspConfigLib
+https://github.com/MMZBin/Arduino_MacroPad.git|Contributed|MacroPad
