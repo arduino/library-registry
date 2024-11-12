@@ -367,7 +367,6 @@ https://github.com/mathertel/DMXSerial2.git|Contributed|DMXSerial2
 https://github.com/mathertel/Radio.git|Contributed|Radio
 https://github.com/mathworks/thingspeak-arduino.git|Contributed|ThingSpeak
 https://github.com/milesburton/Arduino-Temperature-Control-Library.git|Contributed|DallasTemperature
-https://github.com/MINDS-i/MINDS-i.git|Contributed|MINDSi
 https://github.com/mirobot/mirobot-arduino.git|Contributed|Mirobot
 https://github.com/mmurdoch/arduinounit.git|Contributed|ArduinoUnit
 https://github.com/mrjimenez/JTAG.git|Contributed|JTAG
