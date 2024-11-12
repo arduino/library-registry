@@ -7497,3 +7497,4 @@ https://github.com/TheSpaceEgg/SimpleAD9833
 https://github.com/matthewgream/ArduinoLightMDNS
 https://github.com/matthewgream/BluetoothTPMS
 https://github.com/matthewgream/DalyBMSInterface
+https://github.com/MMZBin/Arduino_MacroPad
