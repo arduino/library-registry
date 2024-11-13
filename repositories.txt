@@ -5761,6 +5761,7 @@ https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Li
 https://github.com/sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library
 https://github.com/sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_KX13X_Arduino_Library
+https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_LIDARLitev4_Arduino_Library
 https://github.com/sparkfun/SparkFun_Line_Follower_Array_Arduino_Library
 https://github.com/sparkfun/SparkFun_LIS2DH12_Arduino_Library
