@@ -6195,7 +6195,7 @@ https://github.com/gbr1/ucPack.git|Contributed|ucPack
 https://github.com/SndrSchnklshk/HDC302x.git|Contributed|HDC302x
 https://github.com/SndrSchnklshk/TMP6x.git|Contributed|TMP6x
 https://github.com/misaproyectil/Sprite_Serial_Control.git|Contributed|Proyectil MedeaWiz
-https://github.com/misaproyectil/digitalIO.git|Contributed|Proyectil digitalIO
+https://github.com/misa3L994/digitalIO.git|Contributed|Proyectil digitalIO
 https://github.com/misaproyectil/GD3300.git|Contributed|Proyectil GD3300
 https://github.com/sparkfun/SparkFun_BNO08x_Arduino_Library.git|Contributed|SparkFun BNO08x Cortex Based IMU
 https://github.com/bonezegei/Bonezegei_SoftSerial.git|Contributed|Bonezegei_SoftSerial
