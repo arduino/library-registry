@@ -5,7 +5,7 @@ env:
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
-  CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT: check-submissions-failed
+  CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX: check-submissions-failed-
   ERROR_MESSAGE_PREFIX: ":x: **ERROR:** "
 
 on:
@@ -114,7 +114,7 @@ jobs:
         run: echo "::set-output name=head::$(jq -c .head.sha "${{ steps.configuration.outputs.path }}/${{ env.JSON_IDENTIFIER }}")"
 
       - name: Upload diff file to workflow artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: ${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}
           name: ${{ steps.configuration.outputs.artifact }}
@@ -144,13 +144,13 @@ jobs:
           location: ${{ runner.temp }}
 
       - name: Download diff
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           path: ${{ needs.diff.outputs.path }}
           name: ${{ needs.diff.outputs.artifact }}
 
       - name: Remove no longer needed artifact
-        uses: geekyeggo/delete-artifact@v2
+        uses: geekyeggo/delete-artifact@v5
         with:
           name: ${{ needs.diff.outputs.artifact }}
 
@@ -376,15 +376,23 @@ jobs:
         if: env.PASS == 'false'
         run: touch ${{ env.FAIL_FLAG_PATH }} # Arbitrary file to provide content for the flag artifact
 
+      # Each workflow artifact must have a unique name. The job matrix doesn't provide a guaranteed unique string to use
+      # for a name so it is necessary to generate one.
+      - name: Generate unique artifact suffix
+        if: env.PASS == 'false'
+        run: |
+          echo "CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_SUFFIX=$(cat /proc/sys/kernel/random/uuid)" >> "$GITHUB_ENV"
+
       # The value of a job matrix output is set by whichever job happened to run last, not of use for this application.
       # So it's necessary to use an alternative means of indicating that at least one submission failed the checks.
       - name: Upload failure flag artifact
         if: env.PASS == 'false'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           if-no-files-found: error
+          include-hidden-files: true
           path: ${{ env.FAIL_FLAG_PATH }}
-          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX }}${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_SUFFIX }}
 
   check-submissions-result:
     needs: check-submissions
@@ -393,13 +401,22 @@ jobs:
     outputs:
       pass: ${{ steps.failure-flag-exists.outcome == 'failure' }}
 
+    env:
+      CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH: ${{ github.workspace }}/artifacts
+
     steps:
+      - name: Download submission check failure flag artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH }}
+          pattern: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX }}*
+
       - name: Check for existence of submission check failure flag artifact
         id: failure-flag-exists
-        uses: actions/download-artifact@v3
         continue-on-error: true
-        with:
-          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+        # actions/download-artifact does not create a folder per its `path` input if no artifacts match `pattern`.
+        run: |
+          test -d "${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH }}"
 
   check-submissions-fail:
     needs:
