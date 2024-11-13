@@ -1,3 +1,6 @@
+https://github.com/fabricioitajuba/Internal_eeprom
+https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
+https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
 https://github.com/arielzw/DPS-Power-Supply
 https://github.com/cheerlights/cheerlights-arduino-library
@@ -4187,9 +4190,10 @@ https://github.com/MileBuurmeijer/DS1307newAlarms
 https://github.com/milesburton/Arduino-Temperature-Control-Library
 https://github.com/mimeindustries/Marceau
 https://github.com/mimuz/mimuz-ch55x
-https://github.com/MINDS-i/MINDS-i
+https://github.com/MINDS-i/MINDS-i-Common
 https://github.com/MINDS-i/MINDS-i-Drone
-https://github.com/MINDS-i/MINDS-i-Utils
+https://github.com/MINDS-i/MINDS-i-Foundations
+https://github.com/MINDS-i/MINDS-i-Farming
 https://github.com/minhaj6/DigiPotX9Cxxx
 https://github.com/Mirco04/Simple_HC-SR04_Control
 https://github.com/mirobot/mirobot-arduino
@@ -4336,6 +4340,7 @@ https://github.com/Naguissa/uUnixDate
 https://github.com/Naguissa/uHexLib
 https://github.com/Naguissa/uMessagesBrokerLib
 https://github.com/Naguissa/uConfigLib
+https://github.com/Naguissa/uEspConfigLib
 https://github.com/naiithink/musicians-mate
 https://github.com/nailujx86/ESP8266_multipart
 https://github.com/namino-cc/Namino_Library
@@ -4889,6 +4894,7 @@ https://github.com/PribaNosati/mrm-us-b
 https://github.com/PribaNosati/mrm-us1
 https://github.com/printoo/printoo_library
 https://github.com/PrivateHomeIoT/SecureMQTT
+https://github.com/Production3000/mvp3000esp
 https://github.com/ProfTahseen/Tarmos
 https://github.com/ProgettoCompany/Progetto_One_Pin_Keypad_Arduino_Library
 https://github.com/Programmable-Air/Code
@@ -4964,7 +4970,7 @@ https://github.com/pvannatto/Switch2_Lib
 https://github.com/pvizeli/CmdParser
 https://github.com/pxsty0/deneyap.telegram
 https://github.com/pxsty0/deneyapkart.agent.lib
-https://github.com/pxsty0/pxserv.lib
+https://github.com/pxsty0/pxserv.arduino
 https://github.com/pxsty0/DisCard
 https://github.com/Pylo/MCreatorLinkArduino
 https://github.com/pokerobo/Pokerobo_ABC
@@ -5225,6 +5231,7 @@ https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
+https://github.com/RobTillaart/AD8495
 https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
 https://github.com/RobTillaart/ADC081S
@@ -5285,6 +5292,7 @@ https://github.com/RobTillaart/DHTstable
 https://github.com/RobTillaart/DistanceTable
 https://github.com/RobTillaart/DMM
 https://github.com/RobTillaart/DRV8825
+https://github.com/RobTillaart/DS1804
 https://github.com/RobTillaart/DS1821
 https://github.com/RobTillaart/DS18B20
 https://github.com/RobTillaart/DS18B20_INT
@@ -5319,6 +5327,7 @@ https://github.com/RobTillaart/HeartBeat
 https://github.com/RobTillaart/Histogram
 https://github.com/RobTillaart/HMC6352
 https://github.com/RobTillaart/HT16K33
+https://github.com/RobTillaart/HX710AB
 https://github.com/RobTillaart/HX711
 https://github.com/RobTillaart/HX711_MP
 https://github.com/RobTillaart/I2C_24LC1025
@@ -5805,9 +5814,9 @@ https://github.com/siktec-lab/SIKTEC-SdExplore
 https://github.com/siktec-lab/SIKTEC-SPI
 https://github.com/siktec-lab/SIKTEC-SRAM
 https://github.com/Silvan85/Nova_SDS011
-https://github.com/Silver-Fang/Cpp_Standard_Library
-https://github.com/Silver-Fang/Low-level-quick-digital-IO
-https://github.com/Silver-Fang/TimersOneForAll
+https://github.com/Ebola-Chan-bot/Cpp_Standard_Library
+https://github.com/Ebola-Chan-bot/Low_level_quick_digital_IO
+https://github.com/Ebola-Chan-bot/Timers_one_for_all
 https://github.com/silvervest/Silvervest_OLED_0010_SPI
 https://github.com/simap/TouchWheel
 https://github.com/simonlmn/esp-iot-core
@@ -6690,7 +6699,7 @@ https://github.com/ug-cp/precise_sntp
 https://github.com/UIPEthernet/UIPEthernet
 https://github.com/ukkz/green-beacon-esp32
 https://github.com/ukkz/tiny-key-value-store
-https://github.com/ukw100/IRMP
+https://github.com/IRMP-org/IRMP
 https://github.com/uldara1/Modbus.git
 https://github.com/UlmerMan/Elegoo
 https://github.com/ultimaterobotics/uECG_library
@@ -7479,3 +7488,10 @@ https://github.com/UltiBlox/DisplayValueNull.git
 https://github.com/mirs240x/micro_ros_arduino_mirs240x
 https://github.com/SequentMicrosystems/Sequent-16relays-Library
 https://github.com/canusorn/CynoIOT
+https://github.com/GitCoyote/solarfunctions
+https://github.com/TheSpaceEgg/SimpleAD9833
+https://github.com/matthewgream/LightMDNS
+https://github.com/matthewgream/BluetoothTPMS
+https://github.com/matthewgream/DalyBMSInterface
+https://github.com/MMZBin/Arduino_MacroPad
+https://github.com/jlopezr/arduino-yl800n
