@@ -858,6 +858,7 @@ https://github.com/ArduCAM/Arducam_Mega
 https://github.com/ArduCAM/Arducam_mini
 https://github.com/arduino-libraries/AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC
+https://github.com/arduino-libraries/Arduino_10BASE_T1S
 https://github.com/arduino-libraries/Arduino_AdvancedAnalog
 https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
