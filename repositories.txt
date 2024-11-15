@@ -7501,3 +7501,4 @@ https://github.com/matthewgream/DalyBMSInterface
 https://github.com/MMZBin/Arduino_MacroPad
 https://github.com/jlopezr/arduino-yl800n
 https://github.com/gooddisplayshare/ESP32epd
+https://github.com/lautisilber/SmartComm
