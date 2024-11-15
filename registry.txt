@@ -7600,3 +7600,4 @@ https://github.com/arduino-libraries/Arduino_10BASE_T1S.git|Arduino|Arduino_10BA
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Wide.git|Contributed|PDLS_EXT3_Basic_Wide
 https://github.com/gooddisplayshare/ESP32epd.git|Contributed|ESP32epd
 https://github.com/lautisilber/SmartComm.git|Contributed|SmartComm
+https://github.com/henriberisha/EasyEspNow.git|Contributed|EasyEspNow
