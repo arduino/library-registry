@@ -7601,3 +7601,6 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_Wide.git|Contributed|PDLS_EXT3_Basic
 https://github.com/gooddisplayshare/ESP32epd.git|Contributed|ESP32epd
 https://github.com/lautisilber/SmartComm.git|Contributed|SmartComm
 https://github.com/henriberisha/EasyEspNow.git|Contributed|EasyEspNow
+https://github.com/BestModules-Libraries/BMV31T001.git|Contributed|BMV31T001
+https://github.com/BestModules-Libraries/BMV51T001.git|Contributed|BMV51T001
+https://github.com/BestModules-Libraries/BMV56T123.git|Contributed|BMV56T123
