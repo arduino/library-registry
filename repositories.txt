@@ -7503,3 +7503,6 @@ https://github.com/MMZBin/Arduino_MacroPad
 https://github.com/jlopezr/arduino-yl800n
 https://github.com/gooddisplayshare/ESP32epd
 https://github.com/lautisilber/SmartComm
+https://github.com/BestModules-Libraries/BMV31T001
+https://github.com/BestModules-Libraries/BMV51T001
+https://github.com/BestModules-Libraries/BMV56T123
