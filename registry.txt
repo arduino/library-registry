@@ -7606,3 +7606,4 @@ https://github.com/BestModules-Libraries/BMV51T001.git|Contributed|BMV51T001
 https://github.com/BestModules-Libraries/BMV56T123.git|Contributed|BMV56T123
 https://github.com/blasilli/GBALib_UltrasonicSensor.git|Contributed|GBALib_UltrasonicSensor
 https://github.com/georgemihaila/xy2-100.git|Contributed|XY2-100
+https://github.com/pschatzmann/TalkiePCM.git|Contributed|TalkiePCM
