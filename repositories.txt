@@ -7507,3 +7507,4 @@ https://github.com/lautisilber/SmartComm
 https://github.com/BestModules-Libraries/BMV31T001
 https://github.com/BestModules-Libraries/BMV51T001
 https://github.com/BestModules-Libraries/BMV56T123
+https://github.com/georgemihaila/xy2-100
