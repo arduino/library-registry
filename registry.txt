@@ -7610,3 +7610,4 @@ https://github.com/pschatzmann/TalkiePCM.git|Contributed|TalkiePCM
 https://github.com/blasilli/GBALib_ShiftRegister.git|Contributed|GBALib_ShiftRegister
 https://github.com/blasilli/GBALib_DCMotor.git|Contributed|GBALib_DCMotor
 https://github.com/YuenNicdao/iParol.git|Contributed|iParol
+https://github.com/Natpol50/BME280_mini.git|Contributed|BME280_Mini
