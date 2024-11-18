@@ -7613,3 +7613,4 @@ https://github.com/YuenNicdao/iParol.git|Contributed|iParol
 https://github.com/Natpol50/BME280_mini.git|Contributed|BME280_Mini
 https://github.com/MMZBin/Raspberry_Pi_Pico_MacroPad.git|Contributed|Pico_Keyboard
 https://github.com/styropyr0/oled.h.git|Contributed|SSD1306 OLED Display
+https://github.com/ncmreynolds/loremipsum.git|Contributed|loremipsum
