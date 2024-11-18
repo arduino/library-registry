@@ -6059,6 +6059,7 @@ https://github.com/sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library
 https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_HyperDisplay
 https://github.com/sparkfun/SparkFun_I2C_GPS_Arduino_Library
+https://github.com/sparkfun/SparkFun_I2C_Expander_Arduino_Library
 https://github.com/sparkfun/SparkFun_I2C_Mux_Arduino_Library
 https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary
 https://github.com/sparkfun/SparkFun_IM19_IMU_Arduino_Library
