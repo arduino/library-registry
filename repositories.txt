@@ -7202,7 +7202,6 @@ https://github.com/ardlib/bosejis_Bin
 https://github.com/ardlib/bosejis_TWI
 https://github.com/ardlib/bosejis_PString
 https://github.com/kalmak07/SensorNorm
-https://github.com/D-314/IP2366-Arduino-Library
 https://github.com/D-314/IP2368-Arduino-Library
 https://github.com/maxpromer/AX-Mini
 https://github.com/maxpromer/Hanuman
