@@ -7619,3 +7619,4 @@ https://github.com/sparkfun/SparkFun_I2C_Expander_Arduino_Library.git|Contribute
 https://github.com/Init-io/FireEsp.git|Contributed|FireEsp
 https://github.com/traquito/WsprEncoded.git|Contributed|WsprEncoded
 https://github.com/Init-io/DoEEP.git|Contributed|DoEEP
+https://github.com/Init-io/OTAEsp.git|Contributed|OTAEsp
