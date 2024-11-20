@@ -7617,3 +7617,4 @@ https://github.com/ncmreynolds/loremipsum.git|Contributed|loremipsum
 https://github.com/jaakka/DelayFunctionsArduino.git|Contributed|DelayFunctions
 https://github.com/sparkfun/SparkFun_I2C_Expander_Arduino_Library.git|Contributed|SparkFun I2C Expander Arduino Library
 https://github.com/Init-io/FireEsp.git|Contributed|FireEsp
+https://github.com/traquito/WsprEncoded.git|Contributed|WsprEncoded
