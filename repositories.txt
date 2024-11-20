@@ -1,3 +1,12 @@
+https://github.com/Init-io/OTAEsp
+https://github.com/Init-io/DoEEP
+https://github.com/traquito/WsprEncoded
+https://github.com/Init-io/FireEsp
+https://github.com/ncmreynolds/loremipsum
+https://github.com/blasilli/GBALib_DCMotor
+https://github.com/blasilli/GBALib_ShiftRegister
+https://github.com/blasilli/GBALib_UltrasonicSensor
+https://github.com/henriberisha/EasyEspNow
 https://github.com/fabricioitajuba/Internal_eeprom
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
 https://github.com/VanSilver/LCD595
@@ -858,6 +867,7 @@ https://github.com/ArduCAM/Arducam_Mega
 https://github.com/ArduCAM/Arducam_mini
 https://github.com/arduino-libraries/AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC
+https://github.com/arduino-libraries/Arduino_10BASE_T1S
 https://github.com/arduino-libraries/Arduino_AdvancedAnalog
 https://github.com/arduino-libraries/Arduino_APA102
 https://github.com/arduino-libraries/Arduino_APDS9960
@@ -5074,6 +5084,7 @@ https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Global
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch
+https://github.com/rei-vilo/PDLS_EXT3_Basic_Wide
 https://github.com/reiniiriarios/arduino-mqtt-looped
 https://github.com/remicaumette/esp8266-redis
 https://github.com/remocons/boho-arduino
@@ -5278,6 +5289,7 @@ https://github.com/RobTillaart/DAC8552
 https://github.com/RobTillaart/DAC8554
 https://github.com/RobTillaart/DAC8560
 https://github.com/RobTillaart/DAC8571
+https://github.com/RobTillaart/DAC8574
 https://github.com/RobTillaart/dateTimeHelpers
 https://github.com/RobTillaart/DEVFULL
 https://github.com/RobTillaart/DEVNULL
@@ -6051,6 +6063,7 @@ https://github.com/sparkfun/SparkFun_HM1X_Bluetooth_Arduino_Library
 https://github.com/sparkfun/SparkFun_HTU21D_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_HyperDisplay
 https://github.com/sparkfun/SparkFun_I2C_GPS_Arduino_Library
+https://github.com/sparkfun/SparkFun_I2C_Expander_Arduino_Library
 https://github.com/sparkfun/SparkFun_I2C_Mux_Arduino_Library
 https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary
 https://github.com/sparkfun/SparkFun_IM19_IMU_Arduino_Library
@@ -6058,6 +6071,7 @@ https://github.com/sparkfun/SparkFun_Indoor_Air_Quality_Sensor-ENS160_Arduino_Li
 https://github.com/sparkfun/SparkFun_IridiumSBD_I2C_Arduino_Library
 https://github.com/sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_KX13X_Arduino_Library
+https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_LIDARLitev4_Arduino_Library
 https://github.com/sparkfun/SparkFun_Line_Follower_Array_Arduino_Library
 https://github.com/sparkfun/SparkFun_LIS2DH12_Arduino_Library
@@ -7496,3 +7510,15 @@ https://github.com/matthewgream/BluetoothTPMS
 https://github.com/matthewgream/DalyBMSInterface
 https://github.com/MMZBin/Arduino_MacroPad
 https://github.com/jlopezr/arduino-yl800n
+https://github.com/gooddisplayshare/ESP32epd
+https://github.com/lautisilber/SmartComm
+https://github.com/BestModules-Libraries/BMV31T001
+https://github.com/BestModules-Libraries/BMV51T001
+https://github.com/BestModules-Libraries/BMV56T123
+https://github.com/georgemihaila/xy2-100
+https://github.com/pschatzmann/TalkiePCM
+https://github.com/YuenNicdao/iParol
+https://github.com/Natpol50/BME280_mini
+https://github.com/MMZBin/Raspberry_Pi_Pico_MacroPad
+https://github.com/styropyr0/oled.h
+https://github.com/jaakka/DelayFunctionsArduino
