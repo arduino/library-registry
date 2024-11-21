@@ -7621,3 +7621,4 @@ https://github.com/traquito/WsprEncoded.git|Contributed|WsprEncoded
 https://github.com/Init-io/DoEEP.git|Contributed|DoEEP
 https://github.com/Init-io/OTAEsp.git|Contributed|OTAEsp
 https://github.com/Init-io/PinScribe.git|Contributed|PinScribe
+https://github.com/ZanPekosak/SlowPWM.git|Contributed|SlowPWM
