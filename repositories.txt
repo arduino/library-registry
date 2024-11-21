@@ -1,3 +1,4 @@
+https://github.com/leftCoast/LC_cardIndex
 https://github.com/Init-io/PinScribe
 https://github.com/Init-io/OTAEsp
 https://github.com/Init-io/DoEEP
