@@ -1,0 +1,16 @@
+{
+  "name": "BersControl",
+  "keywords": "control, esp",
+  "author": "Faizyee",
+  "maintainer": "Faizyee <faizyee7ty@gmail.com>",
+  "sentence": "A simple library for control ESP",
+  "paragraph": "This library using WebSockets for protocol control ESP32/ESP8266.",
+  "category": "Communication",
+  "url": "https://github.com/Faizyee/BersControl",
+  "version": "1.0.3",
+  "architectures": "*",
+  "license": "MIT",
+  "depends": ["WebSockets", "ArduinoJson"],
+  "repository": "https://github.com/Faizyee/BersControl",
+  "install_requires": []
+}
