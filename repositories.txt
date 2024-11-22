@@ -3022,6 +3022,7 @@ https://github.com/jandelgado/jled
 https://github.com/jandelgado/jled-pca9685-hal
 https://github.com/jandelgado/log4arduino
 https://github.com/jandrassy/ArduinoOTA
+https://github.com/jmelabs/BuzzerMelody
 https://github.com/Networking-for-Arduino/EthernetENC
 https://github.com/Networking-for-Arduino/EthernetEspAT
 https://github.com/Networking-for-Arduino/NetApiHelpers
