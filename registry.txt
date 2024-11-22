@@ -7623,3 +7623,4 @@ https://github.com/Init-io/OTAEsp.git|Contributed|OTAEsp
 https://github.com/Init-io/PinScribe.git|Contributed|PinScribe
 https://github.com/ZanPekosak/SlowPWM.git|Contributed|SlowPWM
 https://github.com/leftCoast/LC_cardIndex.git|Contributed|LC_cardIndex
+https://github.com/jmelabs/BuzzerMelody.git|Contributed|BuzzerMelody
