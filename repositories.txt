@@ -7499,7 +7499,6 @@ https://github.com/UltiBlox/ActiveThreshold
 https://github.com/UltiBlox/DisplayValueLCD
 https://github.com/UltiBlox/UltiBloxExamples
 https://github.com/UltiBlox/DisplayValueNull.git
-https://github.com/UltiBlox/SerialCommands
 https://github.com/mirs240x/micro_ros_arduino_mirs240x
 https://github.com/SequentMicrosystems/Sequent-16relays-Library
 https://github.com/canusorn/CynoIOT
