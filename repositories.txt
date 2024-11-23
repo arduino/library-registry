@@ -1,3 +1,5 @@
+https://github.com/leftCoast/LC_cardIndex
+https://github.com/Init-io/PinScribe
 https://github.com/Init-io/OTAEsp
 https://github.com/Init-io/DoEEP
 https://github.com/traquito/WsprEncoded
@@ -3020,6 +3022,7 @@ https://github.com/jandelgado/jled
 https://github.com/jandelgado/jled-pca9685-hal
 https://github.com/jandelgado/log4arduino
 https://github.com/jandrassy/ArduinoOTA
+https://github.com/jmelabs/BuzzerMelody
 https://github.com/Networking-for-Arduino/EthernetENC
 https://github.com/Networking-for-Arduino/EthernetEspAT
 https://github.com/Networking-for-Arduino/NetApiHelpers
@@ -7521,3 +7524,4 @@ https://github.com/Natpol50/BME280_mini
 https://github.com/MMZBin/Raspberry_Pi_Pico_MacroPad
 https://github.com/styropyr0/oled.h
 https://github.com/jaakka/DelayFunctionsArduino
+https://github.com/ZanPekosak/SlowPWM
