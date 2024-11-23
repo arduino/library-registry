@@ -7519,6 +7519,7 @@ https://github.com/BestModules-Libraries/BMV31T001
 https://github.com/BestModules-Libraries/BMV51T001
 https://github.com/BestModules-Libraries/BMV56T123
 https://github.com/georgemihaila/xy2-100
+https://github.com/georgemihaila/galvo-controller
 https://github.com/pschatzmann/TalkiePCM
 https://github.com/YuenNicdao/iParol
 https://github.com/Natpol50/BME280_mini
