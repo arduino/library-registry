@@ -7625,3 +7625,4 @@ https://github.com/ZanPekosak/SlowPWM.git|Contributed|SlowPWM
 https://github.com/leftCoast/LC_cardIndex.git|Contributed|LC_cardIndex
 https://github.com/jmelabs/BuzzerMelody.git|Contributed|BuzzerMelody
 https://github.com/georgemihaila/galvo-controller.git|Contributed|GalvoController
+https://github.com/RobTillaart/AD523X.git|Contributed|AD523X
