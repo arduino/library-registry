@@ -7531,3 +7531,4 @@ https://github.com/MMZBin/Raspberry_Pi_Pico_MacroPad
 https://github.com/styropyr0/oled.h
 https://github.com/jaakka/DelayFunctionsArduino
 https://github.com/ZanPekosak/SlowPWM
+https://github.com/Lorandil/uCompression
