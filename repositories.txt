@@ -1089,6 +1089,7 @@ https://github.com/asukiaaa/arduino-HX711
 https://github.com/asukiaaa/arduino-HzMeter
 https://github.com/asukiaaa/arduino-MCP4661
 https://github.com/asukiaaa/arduino-MotorCVD
+https://github.com/asukiaaa/arduino-OrientalAZ
 https://github.com/asukiaaa/arduino-OrientalBLVR
 https://github.com/asukiaaa/arduino-OrientalCommon
 https://github.com/asukiaaa/arduino-ResistorReader
