@@ -7628,3 +7628,4 @@ https://github.com/georgemihaila/galvo-controller.git|Contributed|GalvoControlle
 https://github.com/RobTillaart/AD523X.git|Contributed|AD523X
 https://github.com/asukiaaa/arduino-OrientalBLVR.git|Contributed|OrientalBLVR_asukiaaa
 https://github.com/asukiaaa/arduino-OrientalAZ.git|Contributed|OrientalAZ_asukiaaa
+https://gitlab.com/pony_jd/mis_librerias/dualwheelcontrol_jd.git|Contributed|DualWheelControl_JD
