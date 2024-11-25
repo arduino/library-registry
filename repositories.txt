@@ -7534,3 +7534,4 @@ https://github.com/styropyr0/oled.h
 https://github.com/jaakka/DelayFunctionsArduino
 https://github.com/ZanPekosak/SlowPWM
 https://github.com/Lorandil/uCompression
+https://github.com/DMT-Services/GeoMagnetism
