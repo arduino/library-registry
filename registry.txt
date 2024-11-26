@@ -6942,7 +6942,7 @@ https://github.com/arduino-libraries/Modulino.git|Arduino|Modulino
 https://github.com/GyverLibs/GyverDS18.git|Contributed|GyverDS18
 https://github.com/kalmak07/SensorNorm.git|Contributed|SensorNormalization
 https://github.com/SkHCrusher/TinyButton.git|Contributed|TinyButton
-https://github.com/D-314/IP2368-Arduino-Library.git|Contributed|IP2368
+https://github.com/D-314/IP2368-Arduino-Library.git|Contributed|IP236x
 https://github.com/maxpromer/AX-Mini.git|Contributed|AX-Mini
 https://github.com/leaphy-robotics/leaphy-extensions.git|Contributed|Leaphy Extensions
 https://github.com/RobTillaart/DAC8571.git|Contributed|DAC8571
