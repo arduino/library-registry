@@ -5425,6 +5425,7 @@ https://github.com/RobTillaart/PCA9549
 https://github.com/RobTillaart/PCA9551
 https://github.com/RobTillaart/PCA9552
 https://github.com/RobTillaart/PCA9553
+https://github.com/RobTillaart/PCA9632
 https://github.com/RobTillaart/PCA9634
 https://github.com/RobTillaart/PCA9635
 https://github.com/RobTillaart/PCA9685_RT
