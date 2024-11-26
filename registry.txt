@@ -7634,3 +7634,4 @@ https://github.com/ftservo/FTServo_Arduino.git|Contributed|FTServo
 https://github.com/dac1e/RcSwitchReceiver.git|Contributed|RcSwitchReceiver
 https://github.com/ConsentiumIoT/ConsentiumStarterKit.git|Contributed|ConsentiumStarterKit
 https://github.com/RobTillaart/PCA9632.git|Contributed|PCA9632
+https://github.com/batuhantrkgl/ESP8266-D1_SMTPClient.git|Contributed|ESP8266 SMTPClient
