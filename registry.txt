@@ -7632,3 +7632,4 @@ https://gitlab.com/pony_jd/mis_librerias/dualwheelcontrol_jd.git|Contributed|Dua
 https://github.com/Lorandil/uCompression.git|Contributed|uCompression
 https://github.com/ftservo/FTServo_Arduino.git|Contributed|FTServo
 https://github.com/dac1e/RcSwitchReceiver.git|Contributed|RcSwitchReceiver
+https://github.com/ConsentiumIoT/ConsentiumStarterKit.git|Contributed|ConsentiumStarterKit
