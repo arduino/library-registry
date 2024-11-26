@@ -7536,3 +7536,4 @@ https://github.com/jaakka/DelayFunctionsArduino
 https://github.com/ZanPekosak/SlowPWM
 https://github.com/Lorandil/uCompression
 https://github.com/ConsentiumIoT/ConsentiumStarterKit
+https://github.com/batuhantrkgl/ESP8266-D1_SMTPClient
