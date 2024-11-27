@@ -7638,3 +7638,4 @@ https://github.com/RobTillaart/TEMT6000.git|Contributed|TEMT6000
 https://github.com/UltiBlox/SerialCommands.git|Contributed|UltiBlox-SerialCommands
 https://github.com/technochicken/SmartSW.git|Contributed|SmartSW
 https://github.com/Sensirion/arduino-i2c-sen66.git|Contributed|Sensirion I2C SEN66
+https://github.com/ZanPekosak/AnalogFilter.git|Contributed|AnalogFilter
