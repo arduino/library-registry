@@ -7635,3 +7635,4 @@ https://github.com/RobTillaart/PCA9632.git|Contributed|PCA9632
 https://github.com/batuhantrkgl/ESP8266-D1_SMTPClient.git|Contributed|ESP8266 SMTPClient
 https://github.com/DMT-Services/GeoMagnetism.git|Contributed|GeoMagnetism
 https://github.com/RobTillaart/TEMT6000.git|Contributed|TEMT6000
+https://github.com/UltiBlox/SerialCommands.git|Contributed|UltiBlox-SerialCommands
