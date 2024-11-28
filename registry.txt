@@ -7639,3 +7639,4 @@ https://github.com/UltiBlox/SerialCommands.git|Contributed|UltiBlox-SerialComman
 https://github.com/technochicken/SmartSW.git|Contributed|SmartSW
 https://github.com/Sensirion/arduino-i2c-sen66.git|Contributed|Sensirion I2C SEN66
 https://github.com/ZanPekosak/AnalogFilter.git|Contributed|AnalogFilter
+https://github.com/fotherja/BQ76952.git|Contributed|BQ76952
