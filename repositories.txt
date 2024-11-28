@@ -7542,3 +7542,4 @@ https://github.com/DMT-Services/GeoMagnetism
 https://github.com/ConsentiumIoT/ConsentiumStarterKit
 https://github.com/batuhantrkgl/ESP8266-D1_SMTPClient
 https://github.com/technochicken/SmartSW
+https://github.com/53175ddd/AY-3-8910_Arduino
