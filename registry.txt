@@ -7641,3 +7641,4 @@ https://github.com/Sensirion/arduino-i2c-sen66.git|Contributed|Sensirion I2C SEN
 https://github.com/ZanPekosak/AnalogFilter.git|Contributed|AnalogFilter
 https://github.com/fotherja/BQ76952.git|Contributed|BQ76952
 https://github.com/53175ddd/AY-3-8910_Arduino.git|Contributed|MOS Electronics AY-3-8910 Library
+https://github.com/circuitcode/AsyncWebSerial.git|Contributed|AsyncWebSerial
