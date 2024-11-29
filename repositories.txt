@@ -1,4 +1,5 @@
 https://github.com/fotherja/BQ76952
+https://github.com/RASPIAUDIO/Muse_library
 https://github.com/ZanPekosak/AnalogFilter
 https://github.com/misa3L994/digitalIO
 https://github.com/dac1e/RcSwitchReceiver
