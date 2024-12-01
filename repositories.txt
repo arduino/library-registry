@@ -7547,3 +7547,4 @@ https://github.com/53175ddd/AY-3-8910_Arduino
 https://github.com/circuitcode/AsyncWebSerial
 https://github.com/circuitcode/AsyncOTA
 https://github.com/EmotiBit/EmotiBit_KTD2026
+https://gitlab.kh-berlin.de/elab/Cabluino
