@@ -7645,3 +7645,4 @@ https://github.com/circuitcode/AsyncWebSerial.git|Contributed|AsyncWebSerial
 https://github.com/circuitcode/AsyncOTA.git|Contributed|AsyncOTA
 https://github.com/RASPIAUDIO/Muse_library.git|Contributed|Muse_library
 https://github.com/EmotiBit/EmotiBit_KTD2026.git|Contributed|EmotiBit KTD2026
+https://github.com/SimonVonSchmude/Cabluino.git|Contributed|Cabluino
