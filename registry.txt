@@ -7651,3 +7651,4 @@ https://github.com/UnexpectedMaker/RGB-Touch-Mini-Arduino-Helper.git|Contributed
 https://github.com/ktauchathuranga/telnet.git|Contributed|Telnet
 https://gitlab.com/leandro.mattioli/Mux7SegsDisplay.git|Contributed|Mux7SegsDisplay
 https://github.com/ConsentiumIoT/ConsentiumNow.git|Contributed|ConsentiumNow
+https://github.com/RobTillaart/SD2405.git|Contributed|SD2405
