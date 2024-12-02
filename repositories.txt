@@ -7550,3 +7550,4 @@ https://github.com/EmotiBit/EmotiBit_KTD2026
 https://github.com/SimonVonSchmude/Cabluino
 https://github.com/kkeonline/LineMessagingAPI
 https://github.com/UnexpectedMaker/RGB-Touch-Mini-Arduino-Helper
+https://github.com/ktauchathuranga/telnet
