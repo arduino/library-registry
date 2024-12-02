@@ -3588,6 +3588,7 @@ https://github.com/ldab/lis3dh-motion-detection
 https://github.com/ldab/u-blox_GNSS
 https://github.com/Leafony/LeafonySTM32
 https://github.com/LeandroLimaPRO/Pressure
+https://gitlab.com/leandro.mattioli/Mux7SegsDisplay
 https://github.com/leaphy-robotics/leaphy-extensions
 https://github.com/leaphy-robotics/leaphy-extensions-extra
 https://github.com/leaphy-robotics/leaphy-extensions-original
