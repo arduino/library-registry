@@ -5462,6 +5462,7 @@ https://github.com/RobTillaart/RunAvgWeight
 https://github.com/RobTillaart/runningAngle
 https://github.com/RobTillaart/RunningAverage
 https://github.com/RobTillaart/RunningMedian
+https://github.com/RobTillaart/SD2405
 https://github.com/RobTillaart/SET
 https://github.com/RobTillaart/SGP30
 https://github.com/RobTillaart/SHEX
