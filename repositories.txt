@@ -100,7 +100,7 @@ https://github.com/jackjansen/esp32_idf5_https_server_compat
 https://github.com/jamesy0ung/MPXHZ6116A
 https://github.com/ClemensAtElektor/Elektor_AudioDSP
 https://github.com/PowerBroker2/DataLogger
-https://github.com/stemosofc/AraraLib
+https://github.com/stemosofc/EasySTEAM
 https://github.com/vvs551/ESP_NOW_Network
 https://github.com/Hedrahexon/X9C103S
 https://github.com/JFlores88/SteerBot_TB6612
