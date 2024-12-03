@@ -19,7 +19,7 @@ This repository contains the list of libraries in the
 
 <!-- tocstop -->
 
-##  Frequently asked questions
+## Frequently asked questions
 
 For more information about Arduino Library Manager and how the index is maintained, please see [the FAQ](FAQ.md).
 
