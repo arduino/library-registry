@@ -7654,3 +7654,4 @@ https://github.com/ConsentiumIoT/ConsentiumNow.git|Contributed|ConsentiumNow
 https://github.com/RobTillaart/SD2405.git|Contributed|SD2405
 https://github.com/gooddisplayshare/ESP32epdx.git|Contributed|ESP32epdx
 https://github.com/stemosofc/EasySTEAM.git|Contributed|EasySTEAM
+https://github.com/playfultechnology/PN5180.git|Contributed|PN5180
