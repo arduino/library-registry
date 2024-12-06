@@ -7659,3 +7659,4 @@ https://github.com/cvmanjoo/LM75.git|Contributed|LM75
 https://github.com/ArtronShop/ArtronShop_RX8130CE.git|Contributed|ArtronShop_RX8130CE
 https://github.com/esp-arduino-libs/esp-lib-utils.git|Contributed|esp-lib-utils
 https://github.com/goldfish4tech/Goldfish4TechAirPump.git|Contributed|Goldfish4TechAirPump
+https://github.com/RobTillaart/INA239.git|Contributed|INA239
