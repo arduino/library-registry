@@ -2274,6 +2274,7 @@ https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
 https://github.com/espressif/esp-brookesia
+https://github.com/esp-arduino-libs/esp-lib-utils
 https://github.com/esp-arduino-libs/ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
