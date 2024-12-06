@@ -7557,3 +7557,4 @@ https://github.com/UnexpectedMaker/RGB-Touch-Mini-Arduino-Helper
 https://github.com/ktauchathuranga/telnet
 https://github.com/ConsentiumIoT/ConsentiumNow
 https://github.com/gooddisplayshare/ESP32epdx
+https://github.com/cvmanjoo/LM75
