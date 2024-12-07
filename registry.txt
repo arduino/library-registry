@@ -7664,3 +7664,4 @@ https://github.com/abread/cj-kit-arduino-lib.git|Contributed|CJKit
 https://github.com/baaaaan1/BuzzerManager.git|Contributed|BuzzerManager
 https://github.com/humacompany/Huma_Buttons.git|Contributed|Huma Buttons
 https://github.com/jobitjoseph/ESPWebFileManager.git|Contributed|EspWebFileManager
+https://github.com/KriBielinski/PrecDueTimer.git|Contributed|PrecDueTimer
