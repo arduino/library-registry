@@ -7663,3 +7663,4 @@ https://github.com/RobTillaart/INA239.git|Contributed|INA239
 https://github.com/abread/cj-kit-arduino-lib.git|Contributed|CJKit
 https://github.com/baaaaan1/BuzzerManager.git|Contributed|BuzzerManager
 https://github.com/humacompany/Huma_Buttons.git|Contributed|Huma Buttons
+https://github.com/jobitjoseph/ESPWebFileManager.git|Contributed|EspWebFileManager
