@@ -6479,7 +6479,6 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/display/vega_sh1106.git|Cont
 https://github.com/bonezegei/Bonezegei_DHT22.git|Contributed|Bonezegei_DHT22
 https://github.com/pxsty0/deneyap.telegram.git|Contributed|Deneyap Telegram
 https://github.com/GyverLibs/GyverSegment.git|Contributed|GyverSegment
-https://github.com/delta-G/LoveButton.git|Contributed|LoveButton
 https://github.com/zvonler/DebouncedLDR.git|Contributed|DebouncedLDR
 https://github.com/beegee-tokyo/PicoSoftwareSerial.git|Contributed|PicoSoftwareSerial
 https://github.com/ahmedarif193/Hlw8032.git|Contributed|Hlw8032
