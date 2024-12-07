@@ -7564,3 +7564,4 @@ https://github.com/gooddisplayshare/ESP32epdx
 https://github.com/cvmanjoo/LM75
 https://github.com/abread/cj-kit-arduino-lib
 https://github.com/ArtronShop/ArtronShop_RX8130CE
+https://github.com/humacompany/Huma_Buttons
