@@ -6423,7 +6423,6 @@ https://github.com/hasenradball/Bosch_BME280_Arduino.git|Contributed|Bosch_BME28
 https://github.com/gemi254/ControlAssist-ESP32-ESP8266.git|Contributed|ControlAssist
 https://github.com/SequentMicrosystems/Sequent-Thermocouples-Library.git|Contributed|SM_TC
 https://github.com/philsilvers/mergCBUS.git|Contributed|mergCBUS
-https://github.com/delta-G/EventLinkInterrupt.git|Contributed|EventLinkInterrupt
 https://github.com/Nolven/ftp32.git|Contributed|ftp32
 https://github.com/beegee-tokyo/Blues-Minimal-I2C.git|Contributed|Blues-Minimal-I2C
 https://github.com/kaiaai/arduino_pid_timed.git|Contributed|PID_Timed
