@@ -2517,6 +2517,7 @@ https://github.com/gbr1/rp2040-encoder-library
 https://github.com/gbr1/ucPack
 https://github.com/gbrd/arduino-teleinfo
 https://github.com/Geabong/ModbusRTUSlaveArduino
+https://github.com/Geekble-Maker/Geekble_MotorOrgel
 https://github.com/geekblemaker/Geekble_note2freq
 https://github.com/geekbleofficial/Geekble_LieDetector
 https://github.com/geekbleofficial/Geekble_Oscillator
