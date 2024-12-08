@@ -7667,3 +7667,4 @@ https://github.com/jobitjoseph/ESPWebFileManager.git|Contributed|EspWebFileManag
 https://github.com/KriBielinski/PrecDueTimer.git|Contributed|PrecDueTimer
 https://github.com/KriBielinski/InterruptStepper.git|Contributed|InterruptStepper
 https://github.com/SWITCHSCIENCE/QZSSDCX.git|Contributed|QZSSDCX
+https://github.com/Geekble-Maker/Geekble_MotorOrgel.git|Contributed|Geekble_MotorOrgel
