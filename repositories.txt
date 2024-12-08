@@ -1,3 +1,6 @@
+https://github.com/jobitjoseph/ESPWebFileManager
+https://github.com/playfultechnology/PN5180
+https://github.com/baaaaan1/BuzzerManager
 https://github.com/stemosofc/EasySTEAM
 https://github.com/fotherja/BQ76952
 https://github.com/RASPIAUDIO/Muse_library
@@ -2273,6 +2276,7 @@ https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
 https://github.com/espressif/esp-brookesia
+https://github.com/esp-arduino-libs/esp-lib-utils
 https://github.com/esp-arduino-libs/ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
 https://github.com/esp-arduino-libs/ESP32_IO_Expander
@@ -2576,6 +2580,7 @@ https://github.com/GOB52/gob_unifiedButton
 https://github.com/gobbolab/room-weather
 https://github.com/Goji2100/ESP32softPWM
 https://github.com/goldfish4tech/Goldfish4Tech
+https://github.com/goldfish4tech/Goldfish4TechAirPump
 https://github.com/goncalomb/KeyMatrix
 https://github.com/GoodFilling/Motor-Driver
 https://github.com/GoogleCloudPlatform/google-cloud-iot-arduino
@@ -5368,6 +5373,7 @@ https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
 https://github.com/RobTillaart/INA228
 https://github.com/RobTillaart/INA236
+https://github.com/RobTillaart/INA239
 https://github.com/RobTillaart/INA3221_RT
 https://github.com/RobTillaart/infiniteAverage
 https://github.com/RobTillaart/integer24
@@ -6434,6 +6440,7 @@ https://github.com/suratin27/PicoPLC
 https://github.com/SV-Zanshin/INA
 https://github.com/SvenRosvall/SignalControl
 https://github.com/swharden/NumberSpeaker
+https://github.com/SWITCHSCIENCE/QZSSDCX
 https://github.com/Syncano/syncano-arduino
 https://github.com/SyntaxHarvy/HaCEspSockets
 https://github.com/SyntaxHarvy/HACTimers
@@ -7556,3 +7563,9 @@ https://github.com/UnexpectedMaker/RGB-Touch-Mini-Arduino-Helper
 https://github.com/ktauchathuranga/telnet
 https://github.com/ConsentiumIoT/ConsentiumNow
 https://github.com/gooddisplayshare/ESP32epdx
+https://github.com/cvmanjoo/LM75
+https://github.com/abread/cj-kit-arduino-lib
+https://github.com/ArtronShop/ArtronShop_RX8130CE
+https://github.com/humacompany/Huma_Buttons
+https://github.com/KriBielinski/PrecDueTimer
+https://github.com/KriBielinski/InterruptStepper
