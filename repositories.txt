@@ -7570,3 +7570,4 @@ https://github.com/ArtronShop/ArtronShop_RX8130CE
 https://github.com/humacompany/Huma_Buttons
 https://github.com/KriBielinski/PrecDueTimer
 https://github.com/KriBielinski/InterruptStepper
+https://github.com/benax-rw/LiquidCrystal_I2C_SW
