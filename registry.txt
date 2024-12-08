@@ -6208,7 +6208,7 @@ https://github.com/bonezegei/Bonezegei_RS485.git|Contributed|Bonezegei_RS485
 https://github.com/supercrab/RemoteSerial.git|Contributed|RemoteSerial
 https://github.com/pablomarquez76/PS4_Controller_Host.git|Contributed|PS4Controller
 https://github.com/Xairooo/SimpleTime.git|Contributed|SimpleTime
-https://github.com/geekblemaker/Geekble_note2freq.git|Contributed|Geekble_Note2Freq
+https://github.com/Geekble-Maker/Geekble_Note2Freq.git|Contributed|Geekble_Note2Freq
 https://github.com/somsinchai/CAGEduino.git|Contributed|CAGEduino
 https://github.com/tedtoal/Button_TT.git|Contributed|Button_TT
 https://github.com/ripred/MyKeywords.git|Contributed|MyKeywords
