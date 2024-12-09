@@ -2,6 +2,7 @@ https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
 https://github.com/baaaaan1/BuzzerManager
+https://github.com/baaaaan1/EEPROMHandler
 https://github.com/stemosofc/EasySTEAM
 https://github.com/fotherja/BQ76952
 https://github.com/RASPIAUDIO/Muse_library
