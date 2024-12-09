@@ -7669,3 +7669,4 @@ https://github.com/KriBielinski/InterruptStepper.git|Contributed|InterruptSteppe
 https://github.com/SWITCHSCIENCE/QZSSDCX.git|Contributed|QZSSDCX
 https://github.com/Geekble-Maker/Geekble_MotorOrgel.git|Contributed|Geekble_MotorOrgel
 https://github.com/median-dispersion/Non-Blocking-Melody.git|Contributed|Non-Blocking Melody
+https://github.com/baaaaan1/EEPROMHandler.git|Contributed|EEPROMHandler
