@@ -4,6 +4,7 @@ https://github.com/DigitalCodesign/MentorBit-3LED
 https://github.com/DigitalCodesign/MentorBit-BMP280
 https://github.com/DigitalCodesign/MentorBit-DetectorIR
 https://github.com/DigitalCodesign/MentorBit-DetectorLluvia
+https://github.com/DigitalCodesign/MentorBit-DHT11
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
