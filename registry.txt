@@ -7693,3 +7693,4 @@ https://github.com/DigitalCodesign/MentorBit-Pulsadores.git|Contributed|MentorBi
 https://github.com/DigitalCodesign/MentorBit-RGB.git|Contributed|MentorBit-RGB
 https://github.com/DigitalCodesign/MentorBit-Ultrasonidos.git|Contributed|MentorBit-Ultrasonidos
 https://github.com/DigitalCodesign/MentorBit-Zumbador.git|Contributed|MentorBit-Zumbador
+https://github.com/DigitalCodesign/Puertas-Logicas-Plugin.git|Contributed|Puertas-Logicas-Plugin
