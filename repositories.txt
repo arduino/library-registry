@@ -14,6 +14,7 @@ https://github.com/DigitalCodesign/MentorBit-MQ
 https://github.com/DigitalCodesign/MentorBit-PIR
 https://github.com/DigitalCodesign/MentorBit-PoteLineal
 https://github.com/DigitalCodesign/MentorBit-Potenciometro
+https://github.com/DigitalCodesign/MentorBit-PoteRueda
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
