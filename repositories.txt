@@ -1,5 +1,3 @@
-https://github.com/DigitalCodesign/MentorBit-1Rele
-https://github.com/DigitalCodesign/MentorBit-2Rele
 https://github.com/DigitalCodesign/MentorBit-3LED
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
