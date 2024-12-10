@@ -7691,3 +7691,4 @@ https://github.com/DigitalCodesign/MentorBit-Potenciometro.git|Contributed|Mento
 https://github.com/DigitalCodesign/MentorBit-PoteRueda.git|Contributed|MentorBit-PoteRueda
 https://github.com/DigitalCodesign/MentorBit-Pulsadores.git|Contributed|MentorBit-Pulsadores
 https://github.com/DigitalCodesign/MentorBit-RGB.git|Contributed|MentorBit-RGB
+https://github.com/DigitalCodesign/MentorBit-Ultrasonidos.git|Contributed|MentorBit-Ultrasonidos
