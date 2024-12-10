@@ -7680,3 +7680,4 @@ https://github.com/DigitalCodesign/MentorBit-DetectorIR.git|Contributed|MentorBi
 https://github.com/DigitalCodesign/MentorBit-DetectorLluvia.git|Contributed|MentorBit-DetectorLluvia
 https://github.com/DigitalCodesign/MentorBit-DHT11.git|Contributed|MentorBit-DHT11
 https://github.com/DigitalCodesign/MentorBit-DHT22.git|Contributed|MentorBit-DHT22
+https://github.com/DigitalCodesign/MentorBit-Encoder.git|Contributed|MentorBit-Encoder
