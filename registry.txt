@@ -7673,3 +7673,4 @@ https://github.com/baaaaan1/EEPROMHandler.git|Contributed|EEPROMHandler
 https://github.com/rei-vilo/PDLS_EXT4_Basic_Matter.git|Contributed|PDLS_EXT4_Basic_Matter
 https://github.com/ripred/CodeSizeProfiler.git|Contributed|CodeSizeProfiler
 https://github.com/DigitalCodesign/MentorBit-1Rele.git|Contributed|MentorBit-1Rele
+https://github.com/DigitalCodesign/MentorBit-2Rele.git|Contributed|MentorBit-2Rele
