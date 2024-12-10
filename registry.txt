@@ -7684,3 +7684,4 @@ https://github.com/DigitalCodesign/MentorBit-Encoder.git|Contributed|MentorBit-E
 https://github.com/DigitalCodesign/MentorBit-Expander.git|Contributed|MentorBit-Expander
 https://github.com/DigitalCodesign/MentorBit-LDR.git|Contributed|MentorBit-LDR
 https://github.com/DigitalCodesign/MentorBit-MatrizPulsadores.git|Contributed|MentorBitMatrizPulsadores
+https://github.com/DigitalCodesign/MentorBit-MQ.git|Contributed|MentorBit-MQ
