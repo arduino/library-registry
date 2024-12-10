@@ -7681,3 +7681,4 @@ https://github.com/DigitalCodesign/MentorBit-DetectorLluvia.git|Contributed|Ment
 https://github.com/DigitalCodesign/MentorBit-DHT11.git|Contributed|MentorBit-DHT11
 https://github.com/DigitalCodesign/MentorBit-DHT22.git|Contributed|MentorBit-DHT22
 https://github.com/DigitalCodesign/MentorBit-Encoder.git|Contributed|MentorBit-Encoder
+https://github.com/DigitalCodesign/MentorBit-Expander.git|Contributed|MentorBit-Expander
