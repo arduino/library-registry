@@ -11,6 +11,7 @@ https://github.com/DigitalCodesign/MentorBit-Expander
 https://github.com/DigitalCodesign/MentorBit-LDR
 https://github.com/DigitalCodesign/MentorBit-MatrizPulsadores
 https://github.com/DigitalCodesign/MentorBit-MQ
+https://github.com/DigitalCodesign/MentorBit-PIR
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
