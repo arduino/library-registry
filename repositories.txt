@@ -7,6 +7,7 @@ https://github.com/DigitalCodesign/MentorBit-DetectorLluvia
 https://github.com/DigitalCodesign/MentorBit-DHT11
 https://github.com/DigitalCodesign/MentorBit-DHT22
 https://github.com/DigitalCodesign/MentorBit-Encoder
+https://github.com/DigitalCodesign/MentorBit-Expander
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
