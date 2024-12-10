@@ -7682,3 +7682,4 @@ https://github.com/DigitalCodesign/MentorBit-DHT11.git|Contributed|MentorBit-DHT
 https://github.com/DigitalCodesign/MentorBit-DHT22.git|Contributed|MentorBit-DHT22
 https://github.com/DigitalCodesign/MentorBit-Encoder.git|Contributed|MentorBit-Encoder
 https://github.com/DigitalCodesign/MentorBit-Expander.git|Contributed|MentorBit-Expander
+https://github.com/DigitalCodesign/MentorBit-LDR.git|Contributed|MentorBit-LDR
