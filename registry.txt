@@ -7685,3 +7685,4 @@ https://github.com/DigitalCodesign/MentorBit-Expander.git|Contributed|MentorBit-
 https://github.com/DigitalCodesign/MentorBit-LDR.git|Contributed|MentorBit-LDR
 https://github.com/DigitalCodesign/MentorBit-MatrizPulsadores.git|Contributed|MentorBitMatrizPulsadores
 https://github.com/DigitalCodesign/MentorBit-MQ.git|Contributed|MentorBit-MQ
+https://github.com/DigitalCodesign/MentorBit-PIR.git|Contributed|MentorBit-PIR
