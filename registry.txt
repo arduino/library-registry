@@ -7689,3 +7689,4 @@ https://github.com/DigitalCodesign/MentorBit-PIR.git|Contributed|MentorBit-PIR
 https://github.com/DigitalCodesign/MentorBit-PoteLineal.git|Contributed|MentorBit-PoteLineal
 https://github.com/DigitalCodesign/MentorBit-Potenciometro.git|Contributed|MentorBit-Potenciometro
 https://github.com/DigitalCodesign/MentorBit-PoteRueda.git|Contributed|MentorBit-PoteRueda
+https://github.com/DigitalCodesign/MentorBit-Pulsadores.git|Contributed|MentorBit-Pulsadores
