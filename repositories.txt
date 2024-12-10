@@ -5574,6 +5574,7 @@ https://github.com/rppicomidi/usb_midi_host
 https://github.com/rstephan/ArtnetWifi
 https://github.com/rtdgreg/TWI_GPS
 https://github.com/rtnate/arduino-BasicTimer
+https://github.com/rtnate/Arduino-DS1881_2
 https://github.com/rudydelorenzo/ELMo
 https://github.com/Rufus31415/Sharer
 https://github.com/ruiseixasm/Robust-EEPROM
@@ -7596,3 +7597,4 @@ https://github.com/humacompany/Huma_Buttons
 https://github.com/KriBielinski/PrecDueTimer
 https://github.com/KriBielinski/InterruptStepper
 https://github.com/ripred/CodeSizeProfiler
+
