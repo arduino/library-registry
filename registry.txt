@@ -7676,3 +7676,4 @@ https://github.com/DigitalCodesign/MentorBit-1Rele.git|Contributed|MentorBit-1Re
 https://github.com/DigitalCodesign/MentorBit-2Rele.git|Contributed|MentorBit-2Rele
 https://github.com/DigitalCodesign/MentorBit-3LED.git|Contributed|MentorBit-3LED
 https://github.com/DigitalCodesign/MentorBit-BMP280.git|Contributed|MentorBit-BMP280
+https://github.com/DigitalCodesign/MentorBit-DetectorIR.git|Contributed|MentorBit-DetectorIR
