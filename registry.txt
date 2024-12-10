@@ -7687,3 +7687,4 @@ https://github.com/DigitalCodesign/MentorBit-MatrizPulsadores.git|Contributed|Me
 https://github.com/DigitalCodesign/MentorBit-MQ.git|Contributed|MentorBit-MQ
 https://github.com/DigitalCodesign/MentorBit-PIR.git|Contributed|MentorBit-PIR
 https://github.com/DigitalCodesign/MentorBit-PoteLineal.git|Contributed|MentorBit-PoteLineal
+https://github.com/DigitalCodesign/MentorBit-Potenciometro.git|Contributed|MentorBit-Potenciometro
