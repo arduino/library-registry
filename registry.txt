@@ -7692,3 +7692,4 @@ https://github.com/DigitalCodesign/MentorBit-PoteRueda.git|Contributed|MentorBit
 https://github.com/DigitalCodesign/MentorBit-Pulsadores.git|Contributed|MentorBit-Pulsadores
 https://github.com/DigitalCodesign/MentorBit-RGB.git|Contributed|MentorBit-RGB
 https://github.com/DigitalCodesign/MentorBit-Ultrasonidos.git|Contributed|MentorBit-Ultrasonidos
+https://github.com/DigitalCodesign/MentorBit-Zumbador.git|Contributed|MentorBit-Zumbador
