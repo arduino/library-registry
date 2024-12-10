@@ -7675,3 +7675,4 @@ https://github.com/ripred/CodeSizeProfiler.git|Contributed|CodeSizeProfiler
 https://github.com/DigitalCodesign/MentorBit-1Rele.git|Contributed|MentorBit-1Rele
 https://github.com/DigitalCodesign/MentorBit-2Rele.git|Contributed|MentorBit-2Rele
 https://github.com/DigitalCodesign/MentorBit-3LED.git|Contributed|MentorBit-3LED
+https://github.com/DigitalCodesign/MentorBit-BMP280.git|Contributed|MentorBit-BMP280
