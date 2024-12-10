@@ -7671,3 +7671,4 @@ https://github.com/Geekble-Maker/Geekble_MotorOrgel.git|Contributed|Geekble_Moto
 https://github.com/median-dispersion/Non-Blocking-Melody.git|Contributed|Non-Blocking Melody
 https://github.com/baaaaan1/EEPROMHandler.git|Contributed|EEPROMHandler
 https://github.com/rei-vilo/PDLS_EXT4_Basic_Matter.git|Contributed|PDLS_EXT4_Basic_Matter
+https://github.com/ripred/CodeSizeProfiler.git|Contributed|CodeSizeProfiler
