@@ -18,6 +18,7 @@ https://github.com/DigitalCodesign/MentorBit-PoteRueda
 https://github.com/DigitalCodesign/MentorBit-Pulsadores
 https://github.com/DigitalCodesign/MentorBit-RGB
 https://github.com/DigitalCodesign/MentorBit-Ultrasonidos
+https://github.com/DigitalCodesign/MentorBit-Zumbador
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
