@@ -7694,3 +7694,4 @@ https://github.com/DigitalCodesign/MentorBit-RGB.git|Contributed|MentorBit-RGB
 https://github.com/DigitalCodesign/MentorBit-Ultrasonidos.git|Contributed|MentorBit-Ultrasonidos
 https://github.com/DigitalCodesign/MentorBit-Zumbador.git|Contributed|MentorBit-Zumbador
 https://github.com/DigitalCodesign/Puertas-Logicas-Plugin.git|Contributed|Puertas-Logicas-Plugin
+https://github.com/rtnate/Arduino-DS1881_2.git|Contributed|DS1881_2
