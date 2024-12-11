@@ -2543,7 +2543,7 @@ https://github.com/gbrd/arduino-teleinfo
 https://github.com/Geabong/ModbusRTUSlaveArduino
 https://github.com/Geekble-Maker/Geekble_MotorOrgel
 https://github.com/geekblemaker/Geekble_note2freq
-https://github.com/geekbleofficial/Geekble_LieDetector
+https://github.com/Geekble-Maker/Geekble_LieDetector
 https://github.com/geekbleofficial/Geekble_Oscillator
 https://github.com/geeny/geenymodem
 https://github.com/Gemelon/Pushbutton
