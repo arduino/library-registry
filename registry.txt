@@ -6697,7 +6697,6 @@ https://github.com/bonezegei/Bonezegei_DS3231.git|Contributed|Bonezegei_DS3231
 https://github.com/mathieucarbou/MycilaHADiscovery.git|Contributed|MycilaHADiscovery
 https://github.com/holgerlembke/st7567sfGK.git|Contributed|st7567sfGK 128x64 i2c LCD driver for Generation Klick
 https://github.com/t-oot/ESP32-PTQS1005.git|Contributed|ESP32-PTQS1005
-https://github.com/delta-G/PID_DG.git|Contributed|PID_DG
 https://github.com/mathieucarbou/MycilaMQTT.git|Contributed|MycilaMQTT
 https://github.com/hpsaturn/esp32s3-cam.git|Contributed|EspNowCam
 https://github.com/AhmedYousryM/NonBlockingSequence.git|Contributed|NonBlockingSequence
