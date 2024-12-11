@@ -6648,7 +6648,6 @@ https://github.com/RobTillaart/ADC081S.git|Contributed|ADC081S
 https://github.com/N4rcissist/OtaHelper.git|Contributed|OtaHelper
 https://github.com/PU2REO/PU2REO_Si570.git|Contributed|PU2REO_Si570
 https://github.com/PU2REO/PU2REO_AD9851.git|Contributed|PU2REO_AD9851
-https://github.com/delta-G/GPT_Stepper.git|Contributed|GPT_Stepper
 https://github.com/pk17r/PushButtonTaps.git|Contributed|PushButtonTaps
 https://github.com/RobTillaart/ADC08XS.git|Contributed|ADC08XS
 https://github.com/PaulNTU/Wizibot_VescMotorController.git|Contributed|VescMotorController
