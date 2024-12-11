@@ -5766,6 +5766,7 @@ https://github.com/semcneil/ADS7142_Arduino_Library
 https://github.com/semcneil/PCA95x5
 https://github.com/sensboston/esp32_moga
 https://github.com/sensebox/senseBoxBLE
+https://github.com/sensebox/SolarChargerSB041
 https://github.com/Sensirion/arduino-ble-gadget
 https://github.com/sensirion/arduino-core
 https://github.com/Sensirion/arduino-ess
