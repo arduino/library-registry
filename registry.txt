@@ -7695,3 +7695,4 @@ https://github.com/DigitalCodesign/MentorBit-Ultrasonidos.git|Contributed|Mentor
 https://github.com/DigitalCodesign/MentorBit-Zumbador.git|Contributed|MentorBit-Zumbador
 https://github.com/DigitalCodesign/Puertas-Logicas-Plugin.git|Contributed|Puertas-Logicas-Plugin
 https://github.com/rtnate/Arduino-DS1881_2.git|Contributed|DS1881_2
+https://github.com/sensebox/SolarChargerSB041.git|Contributed|SolarChargerSB041
