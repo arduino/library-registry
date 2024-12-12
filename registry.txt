@@ -7698,3 +7698,4 @@ https://github.com/per1234-org/R4_Touch.git|Contributed|R4_Touch
 https://github.com/KDaniels-dev/Stepper595.git|Contributed|Stepper595
 https://github.com/SWITCHSCIENCE/ZPA4756_0311A_R.git|Contributed|ZPA4756-0311A-R
 https://github.com/Stutchbury/InputEvents.git|Contributed|InputEvents
+https://github.com/ropg/LVGL_CYD.git|Contributed|LVGL_CYD
