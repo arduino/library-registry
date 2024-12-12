@@ -4709,6 +4709,10 @@ https://github.com/PeaPodTechnologies/ControlSystemsOS
 https://github.com/PeaPodTechnologies/FiniteStateMachine
 https://github.com/PeaPodTechnologies/I2CIP
 https://github.com/peetj/Nexgen_Rover
+https://github.com/per1234-org/GPT_Stepper
+https://github.com/per1234-org/LoveButton
+https://github.com/per1234-org/PID_DG
+https://github.com/per1234-org/R4_Touch
 https://github.com/PeterEmbedded/BH1750FVI
 https://github.com/peterus/APRS-Decoder-Lib
 https://github.com/peterus/APRS-IS-Lib
