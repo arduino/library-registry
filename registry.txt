@@ -7691,3 +7691,7 @@ https://github.com/DigitalCodesign/MentorBit-Zumbador.git|Contributed|MentorBit-
 https://github.com/DigitalCodesign/Puertas-Logicas-Plugin.git|Contributed|Puertas-Logicas-Plugin
 https://github.com/rtnate/Arduino-DS1881_2.git|Contributed|DS1881_2
 https://github.com/sensebox/SolarChargerSB041.git|Contributed|SolarChargerSB041
+https://github.com/per1234-org/GPT_Stepper.git|Contributed|GPT_Stepper
+https://github.com/per1234-org/LoveButton.git|Contributed|LoveButton
+https://github.com/per1234-org/PID_DG.git|Contributed|PID_DG
+https://github.com/per1234-org/R4_Touch.git|Contributed|R4_Touch
