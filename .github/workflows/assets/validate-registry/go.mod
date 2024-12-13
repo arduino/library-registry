@@ -1,6 +1,6 @@
 module github.com/arduino/library-registry/.github/workflows/assets/validate-registry
 
-go 1.17
+go 1.23.4
 
 require github.com/arduino/libraries-repository-engine v1.1.5
 
