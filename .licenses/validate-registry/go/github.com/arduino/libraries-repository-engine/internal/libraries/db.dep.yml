@@ -1,12 +1,12 @@
 ---
 name: github.com/arduino/libraries-repository-engine/internal/libraries/db
-version: v1.1.3
+version: v1.1.5
 type: go
 summary: 
 homepage: https://pkg.go.dev/github.com/arduino/libraries-repository-engine/internal/libraries/db
 license: agpl-3.0-or-later
 licenses:
-- sources: libraries-repository-engine@v1.1.3/LICENSE.txt
+- sources: libraries-repository-engine@v1.1.5/LICENSE.txt
   text: |2
                         GNU AFFERO GENERAL PUBLIC LICENSE
                            Version 3, 19 November 2007
