@@ -7602,3 +7602,4 @@ https://github.com/KriBielinski/InterruptStepper
 https://github.com/ripred/CodeSizeProfiler
 https://github.com/KDaniels-dev/Stepper595
 https://github.com/Stutchbury/InputEvents
+https://github.com/QuickSpot/walter-arduino
