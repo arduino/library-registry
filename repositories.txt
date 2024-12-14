@@ -4058,6 +4058,7 @@ https://github.com/mateusjunges/accel-stepper-with-distances
 https://github.com/mathcoll/t6iot
 https://github.com/mathertel/DMXSerial
 https://github.com/mathertel/DMXSerial2
+https://github.com/mathertel/GFXdraw
 https://github.com/mathertel/LiquidCrystal_PCF8574
 https://github.com/mathertel/OneButton
 https://github.com/mathertel/Radio
