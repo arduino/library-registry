@@ -7702,3 +7702,4 @@ https://github.com/ropg/LVGL_CYD.git|Contributed|LVGL_CYD
 https://github.com/Moarbue/MAX31855-library.git|Contributed|MAX31855 Library
 https://github.com/QuickSpot/walter-arduino.git|Contributed|WalterModem
 https://github.com/alkonosst/ADS1115.git|Contributed|ADS1115
+https://github.com/toaha63/BanglaDuino.git|Contributed|BanglaDuino
