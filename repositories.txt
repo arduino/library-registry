@@ -2991,6 +2991,7 @@ https://github.com/InsightLabTools/RPulse
 https://github.com/instanceofMA/arduino-fetch
 https://github.com/Integreight/1Sheeld-Arduino-Library
 https://github.com/Interested-In-Spresense/MM-S50MV
+https://github.com/Interested-In-Spresense/E220900t22s_jp
 https://github.com/InterstitialTech/quadrant-lib
 https://github.com/InvenSenseInc/arduino.ICM42670P
 https://github.com/Invisibleman1002/dynaHTML
