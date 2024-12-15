@@ -7708,3 +7708,4 @@ https://github.com/beegee-tokyo/RAK-OneWireSerial.git|Contributed|RAK-OneWireSer
 https://github.com/FoltaBozZ/fvs-esp32-bib.git|Contributed|FVS
 https://github.com/tom-dudman/DS1804.git|Contributed|DS1804Ctrl
 https://github.com/sagar-koirala/TelloESP32.git|Contributed|TelloESP32
+https://github.com/AlessioSavelli/DMXasLED.git|Contributed|DMXasLED
