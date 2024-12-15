@@ -1,4 +1,4 @@
-https://git.steinbeis.schule/trs/fvs-bib-esp32
+https://github.com/FoltaBozZ/fvs-esp32-bib/tree/1.0.0
 https://github.com/toaha63/BanglaDuino
 https://github.com/Moarbue/MAX31855-library
 https://github.com/ropg/LVGL_CYD
