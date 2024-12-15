@@ -7707,3 +7707,4 @@ https://github.com/mathertel/GFXdraw.git|Contributed|gfxDraw
 https://github.com/beegee-tokyo/RAK-OneWireSerial.git|Contributed|RAK-OneWireSerial
 https://github.com/FoltaBozZ/fvs-esp32-bib.git|Contributed|FVS
 https://github.com/tom-dudman/DS1804.git|Contributed|DS1804Ctrl
+https://github.com/sagar-koirala/TelloESP32.git|Contributed|TelloESP32
