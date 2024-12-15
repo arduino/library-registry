@@ -6692,6 +6692,7 @@ https://github.com/todd-herbert/unoHID
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
 https://github.com/tofuman0/PCA9505_06
+https://github.com/tom-dudman/DS1804
 https://github.com/TomasRoj/BasicsLibrary
 https://github.com/TomasRoj/OctopusLab-Library
 https://github.com/tomasz90/debounce-me
