@@ -7706,3 +7706,4 @@ https://github.com/toaha63/BanglaDuino.git|Contributed|BanglaDuino
 https://github.com/mathertel/GFXdraw.git|Contributed|gfxDraw
 https://github.com/beegee-tokyo/RAK-OneWireSerial.git|Contributed|RAK-OneWireSerial
 https://github.com/FoltaBozZ/fvs-esp32-bib.git|Contributed|FVS
+https://github.com/tom-dudman/DS1804.git|Contributed|DS1804Ctrl
