@@ -7610,3 +7610,4 @@ https://github.com/KDaniels-dev/Stepper595
 https://github.com/Stutchbury/InputEvents
 https://github.com/QuickSpot/walter-arduino
 https://github.com/sagar-koirala/TelloESP32
+https://github.com/AlessioSavelli/DMXasLED
