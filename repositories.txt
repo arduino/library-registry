@@ -7608,7 +7608,7 @@ https://github.com/humacompany/Huma_Buttons
 https://github.com/KriBielinski/PrecDueTimer
 https://github.com/KriBielinski/InterruptStepper
 https://github.com/ripred/CodeSizeProfiler
-https://github.com/KDaniels-dev/Stepper595
+https://github.com/KDDaniels/Stepper595
 https://github.com/Stutchbury/InputEvents
 https://github.com/QuickSpot/walter-arduino
 https://github.com/sagar-koirala/TelloESP32
