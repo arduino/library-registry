@@ -7710,3 +7710,4 @@ https://github.com/tom-dudman/DS1804.git|Contributed|DS1804Ctrl
 https://github.com/sagar-koirala/TelloESP32.git|Contributed|TelloESP32
 https://github.com/AlessioSavelli/DMXasLED.git|Contributed|DMXasLED
 https://github.com/Interested-In-Spresense/E220900t22s_jp.git|Contributed|E220-900T22S LoRa library
+https://github.com/zimbora/EspMQTTClient.git|Contributed|EspMQTTClientFork
