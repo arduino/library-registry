@@ -4040,6 +4040,7 @@ https://github.com/MarkusLange/RTCDue
 https://github.com/MarlinFirmware/U8glib-HAL
 https://github.com/MarScaper/ephemeris
 https://github.com/Marthaarman/dmx-transceiver
+https://github.com/martinheise/arduino-ui-components
 https://github.com/Martin-Laclaustra/CronAlarms
 https://github.com/martin-leo/KeyboardAzertyFr
 https://github.com/martin2250/ADCTouch
