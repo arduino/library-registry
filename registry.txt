@@ -7712,3 +7712,4 @@ https://github.com/AlessioSavelli/DMXasLED.git|Contributed|DMXasLED
 https://github.com/Interested-In-Spresense/E220900t22s_jp.git|Contributed|E220-900T22S LoRa library
 https://github.com/zimbora/EspMQTTClient.git|Contributed|EspMQTTClientFork
 https://github.com/martinheise/arduino-ui-components.git|Contributed|UIComponents
+https://github.com/GyverLibs/BSON.git|Contributed|BSON
