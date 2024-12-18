@@ -2169,6 +2169,7 @@ https://github.com/E-Lagori/ELi_McM_4_00
 https://github.com/E-Lagori/ELi_MdM_4_00
 https://github.com/e-radionicacom/Inkplate-6-Arduino-library
 https://github.com/eagleSIA/eBoard
+https://github.com/earlephilhower/BackgroundAudio
 https://github.com/earlephilhower/ESP8266Audio
 https://github.com/earthtown/8_digit_vfd
 https://github.com/EasyG0ing1/BlockNot
