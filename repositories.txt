@@ -7615,3 +7615,4 @@ https://github.com/QuickSpot/walter-arduino
 https://github.com/sagar-koirala/TelloESP32
 https://github.com/AlessioSavelli/DMXasLED
 https://github.com/zimbora/EspMQTTClient
+https://github.com/npuckett/AltController
