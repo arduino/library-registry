@@ -7619,4 +7619,5 @@ https://github.com/zimbora/EspMQTTClient
 https://github.com/npuckett/AltController
 https://github.com/digitalfen/ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime
+https://github.com/digitalfen/ArtificialRTC
 
