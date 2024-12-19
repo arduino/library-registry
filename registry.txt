@@ -7719,3 +7719,4 @@ https://github.com/digitalfen/ArtificialDateTime.git|Contributed|ArtificialDateT
 https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
 https://github.com/digitalfen/ArtificialRTC.git|Contributed|ArtificialRTC
 https://github.com/botnroll/BnrOneAPlus.git|Contributed|BnrOneAPlus
+https://github.com/aserebryakov/arduino-cpp-components-library.git|Contributed|CppComponentsLibrary
