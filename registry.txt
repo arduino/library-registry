@@ -7717,3 +7717,4 @@ https://github.com/npuckett/AltController.git|Contributed|AltController
 https://github.com/earlephilhower/BackgroundAudio.git|Contributed|BackgroundAudio
 https://github.com/digitalfen/ArtificialDateTime.git|Contributed|ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
+https://github.com/digitalfen/ArtificialRTC.git|Contributed|ArtificialRTC
