@@ -7718,3 +7718,4 @@ https://github.com/earlephilhower/BackgroundAudio.git|Contributed|BackgroundAudi
 https://github.com/digitalfen/ArtificialDateTime.git|Contributed|ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
 https://github.com/digitalfen/ArtificialRTC.git|Contributed|ArtificialRTC
+https://github.com/botnroll/BnrOneAPlus.git|Contributed|BnrOneAPlus
