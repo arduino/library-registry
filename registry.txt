@@ -7716,3 +7716,4 @@ https://github.com/GyverLibs/BSON.git|Contributed|BSON
 https://github.com/npuckett/AltController.git|Contributed|AltController
 https://github.com/earlephilhower/BackgroundAudio.git|Contributed|BackgroundAudio
 https://github.com/digitalfen/ArtificialDateTime.git|Contributed|ArtificialDateTime
+https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
