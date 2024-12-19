@@ -1107,6 +1107,7 @@ https://github.com/ArtronShop/IOXESP32Audio
 https://github.com/ArtronShop/IOXESP32Motor
 https://github.com/ArtronShop/KidMotorV4-Arduino
 https://github.com/ARTS37/SerialMenuCmd
+https://github.com/aserebryakov/arduino-cpp-components-library
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/asjdf/WebSerialLite
 https://github.com/askuric/Arduino-FOC
