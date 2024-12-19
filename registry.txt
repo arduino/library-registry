@@ -7720,3 +7720,4 @@ https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
 https://github.com/digitalfen/ArtificialRTC.git|Contributed|ArtificialRTC
 https://github.com/botnroll/BnrOneAPlus.git|Contributed|BnrOneAPlus
 https://github.com/aserebryakov/arduino-cpp-components-library.git|Contributed|CppComponentsLibrary
+https://github.com/jjlondonoc/MCP4132-Arduino-Library.git|Contributed|MCP4132
