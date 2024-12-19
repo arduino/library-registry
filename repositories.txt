@@ -7619,7 +7619,7 @@ https://github.com/QuickSpot/walter-arduino
 https://github.com/sagar-koirala/TelloESP32
 https://github.com/AlessioSavelli/DMXasLED
 https://github.com/zimbora/EspMQTTClient
-https://github.com/npuckett/AltController
+https://github.com/DigitalFuturesOCADU/AltController
 https://github.com/digitalfen/ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime
 https://github.com/digitalfen/ArtificialRTC
