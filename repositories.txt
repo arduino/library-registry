@@ -1849,6 +1849,7 @@ https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
 https://github.com/dejwk/roo_icons
+https://github.com/dejwk/roo_io
 https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_onewire
