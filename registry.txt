@@ -7723,3 +7723,4 @@ https://github.com/aserebryakov/arduino-cpp-components-library.git|Contributed|C
 https://github.com/jjlondonoc/MCP4132-Arduino-Library.git|Contributed|MCP4132
 https://github.com/digitalfen/EmuRTC.git|Contributed|EmuRTC
 https://github.com/dejwk/roo_io.git|Contributed|roo_io
+https://github.com/dejwk/roo_io_arduino.git|Contributed|roo_io_arduino
