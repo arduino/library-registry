@@ -7725,3 +7725,5 @@ https://github.com/digitalfen/EmuRTC.git|Contributed|EmuRTC
 https://github.com/dejwk/roo_io.git|Contributed|roo_io
 https://github.com/dejwk/roo_io_arduino.git|Contributed|roo_io_arduino
 https://github.com/alfan459/RandomForestModel.git|Contributed|RandomForestModel
+https://github.com/alfan459/ElasticNetModel.git|Contributed|ElasticNetModel
+https://github.com/alfan459/LinearRegressionModel.git|Contributed|LinearRegressionModel
