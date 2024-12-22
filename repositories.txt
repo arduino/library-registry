@@ -7627,3 +7627,5 @@ https://github.com/digitalfen/PseudoDateTime
 https://github.com/digitalfen/ArtificialRTC
 https://github.com/digitalfen/EmuRTC
 https://github.com/alfan459/RandomForestModel
+https://github.com/alfan459/ElasticNetModel
+https://github.com/alfan459/LinearRegressionModel
