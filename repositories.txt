@@ -7310,3 +7310,6 @@ https://github.com/adbancroft/avr-fast-div
 https://github.com/adbancroft/avr-fast-shift
 https://github.com/LeeLeahy2/R4A_I2C
 https://github.com/LeeLeahy2/R4A_Robot
+https://github.com/alfan459/ElasticNetModel
+https://github.com/alfan459/LinearRegressionModel
+https://github.com/alfan459/RandomForestModel
