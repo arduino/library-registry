@@ -1,3 +1,8 @@
+https://github.com/CIRCUITSTATE/CSE_ZH06
+https://github.com/ropg/spi_lcd_read
+https://github.com/FoltaBozZ/fvs-esp32-bib
+https://github.com/botnroll/BnrOneAPlus
+https://github.com/toaha63/BanglaDuino
 https://github.com/Moarbue/MAX31855-library
 https://github.com/ropg/LVGL_CYD
 https://github.com/DigitalCodesign/MentorBit-1Rele
@@ -54,6 +59,7 @@ https://github.com/arielzw/DPS-Power-Supply
 https://github.com/cheerlights/cheerlights-arduino-library
 https://github.com/gi0rg0sPapamichail/QuickESPNow
 https://github.com/jjlondonoc/AFE4950-Arduino-Library
+https://github.com/jjlondonoc/MCP4132-Arduino-Library
 https://github.com/MiguelLoureiro98/LM35IC
 https://github.com/m5stack/M5Unit-TOF
 https://github.com/m5stack/M5Unit-WEIGHT
@@ -1104,6 +1110,7 @@ https://github.com/ArtronShop/IOXESP32Audio
 https://github.com/ArtronShop/IOXESP32Motor
 https://github.com/ArtronShop/KidMotorV4-Arduino
 https://github.com/ARTS37/SerialMenuCmd
+https://github.com/aserebryakov/arduino-cpp-components-library
 https://github.com/AshleyF/BriefEmbedded
 https://github.com/asjdf/WebSerialLite
 https://github.com/askuric/Arduino-FOC
@@ -1226,6 +1233,7 @@ https://github.com/beegee-tokyo/VNCL4020C-Arduino
 https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/beegee-tokyo/WisBlock-API-V2
 https://github.com/beegee-tokyo/RUI3-Arduino-Library
+https://github.com/beegee-tokyo/RAK-OneWireSerial
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/Beirdo/Arduino-FRAM-Cache
 https://github.com/Beirdo/Arduino-LIN
@@ -1843,6 +1851,8 @@ https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
 https://github.com/dejwk/roo_icons
+https://github.com/dejwk/roo_io
+https://github.com/dejwk/roo_io_arduino
 https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_onewire
@@ -2166,6 +2176,7 @@ https://github.com/E-Lagori/ELi_McM_4_00
 https://github.com/E-Lagori/ELi_MdM_4_00
 https://github.com/e-radionicacom/Inkplate-6-Arduino-library
 https://github.com/eagleSIA/eBoard
+https://github.com/earlephilhower/BackgroundAudio
 https://github.com/earlephilhower/ESP8266Audio
 https://github.com/earthtown/8_digit_vfd
 https://github.com/EasyG0ing1/BlockNot
@@ -2653,6 +2664,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/BSON
 https://github.com/GyverLibs/Looper
 https://github.com/GyverLibs/AutoOTA
 https://github.com/GyverLibs/WiFiConnector
@@ -2988,6 +3000,7 @@ https://github.com/InsightLabTools/RPulse
 https://github.com/instanceofMA/arduino-fetch
 https://github.com/Integreight/1Sheeld-Arduino-Library
 https://github.com/Interested-In-Spresense/MM-S50MV
+https://github.com/Interested-In-Spresense/E220900t22s_jp
 https://github.com/InterstitialTech/quadrant-lib
 https://github.com/InvenSenseInc/arduino.ICM42670P
 https://github.com/Invisibleman1002/dynaHTML
@@ -4036,6 +4049,7 @@ https://github.com/MarkusLange/RTCDue
 https://github.com/MarlinFirmware/U8glib-HAL
 https://github.com/MarScaper/ephemeris
 https://github.com/Marthaarman/dmx-transceiver
+https://github.com/martinheise/arduino-ui-components
 https://github.com/Martin-Laclaustra/CronAlarms
 https://github.com/martin-leo/KeyboardAzertyFr
 https://github.com/martin2250/ADCTouch
@@ -4057,6 +4071,7 @@ https://github.com/mateusjunges/accel-stepper-with-distances
 https://github.com/mathcoll/t6iot
 https://github.com/mathertel/DMXSerial
 https://github.com/mathertel/DMXSerial2
+https://github.com/mathertel/GFXdraw
 https://github.com/mathertel/LiquidCrystal_PCF8574
 https://github.com/mathertel/OneButton
 https://github.com/mathertel/Radio
@@ -6689,6 +6704,7 @@ https://github.com/todd-herbert/unoHID
 https://github.com/Toernblom/SimpleUDPController
 https://github.com/Toernblom/SimpleWiFiClient
 https://github.com/tofuman0/PCA9505_06
+https://github.com/tom-dudman/DS1804
 https://github.com/TomasRoj/BasicsLibrary
 https://github.com/TomasRoj/OctopusLab-Library
 https://github.com/tomasz90/debounce-me
@@ -7604,3 +7620,17 @@ https://github.com/ripred/CodeSizeProfiler
 https://github.com/KDaniels-dev/Stepper595
 https://github.com/Stutchbury/InputEvents
 https://github.com/QuickSpot/walter-arduino
+https://github.com/sagar-koirala/TelloESP32
+https://github.com/AlessioSavelli/DMXasLED
+https://github.com/zimbora/EspMQTTClient
+https://github.com/npuckett/AltController
+https://github.com/digitalfen/ArtificialDateTime
+https://github.com/digitalfen/PseudoDateTime
+https://github.com/digitalfen/ArtificialRTC
+https://github.com/digitalfen/EmuRTC
+https://github.com/alfan459/RandomForestModel
+https://github.com/alfan459/ElasticNetModel
+https://github.com/alfan459/LinearRegressionModel
+https://github.com/kelasrobot/KelasRobotTime
+https://github.com/kelasrobot/MQTTESP
+https://github.com/bsrahmat/iotNetESP32
