@@ -1,3 +1,4 @@
+https://github.com/ropg/spi_lcd_read
 https://github.com/FoltaBozZ/fvs-esp32-bib
 https://github.com/botnroll/BnrOneAPlus
 https://github.com/toaha63/BanglaDuino
@@ -1849,6 +1850,8 @@ https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
 https://github.com/dejwk/roo_icons
+https://github.com/dejwk/roo_io
+https://github.com/dejwk/roo_io_arduino
 https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_onewire
@@ -7624,3 +7627,9 @@ https://github.com/digitalfen/ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime
 https://github.com/digitalfen/ArtificialRTC
 https://github.com/digitalfen/EmuRTC
+https://github.com/alfan459/RandomForestModel
+https://github.com/alfan459/ElasticNetModel
+https://github.com/alfan459/LinearRegressionModel
+https://github.com/kelasrobot/KelasRobotTime
+https://github.com/kelasrobot/MQTTESP
+https://github.com/bsrahmat/iotNetESP32
