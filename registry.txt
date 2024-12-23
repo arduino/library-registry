@@ -7731,3 +7731,4 @@ https://github.com/kelasrobot/KelasRobotTime.git|Contributed|KelasRobotTime
 https://github.com/ropg/spi_lcd_read.git|Contributed|spi_lcd_read
 https://github.com/kelasrobot/MQTTESP.git|Contributed|MQTTESP
 https://github.com/bsrahmat/iotNetESP32.git|Contributed|iotNetESP32
+https://github.com/CIRCUITSTATE/CSE_ZH06.git|Contributed|CSE_ZH06
