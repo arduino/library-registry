@@ -7730,3 +7730,4 @@ https://github.com/alfan459/LinearRegressionModel.git|Contributed|LinearRegressi
 https://github.com/kelasrobot/KelasRobotTime.git|Contributed|KelasRobotTime
 https://github.com/ropg/spi_lcd_read.git|Contributed|spi_lcd_read
 https://github.com/kelasrobot/MQTTESP.git|Contributed|MQTTESP
+https://github.com/bsrahmat/iotNetESP32.git|Contributed|iotNetESP32
