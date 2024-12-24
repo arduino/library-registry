@@ -1,3 +1,4 @@
+https://github.com/Morgritech/MT-arduino-rotary-encoder
 https://github.com/CIRCUITSTATE/CSE_ZH06
 https://github.com/ropg/spi_lcd_read
 https://github.com/FoltaBozZ/fvs-esp32-bib
