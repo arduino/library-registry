@@ -5716,7 +5716,6 @@ https://github.com/Seeed-Studio/Grove_LED_Matrix_Driver
 https://github.com/Seeed-Studio/Grove_LoRa_433MHz_and_915MHz_RF
 https://github.com/Seeed-Studio/Grove_Mini_Track_Ball
 https://github.com/Seeed-Studio/Grove_Motor_Driver_TB6612FNG
-https://github.com/Seeed-Studio/Grove_Serial_MP3_Player_V2.0
 https://github.com/Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor
 https://github.com/Seeed-Studio/Grove_Sunlight_Sensor
 https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02
