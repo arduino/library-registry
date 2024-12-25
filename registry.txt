@@ -7737,3 +7737,4 @@ https://github.com/Morgritech/MT-arduino-rotary-encoder.git|Contributed|MT-ardui
 https://github.com/dndubins/tinyServo84.git|Contributed|tinyServo84
 https://github.com/Seeed-Studio/Seeed_Serial_MP3_Player.git|Contributed|Seeed Serial MP3 Player
 https://github.com/Moarbue/FIR-Filter.git|Contributed|FIR-Filter
+https://github.com/ajangrahmat/ArduMekaWiFi.git|Contributed|ArduMekaWiFi
