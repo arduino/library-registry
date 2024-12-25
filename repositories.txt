@@ -5764,6 +5764,7 @@ https://github.com/Seeed-Studio/Seeed_QTouch
 https://github.com/Seeed-Studio/Seeed_SHT35
 https://github.com/Seeed-Studio/Seeed_VEML6070
 https://github.com/Seeed-Studio/Seeed_Wio_GPS_Board
+https://github.com/Seeed-Studio/Seeed_Serial_MP3_Player
 https://github.com/Seeed-Studio/SeeedMotorShieldV2
 https://github.com/Seeed-Studio/Seeeduino_GPRS
 https://github.com/Seeed-Studio/Small_ePaper_Shield
