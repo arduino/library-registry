@@ -3871,6 +3871,7 @@ https://github.com/m5stack/ATOM_DTU_CAT1
 https://github.com/m5stack/ATOM_DTU_LoRaWAN
 https://github.com/m5stack/ATOM_DTU_NB
 https://github.com/m5stack/M5Atomic-Motion
+https://github.com/m5stack/M5Atomic-EchoBase
 https://github.com/m5stack/DEMO-BOARD
 https://github.com/m5stack/M5_BMM150
 https://github.com/m5stack/M5_EzData
