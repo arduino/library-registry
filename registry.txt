@@ -7740,3 +7740,4 @@ https://github.com/Moarbue/FIR-Filter.git|Contributed|FIR-Filter
 https://github.com/ajangrahmat/ArduMekaWiFi.git|Contributed|ArduMekaWiFi
 https://github.com/Moarbue/arduino-button.git|Contributed|button_moarbue
 https://github.com/eis-interbot/EIS_INTERBOT.git|Contributed|EIS_INTERBOT
+https://github.com/m5stack/M5Atomic-EchoBase.git|Contributed|M5Atomic-EchoBase
