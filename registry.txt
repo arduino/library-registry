@@ -7739,3 +7739,4 @@ https://github.com/Seeed-Studio/Seeed_Serial_MP3_Player.git|Contributed|Seeed Se
 https://github.com/Moarbue/FIR-Filter.git|Contributed|FIR-Filter
 https://github.com/ajangrahmat/ArduMekaWiFi.git|Contributed|ArduMekaWiFi
 https://github.com/Moarbue/arduino-button.git|Contributed|button_moarbue
+https://github.com/eis-interbot/EIS_INTERBOT.git|Contributed|EIS_INTERBOT
