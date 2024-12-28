@@ -2804,6 +2804,7 @@ https://github.com/Hardi-St/MobaLedLib
 https://github.com/hardmax/ADS1232
 https://github.com/hardmax/LogToQueue
 https://github.com/harnettlab/vl53l0x-arduino
+https://github.com/HarrysLabDotNet/nes-controller-interface
 https://github.com/harvie/ps2dev
 https://github.com/Harvie/RotaryDial
 https://github.com/hasenradball/AM2302-Sensor
