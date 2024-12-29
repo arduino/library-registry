@@ -1,3 +1,4 @@
+https://github.com/valerii-fr/menux
 https://github.com/7Semi/7SemiSHT4x_Library
 https://github.com/Moarbue/incremental-rotary-encoder
 https://github.com/Moarbue/arduino-button
