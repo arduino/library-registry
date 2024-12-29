@@ -2115,6 +2115,7 @@ https://github.com/DmytroKorniienko/EmbUI
 https://github.com/dndg/Finder6M
 https://github.com/dndg/Finder7M
 https://github.com/dndubins/tinyServo84
+https://github.com/dndubins/tinyServo85
 https://github.com/dndubins/EEPROMsimple
 https://github.com/dndubins/QuickStats
 https://github.com/dndubins/SRAMsimple
