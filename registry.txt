@@ -7748,3 +7748,4 @@ https://github.com/HarrysLabDotNet/nes-controller-interface.git|Contributed|NESC
 https://github.com/moononournation/Dev_Device_Pins.git|Contributed|Dev Device Pins
 https://github.com/dndubins/tinyServo85.git|Contributed|tinyServo85
 https://github.com/ELOWRO/ADS1119.git|Contributed|ADS1119 library
+https://github.com/valerii-fr/menux.git|Contributed|MenuX
