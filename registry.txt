@@ -7745,3 +7745,4 @@ https://github.com/Moarbue/incremental-rotary-encoder.git|Contributed|IncRotaryE
 https://github.com/lucaschoeneberg/lw09-dali.git|Contributed|LW09-Dali
 https://github.com/7Semi/7SemiSHT4x_Library.git|Contributed|7SemiSHT4x_Library
 https://github.com/HarrysLabDotNet/nes-controller-interface.git|Contributed|NESControllerInterface
+https://github.com/moononournation/Dev_Device_Pins.git|Contributed|Dev Device Pins
