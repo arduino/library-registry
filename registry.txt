@@ -7758,3 +7758,4 @@ https://github.com/JokoArdh/inIo.git|Contributed|inIo
 https://github.com/robbywm/RobbyIO.git|Contributed|RobbyIO
 https://github.com/cakraawijaya/MQ2_LPG.git|Contributed|MQ2_LPG
 https://github.com/edwiyanto/CreatorKidsIO.git|Contributed|CreatorKidsIO
+https://github.com/cakraawijaya/ESP_FC28.git|Contributed|ESP_FC28
