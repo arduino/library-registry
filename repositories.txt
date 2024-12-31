@@ -7664,3 +7664,4 @@ https://github.com/edwiyanto/CreatorKidsIO
 https://github.com/cakraawijaya/ESP_FC28
 https://github.com/CMB27/ModbusSlaveLogic
 https://github.com/wwhai/MOTY-Mini-Temperature-Sensor.git
+https://github.com/kelasrobot/KelasRobotFonnte
