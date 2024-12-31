@@ -7764,3 +7764,4 @@ https://github.com/CMB27/ModbusSlaveLogic.git|Contributed|ModbusSlaveLogic
 https://github.com/hootrhino/MOTY-Mini-Temperature-Sensor.git|Contributed|MOTY-Mini Temperature Sensor
 https://github.com/kelasrobot/FoonteDuino.git|Contributed|FoonteDuino
 https://github.com/7Semi/SevenSemiSHT4x_Lib.git|Contributed|7SemiSHT4x_Lib
+https://github.com/schreibfaul1/ESP32-audioI2S.git|Contributed|ESP32-audioI2S-master
