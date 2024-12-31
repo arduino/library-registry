@@ -1,4 +1,4 @@
-https://github.com/7Semi/7SemiSHT4x_Library
+https://github.com/7Semi/SevenSemiSHT4x_Library
 https://github.com/Moarbue/incremental-rotary-encoder
 https://github.com/Moarbue/arduino-button
 https://github.com/Moarbue/FIR-Filter
