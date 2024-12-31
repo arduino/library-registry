@@ -1,4 +1,4 @@
-https://github.com/7Semi/SevenSemiSHT4x_Library
+https://github.com/7Semi/SevenSemiSHT4x
 https://github.com/hasenradball/MCP23008-I2C
 https://github.com/roncoa/KeySequence
 https://github.com/juanmercadin/ReceptorRF
