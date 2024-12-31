@@ -7763,3 +7763,4 @@ https://github.com/hasenradball/MCP23008-I2C.git|Contributed|MCP23008-I2C
 https://github.com/CMB27/ModbusSlaveLogic.git|Contributed|ModbusSlaveLogic
 https://github.com/hootrhino/MOTY-Mini-Temperature-Sensor.git|Contributed|MOTY-Mini Temperature Sensor
 https://github.com/kelasrobot/FoonteDuino.git|Contributed|FoonteDuino
+https://github.com/7Semi/SevenSemiSHT4x_Lib.git|Contributed|7SemiSHT4x_Lib
