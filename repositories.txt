@@ -1,4 +1,8 @@
 https://github.com/7Semi/SevenSemiSHT4x_Library
+https://github.com/hasenradball/MCP23008-I2C
+https://github.com/roncoa/KeySequence
+https://github.com/juanmercadin/ReceptorRF
+https://github.com/valerii-fr/menux
 https://github.com/Moarbue/incremental-rotary-encoder
 https://github.com/Moarbue/arduino-button
 https://github.com/Moarbue/FIR-Filter
@@ -2115,6 +2119,7 @@ https://github.com/DmytroKorniienko/EmbUI
 https://github.com/dndg/Finder6M
 https://github.com/dndg/Finder7M
 https://github.com/dndubins/tinyServo84
+https://github.com/dndubins/tinyServo85
 https://github.com/dndubins/EEPROMsimple
 https://github.com/dndubins/QuickStats
 https://github.com/dndubins/SRAMsimple
@@ -2804,6 +2809,7 @@ https://github.com/Hardi-St/MobaLedLib
 https://github.com/hardmax/ADS1232
 https://github.com/hardmax/LogToQueue
 https://github.com/harnettlab/vl53l0x-arduino
+https://github.com/HarrysLabDotNet/nes-controller-interface
 https://github.com/harvie/ps2dev
 https://github.com/Harvie/RotaryDial
 https://github.com/hasenradball/AM2302-Sensor
@@ -7646,4 +7652,16 @@ https://github.com/bsrahmat/iotNetESP32
 https://github.com/ajangrahmat/ArduMekaWiFi
 https://github.com/eis-interbot/EIS_INTERBOT
 https://github.com/lucaschoeneberg/lw09-dali
+https://github.com/moononournation/Dev_Device_Pins.git
+https://github.com/ELOWRO/ADS1119
+https://github.com/kelasrobot/KelasRobotIO
+https://github.com/rescenic/rescenicio
+https://github.com/kelasrobot/FonnteArduino
+https://github.com/JokoArdh/inIo
+https://github.com/robbywm/RobbyIO/
+https://github.com/cakraawijaya/MQ2_LPG
+https://github.com/edwiyanto/CreatorKidsIO
+https://github.com/cakraawijaya/ESP_FC28
+https://github.com/CMB27/ModbusSlaveLogic
+https://github.com/wwhai/MOTY-Mini-Temperature-Sensor.git
 
