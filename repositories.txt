@@ -1,3 +1,4 @@
+https://github.com/7Semi/SevenSemi_SHT4x_Master
 https://github.com/7Semi/SevenSemiSHT4x_Lib
 https://github.com/7Semi/SevenSemiSHT4x_Library
 https://github.com/7Semi/7SemiSHT4x_Library
