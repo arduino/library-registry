@@ -7753,7 +7753,7 @@ https://github.com/juanmercadin/ReceptorRF.git|Contributed|ReceptorRF
 https://github.com/roncoa/KeySequence.git|Contributed|KeySequence
 https://github.com/kelasrobot/KelasRobotIO.git|Contributed|KelasRobotIO
 https://github.com/rescenic/rescenicio.git|Contributed|RescenicIO
-https://github.com/kelasrobot/FonnteArduino.git|Contributed|FonnteArduino
+https://github.com/kelasrobot/FonnteArduino.git|Contributed|FonnteDuino
 https://github.com/JokoArdh/inIo.git|Contributed|inIo
 https://github.com/robbywm/RobbyIO.git|Contributed|RobbyIO
 https://github.com/cakraawijaya/MQ2_LPG.git|Contributed|MQ2_LPG
