@@ -7767,3 +7767,4 @@ https://github.com/7Semi/SevenSemiSHT4x_Lib.git|Contributed|7SemiSHT4x_Lib
 https://github.com/schreibfaul1/ESP32-audioI2S.git|Contributed|ESP32-audioI2S-master
 https://github.com/median-dispersion/XPT2046-Driver.git|Contributed|XPT2046 Driver
 https://github.com/stacknix/stackmq-esp32.git|Contributed|Stackmq
+https://github.com/scottyob/IgcLogger.git|Contributed|IgcLogger
