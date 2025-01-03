@@ -5688,6 +5688,7 @@ https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
 https://github.com/scottchiefbaker/ESP-WebOTA
+https://github.com/scottyob/IgcLogger
 https://github.com/SCRN92/Sim800L
 https://github.com/sdumetz/coordinates
 https://github.com/sdutek/sducar
