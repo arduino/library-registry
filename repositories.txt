@@ -5357,6 +5357,7 @@ https://github.com/RobTillaart/bitHelpers
 https://github.com/RobTillaart/BoolArray
 https://github.com/RobTillaart/CHT8305
 https://github.com/RobTillaart/CHT8310
+https://github.com/RobTillaart/CHT832X
 https://github.com/RobTillaart/Complex
 https://github.com/RobTillaart/Correlation
 https://github.com/RobTillaart/CountDown
