@@ -7773,3 +7773,4 @@ https://github.com/RobTillaart/AGS3871.git|Contributed|AGS3871
 https://github.com/RobTillaart/CHT832X.git|Contributed|CHT832X
 https://github.com/levkovigor/PTZProtocolHandler.git|Contributed|PTZProtocolHandler
 https://github.com/Alex-Stone-Github/pepstep.git|Contributed|pepstep
+https://github.com/RobTillaart/rotaryDecoder8.git|Contributed|rotaryDecoder8
