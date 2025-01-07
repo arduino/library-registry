@@ -7663,7 +7663,6 @@ https://github.com/moononournation/Dev_Device_Pins.git
 https://github.com/ELOWRO/ADS1119
 https://github.com/kelasrobot/KelasRobotIO
 https://github.com/rescenic/rescenicio
-https://github.com/kelasrobot/FonnteArduino
 https://github.com/JokoArdh/inIo
 https://github.com/robbywm/RobbyIO/
 https://github.com/cakraawijaya/MQ2_LPG
@@ -7671,7 +7670,6 @@ https://github.com/edwiyanto/CreatorKidsIO
 https://github.com/cakraawijaya/ESP_FC28
 https://github.com/CMB27/ModbusSlaveLogic
 https://github.com/wwhai/MOTY-Mini-Temperature-Sensor.git
-https://github.com/kelasrobot/FoonteDuino
 https://github.com/stacknix/stackmq-esp32
 https://github.com/marekburiak/ESP32_MQTTClient
 https://github.com/levkovigor/PTZProtocolHandler
