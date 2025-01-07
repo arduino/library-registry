@@ -5525,6 +5525,7 @@ https://github.com/RobTillaart/RAIN
 https://github.com/RobTillaart/randomHelpers
 https://github.com/RobTillaart/relativity
 https://github.com/RobTillaart/rotaryDecoder
+https://github.com/RobTillaart/rotaryDecoder8
 https://github.com/RobTillaart/rotaryDecoderSwitch
 https://github.com/RobTillaart/RS485
 https://github.com/RobTillaart/RunAvgWeight
