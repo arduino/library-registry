@@ -7771,3 +7771,4 @@ https://github.com/scottyob/IgcLogger.git|Contributed|IgcLogger
 https://github.com/marekburiak/ESP32_MQTTClient.git|Contributed|ESP32_MQTTClient
 https://github.com/RobTillaart/AGS3871.git|Contributed|AGS3871
 https://github.com/RobTillaart/CHT832X.git|Contributed|CHT832X
+https://github.com/levkovigor/PTZProtocolHandler.git|Contributed|PTZProtocolHandler
