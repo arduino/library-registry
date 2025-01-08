@@ -5346,6 +5346,7 @@ https://github.com/RobTillaart/AnalogUVSensor
 https://github.com/RobTillaart/Angle
 https://github.com/RobTillaart/AngleConvertor
 https://github.com/RobTillaart/ANSI
+https://github.com/RobTillaart/APDS9900
 https://github.com/RobTillaart/AS5600
 https://github.com/RobTillaart/AsyncAnalog
 https://github.com/RobTillaart/AtomicWeight
