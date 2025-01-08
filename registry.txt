@@ -7776,3 +7776,4 @@ https://github.com/Alex-Stone-Github/pepstep.git|Contributed|pepstep
 https://github.com/RobTillaart/rotaryDecoder8.git|Contributed|rotaryDecoder8
 https://github.com/AirNgin/Airngin-esp32-mqtt-client.git|Contributed|AirNgin ESP32 MQTT Client
 https://github.com/RobTillaart/APDS9900.git|Contributed|APDS9900
+https://github.com/samy101/edge-ai-arduino-library.git|Contributed|IISc_EdgeAI
