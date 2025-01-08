@@ -7677,3 +7677,4 @@ https://github.com/stacknix/stackmq-esp32
 https://github.com/marekburiak/ESP32_MQTTClient
 https://github.com/levkovigor/PTZProtocolHandler
 https://github.com/Alex-Stone-Github/pepstep
+https://github.com/AirNgin/Airngin-esp32-mqtt-client
