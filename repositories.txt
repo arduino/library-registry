@@ -1,3 +1,6 @@
+https://github.com/rjsachse/ESP32-RTSPServer.git
+https://github.com/schreibfaul1/ESP32-audioI2S
+https://github.com/7Semi/SevenSemiSHT4x_Lib
 https://github.com/hasenradball/MCP23008-I2C
 https://github.com/roncoa/KeySequence
 https://github.com/juanmercadin/ReceptorRF
@@ -37,6 +40,7 @@ https://github.com/DigitalCodesign/MentorBit-Ultrasonidos
 https://github.com/DigitalCodesign/MentorBit-Zumbador
 https://github.com/DigitalCodesign/Puertas-Logicas-Plugin
 https://github.com/median-dispersion/Non-Blocking-Melody
+https://github.com/median-dispersion/XPT2046-Driver
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
 https://github.com/baaaaan1/BuzzerManager
@@ -5333,6 +5337,7 @@ https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
 https://github.com/RobTillaart/ADT7470
 https://github.com/RobTillaart/AGS02MA
+https://github.com/RobTillaart/AGS3871
 https://github.com/RobTillaart/AM2315
 https://github.com/RobTillaart/AM2315C
 https://github.com/RobTillaart/AM232X
@@ -5342,6 +5347,7 @@ https://github.com/RobTillaart/AnalogUVSensor
 https://github.com/RobTillaart/Angle
 https://github.com/RobTillaart/AngleConvertor
 https://github.com/RobTillaart/ANSI
+https://github.com/RobTillaart/APDS9900
 https://github.com/RobTillaart/AS5600
 https://github.com/RobTillaart/AsyncAnalog
 https://github.com/RobTillaart/AtomicWeight
@@ -5353,6 +5359,7 @@ https://github.com/RobTillaart/bitHelpers
 https://github.com/RobTillaart/BoolArray
 https://github.com/RobTillaart/CHT8305
 https://github.com/RobTillaart/CHT8310
+https://github.com/RobTillaart/CHT832X
 https://github.com/RobTillaart/Complex
 https://github.com/RobTillaart/Correlation
 https://github.com/RobTillaart/CountDown
@@ -5520,6 +5527,7 @@ https://github.com/RobTillaart/RAIN
 https://github.com/RobTillaart/randomHelpers
 https://github.com/RobTillaart/relativity
 https://github.com/RobTillaart/rotaryDecoder
+https://github.com/RobTillaart/rotaryDecoder8
 https://github.com/RobTillaart/rotaryDecoderSwitch
 https://github.com/RobTillaart/RS485
 https://github.com/RobTillaart/RunAvgWeight
@@ -5685,6 +5693,7 @@ https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
 https://github.com/scottchiefbaker/ESP-WebOTA
+https://github.com/scottyob/IgcLogger
 https://github.com/SCRN92/Sim800L
 https://github.com/sdumetz/coordinates
 https://github.com/sdutek/sducar
@@ -7663,3 +7672,11 @@ https://github.com/cakraawijaya/MQ2_LPG
 https://github.com/edwiyanto/CreatorKidsIO
 https://github.com/cakraawijaya/ESP_FC28
 https://github.com/CMB27/ModbusSlaveLogic
+https://github.com/wwhai/MOTY-Mini-Temperature-Sensor.git
+https://github.com/kelasrobot/FoonteDuino
+https://github.com/stacknix/stackmq-esp32
+https://github.com/marekburiak/ESP32_MQTTClient
+https://github.com/levkovigor/PTZProtocolHandler
+https://github.com/Alex-Stone-Github/pepstep
+https://github.com/AirNgin/Airngin-esp32-mqtt-client
+https://github.com/samy101/edge-ai-arduino-library
