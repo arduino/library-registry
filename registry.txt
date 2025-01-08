@@ -7543,7 +7543,7 @@ https://github.com/adafruit/Adafruit_VCNL4200.git|Recommended|Adafruit VCNL4200 
 https://github.com/Naguissa/uConfigLib.git|Contributed|uConfigLib
 https://github.com/MiguelLoureiro98/LM35IC.git|Contributed|LM35IC
 https://github.com/dralicimen/dwiBus.git|Contributed|dwiBus
-https://github.com/bdlow/IO22_IO_Board.git|Contributed|IO22_IO_Board
+https://github.com/af3556/IO22_IO_Board.git|Contributed|IO22_IO_Board
 https://github.com/RobTillaart/ACD3100.git|Contributed|ACD3100
 https://github.com/arduino-libraries/Arduino_OPC_UA.git|Arduino|Arduino_OPC_UA
 https://github.com/RobTillaart/AD5660.git|Contributed|AD5660
