@@ -7551,6 +7551,7 @@ https://github.com/MoCoMakers/esp-fipsy
 https://github.com/galarb/ev3lego.git
 https://github.com/bitbank2/bb_truetype.git
 https://github.com/nseinlet/Modelisme.git
+https://github.com/rjsachse/ESP32-RTSPServer.git
 https://github.com/JensDMadsen/ISRHandler
 https://github.com/JarikDem-Bot/OCServo
 https://github.com/TheSpaceEgg/InfinitePCA9685
