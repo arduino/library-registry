@@ -2292,6 +2292,7 @@ https://github.com/EnviroDIY/KellerModbus
 https://github.com/EnviroDIY/SensorModbusMaster
 https://github.com/EnviroDIY/Sodaq_DS3231
 https://github.com/EnviroDIY/YosemitechModbus
+https://github.com/EnviroDIY/GeoluxCamera
 https://github.com/eoh-jsc/era-lib
 https://github.com/epsilonrt/ad7124
 https://github.com/epsilonrt/EepromSecureData
