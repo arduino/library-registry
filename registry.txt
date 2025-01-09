@@ -7781,3 +7781,4 @@ https://github.com/rjsachse/ESP32-RTSPServer.git|Contributed|ESP32-RTSPServer
 https://github.com/RobTillaart/PCA9698_RT.git|Contributed|PCA9698_RT
 https://github.com/YoavPaz/I2CR-CPP.git|Contributed|I2CR-CPP
 https://github.com/robertsonics/WAV_Trigger_Pro_Qwiic_Arduino_Library.git|Contributed|SparkFun WAV Trigger Pro Qwiic
+https://github.com/EnviroDIY/GeoluxCamera.git|Contributed|GeoluxCamera
