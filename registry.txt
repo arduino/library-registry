@@ -7778,3 +7778,4 @@ https://github.com/AirNgin/Airngin-esp32-mqtt-client.git|Contributed|AirNgin ESP
 https://github.com/RobTillaart/APDS9900.git|Contributed|APDS9900
 https://github.com/samy101/edge-ai-arduino-library.git|Contributed|IISc_EdgeAI
 https://github.com/rjsachse/ESP32-RTSPServer.git|Contributed|ESP32-RTSPServer
+https://github.com/RobTillaart/PCA9698_RT.git|Contributed|PCA9698_RT
