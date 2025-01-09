@@ -38,6 +38,7 @@ https://github.com/DigitalCodesign/MentorBit-Pulsadores
 https://github.com/DigitalCodesign/MentorBit-RGB
 https://github.com/DigitalCodesign/MentorBit-Ultrasonidos
 https://github.com/DigitalCodesign/MentorBit-Zumbador
+https://github.com/ddchung/Async-HC-SR04-Lib
 https://github.com/DigitalCodesign/Puertas-Logicas-Plugin
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/median-dispersion/XPT2046-Driver
