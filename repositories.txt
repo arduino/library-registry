@@ -1,3 +1,4 @@
+https://github.com/rjsachse/ESP32-RTSPServer.git
 https://github.com/schreibfaul1/ESP32-audioI2S
 https://github.com/7Semi/SevenSemiSHT4x_Lib
 https://github.com/hasenradball/MCP23008-I2C
@@ -5503,6 +5504,7 @@ https://github.com/RobTillaart/PCA9632
 https://github.com/RobTillaart/PCA9634
 https://github.com/RobTillaart/PCA9635
 https://github.com/RobTillaart/PCA9685_RT
+https://github.com/RobTillaart/PCA9698_RT
 https://github.com/RobTillaart/PCF8574
 https://github.com/RobTillaart/PCF8575
 https://github.com/RobTillaart/PCF8591
