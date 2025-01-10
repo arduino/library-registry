@@ -38,6 +38,7 @@ https://github.com/DigitalCodesign/MentorBit-Pulsadores
 https://github.com/DigitalCodesign/MentorBit-RGB
 https://github.com/DigitalCodesign/MentorBit-Ultrasonidos
 https://github.com/DigitalCodesign/MentorBit-Zumbador
+https://github.com/ddchung/Async-HC-SR04-Lib
 https://github.com/DigitalCodesign/Puertas-Logicas-Plugin
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/median-dispersion/XPT2046-Driver
@@ -2292,6 +2293,7 @@ https://github.com/EnviroDIY/KellerModbus
 https://github.com/EnviroDIY/SensorModbusMaster
 https://github.com/EnviroDIY/Sodaq_DS3231
 https://github.com/EnviroDIY/YosemitechModbus
+https://github.com/EnviroDIY/GeoluxCamera
 https://github.com/eoh-jsc/era-lib
 https://github.com/epsilonrt/ad7124
 https://github.com/epsilonrt/EepromSecureData
@@ -5558,6 +5560,7 @@ https://github.com/RobTillaart/Student
 https://github.com/RobTillaart/SWSerialOut
 https://github.com/RobTillaart/SWSPI
 https://github.com/RobTillaart/TCA9548
+https://github.com/RobTillaart/TCA9554
 https://github.com/RobTillaart/TCA9555
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/TEMT6000
@@ -7681,3 +7684,8 @@ https://github.com/levkovigor/PTZProtocolHandler
 https://github.com/Alex-Stone-Github/pepstep
 https://github.com/AirNgin/Airngin-esp32-mqtt-client
 https://github.com/samy101/edge-ai-arduino-library
+https://github.com/robertsonics/WAV_Trigger_Pro_Qwiic_Arduino_Library
+https://github.com/YoavPaz/I2CR-CPP
+https://github.com/Alex-Stone-Github/CNCShield
+https://github.com/bitbank2/FastEPD
+https://github.com/jerry-magnin/Mem24CSM01
