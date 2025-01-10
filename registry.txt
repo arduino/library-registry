@@ -7787,3 +7787,7 @@ https://github.com/Alex-Stone-Github/CNCShield.git|Contributed|CNCShield
 https://github.com/bitbank2/FastEPD.git|Contributed|FastEPD
 https://github.com/jerry-magnin/Mem24CSM01.git|Contributed|Mem24CSM01
 https://github.com/RobTillaart/TCA9554.git|Contributed|TCA9554
+https://github.com/Andy4495/LCD_SharpBoosterPack_SPI.git|Contributed|LCD_SharpBP_SPI
+https://github.com/Andy4495/OneMsTaskTimer.git|Contributed|OneMsTaskTimer
+https://github.com/Andy4495/Energia-EducationalBP_MKII.git|Contributed|Energia-EBP_MKII
+https://github.com/Andy4495/Energia-MultiTasking.git|Contributed|Energia-MultiTas
