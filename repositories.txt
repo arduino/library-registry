@@ -882,6 +882,10 @@ https://github.com/Andy4495/LED744511
 https://github.com/Andy4495/SWI2C
 https://github.com/Andy4495/TIL306
 https://github.com/Andy4495/TLC591x
+https://github.com/Andy4495/LCD_SharpBoosterPack_SPI
+https://github.com/Andy4495/OneMsTaskTimer
+https://github.com/Andy4495/Energia-EducationalBP_MKII
+https://github.com/Andy4495/Energia-MultiTasking
 https://github.com/andydoro/DST_RTC
 https://github.com/angrest/pocketBME280
 https://github.com/aniket-hpp/TFT_eSPI_Scroll
