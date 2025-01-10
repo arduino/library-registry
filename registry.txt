@@ -7785,3 +7785,4 @@ https://github.com/EnviroDIY/GeoluxCamera.git|Contributed|GeoluxCamera
 https://github.com/ddchung/Async-HC-SR04-Lib.git|Contributed|Distance-Sensor
 https://github.com/Alex-Stone-Github/CNCShield.git|Contributed|CNCShield
 https://github.com/bitbank2/FastEPD.git|Contributed|FastEPD
+https://github.com/jerry-magnin/Mem24CSM01.git|Contributed|Mem24CSM01
