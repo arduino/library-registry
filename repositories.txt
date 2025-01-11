@@ -5343,6 +5343,7 @@ https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
 https://github.com/RobTillaart/ADT7470
 https://github.com/RobTillaart/AGS02MA
+https://github.com/RobTillaart/AGS2616
 https://github.com/RobTillaart/AGS3871
 https://github.com/RobTillaart/AM2315
 https://github.com/RobTillaart/AM2315C
