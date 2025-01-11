@@ -7791,3 +7791,4 @@ https://github.com/Andy4495/LCD_SharpBoosterPack_SPI.git|Contributed|LCD_SharpBP
 https://github.com/Andy4495/OneMsTaskTimer.git|Contributed|OneMsTaskTimer
 https://github.com/Andy4495/Energia-EducationalBP_MKII.git|Contributed|Energia-EBP_MKII
 https://github.com/Andy4495/Energia-MultiTasking.git|Contributed|Energia-MultiTas
+https://github.com/RobTillaart/AGS2616.git|Contributed|AGS2616
