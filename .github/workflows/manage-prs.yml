@@ -133,6 +133,8 @@ jobs:
       indexer-logs-urls: ${{ steps.parse-request.outputs.indexer-logs-urls }}
 
     steps:
+      # Checkout the tip of the default branch (this is the action's default ref input value when workflow is triggered
+      # by an issue_comment or pull_request_target event).
       - name: Checkout local repository
         uses: actions/checkout@v4
 
