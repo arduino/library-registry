@@ -1,0 +1,4 @@
+# Access control for the Arduino Library Manager registry.
+# This file is used by https://github.com/arduino/library-registry-submission-parser, via the "Manage PRs" workflow.
+
+[]

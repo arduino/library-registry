@@ -1,7 +1,7 @@
 name: Manage PRs
 
 env:
-  SUBMISSION_PARSER_VERSION: 1.1.1 # See: https://github.com/arduino/library-manager-submission-parser/releases
+  SUBMISSION_PARSER_VERSION: 2.0.0 # See: https://github.com/arduino/library-manager-submission-parser/releases
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
@@ -162,9 +162,11 @@ jobs:
           chmod u+x "${{ steps.download-parser.outputs.file-path }}"
           REQUEST="$( \
             "${{ steps.download-parser.outputs.file-path }}" \
+              --accesslist=".github/workflows/assets/accesslist.yml" \
               --diffpath="${{ needs.diff.outputs.path }}/${{ needs.diff.outputs.filename }}" \
               --repopath="${{ github.workspace }}" \
               --listname="repositories.txt" \
+              --submitter="${{ github.actor }}" \
           )"
           # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in
           # certain workflow fields.
