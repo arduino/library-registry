@@ -1,3 +1,4 @@
+https://github.com/Init-io/DoEEP
 https://github.com/rjsachse/ESP32-RTSPServer.git
 https://github.com/schreibfaul1/ESP32-audioI2S
 https://github.com/7Semi/SevenSemiSHT4x_Lib
@@ -57,7 +58,6 @@ https://gitlab.com/pony_jd/mis_librerias/dualwheelcontrol_jd
 https://github.com/leftCoast/LC_cardIndex
 https://github.com/Init-io/PinScribe
 https://github.com/Init-io/OTAEsp
-https://github.com/Init-io/DoEEP
 https://github.com/traquito/WsprEncoded
 https://github.com/Init-io/FireEsp
 https://github.com/ncmreynolds/loremipsum
