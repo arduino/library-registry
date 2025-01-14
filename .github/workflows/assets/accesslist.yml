@@ -17,6 +17,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
 - host: github.com
+  name: DefHam140
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5265#issuecomment-2589039572
+- host: github.com
   name: kelasrobot
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
