@@ -1,12 +1,12 @@
 ---
 name: github.com/arduino/libraries-repository-engine/internal/configuration
-version: v1.1.3
+version: v1.1.6
 type: go
 summary: Package configuration handles the tool configuration.
 homepage: https://pkg.go.dev/github.com/arduino/libraries-repository-engine/internal/configuration
 license: agpl-3.0
 licenses:
-- sources: libraries-repository-engine@v1.1.3/LICENSE.txt
+- sources: libraries-repository-engine@v1.1.6/LICENSE.txt
   text: |2
                         GNU AFFERO GENERAL PUBLIC LICENSE
                            Version 3, 19 November 2007
