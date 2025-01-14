@@ -7303,7 +7303,6 @@ https://github.com/kanitawa/RotEnc.git|Contributed|RotEnc
 https://github.com/GyverLibs/FastBot2.git|Contributed|FastBot2
 https://github.com/fmeng/UserManager.git|Contributed|UserManager
 https://github.com/GyverLibs/FOR_MACRO.git|Contributed|FOR_MACRO
-https://github.com/vpBharath/RobotControl.git|Contributed|RobotControl
 https://github.com/ERLtech/ERLtech-RobotControl.git|Contributed|ERLtech-RobotControl
 https://github.com/ad039/ZSSC3230_I2C_Driver.git|Contributed|ZSSC3230 I2C Driver
 https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI.git|Contributed|Newhaven_CharacterOLED_SPI
