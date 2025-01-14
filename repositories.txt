@@ -1237,7 +1237,7 @@ https://github.com/bblanchon/ArduinoJson
 https://github.com/bblanchon/ArduinoStreamUtils
 https://github.com/bblanchon/ArduinoTrace
 https://github.com/BCISOFT/OvhAPI
-https://github.com/bdlow/IO22_IO_Board
+https://github.com/af3556/IO22_IO_Board
 https://github.com/BeanieBob/GY26Compass
 https://github.com/BEAT-System/SerialCom
 https://github.com/beegee-tokyo/Blues-Minimal-I2C
