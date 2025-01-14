@@ -7779,7 +7779,6 @@ https://github.com/RobTillaart/APDS9900.git|Contributed|APDS9900
 https://github.com/samy101/edge-ai-arduino-library.git|Contributed|IISc_EdgeAI
 https://github.com/rjsachse/ESP32-RTSPServer.git|Contributed|ESP32-RTSPServer
 https://github.com/RobTillaart/PCA9698_RT.git|Contributed|PCA9698_RT
-https://github.com/YoavPaz/I2CR-CPP.git|Contributed|I2CR-CPP
 https://github.com/robertsonics/WAV_Trigger_Pro_Qwiic_Arduino_Library.git|Contributed|SparkFun WAV Trigger Pro Qwiic
 https://github.com/EnviroDIY/GeoluxCamera.git|Contributed|GeoluxCamera
 https://github.com/ddchung/Async-HC-SR04-Lib.git|Contributed|Distance-Sensor
