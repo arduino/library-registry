@@ -1613,7 +1613,6 @@ https://github.com/Seeed-Studio/Grove_LED_Bar.git|Contributed|Grove LED Bar
 https://github.com/Seeed-Studio/Grove_LED_Matrix_Driver.git|Contributed|Grove - LED Matrix Driver
 https://github.com/Seeed-Studio/Grove_LoRa_433MHz_and_915MHz_RF.git|Contributed|Grove - LoRa Radio 433MHz 868MHz
 https://github.com/Seeed-Studio/Grove_Mini_Track_Ball.git|Contributed|Grove Mini Track Ball
-https://github.com/Seeed-Studio/Grove_Serial_MP3_Player_V2.0.git|Contributed|Grove Serial MP3 Player V2.0
 https://github.com/Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor.git|Contributed|Grove SHT31 Temp Humi Sensor
 https://github.com/Seeed-Studio/Grove_Sunlight_Sensor.git|Contributed|Grove - Sunlight Sensor
 https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02.git|Contributed|Grove Temper Humidity TH02
@@ -7303,14 +7302,11 @@ https://github.com/kanitawa/RotEnc.git|Contributed|RotEnc
 https://github.com/GyverLibs/FastBot2.git|Contributed|FastBot2
 https://github.com/fmeng/UserManager.git|Contributed|UserManager
 https://github.com/GyverLibs/FOR_MACRO.git|Contributed|FOR_MACRO
-https://github.com/ERLtech/ERLtech-RobotControl.git|Contributed|ERLtech-RobotControl
 https://github.com/ad039/ZSSC3230_I2C_Driver.git|Contributed|ZSSC3230 I2C Driver
 https://github.com/BlairBlaidd/Newhaven_CharacterOLED_SPI.git|Contributed|Newhaven_CharacterOLED_SPI
-https://github.com/ErlTechnologies/BTRobocontrol.git|Contributed|BTRobocontrol
 https://github.com/mathieucarbou/MycilaPulseAnalyzer.git|Contributed|MycilaPulseAnalyzer
 https://github.com/giocip/ARDUINO_num7.git|Contributed|num7
 https://github.com/Naguissa/uHexLib.git|Contributed|uHexLib
-https://github.com/ErlTechnologies/ERLtechRobotcontrol.git|Contributed|ERLtechRobotcontrol
 https://github.com/Muhammed-jbareen/Alarm.git|Contributed|Alarm
 https://github.com/lhtran114/OnlyTimer.git|Contributed|OnlyTimer
 https://github.com/sinricpro/arduino-renesas-sdk.git|Contributed|SinricPro_Renesas
@@ -7542,7 +7538,7 @@ https://github.com/adafruit/Adafruit_VCNL4200.git|Recommended|Adafruit VCNL4200 
 https://github.com/Naguissa/uConfigLib.git|Contributed|uConfigLib
 https://github.com/MiguelLoureiro98/LM35IC.git|Contributed|LM35IC
 https://github.com/dralicimen/dwiBus.git|Contributed|dwiBus
-https://github.com/bdlow/IO22_IO_Board.git|Contributed|IO22_IO_Board
+https://github.com/af3556/IO22_IO_Board.git|Contributed|IO22_IO_Board
 https://github.com/RobTillaart/ACD3100.git|Contributed|ACD3100
 https://github.com/arduino-libraries/Arduino_OPC_UA.git|Arduino|Arduino_OPC_UA
 https://github.com/RobTillaart/AD5660.git|Contributed|AD5660
@@ -7694,7 +7690,7 @@ https://github.com/per1234-org/GPT_Stepper.git|Contributed|GPT_Stepper
 https://github.com/per1234-org/LoveButton.git|Contributed|LoveButton
 https://github.com/per1234-org/PID_DG.git|Contributed|PID_DG
 https://github.com/per1234-org/R4_Touch.git|Contributed|R4_Touch
-https://github.com/KDaniels-dev/Stepper595.git|Contributed|Stepper595
+https://github.com/KDDaniels/Stepper595.git|Contributed|Stepper595
 https://github.com/SWITCHSCIENCE/ZPA4756_0311A_R.git|Contributed|ZPA4756-0311A-R
 https://github.com/Stutchbury/InputEvents.git|Contributed|InputEvents
 https://github.com/ropg/LVGL_CYD.git|Contributed|LVGL_CYD
@@ -7712,7 +7708,7 @@ https://github.com/Interested-In-Spresense/E220900t22s_jp.git|Contributed|E220-9
 https://github.com/zimbora/EspMQTTClient.git|Contributed|EspMQTTClientFork
 https://github.com/martinheise/arduino-ui-components.git|Contributed|UIComponents
 https://github.com/GyverLibs/BSON.git|Contributed|BSON
-https://github.com/npuckett/AltController.git|Contributed|AltController
+https://github.com/DigitalFuturesOCADU/AltController.git|Contributed|AltController
 https://github.com/earlephilhower/BackgroundAudio.git|Contributed|BackgroundAudio
 https://github.com/digitalfen/ArtificialDateTime.git|Contributed|ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
@@ -7726,9 +7722,7 @@ https://github.com/dejwk/roo_io_arduino.git|Contributed|roo_io_arduino
 https://github.com/alfan459/RandomForestModel.git|Contributed|RandomForestModel
 https://github.com/alfan459/ElasticNetModel.git|Contributed|ElasticNetModel
 https://github.com/alfan459/LinearRegressionModel.git|Contributed|LinearRegressionModel
-https://github.com/kelasrobot/KelasRobotTime.git|Contributed|KelasRobotTime
 https://github.com/ropg/spi_lcd_read.git|Contributed|spi_lcd_read
-https://github.com/kelasrobot/MQTTESP.git|Contributed|MQTTESP
 https://github.com/bsrahmat/iotNetESP32.git|Contributed|iotNetESP32
 https://github.com/CIRCUITSTATE/CSE_ZH06.git|Contributed|CSE_ZH06
 https://github.com/alkonosst/MCP23017.git|Contributed|MCP23017_MR
@@ -7742,7 +7736,6 @@ https://github.com/eis-interbot/EIS_INTERBOT.git|Contributed|EIS_INTERBOT
 https://github.com/m5stack/M5Atomic-EchoBase.git|Contributed|M5Atomic-EchoBase
 https://github.com/Moarbue/incremental-rotary-encoder.git|Contributed|IncRotaryEncoder
 https://github.com/lucaschoeneberg/lw09-dali.git|Contributed|LW09-Dali
-https://github.com/7Semi/7SemiSHT4x_Library.git|Contributed|7SemiSHT4x_Library
 https://github.com/HarrysLabDotNet/nes-controller-interface.git|Contributed|NESControllerInterface
 https://github.com/moononournation/Dev_Device_Pins.git|Contributed|Dev Device Pins
 https://github.com/dndubins/tinyServo85.git|Contributed|tinyServo85
@@ -7750,10 +7743,7 @@ https://github.com/ELOWRO/ADS1119.git|Contributed|ADS1119 library
 https://github.com/valerii-fr/menux.git|Contributed|MenuX
 https://github.com/juanmercadin/ReceptorRF.git|Contributed|ReceptorRF
 https://github.com/roncoa/KeySequence.git|Contributed|KeySequence
-https://github.com/kelasrobot/KelasRobotIO.git|Contributed|KelasRobotIO
 https://github.com/rescenic/rescenicio.git|Contributed|RescenicIO
-https://github.com/kelasrobot/FonnteArduino.git|Contributed|FonnteArduino
-https://github.com/JokoArdh/inIo.git|Contributed|inIo
 https://github.com/robbywm/RobbyIO.git|Contributed|RobbyIO
 https://github.com/cakraawijaya/MQ2_LPG.git|Contributed|MQ2_LPG
 https://github.com/edwiyanto/CreatorKidsIO.git|Contributed|CreatorKidsIO
@@ -7761,8 +7751,6 @@ https://github.com/cakraawijaya/ESP_FC28.git|Contributed|ESP_FC28
 https://github.com/hasenradball/MCP23008-I2C.git|Contributed|MCP23008-I2C
 https://github.com/CMB27/ModbusSlaveLogic.git|Contributed|ModbusSlaveLogic
 https://github.com/hootrhino/MOTY-Mini-Temperature-Sensor.git|Contributed|MOTY-Mini Temperature Sensor
-https://github.com/kelasrobot/FoonteDuino.git|Contributed|FoonteDuino
-https://github.com/7Semi/SevenSemiSHT4x_Lib.git|Contributed|7SemiSHT4x_Lib
 https://github.com/schreibfaul1/ESP32-audioI2S.git|Contributed|ESP32-audioI2S-master
 https://github.com/median-dispersion/XPT2046-Driver.git|Contributed|XPT2046 Driver
 https://github.com/stacknix/stackmq-esp32.git|Contributed|Stackmq
@@ -7778,7 +7766,6 @@ https://github.com/RobTillaart/APDS9900.git|Contributed|APDS9900
 https://github.com/samy101/edge-ai-arduino-library.git|Contributed|IISc_EdgeAI
 https://github.com/rjsachse/ESP32-RTSPServer.git|Contributed|ESP32-RTSPServer
 https://github.com/RobTillaart/PCA9698_RT.git|Contributed|PCA9698_RT
-https://github.com/YoavPaz/I2CR-CPP.git|Contributed|I2CR-CPP
 https://github.com/robertsonics/WAV_Trigger_Pro_Qwiic_Arduino_Library.git|Contributed|SparkFun WAV Trigger Pro Qwiic
 https://github.com/EnviroDIY/GeoluxCamera.git|Contributed|GeoluxCamera
 https://github.com/ddchung/Async-HC-SR04-Lib.git|Contributed|Distance-Sensor
@@ -7796,3 +7783,4 @@ https://github.com/RobTillaart/rotaryDecoderSwitch5.git|Contributed|rotaryDecode
 https://github.com/rei-vilo/PDLS_Common.git|Contributed|PDLS_Common
 https://github.com/rei-vilo/PDLS_Basic.git|Contributed|PDLS_Basic
 https://github.com/PervasiveDisplays/Pervasive_Wide_Medium.git|Contributed|Pervasive_Wide_Medium
+https://github.com/RobTillaart/AGS3870.git|Contributed|AGS3870
