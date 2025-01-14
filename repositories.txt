@@ -7674,7 +7674,6 @@ https://github.com/eis-interbot/EIS_INTERBOT
 https://github.com/lucaschoeneberg/lw09-dali
 https://github.com/moononournation/Dev_Device_Pins.git
 https://github.com/ELOWRO/ADS1119
-https://github.com/kelasrobot/KelasRobotIO
 https://github.com/rescenic/rescenicio
 https://github.com/robbywm/RobbyIO/
 https://github.com/cakraawijaya/MQ2_LPG
