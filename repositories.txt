@@ -7680,7 +7680,6 @@ https://github.com/ELOWRO/ADS1119
 https://github.com/kelasrobot/KelasRobotIO
 https://github.com/rescenic/rescenicio
 https://github.com/kelasrobot/FonnteArduino
-https://github.com/JokoArdh/inIo
 https://github.com/robbywm/RobbyIO/
 https://github.com/cakraawijaya/MQ2_LPG
 https://github.com/edwiyanto/CreatorKidsIO
