@@ -7667,7 +7667,6 @@ https://github.com/digitalfen/EmuRTC
 https://github.com/alfan459/RandomForestModel
 https://github.com/alfan459/ElasticNetModel
 https://github.com/alfan459/LinearRegressionModel
-https://github.com/kelasrobot/MQTTESP
 https://github.com/bsrahmat/iotNetESP32
 https://github.com/ajangrahmat/ArduMekaWiFi
 https://github.com/eis-interbot/EIS_INTERBOT
