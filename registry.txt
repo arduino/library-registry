@@ -7726,7 +7726,6 @@ https://github.com/dejwk/roo_io_arduino.git|Contributed|roo_io_arduino
 https://github.com/alfan459/RandomForestModel.git|Contributed|RandomForestModel
 https://github.com/alfan459/ElasticNetModel.git|Contributed|ElasticNetModel
 https://github.com/alfan459/LinearRegressionModel.git|Contributed|LinearRegressionModel
-https://github.com/kelasrobot/KelasRobotTime.git|Contributed|KelasRobotTime
 https://github.com/ropg/spi_lcd_read.git|Contributed|spi_lcd_read
 https://github.com/kelasrobot/MQTTESP.git|Contributed|MQTTESP
 https://github.com/bsrahmat/iotNetESP32.git|Contributed|iotNetESP32
