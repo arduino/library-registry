@@ -1613,7 +1613,6 @@ https://github.com/Seeed-Studio/Grove_LED_Bar.git|Contributed|Grove LED Bar
 https://github.com/Seeed-Studio/Grove_LED_Matrix_Driver.git|Contributed|Grove - LED Matrix Driver
 https://github.com/Seeed-Studio/Grove_LoRa_433MHz_and_915MHz_RF.git|Contributed|Grove - LoRa Radio 433MHz 868MHz
 https://github.com/Seeed-Studio/Grove_Mini_Track_Ball.git|Contributed|Grove Mini Track Ball
-https://github.com/Seeed-Studio/Grove_Serial_MP3_Player_V2.0.git|Contributed|Grove Serial MP3 Player V2.0
 https://github.com/Seeed-Studio/Grove_SHT31_Temp_Humi_Sensor.git|Contributed|Grove SHT31 Temp Humi Sensor
 https://github.com/Seeed-Studio/Grove_Sunlight_Sensor.git|Contributed|Grove - Sunlight Sensor
 https://github.com/Seeed-Studio/Grove_Temper_Humidity_TH02.git|Contributed|Grove Temper Humidity TH02
@@ -7695,7 +7694,7 @@ https://github.com/per1234-org/GPT_Stepper.git|Contributed|GPT_Stepper
 https://github.com/per1234-org/LoveButton.git|Contributed|LoveButton
 https://github.com/per1234-org/PID_DG.git|Contributed|PID_DG
 https://github.com/per1234-org/R4_Touch.git|Contributed|R4_Touch
-https://github.com/KDaniels-dev/Stepper595.git|Contributed|Stepper595
+https://github.com/KDDaniels/Stepper595.git|Contributed|Stepper595
 https://github.com/SWITCHSCIENCE/ZPA4756_0311A_R.git|Contributed|ZPA4756-0311A-R
 https://github.com/Stutchbury/InputEvents.git|Contributed|InputEvents
 https://github.com/ropg/LVGL_CYD.git|Contributed|LVGL_CYD
@@ -7713,7 +7712,7 @@ https://github.com/Interested-In-Spresense/E220900t22s_jp.git|Contributed|E220-9
 https://github.com/zimbora/EspMQTTClient.git|Contributed|EspMQTTClientFork
 https://github.com/martinheise/arduino-ui-components.git|Contributed|UIComponents
 https://github.com/GyverLibs/BSON.git|Contributed|BSON
-https://github.com/npuckett/AltController.git|Contributed|AltController
+https://github.com/DigitalFuturesOCADU/AltController.git|Contributed|AltController
 https://github.com/earlephilhower/BackgroundAudio.git|Contributed|BackgroundAudio
 https://github.com/digitalfen/ArtificialDateTime.git|Contributed|ArtificialDateTime
 https://github.com/digitalfen/PseudoDateTime.git|Contributed|PseudoDateTime
@@ -7743,7 +7742,6 @@ https://github.com/eis-interbot/EIS_INTERBOT.git|Contributed|EIS_INTERBOT
 https://github.com/m5stack/M5Atomic-EchoBase.git|Contributed|M5Atomic-EchoBase
 https://github.com/Moarbue/incremental-rotary-encoder.git|Contributed|IncRotaryEncoder
 https://github.com/lucaschoeneberg/lw09-dali.git|Contributed|LW09-Dali
-https://github.com/7Semi/7SemiSHT4x_Library.git|Contributed|7SemiSHT4x_Library
 https://github.com/HarrysLabDotNet/nes-controller-interface.git|Contributed|NESControllerInterface
 https://github.com/moononournation/Dev_Device_Pins.git|Contributed|Dev Device Pins
 https://github.com/dndubins/tinyServo85.git|Contributed|tinyServo85
@@ -7753,7 +7751,6 @@ https://github.com/juanmercadin/ReceptorRF.git|Contributed|ReceptorRF
 https://github.com/roncoa/KeySequence.git|Contributed|KeySequence
 https://github.com/kelasrobot/KelasRobotIO.git|Contributed|KelasRobotIO
 https://github.com/rescenic/rescenicio.git|Contributed|RescenicIO
-https://github.com/JokoArdh/inIo.git|Contributed|inIo
 https://github.com/robbywm/RobbyIO.git|Contributed|RobbyIO
 https://github.com/cakraawijaya/MQ2_LPG.git|Contributed|MQ2_LPG
 https://github.com/edwiyanto/CreatorKidsIO.git|Contributed|CreatorKidsIO
@@ -7761,7 +7758,6 @@ https://github.com/cakraawijaya/ESP_FC28.git|Contributed|ESP_FC28
 https://github.com/hasenradball/MCP23008-I2C.git|Contributed|MCP23008-I2C
 https://github.com/CMB27/ModbusSlaveLogic.git|Contributed|ModbusSlaveLogic
 https://github.com/hootrhino/MOTY-Mini-Temperature-Sensor.git|Contributed|MOTY-Mini Temperature Sensor
-https://github.com/kelasrobot/FoonteDuino.git|Contributed|FoonteDuino
 https://github.com/7Semi/SevenSemiSHT4x_Lib.git|Contributed|7SemiSHT4x_Lib
 https://github.com/schreibfaul1/ESP32-audioI2S.git|Contributed|ESP32-audioI2S-master
 https://github.com/median-dispersion/XPT2046-Driver.git|Contributed|XPT2046 Driver
@@ -7796,3 +7792,4 @@ https://github.com/RobTillaart/rotaryDecoderSwitch5.git|Contributed|rotaryDecode
 https://github.com/rei-vilo/PDLS_Common.git|Contributed|PDLS_Common
 https://github.com/rei-vilo/PDLS_Basic.git|Contributed|PDLS_Basic
 https://github.com/PervasiveDisplays/Pervasive_Wide_Medium.git|Contributed|Pervasive_Wide_Medium
+https://github.com/RobTillaart/AGS3870.git|Contributed|AGS3870
