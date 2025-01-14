@@ -7793,3 +7793,4 @@ https://github.com/Andy4495/Energia-EducationalBP_MKII.git|Contributed|Energia-E
 https://github.com/Andy4495/Energia-MultiTasking.git|Contributed|Energia-MultiTas
 https://github.com/RobTillaart/AGS2616.git|Contributed|AGS2616
 https://github.com/RobTillaart/TCS3210.git|Contributed|TCS3210
+https://github.com/RobTillaart/rotaryDecoderSwitch5.git|Contributed|rotaryDecoderSwitch5
