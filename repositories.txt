@@ -7693,5 +7693,5 @@ https://github.com/codewitch-honey-crisis/htcw_bits
 https://github.com/codewitch-honey-crisis/htcw_data
 https://github.com/codewitch-honey-crisis/htcw_io
 https://github.com/codewitch-honey-crisis/htcw_ml
-https://github.com/codewitch-honey-crisis/htcw_gfx
-https://github.com/codewitch-honey-crisis/htcw_uix
+https://github.com/codewitch-honey-crisis/gfx
+https://github.com/codewitch-honey-crisis/uix
