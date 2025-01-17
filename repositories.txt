@@ -7689,3 +7689,9 @@ https://github.com/Alex-Stone-Github/CNCShield
 https://github.com/bitbank2/FastEPD
 https://github.com/jerry-magnin/Mem24CSM01
 https://github.com/mcendu/LCDI2C_Multilingual
+https://github.com/codewitch-honey-crisis/htcw_bits
+https://github.com/codewitch-honey-crisis/htcw_data
+https://github.com/codewitch-honey-crisis/htcw_io
+https://github.com/codewitch-honey-crisis/htcw_ml
+https://github.com/codewitch-honey-crisis/htcw_gfx
+https://github.com/codewitch-honey-crisis/htcw_uix
