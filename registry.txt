@@ -7787,3 +7787,4 @@ https://github.com/RobTillaart/AGS3870.git|Contributed|AGS3870
 https://github.com/mfurga/cc1101.git|Contributed|CC1101
 https://github.com/pmarques-dev/ArucoLite.git|Contributed|ArucoLite
 https://github.com/mcendu/LCDI2C_Multilingual.git|Contributed|LCDI2C_Multilingual_MCD
+https://github.com/EnviroDIY/LoRa_AT.git|Contributed|LoRa_AT
