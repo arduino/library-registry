@@ -4870,6 +4870,7 @@ https://github.com/plerup/espsoftwareserial
 https://github.com/ploys/arduino-logger
 https://github.com/plsTrustMeImAnEngineer/StreamAverage
 https://github.com/pmarques-dev/PicoEncoder
+https://github.com/pmarques-dev/ArucoLite
 https://github.com/pmassio/ArduinoLMI
 https://github.com/PodgroupConnectivity/PodEnoSim
 https://github.com/poelstra/arduino-multi-button
