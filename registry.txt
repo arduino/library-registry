@@ -7795,3 +7795,4 @@ https://github.com/codewitch-honey-crisis/htcw_ml.git|Contributed|htcw_ml
 https://github.com/codewitch-honey-crisis/gfx.git|Contributed|htcw_gfx
 https://github.com/codewitch-honey-crisis/uix.git|Contributed|htcw_uix
 https://github.com/codewitch-honey-crisis/htcw_button.git|Contributed|htcw_button
+https://github.com/dmachinewhisperer/micro-prompts-ino.git|Contributed|micro-prompts
