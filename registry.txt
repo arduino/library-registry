@@ -7788,3 +7788,9 @@ https://github.com/mfurga/cc1101.git|Contributed|CC1101
 https://github.com/pmarques-dev/ArucoLite.git|Contributed|ArucoLite
 https://github.com/mcendu/LCDI2C_Multilingual.git|Contributed|LCDI2C_Multilingual_MCD
 https://github.com/EnviroDIY/LoRa_AT.git|Contributed|LoRa_AT
+https://github.com/codewitch-honey-crisis/htcw_bits.git|Contributed|htcw_bits
+https://github.com/codewitch-honey-crisis/htcw_data.git|Contributed|htcw_data
+https://github.com/codewitch-honey-crisis/htcw_io.git|Contributed|htcw_io
+https://github.com/codewitch-honey-crisis/htcw_ml.git|Contributed|htcw_ml
+https://github.com/codewitch-honey-crisis/gfx.git|Contributed|htcw_gfx
+https://github.com/codewitch-honey-crisis/uix.git|Contributed|htcw_uix
