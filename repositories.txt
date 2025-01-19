@@ -7699,3 +7699,4 @@ https://github.com/codewitch-honey-crisis/gfx
 https://github.com/codewitch-honey-crisis/uix
 https://github.com/codewitch-honey-crisis/htcw_button
 https://github.com/codewitch-honey-crisis/htcw_json
+https://github.com/codewitch-honey-crisis/htcw_lcd_miser
