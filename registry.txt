@@ -7801,3 +7801,4 @@ https://github.com/codewitch-honey-crisis/htcw_lcd_miser.git|Contributed|htcw_lc
 https://github.com/epsilonrt/Max11615Lib.git|Contributed|Max11615Lib
 https://github.com/GyverLibs/GTimer.git|Contributed|GTimer
 https://github.com/PervasiveDisplays/Pervasive_Wide_Small.git|Contributed|Pervasive_Wide_Small
+https://github.com/RobTillaart/AD5593R.git|Contributed|AD5593R
