@@ -7804,3 +7804,4 @@ https://github.com/PervasiveDisplays/Pervasive_Wide_Small.git|Contributed|Pervas
 https://github.com/RobTillaart/AD5593R.git|Contributed|AD5593R
 https://github.com/Soft-Collection/SCPeriod.git|Contributed|SCPeriod
 https://github.com/Soft-Collection/SCButton.git|Contributed|SCButton
+https://github.com/ESP32Async/ESPAsyncTCP.git|Contributed|ESP Async TCP
