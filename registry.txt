@@ -7799,3 +7799,4 @@ https://github.com/dmachinewhisperer/micro-prompts-ino.git|Contributed|micro-pro
 https://github.com/codewitch-honey-crisis/htcw_json.git|Contributed|htcw_json
 https://github.com/codewitch-honey-crisis/htcw_lcd_miser.git|Contributed|htcw_lcd_miser
 https://github.com/epsilonrt/Max11615Lib.git|Contributed|Max11615Lib
+https://github.com/GyverLibs/GTimer.git|Contributed|GTimer
