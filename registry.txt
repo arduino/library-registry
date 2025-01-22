@@ -7811,3 +7811,4 @@ https://github.com/PervasiveDisplays/Pervasive_BWRY_Small.git|Contributed|Pervas
 https://github.com/vvb333007/espshell.git|Contributed|ESPShell
 https://github.com/roncoa/SimRacingController.git|Contributed|SimRacingController
 https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library.git|Contributed|Inkplate Motion Library
+https://github.com/MiguelLoureiro98/TimeSeries.git|Contributed|TimeSeries
