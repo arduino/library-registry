@@ -5330,6 +5330,7 @@ https://github.com/RobTillaart/AD5246
 https://github.com/RobTillaart/AD5248
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD5263
+https://github.com/RobTillaart/AD5593R
 https://github.com/RobTillaart/AD5620
 https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
@@ -5492,6 +5493,7 @@ https://github.com/RobTillaart/MCP4261
 https://github.com/RobTillaart/MCP4725
 https://github.com/RobTillaart/MCP9808_RT
 https://github.com/RobTillaart/MHZCO2
+https://github.com/RobTillaart/millis64
 https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
@@ -6050,6 +6052,8 @@ https://github.com/SodaqMoja/Sodaq_wdt
 https://github.com/SofaPirate/AsciiMassage
 https://github.com/SofaPirate/Plaquette
 https://github.com/SofaPirate/SlipMassage
+https://github.com/Soft-Collection/SCPeriod
+https://github.com/Soft-Collection/SCButton
 https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
@@ -7703,3 +7707,5 @@ https://github.com/codewitch-honey-crisis/htcw_button
 https://github.com/codewitch-honey-crisis/htcw_json
 https://github.com/codewitch-honey-crisis/htcw_lcd_miser
 https://github.com/epsilonrt/Max11615Lib
+https://github.com/ESP32Async/ESPAsyncTCP
+https://github.com/p1ngb4ck/MCP4461
