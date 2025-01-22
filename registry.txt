@@ -7807,3 +7807,4 @@ https://github.com/Soft-Collection/SCButton.git|Contributed|SCButton
 https://github.com/ESP32Async/ESPAsyncTCP.git|Contributed|ESP Async TCP
 https://github.com/p1ngb4ck/MCP4461.git|Contributed|MCP4461
 https://github.com/RobTillaart/millis64.git|Contributed|millis64
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Small.git|Contributed|Pervasive_BWRY_Small
