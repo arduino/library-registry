@@ -7812,3 +7812,4 @@ https://github.com/vvb333007/espshell.git|Contributed|ESPShell
 https://github.com/roncoa/SimRacingController.git|Contributed|SimRacingController
 https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library.git|Contributed|Inkplate Motion Library
 https://github.com/MiguelLoureiro98/TimeSeries.git|Contributed|TimeSeries
+https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip.git|Contributed|htcw_rmt_led_strip
