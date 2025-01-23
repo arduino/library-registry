@@ -6678,7 +6678,7 @@ https://github.com/mathieucarbou/MycilaLogger.git|Contributed|MycilaLogger
 https://github.com/mathieucarbou/MycilaConfig.git|Contributed|MycilaConfig
 https://github.com/xreef/EByte_RF_E70_Series_Library.git|Contributed|EByte RF E70 library
 https://github.com/mathieucarbou/MycilaJSY.git|Contributed|MycilaJSY
-https://github.com/mathieucarbou/ESPAsyncWebServer.git|Contributed|ESP Async WebServer
+https://github.com/ESP32Async/ESPAsyncWebServer.git|Contributed|ESP Async WebServer
 https://github.com/mathieucarbou/MycilaESPConnect.git|Contributed|MycilaESPConnect
 https://github.com/mathieucarbou/MycilaRelay.git|Contributed|MycilaRelay
 https://github.com/ReneRichterDE/ButtonMatrix.git|Contributed|ButtonMatrix
