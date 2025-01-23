@@ -7814,3 +7814,4 @@ https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library.git|Contr
 https://github.com/MiguelLoureiro98/TimeSeries.git|Contributed|TimeSeries
 https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip.git|Contributed|htcw_rmt_led_strip
 https://github.com/KiselevIvan/kidLibrary.git|Contributed|kidLibrary
+https://github.com/RobTillaart/INA229.git|Contributed|INA229
