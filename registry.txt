@@ -7815,3 +7815,4 @@ https://github.com/MiguelLoureiro98/TimeSeries.git|Contributed|TimeSeries
 https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip.git|Contributed|htcw_rmt_led_strip
 https://github.com/KiselevIvan/kidLibrary.git|Contributed|kidLibrary
 https://github.com/RobTillaart/INA229.git|Contributed|INA229
+https://github.com/jakiki6/SH1106.git|Contributed|SH1106
