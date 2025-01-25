@@ -7816,3 +7816,4 @@ https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip.git|Contributed|htc
 https://github.com/KiselevIvan/kidLibrary.git|Contributed|kidLibrary
 https://github.com/RobTillaart/INA229.git|Contributed|INA229
 https://github.com/jakiki6/SH1106.git|Contributed|SH1106
+https://github.com/CentyLab/AP33772S-CentyLab.git|Contributed|AP33772S
