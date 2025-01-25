@@ -7718,3 +7718,4 @@ https://github.com/vvb333007/espshell
 https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library
 https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip
 https://github.com/jakiki6/SH1106
+https://github.com/CentyLab/AP33772S-CentyLab
