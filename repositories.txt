@@ -1,3 +1,4 @@
+https://github.com/Dimon4ik64/library-registry/blob/main/repositories.txt
 https://github.com/roncoa/SimRacingController
 https://github.com/KiselevIvan/kidLibrary
 https://github.com/dmachinewhisperer/micro-prompts-ino
