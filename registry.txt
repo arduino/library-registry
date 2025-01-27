@@ -7822,3 +7822,4 @@ https://github.com/crozone-technology/TelegramESP32.git|Contributed|TelegramESP3
 https://github.com/mawaeg/Arduino_RV-8523.git|Contributed|RV8523
 https://github.com/steins1997/arduino_uno_r4_minima_mcp2517fd.git|Contributed|R4_LIB_FOR_MCP2517FD
 https://github.com/dejwk/roo_backport.git|Contributed|roo_backport
+https://github.com/Soft-Collection/SCConfig.git|Contributed|SCConfig
