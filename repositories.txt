@@ -6053,6 +6053,7 @@ https://github.com/SofaPirate/Plaquette
 https://github.com/SofaPirate/SlipMassage
 https://github.com/Soft-Collection/SCPeriod
 https://github.com/Soft-Collection/SCButton
+https://github.com/Soft-Collection/SCConfig
 https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
