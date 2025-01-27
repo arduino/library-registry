@@ -7722,3 +7722,4 @@ https://github.com/CentyLab/AP33772S-CentyLab
 https://github.com/ridiculousfish/libdivide
 https://github.com/crozone-technology/TelegramESP32
 https://github.com/mawaeg/Arduino_RV-8523
+https://github.com/steins1997/arduino_uno_r4_minima_mcp2517fd
