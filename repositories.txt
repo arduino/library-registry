@@ -7727,3 +7727,4 @@ https://github.com/mawaeg/Arduino_RV-8523
 https://github.com/steins1997/arduino_uno_r4_minima_mcp2517fd
 https://github.com/mcu-electronics/RTC_DS1307_Library
 https://github.com/BromleySat/kasia-lib-arduino
+https://github.com/avisha95/AViShaESPCam
