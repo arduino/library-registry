@@ -5537,6 +5537,7 @@ https://github.com/RobTillaart/PID_RT
 https://github.com/RobTillaart/PinInGroup
 https://github.com/RobTillaart/PinOutGroup
 https://github.com/RobTillaart/PIR
+https://github.com/RobTillaart/PIR8575
 https://github.com/RobTillaart/Prandom
 https://github.com/RobTillaart/pressure
 https://github.com/RobTillaart/PrintCharArray
