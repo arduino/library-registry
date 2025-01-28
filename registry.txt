@@ -7826,3 +7826,4 @@ https://github.com/Soft-Collection/SCConfig.git|Contributed|SCConfig
 https://github.com/mcu-electronics/RTC_DS1307_Library.git|Contributed|RTC_DS1307_Library
 https://github.com/BromleySat/kasia-lib-arduino.git|Contributed|Kasia
 https://github.com/avisha95/AViShaESPCam.git|Contributed|AViShaESPCam
+https://github.com/RobTillaart/PIR8575.git|Contributed|PIR8575
