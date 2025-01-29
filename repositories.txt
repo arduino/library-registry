@@ -7731,3 +7731,4 @@ https://github.com/mcu-electronics/RTC_DS1307_Library
 https://github.com/BromleySat/kasia-lib-arduino
 https://github.com/avisha95/AViShaESPCam
 https://github.com/ICRS/IC-Hack-Badge-Arduino
+https://github.com/avisha95/AViShaMQTT
