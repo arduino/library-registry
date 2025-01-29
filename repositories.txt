@@ -253,6 +253,7 @@ https://github.com/locple/LiquidCrystal_I2C_UTF8
 https://github.com/Witty-Wizard/SerialIO
 https://github.com/fanfanlatulipe26/FS_MX1508
 https://github.com/crozone-technology/crozone-veml6040
+https://github.com/crozone-technology/TelegramESP32
 https://github.com/I-AM-ENGINEER/MT6701-arduino
 https://github.com/Erqos/EQSP32
 https://github.com/ropg/HotButton
@@ -7720,4 +7721,3 @@ https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip
 https://github.com/jakiki6/SH1106
 https://github.com/CentyLab/AP33772S-CentyLab
 https://github.com/ridiculousfish/libdivide
-https://github.com/crozone-technology/TelegramESP32
