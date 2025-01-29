@@ -7732,3 +7732,4 @@ https://github.com/BromleySat/kasia-lib-arduino
 https://github.com/avisha95/AViShaESPCam
 https://github.com/ICRS/IC-Hack-Badge-Arduino
 https://github.com/avisha95/AViShaMQTT
+https://github.com/avisha95/AViShaWiFi
