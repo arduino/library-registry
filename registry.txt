@@ -7829,3 +7829,4 @@ https://github.com/avisha95/AViShaESPCam.git|Contributed|AViShaESPCam
 https://github.com/RobTillaart/PIR8575.git|Contributed|PIR8575
 https://github.com/RobTillaart/AD7367.git|Contributed|AD7367
 https://github.com/ICRS/IC-Hack-Badge-Arduino.git|Contributed|IC Hack Badge
+https://github.com/avisha95/AViShaMQTT.git|Contributed|AViShaMQTT
