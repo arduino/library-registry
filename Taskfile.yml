@@ -172,11 +172,8 @@ tasks:
 
   registry:validate:
     desc: Validate registry data file
-    deps:
-      - task: go:build
     cmds:
-      - |
-        "{{.DEFAULT_GO_MODULE_PATH}}/validate-registry" registry.txt
+      - libraries-repository-engine check-registry registry.txt
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-yaml-task/Taskfile.yml
   yaml:lint:
