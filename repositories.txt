@@ -1868,6 +1868,7 @@ https://github.com/DefProc/lewis
 https://github.com/DefProc/somo-ii-lib
 https://github.com/DeimosHall/RP2040_CPU_Temperature.git
 https://github.com/DEIS-Tools/CLAIRE-library
+https://github.com/dejwk/roo_backport
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
@@ -5341,6 +5342,7 @@ https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
+https://github.com/RobTillaart/AD7367
 https://github.com/RobTillaart/AD8495
 https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
@@ -5537,6 +5539,7 @@ https://github.com/RobTillaart/PID_RT
 https://github.com/RobTillaart/PinInGroup
 https://github.com/RobTillaart/PinOutGroup
 https://github.com/RobTillaart/PIR
+https://github.com/RobTillaart/PIR8575
 https://github.com/RobTillaart/Prandom
 https://github.com/RobTillaart/pressure
 https://github.com/RobTillaart/PrintCharArray
@@ -6060,6 +6063,7 @@ https://github.com/SofaPirate/Plaquette
 https://github.com/SofaPirate/SlipMassage
 https://github.com/Soft-Collection/SCPeriod
 https://github.com/Soft-Collection/SCButton
+https://github.com/Soft-Collection/SCConfig
 https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
@@ -7721,3 +7725,11 @@ https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip
 https://github.com/jakiki6/SH1106
 https://github.com/CentyLab/AP33772S-CentyLab
 https://github.com/ridiculousfish/libdivide
+https://github.com/crozone-technology/TelegramESP32
+https://github.com/mawaeg/Arduino_RV-8523
+https://github.com/steins1997/arduino_uno_r4_minima_mcp2517fd
+https://github.com/mcu-electronics/RTC_DS1307_Library
+https://github.com/BromleySat/kasia-lib-arduino
+https://github.com/avisha95/AViShaESPCam
+https://github.com/ICRS/IC-Hack-Badge-Arduino
+https://github.com/avisha95/AViShaMQTT
