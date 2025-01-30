@@ -1672,6 +1672,7 @@ https://github.com/closedcube/ClosedCube_MAX30205_Arduino
 https://github.com/closedcube/ClosedCube_OPT3001_Arduino
 https://github.com/closedcube/ClosedCube_OPT3002_Arduino
 https://github.com/closedcube/ClosedCube_SHT31D_Arduino
+https://github.com/malarz-supla/ClosedCube_SHT31D_Arduino
 https://github.com/closedcube/ClosedCube_SHT3XA_Library
 https://github.com/closedcube/ClosedCube_SHT3XD_Library
 https://github.com/closedcube/ClosedCube_SHTC3_Arduino
