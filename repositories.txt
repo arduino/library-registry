@@ -487,6 +487,7 @@ https://github.com/adafruit/Adafruit_LIS331
 https://github.com/adafruit/Adafruit_LIS3DH
 https://github.com/adafruit/Adafruit_LIS3MDL
 https://github.com/adafruit/Adafruit_LPS2X
+https://github.com/adafruit/Adafruit_LPS28
 https://github.com/adafruit/Adafruit_LPS35HW
 https://github.com/adafruit/Adafruit_LSM303_Accel
 https://github.com/adafruit/Adafruit_LSM303DLH_Mag
