@@ -7831,3 +7831,4 @@ https://github.com/RobTillaart/AD7367.git|Contributed|AD7367
 https://github.com/ICRS/IC-Hack-Badge-Arduino.git|Contributed|IC Hack Badge
 https://github.com/avisha95/AViShaMQTT.git|Contributed|AViShaMQTT
 https://github.com/avisha95/AViShaWiFi.git|Contributed|AViShaWiFi
+https://github.com/malarz-supla/ClosedCube_SHT31D_Arduino.git|Contributed|ClosedCube SHT31D fork
