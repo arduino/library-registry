@@ -7734,3 +7734,4 @@ https://github.com/avisha95/AViShaESPCam
 https://github.com/ICRS/IC-Hack-Badge-Arduino
 https://github.com/avisha95/AViShaMQTT
 https://github.com/avisha95/AViShaWiFi
+https://github.com/khaledHamidi/qlink
