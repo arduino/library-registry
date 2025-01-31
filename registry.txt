@@ -6266,7 +6266,7 @@ https://github.com/Obsttube/AES_CMAC.git|Contributed|AES_CMAC
 https://github.com/arduino-libraries/Arduino_UnifiedStorage.git|Arduino|Arduino_UnifiedStorage
 https://github.com/Obsttube/MFRC522_NTAG424DNA.git|Contributed|MFRC522_NTAG424DNA
 https://github.com/nthnn/PortaMob.git|Contributed|PortaMob
-https://github.com/ktauchathuranga/MorseEncoder.git|Contributed|MorseEncoder
+https://github.com/ktauchathuranga/morse-encoder.git|Contributed|MorseEncoder
 https://github.com/rtnate/arduino-BasicTimer.git|Contributed|BasicTimer
 https://github.com/Xylopyrographer/XP_Button.git|Contributed|XP_Button
 https://github.com/dineshannayya/Riscduino_MCUFRIEND_kbv.git|Contributed|Riscduino_MCUFRIEND_kbv
