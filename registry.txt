@@ -6955,7 +6955,7 @@ https://github.com/Embeddronics-ltd/BLEOTALIBRARY.git|Contributed|EmbeddronicsBl
 https://github.com/NightHawk-Technology/NH8CHIR-lib.git|Contributed|NH8CHIR-lib
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7.git|Arduino|Arduino_LowPowerPortentaH7
 https://github.com/ropg/LoRaWAN_ESP32.git|Contributed|LoRaWAN_ESP32
-https://github.com/mathieucarbou/AsyncTCP.git|Contributed|Async TCP
+https://github.com/ESP32Async/AsyncTCP.git|Contributed|Async TCP
 https://github.com/agomezgar/rupertobotLibrary.git|Contributed|rupertobot
 https://github.com/SMotlaq/PI3EQX12908-arduino.git|Contributed|PI3EQX12908A2
 https://github.com/2taras/espwifiarduino_ide_lib.git|Contributed|espwifiarduino
