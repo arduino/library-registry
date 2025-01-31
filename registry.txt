@@ -7835,3 +7835,4 @@ https://github.com/malarz-supla/ClosedCube_SHT31D_Arduino.git|Contributed|Closed
 https://github.com/khaledHamidi/qlink.git|Contributed|Qlink
 https://github.com/adafruit/Adafruit_LPS28.git|Recommended|Adafruit LPS28
 https://github.com/pmarques-dev/PicoHM01B0.git|Contributed|PicoHM01B0
+https://github.com/wallysalami/BarcodeGFX.git|Contributed|BarcodeGFX
