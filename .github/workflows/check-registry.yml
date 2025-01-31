@@ -44,5 +44,8 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           version: 3.x
 
+      - name: Install library-repository-engine
+        run: go install github.com/arduino/libraries-repository-engine@latest
+
       - name: Validate registry data file
         run: task registry:validate
