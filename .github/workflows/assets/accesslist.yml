@@ -1,0 +1,46 @@
+# Access control for the Arduino Library Manager registry.
+# This file is used by https://github.com/arduino/library-registry-submission-parser, via the "Manage PRs" workflow.
+
+# Allowlist
+- host: github.com
+  name: per1234
+  access: allow
+  reference:
+
+# Denylist
+- host: github.com
+  name: 7Semi
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
+- host: github.com
+  name: ajangrahmat
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
+- host: github.com
+  name: brincode
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/4460#issuecomment-2589062464
+- host: github.com
+  name: DefHam140
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5265#issuecomment-2589039572
+- host: github.com
+  name: ErlTechnologies
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/4873#issuecomment-2589138298
+- host: github.com
+  name: kelasrobot
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
+- host: github.com
+  name: Subodh-roy2
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/4422#issuecomment-2589051618
+- host: github.com
+  name: vpbharath
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/4873#issuecomment-2589138298
+- host: github.com
+  name: YoavPaz
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5741#issuecomment-2589016403
