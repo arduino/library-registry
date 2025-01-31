@@ -2836,6 +2836,7 @@ https://github.com/hasenradball/LCD-I2C
 https://github.com/hasenradball/NINA-Wi-Fi
 https://github.com/he0119/arduino-miio
 https://github.com/hectorespert/SolarCharger
+https://github.com/sensebox/rg15-arduino-lib/
 https://github.com/hedrickbt/MillaMilla_DS7505_Library
 https://github.com/heiloworodl/StepMotor4windings
 https://github.com/heisenware/arduino-vrpc
