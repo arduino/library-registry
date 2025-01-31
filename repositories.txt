@@ -3622,7 +3622,7 @@ https://github.com/KROIA/L298N_MotorDriver
 https://github.com/krpc/krpc-arduino
 https://github.com/krzychb/DimSwitch
 https://github.com/krzychb/EspSaveCrash
-https://github.com/ktauchathuranga/MorseEncoder
+https://github.com/ktauchathuranga/morse-encoder
 https://github.com/ktsai69/Vishay_VCNL4200
 https://github.com/KuangLei/fDigitsSegtPin
 https://github.com/kulbhushanchand/MCP4251
