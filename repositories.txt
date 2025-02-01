@@ -1,3 +1,4 @@
+https://github.com/JagritThukral/ubidots-mqtt-esp32/
 https://github.com/wallysalami/BarcodeGFX
 https://github.com/roncoa/SimRacingController
 https://github.com/KiselevIvan/kidLibrary
