@@ -7837,3 +7837,4 @@ https://github.com/adafruit/Adafruit_LPS28.git|Recommended|Adafruit LPS28
 https://github.com/pmarques-dev/PicoHM01B0.git|Contributed|PicoHM01B0
 https://github.com/wallysalami/BarcodeGFX.git|Contributed|BarcodeGFX
 https://github.com/JagritThukral/ubidots-mqtt-esp32.git|Contributed|Ubidots MQTT for ESP32 and ESP8266
+https://github.com/CMB27/QwiicUART-Library.git|Contributed|QwiicUART Library
