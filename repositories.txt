@@ -7743,3 +7743,4 @@ https://github.com/khaledHamidi/qlink
 https://github.com/CMB27/QwiicUART-Library
 https://github.com/alayander/tlc59116
 https://github.com/leezisheng/SerialServo
+https://github.com/Stutchbury/EncoderAdapter
