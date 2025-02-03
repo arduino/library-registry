@@ -7840,3 +7840,4 @@ https://github.com/JagritThukral/ubidots-mqtt-esp32.git|Contributed|Ubidots MQTT
 https://github.com/CMB27/QwiicUART-Library.git|Contributed|QwiicUART Library
 https://github.com/gicking/LIN_slave_portable_Arduino.git|Contributed|LIN slave portable
 https://github.com/alayander/tlc59116.git|Contributed|TLC59116
+https://github.com/leezisheng/SerialServo.git|Contributed|SerialServo
