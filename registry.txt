@@ -7842,3 +7842,4 @@ https://github.com/gicking/LIN_slave_portable_Arduino.git|Contributed|LIN slave 
 https://github.com/alayander/tlc59116.git|Contributed|TLC59116
 https://github.com/leezisheng/SerialServo.git|Contributed|SerialServo
 https://github.com/Stutchbury/EncoderAdapter.git|Contributed|EncoderAdapter
+https://github.com/GyverLibs/GyverMIDI.git|Contributed|GyverMIDI
