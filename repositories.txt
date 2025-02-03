@@ -5292,7 +5292,9 @@ https://github.com/Robertndrei/SCD30-Modbus
 https://github.com/robertsallent/arduino_flanco
 https://github.com/robgmsn/PureDigit
 https://github.com/Robo-Wunderkind/RoboWunduino
+https://github.com/RoboCore/RoboCore_BRIICK_Encoder
 https://github.com/RoboCore/RoboCore_BRIICK_Keypad
+https://github.com/RoboCore/RoboCore_BRIICK_TRIAC
 https://github.com/RoboCore/RoboCore_MMA8452Q
 https://github.com/RoboCore/RoboCore_Rocky
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0
