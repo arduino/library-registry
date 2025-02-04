@@ -7846,3 +7846,4 @@ https://github.com/GyverLibs/GyverMIDI.git|Contributed|GyverMIDI
 https://github.com/patrickwasp/tf03k.git|Contributed|TF03K
 https://github.com/RoboCore/RoboCore_BRIICK_Encoder.git|Contributed|RoboCore - BRIICK Encoder
 https://github.com/RoboCore/RoboCore_BRIICK_TRIAC.git|Contributed|RoboCore - BRIICK TRIAC
+https://github.com/totemmaker/TotemRoboboard.git|Contributed|Totem Roboboard
