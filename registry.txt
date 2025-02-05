@@ -7565,7 +7565,7 @@ https://github.com/canusorn/CynoIOT.git|Contributed|CynoIOT
 https://github.com/biomurph/GrayCode.git|Contributed|GrayCode
 https://github.com/UltiBlox/DisplayValueNull.git|Contributed|UltiBlox-DisplayValueNull
 https://github.com/VanSilver/LCD595.git|Contributed|LCD595
-https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2.git|Contributed|YDLidar
+https://github.com/Hyperion-Robotics/YDLiDaR_GS2.git|Contributed|YDLidar
 https://github.com/RobTillaart/AD8495.git|Contributed|AD8495
 https://github.com/GitCoyote/solarfunctions.git|Contributed|solarfunctions
 https://github.com/Production3000/mvp3000esp.git|Contributed|MVP3000esp
