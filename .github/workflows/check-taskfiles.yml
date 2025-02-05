@@ -38,8 +38,8 @@ jobs:
         id: download-schema
         uses: carlosperate/download-file-action@v2
         with:
-          # See: https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/taskfile.json
-          file-url: https://json.schemastore.org/taskfile.json
+          # Source: https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/taskfile.json
+          file-url: https://taskfile.dev/schema.json
           location: ${{ runner.temp }}/taskfile-schema
 
       - name: Install JSON schema validator
