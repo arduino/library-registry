@@ -7851,3 +7851,4 @@ https://github.com/Neurotech-Hub/Hublink-Node.git|Contributed|Hublink-Node
 https://github.com/Neurotech-Hub/Hublink-BEAM.git|Contributed|Hublink BEAM
 https://github.com/DigitalFuturesOCADU/TinyFilmFestival.git|Contributed|TinyFilmFestival
 https://github.com/sensebox/rg15-arduino-lib.git|Contributed|RG15-Arduino
+https://github.com/qqqlab/GPS-uBlox.git|Contributed|GPS-uBlox
