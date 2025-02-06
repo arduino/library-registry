@@ -1,3 +1,4 @@
+https://github.com/roncoa/StringEEPROM
 https://github.com/sstaub/IDToolsPico
 https://github.com/sstaub/LCD-HD44780
 https://github.com/sstaub/LCD-I2C-HD44780
