@@ -7759,3 +7759,4 @@ https://github.com/Stutchbury/EncoderAdapter
 https://github.com/patrickwasp/tf03k
 https://github.com/DigitalFuturesOCADU/TinyFilmFestival
 https://github.com/MarineAppliedResearch/Naviguider_Compass_I2C
+https://github.com/kotwatthana/TimerOne_V2
