@@ -7853,3 +7853,5 @@ https://github.com/DigitalFuturesOCADU/TinyFilmFestival.git|Contributed|TinyFilm
 https://github.com/sensebox/rg15-arduino-lib.git|Contributed|RG15-Arduino
 https://github.com/qqqlab/GPS-uBlox.git|Contributed|GPS-uBlox
 https://github.com/MarineAppliedResearch/Naviguider_Compass_I2C.git|Contributed|Naviguider_Compass_I2C
+https://github.com/sstaub/LCD-HD44780.git|Contributed|LCD-HD44780
+https://github.com/sstaub/LCD-I2C-HD44780.git|Contributed|LCD-I2C-HD44780
