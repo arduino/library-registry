@@ -5469,6 +5469,7 @@ https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
 https://github.com/RobTillaart/I2C_LCD
 https://github.com/RobTillaart/I2C_SCANNER
+https://github.com/RobTillaart/I2C_SOFTRESET
 https://github.com/RobTillaart/I2CKeyPad
 https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/IEEE754tools
