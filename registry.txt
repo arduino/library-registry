@@ -7859,3 +7859,4 @@ https://github.com/sstaub/IDToolsPico.git|Contributed|IDToolsPico
 https://github.com/roncoa/StringEEPROM.git|Contributed|StringEEPROM
 https://github.com/nextgentech-512/Single-Wire-Data-Bus.git|Contributed|SingleWireDataBus
 https://github.com/RobTillaart/I2C_SOFTRESET.git|Contributed|I2C_SOFTRESET
+https://github.com/johnosbb/hx1838decoder.git|Contributed|hx1838decoder
