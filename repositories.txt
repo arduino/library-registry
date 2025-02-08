@@ -7765,3 +7765,5 @@ https://github.com/DigitalFuturesOCADU/TinyFilmFestival
 https://github.com/MarineAppliedResearch/Naviguider_Compass_I2C
 https://github.com/johnosbb/hx1838decoder
 https://github.com/RyLeeHarrison/EventEmitter
+https://github.com/CMB27/ModbusTCPComm
+https://github.com/CMB27/ModbusTCPSlave
