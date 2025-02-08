@@ -7862,3 +7862,4 @@ https://github.com/RobTillaart/I2C_SOFTRESET.git|Contributed|I2C_SOFTRESET
 https://github.com/johnosbb/hx1838decoder.git|Contributed|hx1838decoder
 https://github.com/a-saab/PrayerTimes.git|Contributed|PrayerTimes
 https://github.com/RyLeeHarrison/EventEmitter.git|Contributed|EventEmitter
+https://github.com/janscience/MicroConfig.git|Contributed|MicroConfig
