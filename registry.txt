@@ -7865,3 +7865,4 @@ https://github.com/RyLeeHarrison/EventEmitter.git|Contributed|EventEmitter
 https://github.com/janscience/MicroConfig.git|Contributed|MicroConfig
 https://github.com/CMB27/ModbusTCPComm.git|Contributed|ModbusTCPComm
 https://github.com/CMB27/ModbusTCPSlave.git|Contributed|ModbusTCPSlave
+https://github.com/RobTillaart/OUTPIN.git|Contributed|OUTPIN
