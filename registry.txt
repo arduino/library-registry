@@ -7866,3 +7866,4 @@ https://github.com/janscience/MicroConfig.git|Contributed|MicroConfig
 https://github.com/CMB27/ModbusTCPComm.git|Contributed|ModbusTCPComm
 https://github.com/CMB27/ModbusTCPSlave.git|Contributed|ModbusTCPSlave
 https://github.com/RobTillaart/OUTPIN.git|Contributed|OUTPIN
+https://github.com/AryanBhirud/BitFlash_Client.git|Contributed|BitFlash_Client
