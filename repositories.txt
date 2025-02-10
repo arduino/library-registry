@@ -7769,3 +7769,4 @@ https://github.com/johnosbb/hx1838decoder
 https://github.com/RyLeeHarrison/EventEmitter
 https://github.com/CMB27/ModbusTCPComm
 https://github.com/CMB27/ModbusTCPSlave
+https://github.com/sauloverissimo/ESP32_Host_MIDI
