@@ -1,5 +1,4 @@
 https://github.com/VanSilver/ShiftRegisterPWM595
-https://github.com/VanSilver/LCD595
 https://github.com/AryanBhirud/BitFlash_Client
 https://github.com/a-saab/PrayerTimes
 https://github.com/nextgentech-512/Single-Wire-Data-Bus
@@ -81,6 +80,7 @@ https://github.com/blasilli/GBALib_UltrasonicSensor
 https://github.com/henriberisha/EasyEspNow
 https://github.com/fabricioitajuba/Internal_eeprom
 https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
+https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
 https://github.com/arielzw/DPS-Power-Supply
 https://github.com/cheerlights/cheerlights-arduino-library
