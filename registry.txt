@@ -7869,3 +7869,4 @@ https://github.com/RobTillaart/OUTPIN.git|Contributed|OUTPIN
 https://github.com/AryanBhirud/BitFlash_Client.git|Contributed|BitFlash_Client
 https://github.com/sauloverissimo/ESP32_Host_MIDI.git|Contributed|ESP32_Host_MIDI
 https://github.com/macFanDave/GigaDAQ.git|Contributed|GigaDAQ
+https://github.com/VanSilver/ShiftRegisterPWM595.git|Contributed|ShiftRegisterPWM595
