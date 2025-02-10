@@ -1,3 +1,4 @@
+https://github.com/VanSilver/ShiftRegisterPWM595
 https://github.com/AryanBhirud/BitFlash_Client
 https://github.com/a-saab/PrayerTimes
 https://github.com/nextgentech-512/Single-Wire-Data-Bus
