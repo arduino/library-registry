@@ -7867,3 +7867,4 @@ https://github.com/CMB27/ModbusTCPComm.git|Contributed|ModbusTCPComm
 https://github.com/CMB27/ModbusTCPSlave.git|Contributed|ModbusTCPSlave
 https://github.com/RobTillaart/OUTPIN.git|Contributed|OUTPIN
 https://github.com/AryanBhirud/BitFlash_Client.git|Contributed|BitFlash_Client
+https://github.com/sauloverissimo/ESP32_Host_MIDI.git|Contributed|ESP32_Host_MIDI
