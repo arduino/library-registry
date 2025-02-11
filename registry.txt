@@ -7872,3 +7872,4 @@ https://github.com/macFanDave/GigaDAQ.git|Contributed|GigaDAQ
 https://github.com/VanSilver/ShiftRegisterPWM595.git|Contributed|ShiftRegisterPWM595
 https://github.com/RobTillaart/ERCFS.git|Contributed|ERCFS
 https://github.com/RobTillaart/AD7367_SPI.git|Contributed|AD7367_SPI
+https://github.com/msilveus/SimpleQueue.git|Contributed|SimpleQueue
