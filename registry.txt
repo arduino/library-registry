@@ -7874,3 +7874,4 @@ https://github.com/RobTillaart/ERCFS.git|Contributed|ERCFS
 https://github.com/RobTillaart/AD7367_SPI.git|Contributed|AD7367_SPI
 https://github.com/msilveus/SimpleQueue.git|Contributed|SimpleQueue
 https://github.com/m5stack/M5Unit-THERMO.git|Contributed|M5Unit-THERMO
+https://github.com/m5stack/M5Unit-COLOR.git|Contributed|M5Unit-COLOR
