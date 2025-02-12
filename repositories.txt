@@ -7,6 +7,7 @@ https://github.com/sstaub/IDToolsPico
 https://github.com/sstaub/LCD-HD44780
 https://github.com/sstaub/LCD-I2C-HD44780
 https://github.com/Neurotech-Hub/Hublink-Node
+https://github.com/adityasharma-tech/grafik-logger
 https://github.com/Neurotech-Hub/Hublink-BEAM
 https://github.com/JagritThukral/ubidots-mqtt-esp32/
 https://github.com/wallysalami/BarcodeGFX
