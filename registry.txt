@@ -7877,3 +7877,4 @@ https://github.com/m5stack/M5Unit-THERMO.git|Contributed|M5Unit-THERMO
 https://github.com/m5stack/M5Unit-COLOR.git|Contributed|M5Unit-COLOR
 https://github.com/m5stack/M5Unit-ANADIG.git|Contributed|M5Unit-ANADIG
 https://github.com/fededc88/AS5040.git|Contributed|AS5040
+https://github.com/Bendeguz-Cs/Rotary_encoder.git|Contributed|Rotary_encoder
