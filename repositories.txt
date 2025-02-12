@@ -90,6 +90,7 @@ https://github.com/jjlondonoc/MCP4132-Arduino-Library
 https://github.com/MiguelLoureiro98/LM35IC
 https://github.com/MiguelLoureiro98/TimeSeries
 https://github.com/m5stack/M5Unit-TOF
+https://github.com/m5stack/M5Unit-COLOR
 https://github.com/m5stack/M5Unit-WEIGHT
 https://github.com/blasilli/GBALib_Wave
 https://github.com/modspi/MODSPI_Modules
