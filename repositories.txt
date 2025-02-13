@@ -5232,7 +5232,7 @@ https://github.com/rgot-org/EzLoRaWAN
 https://github.com/rgot-org/EzLoRaWAN_BLE
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
-https://github.com/rhrhhrhr/MPC_ruih
+https://github.com/rui-huang-opt/MPC_ruih
 https://github.com/ricardoquesada/bluepad32-arduino
 https://github.com/ricaun/ArduinoUniqueID
 https://github.com/ricaun/LoRaNow
