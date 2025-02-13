@@ -5563,6 +5563,7 @@ https://github.com/RobTillaart/PCF8574
 https://github.com/RobTillaart/PCF8575
 https://github.com/RobTillaart/PCF8591
 https://github.com/RobTillaart/PCR
+https://github.com/RobTillaart/PCT2075
 https://github.com/RobTillaart/PERIPUMP
 https://github.com/RobTillaart/PID_RT
 https://github.com/RobTillaart/PinInGroup
