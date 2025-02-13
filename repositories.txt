@@ -1,4 +1,5 @@
 https://github.com/Bendeguz-Cs/Rotary_encoder
+https://github.com/srinjaycode/VoltLora
 https://github.com/VanSilver/ShiftRegisterPWM595
 https://github.com/AryanBhirud/BitFlash_Client
 https://github.com/a-saab/PrayerTimes
