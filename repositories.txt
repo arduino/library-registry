@@ -7780,3 +7780,5 @@ https://github.com/sauloverissimo/ESP32_Host_MIDI
 https://github.com/macFanDave/GigaDAQ
 https://github.com/msilveus/SimpleQueue
 https://github.com/fededc88/AS5040
+https://github.com/codezoo-ltd/arduino-ME310G1-library
+https://github.com/codezoo-ltd/arduino-ME310G1-tlt-library
