@@ -7879,3 +7879,5 @@ https://github.com/m5stack/M5Unit-ANADIG.git|Contributed|M5Unit-ANADIG
 https://github.com/fededc88/AS5040.git|Contributed|AS5040
 https://github.com/Bendeguz-Cs/Rotary_encoder.git|Contributed|Rotary_encoder
 https://github.com/adityasharma-tech/grafik-serial.git|Contributed|GrafikLogger
+https://github.com/codezoo-ltd/arduino-ME310G1-library.git|Contributed|ME310G1
+https://github.com/codezoo-ltd/arduino-ME310G1-tlt-library.git|Contributed|TLT
