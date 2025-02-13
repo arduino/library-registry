@@ -7884,3 +7884,4 @@ https://github.com/codezoo-ltd/arduino-ME310G1-tlt-library.git|Contributed|TLT
 https://github.com/RobTillaart/PCT2075.git|Contributed|PCT2075
 https://github.com/asukiaaa/arduino-MotorDMKB4.git|Contributed|MotorDMKB4_asukiaaa
 https://github.com/RobTillaart/DAC53001.git|Contributed|DAC53001
+https://github.com/srinjaycode/VoltLora.git|Contributed|VoltLora
