@@ -7881,3 +7881,4 @@ https://github.com/Bendeguz-Cs/Rotary_encoder.git|Contributed|Rotary_encoder
 https://github.com/adityasharma-tech/grafik-serial.git|Contributed|GrafikLogger
 https://github.com/codezoo-ltd/arduino-ME310G1-library.git|Contributed|ME310G1
 https://github.com/codezoo-ltd/arduino-ME310G1-tlt-library.git|Contributed|TLT
+https://github.com/RobTillaart/PCT2075.git|Contributed|PCT2075
