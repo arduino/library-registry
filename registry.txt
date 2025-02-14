@@ -6022,7 +6022,6 @@ https://github.com/DIYables/DIYables_IRcontroller.git|Contributed|DIYables_IRcon
 https://github.com/stm32duino/X-NUCLEO-53L8A1.git|Contributed|STM32duino X-NUCLEO-53L8A1
 https://github.com/sparkfun/SparkFun_LSM6DSV16X_Arduino_Library.git|Contributed|SparkFun 6DoF LSM6DSV16X
 https://github.com/Infineon/arduino-xensiv-dps3xx.git|Contributed|XENSIV Digital Pressure Sensor
-https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY.git|Contributed|PDLS_EXT3_Basic_BWRY
 https://github.com/skyfroger/RPlatform.git|Contributed|RPlatform
 https://github.com/cyijun/ESP32MQTTClient.git|Contributed|ESP32MQTTClient
 https://github.com/mcci-catena/SoftwareSerial.git|Contributed|MCCI SofwareSerial
