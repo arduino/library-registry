@@ -1,4 +1,5 @@
 https://github.com/Bendeguz-Cs/Rotary_encoder
+https://github.com/srinjaycode/VoltLora
 https://github.com/VanSilver/ShiftRegisterPWM595
 https://github.com/AryanBhirud/BitFlash_Client
 https://github.com/a-saab/PrayerTimes
@@ -3907,6 +3908,7 @@ https://github.com/m2m-solutions/M2M_MiraOne
 https://github.com/m2m-solutions/M2M_Quectel
 https://github.com/m2m-solutions/M2M_TLV
 https://github.com/m516/TinyMatrixMath
+https://github.com/m5stack/M5Unit-ASR
 https://github.com/m5stack/M5DinMeter
 https://github.com/m5stack/M5Unit-WeightI2C
 https://github.com/m5stack/M5Unit-ANADIG
@@ -5207,6 +5209,8 @@ https://github.com/rei-vilo/PDLS_Basic
 https://github.com/PervasiveDisplays/Pervasive_Wide_Medium
 https://github.com/PervasiveDisplays/Pervasive_Wide_Small
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Small
+https://github.com/PervasiveDisplays/Pervasive_Wide_Large
+https://github.com/PervasiveDisplays/Pervasive_Touch_Small
 https://github.com/reiniiriarios/arduino-mqtt-looped
 https://github.com/remicaumette/esp8266-redis
 https://github.com/remocons/boho-arduino
@@ -5423,6 +5427,7 @@ https://github.com/RobTillaart/DAC8554
 https://github.com/RobTillaart/DAC8560
 https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/DAC8574
+https://github.com/RobTillaart/DAC53001
 https://github.com/RobTillaart/dateTimeHelpers
 https://github.com/RobTillaart/DEVFULL
 https://github.com/RobTillaart/DEVNULL
@@ -7785,3 +7790,5 @@ https://github.com/msilveus/SimpleQueue
 https://github.com/fededc88/AS5040
 https://github.com/codezoo-ltd/arduino-ME310G1-library
 https://github.com/codezoo-ltd/arduino-ME310G1-tlt-library
+https://github.com/braydenanderson2014/Optional
+https://github.com/braydenanderson2014/Variant
