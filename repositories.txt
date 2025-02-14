@@ -7787,3 +7787,4 @@ https://github.com/msilveus/SimpleQueue
 https://github.com/fededc88/AS5040
 https://github.com/codezoo-ltd/arduino-ME310G1-library
 https://github.com/codezoo-ltd/arduino-ME310G1-tlt-library
+https://github.com/braydenanderson2014/Optional
