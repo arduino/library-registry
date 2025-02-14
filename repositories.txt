@@ -1,3 +1,4 @@
+https://github.com/Stutchbury/TouchScreenAdapter
 https://github.com/Bendeguz-Cs/Rotary_encoder
 https://github.com/srinjaycode/VoltLora
 https://github.com/VanSilver/ShiftRegisterPWM595
