@@ -7585,7 +7585,6 @@ https://github.com/jlopezr/arduino-yl800n.git|Contributed|YL-800N
 https://github.com/RobTillaart/DAC8574.git|Contributed|DAC8574
 https://github.com/sparkfun/SparkFun_LG290P_GNSS_Arduino_Library.git|Contributed|SparkFun LG290P Quadband RTK GNSS Arduino Library
 https://github.com/arduino-libraries/Arduino_10BASE_T1S.git|Arduino|Arduino_10BASE_T1S
-https://github.com/rei-vilo/PDLS_EXT3_Basic_Wide.git|Contributed|PDLS_EXT3_Basic_Wide
 https://github.com/gooddisplayshare/ESP32epd.git|Contributed|ESP32epd
 https://github.com/lautisilber/SmartComm.git|Contributed|SmartComm
 https://github.com/henriberisha/EasyEspNow.git|Contributed|EasyEspNow
