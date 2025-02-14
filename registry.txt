@@ -7887,3 +7887,5 @@ https://github.com/RobTillaart/DAC53001.git|Contributed|DAC53001
 https://github.com/srinjaycode/VoltLora.git|Contributed|VoltLora
 https://github.com/braydenanderson2014/Optional.git|Contributed|Optional
 https://github.com/braydenanderson2014/Variant.git|Contributed|Variant
+https://github.com/PervasiveDisplays/Pervasive_Wide_Large.git|Contributed|Pervasive_Wide_Large
+https://github.com/PervasiveDisplays/Pervasive_Touch_Small.git|Contributed|Pervasive_Touch_Small
