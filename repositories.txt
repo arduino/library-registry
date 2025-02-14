@@ -5208,6 +5208,8 @@ https://github.com/rei-vilo/PDLS_Basic
 https://github.com/PervasiveDisplays/Pervasive_Wide_Medium
 https://github.com/PervasiveDisplays/Pervasive_Wide_Small
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Small
+https://github.com/PervasiveDisplays/Pervasive_Wide_Large
+https://github.com/PervasiveDisplays/Pervasive_Touch_Small
 https://github.com/reiniiriarios/arduino-mqtt-looped
 https://github.com/remicaumette/esp8266-redis
 https://github.com/remocons/boho-arduino
