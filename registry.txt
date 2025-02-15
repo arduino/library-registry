@@ -7891,3 +7891,4 @@ https://github.com/PervasiveDisplays/Pervasive_Wide_Large.git|Contributed|Pervas
 https://github.com/PervasiveDisplays/Pervasive_Touch_Small.git|Contributed|Pervasive_Touch_Small
 https://github.com/m5stack/M5Unit-ASR.git|Contributed|M5UnitASR
 https://github.com/Stutchbury/TouchScreenAdapter.git|Contributed|TouchScreenAdapter
+https://github.com/adafruit/Adafruit_DACX578.git|Recommended|Adafruit DAC7578 Library
