@@ -5397,6 +5397,7 @@ https://github.com/RobTillaart/AGS3871
 https://github.com/RobTillaart/AM2315
 https://github.com/RobTillaart/AM2315C
 https://github.com/RobTillaart/AM232X
+https://github.com/RobTillaart/AMT25
 https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
 https://github.com/RobTillaart/AnalogUVSensor
