@@ -7797,3 +7797,4 @@ https://github.com/braydenanderson2014/Optional
 https://github.com/braydenanderson2014/Variant
 https://github.com/4project-co-il/EBF
 https://github.com/pk17r/TouchscreenResistive
+https://github.com/mrrwa/SFR_Reader
