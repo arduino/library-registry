@@ -7899,3 +7899,4 @@ https://github.com/mrrwa/SFR_Reader.git|Contributed|SFR_Reader
 https://github.com/ArtronShop/ArtronShop_LineMessaging.git|Contributed|ArtronShop_LineMessaging
 https://github.com/boerge1/rfid.git|Contributed|MFRC522_fix
 https://github.com/yunussandikci/ArduinoMessageBus.git|Contributed|MessageBus
+https://bitbucket.org/mgf_ryan/smartsystem.git|Contributed|SmartSystem
