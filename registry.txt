@@ -7897,3 +7897,4 @@ https://github.com/RobTillaart/AMT25.git|Contributed|AMT25
 https://github.com/pk17r/TouchscreenResistive.git|Contributed|TouchscreenResistive
 https://github.com/mrrwa/SFR_Reader.git|Contributed|SFR_Reader
 https://github.com/ArtronShop/ArtronShop_LineMessaging.git|Contributed|ArtronShop_LineMessaging
+https://github.com/boerge1/rfid.git|Contributed|MFRC522_fix
