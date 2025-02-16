@@ -7895,3 +7895,4 @@ https://github.com/adafruit/Adafruit_DACX578.git|Recommended|Adafruit DAC7578 Li
 https://github.com/4project-co-il/EBF.git|Contributed|EventBasedFramework
 https://github.com/RobTillaart/AMT25.git|Contributed|AMT25
 https://github.com/pk17r/TouchscreenResistive.git|Contributed|TouchscreenResistive
+https://github.com/mrrwa/SFR_Reader.git|Contributed|SFR_Reader
