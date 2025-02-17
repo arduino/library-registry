@@ -7903,3 +7903,4 @@ https://bitbucket.org/mgf_ryan/smartsystem.git|Contributed|SmartSystem
 https://github.com/SequentMicrosystems/Sequent-8crt-Library.git|Contributed|SM_8CRT
 https://github.com/mvader2/AD5252.git|Contributed|AD5252
 https://github.com/RobTillaart/PCF85263.git|Contributed|PCF85263
+https://github.com/hmueller01/pubsubclient3.git|Contributed|PubSubClient3
