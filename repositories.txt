@@ -5572,6 +5572,7 @@ https://github.com/RobTillaart/PCA9698_RT
 https://github.com/RobTillaart/PCF8574
 https://github.com/RobTillaart/PCF8575
 https://github.com/RobTillaart/PCF8591
+https://github.com/RobTillaart/PCF85263
 https://github.com/RobTillaart/PCR
 https://github.com/RobTillaart/PCT2075
 https://github.com/RobTillaart/PERIPUMP
