@@ -7802,3 +7802,4 @@ https://github.com/ArtronShop/ArtronShop_LineMessaging
 https://github.com/boerge1/rfid
 https://github.com/yunussandikci/ArduinoMessageBus
 https://bitbucket.org/mgf_ryan/smartsystem
+https://github.com/SequentMicrosystems/Sequent-8crt-Library
