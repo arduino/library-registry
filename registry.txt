@@ -7901,3 +7901,4 @@ https://github.com/boerge1/rfid.git|Contributed|MFRC522_fix
 https://github.com/yunussandikci/ArduinoMessageBus.git|Contributed|MessageBus
 https://bitbucket.org/mgf_ryan/smartsystem.git|Contributed|SmartSystem
 https://github.com/SequentMicrosystems/Sequent-8crt-Library.git|Contributed|SM_8CRT
+https://github.com/mvader2/AD5252.git|Contributed|AD5252
