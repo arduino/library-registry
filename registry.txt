@@ -7905,3 +7905,4 @@ https://github.com/mvader2/AD5252.git|Contributed|AD5252
 https://github.com/RobTillaart/PCF85263.git|Contributed|PCF85263
 https://github.com/hmueller01/pubsubclient3.git|Contributed|PubSubClient3
 https://github.com/dac1e/RtcDueRcf.git|Contributed|RtcDueRcf
+https://github.com/CIRCUITSTATE/CSE_CST328.git|Contributed|CIRCUITSTATE CST328 Library
