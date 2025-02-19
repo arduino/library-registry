@@ -7811,3 +7811,4 @@ https://github.com/SequentMicrosystems/Sequent-8crt-Library
 https://github.com/dac1e/RtcDueRcf
 https://github.com/4211421036/fnn
 https://github.com/4211421036/gsr-arduino
+https://github.com/4211421036/IoTModule
