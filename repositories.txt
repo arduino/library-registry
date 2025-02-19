@@ -7809,4 +7809,4 @@ https://github.com/yunussandikci/ArduinoMessageBus
 https://bitbucket.org/mgf_ryan/smartsystem
 https://github.com/SequentMicrosystems/Sequent-8crt-Library
 https://github.com/dac1e/RtcDueRcf
-https://github.com/4211421036/fnn-arduino
+https://github.com/4211421036/fnn
