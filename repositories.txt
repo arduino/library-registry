@@ -1,3 +1,6 @@
+https://github.com/CIRCUITSTATE/CSE_CST328
+https://github.com/hmueller01/pubsubclient3
+https://github.com/mvader2/AD5252
 https://github.com/Stutchbury/TouchScreenAdapter
 https://github.com/Bendeguz-Cs/Rotary_encoder
 https://github.com/srinjaycode/VoltLora
@@ -6,6 +9,7 @@ https://github.com/AryanBhirud/BitFlash_Client
 https://github.com/a-saab/PrayerTimes
 https://github.com/nextgentech-512/Single-Wire-Data-Bus
 https://github.com/roncoa/StringEEPROM
+https://github.com/snowhalationmkii/BS811X_I2C
 https://github.com/sstaub/IDToolsPico
 https://github.com/sstaub/LCD-HD44780
 https://github.com/sstaub/LCD-I2C-HD44780
@@ -5568,6 +5572,7 @@ https://github.com/RobTillaart/PCA9698_RT
 https://github.com/RobTillaart/PCF8574
 https://github.com/RobTillaart/PCF8575
 https://github.com/RobTillaart/PCF8591
+https://github.com/RobTillaart/PCF85263
 https://github.com/RobTillaart/PCR
 https://github.com/RobTillaart/PCT2075
 https://github.com/RobTillaart/PERIPUMP
@@ -7799,3 +7804,5 @@ https://github.com/ArtronShop/ArtronShop_LineMessaging
 https://github.com/boerge1/rfid
 https://github.com/yunussandikci/ArduinoMessageBus
 https://bitbucket.org/mgf_ryan/smartsystem
+https://github.com/SequentMicrosystems/Sequent-8crt-Library
+https://github.com/dac1e/RtcDueRcf
