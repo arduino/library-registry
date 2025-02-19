@@ -1,139 +1,344 @@
-# Arduino Library Manager list
-
-This repository contains the list of libraries in the
-[Arduino Library Manager](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager) index.
+# FNN (Fuzzy Neural Network) Module Documentation
 
 ## Table of Contents
+1. [Overview](#overview)
+2. [Core Components](#core-components)
+3. [Mathematical Foundation](#mathematical-foundation)
+4. [Class Reference](#class-reference)
+5. [Activation Functions](#activation-functions)
+6. [Training Method](#training-methods)
+7. [Evaluation Metrics](#evaluation-metrics)
+8. [Implementation Guide](#implementation-guide)
+9. [Example Usage](#example-usage)
 
-<!-- toc -->
+## Overview
+The FNN (Fuzzy Neural Network) module implements a hybrid intelligent system that combines neural networks with fuzzy logic principles. This implementation is specifically optimized for Arduino platforms, providing efficient computation while maintaining prediction accuracy.
 
-- [Frequently asked questions](#frequently-asked-questions)
-- [Adding a library to Library Manager](#adding-a-library-to-library-manager)
-  - [Instructions](#instructions)
-    - [If the problem is with the pull request:](#if-the-problem-is-with-the-pull-request)
-    - [If the problem is with the library:](#if-the-problem-is-with-the-library)
-- [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
-- [Removing a library from Library Manager](#removing-a-library-from-library-manager)
-- [Report a problem with Library Manager](#report-a-problem-with-library-manager)
-- [Security & Malware Reporting](#security--malware-reporting)
+## Core Components
 
-<!-- tocstop -->
+### Class Structure
+```cpp
+class FNN {
+private:
+    std::vector<std::vector<float>> weights;    // Layer weights
+    std::vector<float> biases;                  // Layer biases
+    std::function<float(float)> activationFunction;  // Activation function
+    std::map<std::string, float> fuzzyRules;    // Fuzzy ruleset
+    ...
+}
+```
 
-## Frequently asked questions
+### Key Features
+- Multi-layer neural network architecture
+- Customizable activation functions
+- Integrated fuzzy rule system
+- Gradient descent-based training
+- Comprehensive evaluation metrics
 
-For more information about Arduino Library Manager and how the index is maintained, please see [the FAQ](FAQ.md).
+## Mathematical Foundation
 
-## Adding a library to Library Manager
+### 1. Network Architecture
 
-If you would like to make a library available for installation via Library Manager, just submit a
-[pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
-that adds the repository URL to [the list](repositories.txt). You are welcome to add multiple libraries at once.
+#### Input Layer
+- Accepts normalized input vectors
+- Dimension: `inputSize` (user-defined)
+- Data type: `std::vector<float>`
 
-See the instructions below for detailed instructions on how to do this via the GitHub web interface.
+#### Hidden Layer
+Computation formula:
 
-### Instructions
+$$
+h_j = f( \sum_{i=1}^{n} w_{ji} x_i + b_j)
+$$
 
----
+Where:
+- $h_j$: Hidden layer neuron output
+- $w_{ji}$: Connection weight
+- $x_i$: Input value
+- $b_j$: Bias term
+- $f$: Activation function
 
-⚠ If you behave irresponsibly in your interactions with this repository, your Library Manager Registry privileges will be revoked.
+#### Output Layer
+Final computation:
 
-Carefully read and follow the instructions in any comments the bot and human maintainers make on your pull requests. If you are having trouble following the instructions, add a comment that provides a detailed description of the problem you are having and a human maintainer will provide assistance.
+$$o = f( \sum_{j=1}^{m} w_j h_j + b_o)$$
 
-Although we have set up automation for the most basic tasks, this repository is maintained by humans. So behave in a manner appropriate for interacting with humans, including clearly communicating what you are hoping to accomplish.
+Parameters:
+- $h_j$: Hidden layer outputs
+- $w_j$: Output weights
+- $b_o$: Output bias
 
----
+### 2. Learning Process
 
-1. You may want to first take a look at
-   [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
-   compliance before being accepted.
-1. Click the following link:<br />
-   https://github.com/arduino/library-registry/fork<br />
-   The "**Create a new fork**" page will open.
-1. Click the <kbd>Create fork</kbd> button in the "**Create a new fork**" page.<br />
-   A "**Forking arduino/library-registry**" page will open while the fork is in the process of being created.
-1. Wait for the "Forking" process to finish.<br />
-   The home page of your [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) of the **library-registry** repository will open.
-1. Click on the file `repositories.txt` under the list of files you see in that page.<br />
-   The "**library-registry/repositories.txt**" page will open.
-1. Click the pencil icon ("Edit this file") at the right side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
-   The `repositories.txt` file will open in the online text editor.
-1. Add the library repository's URL to the list (it doesn't matter where in the list). This should be the URL of the repository home page. For example:
-   `https://github.com/arduino-libraries/Servo`
-1. Click the <kbd>Commit changes...</kbd> button located near the top right corner of the page.<br />
-   The "**Commit changes**" dialog will open.
-1. Click the <kbd>Commit changes</kbd> button in the "**Commit changes**" dialog.<br />
-   The "**library-registry/repositories.txt**" page will open.
-1. Click the "**library-registry**" link at the top of the "**library-registry/repositories.txt**" page.<br />
-   The home page of your fork of the **library-registry** repository will open.
-1. You should see a banner on the page that says:
+#### Loss Function (MSE)
 
-   > **This branch is 1 commit ahead of arduino:main.**
+$$
+L = \frac{1}{N} \sum_{i=1}^{N} (y_i - \hat{y}_i)^2
+$$
 
-   Click the "**Contribute**" link near the right side of that banner.<br />
-   A menu will open.
+Components:
+- $y_i$: Expected output
+- $\hat{y}_i$: Predicted output
+- $N$: Sample size
 
-1. Click the <kbd>Open pull request</kbd> button in the menu.<br />
-   The "**Open a pull request**" page will open.
-1. In the **"Open a pull request"** window that opens, click the <kbd>Create pull request</kbd> button.
+#### Weight Update Rule
 
-The library will be automatically checked for compliance as soon as the pull request is submitted. If no problems were
-found, the pull request will be immediately merged and the library will be available for installation via Library
-Manager within a day's time.
+$$
+w_{new} = w_{old} - \eta \frac{\partial L}{\partial w}
+$$
 
-If any problems are found, a bot will comment on the pull request to tell you what is wrong. The problem may be either
-with your pull request or with the library.
+Where:
+- $\eta$: Learning rate
+- $\frac{\partial L}{\partial w}$: Loss gradient
 
-#### If the problem is with the pull request:
+## Class Reference
 
-Edit the file in the
-[branch](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
-you submitted the pull request from in your fork of the `arduino/library-registry` repository, then commit.
+### Constructor
+```cpp
+FNN(int inputSize = 3, float bias = 0.1, std::function<float(float)> activation = nullptr)
+```
+Parameters:
+- `inputSize`: Number of input neurons
+- `bias`: Initial bias value
+- `activation`: Activation function (defaults to sigmoid)
 
-Doing this will update the pull request and cause the automated checks to run again.
+### Public Methods
 
-#### If the problem is with the library:
+#### `setWeights`
+```cpp
+void setWeights(const std::vector<float>& newWeights)
+```
+Purpose: Sets network layer weights
+Parameters:
+- `newWeights`: Vector of weight values
+Validation: Checks dimension compatibility
 
-1. Make the necessary fix in the library repository.
-1. Increment the `version` value in the library's
-   [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata).
-1. Create a
-   [release](https://docs.github.com/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
-   or [tag](https://git-scm.com/docs/git-tag). The Library Manager index always uses tagged versions of the libraries,
-   so even if the development version of the library is compliant, it can't be accepted until the latest release or tag
-   is compliant. Alternatively, you can redo the existing release/tag if you prefer.
-1. Comment on your pull request here in the `arduino/library-registry` repository, mentioning **@ArduinoBot** in the
-   comment. Doing this will cause the automated check to run again.
+#### `setBiases`
+```cpp
+void setBiases(const std::vector<float>& newBiases)
+```
+Purpose: Sets layer biases
+Parameters:
+- `newBiases`: Vector of bias values
+Validation: Verifies vector size
 
-## Changing the URL of a library already in Library Manager
+#### `setFuzzyRules`
+```cpp
+void setFuzzyRules(const std::map<std::string, float>& rules)
+```
+Purpose: Defines fuzzy classification rules
+Parameters:
+- `rules`: Map of linguistic terms to numeric values
 
-Submit a pull request that changes the URL as desired in [repositories.txt](repositories.txt). This can be done by
-following [the instructions above](#instructions).
+### Training Methods
 
-Since this type of request must be reviewed by a human maintainer, please write an explanation in the pull request
-description, making it clear that the URL is intentionally being changed.
+#### `train`
+```cpp
+void train(const std::vector<std::vector<float>>& inputs,
+          const std::vector<std::string>& targets,
+          int epochs = 100,
+          float learningRate = 0.01)
+```
+Purpose: Trains the network
+Parameters:
+- `inputs`: Training data matrix
+- `targets`: Expected outputs
+- `epochs`: Training iterations
+- `learningRate`: Learning rate
 
-## Removing a library from Library Manager
+## Activation Functions
 
-Submit a pull request that removes the URL from [repositories.txt](repositories.txt). This can be done by following
-[the instructions above](#instructions).
+### 1. Sigmoid
 
-Since this type of request must be reviewed by a human maintainer, please write an explanation in the pull request
-description, making it clear that the URL is intentionally being removed.
+$$
+\sigma(x) = \frac{1}{1 + e^{-x}}
+$$
 
-## Report a problem with Library Manager
+Implementation:
+```cpp
+static float sigmoid(float x) {
+    return 1.0 / (1.0 + exp(-x));
+}
+```
+Use case: General classification tasks
 
-First, please take a look at [the FAQ](FAQ.md). If a library release is missing from Library Manager, it is usually
-because it was not compliant with all [the requirements](FAQ.md#update-requirements) listed in that document.
+### 2. Hyperbolic Tangent
 
-This repository is not an appropriate place to request support or report problems with a library. Check the library's
-own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
+$$
+\tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}}
+$$
 
-If the problem is about something else, please submit an issue report [here](https://github.com/arduino/library-registry/issues/new/choose).
+Implementation:
+```cpp
+static float tanh(float x) {
+    return std::tanh(x);
+}
+```
+Use case: Normalized data ranges
 
-## Security & Malware Reporting
+### 3. Leaky ReLU
 
-If you think you found a vulnerability, malware or other security-related defect in any Arduino Library projects, please take a look at our security policy and report it to our Security Team 🛡️.
+$$
+f(x) = \begin{cases} x, & x > 0 \\ \alpha x, & x \leq 0 \end{cases}
+$$
 
-Thank you!
+Implementation:
+```cpp
+static std::function<float(float)> leakyRelu(float alpha = 0.01)
+```
+Use case: Deep networks, preventing dying ReLU
 
-E-mail contact: security@arduino.cc
+## Evaluation Metrics
+
+### Accuracy
+```cpp
+float evaluateAccuracy(const std::vector<std::vector<float>>& testInputs,
+                      const std::vector<std::string>& expectedOutputs)
+```
+Calculation:
+```
+accuracy = (correct_predictions / total_predictions) * 100
+```
+
+### Precision
+```cpp
+float evaluatePrecision(const std::vector<std::vector<float>>& testInputs,
+                       const std::vector<std::string>& expectedOutputs)
+```
+Calculation:
+```
+precision = (true_positives / (true_positives + false_positives)) * 100
+```
+
+## Implementation Guide
+
+### Basic Setup
+```cpp
+#include "fnn.h"
+
+FNN fnn(6);  // 6 input neurons
+```
+
+### Configuration
+```cpp
+// Weight initialization
+fnn.setWeights({0.3, 0.5, 0.2, 0.4, 0.1, 0.6});
+
+// Bias configuration
+fnn.setBiases({0.1, 0.2});
+
+// Activation function selection
+fnn.setActivationFunction(FNN::sigmoid);
+
+// Fuzzy rule definition
+fnn.setFuzzyRules({
+    {"Not Suitable", 0.0},
+    {"Low", 0.2},
+    {"High", 1.0}
+});
+```
+
+### Training Configuration
+```cpp
+// Training parameters
+int numEpochs = 1000;
+float learningRate = 0.01;
+
+// Training data format
+std::vector<std::vector<float>> trainingInputs = {
+    {4.5, 2.8, 0.9, 3.7, 3.1, 7.9},
+    {1.2, 0.6, 0.3, 0.5, 0.2, 0.7}
+};
+std::vector<std::string> trainingTargets = {"High", "Low"};
+```
+
+## Example Usage
+
+### Complete Arduino Implementation
+```cpp
+#include "fnn.h"
+
+FNN fnn(6);
+
+void setup() {
+    Serial.begin(9600);
+    
+    // Configuration
+    fnn.setWeights({0.3, 0.5, 0.2, 0.4, 0.1, 0.6});
+    fnn.setBiases({0.1, 0.2});
+    fnn.setActivationFunction(FNN::sigmoid);
+    
+    // Fuzzy rules
+    fnn.setFuzzyRules({
+        {"Not Suitable", 0.0},
+        {"Low", 0.2},
+        {"Very Low", 0.4},
+        {"Below Average", 0.6},
+        {"Above Average", 0.7},
+        {"High", 1.0},
+        {"Extreme", 1.1}
+    });
+
+    // Training data
+    std::vector<std::vector<float>> trainingInputs = {
+        {4.5, 2.8, 0.9, 3.7, 3.1, 7.9},
+        {1.2, 0.6, 0.3, 0.5, 0.2, 0.7},
+        {0.4, 0.3, 0.2, 0.6, 0.5, 0.4}
+    };
+    std::vector<std::string> trainingTargets = {
+        "High", "Low", "Not Suitable"
+    };
+
+    // Training
+    int numEpochs = 1000;
+    float learningRate = 0.01;
+    
+    // Train and evaluate
+    for (int epoch = 0; epoch < numEpochs; ++epoch) {
+        fnn.train(trainingInputs, trainingTargets, 1, learningRate);
+        
+        if (epoch % 100 == 0) {
+            float accuracy = fnn.evaluateAccuracy(trainingInputs, trainingTargets);
+            Serial.print("Epoch: ");
+            Serial.print(epoch);
+            Serial.print(" Accuracy: ");
+            Serial.println(accuracy);
+        }
+    }
+}
+
+void loop() {
+    // Prediction example
+    std::vector<float> newInput = {4.5, 2.8, 0.9, 3.7, 3.1, 7.9};
+    String prediction = fnn.predictFNN(newInput).c_str();
+    Serial.println(prediction);
+    delay(1000);
+}
+```
+
+### Performance Optimization
+1. Use fixed-point arithmetic where possible
+2. Minimize dynamic memory allocation
+3. Optimize matrix operations
+4. Cache frequently used calculations
+
+## Error Handling
+The module includes comprehensive error checking:
+1. Input validation
+2. Memory allocation verification
+3. Dimension compatibility checks
+4. Fuzzy rule consistency validation
+
+## Contributing
+Contributions are welcome. Please follow the standard pull request process:
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## Support
+For issues and feature requests, please create an issue in the repository.
+
+## Author
+1. GALIH RIDHO UTOMO
