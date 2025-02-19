@@ -7908,3 +7908,4 @@ https://github.com/dac1e/RtcDueRcf.git|Contributed|RtcDueRcf
 https://github.com/CIRCUITSTATE/CSE_CST328.git|Contributed|CIRCUITSTATE CST328 Library
 https://github.com/snowhalationmkii/BS811X_I2C.git|Contributed|BS811X_I2C
 https://github.com/4211421036/fnn.git|Contributed|fnn
+https://github.com/4211421036/gsr-arduino.git|Contributed|gsr
