@@ -5504,6 +5504,7 @@ https://github.com/RobTillaart/INA228
 https://github.com/RobTillaart/INA229
 https://github.com/RobTillaart/INA236
 https://github.com/RobTillaart/INA239
+https://github.com/RobTillaart/INA260
 https://github.com/RobTillaart/INA3221_RT
 https://github.com/RobTillaart/infiniteAverage
 https://github.com/RobTillaart/integer24
