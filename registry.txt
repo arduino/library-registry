@@ -7912,3 +7912,4 @@ https://github.com/4211421036/gsr-arduino.git|Contributed|gsr
 https://github.com/4211421036/IoTModule.git|Contributed|IoTModule
 https://github.com/ayushsharma82/RPAsyncTCP.git|Contributed|RPAsyncTCP
 https://github.com/RobTillaart/INA260.git|Contributed|INA260
+https://github.com/Mourty/PLCTimers.git|Contributed|PLCTimer
