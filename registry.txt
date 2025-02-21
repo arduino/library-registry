@@ -6462,7 +6462,7 @@ https://github.com/esp-arduino-libs/ESP32_Button.git|Contributed|ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_USB_Stream.git|Contributed|ESP32_USB_STREAM
 https://github.com/Zhu-jiatong/AccessPermissionManager.git|Contributed|AccessPermissionManager
 https://github.com/franeum/MicroMidiEnc.git|Contributed|MicroMidiEnc
-https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library.git|Contributed|Acrome-SMD
+https://github.com/Acrome-Smart-Motion-Devices/SMD-Arduino-Library.git|Contributed|Acrome-SMD
 https://github.com/Zhu-jiatong/FilesystemAccessInterface.git|Contributed|FilesystemAccessInterface
 https://github.com/hasenradball/NINA-Wi-Fi.git|Contributed|NINA-Wi-Fi
 https://github.com/GOB52/gob_unifiedButton.git|Contributed|gob_unifiedButton
