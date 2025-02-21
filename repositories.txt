@@ -7812,3 +7812,4 @@ https://github.com/4211421036/fnn
 https://github.com/4211421036/gsr-arduino
 https://github.com/4211421036/IoTModule
 https://github.com/Elrindel/SomfyReceiver
+https://github.com/thebestia90/AD5259
