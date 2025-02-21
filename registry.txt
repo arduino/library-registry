@@ -7543,7 +7543,7 @@ https://github.com/RobTillaart/ACD3100.git|Contributed|ACD3100
 https://github.com/arduino-libraries/Arduino_OPC_UA.git|Arduino|Arduino_OPC_UA
 https://github.com/RobTillaart/AD5660.git|Contributed|AD5660
 https://github.com/MonHauVD/PlayNote.git|Contributed|PlayNote
-https://github.com/gi0rg0sPapamichail/QuickESPNow.git|Contributed|QuickESPNow
+https://github.com/Hyperion-Robotics/QuickESPNow.git|Contributed|QuickESPNow
 https://github.com/1e1/Arduino-FastTimer.git|Contributed|FastTimer
 https://github.com/jjlondonoc/AFE4950-Arduino-Library.git|Contributed|AFE4950
 https://github.com/RobTillaart/SWSPI.git|Contributed|SWSPI
