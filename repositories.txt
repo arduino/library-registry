@@ -5207,11 +5207,8 @@ https://github.com/Reefwing-Software/Reefwing-PWM
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
 https://github.com/Reefwing-Software/Reefwing-xIMU3
 https://github.com/regimantas/Oversampling
-https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Global
-https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch
-https://github.com/rei-vilo/PDLS_EXT3_Basic_Wide
 https://github.com/rei-vilo/PDLS_EXT4_Basic_Matter
 https://github.com/rei-vilo/PDLS_Common
 https://github.com/rei-vilo/PDLS_Basic
