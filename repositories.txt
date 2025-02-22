@@ -2197,6 +2197,7 @@ https://github.com/DrGFreeman/SharpDistSensor
 https://github.com/DrGFreeman/TimedPID
 https://github.com/drifkind/QDispatch
 https://github.com/drmpf/ESPAutoWiFiConfig
+https://github.com/drmpf/NonBlockingModbusMaster
 https://github.com/drmpf/pfodParser
 https://github.com/drp0/ADCDRP
 https://github.com/drug123/T67XX
