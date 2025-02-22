@@ -5513,6 +5513,7 @@ https://github.com/RobTillaart/KT0803
 https://github.com/RobTillaart/Kurtosis
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logistic
+https://github.com/RobTillaart/LTC2485
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LTR390_DFR
 https://github.com/RobTillaart/LTR390_RT
