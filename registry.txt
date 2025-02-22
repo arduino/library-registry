@@ -7915,3 +7915,4 @@ https://github.com/drmpf/NonBlockingModbusMaster.git|Contributed|NonBlockingModb
 https://github.com/robinz-labs/digishow-rioc.git|Contributed|DigiShow RIOC
 https://github.com/RobTillaart/LTC2485.git|Contributed|LTC2485
 https://github.com/oskozach/MsTime.git|Contributed|MsTime
+https://github.com/MYCAMEL222/AbleTP.git|Contributed|AbleTP
