@@ -7914,3 +7914,4 @@ https://github.com/thebestia90/AD5259.git|Contributed|AD5259
 https://github.com/drmpf/NonBlockingModbusMaster.git|Contributed|NonBlockingModbusMaster
 https://github.com/robinz-labs/digishow-rioc.git|Contributed|DigiShow RIOC
 https://github.com/RobTillaart/LTC2485.git|Contributed|LTC2485
+https://github.com/oskozach/MsTime.git|Contributed|MsTime
