@@ -7911,3 +7911,4 @@ https://github.com/Mourty/PLCTimers.git|Contributed|PLCTimer
 https://github.com/Elrindel/SomfyReceiver.git|Contributed|SomfyReceiver
 https://github.com/Neurotech-Hub/KepecsWheel.git|Contributed|KepecsWheel
 https://github.com/thebestia90/AD5259.git|Contributed|AD5259
+https://github.com/drmpf/NonBlockingModbusMaster.git|Contributed|NonBlockingModbusMaster
