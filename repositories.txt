@@ -6,6 +6,7 @@ https://github.com/AryanBhirud/BitFlash_Client
 https://github.com/a-saab/PrayerTimes
 https://github.com/nextgentech-512/Single-Wire-Data-Bus
 https://github.com/roncoa/StringEEPROM
+https://github.com/snowhalationmkii/TTP229_BS81X_Serial
 https://github.com/snowhalationmkii/BS811X_I2C
 https://github.com/sstaub/IDToolsPico
 https://github.com/sstaub/LCD-HD44780
