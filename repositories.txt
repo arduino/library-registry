@@ -1,4 +1,5 @@
 https://github.com/MYCAMEL222/AbleTP
+https://github.com/snowhalationmkii/TTP229_BS81X_Serial
 https://github.com/oskozach/MsTime
 https://github.com/robinz-labs/digishow-rioc
 https://github.com/Neurotech-Hub/KepecsWheel
