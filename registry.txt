@@ -7919,3 +7919,4 @@ https://github.com/MYCAMEL222/AbleTP.git|Contributed|AbleTP
 https://github.com/dac1e/Dcf77Receiver.git|Contributed|Dcf77Receiver
 https://github.com/snowhalationmkii/TTP229_BS81X_Serial.git|Contributed|TTP229_BS81X_Serial
 https://github.com/oskozach/InputSwitch.git|Contributed|InputSwitch
+https://github.com/Sensirion/arduino-i2c-sfm3304.git|Contributed|Sensirion I2C SFM3304
