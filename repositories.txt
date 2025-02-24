@@ -7822,3 +7822,4 @@ https://github.com/4211421036/IoTModule
 https://github.com/Elrindel/SomfyReceiver
 https://github.com/thebestia90/AD5259
 https://github.com/dac1e/Dcf77Receiver
+https://github.com/ImSpeddy/L298Nlib
