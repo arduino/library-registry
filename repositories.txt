@@ -1,3 +1,8 @@
+https://github.com/MYCAMEL222/AbleTP
+https://github.com/snowhalationmkii/TTP229_BS81X_Serial
+https://github.com/oskozach/InputSwitch
+https://github.com/oskozach/MsTime
+https://github.com/robinz-labs/digishow-rioc
 https://github.com/Neurotech-Hub/KepecsWheel
 https://github.com/Mourty/PLCTimers
 https://github.com/ayushsharma82/RPAsyncTCP
@@ -90,12 +95,12 @@ https://github.com/blasilli/GBALib_ShiftRegister
 https://github.com/blasilli/GBALib_UltrasonicSensor
 https://github.com/henriberisha/EasyEspNow
 https://github.com/fabricioitajuba/Internal_eeprom
-https://github.com/gi0rg0sPapamichail/YDLiDaR_GS2
+https://github.com/Hyperion-Robotics/YDLiDaR_GS2
 https://github.com/VanSilver/LCD595
 https://github.com/biomurph/GrayCode
 https://github.com/arielzw/DPS-Power-Supply
 https://github.com/cheerlights/cheerlights-arduino-library
-https://github.com/gi0rg0sPapamichail/QuickESPNow
+https://github.com/Hyperion-Robotics/QuickESPNow
 https://github.com/jjlondonoc/AFE4950-Arduino-Library
 https://github.com/jjlondonoc/MCP4132-Arduino-Library
 https://github.com/MiguelLoureiro98/LM35IC
@@ -2197,6 +2202,7 @@ https://github.com/DrGFreeman/SharpDistSensor
 https://github.com/DrGFreeman/TimedPID
 https://github.com/drifkind/QDispatch
 https://github.com/drmpf/ESPAutoWiFiConfig
+https://github.com/drmpf/NonBlockingModbusMaster
 https://github.com/drmpf/pfodParser
 https://github.com/drp0/ADCDRP
 https://github.com/drug123/T67XX
@@ -4396,10 +4402,8 @@ https://github.com/mprograms/SimpleRotary
 https://github.com/MR-XieXuan/RX8025_for_Arduino
 https://github.com/MR-XieXuan/URLCode_for_Arduino
 https://github.com/mrdunk/esp8266_mdns
-https://github.com/mrfaptastic/Easy-IoT-Arduino-CC1101-LORA
-https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA
-https://github.com/mrfaptastic/json-streaming-parser2
-https://github.com/mrfaptastic/WiFiConnectLite
+https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA/
+https://github.com/mrcodetastic/json-streaming-parser2
 https://github.com/mrjimenez/JTAG
 https://github.com/mrmot021/PLS7shield
 https://github.com/mrmx/Arduino-SI4012
@@ -5207,11 +5211,8 @@ https://github.com/Reefwing-Software/Reefwing-PWM
 https://github.com/Reefwing-Software/Reefwing-SBUS.git
 https://github.com/Reefwing-Software/Reefwing-xIMU3
 https://github.com/regimantas/Oversampling
-https://github.com/rei-vilo/PDLS_EXT3_Basic_BWRY
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Fast
 https://github.com/rei-vilo/PDLS_EXT3_Basic_Global
-https://github.com/rei-vilo/PDLS_EXT3_Basic_Touch
-https://github.com/rei-vilo/PDLS_EXT3_Basic_Wide
 https://github.com/rei-vilo/PDLS_EXT4_Basic_Matter
 https://github.com/rei-vilo/PDLS_Common
 https://github.com/rei-vilo/PDLS_Basic
@@ -5245,7 +5246,7 @@ https://github.com/rgot-org/EzLoRaWAN
 https://github.com/rgot-org/EzLoRaWAN_BLE
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
-https://github.com/rhrhhrhr/MPC_ruih
+https://github.com/rui-huang-opt/MPC_ruih
 https://github.com/ricardoquesada/bluepad32-arduino
 https://github.com/ricaun/ArduinoUniqueID
 https://github.com/ricaun/LoRaNow
@@ -5516,6 +5517,7 @@ https://github.com/RobTillaart/KT0803
 https://github.com/RobTillaart/Kurtosis
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logistic
+https://github.com/RobTillaart/LTC2485
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LTR390_DFR
 https://github.com/RobTillaart/LTR390_RT
@@ -7817,3 +7819,5 @@ https://github.com/4211421036/fnn
 https://github.com/4211421036/gsr-arduino
 https://github.com/4211421036/IoTModule
 https://github.com/Elrindel/SomfyReceiver
+https://github.com/thebestia90/AD5259
+https://github.com/dac1e/Dcf77Receiver
