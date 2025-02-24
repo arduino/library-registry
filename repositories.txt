@@ -470,6 +470,7 @@ https://github.com/adafruit/Adafruit_DRV2605_Library
 https://github.com/adafruit/Adafruit_DS1841
 https://github.com/adafruit/Adafruit_DS248x
 https://github.com/adafruit/Adafruit_DS3502
+https://github.com/adafruit/Adafruit-DVI-HSTX
 https://github.com/adafruit/Adafruit_EMC2101
 https://github.com/adafruit/Adafruit_EPD
 https://github.com/adafruit/Adafruit_ESP8266
