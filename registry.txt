@@ -7921,3 +7921,4 @@ https://github.com/snowhalationmkii/TTP229_BS81X_Serial.git|Contributed|TTP229_B
 https://github.com/oskozach/InputSwitch.git|Contributed|InputSwitch
 https://github.com/Sensirion/arduino-i2c-sfm3304.git|Contributed|Sensirion I2C SFM3304
 https://github.com/ImSpeddy/L298Nlib.git|Contributed|L298Nlib
+https://github.com/4211421036/githubiot.git|Contributed|githubiot
