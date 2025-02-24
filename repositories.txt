@@ -5900,6 +5900,7 @@ https://github.com/Sensirion/arduino-i2c-sen66
 https://github.com/Sensirion/arduino-i2c-sf06-lf
 https://github.com/Sensirion/arduino-i2c-sfa3x
 https://github.com/Sensirion/arduino-i2c-sfm3000
+https://github.com/Sensirion/arduino-i2c-sfm3304
 https://github.com/sensirion/arduino-i2c-sgp40
 https://github.com/sensirion/arduino-i2c-sgp41
 https://github.com/Sensirion/arduino-i2c-sht4x
