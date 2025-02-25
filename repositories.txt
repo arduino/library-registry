@@ -7349,7 +7349,7 @@ https://github.com/deangi/PIRSensor
 https://github.com/bluejunimo/YX5300_ESP32
 https://gitlab.com/soruce/pimiento-clock-library
 https://github.com/buildybee/blite
-https://github.com/Howard-Z/UCLA-SMV-CAN
+https://github.com/UCLA-Bruin-Supermileage/UCLA-SMV-CAN
 https://github.com/paulino/ha-mqtt-entities
 https://github.com/dattasaurabh82/DFRobot_GDL
 https://github.com/iwandwip/Kinematrix
