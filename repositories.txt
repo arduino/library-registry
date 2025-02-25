@@ -5,6 +5,7 @@ https://github.com/oskozach/MsTime
 https://github.com/robinz-labs/digishow-rioc
 https://github.com/Neurotech-Hub/KepecsWheel
 https://github.com/Mourty/PLCTimers
+https://github.com/Mourty/ExtendedTime
 https://github.com/ayushsharma82/RPAsyncTCP
 https://github.com/CIRCUITSTATE/CSE_CST328
 https://github.com/hmueller01/pubsubclient3
