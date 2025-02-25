@@ -7923,3 +7923,4 @@ https://github.com/Sensirion/arduino-i2c-sfm3304.git|Contributed|Sensirion I2C S
 https://github.com/ImSpeddy/L298Nlib.git|Contributed|L298Nlib
 https://github.com/4211421036/githubiot.git|Contributed|githubiot
 https://github.com/adafruit/Adafruit-DVI-HSTX.git|Recommended|Adafruit DVI HSTX
+https://github.com/christosneg/concurrentPID.git|Contributed|concurrentPID
