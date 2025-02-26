@@ -6338,6 +6338,7 @@ https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library
 https://github.com/sparkfun/SparkFun_Si7021_Arduino_Library
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
+https://github.com/sparkfun/SparkFun_Soil_Moisture_Arduino_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library
