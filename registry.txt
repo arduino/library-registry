@@ -7925,3 +7925,4 @@ https://github.com/4211421036/githubiot.git|Contributed|githubiot
 https://github.com/adafruit/Adafruit-DVI-HSTX.git|Recommended|Adafruit DVI HSTX
 https://github.com/christosneg/concurrentPID.git|Contributed|concurrentPID
 https://github.com/Mourty/ExtendedTime.git|Contributed|ExtendedTime
+https://github.com/Zeppelin500/MBusCom.git|Contributed|MBusCom
