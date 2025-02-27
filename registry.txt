@@ -7928,3 +7928,4 @@ https://github.com/Mourty/ExtendedTime.git|Contributed|ExtendedTime
 https://github.com/Zeppelin500/MBusCom.git|Contributed|MBusCom
 https://github.com/sparkfun/SparkFun_Soil_Moisture_Arduino_Library.git|Contributed|SparkFun Soil Moisture Sensor
 https://github.com/tabahi/StatefulGSMLib.git|Contributed|StatefulGSMLib
+https://github.com/Geekble-Maker/Geekble_Orgel.git|Contributed|Geekble_Orgel
