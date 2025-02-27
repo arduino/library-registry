@@ -7930,3 +7930,4 @@ https://github.com/sparkfun/SparkFun_Soil_Moisture_Arduino_Library.git|Contribut
 https://github.com/tabahi/StatefulGSMLib.git|Contributed|StatefulGSMLib
 https://github.com/Geekble-Maker/Geekble_Orgel.git|Contributed|Geekble_Orgel
 https://github.com/twstokes/flipdotmatrix.git|Contributed|FlipDotMatrix
+https://github.com/wallysalami/QRCodeGFX.git|Contributed|QRCodeGFX
