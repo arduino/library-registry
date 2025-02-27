@@ -6771,7 +6771,6 @@ https://github.com/teddokano/Potentiometer_ADI_Arduino.git|Contributed|Potentiom
 https://github.com/MJBeltran13/Bucopi_library.git|Contributed|BUCO-PI
 https://github.com/teddokano/LevelShifter_NXP_Arduino.git|Contributed|LevelShifter_NXP_Arduino
 https://github.com/karolis1115/FTPduino.git|Contributed|FTPduino
-https://github.com/tabahi/TabahiConsole.git|Contributed|TabahiConsole
 https://github.com/tabahi/ESP-Wifi-Config.git|Contributed|ESP-Wifi-Config
 https://github.com/mathieucarbou/MycilaPZEM004Tv3.git|Contributed|MycilaPZEM004Tv3
 https://github.com/koendv/FloatToAscii.git|Contributed|FloatToAscii
