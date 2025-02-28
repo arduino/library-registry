@@ -7935,3 +7935,5 @@ https://github.com/RobTillaart/AD5370.git|Contributed|AD5370
 https://github.com/sparkfun/SparkFun_SiT5358_DCTCXO_Arduino_Library.git|Contributed|SparkFun SiT5358 DCTCXO Arduino Library
 https://github.com/sparkfun/SparkFun_SiT5811_OCXO_Arduino_Library.git|Contributed|SparkFun SiT5811 OCXO Arduino Library
 https://github.com/sparkfun/SparkFun_STP3593LF_OCXO_Arduino_Library.git|Contributed|SparkFun STP3593LF OCXO Arduino Library
+https://github.com/Port-Net/rmt_SENT.git|Contributed|rmt_SENT
+https://github.com/Port-Net/MLX90377_SENT.git|Contributed|MLX90377_SENT
