@@ -5382,6 +5382,7 @@ https://github.com/RobTillaart/AD5246
 https://github.com/RobTillaart/AD5248
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD5263
+https://github.com/RobTillaart/AD5370
 https://github.com/RobTillaart/AD5593R
 https://github.com/RobTillaart/AD5620
 https://github.com/RobTillaart/AD5660
