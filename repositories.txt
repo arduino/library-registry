@@ -7837,3 +7837,5 @@ https://github.com/ImSpeddy/L298Nlib
 https://github.com/4211421036/githubiot
 https://github.com/christosneg/concurrentPID.git
 https://github.com/twstokes/flipdotmatrix
+https://github.com/Port-Net/rmt_SENT
+https://github.com/Port-Net/MLX90377_SENT
