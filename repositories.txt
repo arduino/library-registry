@@ -5402,6 +5402,7 @@ https://github.com/RobTillaart/ADG728
 https://github.com/RobTillaart/ADG729
 https://github.com/RobTillaart/ADG731
 https://github.com/RobTillaart/ADG732
+https://github.com/RobTillaart/ADG2128_RT
 https://github.com/RobTillaart/ADG2188
 https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
