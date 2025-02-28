@@ -7931,3 +7931,4 @@ https://github.com/tabahi/StatefulGSMLib.git|Contributed|StatefulGSMLib
 https://github.com/Geekble-Maker/Geekble_Orgel.git|Contributed|Geekble_Orgel
 https://github.com/twstokes/flipdotmatrix.git|Contributed|FlipDotMatrix
 https://github.com/wallysalami/QRCodeGFX.git|Contributed|QRCodeGFX
+https://github.com/RobTillaart/AD5370.git|Contributed|AD5370
