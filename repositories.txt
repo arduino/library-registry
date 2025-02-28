@@ -6340,6 +6340,8 @@ https://github.com/sparkfun/SparkFun_SGP4_Arduino_Library
 https://github.com/sparkfun/SparkFun_SGP40_Arduino_Library
 https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library
 https://github.com/sparkfun/SparkFun_Si7021_Arduino_Library
+https://github.com/sparkfun/SparkFun_SiT5358_DCTCXO_Arduino_Library
+https://github.com/sparkfun/SparkFun_SiT5811_OCXO_Arduino_Library
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
 https://github.com/sparkfun/SparkFun_Soil_Moisture_Arduino_Library
@@ -6348,6 +6350,7 @@ https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library
 https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
+https://github.com/sparkfun/SparkFun_STP3593LF_OCXO_Arduino_Library
 https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
 https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library
 https://github.com/sparkfun/SparkFun_Swarm_Satellite_Arduino_Library
