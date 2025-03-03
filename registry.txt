@@ -7941,3 +7941,4 @@ https://github.com/RobTillaart/ADG2128_RT.git|Contributed|ADG2128_RT
 https://github.com/RobTillaart/ADG2188.git|Contributed|ADG2188
 https://github.com/eccentricOrange/BIDFestTools.git|Contributed|BIDFestTools
 https://github.com/Geekble-Maker/Geekble_Basics.git|Contributed|Geekble_Basics
+https://github.com/qqqlab/qqqlab-RP2040-Toolbox.git|Contributed|qqqlab-RP2040-Toolbox
