@@ -1,3 +1,4 @@
+https://github.com/csobirka/SevenSegment
 https://github.com/Zeppelin500/MBusCom
 https://github.com/MYCAMEL222/AbleTP
 https://github.com/snowhalationmkii/TTP229_BS81X_Serial
