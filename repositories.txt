@@ -981,6 +981,7 @@ https://github.com/arduino-libraries/Arduino_BMI270_BMM150
 https://github.com/arduino-libraries/Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_Braccio_plusplus
 https://github.com/arduino-libraries/Arduino_BuiltIn
+https://github.com/arduino-libraries/Arduino_CloudUtils
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP
 https://github.com/arduino-libraries/Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_CRC32
