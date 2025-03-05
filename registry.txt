@@ -7944,3 +7944,4 @@ https://github.com/Geekble-Maker/Geekble_Basics.git|Contributed|Geekble_Basics
 https://github.com/qqqlab/qqqlab-RP2040-Toolbox.git|Contributed|qqqlab-RP2040-Toolbox
 https://github.com/arduino-libraries/Arduino_CloudUtils.git|Arduino|Arduino_CloudUtils
 https://github.com/csobirka/SevenSegment.git|Contributed|SevenSegment
+https://github.com/4211421036/YFS201.git|Contributed|YF-S201 Water Flow
