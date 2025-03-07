@@ -7951,3 +7951,4 @@ https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD.git|Contributed|JC3248W5
 https://github.com/sauloverissimo/DataHandler.git|Contributed|datahandler
 https://github.com/RedPitaya/SCPI-red-pitaya-arduino.git|Contributed|SCPI Red Pitaya
 https://github.com/dzalf/EEPROM_UID.git|Contributed|EEPROM_UID
+https://github.com/jsnkan/lcd128_32_io.git|Contributed|lcd128_32_io
