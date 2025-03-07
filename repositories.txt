@@ -3336,6 +3336,7 @@ https://github.com/JSC-electronics/SimpleMotionV2-Arduino
 https://github.com/JSC-electronics/SimpleRelay
 https://github.com/JSC-electronics/Ticker
 https://github.com/jscastonguay/technoshield-ui-lib
+https://github.com/jsnkan/lcd128_32_io
 https://github.com/jspark311/Arduino-ADG2128
 https://github.com/jspark311/Arduino-DS1881
 https://github.com/jspark311/Arduino-SX150x
