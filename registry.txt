@@ -7953,3 +7953,4 @@ https://github.com/RedPitaya/SCPI-red-pitaya-arduino.git|Contributed|SCPI Red Pi
 https://github.com/dzalf/EEPROM_UID.git|Contributed|EEPROM_UID
 https://github.com/jsnkan/lcd128_32_io.git|Contributed|lcd128_32_io
 https://github.com/Infineon/arduino-xensiv-angle-sensor-tlx5012.git|Contributed|XENSIV Angle Sensor TLx5012B
+https://github.com/ripred/Minimax.git|Contributed|Minimax
