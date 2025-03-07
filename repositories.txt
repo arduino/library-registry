@@ -7855,3 +7855,4 @@ https://github.com/nikachu2012/HttpCall
 https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
 https://github.com/sauloverissimo/DataHandler
 https://github.com/RedPitaya/SCPI-red-pitaya-arduino
+https://github.com/ripred/Minimax
