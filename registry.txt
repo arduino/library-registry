@@ -7949,3 +7949,4 @@ https://github.com/Enzo-Coutinho/APDS-9151.git|Contributed|APDS9151
 https://github.com/nikachu2012/HttpCall.git|Contributed|HttpCall
 https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD.git|Contributed|JC3248W535EN-Touch-LCD
 https://github.com/sauloverissimo/DataHandler.git|Contributed|datahandler
+https://github.com/RedPitaya/SCPI-red-pitaya-arduino.git|Contributed|SCPI Red Pitaya
