@@ -7847,6 +7847,7 @@ https://github.com/twstokes/flipdotmatrix
 https://github.com/Port-Net/rmt_SENT
 https://github.com/Port-Net/MLX90377_SENT
 https://github.com/eccentricOrange/BIDFestTools
+https://github.com/dzalf/EEPROM_UID
 https://github.com/4211421036/YFS201
 https://github.com/nikachu2012/HttpCall
 https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
