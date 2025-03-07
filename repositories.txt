@@ -50,6 +50,7 @@ https://github.com/botnroll/BnrOneAPlus
 https://github.com/toaha63/BanglaDuino
 https://github.com/Moarbue/MAX31855-library
 https://github.com/ropg/LVGL_CYD
+https://github.com/Enzo-Coutinho/APDS-9151
 https://github.com/DigitalCodesign/MentorBit-1Rele
 https://github.com/DigitalCodesign/MentorBit-2Rele
 https://github.com/DigitalCodesign/MentorBit-3LED
@@ -7847,3 +7848,8 @@ https://github.com/Port-Net/rmt_SENT
 https://github.com/Port-Net/MLX90377_SENT
 https://github.com/eccentricOrange/BIDFestTools
 https://github.com/dzalf/EEPROM_UID
+https://github.com/4211421036/YFS201
+https://github.com/nikachu2012/HttpCall
+https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
+https://github.com/sauloverissimo/DataHandler
+https://github.com/RedPitaya/SCPI-red-pitaya-arduino
