@@ -7956,3 +7956,4 @@ https://github.com/Infineon/arduino-xensiv-angle-sensor-tlx5012.git|Contributed|
 https://github.com/ripred/Minimax.git|Contributed|Minimax
 https://github.com/francescop75/LCD_TeleType.git|Contributed|LCD_TeleType
 https://github.com/ArduLite/ArduLite.git|Contributed|ArduLite
+https://github.com/electrocoder/MBModbusRTUSlave.git|Contributed|MBModbusRTUSlave
