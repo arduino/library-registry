@@ -7959,3 +7959,4 @@ https://github.com/ArduLite/ArduLite.git|Contributed|ArduLite
 https://github.com/electrocoder/MBModbusRTUSlave.git|Contributed|MBModbusRTUSlave
 https://github.com/Rupakpoddar/ConsumerKeyboard.git|Contributed|ConsumerKeyboard
 https://github.com/firmngin/firmnginKit.git|Contributed|firmnginKit
+https://github.com/DigitalFuturesOCADU/YouveBeenNotified.git|Contributed|YouveBeenNotified
