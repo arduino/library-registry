@@ -5715,6 +5715,7 @@ https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/ruminize/FlashLightLED
 https://github.com/Rupakpoddar/FirebaseArduino
+https://github.com/Rupakpoddar/ConsumerKeyboard
 https://github.com/rv701/SPL06-007
 https://github.com/RyoKosaka/HelloDrum-arduino-Library
 https://github.com/ryraki/FXLS89xx_Arduino
@@ -7859,3 +7860,4 @@ https://github.com/ripred/Minimax
 https://github.com/francescop75/LCD_TeleType
 https://github.com/firmngin/kit
 https://github.com/ArduLite/ArduLite
+https://github.com/electrocoder/MBModbusRTUSlave
