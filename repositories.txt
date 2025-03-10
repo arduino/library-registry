@@ -7862,3 +7862,4 @@ https://github.com/firmngin/firmnginKit
 https://github.com/ArduLite/ArduLite
 https://github.com/electrocoder/MBModbusRTUSlave
 https://github.com/DigitalFuturesOCADU/YouveBeenNotified
+https://github.com/styropyr0/SensorHub
