@@ -7858,6 +7858,6 @@ https://github.com/sauloverissimo/DataHandler
 https://github.com/RedPitaya/SCPI-red-pitaya-arduino
 https://github.com/ripred/Minimax
 https://github.com/francescop75/LCD_TeleType
-https://github.com/firmngin/kit
+https://github.com/firmngin/firmnginKit
 https://github.com/ArduLite/ArduLite
 https://github.com/electrocoder/MBModbusRTUSlave
