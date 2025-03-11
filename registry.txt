@@ -7961,3 +7961,4 @@ https://github.com/Rupakpoddar/ConsumerKeyboard.git|Contributed|ConsumerKeyboard
 https://github.com/firmngin/firmnginKit.git|Contributed|firmnginKit
 https://github.com/DigitalFuturesOCADU/YouveBeenNotified.git|Contributed|YouveBeenNotified
 https://github.com/styropyr0/SensorHub.git|Contributed|SensorHub
+https://github.com/Khuuxuanngoc/Makerlabvn_I2C_Line_Follower_Sensor.git|Contributed|Makerlabvn_I2C_Line_Follower_Sensor
