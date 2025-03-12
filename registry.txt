@@ -7961,3 +7961,4 @@ https://github.com/styropyr0/SensorHub.git|Contributed|SensorHub
 https://github.com/Khuuxuanngoc/Makerlabvn_I2C_Line_Follower_Sensor.git|Contributed|Makerlabvn_I2C_Line_Follower_Sensor
 https://github.com/amitesh-singh/EspDDNS.git|Contributed|EspDDNS
 https://github.com/JakubSdf/LedDisplayFonts.git|Contributed|LedDisplayFonts
+https://github.com/Amanecer-Digital-SL/am_ambot_library.git|Contributed|AMBOT
