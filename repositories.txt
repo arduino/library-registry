@@ -1,8 +1,14 @@
+https://github.com/JakubSdf/LedDisplayFonts
+https://github.com/Infineon/arduino-xensiv-angle-sensor-tlx5012
+https://github.com/csobirka/SevenSegment
+https://github.com/Zeppelin500/MBusCom
 https://github.com/MYCAMEL222/AbleTP
 https://github.com/snowhalationmkii/TTP229_BS81X_Serial
+https://github.com/Khuuxuanngoc/Makerlabvn_I2C_Line_Follower_Sensor
 https://github.com/robinz-labs/digishow-rioc
 https://github.com/Neurotech-Hub/KepecsWheel
 https://github.com/Mourty/PLCTimers
+https://github.com/Mourty/ExtendedTime
 https://github.com/ayushsharma82/RPAsyncTCP
 https://github.com/CIRCUITSTATE/CSE_CST328
 https://github.com/hmueller01/pubsubclient3
@@ -24,6 +30,7 @@ https://github.com/adityasharma-tech/grafik-serial
 https://github.com/Neurotech-Hub/Hublink-BEAM
 https://github.com/JagritThukral/ubidots-mqtt-esp32/
 https://github.com/wallysalami/BarcodeGFX
+https://github.com/wallysalami/QRCodeGFX
 https://github.com/roncoa/SimRacingController
 https://github.com/KiselevIvan/kidLibrary
 https://github.com/dmachinewhisperer/micro-prompts-ino
@@ -44,6 +51,7 @@ https://github.com/botnroll/BnrOneAPlus
 https://github.com/toaha63/BanglaDuino
 https://github.com/Moarbue/MAX31855-library
 https://github.com/ropg/LVGL_CYD
+https://github.com/Enzo-Coutinho/APDS-9151
 https://github.com/DigitalCodesign/MentorBit-1Rele
 https://github.com/DigitalCodesign/MentorBit-2Rele
 https://github.com/DigitalCodesign/MentorBit-3LED
@@ -301,6 +309,7 @@ https://github.com/x0x0200/VARSTEP_ultrasonic
 https://github.com/StefanHerald/Timing
 https://github.com/tdk-invn-oss/pressure.arduino.ICP201XX
 https://github.com/DigitalCodesign/MentorBit-Library
+https://github.com/tabahi/StatefulGSMLib/
 https://github.com/tabahi/ESP-Wifi-Config
 https://github.com/tabahi/TabahiConsole
 https://github.com/karolis1115/FTPduino
@@ -409,7 +418,7 @@ https://github.com/acksen/AcksenPump
 https://github.com/acksen/AcksenUtils
 https://github.com/acrandal/RevEng_PAJ7620
 https://github.com/acrobotic/Ai_Ardulib_SSD1306
-https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library
+https://github.com/Acrome-Smart-Motion-Devices/SMD-Arduino-Library
 https://github.com/adafruit/Adafruit_10DOF
 https://github.com/adafruit/Adafruit_9DOF
 https://github.com/adafruit/Adafruit_AD569x
@@ -468,6 +477,7 @@ https://github.com/adafruit/Adafruit_DRV2605_Library
 https://github.com/adafruit/Adafruit_DS1841
 https://github.com/adafruit/Adafruit_DS248x
 https://github.com/adafruit/Adafruit_DS3502
+https://github.com/adafruit/Adafruit-DVI-HSTX
 https://github.com/adafruit/Adafruit_EMC2101
 https://github.com/adafruit/Adafruit_EPD
 https://github.com/adafruit/Adafruit_ESP8266
@@ -974,6 +984,7 @@ https://github.com/arduino-libraries/Arduino_BMI270_BMM150
 https://github.com/arduino-libraries/Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_Braccio_plusplus
 https://github.com/arduino-libraries/Arduino_BuiltIn
+https://github.com/arduino-libraries/Arduino_CloudUtils
 https://github.com/arduino-libraries/Arduino_CMSIS-DSP
 https://github.com/arduino-libraries/Arduino_ConnectionHandler
 https://github.com/arduino-libraries/Arduino_CRC32
@@ -2608,6 +2619,8 @@ https://github.com/gbr1/rp2040-encoder-library
 https://github.com/gbr1/ucPack
 https://github.com/gbrd/arduino-teleinfo
 https://github.com/Geabong/ModbusRTUSlaveArduino
+https://github.com/Geekble-Maker/Geekble_Basics
+https://github.com/Geekble-Maker/Geekble_Orgel
 https://github.com/Geekble-Maker/Geekble_MotorOrgel
 https://github.com/Geekble-Maker/Geekble_Note2Freq
 https://github.com/Geekble-Maker/Geekble_LieDetector
@@ -3324,6 +3337,7 @@ https://github.com/JSC-electronics/SimpleMotionV2-Arduino
 https://github.com/JSC-electronics/SimpleRelay
 https://github.com/JSC-electronics/Ticker
 https://github.com/jscastonguay/technoshield-ui-lib
+https://github.com/jsnkan/lcd128_32_io
 https://github.com/jspark311/Arduino-ADG2128
 https://github.com/jspark311/Arduino-DS1881
 https://github.com/jspark311/Arduino-SX150x
@@ -5374,6 +5388,7 @@ https://github.com/RobTillaart/AD5246
 https://github.com/RobTillaart/AD5248
 https://github.com/RobTillaart/AD524X
 https://github.com/RobTillaart/AD5263
+https://github.com/RobTillaart/AD5370
 https://github.com/RobTillaart/AD5593R
 https://github.com/RobTillaart/AD5620
 https://github.com/RobTillaart/AD5660
@@ -5393,6 +5408,8 @@ https://github.com/RobTillaart/ADG728
 https://github.com/RobTillaart/ADG729
 https://github.com/RobTillaart/ADG731
 https://github.com/RobTillaart/ADG732
+https://github.com/RobTillaart/ADG2128_RT
+https://github.com/RobTillaart/ADG2188
 https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
 https://github.com/RobTillaart/ADT7470
@@ -5698,6 +5715,7 @@ https://github.com/ruiseixasm/Robust-EEPROM
 https://github.com/ruiseixasm/Versatile_RotaryEncoder
 https://github.com/ruminize/FlashLightLED
 https://github.com/Rupakpoddar/FirebaseArduino
+https://github.com/Rupakpoddar/ConsumerKeyboard
 https://github.com/rv701/SPL06-007
 https://github.com/RyoKosaka/HelloDrum-arduino-Library
 https://github.com/ryraki/FXLS89xx_Arduino
@@ -5898,6 +5916,7 @@ https://github.com/Sensirion/arduino-i2c-sen66
 https://github.com/Sensirion/arduino-i2c-sf06-lf
 https://github.com/Sensirion/arduino-i2c-sfa3x
 https://github.com/Sensirion/arduino-i2c-sfm3000
+https://github.com/Sensirion/arduino-i2c-sfm3304
 https://github.com/sensirion/arduino-i2c-sgp40
 https://github.com/sensirion/arduino-i2c-sgp41
 https://github.com/Sensirion/arduino-i2c-sht4x
@@ -6330,13 +6349,17 @@ https://github.com/sparkfun/SparkFun_SGP4_Arduino_Library
 https://github.com/sparkfun/SparkFun_SGP40_Arduino_Library
 https://github.com/sparkfun/SparkFun_SHTC3_Arduino_Library
 https://github.com/sparkfun/SparkFun_Si7021_Arduino_Library
+https://github.com/sparkfun/SparkFun_SiT5358_DCTCXO_Arduino_Library
+https://github.com/sparkfun/SparkFun_SiT5811_OCXO_Arduino_Library
 https://github.com/sparkfun/SparkFun_Simultaneous_RFID_Tag_Reader_Library
 https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
+https://github.com/sparkfun/SparkFun_Soil_Moisture_Arduino_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
 https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library
 https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
+https://github.com/sparkfun/SparkFun_STP3593LF_OCXO_Arduino_Library
 https://github.com/sparkfun/SparkFun_STTS22H_Arduino_Library
 https://github.com/sparkfun/SparkFun_STUSB4500_Arduino_Library
 https://github.com/sparkfun/SparkFun_Swarm_Satellite_Arduino_Library
@@ -7315,6 +7338,7 @@ https://github.com/braydenanderson2014/UnorderedMap
 https://github.com/qqqlab/madflight
 https://github.com/qqqlab/ESP32_SoftWire
 https://github.com/qqqlab/GPS-uBlox
+https://github.com/qqqlab/qqqlab-RP2040-Toolbox
 https://github.com/MJBeltran13/Bucopi_library
 https://github.com/lualtek/buttino-rak
 https://github.com/tomcombriat/FixMath
@@ -7819,3 +7843,24 @@ https://github.com/4211421036/IoTModule
 https://github.com/Elrindel/SomfyReceiver
 https://github.com/thebestia90/AD5259
 https://github.com/dac1e/Dcf77Receiver
+https://github.com/ImSpeddy/L298Nlib
+https://github.com/4211421036/githubiot
+https://github.com/christosneg/concurrentPID.git
+https://github.com/twstokes/flipdotmatrix
+https://github.com/Port-Net/rmt_SENT
+https://github.com/Port-Net/MLX90377_SENT
+https://github.com/eccentricOrange/BIDFestTools
+https://github.com/dzalf/EEPROM_UID
+https://github.com/4211421036/YFS201
+https://github.com/nikachu2012/HttpCall
+https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
+https://github.com/sauloverissimo/DataHandler
+https://github.com/RedPitaya/SCPI-red-pitaya-arduino
+https://github.com/ripred/Minimax
+https://github.com/francescop75/LCD_TeleType
+https://github.com/firmngin/firmnginKit
+https://github.com/ArduLite/ArduLite
+https://github.com/electrocoder/MBModbusRTUSlave
+https://github.com/DigitalFuturesOCADU/YouveBeenNotified
+https://github.com/styropyr0/SensorHub
+https://github.com/amitesh-singh/EspDDNS
