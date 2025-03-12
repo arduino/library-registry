@@ -420,7 +420,7 @@ https://github.com/acksen/AcksenPump
 https://github.com/acksen/AcksenUtils
 https://github.com/acrandal/RevEng_PAJ7620
 https://github.com/acrobotic/Ai_Ardulib_SSD1306
-https://github.com/Acrome-Smart-Motor-Driver/SMD-Arduino-Library
+https://github.com/Acrome-Smart-Motion-Devices/SMD-Arduino-Library
 https://github.com/adafruit/Adafruit_10DOF
 https://github.com/adafruit/Adafruit_9DOF
 https://github.com/adafruit/Adafruit_AD569x
