@@ -311,7 +311,6 @@ https://github.com/tdk-invn-oss/pressure.arduino.ICP201XX
 https://github.com/DigitalCodesign/MentorBit-Library
 https://github.com/tabahi/StatefulGSMLib/
 https://github.com/tabahi/ESP-Wifi-Config
-https://github.com/tabahi/TabahiConsole
 https://github.com/karolis1115/FTPduino
 https://github.com/RajasundaramM/ReadFilter
 https://github.com/SylvainMontagny/LoRaE5
