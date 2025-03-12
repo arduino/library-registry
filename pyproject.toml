@@ -12,7 +12,7 @@ license = "CC0-1.0"
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
-yamllint = "^1.35.1"
+yamllint = "^1.36.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
