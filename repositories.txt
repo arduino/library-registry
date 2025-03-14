@@ -3172,6 +3172,7 @@ https://github.com/janelia-arduino/TMC2209
 https://github.com/janelia-arduino/TMC429
 https://github.com/janelia-arduino/Vector
 https://github.com/janelia-arduino/Watchdog
+https://github.com/janelia-arduino/TMC51X0
 https://github.com/janikheiler/Mintrix
 https://github.com/janscience/MicroConfig
 https://github.com/janscience/ESensors
