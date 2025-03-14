@@ -1,4 +1,5 @@
 https://github.com/JakubSdf/LedDisplayFonts
+https://github.com/ESP32Async/AsyncTCPSock/archive/refs/tags/v1.0.3-dev.zip
 https://github.com/Amanecer-Digital-SL/am_ambot_library
 https://github.com/Infineon/arduino-xensiv-angle-sensor-tlx5012
 https://github.com/csobirka/SevenSegment
