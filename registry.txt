@@ -7964,3 +7964,4 @@ https://github.com/JakubSdf/LedDisplayFonts.git|Contributed|LedDisplayFonts
 https://github.com/Amanecer-Digital-SL/am_ambot_library.git|Contributed|AMBOT
 https://github.com/tomorrow56/SPRESENSE_ESP8266_LINE_Messaging_API.git|Contributed|ESP8266_LINE_Messaging_API
 https://github.com/zamanturja/A9Gmod.git|Contributed|A9Gmod
+https://github.com/janelia-arduino/TMC51X0.git|Contributed|TMC51X0
