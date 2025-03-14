@@ -7967,3 +7967,4 @@ https://github.com/zamanturja/A9Gmod.git|Contributed|A9Gmod
 https://github.com/janelia-arduino/TMC51X0.git|Contributed|TMC51X0
 https://github.com/WBS-Wissen/Stepper8825Lib.git|Contributed|Stepper8825Lib
 https://github.com/vladysor/SensEdu-Library.git|Contributed|SensEdu
+https://github.com/mirosieber/Litime_BMS_ESP32.git|Contributed|BMS Client
