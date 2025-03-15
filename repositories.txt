@@ -7719,7 +7719,7 @@ https://github.com/pschatzmann/TalkiePCM
 https://github.com/YuenNicdao/iParol
 https://github.com/Natpol50/BME280_mini
 https://github.com/MMZBin/Raspberry_Pi_Pico_MacroPad
-https://github.com/styropyr0/oled.h
+https://github.com/styropyr0/SSD1306
 https://github.com/jaakka/DelayFunctionsArduino
 https://github.com/ZanPekosak/SlowPWM
 https://github.com/Lorandil/uCompression
