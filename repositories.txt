@@ -7870,3 +7870,4 @@ https://github.com/zamanturja/A9Gmod
 https://github.com/WBS-Wissen/Stepper8825Lib
 https://github.com/vladysor/SensEdu-Library
 https://github.com/mirosieber/Litime_BMS_ESP32
+https://github.com/ByteVoltaTeam/PIDEasy
