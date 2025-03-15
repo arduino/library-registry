@@ -7518,3 +7518,4 @@ https://github.com/MMZBin/Raspberry_Pi_Pico_MacroPad
 https://github.com/styropyr0/oled.h
 https://github.com/jaakka/DelayFunctionsArduino
 https://github.com/ByteVoltaTeam/Filters-library
+https://github.com/ByteVoltaTeam/PIDEasy
