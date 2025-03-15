@@ -7969,3 +7969,4 @@ https://github.com/WBS-Wissen/Stepper8825Lib.git|Contributed|Stepper8825Lib
 https://github.com/vladysor/SensEdu-Library.git|Contributed|SensEdu
 https://github.com/mirosieber/Litime_BMS_ESP32.git|Contributed|BMS Client
 https://github.com/ByteVoltaTeam/PIDEasy.git|Contributed|PIDEasy
+https://github.com/styropyr0/BME688.git|Contributed|BME688
