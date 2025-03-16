@@ -7970,3 +7970,4 @@ https://github.com/vladysor/SensEdu-Library.git|Contributed|SensEdu
 https://github.com/mirosieber/Litime_BMS_ESP32.git|Contributed|BMS Client
 https://github.com/ByteVoltaTeam/PIDEasy.git|Contributed|PIDEasy
 https://github.com/styropyr0/BME688.git|Contributed|BME688
+https://github.com/styropyr0/MPM10.git|Contributed|MPM10
