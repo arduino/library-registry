@@ -7975,3 +7975,4 @@ https://github.com/styropyr0/ML8511.git|Contributed|ML8511 UV Sensor Library
 https://github.com/styropyr0/APDS9960.git|Contributed|APDS9960
 https://github.com/styropyr0/ADS111S.git|Contributed|ADS111S
 https://github.com/RobTillaart/PCA9671.git|Contributed|PCA9671
+https://github.com/Kenneract/SPL07-003-Arduino-Library.git|Contributed|SPL07-003
