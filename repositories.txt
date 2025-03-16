@@ -7873,3 +7873,4 @@ https://github.com/mirosieber/Litime_BMS_ESP32
 https://github.com/ByteVoltaTeam/PIDEasy
 https://github.com/styropyr0/BME688
 https://github.com/styropyr0/MPM10
+https://github.com/styropyr0/ML8511
