@@ -7879,3 +7879,4 @@ https://github.com/styropyr0/MPM10
 https://github.com/styropyr0/ML8511
 https://github.com/styropyr0/APDS9960
 https://github.com/styropyr0/ADS111S
+https://github.com/mlesniew/PicoSyslog
