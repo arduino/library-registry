@@ -25,6 +25,7 @@ https://github.com/nextgentech-512/Single-Wire-Data-Bus
 https://github.com/roncoa/StringEEPROM
 https://github.com/snowhalationmkii/BS811X_I2C
 https://github.com/sstaub/IDToolsPico
+https://github.com/QuantumLeaps/qp-arduino
 https://github.com/sstaub/LCD-HD44780
 https://github.com/sstaub/LCD-I2C-HD44780
 https://github.com/Neurotech-Hub/Hublink-Node
