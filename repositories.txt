@@ -1619,6 +1619,7 @@ https://github.com/cbm80amiga/RREFont.git
 https://github.com/cDnNeMeSiS/xbee_serial_array
 https://github.com/CelliesProjects/ESP32_VS1053_Stream
 https://github.com/CelliesProjects/moonPhase-esp32
+https://github.com/CelliesProjects/OpenStreetMap-esp32
 https://github.com/CelliesProjects/wm8978-esp32
 https://github.com/centaq/arduino-async-bmp180wrapper
 https://github.com/centaq/arduino-async-sms
