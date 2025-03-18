@@ -7979,3 +7979,4 @@ https://github.com/Kenneract/SPL07-003-Arduino-Library.git|Contributed|SPL07-003
 https://github.com/QuantumLeaps/qp-arduino.git|Contributed|qp-arduino
 https://github.com/mlesniew/PicoSyslog.git|Contributed|PicoSyslog
 https://github.com/Jonathan-Z-Code/DHT11_Sensor.git|Contributed|DHT11_Sensor
+https://github.com/alkonosst/RTOScppESP32.git|Contributed|RTOScppESP32
