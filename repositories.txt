@@ -7883,3 +7883,4 @@ https://github.com/styropyr0/APDS9960
 https://github.com/styropyr0/ADS111S
 https://github.com/mlesniew/PicoSyslog
 https://github.com/Jonathan-Z-Code/DHT11_Sensor
+https://github.com/MIPSLabs/MipsLib
