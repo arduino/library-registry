@@ -7981,3 +7981,4 @@ https://github.com/mlesniew/PicoSyslog.git|Contributed|PicoSyslog
 https://github.com/Jonathan-Z-Code/DHT11_Sensor.git|Contributed|DHT11_Sensor
 https://github.com/alkonosst/RTOScppESP32.git|Contributed|RTOScppESP32
 https://github.com/CelliesProjects/OpenStreetMap-esp32.git|Contributed|OpenStreetMap-esp32
+https://github.com/MIPSLabs/MipsLib.git|Contributed|MipsLib
