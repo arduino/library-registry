@@ -77,14 +77,14 @@ files = [
 
 [[package]]
 name = "yamllint"
-version = "1.36.0"
+version = "1.36.2"
 description = "A linter for YAML files."
 optional = false
 python-versions = ">=3.9"
 groups = ["dev"]
 files = [
-    {file = "yamllint-1.36.0-py3-none-any.whl", hash = "sha256:22ab6a7db9d5f0954bd7a50ef70a41c1465c61f955893070b0767c0ec6693b7b"},
-    {file = "yamllint-1.36.0.tar.gz", hash = "sha256:3835a65994858679ea06fd998dd968c3f71935cd93742990405999d888e21130"},
+    {file = "yamllint-1.36.2-py3-none-any.whl", hash = "sha256:6ba19800513d86c987ed3cf48c0aba4e82b3624596e1dab55723b3733e11f35c"},
+    {file = "yamllint-1.36.2.tar.gz", hash = "sha256:c9ccc818659736e7b13f7e2f9c3c9bb9ac77445be13e789e7d843e92cb8428ef"},
 ]
 
 [package.dependencies]
@@ -97,4 +97,4 @@ dev = ["doc8", "flake8", "flake8-import-order", "rstcheck[sphinx]", "sphinx"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.9"
-content-hash = "d4081cf15c098678dd78dc08246d7d5496aae0aba9af8d3221f9cdcc28d1a874"
+content-hash = "7d848c6ab74001d96cce4f98905217b0cbdf8a266217f6e842c138a9be64a265"
