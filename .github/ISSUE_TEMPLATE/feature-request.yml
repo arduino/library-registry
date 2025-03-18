@@ -1,0 +1,42 @@
+# Source:
+# https://github.com/arduino/tooling-project-assets/blob/main/issue-templates/forms/platform-dependent/bug-report.md
+# See:
+# https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+
+name: Feature request
+description: Suggest an enhancement to this project.
+labels:
+  - "type: enhancement"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the request
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Describe the current behavior
+      description: |
+        What is the current behavior of the Arduino Library Manager registry in relation to your request?
+        How can we reproduce that behavior?
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any additional information here.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Issue checklist
+      description: Please double-check that you have done each of the following things before submitting the issue.
+      options:
+        - label: I searched for previous requests in [the issue tracker](https://github.com/arduino/library-registry/issues?q=)
+          required: true
+        - label: My request contains all necessary details
+          required: true

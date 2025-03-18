@@ -1,0 +1,33 @@
+# Source:
+# https://github.com/arduino/tooling-project-assets/blob/main/issue-templates/template-choosers/general/config.yml
+# See:
+# https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+
+contact_links:
+  - name: Submit a library
+    url: https://github.com/arduino/library-registry#adding-a-library-to-library-manager
+    about: Instructions for submitting a library for inclusion in the Arduino Library Manager.
+  - name: Change the library URL
+    url: https://github.com/arduino/library-registry#changing-the-url-of-a-library-already-in-library-manager
+    about: Instructions for updating a library's registered URL.
+  - name: Library removal
+    url: https://github.com/arduino/library-registry#removing-a-library-from-library-manager
+    about: Instructions for requesting removal of your library from the Arduino Library Manager index.
+  - name: Submissions of new library releases
+    url: https://github.com/arduino/library-registry/blob/main/FAQ.md#how-can-i-publish-a-new-release-once-my-library-is-in-the-list
+    about: Instructions for publishing a new release of your library.
+  - name: Library not updated after release
+    url: https://github.com/arduino/library-registry/blob/main/FAQ.md#why-arent-releases-of-my-library-being-picked-up-by-library-manager
+    about: Information on why library releases are not picked up.
+  - name: Learn about using the Arduino Library Manager
+    url: https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/#using-the-library-manager
+    about: Documentation is available here.
+  - name: Learn about using this project
+    url: https://github.com/arduino/library-registry#readme
+    about: Detailed usage documentation is available here.
+  - name: Support request
+    url: https://forum.arduino.cc/
+    about: We can help you out on the Arduino Forum!
+  - name: Discuss development work on the project
+    url: https://groups.google.com/a/arduino.cc/g/developers
+    about: Arduino Developers Mailing List
