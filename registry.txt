@@ -7983,3 +7983,5 @@ https://github.com/alkonosst/RTOScppESP32.git|Contributed|RTOScppESP32
 https://github.com/CelliesProjects/OpenStreetMap-esp32.git|Contributed|OpenStreetMap-esp32
 https://github.com/MIPSLabs/MipsLib.git|Contributed|MipsLib
 https://github.com/YFROBOT-TM/Yfrobot-FPSensor-Library.git|Contributed|Yfrobot-FPSensor-Library
+https://github.com/DigitalCodesign/MentorBit-VL53.git|Contributed|MentorBit-VL53
+https://github.com/DigitalCodesign/MentorBit-BH1750.git|Contributed|MentorBit-BH1750
