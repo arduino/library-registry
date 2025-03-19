@@ -7985,3 +7985,4 @@ https://github.com/MIPSLabs/MipsLib.git|Contributed|MipsLib
 https://github.com/YFROBOT-TM/Yfrobot-FPSensor-Library.git|Contributed|Yfrobot-FPSensor-Library
 https://github.com/DigitalCodesign/MentorBit-VL53.git|Contributed|MentorBit-VL53
 https://github.com/DigitalCodesign/MentorBit-BH1750.git|Contributed|MentorBit-BH1750
+https://github.com/dvelaren/Halisense_SoilSensor.git|Contributed|Halisense_SoilSensor
