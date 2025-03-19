@@ -7156,7 +7156,6 @@ https://github.com/yellobyte/DacESP32
 https://github.com/yellobyte/SoapESP32
 https://github.com/yergin/Yabl
 https://github.com/yesbotics/dualsense-controller
-https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library
 https://github.com/YFROBOT-TM/Yfrobot-FPSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
