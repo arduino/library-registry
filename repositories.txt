@@ -7888,3 +7888,4 @@ https://github.com/styropyr0/ADS111S
 https://github.com/mlesniew/PicoSyslog
 https://github.com/Jonathan-Z-Code/DHT11_Sensor
 https://github.com/MIPSLabs/MipsLib
+https://github.com/bastian2001/pico-bidir-dshot
