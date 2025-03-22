@@ -7991,3 +7991,4 @@ https://github.com/m5stack/M5StamPLC.git|Contributed|M5StamPLC
 https://github.com/Dzmitry-visual-studio-2022/Winduino.git|Contributed|Winduino
 https://github.com/bartzdev/Renke_DissolvedOxygen_Sensor.git|Contributed|RenkeDissolvedOxygenSensor
 https://github.com/gunakkoc/MultiStepperLite.git|Contributed|MultiStepperLite
+https://github.com/cotestatnt/HTTPWebServer.git|Contributed|HTTPWebServer
