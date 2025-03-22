@@ -7895,3 +7895,4 @@ https://github.com/MIPSLabs/MipsLib
 https://github.com/bastian2001/pico-bidir-dshot
 https://github.com/bartzdev/Renke_DissolvedOxygen_Sensor
 https://github.com/ArtronShop/ATD-S3-Driver_Library
+https://github.com/SuyazWorld/AryzzIO
