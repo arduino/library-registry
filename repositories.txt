@@ -7354,6 +7354,7 @@ https://github.com/qqqlab/madflight
 https://github.com/qqqlab/ESP32_SoftWire
 https://github.com/qqqlab/GPS-uBlox
 https://github.com/qqqlab/qqqlab-RP2040-Toolbox
+https://github.com/qqqlab/ESP32-Serial-RMT-UART
 https://github.com/MJBeltran13/Bucopi_library
 https://github.com/lualtek/buttino-rak
 https://github.com/tomcombriat/FixMath
