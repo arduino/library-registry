@@ -7995,3 +7995,4 @@ https://github.com/cotestatnt/HTTPWebServer.git|Contributed|HTTPWebServer
 https://github.com/ArtronShop/ATD-S3-Driver_Library.git|Contributed|ATD-S3-Driver
 https://github.com/SuyazWorld/AryzzIO.git|Contributed|AryzzIO
 https://github.com/danmowehhuk/TestTool.git|Contributed|TestTool
+https://github.com/CMB27/AutomationTimers.git|Contributed|AutomationTimers
