@@ -8000,3 +8000,4 @@ https://github.com/qqqlab/ESP32-Serial-RMT-UART.git|Contributed|ESP32_SerialRMT
 https://github.com/manzarehassin/softRTC.git|Contributed|softRTC
 https://github.com/manzarehassin/tinyRTCds1307.git|Contributed|tinyRTCds1307
 https://github.com/MuhammadMakhfud/PZEM003_Fud.git|Contributed|PZEM003_Fud
+https://github.com/mjdonders/ESP32ServoController.git|Contributed|ESP32ServoController
