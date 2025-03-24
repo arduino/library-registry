@@ -4372,6 +4372,7 @@ https://github.com/mizuyoukanao/Bluewhale
 https://github.com/mjackdk/AmbientCO2
 https://github.com/mjbots/moteus-arduino
 https://github.com/mjdonders/CST816_TouchLib
+https://github.com/mjdonders/ESP32ServoController
 https://github.com/mkeras/BasicTag
 https://github.com/mkeras/pubsubclient
 https://github.com/mkhuthir/Si4703
