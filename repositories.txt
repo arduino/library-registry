@@ -1,4 +1,5 @@
 https://github.com/PeterBakarac/BayesianOptimization
+https://github.com/vincentmuriithi/kari/tree/main/kari/kari
 https://github.com/MuhammadMakhfud/PZEM003_Fud
 https://github.com/manzarehassin/tinyRTCds1307
 https://github.com/manzarehassin/softRTC
