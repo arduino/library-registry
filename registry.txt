@@ -8003,3 +8003,4 @@ https://github.com/MuhammadMakhfud/PZEM003_Fud.git|Contributed|PZEM003_Fud
 https://github.com/mjdonders/ESP32ServoController.git|Contributed|ESP32ServoController
 https://github.com/PeterBakarac/BayesianOptimization.git|Contributed|Bayesian Optimization
 https://github.com/Kadacheahmedrami/ESPExpress.git|Contributed|ESPExpress
+https://github.com/YoupiLab/YoupiLab_IoT_ESP.git|Contributed|YoupiLab_IoT_ESP
