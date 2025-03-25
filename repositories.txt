@@ -7193,6 +7193,7 @@ https://github.com/YoupiLab/YLSim800Lib
 https://github.com/YoupiLab/YoupiLabEsp32
 https://github.com/YoupiLab/YoupiLabESP32_IOT
 https://github.com/YoupiLab/YoupiLabEsp8266
+https://github.com/YoupiLab/YoupiLab_IoT_ESP.git
 https://github.com/ysard/MyOwnBricks
 https://github.com/ysard/PT6312_VFD_Arduino_Library
 https://github.com/ysard/TCS34725
