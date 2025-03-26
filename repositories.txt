@@ -3127,6 +3127,7 @@ https://github.com/Isaranu/Senses_NBIoT
 https://github.com/Isaranu/Senses_wifi
 https://github.com/Isaranu/Senses_wifi_esp32
 https://github.com/italia/cie-PN532
+https://github.com/italo-coelho/InverterWEG
 https://github.com/italo-coelho/pushButton
 https://github.com/italo-coelho/KukaVar
 https://github.com/ito-soft-design/irboard_esp32
