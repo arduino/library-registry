@@ -8006,3 +8006,4 @@ https://github.com/Kadacheahmedrami/ESPExpress.git|Contributed|ESPExpress
 https://github.com/YoupiLab/YoupiLab_IoT_ESP.git|Contributed|YoupiLab_IoT_ESP
 https://github.com/EatingJan1/MCHyetometer-REED.git|Contributed|MCHyetometer-REED
 https://github.com/RobTillaart/decibel.git|Contributed|decibel
+https://github.com/GyverLibs/StreamPacket.git|Contributed|StreamPacket
