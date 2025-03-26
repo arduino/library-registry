@@ -8010,3 +8010,4 @@ https://github.com/GyverLibs/StreamPacket.git|Contributed|StreamPacket
 https://github.com/vdwulp/iButtonTag.git|Contributed|iButtonTag
 https://github.com/italo-coelho/KukaVar.git|Contributed|KukaVar
 https://github.com/italo-coelho/InverterWEG.git|Contributed|InverterWEG
+https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library.git|Contributed|SparkFun BMV080 Arduino Library
