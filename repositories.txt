@@ -1,3 +1,4 @@
+https://github.com/vdwulp/iButtonTag
 https://github.com/PeterBakarac/BayesianOptimization
 https://github.com/MuhammadMakhfud/PZEM003_Fud
 https://github.com/manzarehassin/tinyRTCds1307
@@ -2751,6 +2752,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/StreamPacket
 https://github.com/GyverLibs/GyverMIDI
 https://github.com/GyverLibs/GTimer
 https://github.com/GyverLibs/BSON
@@ -5473,6 +5475,7 @@ https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/DAC8574
 https://github.com/RobTillaart/DAC53001
 https://github.com/RobTillaart/dateTimeHelpers
+https://github.com/RobTillaart/decibel
 https://github.com/RobTillaart/DEVFULL
 https://github.com/RobTillaart/DEVNULL
 https://github.com/RobTillaart/DEVRANDOM
@@ -7193,6 +7196,7 @@ https://github.com/YoupiLab/YLSim800Lib
 https://github.com/YoupiLab/YoupiLabEsp32
 https://github.com/YoupiLab/YoupiLabESP32_IOT
 https://github.com/YoupiLab/YoupiLabEsp8266
+https://github.com/YoupiLab/YoupiLab_IoT_ESP.git
 https://github.com/ysard/MyOwnBricks
 https://github.com/ysard/PT6312_VFD_Arduino_Library
 https://github.com/ysard/TCS34725
@@ -7872,6 +7876,7 @@ https://github.com/Port-Net/rmt_SENT
 https://github.com/Port-Net/MLX90377_SENT
 https://github.com/eccentricOrange/BIDFestTools
 https://github.com/dzalf/EEPROM_UID
+https://github.com/EatingJan1/MCHyetometer-REED
 https://github.com/4211421036/YFS201
 https://github.com/nikachu2012/HttpCall
 https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
