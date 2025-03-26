@@ -8009,3 +8009,4 @@ https://github.com/RobTillaart/decibel.git|Contributed|decibel
 https://github.com/GyverLibs/StreamPacket.git|Contributed|StreamPacket
 https://github.com/vdwulp/iButtonTag.git|Contributed|iButtonTag
 https://github.com/italo-coelho/KukaVar.git|Contributed|KukaVar
+https://github.com/italo-coelho/InverterWEG.git|Contributed|InverterWEG
