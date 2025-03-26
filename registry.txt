@@ -8008,3 +8008,4 @@ https://github.com/EatingJan1/MCHyetometer-REED.git|Contributed|MCHyetometer-REE
 https://github.com/RobTillaart/decibel.git|Contributed|decibel
 https://github.com/GyverLibs/StreamPacket.git|Contributed|StreamPacket
 https://github.com/vdwulp/iButtonTag.git|Contributed|iButtonTag
+https://github.com/italo-coelho/KukaVar.git|Contributed|KukaVar
