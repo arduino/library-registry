@@ -635,6 +635,7 @@ https://github.com/adafruit/Adafruit_TinyUSB_Arduino
 https://github.com/adafruit/Adafruit_TLA202x
 https://github.com/adafruit/Adafruit_TLC5947
 https://github.com/adafruit/Adafruit_TLC59711
+https://github.com/adafruit/Adafruit_TLV320_I2S
 https://github.com/adafruit/Adafruit_TMP006
 https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
