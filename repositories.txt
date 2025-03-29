@@ -1,3 +1,7 @@
+https://github.com/renesas/nfc-ptx105r-spi-arduino
+https://github.com/renesas/nfc-ptx105r-i2c-arduino
+https://github.com/renesas/nfc-ptx105r-uart-arduino
+https://github.com/vdwulp/iButtonTag
 https://github.com/PeterBakarac/BayesianOptimization
 https://github.com/MuhammadMakhfud/PZEM003_Fud
 https://github.com/manzarehassin/tinyRTCds1307
@@ -171,6 +175,7 @@ https://github.com/sub1inear/ArduboyI2C
 https://github.com/shorepine/amy
 https://github.com/microbotsio/MotorCell
 https://github.com/gilesp1729/FontCollection
+https://github.com/MEmbeddedTLB/Device
 https://github.com/gilesp1729/GestureDetector
 https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
@@ -630,6 +635,7 @@ https://github.com/adafruit/Adafruit_TinyUSB_Arduino
 https://github.com/adafruit/Adafruit_TLA202x
 https://github.com/adafruit/Adafruit_TLC5947
 https://github.com/adafruit/Adafruit_TLC59711
+https://github.com/adafruit/Adafruit_TLV320_I2S
 https://github.com/adafruit/Adafruit_TMP006
 https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
@@ -2751,6 +2757,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/StreamPacket
 https://github.com/GyverLibs/GyverMIDI
 https://github.com/GyverLibs/GTimer
 https://github.com/GyverLibs/BSON
@@ -3125,7 +3132,9 @@ https://github.com/Isaranu/Senses_NBIoT
 https://github.com/Isaranu/Senses_wifi
 https://github.com/Isaranu/Senses_wifi_esp32
 https://github.com/italia/cie-PN532
+https://github.com/italo-coelho/InverterWEG
 https://github.com/italo-coelho/pushButton
+https://github.com/italo-coelho/KukaVar
 https://github.com/ito-soft-design/irboard_esp32
 https://github.com/ivanseidel/ArduinoSensors
 https://github.com/ivanseidel/ArduinoThread
@@ -5473,6 +5482,7 @@ https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/DAC8574
 https://github.com/RobTillaart/DAC53001
 https://github.com/RobTillaart/dateTimeHelpers
+https://github.com/RobTillaart/decibel
 https://github.com/RobTillaart/DEVFULL
 https://github.com/RobTillaart/DEVNULL
 https://github.com/RobTillaart/DEVRANDOM
@@ -6418,6 +6428,7 @@ https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFunDMX
+https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
@@ -7873,6 +7884,7 @@ https://github.com/Port-Net/rmt_SENT
 https://github.com/Port-Net/MLX90377_SENT
 https://github.com/eccentricOrange/BIDFestTools
 https://github.com/dzalf/EEPROM_UID
+https://github.com/EatingJan1/MCHyetometer-REED
 https://github.com/4211421036/YFS201
 https://github.com/nikachu2012/HttpCall
 https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
@@ -7907,4 +7919,5 @@ https://github.com/SuyazWorld/AryzzIO
 https://github.com/CMB27/AutomationTimers
 https://github.com/Kadacheahmedrami/ESPExpress
 https://github.com/vincentmuriithi/kari
-
+https://github.com/codingABI/KY040
+https://github.com/iavorvel/MyButton
