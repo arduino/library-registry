@@ -7918,6 +7918,7 @@ https://github.com/ArtronShop/ATD-S3-Driver_Library
 https://github.com/SuyazWorld/AryzzIO
 https://github.com/CMB27/AutomationTimers
 https://github.com/Kadacheahmedrami/ESPExpress
+https://github.com/vincentmuriithi/kari
 https://github.com/codingABI/KY040
 https://github.com/iavorvel/MyButton
 https://github.com/auralius/yapid
