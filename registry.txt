@@ -8020,3 +8020,4 @@ https://github.com/codingABI/KY040.git|Contributed|KY040
 https://github.com/iavorvel/MyButton.git|Contributed|My_Button
 https://github.com/auralius/yapid.git|Contributed|YAPID
 https://github.com/vincentmuriithi/kari.git|Contributed|kari
+https://github.com/LostInCompilation/PrettyOTA.git|Contributed|PrettyOTA
