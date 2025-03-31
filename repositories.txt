@@ -7922,3 +7922,4 @@ https://github.com/vincentmuriithi/kari
 https://github.com/codingABI/KY040
 https://github.com/iavorvel/MyButton
 https://github.com/auralius/yapid
+https://github.com/LostInCompilation/PrettyOTA
