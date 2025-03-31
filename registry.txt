@@ -8021,3 +8021,4 @@ https://github.com/iavorvel/MyButton.git|Contributed|My_Button
 https://github.com/auralius/yapid.git|Contributed|YAPID
 https://github.com/vincentmuriithi/kari.git|Contributed|kari
 https://github.com/LostInCompilation/PrettyOTA.git|Contributed|PrettyOTA
+https://github.com/53175ddd/sound.git|Contributed|Sound Library for Arduino
