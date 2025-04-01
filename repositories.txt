@@ -7924,3 +7924,4 @@ https://github.com/iavorvel/MyButton
 https://github.com/auralius/yapid
 https://github.com/LostInCompilation/PrettyOTA
 https://github.com/53175ddd/sound
+https://github.com/brooksbUWO/Debounce
