@@ -8023,3 +8023,4 @@ https://github.com/vincentmuriithi/kari.git|Contributed|kari
 https://github.com/LostInCompilation/PrettyOTA.git|Contributed|PrettyOTA
 https://github.com/53175ddd/sound.git|Contributed|Sound Library for Arduino
 https://github.com/brooksbUWO/Debounce.git|Contributed|Debounce
+https://github.com/ChandanETE/CK_MAX.git|Contributed|CK_MAX
