@@ -8025,3 +8025,4 @@ https://github.com/53175ddd/sound.git|Contributed|Sound Library for Arduino
 https://github.com/brooksbUWO/Debounce.git|Contributed|Debounce
 https://github.com/ChandanETE/CK_MAX.git|Contributed|CK_MAX
 https://github.com/serifpersia/ESP32MidiPlayer.git|Contributed|ESP32MidiPlayer
+https://github.com/Obu-IntroSat/IntroStratLib-Public.git|Contributed|IntroStratLib
