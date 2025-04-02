@@ -11,7 +11,7 @@ https://github.com/arduino-libraries/GSM.git|Arduino,Retired|GSM
 https://github.com/arduino-libraries/LiquidCrystal.git|Arduino|LiquidCrystal
 https://github.com/arduino-libraries/Robot_Control.git|Arduino|Robot Control
 https://github.com/arduino-libraries/RobotIRremote.git|Arduino,Retired|Robot IR Remote
-https://github.com/arduino-libraries/Robot_Motor.git|Arduino|Robot Motor
+https://github.com/arduino-libraries/Robot_Motor.git|Arduino,Retired|Robot Motor
 https://github.com/arduino-libraries/RTCZero.git|Arduino|RTCZero
 https://github.com/arduino-libraries/Scheduler.git|Arduino|Scheduler
 https://github.com/arduino-libraries/SD.git|Arduino|SD
