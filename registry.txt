@@ -98,7 +98,7 @@ https://github.com/vidor-libraries/USBBlaster.git|Arduino|USBBlaster
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
 https://github.com/arduino-libraries/Ciao.git|Arduino|Ciao
 https://github.com/arduino-libraries/UnoWiFi-Developer-Edition-Lib.git|Arduino|Arduino Uno WiFi Dev Ed Library
-https://github.com/arduino-org/arduino-library-lora-node-shield.git|Arduino|LoRa Node
+https://github.com/arduino-org/arduino-library-lora-node-shield.git|Arduino,Retired|LoRa Node
 
 # to be moved in arduino-libraries
 https://github.com/cmaglie/FlashStorage.git|Contributed|FlashStorage
