@@ -8031,3 +8031,4 @@ https://github.com/stm32duino/ST25R200.git|Contributed|STM32duino ST25R200
 https://github.com/stm32duino/X-NUCLEO-NFC09A1.git|Contributed|STM32duino X-NUCLEO-NFC09A1
 https://github.com/stm32duino/X-NUCLEO-NFC10A1.git|Contributed|STM32duino X-NUCLEO-NFC10A1
 https://gitlab.com/noeFly/simpleservoesp32.git|Contributed|SimpleServoESP32
+https://github.com/IsraEB/esp32cam.git|Contributed|esp32cam
