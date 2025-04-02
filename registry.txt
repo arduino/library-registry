@@ -16,7 +16,7 @@ https://github.com/arduino-libraries/RTCZero.git|Arduino|RTCZero
 https://github.com/arduino-libraries/Scheduler.git|Arduino|Scheduler
 https://github.com/arduino-libraries/SD.git|Arduino|SD
 https://github.com/arduino-libraries/Servo.git|Arduino|Servo
-https://github.com/arduino-libraries/SpacebrewYun.git|Arduino|SpacebrewYun
+https://github.com/arduino-libraries/SpacebrewYun.git|Arduino,Retired|SpacebrewYun
 https://github.com/arduino-libraries/Stepper.git|Arduino|Stepper
 https://github.com/arduino-libraries/TFT.git|Arduino,Retired|TFT
 https://github.com/arduino-libraries/USBHost.git|Arduino|USBHost
