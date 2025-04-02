@@ -53,7 +53,7 @@ https://github.com/arduino-libraries/MKRNB.git|Arduino|MKRNB
 https://github.com/arduino-libraries/ArduinoMqttClient.git|Arduino|ArduinoMqttClient
 https://github.com/arduino/ArduinoCloudProviderExamples.git|Arduino|Arduino Cloud Provider Examples
 https://github.com/arduino-libraries/MKRIMU.git|Arduino|MKRIMU
-https://github.com/arduino-libraries/ArduinoCloudThing.git|Arduino|ArduinoCloudThing
+https://github.com/arduino-libraries/ArduinoCloudThing.git|Arduino,Retired|ArduinoCloudThing
 https://github.com/arduino-libraries/ArduinoIoTCloud.git|Arduino|ArduinoIoTCloud
 https://github.com/arduino-libraries/ArduinoIoTCloudBearSSL.git|Arduino|ArduinoIoTCloudBearSSL
 https://github.com/arduino-libraries/Arduino_JSON.git|Arduino|Arduino_JSON
