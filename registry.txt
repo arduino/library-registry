@@ -8027,3 +8027,6 @@ https://github.com/ChandanETE/CK_MAX.git|Contributed|CK_MAX
 https://github.com/serifpersia/ESP32MidiPlayer.git|Contributed|ESP32MidiPlayer
 https://github.com/Obu-IntroSat/IntroStratLib-Public.git|Contributed|IntroStratLib
 https://github.com/GabyGold67/ShiftRegGPIOXpander_ESP32.git|Contributed|ShiftRegGPIOXpander_ESP32
+https://github.com/stm32duino/ST25R200.git|Contributed|STM32duino ST25R200
+https://github.com/stm32duino/X-NUCLEO-NFC09A1.git|Contributed|STM32duino X-NUCLEO-NFC09A1
+https://github.com/stm32duino/X-NUCLEO-NFC10A1.git|Contributed|STM32duino X-NUCLEO-NFC10A1
