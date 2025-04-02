@@ -4535,7 +4535,7 @@ https://github.com/sstaub/NextionX2.git|Contributed|NextionX2
 https://github.com/NHBSystems/NHB_AD7124.git|Contributed|NHB_AD7124
 https://github.com/boothinator/TimerExtensions.git|Contributed|TimerExtensions
 https://github.com/bolderflight/vector_nav.git|Contributed|Bolder Flight Systems VectorNav
-https://github.com/arduino-libraries/Arduino_EMBRYO_2.git|Arduino|Arduino_EMBRYO_2
+https://github.com/arduino-libraries/Arduino_EMBRYO_2.git|Arduino,Retired|Arduino_EMBRYO_2
 https://github.com/boothinator/AnalogReadAsync.git|Contributed|AnalogReadAsync
 https://github.com/xavjb/KiddeeExpress.git|Contributed|KiddeeExpress
 https://github.com/mobizt/ESP-Google-Sheet-Client.git|Contributed|ESP-Google-Sheet-Client
