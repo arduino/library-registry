@@ -8034,3 +8034,4 @@ https://gitlab.com/noeFly/simpleservoesp32.git|Contributed|SimpleServoESP32
 https://github.com/IsraEB/esp32cam.git|Contributed|esp32cam
 https://github.com/RakibulIslam1/WebController.git|Contributed|WebController
 https://github.com/Bendeguz-Cs/DC_driver.git|Contributed|DC_driver
+https://github.com/sparkfun/SparkFun_PicoDVI_Arduino_Library.git|Contributed|SparkFun PicoDVI
