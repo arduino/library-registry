@@ -8033,3 +8033,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC10A1.git|Contributed|STM32duino X-NUCL
 https://gitlab.com/noeFly/simpleservoesp32.git|Contributed|SimpleServoESP32
 https://github.com/IsraEB/esp32cam.git|Contributed|esp32cam
 https://github.com/RakibulIslam1/WebController.git|Contributed|WebController
+https://github.com/Bendeguz-Cs/DC_driver.git|Contributed|DC_driver
