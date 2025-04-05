@@ -8037,3 +8037,4 @@ https://github.com/Bendeguz-Cs/DC_driver.git|Contributed|DC_driver
 https://github.com/sparkfun/SparkFun_PicoDVI_Arduino_Library.git|Contributed|SparkFun PicoDVI
 https://github.com/mcenkcavusoglu/MLX90392_library.git|Contributed|Melexis MLX90392 I2C Library
 https://github.com/wallysalami/SQLiteManager.git|Contributed|SQLiteManager
+https://github.com/codewitch-honey-crisis/htcw_pool.git|Contributed|htcw_pool
