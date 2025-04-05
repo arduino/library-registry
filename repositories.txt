@@ -50,6 +50,7 @@ https://github.com/Neurotech-Hub/Hublink-BEAM
 https://github.com/JagritThukral/ubidots-mqtt-esp32/
 https://github.com/wallysalami/BarcodeGFX
 https://github.com/wallysalami/QRCodeGFX
+https://github.com/wallysalami/SQLiteManager
 https://github.com/roncoa/SimRacingController
 https://github.com/KiselevIvan/kidLibrary
 https://github.com/dmachinewhisperer/micro-prompts-ino
