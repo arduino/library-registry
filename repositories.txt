@@ -7940,3 +7940,4 @@ https://github.com/stm32duino/X-NUCLEO-NFC10A1
 https://gitlab.com/noeFly/simpleservoesp32
 https://github.com/IsraEB/esp32cam
 http://github.com/codewitch-honey-crisis/htcw_pool
+https://github.com/rjsachse/ESP32-SpeexDSP
