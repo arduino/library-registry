@@ -8041,3 +8041,4 @@ https://github.com/codewitch-honey-crisis/htcw_pool.git|Contributed|htcw_pool
 https://github.com/rjsachse/ESP32-SpeexDSP.git|Contributed|ESP32-SpeexDSP
 https://github.com/hanzeelvilla/MyButtonIO.git|Contributed|MyButtonIO
 https://github.com/espressif/esp-boost.git|Contributed|esp-boost
+https://github.com/kingsmen732/Robot-face---sh1106-screen.git|Contributed|RoboFace
