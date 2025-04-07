@@ -8039,3 +8039,4 @@ https://github.com/mcenkcavusoglu/MLX90392_library.git|Contributed|Melexis MLX90
 https://github.com/wallysalami/SQLiteManager.git|Contributed|SQLiteManager
 https://github.com/codewitch-honey-crisis/htcw_pool.git|Contributed|htcw_pool
 https://github.com/rjsachse/ESP32-SpeexDSP.git|Contributed|ESP32-SpeexDSP
+https://github.com/hanzeelvilla/MyButtonIO.git|Contributed|MyButtonIO
