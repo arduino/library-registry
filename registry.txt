@@ -4,8 +4,8 @@
 
 https://github.com/arduino-libraries/Audio.git|Arduino|Audio
 https://github.com/arduino-libraries/AudioZero.git|Arduino|AudioZero
-https://github.com/arduino-libraries/Bridge.git|Arduino|Bridge
-https://github.com/arduino-libraries/Esplora.git|Arduino|Esplora
+https://github.com/arduino-libraries/Bridge.git|Arduino,Retired|Bridge
+https://github.com/arduino-libraries/Esplora.git|Arduino,Retired|Esplora
 https://github.com/arduino-libraries/Ethernet.git|Arduino|Ethernet
 https://github.com/arduino-libraries/GSM.git|Arduino,Retired|GSM
 https://github.com/arduino-libraries/LiquidCrystal.git|Arduino|LiquidCrystal
@@ -53,9 +53,9 @@ https://github.com/arduino-libraries/MKRNB.git|Arduino|MKRNB
 https://github.com/arduino-libraries/ArduinoMqttClient.git|Arduino|ArduinoMqttClient
 https://github.com/arduino/ArduinoCloudProviderExamples.git|Arduino|Arduino Cloud Provider Examples
 https://github.com/arduino-libraries/MKRIMU.git|Arduino|MKRIMU
-https://github.com/arduino-libraries/ArduinoCloudThing.git|Arduino|ArduinoCloudThing
+https://github.com/arduino-libraries/ArduinoCloudThing.git|Arduino,Retired|ArduinoCloudThing
 https://github.com/arduino-libraries/ArduinoIoTCloud.git|Arduino|ArduinoIoTCloud
-https://github.com/arduino-libraries/ArduinoIoTCloudBearSSL.git|Arduino|ArduinoIoTCloudBearSSL
+https://github.com/arduino-libraries/ArduinoIoTCloudBearSSL.git|Arduino,Retired|ArduinoIoTCloudBearSSL
 https://github.com/arduino-libraries/Arduino_JSON.git|Arduino|Arduino_JSON
 https://github.com/arduino-libraries/Arduino_MKRENV.git|Arduino|Arduino_MKRENV
 https://github.com/arduino-libraries/ArduinoGraphics.git|Arduino|ArduinoGraphics
@@ -72,15 +72,15 @@ https://github.com/arduino-libraries/Arduino_LSM9DS1.git|Arduino|Arduino_LSM9DS1
 https://github.com/arduino-libraries/Arduino_HTS221.git|Arduino|Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_LPS22HB.git|Arduino|Arduino_LPS22HB
 https://github.com/arduino-libraries/Arduino_APDS9960.git|Arduino|Arduino_APDS9960
-https://github.com/arduino-libraries/Arduino_CRC32.git|Arduino|Arduino_CRC32
-https://github.com/arduino-libraries/Arduino_KNN.git|Arduino|Arduino_KNN
+https://github.com/arduino-libraries/Arduino_CRC32.git|Arduino,Retired|Arduino_CRC32
+https://github.com/arduino-libraries/Arduino_KNN.git|Arduino,Retired|Arduino_KNN
 https://github.com/arduino-libraries/Arduino_OV767X.git|Arduino|Arduino_OV767X
 https://github.com/arduino-libraries/Arduino_BQ24195.git|Arduino|Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_MKRIoTCarrier.git|Arduino|Arduino_MKRIoTCarrier
 https://github.com/arduino-libraries/Arduino_MCHPTouch.git|Arduino|Arduino_MCHPTouch
 https://github.com/arduino-libraries/Arduino_ScienceJournal.git|Arduino|Arduino_ScienceJournal
 https://github.com/arduino-libraries/Arduino_SensorKit.git|Arduino|Arduino_Sensorkit
-https://github.com/arduino-libraries/Arduino_AVRSTL.git|Arduino|Arduino_AVRSTL
+https://github.com/arduino-libraries/Arduino_AVRSTL.git|Arduino,Retired|Arduino_AVRSTL
 https://github.com/arduino-libraries/Arduino_Portenta_OTA.git|Arduino|Arduino_Portenta_OTA
 https://github.com/arduino-libraries/Arduino_Pro_Tutorials.git|Arduino|Arduino_Pro_Tutorials
 https://github.com/arduino-libraries/Arduino_EdgeControl.git|Arduino|Arduino_EdgeControl
@@ -96,8 +96,8 @@ https://github.com/vidor-libraries/USBBlaster.git|Arduino|USBBlaster
 
 # .org libraries migrated to arduino-libraries
 https://github.com/arduino-libraries/Braccio.git|Arduino|Braccio
-https://github.com/arduino-libraries/Ciao.git|Arduino|Ciao
-https://github.com/arduino-libraries/UnoWiFi-Developer-Edition-Lib.git|Arduino|Arduino Uno WiFi Dev Ed Library
+https://github.com/arduino-libraries/Ciao.git|Arduino,Retired|Ciao
+https://github.com/arduino-libraries/UnoWiFi-Developer-Edition-Lib.git|Arduino,Retired|Arduino Uno WiFi Dev Ed Library
 https://github.com/arduino-org/arduino-library-lora-node-shield.git|Arduino,Retired|LoRa Node
 
 # to be moved in arduino-libraries
@@ -4535,7 +4535,7 @@ https://github.com/sstaub/NextionX2.git|Contributed|NextionX2
 https://github.com/NHBSystems/NHB_AD7124.git|Contributed|NHB_AD7124
 https://github.com/boothinator/TimerExtensions.git|Contributed|TimerExtensions
 https://github.com/bolderflight/vector_nav.git|Contributed|Bolder Flight Systems VectorNav
-https://github.com/arduino-libraries/Arduino_EMBRYO_2.git|Arduino|Arduino_EMBRYO_2
+https://github.com/arduino-libraries/Arduino_EMBRYO_2.git|Arduino,Retired|Arduino_EMBRYO_2
 https://github.com/boothinator/AnalogReadAsync.git|Contributed|AnalogReadAsync
 https://github.com/xavjb/KiddeeExpress.git|Contributed|KiddeeExpress
 https://github.com/mobizt/ESP-Google-Sheet-Client.git|Contributed|ESP-Google-Sheet-Client
@@ -5990,7 +5990,6 @@ https://github.com/glutio/Eventfun.git|Contributed|Eventfun
 https://github.com/mhorimoto/M304-lib.git|Contributed|M304 Library
 https://github.com/rm5248/liblcc-arduino.git|Contributed|LibLCC
 https://github.com/SNMetamorph/FutabaVfdM202MD10C.git|Contributed|FutabaVfdM202MD10C
-https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library.git|Contributed|Yfrobot Fingerprint Identification Sensor Library
 https://github.com/pablomarquez76/AnalogWrite_ESP32.git|Contributed|AnalogWrite_ESP32
 https://github.com/suratin27/DINO_PLC_V1.git|Contributed|DINO_PLC_V1
 https://github.com/arduino-libraries/Arduino_GigaDisplayTouch.git|Arduino|Arduino_GigaDisplayTouch
@@ -7914,7 +7913,7 @@ https://github.com/drmpf/NonBlockingModbusMaster.git|Contributed|NonBlockingModb
 https://github.com/robinz-labs/digishow-rioc.git|Contributed|DigiShow RIOC
 https://github.com/RobTillaart/LTC2485.git|Contributed|LTC2485
 https://github.com/MYCAMEL222/AbleTP.git|Contributed|AbleTP
-https://github.com/dac1e/DCF77RX.git|Contributed|Dcf77Receiver
+https://github.com/dac1e/DCF77RX.git|Contributed|DCF77RX
 https://github.com/snowhalationmkii/TTP229_BS81X_Serial.git|Contributed|TTP229_BS81X_Serial
 https://github.com/Sensirion/arduino-i2c-sfm3304.git|Contributed|Sensirion I2C SFM3304
 https://github.com/ImSpeddy/L298Nlib.git|Contributed|L298Nlib
@@ -8026,3 +8025,20 @@ https://github.com/brooksbUWO/Debounce.git|Contributed|Debounce
 https://github.com/ChandanETE/CK_MAX.git|Contributed|CK_MAX
 https://github.com/serifpersia/ESP32MidiPlayer.git|Contributed|ESP32MidiPlayer
 https://github.com/Obu-IntroSat/IntroStratLib-Public.git|Contributed|IntroStratLib
+https://github.com/GabyGold67/ShiftRegGPIOXpander_ESP32.git|Contributed|ShiftRegGPIOXpander_ESP32
+https://github.com/stm32duino/ST25R200.git|Contributed|STM32duino ST25R200
+https://github.com/stm32duino/X-NUCLEO-NFC09A1.git|Contributed|STM32duino X-NUCLEO-NFC09A1
+https://github.com/stm32duino/X-NUCLEO-NFC10A1.git|Contributed|STM32duino X-NUCLEO-NFC10A1
+https://gitlab.com/noeFly/simpleservoesp32.git|Contributed|SimpleServoESP32
+https://github.com/IsraEB/esp32cam.git|Contributed|esp32cam
+https://github.com/RakibulIslam1/WebController.git|Contributed|WebController
+https://github.com/Bendeguz-Cs/DC_driver.git|Contributed|DC_driver
+https://github.com/sparkfun/SparkFun_PicoDVI_Arduino_Library.git|Contributed|SparkFun PicoDVI
+https://github.com/mcenkcavusoglu/MLX90392_library.git|Contributed|Melexis MLX90392 I2C Library
+https://github.com/wallysalami/SQLiteManager.git|Contributed|SQLiteManager
+https://github.com/codewitch-honey-crisis/htcw_pool.git|Contributed|htcw_pool
+https://github.com/rjsachse/ESP32-SpeexDSP.git|Contributed|ESP32-SpeexDSP
+https://github.com/hanzeelvilla/MyButtonIO.git|Contributed|MyButtonIO
+https://github.com/espressif/esp-boost.git|Contributed|esp-boost
+https://github.com/kingsmen732/Robot-face---sh1106-screen.git|Contributed|RoboFace
+https://github.com/m5stack/M5Unit-KMeterISO.git|Contributed|M5Unit-KMeterISO
