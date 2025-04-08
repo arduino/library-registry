@@ -8042,3 +8042,4 @@ https://github.com/rjsachse/ESP32-SpeexDSP.git|Contributed|ESP32-SpeexDSP
 https://github.com/hanzeelvilla/MyButtonIO.git|Contributed|MyButtonIO
 https://github.com/espressif/esp-boost.git|Contributed|esp-boost
 https://github.com/kingsmen732/Robot-face---sh1106-screen.git|Contributed|RoboFace
+https://github.com/m5stack/M5Unit-KMeterISO.git|Contributed|M5Unit-KMeterISO
