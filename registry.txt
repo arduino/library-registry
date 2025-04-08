@@ -73,7 +73,7 @@ https://github.com/arduino-libraries/Arduino_HTS221.git|Arduino|Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_LPS22HB.git|Arduino|Arduino_LPS22HB
 https://github.com/arduino-libraries/Arduino_APDS9960.git|Arduino|Arduino_APDS9960
 https://github.com/arduino-libraries/Arduino_CRC32.git|Arduino,Retired|Arduino_CRC32
-https://github.com/arduino-libraries/Arduino_KNN.git|Arduino|Arduino_KNN
+https://github.com/arduino-libraries/Arduino_KNN.git|Arduino,Retired|Arduino_KNN
 https://github.com/arduino-libraries/Arduino_OV767X.git|Arduino|Arduino_OV767X
 https://github.com/arduino-libraries/Arduino_BQ24195.git|Arduino|Arduino_BQ24195
 https://github.com/arduino-libraries/Arduino_MKRIoTCarrier.git|Arduino|Arduino_MKRIoTCarrier
