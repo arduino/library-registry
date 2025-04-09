@@ -230,6 +230,7 @@ https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
 https://github.com/spaziochirale/ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500
+https://github.com/MEmbeddedTLB/Devices
 https://github.com/MoreThanRobotsFR/MTR_ADS7830
 https://github.com/mamunul/BanglaText
 https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors
