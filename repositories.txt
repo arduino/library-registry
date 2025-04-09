@@ -267,7 +267,7 @@ https://github.com/Khuuxuanngoc/TongHopThuVienCon1
 https://github.com/Tobsoft/HTL_onboard
 https://github.com/thepudding/bofu
 https://github.com/Khuuxuanngoc/TongHopThuVien.git
-https://github.com/eloquentarduino/tinyml4all-arduino.git
+https://github.com/salernosimone/tinyml4all-arduino
 https://github.com/CIRCUITSTATE/CSE_CircularBuffer
 https://github.com/bmurzabaev/mcp3201
 https://github.com/CIRCUITSTATE/CSE_MillisTimer
