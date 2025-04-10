@@ -8046,3 +8046,4 @@ https://github.com/CelliesProjects/LGFX-ScreenShot.git|Contributed|LGFX-ScreenSh
 https://github.com/MEmbeddedTLB/Devices.git|Contributed|Devices
 https://github.com/dezibot/dezibot.git|Contributed|Dezibot
 https://github.com/RobTillaart/PPD71.git|Contributed|PPD71
+https://github.com/beniseman/lineScale.git|Contributed|lineScale
