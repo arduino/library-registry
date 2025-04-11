@@ -8050,3 +8050,4 @@ https://github.com/beniseman/lineScale.git|Contributed|lineScale
 https://github.com/sparkfun/SparkFun_MY1690_MP3_Decoder_Arduino_Library.git|Contributed|SparkFun MY1690 MP3 Decoder Library
 https://github.com/Robotistan/PicoBricks-for-RPico.git|Contributed|PicoBricks-for-RPico
 https://github.com/ParhamMoAsghari/ArduinoSmartButton.git|Contributed|SmartButton
+https://github.com/beniseman/HX71708.git|Contributed|HX71708
