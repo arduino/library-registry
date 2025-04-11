@@ -1,3 +1,5 @@
+https://github.com/beniseman/lineScale
+https://github.com/dezibot/dezibot
 https://github.com/hanzeelvilla/MyButton
 https://github.com/mcenkcavusoglu/MLX90392_library
 https://github.com/Bendeguz-Cs/DC_driver
@@ -5644,6 +5646,7 @@ https://github.com/RobTillaart/PinInGroup
 https://github.com/RobTillaart/PinOutGroup
 https://github.com/RobTillaart/PIR
 https://github.com/RobTillaart/PIR8575
+https://github.com/RobTillaart/PPD71
 https://github.com/RobTillaart/Prandom
 https://github.com/RobTillaart/pressure
 https://github.com/RobTillaart/PrintCharArray
@@ -6336,6 +6339,7 @@ https://github.com/sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library
+https://github.com/sparkfun/SparkFun_MY1690_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library
 https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
 https://github.com/sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library
