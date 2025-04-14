@@ -5911,6 +5911,7 @@ https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi
 https://github.com/Seeed-Studio/Seeed_Arduino_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30
+https://github.com/Seeed-Studio/Seeed_Arduino_SPA06
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
 https://github.com/Seeed-Studio/Seeed_LDC1612
