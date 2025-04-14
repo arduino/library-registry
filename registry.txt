@@ -8052,3 +8052,4 @@ https://github.com/Robotistan/PicoBricks-for-RPico.git|Contributed|PicoBricks-fo
 https://github.com/ParhamMoAsghari/ArduinoSmartButton.git|Contributed|SmartButton
 https://github.com/beniseman/HX71708.git|Contributed|HX71708
 https://github.com/ArtronShop/AmAlert-Arduino.git|Contributed|AmAlert
+https://github.com/Seeed-Studio/Seeed_Arduino_SPA06.git|Contributed|Seeed Arduino SPA06
