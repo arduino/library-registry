@@ -8053,3 +8053,4 @@ https://github.com/ParhamMoAsghari/ArduinoSmartButton.git|Contributed|SmartButto
 https://github.com/beniseman/HX71708.git|Contributed|HX71708
 https://github.com/ArtronShop/AmAlert-Arduino.git|Contributed|AmAlert
 https://github.com/Seeed-Studio/Seeed_Arduino_SPA06.git|Contributed|Seeed Arduino SPA06
+https://github.com/Eason-SYC/WS2812_SYC_Air001.git|Contributed|WS2812_SYC_Air001
