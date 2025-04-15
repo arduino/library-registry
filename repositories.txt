@@ -1031,6 +1031,7 @@ https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
+https://github.com/arduino-libraries/Arduino_KVStore
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaC33
 https://github.com/arduino-libraries/Arduino_LPS22HB
