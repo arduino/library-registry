@@ -1,3 +1,16 @@
+https://github.com/hanzeelvilla/MyLedIO
+https://github.com/Eason-SYC/WS2812_SYC_Air001
+https://github.com/beniseman/HX71708
+https://github.com/beniseman/lineScale
+https://github.com/dezibot/dezibot
+https://github.com/hanzeelvilla/MyButton
+https://github.com/mcenkcavusoglu/MLX90392_library
+https://github.com/Bendeguz-Cs/DC_driver
+https://github.com/ChandanETE/CK_MAX
+https://github.com/renesas/nfc-ptx105r-spi-arduino
+https://github.com/renesas/nfc-ptx105r-i2c-arduino
+https://github.com/renesas/nfc-ptx105r-uart-arduino
+https://github.com/vdwulp/iButtonTag
 https://github.com/PeterBakarac/BayesianOptimization
 https://github.com/MuhammadMakhfud/PZEM003_Fud
 https://github.com/manzarehassin/tinyRTCds1307
@@ -43,6 +56,7 @@ https://github.com/Neurotech-Hub/Hublink-BEAM
 https://github.com/JagritThukral/ubidots-mqtt-esp32/
 https://github.com/wallysalami/BarcodeGFX
 https://github.com/wallysalami/QRCodeGFX
+https://github.com/wallysalami/SQLiteManager
 https://github.com/roncoa/SimRacingController
 https://github.com/KiselevIvan/kidLibrary
 https://github.com/dmachinewhisperer/micro-prompts-ino
@@ -171,6 +185,7 @@ https://github.com/sub1inear/ArduboyI2C
 https://github.com/shorepine/amy
 https://github.com/microbotsio/MotorCell
 https://github.com/gilesp1729/FontCollection
+https://github.com/MEmbeddedTLB/Device
 https://github.com/gilesp1729/GestureDetector
 https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
@@ -220,6 +235,7 @@ https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
 https://github.com/spaziochirale/ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500
+https://github.com/MEmbeddedTLB/Devices
 https://github.com/MoreThanRobotsFR/MTR_ADS7830
 https://github.com/mamunul/BanglaText
 https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors
@@ -566,6 +582,7 @@ https://github.com/adafruit/Adafruit_MLX90640
 https://github.com/adafruit/Adafruit_MMA8451_Library
 https://github.com/adafruit/Adafruit_MMC56x3
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
+https://github.com/RakibulIslam1/WebController
 https://github.com/adafruit/Adafruit_MP3
 https://github.com/adafruit/Adafruit_MPL115A2
 https://github.com/adafruit/Adafruit_MPL3115A2_Library
@@ -630,6 +647,7 @@ https://github.com/adafruit/Adafruit_TinyUSB_Arduino
 https://github.com/adafruit/Adafruit_TLA202x
 https://github.com/adafruit/Adafruit_TLC5947
 https://github.com/adafruit/Adafruit_TLC59711
+https://github.com/adafruit/Adafruit_TLV320_I2S
 https://github.com/adafruit/Adafruit_TMP006
 https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
@@ -1013,6 +1031,7 @@ https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
+https://github.com/arduino-libraries/Arduino_KVStore
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaC33
 https://github.com/arduino-libraries/Arduino_LPS22HB
@@ -1627,6 +1646,7 @@ https://github.com/cattanimarco/Grafici-GFX
 https://github.com/cbm80amiga/RREFont.git
 https://github.com/cDnNeMeSiS/xbee_serial_array
 https://github.com/CelliesProjects/ESP32_VS1053_Stream
+https://github.com/CelliesProjects/LGFX-ScreenShot
 https://github.com/CelliesProjects/moonPhase-esp32
 https://github.com/CelliesProjects/OpenStreetMap-esp32
 https://github.com/CelliesProjects/wm8978-esp32
@@ -2393,6 +2413,7 @@ https://github.com/ESDeveloperBR/TFT_eSPI_ES32Lab
 https://github.com/ESDeveloperBR/TimeInterval
 https://github.com/ESikich/RGBLEDBlender
 https://github.com/espressif/esp-brookesia
+https://github.com/espressif/esp-boost
 https://github.com/esp-arduino-libs/esp-lib-utils
 https://github.com/esp-arduino-libs/ESP32_Button
 https://github.com/esp-arduino-libs/ESP32_Display_Panel
@@ -3126,7 +3147,9 @@ https://github.com/Isaranu/Senses_NBIoT
 https://github.com/Isaranu/Senses_wifi
 https://github.com/Isaranu/Senses_wifi_esp32
 https://github.com/italia/cie-PN532
+https://github.com/italo-coelho/InverterWEG
 https://github.com/italo-coelho/pushButton
+https://github.com/italo-coelho/KukaVar
 https://github.com/ito-soft-design/irboard_esp32
 https://github.com/ivanseidel/ArduinoSensors
 https://github.com/ivanseidel/ArduinoThread
@@ -4033,6 +4056,7 @@ https://github.com/m5stack/M5Unit-UHF-RFID
 https://github.com/m5stack/M5Unit-QRCode
 https://github.com/m5stack/M5Unit-Synth
 https://github.com/m5stack/M5Unit-BLDC
+https://github.com/m5stack/M5Unit-KMeterISO
 https://github.com/m5stack/M5PoECAM
 https://github.com/m5stack/STAMP-PICO
 https://github.com/m5stack/TimerCam-arduino
@@ -5626,6 +5650,7 @@ https://github.com/RobTillaart/PinInGroup
 https://github.com/RobTillaart/PinOutGroup
 https://github.com/RobTillaart/PIR
 https://github.com/RobTillaart/PIR8575
+https://github.com/RobTillaart/PPD71
 https://github.com/RobTillaart/Prandom
 https://github.com/RobTillaart/pressure
 https://github.com/RobTillaart/PrintCharArray
@@ -5889,6 +5914,7 @@ https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi
 https://github.com/Seeed-Studio/Seeed_Arduino_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30
+https://github.com/Seeed-Studio/Seeed_Arduino_SPA06
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
 https://github.com/Seeed-Studio/Seeed_LDC1612
@@ -6318,6 +6344,7 @@ https://github.com/sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library
+https://github.com/sparkfun/SparkFun_MY1690_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library
 https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
 https://github.com/sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library
@@ -6420,6 +6447,8 @@ https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library
 https://github.com/sparkfun/SparkFun_WT2003S_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFunDMX
+https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library
+https://github.com/sparkfun/SparkFun_PicoDVI_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
@@ -7171,7 +7200,6 @@ https://github.com/yellobyte/DacESP32
 https://github.com/yellobyte/SoapESP32
 https://github.com/yergin/Yabl
 https://github.com/yesbotics/dualsense-controller
-https://github.com/YFROBOT-TM/Yfrobot-FPM383-Library
 https://github.com/YFROBOT-TM/Yfrobot-FPSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-I2C-LineFollowSensor-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
@@ -7909,4 +7937,25 @@ https://github.com/ArtronShop/ATD-S3-Driver_Library
 https://github.com/SuyazWorld/AryzzIO
 https://github.com/CMB27/AutomationTimers
 https://github.com/Kadacheahmedrami/ESPExpress
-
+https://github.com/vincentmuriithi/kari
+https://github.com/codingABI/KY040
+https://github.com/iavorvel/MyButton
+https://github.com/auralius/yapid
+https://github.com/LostInCompilation/PrettyOTA
+https://github.com/53175ddd/sound
+https://github.com/brooksbUWO/Debounce
+https://github.com/serifpersia/ESP32MidiPlayer
+https://github.com/Obu-IntroSat/IntroStratLib-Public.git
+https://github.com/GabyGold67/ShiftRegGPIOXpander_ESP32
+https://github.com/stm32duino/ST25R200
+https://github.com/stm32duino/X-NUCLEO-NFC09A1
+https://github.com/stm32duino/X-NUCLEO-NFC10A1
+https://gitlab.com/noeFly/simpleservoesp32
+https://github.com/IsraEB/esp32cam
+http://github.com/codewitch-honey-crisis/htcw_pool
+https://github.com/rjsachse/ESP32-SpeexDSP
+https://github.com/kingsmen732/Robot-face---sh1106-screen
+https://github.com/Robotistan/PicoBricks-for-RPico
+https://github.com/ParhamMoAsghari/ArduinoSmartButton
+https://github.com/ArtronShop/AmAlert-Arduino
+https://github.com/Obu-IntroSat/IntroSatLib
