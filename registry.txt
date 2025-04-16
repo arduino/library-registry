@@ -8058,3 +8058,4 @@ https://github.com/hanzeelvilla/MyLedIO.git|Contributed|MyLedIO
 https://github.com/arduino-libraries/Arduino_KVStore.git|Arduino|Arduino_KVStore
 https://github.com/Obu-IntroSat/IntroSatLib.git|Contributed|IntroSatLib
 https://github.com/GyverLibs/GyverWire.git|Contributed|GyverWire
+https://github.com/KOINSLOT-Inc/kywy.git|Contributed|Kywy
