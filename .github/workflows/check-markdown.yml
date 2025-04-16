@@ -34,10 +34,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Initialize markdownlint-cli problem matcher
-        uses: xt0rted/markdownlint-problem-matcher@v2
+        uses: xt0rted/markdownlint-problem-matcher@v3
 
       - name: Install markdownlint-cli
         run: sudo npm install --global markdownlint-cli
@@ -50,7 +50,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Determine whether only modified files should be checked
         id: check-modified
