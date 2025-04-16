@@ -1,3 +1,5 @@
+https://github.com/hanzeelvilla/MyLedIO
+https://github.com/Eason-SYC/WS2812_SYC_Air001
 https://github.com/beniseman/HX71708
 https://github.com/beniseman/lineScale
 https://github.com/dezibot/dezibot
@@ -1029,6 +1031,7 @@ https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
+https://github.com/arduino-libraries/Arduino_KVStore
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaC33
 https://github.com/arduino-libraries/Arduino_LPS22HB
@@ -2769,6 +2772,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverWire
 https://github.com/GyverLibs/StreamPacket
 https://github.com/GyverLibs/GyverMIDI
 https://github.com/GyverLibs/GTimer
@@ -5911,6 +5915,7 @@ https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi
 https://github.com/Seeed-Studio/Seeed_Arduino_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30
+https://github.com/Seeed-Studio/Seeed_Arduino_SPA06
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
 https://github.com/Seeed-Studio/Seeed_LDC1612
@@ -7955,3 +7960,5 @@ https://github.com/Robotistan/PicoBricks-for-RPico
 https://github.com/ParhamMoAsghari/ArduinoSmartButton
 https://github.com/4211421036/MPS20N0040D
 https://github.com/ArtronShop/AmAlert-Arduino
+https://github.com/Obu-IntroSat/IntroSatLib
+https://github.com/KOINSLOT-Inc/kywy
