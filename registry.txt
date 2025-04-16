@@ -8061,3 +8061,4 @@ https://github.com/GyverLibs/GyverWire.git|Contributed|GyverWire
 https://github.com/KOINSLOT-Inc/kywy.git|Contributed|Kywy
 https://github.com/Nick507/SmallButton.git|Contributed|SmallButton
 https://github.com/GabyGold67/SevenSegDisplays_ESP32.git|Contributed|SevenSegDisplays_ESP32
+https://github.com/styropyr0/BMP180.git|Contributed|BMP180
