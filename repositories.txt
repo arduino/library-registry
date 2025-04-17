@@ -1001,6 +1001,7 @@ https://github.com/Arduboy/ArduboyPlaytune
 https://github.com/ArduCAM/Arducam_dvp
 https://github.com/ArduCAM/Arducam_Mega
 https://github.com/ArduCAM/Arducam_mini
+https://github.com/ArduCAM/Arducam_Qwiic_CAM_Arduino
 https://github.com/arduino-libraries/AlPlc_Opta
 https://github.com/arduino-libraries/AlPlc_PMC
 https://github.com/arduino-libraries/Arduino_10BASE_T1S
