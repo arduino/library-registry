@@ -1,3 +1,4 @@
+https://github.com/salernosimone/tensorflow-runtime-universal-arduino
 https://github.com/hanzeelvilla/MyLedIO
 https://github.com/Eason-SYC/WS2812_SYC_Air001
 https://github.com/beniseman/HX71708
@@ -7957,8 +7958,14 @@ https://github.com/IsraEB/esp32cam
 http://github.com/codewitch-honey-crisis/htcw_pool
 https://github.com/rjsachse/ESP32-SpeexDSP
 https://github.com/kingsmen732/Robot-face---sh1106-screen
+https://github.com/sonalPuthane/RGBLED
+
 https://github.com/Robotistan/PicoBricks-for-RPico
 https://github.com/ParhamMoAsghari/ArduinoSmartButton
 https://github.com/ArtronShop/AmAlert-Arduino
 https://github.com/Obu-IntroSat/IntroSatLib
 https://github.com/KOINSLOT-Inc/kywy
+https://github.com/Nick507/SmallButton
+https://github.com/GabyGold67/SevenSegDisplays_ESP32
+https://github.com/styropyr0/BMP180
+
