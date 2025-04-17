@@ -1,3 +1,8 @@
+https://github.com/hanzeelvilla/MyLedIO
+https://github.com/Eason-SYC/WS2812_SYC_Air001
+https://github.com/beniseman/HX71708
+https://github.com/beniseman/lineScale
+https://github.com/dezibot/dezibot
 https://github.com/hanzeelvilla/MyButton
 https://github.com/mcenkcavusoglu/MLX90392_library
 https://github.com/Bendeguz-Cs/DC_driver
@@ -230,6 +235,7 @@ https://github.com/drrnb/SingleSevenSegment
 https://github.com/microbotsio/DriveCell
 https://github.com/spaziochirale/ArduTFLite
 https://github.com/MoreThanRobotsFR/MTR_STUSB4500
+https://github.com/MEmbeddedTLB/Devices
 https://github.com/MoreThanRobotsFR/MTR_ADS7830
 https://github.com/mamunul/BanglaText
 https://github.com/wilson-malone/RS485_Arduino_Wind_Direction_Speed_Sensors
@@ -1025,6 +1031,7 @@ https://github.com/arduino-libraries/Arduino_HS300x
 https://github.com/arduino-libraries/Arduino_HTS221
 https://github.com/arduino-libraries/Arduino_JSON
 https://github.com/arduino-libraries/Arduino_KNN
+https://github.com/arduino-libraries/Arduino_KVStore
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaH7
 https://github.com/arduino-libraries/Arduino_LowPowerPortentaC33
 https://github.com/arduino-libraries/Arduino_LPS22HB
@@ -2765,6 +2772,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverWire
 https://github.com/GyverLibs/StreamPacket
 https://github.com/GyverLibs/GyverMIDI
 https://github.com/GyverLibs/GTimer
@@ -5643,6 +5651,7 @@ https://github.com/RobTillaart/PinInGroup
 https://github.com/RobTillaart/PinOutGroup
 https://github.com/RobTillaart/PIR
 https://github.com/RobTillaart/PIR8575
+https://github.com/RobTillaart/PPD71
 https://github.com/RobTillaart/Prandom
 https://github.com/RobTillaart/pressure
 https://github.com/RobTillaart/PrintCharArray
@@ -5906,6 +5915,7 @@ https://github.com/Seeed-Studio/Seeed_Arduino_rpcWiFi
 https://github.com/Seeed-Studio/Seeed_Arduino_RTC
 https://github.com/Seeed-Studio/Seeed_Arduino_SFUD
 https://github.com/Seeed-Studio/Seeed_Arduino_SGP30
+https://github.com/Seeed-Studio/Seeed_Arduino_SPA06
 https://github.com/Seeed-Studio/Seeed_Arduino_Sketchbook
 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
 https://github.com/Seeed-Studio/Seeed_LDC1612
@@ -6335,6 +6345,7 @@ https://github.com/sparkfun/SparkFun_MPL3115A2_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MPU-9250_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5637_Arduino_Library
 https://github.com/sparkfun/SparkFun_MS5803-14BA_Breakout_Arduino_Library
+https://github.com/sparkfun/SparkFun_MY1690_MP3_Decoder_Arduino_Library
 https://github.com/sparkfun/SparkFun_OPT4048_Arduino_Library
 https://github.com/sparkfun/SparkFun_OWire_Arduino_Library
 https://github.com/sparkfun/SparkFun_Particle_Sensor_SN-GCJA5_Arduino_Library
@@ -7945,3 +7956,11 @@ https://github.com/IsraEB/esp32cam
 http://github.com/codewitch-honey-crisis/htcw_pool
 https://github.com/rjsachse/ESP32-SpeexDSP
 https://github.com/kingsmen732/Robot-face---sh1106-screen
+https://github.com/Robotistan/PicoBricks-for-RPico
+https://github.com/ParhamMoAsghari/ArduinoSmartButton
+https://github.com/ArtronShop/AmAlert-Arduino
+https://github.com/Obu-IntroSat/IntroSatLib
+https://github.com/KOINSLOT-Inc/kywy
+https://github.com/Nick507/SmallButton
+https://github.com/GabyGold67/SevenSegDisplays_ESP32
+https://github.com/styropyr0/BMP180
