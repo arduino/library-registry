@@ -8063,3 +8063,4 @@ https://github.com/Nick507/SmallButton.git|Contributed|SmallButton
 https://github.com/GabyGold67/SevenSegDisplays_ESP32.git|Contributed|SevenSegDisplays_ESP32
 https://github.com/styropyr0/BMP180.git|Contributed|BMP180
 https://github.com/salernosimone/tensorflow-runtime-universal-arduino.git|Contributed|tensorflow-runtime-universal
+https://github.com/sonalPuthane/RGBLED.git|Contributed|Srp_RGB_1
