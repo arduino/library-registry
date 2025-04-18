@@ -8066,3 +8066,4 @@ https://github.com/salernosimone/tensorflow-runtime-universal-arduino.git|Contri
 https://github.com/sonalPuthane/RGBLED.git|Contributed|Srp_RGB_1
 https://github.com/RobTillaart/MCP330X.git|Contributed|MCP330X
 https://github.com/TheSpaceEgg/MKSServoCAN.git|Contributed|MKSServoCAN
+https://github.com/ArduCAM/Arducam_Qwiic_CAM_Arduino.git|Contributed|Arducam_Qwiic_CAM
