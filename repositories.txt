@@ -1,3 +1,4 @@
+https://github.com/salernosimone/espkit-arduino
 https://github.com/salernosimone/tensorflow-runtime-universal-arduino
 https://github.com/hanzeelvilla/MyLedIO
 https://github.com/Eason-SYC/WS2812_SYC_Air001
