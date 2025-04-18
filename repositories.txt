@@ -5605,6 +5605,7 @@ https://github.com/RobTillaart/MCP23008
 https://github.com/RobTillaart/MCP23017_RT
 https://github.com/RobTillaart/MCP23S08
 https://github.com/RobTillaart/MCP23S17
+https://github.com/RobTillaart/MCP330X
 https://github.com/RobTillaart/MCP3424
 https://github.com/RobTillaart/MCP4261
 https://github.com/RobTillaart/MCP4725
@@ -7968,4 +7969,4 @@ https://github.com/KOINSLOT-Inc/kywy
 https://github.com/Nick507/SmallButton
 https://github.com/GabyGold67/SevenSegDisplays_ESP32
 https://github.com/styropyr0/BMP180
-
+https://github.com/TheSpaceEgg/MKSServoCAN
