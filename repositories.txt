@@ -4434,6 +4434,7 @@ https://github.com/mobizt/Firebase-ESP-Client
 https://github.com/mobizt/Firebase-ESP32
 https://github.com/mobizt/Firebase-ESP8266
 https://github.com/mobizt/FirebaseJson
+https://github.com/mobizt/ReadyMail
 https://github.com/modulolabs/modulo-lib
 https://github.com/mogel77/Jobber
 https://github.com/MohammedRashad/ArduZ80
