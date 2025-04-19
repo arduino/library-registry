@@ -8070,3 +8070,4 @@ https://github.com/ArduCAM/Arducam_Qwiic_CAM_Arduino.git|Contributed|Arducam_Qwi
 https://github.com/m5stack/M5-LoRaWAN-RAK.git|Contributed|M5-LoRaWAN-RAK
 https://github.com/salernosimone/espkit-arduino.git|Contributed|espkit
 https://github.com/salim-mrw/USB-Rubber.git|Contributed|usbrubber
+https://github.com/xreef/MultiFTPServer.git|Contributed|MultiFTPServer
