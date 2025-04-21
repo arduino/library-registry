@@ -8073,3 +8073,4 @@ https://github.com/salim-mrw/USB-Rubber.git|Contributed|usbrubber
 https://github.com/xreef/MultiFTPServer.git|Contributed|MultiFTPServer
 https://github.com/mobizt/ReadyMail.git|Contributed|ReadyMail
 https://github.com/austin207/ArduinoCalculus.git|Contributed|CalculusCore
+https://github.com/probonopd/KeypadSim.git|Contributed|KeypadSim
