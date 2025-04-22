@@ -8076,3 +8076,4 @@ https://github.com/austin207/ArduinoCalculus.git|Contributed|CalculusCore
 https://github.com/probonopd/KeypadSim.git|Contributed|KeypadSim
 https://github.com/CheezCheez/CheezsEMG.git|Contributed|CheezsEMG
 https://github.com/TheKvc/ServoHack.git|Contributed|ServoHack
+https://github.com/microbotsio/CodeCell-MicroLink.git|Contributed|CodeCell MicroLink
