@@ -1,3 +1,4 @@
+https://github.com/austin207/ArduinoCalculus.git
 https://github.com/salim-mrw/USB-Rubber
 https://github.com/salernosimone/espkit-arduino
 https://github.com/salernosimone/tensorflow-runtime-universal-arduino
@@ -7977,3 +7978,8 @@ https://github.com/TheSpaceEgg/MKSServoCAN
 
 https://github.com/xreef/MultiFTPServer
 https://github.com/miniiot/miniiot-arduino
+https://github.com/probonopd/KeypadSim
+https://github.com/CheezCheez/CheezsEMG
+https://github.com/TheKvc/ServoHack
+
+https://github.com/microbotsio/CodeCell-MicroLink
