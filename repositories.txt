@@ -7977,6 +7977,7 @@ https://github.com/styropyr0/BMP180
 https://github.com/TheSpaceEgg/MKSServoCAN
 
 https://github.com/xreef/MultiFTPServer
+https://github.com/miniiot/miniiot-arduino
 https://github.com/probonopd/KeypadSim
 https://github.com/CheezCheez/CheezsEMG
 https://github.com/TheKvc/ServoHack
