@@ -8084,3 +8084,4 @@ https://github.com/drmpf/RTC_NTP_replacement.git|Contributed|RTC_NTP_replacement
 https://github.com/jmksn/ArduEasy.git|Contributed|ArduEasy
 https://github.com/eyr1n/RP2040PIO_CAN.git|Contributed|RP2040PIO_CAN
 https://github.com/m5stack/M5Unit-EXTIO.git|Contributed|M5Unit-EXTIO
+https://github.com/m5stack/M5Unit-DISTANCE.git|Contributed|M5Unit-DISTANCE
