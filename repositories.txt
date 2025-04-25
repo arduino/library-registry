@@ -4074,6 +4074,7 @@ https://github.com/m5stack/TimerCam-arduino
 https://github.com/m5stack/M5-SX127x
 https://github.com/m5stack/M5Unit-8Encoder
 https://github.com/m5stack/M5Module-LLM
+https://github.com/m5stack/M5Module-Audio
 https://github.com/m5stack/M5StamPLC
 https://github.com/m5stack/M5-LoRaWAN-RAK
 https://github.com/machinefi/psa-crypto-arduino
