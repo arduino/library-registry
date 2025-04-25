@@ -3111,6 +3111,7 @@ https://github.com/Infineon/Stepper-Motor-Shield-IFX9201-XMC1300
 https://github.com/Infineon/TLE493D-3DMagnetic-Sensor
 https://github.com/Infineon/TLE5012-Magnetic-Angle-Sensor
 https://github.com/Infineon/TLI493D-W2BW
+https://github.com/zahidaof/SIM7600_TTS
 https://github.com/Infineon/TLI4970-D050T4-Current-Sensor
 https://github.com/Infineon/TLI4971-Current-Sensor
 https://github.com/Infineon/TLV493D-A1B6-3DMagnetic-Sensor
