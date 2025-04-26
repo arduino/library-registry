@@ -7996,3 +7996,4 @@ https://github.com/Arduino15/A15RGB
 https://github.com/eyr1n/esp32-ps3
 
 https://github.com/belem2050/TaskScheduler
+https://github.com/eyr1n/ESP32_TWAI
