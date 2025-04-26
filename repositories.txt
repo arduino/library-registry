@@ -7994,3 +7994,5 @@ https://github.com/eyr1n/RP2040PIO_CAN
 
 https://github.com/Arduino15/A15RGB
 https://github.com/eyr1n/esp32-ps3
+
+https://github.com/belem2050/TaskScheduler
