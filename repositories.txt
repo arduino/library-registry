@@ -7995,3 +7995,4 @@ https://github.com/belem2050/TaskScheduler
 https://github.com/eyr1n/ESP32_TWAI
 https://github.com/PelicanHu/ESPCPUTemp
 https://github.com/tedlanghorst/LP5562
+https://github.com/VictorDRE/CV7Lib
