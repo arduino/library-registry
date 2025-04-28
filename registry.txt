@@ -8091,3 +8091,4 @@ https://github.com/zahidaof/SIM7600_TTS.git|Contributed|SIM7600 TTS Library
 https://github.com/eyr1n/esp32-ps3.git|Contributed|Fork of PS3 Controller Host
 https://github.com/belem2050/TaskScheduler.git|Contributed|LightTaskScheduler
 https://github.com/eyr1n/ESP32_TWAI.git|Contributed|ESP32_TWAI
+https://github.com/PelicanHu/ESPCPUTemp.git|Contributed|ESPCPUTemp
