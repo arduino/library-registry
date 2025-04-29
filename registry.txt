@@ -8094,3 +8094,4 @@ https://github.com/eyr1n/ESP32_TWAI.git|Contributed|ESP32_TWAI
 https://github.com/PelicanHu/ESPCPUTemp.git|Contributed|ESPCPUTemp
 https://github.com/tedlanghorst/LP5562.git|Contributed|LP5562
 https://github.com/VictorDRE/CV7Lib.git|Contributed|CV7Lib
+https://github.com/CheezCheez/CheezPPG.git|Contributed|CheezPPG
