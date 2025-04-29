@@ -7986,6 +7986,7 @@ https://github.com/xreef/MultiFTPServer
 https://github.com/miniiot/miniiot-arduino
 https://github.com/probonopd/KeypadSim
 https://github.com/CheezCheez/CheezsEMG
+https://github.com/CheezCheez/CheezPPG
 https://github.com/TheKvc/ServoHack
 https://github.com/microbotsio/CodeCell-MicroLink
 https://github.com/eyr1n/RP2040PIO_CAN
