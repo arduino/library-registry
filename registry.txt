@@ -8095,3 +8095,4 @@ https://github.com/PelicanHu/ESPCPUTemp.git|Contributed|ESPCPUTemp
 https://github.com/tedlanghorst/LP5562.git|Contributed|LP5562
 https://github.com/VictorDRE/CV7Lib.git|Contributed|CV7Lib
 https://github.com/CheezCheez/CheezPPG.git|Contributed|CheezPPG
+https://github.com/misch2/BQ25798_Library.git|Contributed|BQ25798
