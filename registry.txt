@@ -8099,3 +8099,4 @@ https://github.com/misch2/BQ25798_Library.git|Contributed|BQ25798
 https://github.com/acornelissen/DTS6012M_UART.git|Contributed|DTS6012M_UART
 https://github.com/pololu/acs37800-arduino.git|Contributed|ACS37800
 https://github.com/peto-3210/ShiftRegisterPISO.git|Contributed|ShiftRegisterPISO
+https://github.com/whchun/waveshare-epd.git|Contributed|Waveshare_EPD
