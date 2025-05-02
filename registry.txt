@@ -8043,7 +8043,7 @@ https://github.com/espressif/esp-boost.git|Contributed|esp-boost
 https://github.com/kingsmen732/Robot-face---sh1106-screen.git|Contributed|RoboFace
 https://github.com/m5stack/M5Unit-KMeterISO.git|Contributed|M5Unit-KMeterISO
 https://github.com/CelliesProjects/LGFX-ScreenShot.git|Contributed|LGFX-ScreenShot
-https://github.com/MEmbeddedTLB/Devices.git|Contributed|Devices
+https://github.com/MEmbeddedTLB/Devices.git|Contributed|MDevice
 https://github.com/dezibot/dezibot.git|Contributed|Dezibot
 https://github.com/RobTillaart/PPD71.git|Contributed|PPD71
 https://github.com/beniseman/lineScale.git|Contributed|lineScale
