@@ -8001,4 +8001,5 @@ https://github.com/tedlanghorst/LP5562
 https://github.com/VictorDRE/CV7Lib
 https://github.com/misch2/BQ25798_Library
 https://github.com/peto-3210/ShiftRegisterPISO
+https://github.com/whchun/waveshare-epd
 
