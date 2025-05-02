@@ -3332,6 +3332,7 @@ https://github.com/Johboh/EspNowNetworkHost
 https://github.com/Johboh/EspNowNetworkHostDriver
 https://github.com/Johboh/EspNowNetworkNode
 https://github.com/Johboh/EspNowNetworkShared
+https://github.com/Johboh/GCMEncryption
 https://github.com/Johboh/HomeAssistantEntities
 https://github.com/Johboh/MQTTRemote
 https://github.com/Johboh/nlohmann-json
