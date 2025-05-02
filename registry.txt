@@ -8101,3 +8101,4 @@ https://github.com/pololu/acs37800-arduino.git|Contributed|ACS37800
 https://github.com/peto-3210/ShiftRegisterPISO.git|Contributed|ShiftRegisterPISO
 https://github.com/whchun/waveshare-epd.git|Contributed|Waveshare_EPD
 https://github.com/Johboh/GCMEncryption.git|Contributed|GCMEncryption
+https://github.com/leofig-rj/Arduino-LF_LoRa.git|Contributed|LF_LoRa
