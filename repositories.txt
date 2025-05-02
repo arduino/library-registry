@@ -4995,6 +4995,7 @@ https://github.com/poelstra/arduino-multi-button
 https://github.com/polohpi/AT24C256
 https://github.com/pololu/a-star-32u4-arduino-library
 https://github.com/pololu/a4990-motor-shield
+https://github.com/pololu/acs37800-arduino
 https://github.com/pololu/amis-30543-arduino
 https://github.com/pololu/apa102-arduino
 https://github.com/pololu/balboa-32u4-arduino-library
