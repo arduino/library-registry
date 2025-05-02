@@ -8097,3 +8097,4 @@ https://github.com/VictorDRE/CV7Lib.git|Contributed|CV7Lib
 https://github.com/CheezCheez/CheezPPG.git|Contributed|CheezPPG
 https://github.com/misch2/BQ25798_Library.git|Contributed|BQ25798
 https://github.com/acornelissen/DTS6012M_UART.git|Contributed|DTS6012M_UART
+https://github.com/pololu/acs37800-arduino.git|Contributed|ACS37800
