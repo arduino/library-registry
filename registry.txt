@@ -8105,3 +8105,4 @@ https://github.com/leofig-rj/Arduino-LF_LoRa.git|Contributed|LF_LoRa
 https://github.com/Johboh/ieee-802_15_4.git|Contributed|ieee-802_15_4
 https://github.com/Johboh/ieee-802_15_4-network-shared.git|Contributed|ieee-802_15_4-network-shared
 https://github.com/IvoryRubble/ArduinoNesGamepadLibrary.git|Contributed|NesGamepad
+https://github.com/liquidCS/esp32ARP.git|Contributed|esp32ARP
