@@ -7961,4 +7961,4 @@ https://github.com/ParhamMoAsghari/ArduinoSmartButton
 https://github.com/ArtronShop/AmAlert-Arduino
 https://github.com/Obu-IntroSat/IntroSatLib
 https://github.com/KOINSLOT-Inc/kywy
-https://github.com/4211421036/mps20n0040d
+https://github.com/4211421036/mps20n0040d-arduino
