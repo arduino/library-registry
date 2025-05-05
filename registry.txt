@@ -8110,3 +8110,4 @@ https://github.com/IvoryRubble/ArduinoSegaGamepadLibrary.git|Contributed|SegaGam
 https://github.com/koendv/xyc-als21c-k1.git|Contributed|xyc_als21c
 https://github.com/JimKnowler/Arduino_Waldo.git|Contributed|Waldo
 https://github.com/RobTillaart/74HC590.git|Contributed|74HC590
+https://github.com/tttapa/Control-Surface.git|Contributed|Control Surface
