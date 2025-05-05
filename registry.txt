@@ -8109,3 +8109,4 @@ https://github.com/liquidCS/esp32ARP.git|Contributed|esp32ARP
 https://github.com/IvoryRubble/ArduinoSegaGamepadLibrary.git|Contributed|SegaGamepad
 https://github.com/koendv/xyc-als21c-k1.git|Contributed|xyc_als21c
 https://github.com/JimKnowler/Arduino_Waldo.git|Contributed|Waldo
+https://github.com/RobTillaart/74HC590.git|Contributed|74HC590
