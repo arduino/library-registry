@@ -8111,3 +8111,4 @@ https://github.com/koendv/xyc-als21c-k1.git|Contributed|xyc_als21c
 https://github.com/JimKnowler/Arduino_Waldo.git|Contributed|Waldo
 https://github.com/RobTillaart/74HC590.git|Contributed|74HC590
 https://github.com/tttapa/Control-Surface.git|Contributed|Control Surface
+https://github.com/crystalfontz/Arduino_CFA039A0-N-V_Library.git|Contributed|Crystalfontz CFA039A0-N-V Library
