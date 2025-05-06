@@ -1,0 +1,21 @@
+{
+  "name": "AsyncWebOTA",
+  "version": "1.0.0",
+  "description": "Web-based OTA updates with real-time readouts for ESP8266, ESP32, and RP2040.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkaFUU/AsyncWebOTA"
+  },
+  "authors": [
+    {
+      "name": "Michael Thallmayer",
+      "email": "stefl.michael.ms@gmail.com",
+      "url": "https://github.com/SkaFUU",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SkaFUU/AsyncWebOTA",
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32", "rp2040"]
+}
