@@ -6,6 +6,7 @@ https://github.com/acornelissen/DTS6012M_UART
 https://github.com/m5stack/M5Unit-EXTIO
 https://github.com/m5stack/M5Unit-DISTANCE
 https://github.com/jmksn/ArduEasy
+https://github.com/beeneotr/ooreneo
 https://github.com/austin207/ArduinoCalculus.git
 https://github.com/salim-mrw/USB-Rubber
 https://github.com/drmpf/RTC_NTP_replacement
