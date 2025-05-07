@@ -10,6 +10,7 @@ https://github.com/austin207/ArduinoCalculus.git
 https://github.com/salim-mrw/USB-Rubber
 https://github.com/drmpf/RTC_NTP_replacement
 https://github.com/salernosimone/espkit-arduino
+https://github.com/beeneotr/oOreNEO-Kutuphanesi
 https://github.com/salernosimone/tensorflow-runtime-universal-arduino
 https://github.com/hanzeelvilla/MyLedIO
 https://github.com/Eason-SYC/WS2812_SYC_Air001
