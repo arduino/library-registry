@@ -8014,6 +8014,7 @@ https://github.com/misch2/BQ25798_Library
 https://github.com/peto-3210/ShiftRegisterPISO
 https://github.com/whchun/waveshare-epd
 https://github.com/koendv/xyc-als21c-k1
+https://github.com/lostcaggy/rotary_caggy
 https://github.com/JimKnowler/Arduino_Waldo
 https://github.com/tttapa/Control-Surface
 https://github.com/koendv/curveFitting
