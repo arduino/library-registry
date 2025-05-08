@@ -8116,3 +8116,4 @@ https://github.com/koendv/curveFitting.git|Contributed|curveFitting
 https://github.com/ahagelberg/PropulsionStepper.git|Contributed|PropulsionStepper
 https://github.com/beeneotr/ooreneo.git|Contributed|ooreneo
 https://github.com/lostcaggy/rotary_caggy.git|Contributed|CaggyRotary
+https://github.com/RobotZwrrl/RobotButterfly_Library.git|Contributed|RobotButterfly
