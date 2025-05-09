@@ -8119,3 +8119,4 @@ https://github.com/lostcaggy/rotary_caggy.git|Contributed|CaggyRotary
 https://github.com/RobotZwrrl/RobotButterfly_Library.git|Contributed|RobotButterfly
 https://github.com/Bina-Lee/FSR16x16_BNL.git|Contributed|FSR16x16_BNL
 https://github.com/rock7/RockBLOCK-9704.git|Contributed|RockBLOCK-9704
+https://github.com/codewitch-honey-crisis/htcw_mpm_parser.git|Contributed|htcw_mpm_parser
