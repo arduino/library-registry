@@ -8117,3 +8117,4 @@ https://github.com/ahagelberg/PropulsionStepper.git|Contributed|PropulsionSteppe
 https://github.com/beeneotr/ooreneo.git|Contributed|ooreneo
 https://github.com/lostcaggy/rotary_caggy.git|Contributed|CaggyRotary
 https://github.com/RobotZwrrl/RobotButterfly_Library.git|Contributed|RobotButterfly
+https://github.com/Bina-Lee/FSR16x16_BNL.git|Contributed|FSR16x16_BNL
