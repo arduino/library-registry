@@ -8120,3 +8120,4 @@ https://github.com/RobotZwrrl/RobotButterfly_Library.git|Contributed|RobotButter
 https://github.com/Bina-Lee/FSR16x16_BNL.git|Contributed|FSR16x16_BNL
 https://github.com/rock7/RockBLOCK-9704.git|Contributed|RockBLOCK-9704
 https://github.com/codewitch-honey-crisis/htcw_mpm_parser.git|Contributed|htcw_mpm_parser
+https://github.com/bonezegei/Bonezegei_JSON.git|Contributed|Bonezegei_JSON
