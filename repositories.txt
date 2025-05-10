@@ -1580,6 +1580,7 @@ https://github.com/bonezegei/Bonezegei_Utility
 https://github.com/bonezegei/Bonezegei_WS2812
 https://github.com/bonezegei/Bonezegei_XPT2046
 https://github.com/bonezegei/Bonezegei_XPT2046v2
+https://github.com/bonezegei/Bonezegei_JSON
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
