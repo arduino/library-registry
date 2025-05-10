@@ -2517,6 +2517,7 @@ https://github.com/FancyFoxGems/HalfStepper
 https://github.com/FancyFoxGems/IttyBitty
 https://github.com/fanfanlatulipe26/XGZP6897D
 https://github.com/FANTM/libdevlpr
+https://github.com/FarhanKhosravi/Dynamic_Window_Filter
 https://github.com/Fastcomm/hellothing_NBIoT_Arduino_Shield
 https://github.com/FastLED/FastLED
 https://github.com/FatBeard/vbus-arduino-library
