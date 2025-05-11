@@ -8124,3 +8124,4 @@ https://github.com/bonezegei/Bonezegei_JSON.git|Contributed|Bonezegei_JSON
 https://github.com/FarhanKhosravi/Dynamic_Window_Filter.git|Contributed|Dynamic Window Filter
 https://github.com/qemu-gazebo-sim/p2os-arduino.git|Contributed|P2OS
 https://github.com/beastbroak30/Mecmotor.git|Contributed|Mecmotor
+https://github.com/Kostovite/TWAI_ISO-TP.git|Contributed|ESP32 TWAI ISO-TP
