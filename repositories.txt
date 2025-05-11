@@ -6,6 +6,7 @@ https://github.com/leofig-rj/Arduino-LF_LoRa
 https://github.com/acornelissen/DTS6012M_UART
 https://github.com/m5stack/M5Unit-EXTIO
 https://github.com/m5stack/M5Unit-DISTANCE
+https://github.com/beastbroak30/Mecmotor
 https://github.com/jmksn/ArduEasy
 https://github.com/beeneotr/ooreneo
 https://github.com/austin207/ArduinoCalculus.git
