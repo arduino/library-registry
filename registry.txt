@@ -8013,7 +8013,6 @@ https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library.git|Contributed|Spar
 https://github.com/renesas/nfc-ptx105r-spi-arduino.git|Contributed|PTX105R SDK for SPI
 https://github.com/renesas/nfc-ptx105r-i2c-arduino.git|Contributed|PTX105R SDK for I2C
 https://github.com/renesas/nfc-ptx105r-uart-arduino.git|Contributed|PTX105R SDK for UART
-https://github.com/MEmbeddedTLB/Device.git|Contributed|Device
 https://github.com/adafruit/Adafruit_TLV320_I2S.git|Recommended|Adafruit TLV320 I2S
 https://github.com/codingABI/KY040.git|Contributed|KY040
 https://github.com/iavorvel/MyButton.git|Contributed|My_Button
@@ -8043,7 +8042,7 @@ https://github.com/espressif/esp-boost.git|Contributed|esp-boost
 https://github.com/kingsmen732/Robot-face---sh1106-screen.git|Contributed|RoboFace
 https://github.com/m5stack/M5Unit-KMeterISO.git|Contributed|M5Unit-KMeterISO
 https://github.com/CelliesProjects/LGFX-ScreenShot.git|Contributed|LGFX-ScreenShot
-https://github.com/MEmbeddedTLB/Devices.git|Contributed|Devices
+https://github.com/MEmbeddedTLB/Devices.git|Contributed|MDevice
 https://github.com/dezibot/dezibot.git|Contributed|Dezibot
 https://github.com/RobTillaart/PPD71.git|Contributed|PPD71
 https://github.com/beniseman/lineScale.git|Contributed|lineScale
@@ -8090,3 +8089,40 @@ https://github.com/Arduino15/A15RGB.git|Contributed|A15RGB
 https://github.com/zahidaof/SIM7600_TTS.git|Contributed|SIM7600 TTS Library
 https://github.com/eyr1n/esp32-ps3.git|Contributed|Fork of PS3 Controller Host
 https://github.com/belem2050/LightTaskScheduler.git|Contributed|LightTaskScheduler
+https://github.com/eyr1n/ESP32_TWAI.git|Contributed|ESP32_TWAI
+https://github.com/PelicanHu/ESPCPUTemp.git|Contributed|ESPCPUTemp
+https://github.com/tedlanghorst/LP5562.git|Contributed|LP5562
+https://github.com/VictorDRE/CV7Lib.git|Contributed|CV7Lib
+https://github.com/CheezCheez/CheezPPG.git|Contributed|CheezPPG
+https://github.com/misch2/BQ25798_Library.git|Contributed|BQ25798
+https://github.com/acornelissen/DTS6012M_UART.git|Contributed|DTS6012M_UART
+https://github.com/pololu/acs37800-arduino.git|Contributed|ACS37800
+https://github.com/peto-3210/ShiftRegisterPISO.git|Contributed|ShiftRegisterPISO
+https://github.com/whchun/waveshare-epd.git|Contributed|Waveshare_EPD
+https://github.com/Johboh/GCMEncryption.git|Contributed|GCMEncryption
+https://github.com/leofig-rj/Arduino-LF_LoRa.git|Contributed|LF_LoRa
+https://github.com/Johboh/ieee-802_15_4.git|Contributed|ieee-802_15_4
+https://github.com/Johboh/ieee-802_15_4-network-shared.git|Contributed|ieee-802_15_4-network-shared
+https://github.com/IvoryRubble/ArduinoNesGamepadLibrary.git|Contributed|NesGamepad
+https://github.com/liquidCS/esp32ARP.git|Contributed|esp32ARP
+https://github.com/IvoryRubble/ArduinoSegaGamepadLibrary.git|Contributed|SegaGamepad
+https://github.com/koendv/xyc-als21c-k1.git|Contributed|xyc_als21c
+https://github.com/JimKnowler/Arduino_Waldo.git|Contributed|Waldo
+https://github.com/RobTillaart/74HC590.git|Contributed|74HC590
+https://github.com/tttapa/Control-Surface.git|Contributed|Control Surface
+https://github.com/crystalfontz/Arduino_CFA039A0-N-V_Library.git|Contributed|Crystalfontz CFA039A0-N-V Library
+https://github.com/koendv/curveFitting.git|Contributed|curveFitting
+https://github.com/ahagelberg/PropulsionStepper.git|Contributed|PropulsionStepper
+https://github.com/beeneotr/ooreneo.git|Contributed|ooreneo
+https://github.com/lostcaggy/rotary_caggy.git|Contributed|CaggyRotary
+https://github.com/RobotZwrrl/RobotButterfly_Library.git|Contributed|RobotButterfly
+https://github.com/Bina-Lee/FSR16x16_BNL.git|Contributed|FSR16x16_BNL
+https://github.com/rock7/RockBLOCK-9704.git|Contributed|RockBLOCK-9704
+https://github.com/codewitch-honey-crisis/htcw_mpm_parser.git|Contributed|htcw_mpm_parser
+https://github.com/bonezegei/Bonezegei_JSON.git|Contributed|Bonezegei_JSON
+https://github.com/FarhanKhosravi/Dynamic_Window_Filter.git|Contributed|Dynamic Window Filter
+https://github.com/qemu-gazebo-sim/p2os-arduino.git|Contributed|P2OS
+https://github.com/beastbroak30/Mecmotor.git|Contributed|Mecmotor
+https://github.com/Kostovite/TWAI_ISO-TP.git|Contributed|ESP32 TWAI ISO-TP
+https://github.com/MAHESHKUMARM001/NeoHome_IOT.git|Contributed|NeoHome
+https://github.com/arduino-libraries/Arduino_NetworkConfigurator.git|Arduino|Arduino_NetworkConfigurator
