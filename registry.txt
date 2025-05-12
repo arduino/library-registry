@@ -8126,3 +8126,4 @@ https://github.com/qemu-gazebo-sim/p2os-arduino.git|Contributed|P2OS
 https://github.com/beastbroak30/Mecmotor.git|Contributed|Mecmotor
 https://github.com/Kostovite/TWAI_ISO-TP.git|Contributed|ESP32 TWAI ISO-TP
 https://github.com/MAHESHKUMARM001/NeoHome_IOT.git|Contributed|NeoHome
+https://github.com/arduino-libraries/Arduino_NetworkConfigurator.git|Arduino|Arduino_NetworkConfigurator
