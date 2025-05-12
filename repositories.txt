@@ -202,7 +202,6 @@ https://github.com/sub1inear/ArduboyI2C
 https://github.com/shorepine/amy
 https://github.com/microbotsio/MotorCell
 https://github.com/gilesp1729/FontCollection
-https://github.com/MEmbeddedTLB/Device
 https://github.com/gilesp1729/GestureDetector
 https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
