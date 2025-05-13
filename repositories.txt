@@ -619,6 +619,7 @@ https://github.com/adafruit/Adafruit_NeoPXL8
 https://github.com/adafruit/Adafruit_NeoTrellisM4
 https://github.com/adafruit/Adafruit_nRF8001
 https://github.com/adafruit/Adafruit_nRFCrypto
+https://github.com/adafruit/Adafruit_OPT4048
 https://github.com/adafruit/Adafruit_OV7670
 https://github.com/adafruit/Adafruit_PCF8574
 https://github.com/adafruit/Adafruit_PCF8591
