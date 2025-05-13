@@ -8127,3 +8127,4 @@ https://github.com/Kostovite/TWAI_ISO-TP.git|Contributed|ESP32 TWAI ISO-TP
 https://github.com/MAHESHKUMARM001/NeoHome_IOT.git|Contributed|NeoHome
 https://github.com/arduino-libraries/Arduino_NetworkConfigurator.git|Arduino|Arduino_NetworkConfigurator
 https://github.com/DIYables/DIYables_TFT_Shield.git|Contributed|DIYables TFT Shield
+https://github.com/BareMetal6502/BuzzKill-Arduino-Library.git|Contributed|BuzzKill
