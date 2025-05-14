@@ -8132,3 +8132,4 @@ https://github.com/adafruit/Adafruit_OPT4048.git|Recommended|Adafruit OPT4048
 https://github.com/RobTillaart/Metronome.git|Contributed|Metronome
 https://github.com/Thingsly/Thingsly_IoT_Platform.git|Contributed|Thingsly_IoT_Platform
 https://github.com/SkaFUU/AsyncWebOTA.git|Contributed|AsyncWebOTA
+https://github.com/Innuvatech/PatchugoLite_Arduino_Manager.git|Contributed|PatchugoLite Arduino Library
