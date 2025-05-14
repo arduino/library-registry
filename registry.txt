@@ -8130,3 +8130,4 @@ https://github.com/DIYables/DIYables_TFT_Shield.git|Contributed|DIYables TFT Shi
 https://github.com/BareMetal6502/BuzzKill-Arduino-Library.git|Contributed|BuzzKill
 https://github.com/adafruit/Adafruit_OPT4048.git|Recommended|Adafruit OPT4048
 https://github.com/RobTillaart/Metronome.git|Contributed|Metronome
+https://github.com/Thingsly/Thingsly_IoT_Platform.git|Contributed|Thingsly_IoT_Platform
