@@ -8033,3 +8033,4 @@ https://github.com/rock7/RockBLOCK-9704
 https://github.com/codewitch-honey-crisis/htcw_mpm_parser
 https://github.com/qemu-gazebo-sim/p2os-arduino
 https://github.com/MAHESHKUMARM001/NeoHome_IOT.git
+https://github.com/Thingsly/Thingsly_IoT_Platform
