@@ -8135,3 +8135,4 @@ https://github.com/SkaFUU/AsyncWebOTA.git|Contributed|AsyncWebOTA
 https://github.com/Innuvatech/PatchugoLite_Arduino_Manager.git|Contributed|PatchugoLite Arduino Library
 https://github.com/ShahazadAbdulla/mpu6050-aries-library.git|Contributed|MPU6050Aries
 https://github.com/codewitch-honey-crisis/htcw_base64.git|Contributed|htcw_base64
+https://github.com/thomasfredericks/MicroSlip.git|Contributed|MicroSlip
