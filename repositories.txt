@@ -8036,3 +8036,4 @@ https://github.com/qemu-gazebo-sim/p2os-arduino
 https://github.com/MAHESHKUMARM001/NeoHome_IOT.git
 https://github.com/Thingsly/Thingsly_IoT_Platform
 https://github.com/Innuvatech/PatchugoLite_Arduino_Manager
+https://github.com/ShahazadAbdulla/mpu6050-aries-library
