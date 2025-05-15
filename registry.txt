@@ -8133,3 +8133,4 @@ https://github.com/RobTillaart/Metronome.git|Contributed|Metronome
 https://github.com/Thingsly/Thingsly_IoT_Platform.git|Contributed|Thingsly_IoT_Platform
 https://github.com/SkaFUU/AsyncWebOTA.git|Contributed|AsyncWebOTA
 https://github.com/Innuvatech/PatchugoLite_Arduino_Manager.git|Contributed|PatchugoLite Arduino Library
+https://github.com/ShahazadAbdulla/mpu6050-aries-library.git|Contributed|MPU6050Aries
