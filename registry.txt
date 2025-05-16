@@ -8136,3 +8136,9 @@ https://github.com/Innuvatech/PatchugoLite_Arduino_Manager.git|Contributed|Patch
 https://github.com/ShahazadAbdulla/mpu6050-aries-library.git|Contributed|MPU6050Aries
 https://github.com/codewitch-honey-crisis/htcw_base64.git|Contributed|htcw_base64
 https://github.com/thomasfredericks/MicroSlip.git|Contributed|MicroSlip
+https://github.com/BestModules-Libraries/BM92S2231-1.git|Contributed|BM92S2231-1
+https://github.com/BestModules-Libraries/BM62S2301-1.git|Contributed|BM62S2301-1
+https://github.com/BestModules-Libraries/BM42S3021-1.git|Contributed|BM42S3021-1
+https://github.com/BestModules-Libraries/BMB22M181A.git|Contributed|BMB22M181A
+https://github.com/BestModules-Libraries/BM25S2621-1.git|Contributed|BM25S2621-1
+https://github.com/BestModules-Libraries/BM25S4021-1.git|Contributed|BM25S4021-1
