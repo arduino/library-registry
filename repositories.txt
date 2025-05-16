@@ -33,7 +33,7 @@ https://github.com/renesas/nfc-ptx105r-spi-arduino
 https://github.com/renesas/nfc-ptx105r-i2c-arduino
 https://github.com/renesas/nfc-ptx105r-uart-arduino
 https://github.com/vdwulp/iButtonTag
-https://github.com/DaveZBorja/CC1101
+https://github.com/DaveZBorja/Borja_CC1101
 https://github.com/PeterBakarac/BayesianOptimization
 https://github.com/MuhammadMakhfud/PZEM003_Fud
 https://github.com/manzarehassin/tinyRTCds1307
