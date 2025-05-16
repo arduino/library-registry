@@ -1,5 +1,7 @@
+https://github.com/thomasfredericks/MicroSlip
 https://github.com/SkaFUU/AsyncWebOTA
 https://github.com/DIYables/DIYables_TFT_Shield
+https://github.com/DIYables/DIYables_TFT_Touch_Shield
 https://github.com/BareMetal6502/BuzzKill-Arduino-Library
 https://github.com/Kostovite/TWAI_ISO-TP
 https://github.com/RobotZwrrl/RobotButterfly_Library
@@ -8039,3 +8041,9 @@ https://github.com/Thingsly/Thingsly_IoT_Platform
 https://github.com/Innuvatech/PatchugoLite_Arduino_Manager
 https://github.com/ShahazadAbdulla/mpu6050-aries-library
 https://github.com/codewitch-honey-crisis/htcw_base64
+https://github.com/BestModules-Libraries/BM92S2231-1
+https://github.com/BestModules-Libraries/BM62S2301-1
+https://github.com/BestModules-Libraries/BM42S3021-1
+https://github.com/BestModules-Libraries/BMB22M181A
+https://github.com/BestModules-Libraries/BM25S2621-1
+https://github.com/BestModules-Libraries/BM25S4021-1
