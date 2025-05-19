@@ -2308,6 +2308,7 @@ https://github.com/e-radionicacom/Inkplate-6-Arduino-library
 https://github.com/eagleSIA/eBoard
 https://github.com/earlephilhower/BackgroundAudio
 https://github.com/earlephilhower/ESP8266Audio
+https://github.com/earlephilhower/PicoLlama
 https://github.com/earthtown/8_digit_vfd
 https://github.com/EasyG0ing1/BlockNot
 https://github.com/EasyG0ing1/SimpleEncoder
