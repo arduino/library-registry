@@ -8146,3 +8146,4 @@ https://github.com/DIYables/DIYables_TFT_Touch_Shield.git|Contributed|DIYables T
 https://github.com/Bina-Lee/PWM2motor_BNL.git|Contributed|PWM2motor_BNL
 https://github.com/neondatabase-labs/NeonPostgresOverHTTP.git|Contributed|NeonPostgresOverHTTP
 https://github.com/socialbodylab/UWB-MaUWB-AT.git|Contributed|UWB-MaUWB-AT
+https://github.com/tesla-jedi/PersistentJsonEEPROM.git|Contributed|PersistentJsonEEPROM
