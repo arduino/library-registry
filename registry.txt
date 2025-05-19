@@ -8144,3 +8144,4 @@ https://github.com/BestModules-Libraries/BM25S2621-1.git|Contributed|BM25S2621-1
 https://github.com/BestModules-Libraries/BM25S4021-1.git|Contributed|BM25S4021-1
 https://github.com/DIYables/DIYables_TFT_Touch_Shield.git|Contributed|DIYables TFT Touch Shield
 https://github.com/Bina-Lee/PWM2motor_BNL.git|Contributed|PWM2motor_BNL
+https://github.com/neondatabase-labs/NeonPostgresOverHTTP.git|Contributed|NeonPostgresOverHTTP
