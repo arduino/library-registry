@@ -8147,3 +8147,4 @@ https://github.com/Bina-Lee/PWM2motor_BNL.git|Contributed|PWM2motor_BNL
 https://github.com/neondatabase-labs/NeonPostgresOverHTTP.git|Contributed|NeonPostgresOverHTTP
 https://github.com/socialbodylab/UWB-MaUWB-AT.git|Contributed|UWB-MaUWB-AT
 https://github.com/tesla-jedi/PersistentJsonEEPROM.git|Contributed|PersistentJsonEEPROM
+https://github.com/earlephilhower/PicoLlama.git|Contributed|PicoLlama
