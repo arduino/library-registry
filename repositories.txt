@@ -8051,3 +8051,4 @@ https://github.com/BestModules-Libraries/BM25S4021-1
 https://github.com/Bina-Lee/PWM2motor_BNL
 https://github.com/socialbodylab/UWB-MaUWB-AT
 https://github.com/tesla-jedi/PersistentJsonEEPROM
+https://bitbucket.org/jamesneko/lazy-serial
