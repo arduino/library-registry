@@ -1173,7 +1173,6 @@ https://github.com/Industruino/FRAM.git|Contributed|Fram
 https://github.com/sparkfun/SparkFun_Si7021_Arduino_Library.git|Contributed|SparkFun Si7021 Humidity and Temperature Sensor
 https://github.com/OpenBCI/OpenBCI_WIFI.git|Contributed|OpenBCI_Wifi
 https://github.com/OpenBCI/OpenBCI_Wifi_Master_Library.git|Contributed|OpenBCI_Wifi_Master
-https://github.com/Infineon/DC-Motor-Control-TLE94112EL.git|Contributed|TLE94112
 https://github.com/PulseRain/M10ESP8266.git|Contributed|M10ESP8266
 https://github.com/pololu/tic-arduino.git|Contributed|Tic
 https://github.com/XasWorks/Circios-Library.git|Contributed|Circios Roboter-Steuerung
