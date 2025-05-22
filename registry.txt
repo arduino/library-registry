@@ -8150,3 +8150,4 @@ https://github.com/tesla-jedi/PersistentJsonEEPROM.git|Contributed|PersistentJso
 https://github.com/earlephilhower/PicoLlama.git|Contributed|PicoLlama
 https://bitbucket.org/jamesneko/lazy-serial.git|Contributed|LazySerial
 https://github.com/Uiop3385/CommandHandler.git|Contributed|CommandHandler
+https://github.com/peto-3210/ModbusRTU.git|Contributed|ModbusRTU
