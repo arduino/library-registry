@@ -8053,3 +8053,4 @@ https://github.com/socialbodylab/UWB-MaUWB-AT
 https://github.com/tesla-jedi/PersistentJsonEEPROM
 https://bitbucket.org/jamesneko/lazy-serial
 https://github.com/Uiop3385/CommandHandler
+https://github.com/peto-3210/ModbusRTU
