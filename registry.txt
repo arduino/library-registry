@@ -8154,3 +8154,4 @@ https://github.com/peto-3210/ModbusRTU.git|Contributed|ModbusRTU
 https://github.com/adafruit/Adafruit_STSPIN.git|Recommended|Adafruit STSPIN
 https://github.com/ruiseixasm/JsonTalkie.git|Contributed|JsonTalkie
 https://github.com/sciosense/ens190-arduino.git|Contributed|ScioSense_ENS190
+https://github.com/depben/PT7C4339-RTC.git|Contributed|PT7C4339-RTC
