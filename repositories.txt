@@ -8057,3 +8057,4 @@ https://bitbucket.org/jamesneko/lazy-serial
 https://github.com/Uiop3385/CommandHandler
 https://github.com/peto-3210/ModbusRTU
 https://github.com/ruiseixasm/JsonTalkie
+https://github.com/depben/PT7C4339-RTC
