@@ -1,3 +1,4 @@
+https://github.com/TheBeautifulOrc/SimpleRFID
 https://github.com/neondatabase-labs/NeonPostgresOverHTTP
 https://github.com/thomasfredericks/MicroSlip
 https://github.com/SkaFUU/AsyncWebOTA
