@@ -8157,3 +8157,4 @@ https://github.com/sciosense/ens190-arduino.git|Contributed|ScioSense_ENS190
 https://github.com/depben/PT7C4339-RTC.git|Contributed|PT7C4339-RTC
 https://github.com/RCduino/RCduino.git|Contributed|RCduino
 https://github.com/styropyr0/mjoln_fs.git|Contributed|MjolnFileSystem
+https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-Library.git|Contributed|Ynvisible Driver v5 Arduino Library
