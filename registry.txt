@@ -8161,3 +8161,4 @@ https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-Library.git|Contr
 https://github.com/owochel/MistMaker.git|Contributed|MistMaker
 https://github.com/Ewan-Dev/mpu6050.git|Contributed|mpu6050
 https://github.com/Faizyee/Socketyee.git|Contributed|Socketyee
+https://github.com/devilhyt/lump-device-builder-library.git|Contributed|LumpDeviceBuilder
