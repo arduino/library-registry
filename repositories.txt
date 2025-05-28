@@ -561,6 +561,7 @@ https://github.com/adafruit/Adafruit_ILI9341
 https://github.com/adafruit/Adafruit_ImageReader
 https://github.com/adafruit/Adafruit_INA219
 https://github.com/adafruit/Adafruit_INA228
+https://github.com/adafruit/Adafruit_INA237_INA238
 https://github.com/adafruit/Adafruit_INA260
 https://github.com/adafruit/Adafruit_INA3221
 https://github.com/adafruit/Adafruit_IntelliKeys
