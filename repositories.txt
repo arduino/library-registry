@@ -8067,3 +8067,4 @@ https://github.com/depben/PT7C4339-RTC
 https://github.com/RCduino/RCduino.git
 https://github.com/styropyr0/mjoln_fs
 https://github.com/Faizyee/Socketyee
+https://github.com/lahavg/QMI8658-Arduino-Library
