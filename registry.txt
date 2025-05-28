@@ -8163,3 +8163,4 @@ https://github.com/Ewan-Dev/mpu6050.git|Contributed|mpu6050
 https://github.com/Faizyee/Socketyee.git|Contributed|Socketyee
 https://github.com/devilhyt/lump-device-builder-library.git|Contributed|LumpDeviceBuilder
 https://github.com/adafruit/Adafruit_INA237_INA238.git|Recommended|Adafruit INA237 and INA238 Library
+https://github.com/santerilindfors/BL0942.git|Contributed|BL0942
