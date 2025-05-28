@@ -1,3 +1,4 @@
+https://github.com/santerilindfors/BL0942
 https://github.com/devilhyt/lump-device-builder-library
 https://github.com/Ewan-Dev/mpu6050
 https://github.com/owochel/MistMaker
