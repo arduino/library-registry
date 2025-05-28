@@ -8160,3 +8160,4 @@ https://github.com/styropyr0/mjoln_fs.git|Contributed|MjolnFileSystem
 https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Arduino-Library.git|Contributed|Ynvisible Driver v5 Arduino Library
 https://github.com/owochel/MistMaker.git|Contributed|MistMaker
 https://github.com/Ewan-Dev/mpu6050.git|Contributed|mpu6050
+https://github.com/Faizyee/Socketyee.git|Contributed|Socketyee
