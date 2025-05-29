@@ -8068,3 +8068,4 @@ https://github.com/RCduino/RCduino.git
 https://github.com/styropyr0/mjoln_fs
 https://github.com/Faizyee/Socketyee
 https://github.com/ivanmari/bare-poller
+https://github.com/lahavg/QMI8658-Arduino-Library
