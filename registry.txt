@@ -8167,3 +8167,4 @@ https://github.com/santerilindfors/BL0942.git|Contributed|BL0942
 https://github.com/lahavg/QMI8658-Arduino-Library.git|Contributed|QMI8658
 https://github.com/ivanmari/bare-poller.git|Contributed|BarePoller
 https://github.com/ImSpeddy/QuickUltrasonic.git|Contributed|QuickUltrasonic
+https://github.com/sebastianregelmann/CypressCY8CMBR3116.git|Contributed|CypressCY8CMBR3116
