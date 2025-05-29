@@ -7947,6 +7947,7 @@ https://github.com/Elrindel/SomfyReceiver
 https://github.com/thebestia90/AD5259
 https://github.com/dac1e/DCF77RX
 https://github.com/ImSpeddy/L298Nlib
+https://github.com/ImSpeddy/QuickUltrasonic
 https://github.com/4211421036/githubiot
 https://github.com/christosneg/concurrentPID.git
 https://github.com/twstokes/flipdotmatrix
