@@ -8165,3 +8165,4 @@ https://github.com/devilhyt/lump-device-builder-library.git|Contributed|LumpDevi
 https://github.com/adafruit/Adafruit_INA237_INA238.git|Recommended|Adafruit INA237 and INA238 Library
 https://github.com/santerilindfors/BL0942.git|Contributed|BL0942
 https://github.com/lahavg/QMI8658-Arduino-Library.git|Contributed|QMI8658
+https://github.com/ivanmari/bare-poller.git|Contributed|BarePoller
