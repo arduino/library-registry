@@ -8074,3 +8074,4 @@ https://github.com/Faizyee/Socketyee
 https://github.com/ivanmari/bare-poller
 https://github.com/lahavg/QMI8658-Arduino-Library
 https://github.com/k3ldar/MovementDetector
+https://github.com/marcel-naderer/Lexo
