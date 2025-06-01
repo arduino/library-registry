@@ -8173,3 +8173,4 @@ https://github.com/m5stack/M5Unit-INFRARED.git|Contributed|M5Unit-INFRARED
 https://github.com/m5stack/M5Unit-CRYPTO.git|Contributed|M5Unit-CRYPTO
 https://github.com/marcel-naderer/Lexo.git|Contributed|Lexo
 https://github.com/robotieee/compkit.git|Contributed|compkit
+https://github.com/joshua-8/xrp-style-wpilib-comms.git|Contributed|xrp-style-wpilib-comms
