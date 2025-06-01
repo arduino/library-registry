@@ -8174,3 +8174,4 @@ https://github.com/m5stack/M5Unit-CRYPTO.git|Contributed|M5Unit-CRYPTO
 https://github.com/marcel-naderer/Lexo.git|Contributed|Lexo
 https://github.com/robotieee/compkit.git|Contributed|compkit
 https://github.com/joshua-8/xrp-style-wpilib-comms.git|Contributed|xrp-style-wpilib-comms
+https://github.com/bitbank2/bb_imu.git|Contributed|bb_imu
