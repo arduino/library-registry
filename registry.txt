@@ -8175,3 +8175,5 @@ https://github.com/marcel-naderer/Lexo.git|Contributed|Lexo
 https://github.com/robotieee/compkit.git|Contributed|compkit
 https://github.com/joshua-8/xrp-style-wpilib-comms.git|Contributed|xrp-style-wpilib-comms
 https://github.com/bitbank2/bb_imu.git|Contributed|bb_imu
+https://github.com/Johboh/ieee-802_15_4-network-host.git|Contributed|ieee-802_15_4-network-host
+https://github.com/Johboh/ieee-802_15_4-network-node.git|Contributed|ieee-802_15_4-network-node
