@@ -8183,3 +8183,4 @@ https://github.com/rzuehlsd/OTA-Template.git|Contributed|OTA_Template
 https://github.com/cearto/ThingPlusBLEOSC.git|Contributed|ThingPlusBLEOSC
 https://github.com/SequentMicrosystems/Sequent-8mosfet-Library.git|Contributed|SM_8MOS
 https://github.com/ExMikuPro/WiFiCaptive.git|Contributed|WiFiCaptive
+https://github.com/Circuit-Digest/GeoLinker.git|Contributed|GeoLinker
