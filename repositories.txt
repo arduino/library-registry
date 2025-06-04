@@ -8084,3 +8084,4 @@ https://github.com/joshua-8/xrp-style-wpilib-comms
 https://github.com/bitbank2/bb_imu
 https://github.com/rzuehlsd/OTA-Template
 https://github.com/cearto/ThingPlusBLEOSC
+https://github.com/SequentMicrosystems/Sequent-8mosfet-Library
