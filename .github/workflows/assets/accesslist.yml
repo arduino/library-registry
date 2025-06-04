@@ -9,6 +9,10 @@
 
 # Denylist
 - host: github.com
+  name: 4211421036
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/6269#pullrequestreview-2813557457
+- host: github.com
   name: 7Semi
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
