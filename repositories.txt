@@ -8091,3 +8091,5 @@ https://github.com/rzuehlsd/OTA-Template
 https://github.com/cearto/ThingPlusBLEOSC
 https://github.com/SequentMicrosystems/Sequent-8mosfet-Library
 https://github.com/ExMikuPro/WiFiCaptive
+https://github.com/stm32duino/LSM6DSV16BX.git
+https://github.com/stm32duino/LSM6DSV16BX-TDM.git
