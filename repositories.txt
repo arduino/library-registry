@@ -6711,7 +6711,7 @@ https://github.com/SunitRaut/WSN-for-RFM69-LowPowerLab
 https://github.com/SunjunKim/PMW3360
 https://github.com/supercrab/RemoteSerial
 https://github.com/SUPLA/supla-device
-https://github.com/Suraj151/esp8266-framework
+https://github.com/Suraj151/pdi-framework
 https://github.com/suratin27/DINO_PLC
 https://github.com/suratin27/DINO_PLC_V1
 https://github.com/suratin27/ESP32_Control
