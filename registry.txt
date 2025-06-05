@@ -2801,7 +2801,7 @@ https://github.com/NitrofMtl/MicroTuple.git|Contributed|MicroTuple
 https://github.com/IowaScaledEngineering/arduino-irsense.git|Contributed|I2C-IRSENSE Library
 https://github.com/barisdinc/LibAPRS_Tracker.git|Contributed|LibAPRS_Tracker
 https://github.com/rstephan/ArtnetWifi.git|Contributed|ArtnetWifi
-https://github.com/Suraj151/esp8266-framework.git|Contributed|esp8266-framework
+https://github.com/Suraj151/pdi-framework.git|Contributed|pdi-framework
 https://github.com/jspark311/CppPotpourri.git|Contributed|CppPotpourri
 https://github.com/s-light/slight_Fade.git|Contributed|slight_Fade
 https://github.com/s-light/slight_ButtonInput.git|Contributed|slight_ButtonInput
