@@ -8188,3 +8188,5 @@ https://github.com/EatingJan1/MCAnemometer-Ultrasonic.git|Contributed|MCAnemomet
 https://github.com/EatingJan1/arduino-esp32-matter-extra-endpoints.git|Contributed|esp32_matter_extra_endpoints
 https://github.com/aircey/lig-i2c-gateway.git|Contributed|LIG Little I2C Gateway
 https://github.com/Sensirion/arduino-upt-display.git|Contributed|Sensirion UPT Display
+https://github.com/stm32duino/LSM6DSV16BX.git|Contributed|STM32duino LSM6DSV16BX
+https://github.com/stm32duino/LSM6DSV16BX-TDM.git|Contributed|STM32duino LSM6DSV16BX TDM
