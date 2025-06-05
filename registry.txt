@@ -8190,3 +8190,4 @@ https://github.com/aircey/lig-i2c-gateway.git|Contributed|LIG Little I2C Gateway
 https://github.com/Sensirion/arduino-upt-display.git|Contributed|Sensirion UPT Display
 https://github.com/stm32duino/LSM6DSV16BX.git|Contributed|STM32duino LSM6DSV16BX
 https://github.com/stm32duino/LSM6DSV16BX-TDM.git|Contributed|STM32duino LSM6DSV16BX TDM
+https://github.com/sparkfun/SparkFun_AS7343_Arduino_Library.git|Contributed|SparkFun AS7343 Arduino Library
