@@ -6041,6 +6041,7 @@ https://github.com/Sensirion/arduino-uart-sfx6xxx
 https://github.com/Sensirion/arduino-upt-core
 https://github.com/Sensirion/arduino-upt-i2c-auto-detection
 https://github.com/Sensirion/arduino-upt-ble-auto-detection
+https://github.com/Sensirion/arduino-upt-display
 https://github.com/sensorium/Mozzi
 https://github.com/sensslen/LibLanc
 https://github.com/septillion-git/FadeLed
