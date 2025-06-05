@@ -8186,3 +8186,4 @@ https://github.com/ExMikuPro/WiFiCaptive.git|Contributed|WiFiCaptive
 https://github.com/Circuit-Digest/GeoLinker.git|Contributed|GeoLinker
 https://github.com/EatingJan1/MCAnemometer-Ultrasonic.git|Contributed|MCAnemometer
 https://github.com/EatingJan1/arduino-esp32-matter-extra-endpoints.git|Contributed|esp32_matter_extra_endpoints
+https://github.com/aircey/lig-i2c-gateway.git|Contributed|LIG Little I2C Gateway
