@@ -8195,3 +8195,4 @@ https://github.com/manoj26may/CodePrinter.git|Contributed|CodePrinter
 https://github.com/fiskbil/PressureTransducer.git|Contributed|PressureTransducer
 https://github.com/cearto/SlipPump.git|Contributed|SlipPump
 https://github.com/manoj26may/IOT.git|Contributed|IOT
+https://github.com/zukardex/DigiPIN.git|Contributed|DigiPIN
