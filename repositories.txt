@@ -8095,3 +8095,4 @@ https://github.com/ExMikuPro/WiFiCaptive
 https://github.com/stm32duino/LSM6DSV16BX.git
 https://github.com/stm32duino/LSM6DSV16BX-TDM.git
 https://github.com/manoj26may/CodePrinter
+https://github.com/fiskbil/PressureTransducer
