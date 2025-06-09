@@ -8198,3 +8198,4 @@ https://github.com/manoj26may/IOT.git|Contributed|IOT
 https://github.com/zukardex/DigiPIN.git|Contributed|DigiPIN
 https://github.com/DIYables/DIYables_TFT_Round.git|Contributed|DIYables TFT Round
 https://github.com/anonymousaga/TzDbLookup.git|Contributed|TzDbLookup
+https://github.com/avisha95/AViShaOTA.git|Contributed|AViShaOTA
