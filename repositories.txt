@@ -7431,7 +7431,7 @@ https://gitlab.com/yesbotics/libs/arduino/voltmeter
 https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
 https://gitlab.com/zaber-core-libs/zaber-ascii-for-arduino
 https://gitlab.com/zaber-core-libs/zaber-binary-for-arduino
-https://github.com/BenCestMoiQuoi/I2C_Insarianne
+https://gitlab.com/insaero/INSARIANNE
 https://github.com/mkeras/EmbeddedSparkplugNode
 https://github.com/Blue-Crescent/JJYReceiver
 https://github.com/io7lab/IO7F8266
