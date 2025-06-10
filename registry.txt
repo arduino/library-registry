@@ -8201,3 +8201,4 @@ https://github.com/anonymousaga/TzDbLookup.git|Contributed|TzDbLookup
 https://github.com/avisha95/AViShaOTA.git|Contributed|AViShaOTA
 https://github.com/Herobrine-pixel/AudioCompass.git|Contributed|AudioCompass
 https://github.com/GabyGold67/ShiftRegGPIOXpander_AVR.git|Contributed|ShiftRegGPIOXpander_AVR
+https://github.com/Herobrine-pixel/TouchSensorLib.git|Contributed|TouchSensorLib
