@@ -8106,3 +8106,4 @@ https://github.com/manoj26may/IOT
 https://github.com/zukardex/DigiPIN
 https://github.com/avisha95/AViShaOTA
 https://github.com/GabyGold67/ShiftRegGPIOXpander_AVR
+https://github.com/petrkr/SegLCDLib
