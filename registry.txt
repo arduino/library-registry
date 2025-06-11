@@ -8203,3 +8203,4 @@ https://github.com/Herobrine-pixel/AudioCompass.git|Contributed|AudioCompass
 https://github.com/GabyGold67/ShiftRegGPIOXpander_AVR.git|Contributed|ShiftRegGPIOXpander_AVR
 https://github.com/Herobrine-pixel/TouchSensorLib.git|Contributed|TouchSensorLib
 https://github.com/NightHawk-Technology/gnome-avr.git|Contributed|Gnome AVR
+https://github.com/tardate/TextFinder.git|Contributed|TextFinder
