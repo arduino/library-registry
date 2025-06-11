@@ -7985,7 +7985,7 @@ https://github.com/YFROBOT-TM/Yfrobot-FPSensor-Library.git|Contributed|Yfrobot-F
 https://github.com/DigitalCodesign/MentorBit-VL53.git|Contributed|MentorBit-VL53
 https://github.com/DigitalCodesign/MentorBit-BH1750.git|Contributed|MentorBit-BH1750
 https://github.com/dvelaren/Halisense_SoilSensor.git|Contributed|Halisense_SoilSensor
-https://github.com/bastian2001/pico-bidir-dshot.git|Contributed|DShot_for_RP2040_RP2350_Pi_Pico
+https://github.com/bastian2001/pico-bidir-dshot.git|Contributed|Pico_Bidir_DShot
 https://github.com/m5stack/M5StamPLC.git|Contributed|M5StamPLC
 https://github.com/Dzmitry-visual-studio-2022/Winduino.git|Contributed|Winduino
 https://github.com/bartzdev/Renke_DissolvedOxygen_Sensor.git|Contributed|RenkeDissolvedOxygenSensor
