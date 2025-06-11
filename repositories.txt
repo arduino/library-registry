@@ -510,6 +510,7 @@ https://github.com/adafruit/Adafruit_AMRadio
 https://github.com/adafruit/Adafruit_APDS9960
 https://github.com/adafruit/Adafruit_Arcada
 https://github.com/adafruit/Adafruit_Arcada_GifDecoder
+https://github.com/adafruit/Adafruit_AS5600
 https://github.com/adafruit/Adafruit_AS726x
 https://github.com/adafruit/Adafruit_AS7341
 https://github.com/adafruit/Adafruit_AVRProg
