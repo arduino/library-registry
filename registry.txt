@@ -8198,3 +8198,4 @@ https://github.com/Herobrine-pixel/TouchSensorLib.git|Contributed|TouchSensorLib
 https://github.com/NightHawk-Technology/gnome-avr.git|Contributed|Gnome AVR
 https://github.com/tardate/TextFinder.git|Contributed|TextFinder
 https://github.com/diy-electron1cs/DE_tacho.git|Contributed|DE_tacho
+https://github.com/magnus-cpu/NexNTC.git|Contributed|NEXNTC
