@@ -1,3 +1,4 @@
+https://github.com/magnus-cpu/NexNTC
 https://github.com/diy-electron1cs/DE_tacho
 https://github.com/NightHawk-Technology/gnome-avr
 https://github.com/Herobrine-pixel/TouchSensorLib
