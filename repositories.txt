@@ -1,4 +1,5 @@
 https://github.com/arduino-libraries/Arduino_CapacitiveTouch
+https://github.com/lennart080/ESP8266-CaptivePortal
 https://github.com/magnus-cpu/NexNTC
 https://github.com/diy-electron1cs/DE_tacho
 https://github.com/NightHawk-Technology/gnome-avr
