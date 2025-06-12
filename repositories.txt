@@ -2723,6 +2723,7 @@ https://github.com/GerLech/AsyncWebConfig
 https://github.com/GerLech/LG_Matrix_Print
 https://github.com/GerLech/Talking_Display
 https://github.com/GerLech/TouchEvent
+https://github.com/deshrit/SimpleRegression
 https://github.com/GerLech/WebConfig
 https://github.com/getlarge/arduino-device
 https://github.com/gewisser/GyverOLEDMenu
