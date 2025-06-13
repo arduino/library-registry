@@ -8204,3 +8204,4 @@ https://github.com/adafruit/Adafruit_AS5600.git|Recommended|Adafruit AS5600 Libr
 https://github.com/deshrit/SimpleRegression.git|Contributed|SimpleRegression
 https://github.com/Herobrine-pixel/LEDPatternLib.git|Contributed|LEDPatternLib
 https://github.com/Herobrine-pixel/LaserToMap360.git|Contributed|LaserToMap360
+https://github.com/EgosFeic/EgLang.git|Contributed|EgLang
