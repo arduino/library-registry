@@ -8202,3 +8202,4 @@ https://github.com/magnus-cpu/NexNTC.git|Contributed|NEXNTC
 https://github.com/arduino-libraries/Arduino_CapacitiveTouch.git|Arduino|Arduino_CapacitiveTouchUNO
 https://github.com/adafruit/Adafruit_AS5600.git|Recommended|Adafruit AS5600 Library
 https://github.com/deshrit/SimpleRegression.git|Contributed|SimpleRegression
+https://github.com/Herobrine-pixel/LEDPatternLib.git|Contributed|LEDPatternLib
