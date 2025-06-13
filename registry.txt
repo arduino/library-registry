@@ -8206,3 +8206,6 @@ https://github.com/Herobrine-pixel/LEDPatternLib.git|Contributed|LEDPatternLib
 https://github.com/Herobrine-pixel/LaserToMap360.git|Contributed|LaserToMap360
 https://github.com/EgosFeic/EgLang.git|Contributed|EgLang
 https://github.com/RomanZ1243/LEDIndication.git|Contributed|LEDIndication
+https://github.com/sbarabe/SBK_HT16K33.git|Contributed|SBK_HT16K33
+https://github.com/sbarabe/SBK_BarDrive.git|Contributed|SBK_BarDrive
+https://github.com/sbarabe/SBK_MAX72xx.git|Contributed|SBK_MAX72xx
