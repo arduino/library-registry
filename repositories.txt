@@ -1,4 +1,3 @@
-https://github.com/Herobrine-pixel/LEDPatternLib
 https://github.com/Herobrine-pixel/TouchSensorLib
 https://github.com/Herobrine-pixel/AudioCompass
 https://github.com/anonymousaga/TzDbLookup
