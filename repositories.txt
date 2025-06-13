@@ -1,3 +1,6 @@
+https://github.com/sbarabe/SBK_BarDrive
+https://github.com/sbarabe/SBK_MAX72xx
+https://github.com/sbarabe/SBK_HT16K33
 https://github.com/RomanZ1243/LEDIndication
 https://github.com/Herobrine-pixel/LaserToMap360
 https://github.com/Herobrine-pixel/LEDPatternLib
