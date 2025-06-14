@@ -8214,3 +8214,4 @@ https://github.com/regimantas/EasyInterval.git|Contributed|EasyInterval
 https://github.com/GuLinux/AsyncWiFiMulti.git|Contributed|AsyncWiFiMulti
 https://github.com/fadhil-1911/MyDHT22.git|Contributed|MyDHT22
 https://github.com/regimantas/ChaCha32Arduino.git|Contributed|ChaCha32
+https://github.com/aikopras/AP_DCC_Decoder_Core.git|Contributed|AP_DCC_Decoder_Core
