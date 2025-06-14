@@ -8213,3 +8213,4 @@ https://gitlab.com/8bitforce/kdram2560.git|Contributed|kdram2560
 https://github.com/regimantas/EasyInterval.git|Contributed|EasyInterval
 https://github.com/GuLinux/AsyncWiFiMulti.git|Contributed|AsyncWiFiMulti
 https://github.com/fadhil-1911/MyDHT22.git|Contributed|MyDHT22
+https://github.com/regimantas/ChaCha32Arduino.git|Contributed|ChaCha32
