@@ -8211,3 +8211,4 @@ https://github.com/sbarabe/SBK_BarDrive.git|Contributed|SBK_BarDrive
 https://github.com/sbarabe/SBK_MAX72xx.git|Contributed|SBK_MAX72xx
 https://gitlab.com/8bitforce/kdram2560.git|Contributed|kdram2560
 https://github.com/regimantas/EasyInterval.git|Contributed|EasyInterval
+https://github.com/GuLinux/AsyncWiFiMulti.git|Contributed|AsyncWiFiMulti
