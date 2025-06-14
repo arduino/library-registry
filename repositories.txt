@@ -8114,3 +8114,4 @@ https://github.com/tardate/TextFinder
 https://github.com/EgosFeic/EgLang.git
 https://gitlab.com/8bitforce/kdram2560/
 https://github.com/regimantas/EasyInterval
+https://github.com/GuLinux/AsyncWiFiMulti
