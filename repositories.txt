@@ -5509,6 +5509,7 @@ https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
 https://github.com/RobTillaart/AD7367
 https://github.com/RobTillaart/AD7367_SPI
+https://github.com/RobTillaart/AD7390
 https://github.com/RobTillaart/AD8495
 https://github.com/RobTillaart/AD9833
 https://github.com/RobTillaart/AD985X
