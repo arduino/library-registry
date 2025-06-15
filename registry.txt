@@ -8218,3 +8218,5 @@ https://github.com/aikopras/AP_DCC_Decoder_Core.git|Contributed|AP_DCC_Decoder_C
 https://github.com/regimantas/PY32LowPower.git|Contributed|PY32LowPower
 https://github.com/bahr1k/esp-arduino-tunnel.git|Contributed|EspTunnel
 https://github.com/RobTillaart/AD7390.git|Contributed|AD7390
+https://github.com/danmowehhuk/SDStorage.git|Contributed|SDStorage
+https://github.com/danmowehhuk/StreamableDTO.git|Contributed|StreamableDTO
