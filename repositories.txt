@@ -7536,6 +7536,7 @@ https://github.com/ardlib/bosejis_Types
 https://github.com/ardlib/bosejis_AMV
 https://github.com/ardlib/bosejis_Bin
 https://github.com/ardlib/bosejis_TWI
+https://github.com/ardlib/bosejis_PKAE_Timer
 https://github.com/ardlib/bosejis_PString
 https://github.com/kalmak07/SensorNorm
 https://github.com/D-314/IP2368-Arduino-Library
