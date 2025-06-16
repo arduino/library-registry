@@ -8221,3 +8221,4 @@ https://github.com/RobTillaart/AD7390.git|Contributed|AD7390
 https://github.com/danmowehhuk/SDStorage.git|Contributed|SDStorage
 https://github.com/danmowehhuk/StreamableDTO.git|Contributed|StreamableDTO
 https://github.com/ronibandini/ESP32N8NButton.git|Contributed|ESP32N8NButton
+https://github.com/ardlib/bosejis_PKAE_Timer.git|Contributed|PKAE_Timer
