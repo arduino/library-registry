@@ -8226,3 +8226,4 @@ https://github.com/saveme1507/EasyMQTT.git|Contributed|EasyMQTT
 https://github.com/MAKE-arduino/M_RGB.git|Contributed|M_RGB
 https://github.com/sciosense/ufm01-arduino.git|Contributed|ScioSense_UFM01
 https://github.com/llcesselx/lcd595.git|Contributed|LCD595-ISU
+https://github.com/CurtoLab/miniMachine.git|Contributed|miniMachineBLE
