@@ -8227,3 +8227,4 @@ https://github.com/MAKE-arduino/M_RGB.git|Contributed|M_RGB
 https://github.com/sciosense/ufm01-arduino.git|Contributed|ScioSense_UFM01
 https://github.com/llcesselx/lcd595.git|Contributed|LCD595-ISU
 https://github.com/CurtoLab/miniMachine.git|Contributed|miniMachineBLE
+https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0.git|Contributed|G1OJS_Tiny_Si5351_CLK0
