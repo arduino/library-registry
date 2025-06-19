@@ -8132,3 +8132,4 @@ https://github.com/regimantas/PY32LowPower
 https://github.com/bahr1k/esp-arduino-tunnel
 https://github.com/llcesselx/lcd595
 https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0
+https://github.com/kkfranco98/QuickSerial
