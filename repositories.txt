@@ -7990,6 +7990,7 @@ https://github.com/dzalf/EEPROM_UID
 https://github.com/EatingJan1/MCHyetometer-REED
 https://github.com/EatingJan1/MCAnemometer-Ultrasonic
 https://github.com/EatingJan1/arduino-esp32-matter-extra-endpoints
+https://github.com/EatingJan1/NeoPixel-Animation-lib
 https://github.com/4211421036/YFS201
 https://github.com/nikachu2012/HttpCall
 https://github.com/AudunKodehode/JC3248W535EN-Touch-LCD
