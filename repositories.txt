@@ -6049,6 +6049,7 @@ https://github.com/sensirion/arduino-i2c-sgp40
 https://github.com/sensirion/arduino-i2c-sgp41
 https://github.com/Sensirion/arduino-i2c-sht4x
 https://github.com/Sensirion/arduino-i2c-stc3x
+https://github.com/Sensirion/arduino-i2c-stcc4
 https://github.com/Sensirion/arduino-i2c-sts4x
 https://github.com/sensirion/arduino-i2c-svm4x
 https://github.com/Sensirion/arduino-i2c-sfx6xxx
