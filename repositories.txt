@@ -95,6 +95,7 @@ https://github.com/CIRCUITSTATE/CSE_CST328
 https://github.com/hmueller01/pubsubclient3
 https://github.com/mvader2/AD5252
 https://github.com/Stutchbury/TouchScreenAdapter
+https://github.com/m5stack/M5Unit-AudioPlayer
 https://github.com/Bendeguz-Cs/Rotary_encoder
 https://github.com/srinjaycode/VoltLora
 https://github.com/VanSilver/ShiftRegisterPWM595
@@ -6049,6 +6050,7 @@ https://github.com/sensirion/arduino-i2c-sgp40
 https://github.com/sensirion/arduino-i2c-sgp41
 https://github.com/Sensirion/arduino-i2c-sht4x
 https://github.com/Sensirion/arduino-i2c-stc3x
+https://github.com/Sensirion/arduino-i2c-stcc4
 https://github.com/Sensirion/arduino-i2c-sts4x
 https://github.com/sensirion/arduino-i2c-svm4x
 https://github.com/Sensirion/arduino-i2c-sfx6xxx
@@ -8134,3 +8136,4 @@ https://github.com/bahr1k/esp-arduino-tunnel
 https://github.com/llcesselx/lcd595
 https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0
 https://github.com/kkfranco98/QuickSerial
+https://github.com/elvandry13/UltrasonicA02YYUW
