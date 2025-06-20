@@ -1,3 +1,4 @@
+https://github.com/cvrelectronica/EasyRobot
 https://github.com/fmeng/FastRotaryEncoder
 https://github.com/CurtoLab/miniMachine.git
 https://github.com/MAKE-arduino/M_RGB.git
