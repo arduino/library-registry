@@ -8231,3 +8231,4 @@ https://github.com/G1OJS/G1OJS_Tiny_Si5351_CLK0.git|Contributed|G1OJS_Tiny_Si535
 https://github.com/EatingJan1/NeoPixel-Animation-lib.git|Contributed|NeoPixel-Animation-lib
 https://github.com/kkfranco98/QuickSerial.git|Contributed|QuickSerial
 https://github.com/elvandry13/UltrasonicA02YYUW.git|Contributed|UltrasonicA02YYUW
+https://github.com/m5stack/M5Unit-AudioPlayer.git|Contributed|M5UnitAudioPlayer
