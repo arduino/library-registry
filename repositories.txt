@@ -94,6 +94,7 @@ https://github.com/CIRCUITSTATE/CSE_CST328
 https://github.com/hmueller01/pubsubclient3
 https://github.com/mvader2/AD5252
 https://github.com/Stutchbury/TouchScreenAdapter
+https://github.com/m5stack/M5Unit-AudioPlayer
 https://github.com/Bendeguz-Cs/Rotary_encoder
 https://github.com/srinjaycode/VoltLora
 https://github.com/VanSilver/ShiftRegisterPWM595
