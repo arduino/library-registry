@@ -8234,3 +8234,4 @@ https://github.com/elvandry13/UltrasonicA02YYUW.git|Contributed|UltrasonicA02YYU
 https://github.com/m5stack/M5Unit-AudioPlayer.git|Contributed|M5UnitAudioPlayer
 https://github.com/Sensirion/arduino-i2c-stcc4.git|Contributed|Sensirion I2C STCC4
 https://github.com/fmeng/FastRotaryEncoder.git|Contributed|FastRotaryEncoder
+https://github.com/cvrelectronica/EasyRobot.git|Contributed|EasyRobot
