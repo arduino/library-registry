@@ -8236,3 +8236,4 @@ https://github.com/Sensirion/arduino-i2c-stcc4.git|Contributed|Sensirion I2C STC
 https://github.com/fmeng/FastRotaryEncoder.git|Contributed|FastRotaryEncoder
 https://github.com/cvrelectronica/EasyRobot.git|Contributed|EasyRobot
 https://github.com/jobitjoseph/SimpleOLED.git|Contributed|SimpleOLED
+https://github.com/milad-nikpendar/initMemory.git|Contributed|initMemory
