@@ -8237,3 +8237,4 @@ https://github.com/fmeng/FastRotaryEncoder.git|Contributed|FastRotaryEncoder
 https://github.com/cvrelectronica/EasyRobot.git|Contributed|EasyRobot
 https://github.com/jobitjoseph/SimpleOLED.git|Contributed|SimpleOLED
 https://github.com/milad-nikpendar/initMemory.git|Contributed|initMemory
+https://github.com/codewitch-honey-crisis/htcw_chess.git|Contributed|htcw_chess
