@@ -1,3 +1,4 @@
+https://github.com/jobitjoseph/SimpleOLED
 https://github.com/cvrelectronica/EasyRobot
 https://github.com/fmeng/FastRotaryEncoder
 https://github.com/CurtoLab/miniMachine.git
