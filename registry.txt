@@ -8240,3 +8240,4 @@ https://github.com/milad-nikpendar/initMemory.git|Contributed|initMemory
 https://github.com/codewitch-honey-crisis/htcw_chess.git|Contributed|htcw_chess
 https://github.com/mmercalde/SchneiderModbusTCP.git|Contributed|SchneiderModbusTCP
 https://github.com/arshidkv12/WiFiPortalESP8266.git|Contributed|WiFiPortalESP8266
+https://github.com/GabyGold67/ClickCounter_ESP32.git|Contributed|ClickCounter_ESP32
