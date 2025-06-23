@@ -8150,3 +8150,4 @@ https://github.com/GabyGold67/ClickCounter_ESP32
 https://github.com/wuttipong-ug/Bakmi
 https://github.com/KrrishVerma/Atmel_M90E32AS_ESP32
 https://github.com/matteo-colombo-kernel/SimpleConnect
+https://github.com/edreanernst/BQ27427_Arduino_Library
