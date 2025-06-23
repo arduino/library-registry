@@ -8245,3 +8245,4 @@ https://github.com/wuttipong-ug/Bakmi.git|Contributed|Bakmi
 https://github.com/KrrishVerma/Atmel_M90E32AS_ESP32.git|Contributed|Atmel_M90E32AS_ESP32_Library
 https://github.com/phuongnamzz/HLK-LD6002.git|Contributed|HLK-LD6002
 https://github.com/GyverLibs/uPID.git|Contributed|uPID
+https://github.com/matteo-colombo-kernel/SimpleConnect.git|Contributed|SimpleConnect
