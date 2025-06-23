@@ -6903,8 +6903,8 @@ https://github.com/thinkovation/Ambimate
 https://github.com/thirstyice/JVC-Stereo
 https://github.com/thirstyice/Olimex16x2
 https://github.com/thirstyice/RedEye
-https://github.com/ThisSmartHouse/CoogleIOT
 https://github.com/thirstyice/TinyDMXSerial
+https://github.com/ThisSmartHouse/CoogleIOT
 https://github.com/thomasfredericks/Bounce2
 https://github.com/thomasfredericks/Chrono
 https://github.com/thomasfredericks/M5_PbHub
