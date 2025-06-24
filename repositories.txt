@@ -8152,3 +8152,4 @@ https://github.com/KrrishVerma/Atmel_M90E32AS_ESP32
 https://github.com/matteo-colombo-kernel/SimpleConnect
 https://github.com/edreanernst/BQ27427_Arduino_Library
 https://github.com/ahmadfathan/DMD32Plus
+https://github.com/dwan6767/lowkeyssd1306
