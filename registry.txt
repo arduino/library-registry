@@ -8250,3 +8250,4 @@ https://github.com/GyverLibs/UART_RF.git|Contributed|UART_RF
 https://github.com/edreanernst/BQ27427_Arduino_Library.git|Contributed|BQ27427 Battery Fuel Gauge Arduino Library
 https://github.com/ahmadfathan/DMD32Plus.git|Contributed|DMD32Plus
 https://github.com/dwan6767/lowkeyssd1306.git|Contributed|lowkeyoled
+https://github.com/Init-io/InitJson.git|Contributed|InitJson
