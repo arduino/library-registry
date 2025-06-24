@@ -8154,3 +8154,4 @@ https://github.com/matteo-colombo-kernel/SimpleConnect
 https://github.com/edreanernst/BQ27427_Arduino_Library
 https://github.com/ahmadfathan/DMD32Plus
 https://github.com/dwan6767/lowkeyssd1306
+https://github.com/ArtronShop/ArtronShop_BL0940
