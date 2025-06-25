@@ -1,3 +1,4 @@
+https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
 https://github.com/phuongnamzz/HLK-LD6002
