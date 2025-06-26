@@ -1,3 +1,4 @@
+https://github.com/aiplayuser/esp8266easylib.git
 https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
