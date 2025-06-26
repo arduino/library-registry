@@ -4367,6 +4367,7 @@ https://github.com/mchwalfajar/jeager-one
 https://github.com/MClarkDev/ArylicHTTP
 https://github.com/MClarkDev/BleepingLibrary
 https://github.com/mcmchris/mcm-bl0940-lib
+https://github.com/mcmchris/mcm-atm90e32-lib
 https://github.com/mcmchris/mcm-grove-voltage-sensor
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
