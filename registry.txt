@@ -8254,3 +8254,4 @@ https://github.com/Init-io/InitJson.git|Contributed|InitJson
 https://github.com/ArtronShop/ArtronShop_BL0940.git|Contributed|ArtronShop_BL0940
 https://github.com/Init-io/InitMQTT.git|Contributed|InitMQTT
 https://github.com/RCmags/CN0391.git|Contributed|CN0391
+https://github.com/joshua-8/HCSRO4_attachInterrupt.git|Contributed|HCSRO4_attachInterrupt
