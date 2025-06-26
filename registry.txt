@@ -8257,3 +8257,4 @@ https://github.com/RCmags/CN0391.git|Contributed|CN0391
 https://github.com/joshua-8/HCSRO4_attachInterrupt.git|Contributed|HCSRO4_attachInterrupt
 https://github.com/RobTillaart/TCRT5000.git|Contributed|TCRT5000
 https://github.com/Circuit-Digest/GeoLinkerLite.git|Contributed|GeoLinker Lite
+https://github.com/aiplayuser/esp8266easylib.git|Contributed|esp8266easylib
