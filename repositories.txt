@@ -1,4 +1,5 @@
 https://github.com/aiplayuser/esp8266easylib.git
+https://github.com/Circuit-Digest/GeoLinkerLite
 https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
@@ -5788,6 +5789,7 @@ https://github.com/RobTillaart/SWSPI
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9554
 https://github.com/RobTillaart/TCA9555
+https://github.com/RobTillaart/TCRT5000
 https://github.com/RobTillaart/TCS3210
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/TEMT6000
@@ -8158,3 +8160,4 @@ https://github.com/edreanernst/BQ27427_Arduino_Library
 https://github.com/ahmadfathan/DMD32Plus
 https://github.com/dwan6767/lowkeyssd1306
 https://github.com/ArtronShop/ArtronShop_BL0940
+https://github.com/joshua-8/HCSRO4_attachInterrupt
