@@ -8260,3 +8260,4 @@ https://github.com/Circuit-Digest/GeoLinkerLite.git|Contributed|GeoLinker Lite
 https://github.com/aiplayuser/esp8266easylib.git|Contributed|esp8266easylib
 https://github.com/mcmchris/mcm-atm90e32-lib.git|Contributed|MCM_ATM90E32
 https://github.com/lukdog/BleValueSync.git|Contributed|BleValueSync
+https://github.com/GyverLibs/RGBLED.git|Contributed|RGBLED
