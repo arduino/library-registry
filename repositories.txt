@@ -1,3 +1,8 @@
+https://github.com/aiplayuser/esp8266easylib.git
+https://github.com/Circuit-Digest/GeoLinkerLite
+https://github.com/RCmags/CN0391
+https://github.com/Init-io/InitMQTT.git
+https://github.com/Init-io/InitJson.git
 https://github.com/phuongnamzz/HLK-LD6002
 https://github.com/milad-nikpendar/initMemory
 https://github.com/jobitjoseph/SimpleOLED
@@ -4362,6 +4367,7 @@ https://github.com/mchwalfajar/jeager-one
 https://github.com/MClarkDev/ArylicHTTP
 https://github.com/MClarkDev/BleepingLibrary
 https://github.com/mcmchris/mcm-bl0940-lib
+https://github.com/mcmchris/mcm-atm90e32-lib
 https://github.com/mcmchris/mcm-grove-voltage-sensor
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
@@ -5784,6 +5790,7 @@ https://github.com/RobTillaart/SWSPI
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9554
 https://github.com/RobTillaart/TCA9555
+https://github.com/RobTillaart/TCRT5000
 https://github.com/RobTillaart/TCS3210
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/TEMT6000
@@ -8150,3 +8157,9 @@ https://github.com/GabyGold67/ClickCounter_ESP32
 https://github.com/wuttipong-ug/Bakmi
 https://github.com/KrrishVerma/Atmel_M90E32AS_ESP32
 https://github.com/matteo-colombo-kernel/SimpleConnect
+https://github.com/edreanernst/BQ27427_Arduino_Library
+https://github.com/ahmadfathan/DMD32Plus
+https://github.com/dwan6767/lowkeyssd1306
+https://github.com/ArtronShop/ArtronShop_BL0940
+https://github.com/joshua-8/HCSRO4_attachInterrupt
+https://github.com/lukdog/BleValueSync
