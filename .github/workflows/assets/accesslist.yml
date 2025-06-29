@@ -36,7 +36,7 @@
 - host: github.com
   name: galihru
   access: deny
-  reference: https://github.com/arduino/library-registry/pull/6269#pullrequestreview-2813557457
+  reference: https://github.com/arduino/library-registry/pull/6514#pullrequestreview-2969201873
 - host: github.com
   name: kelasrobot
   access: deny
