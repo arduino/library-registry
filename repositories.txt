@@ -7915,7 +7915,6 @@ https://bitbucket.org/mgf_ryan/smartsystem
 https://github.com/SequentMicrosystems/Sequent-8crt-Library
 https://github.com/dac1e/RtcDueRcf
 https://github.com/galihru/fnn
-https://github.com/galihru/gsr-arduino
 https://github.com/galihru/IoTModule
 https://github.com/Elrindel/SomfyReceiver
 https://github.com/thebestia90/AD5259
