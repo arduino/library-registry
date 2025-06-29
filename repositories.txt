@@ -7914,14 +7914,14 @@ https://github.com/yunussandikci/ArduinoMessageBus
 https://bitbucket.org/mgf_ryan/smartsystem
 https://github.com/SequentMicrosystems/Sequent-8crt-Library
 https://github.com/dac1e/RtcDueRcf
-https://github.com/4211421036/fnn
-https://github.com/4211421036/gsr-arduino
-https://github.com/4211421036/IoTModule
+https://github.com/galihru/fnn
+https://github.com/galihru/gsr-arduino
+https://github.com/galihru/IoTModule
 https://github.com/Elrindel/SomfyReceiver
 https://github.com/thebestia90/AD5259
 https://github.com/dac1e/DCF77RX
 https://github.com/ImSpeddy/L298Nlib
-https://github.com/4211421036/githubiot
+https://github.com/galihru/githubiot
 https://github.com/christosneg/concurrentPID.git
 https://github.com/twstokes/flipdotmatrix
 https://github.com/Port-Net/rmt_SENT
@@ -7986,7 +7986,7 @@ https://github.com/ParhamMoAsghari/ArduinoSmartButton
 https://github.com/ArtronShop/AmAlert-Arduino
 https://github.com/Obu-IntroSat/IntroSatLib
 https://github.com/KOINSLOT-Inc/kywy
-https://github.com/4211421036/mps20n0040d-arduino
+https://github.com/galihru/mps20n0040d-arduino
 https://github.com/Nick507/SmallButton
 https://github.com/GabyGold67/SevenSegDisplays_ESP32
 https://github.com/styropyr0/BMP180
