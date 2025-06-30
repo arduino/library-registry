@@ -8264,3 +8264,4 @@ https://github.com/GyverLibs/RGBLED.git|Contributed|RGBLED
 https://github.com/mikeedudee/MS5611-Mike-Refactored.git|Contributed|MS5611 Library Mike Refactored
 https://github.com/TheBlackSwitch/PS2Keyboard.git|Contributed|PS2KEyboard
 https://github.com/SNP-FIT/ampify-soil-moisture-sensor.git|Contributed|AmpifySoilMoisture
+https://github.com/GalaidaMaxim/Delayer.git|Contributed|Delayer
