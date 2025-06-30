@@ -8166,3 +8166,4 @@ https://github.com/ArtronShop/ArtronShop_BL0940
 https://github.com/joshua-8/HCSRO4_attachInterrupt
 https://github.com/lukdog/BleValueSync
 https://github.com/mikeedudee/MS5611-Mike-Refactored.git
+https://github.com/SNP-FIT/ampify-soil-moisture-sensor
