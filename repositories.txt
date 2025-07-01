@@ -8169,3 +8169,4 @@ https://github.com/lukdog/BleValueSync
 https://github.com/mikeedudee/MS5611-Mike-Refactored.git
 https://github.com/SNP-FIT/ampify-soil-moisture-sensor
 https://github.com/msnicklous/BufferedTrace
+https://github.com/HS3UKA/HS3UKA_PCF8574
