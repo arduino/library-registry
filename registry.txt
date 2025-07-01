@@ -8266,3 +8266,4 @@ https://github.com/TheBlackSwitch/PS2Keyboard.git|Contributed|PS2KEyboard
 https://github.com/SNP-FIT/ampify-soil-moisture-sensor.git|Contributed|AmpifySoilMoisture
 https://github.com/GalaidaMaxim/Delayer.git|Contributed|Delayer
 https://github.com/msnicklous/BufferedTrace.git|Contributed|BufferedTrace
+https://github.com/HS3UKA/HS3UKA_PCF8574.git|Contributed|HS3UKA_PCF8574
