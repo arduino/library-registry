@@ -1,8 +1,10 @@
+https://github.com/k-off/A4988
 https://github.com/PowerBroker2/Optimization
 https://github.com/GalaidaMaxim/Delayer
 https://github.com/TheBlackSwitch/PS2Keyboard
 https://github.com/aiplayuser/esp8266easylib.git
 https://github.com/Circuit-Digest/GeoLinkerLite
+https://github.com/RacoonX65/LightweightIoT-Arduino-Lib
 https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
@@ -7035,6 +7037,7 @@ https://github.com/tuya/tuya-wifi-mcu-sdk-arduino-library
 https://github.com/tuya/tuya-zigbee-mcu-sdk-arduino-library
 https://github.com/Tvde1/ConfigTool
 https://github.com/Tvde1/WiFiPicker
+https://github.com/tyeth/omron-devhub_d6t-arduino
 https://github.com/tyhenry/CheapStepper
 https://github.com/tyrkelko/sn76489
 https://github.com/tzapu/WiFiManager
@@ -8172,3 +8175,4 @@ https://github.com/mikeedudee/MS5611-Mike-Refactored.git
 https://github.com/SNP-FIT/ampify-soil-moisture-sensor
 https://github.com/msnicklous/BufferedTrace
 https://github.com/HS3UKA/HS3UKA_PCF8574
+https://github.com/muhpuc40/MacRandomizer
