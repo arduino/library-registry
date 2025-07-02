@@ -2038,8 +2038,10 @@ https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_onewire
 https://github.com/dejwk/roo_prefs
+https://github.com/dejwk/roo_quantity
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_temperature
+https://github.com/dejwk/roo_threads
 https://github.com/dejwk/roo_time
 https://github.com/dejwk/roo_time_ds3231
 https://github.com/dejwk/roo_wifi
