@@ -262,6 +262,7 @@ https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
 https://github.com/PowerBroker2/Filters
 https://github.com/semilimes/semilimes_mcu_sdk
+https://github.com/deeja/BTHomeV2-Arduino
 https://github.com/zwieblum/ch32_deep_sleep
 https://github.com/microbotsio/CodeCell
 https://github.com/EduKits/ColourKit
