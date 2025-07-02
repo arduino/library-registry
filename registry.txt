@@ -8269,3 +8269,4 @@ https://github.com/msnicklous/BufferedTrace.git|Contributed|BufferedTrace
 https://github.com/HS3UKA/HS3UKA_PCF8574.git|Contributed|HS3UKA_PCF8574
 https://github.com/PowerBroker2/Optimization.git|Contributed|Optimization
 https://github.com/muhpuc40/MacRandomizer.git|Contributed|MacRandomizer
+https://github.com/k-off/A4988.git|Contributed|A4988
