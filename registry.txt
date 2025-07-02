@@ -8271,3 +8271,4 @@ https://github.com/PowerBroker2/Optimization.git|Contributed|Optimization
 https://github.com/muhpuc40/MacRandomizer.git|Contributed|MacRandomizer
 https://github.com/k-off/A4988.git|Contributed|A4988
 https://github.com/tyeth/omron-devhub_d6t-arduino.git|Contributed|OmronD6T - Community Fork
+https://github.com/RacoonX65/LightweightIoT-Arduino-Lib.git|Contributed|LightweightIoT
