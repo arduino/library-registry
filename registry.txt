@@ -8267,3 +8267,4 @@ https://github.com/SNP-FIT/ampify-soil-moisture-sensor.git|Contributed|AmpifySoi
 https://github.com/GalaidaMaxim/Delayer.git|Contributed|Delayer
 https://github.com/msnicklous/BufferedTrace.git|Contributed|BufferedTrace
 https://github.com/HS3UKA/HS3UKA_PCF8574.git|Contributed|HS3UKA_PCF8574
+https://github.com/PowerBroker2/Optimization.git|Contributed|Optimization
