@@ -263,6 +263,7 @@ https://github.com/gilesp1729/GU_Elements
 https://github.com/MAKIST-EDU/MakistCar
 https://github.com/PowerBroker2/Filters
 https://github.com/semilimes/semilimes_mcu_sdk
+https://github.com/deeja/BTHomeV2-Arduino
 https://github.com/zwieblum/ch32_deep_sleep
 https://github.com/microbotsio/CodeCell
 https://github.com/EduKits/ColourKit
@@ -2038,8 +2039,10 @@ https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_onewire
 https://github.com/dejwk/roo_prefs
+https://github.com/dejwk/roo_quantity
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_temperature
+https://github.com/dejwk/roo_threads
 https://github.com/dejwk/roo_time
 https://github.com/dejwk/roo_time_ds3231
 https://github.com/dejwk/roo_wifi
@@ -8176,3 +8179,4 @@ https://github.com/SNP-FIT/ampify-soil-moisture-sensor
 https://github.com/msnicklous/BufferedTrace
 https://github.com/HS3UKA/HS3UKA_PCF8574
 https://github.com/muhpuc40/MacRandomizer
+https://github.com/faisalill/BMP390
