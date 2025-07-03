@@ -144,7 +144,7 @@ https://github.com/Moarbue/FIR-Filter
 https://github.com/Morgritech/MT-arduino-rotary-encoder
 https://github.com/CIRCUITSTATE/CSE_ZH06
 https://github.com/ropg/spi_lcd_read
-https://github.com/FoltaBozZ/fvs-esp32-bib
+https://github.com/trs-fvs/fvs-esp32-bib
 https://github.com/botnroll/BnrOneAPlus
 https://github.com/toaha63/BanglaDuino
 https://github.com/Moarbue/MAX31855-library
