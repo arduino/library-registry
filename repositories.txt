@@ -6592,7 +6592,7 @@ https://github.com/sstaub/TickTwo
 https://github.com/sstaub/Timer
 https://github.com/ssuhrid/EmSevenSegment
 https://github.com/St3p40/EMFButton
-https://github.com/Staacks/phyphox-arduino
+https://github.com/phyphox/phyphox-arduino
 https://github.com/Stan-Reifel/ArduinoUserInterface
 https://github.com/Stan-Reifel/FlexyStepper
 https://github.com/Stan-Reifel/SpeedyStepper
