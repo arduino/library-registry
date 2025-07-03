@@ -5,6 +5,7 @@ https://github.com/TheBlackSwitch/PS2Keyboard
 https://github.com/aiplayuser/esp8266easylib.git
 https://github.com/Circuit-Digest/GeoLinkerLite
 https://github.com/RacoonX65/LightweightIoT-Arduino-Lib
+https://github.com/judas/CalibrationLib
 https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
