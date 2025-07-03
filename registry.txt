@@ -7686,7 +7686,7 @@ https://github.com/alkonosst/ADS1115.git|Contributed|ADS1115
 https://github.com/toaha63/BanglaDuino.git|Contributed|BanglaDuino
 https://github.com/mathertel/GFXdraw.git|Contributed|gfxDraw
 https://github.com/beegee-tokyo/RAK-OneWireSerial.git|Contributed|RAK-OneWireSerial
-https://github.com/FoltaBozZ/fvs-esp32-bib.git|Contributed|FVS
+https://github.com/trs-fvs/fvs-esp32-bib.git|Contributed|FVS
 https://github.com/tom-dudman/DS1804.git|Contributed|DS1804Ctrl
 https://github.com/sagar-koirala/TelloESP32.git|Contributed|TelloESP32
 https://github.com/AlessioSavelli/DMXasLED.git|Contributed|DMXasLED
