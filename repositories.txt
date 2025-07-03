@@ -1,6 +1,7 @@
 https://github.com/k-off/A4988
 https://github.com/PowerBroker2/Optimization
 https://github.com/GalaidaMaxim/Delayer
+https://github.com/danel32/Arduino-Library-for-MAX7300
 https://github.com/TheBlackSwitch/PS2Keyboard
 https://github.com/aiplayuser/esp8266easylib.git
 https://github.com/Circuit-Digest/GeoLinkerLite
