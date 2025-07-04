@@ -8278,3 +8278,4 @@ https://github.com/faisalill/BMP390.git|Contributed|BMP390
 https://github.com/RacoonX65/CalibrationLib.git|Contributed|CalibrationLib
 https://github.com/phuongnamzz/HLK-LD2410S.git|Contributed|HLK-LD2410S
 https://github.com/danel32/Arduino-Library-for-MAX7300.git|Contributed|MAX7300
+https://github.com/SpaceTrekKSC/MakerBox.git|Contributed|SpaceTrek MakerBox
