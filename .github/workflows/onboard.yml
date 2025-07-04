@@ -1,0 +1,11 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  onboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: arduino/library-registry-onboarding@v1
+        with:
+          library-name: SimplePrefsPlus
+          library-url: https://github.com/souviksays/SimplePrefsPlus
