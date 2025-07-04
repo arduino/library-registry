@@ -7321,7 +7321,7 @@ https://github.com/Johboh/nlohmann-json.git|Contributed|nlohmann-json
 https://github.com/ams-OSRAM/OSP_aocmd.git|Contributed|OSP CommandInterpreter aocmd
 https://github.com/Danzo-Systems/FM25060_Library.git|Contributed|FM25060
 https://github.com/DouglasFlores-fun/SimpleLogger.git|Contributed|SimpleLogger
-https://github.com/KobaProduction/AvrFHT.git|Contributed|AVR FHT Library
+https://github.com/KobaProduction/AvrFHT.git|Contributed|AvrFHT
 https://github.com/thirstyice/TinyDMXSerial.git|Contributed|TinyDMXSerial
 https://github.com/GyverLibs/Table.git|Contributed|Table
 https://github.com/Johboh/EspNowNetworkShared.git|Contributed|EspNowNetworkShared
