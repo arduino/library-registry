@@ -8283,3 +8283,4 @@ https://github.com/mirosieber/OPT300x.git|Contributed|OPT300x
 https://github.com/bull-m/BULLM-Extend-Motor.git|Contributed|BULLM-Extend-Motor
 https://github.com/esharp17/Mecanum_Base.git|Contributed|MecanumBase
 https://github.com/aiplayuser/esp32easylib.git|Contributed|esp32easylib
+https://github.com/brianvarren/EEncoder.git|Contributed|EEncoder
