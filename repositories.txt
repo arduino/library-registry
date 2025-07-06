@@ -1,4 +1,4 @@
-https://github.com/esharp17/Mecanum_Base/tree/main
+https://github.com/esharp17/Mecanum_Base
 https://github.com/phuongnamzz/HLK-LD2410S
 https://github.com/k-off/A4988
 https://github.com/PowerBroker2/Optimization
