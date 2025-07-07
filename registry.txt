@@ -8286,3 +8286,4 @@ https://github.com/aiplayuser/esp32easylib.git|Contributed|esp32easylib
 https://github.com/brianvarren/EEncoder.git|Contributed|EEncoder
 https://github.com/esharp17/INA219_Plus.git|Contributed|INA219_Plus
 https://github.com/beegee-tokyo/RAK_LPP.git|Contributed|RAK_LPP
+https://github.com/BackLogers/RYUW122_UWB.git|Contributed|RYUW122_UWB
