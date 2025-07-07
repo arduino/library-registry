@@ -8289,3 +8289,4 @@ https://github.com/beegee-tokyo/RAK_LPP.git|Contributed|RAK_LPP
 https://github.com/BackLogers/RYUW122_UWB.git|Contributed|RYUW122_UWB
 https://github.com/LCerimeli/StratoLit-BQ25611D.git|Contributed|StratoLit-BQ25611D
 https://github.com/brianvarren/DACless.git|Contributed|DACless
+https://github.com/gly-engine/core-native-arduino.git|Contributed|GlyEngine
