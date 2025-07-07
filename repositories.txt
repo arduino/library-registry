@@ -1413,6 +1413,7 @@ https://github.com/beegee-tokyo/WisBlock-API
 https://github.com/beegee-tokyo/WisBlock-API-V2
 https://github.com/beegee-tokyo/RUI3-Arduino-Library
 https://github.com/beegee-tokyo/RAK-OneWireSerial
+https://github.com/beegee-tokyo/RAK_LPP
 https://github.com/beetlikeyg087/MFUthings
 https://github.com/Beirdo/Arduino-FRAM-Cache
 https://github.com/Beirdo/Arduino-LIN
