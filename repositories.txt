@@ -5072,6 +5072,7 @@ https://github.com/PlayingWithFusion/PWFusion_Mcp2515
 https://github.com/PlayingWithFusion/PWFusion_Mcp960x
 https://github.com/PlayingWithFusion/PWFusion_TCA9548A
 https://github.com/PlayingWithFusion/PWFusion_VL53L3C
+https://github.com/PlayingWithFusion/PWFusion_SHT3X
 https://github.com/Plefunga/AstroCalcs
 https://github.com/plenprojectcompany/PLEN5Stack
 https://github.com/plerup/espsoftwareserial
