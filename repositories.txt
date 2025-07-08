@@ -5926,7 +5926,6 @@ https://github.com/SantiagoSaldana/SBC
 https://github.com/Saruccio/ESPpassthrough
 https://github.com/satspares/DWIN_DGUS_HMI
 https://github.com/sauttefk/RS485HwSerial
-https://github.com/sb1978/rgbled
 https://github.com/sblantipodi/arduino_bootstrapper
 https://github.com/sbouhoun/smoother/
 https://github.com/scheffield/sic45x-driver
