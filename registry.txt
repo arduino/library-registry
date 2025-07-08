@@ -8293,3 +8293,4 @@ https://github.com/gly-engine/core-native-arduino.git|Contributed|GlyEngine
 https://github.com/AntonioPrevitali/ApJSY194T.git|Contributed|ApJSY194T
 https://github.com/ArthZ01/JWT-Lib.git|Contributed|JWTUtils
 https://github.com/ArthZ01/AES-Lib.git|Contributed|AESUtils
+https://github.com/PlayingWithFusion/PWFusion_SHT3X.git|Contributed|PWFusion_SHT3X
