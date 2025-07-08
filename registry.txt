@@ -8291,3 +8291,5 @@ https://github.com/LCerimeli/StratoLit-BQ25611D.git|Contributed|StratoLit-BQ2561
 https://github.com/brianvarren/DACless.git|Contributed|DACless
 https://github.com/gly-engine/core-native-arduino.git|Contributed|GlyEngine
 https://github.com/AntonioPrevitali/ApJSY194T.git|Contributed|ApJSY194T
+https://github.com/ArthZ01/JWT-Lib.git|Contributed|JWTUtils
+https://github.com/ArthZ01/AES-Lib.git|Contributed|AESUtils
