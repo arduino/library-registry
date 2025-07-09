@@ -8191,3 +8191,4 @@ https://github.com/ArthZ01/AES-Lib.git|Contributed|AESUtils
 https://github.com/PlayingWithFusion/PWFusion_SHT3X.git|Contributed|PWFusion_SHT3X
 https://github.com/EduKits/ManagedButtons.git|Contributed|ManagedButtons
 https://github.com/fadhil-1911/SmartTM1637.git|Contributed|SmartTM1637
+https://github.com/RacoonX65/WiFiEnterprise.git|Contributed|ESP32WiFiEnterprise
