@@ -276,6 +276,7 @@ https://github.com/deeja/BTHomeV2-Arduino
 https://github.com/zwieblum/ch32_deep_sleep
 https://github.com/microbotsio/CodeCell
 https://github.com/EduKits/ColourKit
+https://github.com/EduKits/ManagedButtons
 https://github.com/makkorjamal/PLSduino
 https://github.com/csl-3/Pasos
 https://github.com/devtagse/DEVTAGLibIA
