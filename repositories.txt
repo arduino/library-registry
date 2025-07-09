@@ -16,7 +16,8 @@ https://github.com/aiplayuser/esp32easylib.git
 https://github.com/Circuit-Digest/GeoLinkerLite
 https://github.com/RacoonX65/LightweightIoT-Arduino-Lib
 https://github.com/RacoonX65/CalibrationLib.git
-https://github.com/judas-christ/WiFiEnterprise.git
+https://github.com/RacoonX65/WiFiEnterprise
+https://github.com//WiFiEnterprise.git
 https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
