@@ -8201,3 +8201,4 @@ https://github.com/LCerimeli/StratoLit-BQ25611D
 https://github.com/gly-engine/core-native-arduino
 https://github.com/AntonioPrevitali/ApJSY194T
 https://github.com/sensebox/SerialSDManager
+https://github.com/edovis/TMP126
