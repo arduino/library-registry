@@ -8194,3 +8194,4 @@ https://github.com/fadhil-1911/SmartTM1637.git|Contributed|SmartTM1637
 https://github.com/RacoonX65/WiFiEnterprise.git|Contributed|ESP32WiFiEnterprise
 https://github.com/Pius171/LTC2959-library.git|Contributed|LTC2959
 https://github.com/sensebox/SerialSDManager.git|Contributed|SerialSDManager
+https://github.com/edovis/TMP126.git|Contributed|TMP126
