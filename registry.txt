@@ -8195,3 +8195,4 @@ https://github.com/RacoonX65/WiFiEnterprise.git|Contributed|ESP32WiFiEnterprise
 https://github.com/Pius171/LTC2959-library.git|Contributed|LTC2959
 https://github.com/sensebox/SerialSDManager.git|Contributed|SerialSDManager
 https://github.com/edovis/TMP126.git|Contributed|TMP126
+https://github.com/X-croot/L298N-XCR.git|Contributed|L298N-XCR
