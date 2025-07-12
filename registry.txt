@@ -8201,3 +8201,4 @@ https://github.com/AbdulKus/72x40oled_lib.git|Contributed|72x40oled_lib
 https://github.com/m-shintaro/SpresenseIMU.git|Contributed|SpresenseIMU
 https://github.com/X-croot/UltraSonicXCR.git|Contributed|UltraSonicXCR
 https://github.com/msnicklous/CommandCatcher.git|Contributed|CommandCatcher
+https://github.com/X-croot/RelayXCR.git|Contributed|RelayXCR
