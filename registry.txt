@@ -8202,3 +8202,4 @@ https://github.com/m-shintaro/SpresenseIMU.git|Contributed|SpresenseIMU
 https://github.com/X-croot/UltraSonicXCR.git|Contributed|UltraSonicXCR
 https://github.com/msnicklous/CommandCatcher.git|Contributed|CommandCatcher
 https://github.com/X-croot/RelayXCR.git|Contributed|RelayXCR
+https://github.com/X-croot/BuzzerXCR.git|Contributed|BuzzerXCR
