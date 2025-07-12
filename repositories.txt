@@ -1,6 +1,8 @@
-https://github.com/AbdulKus/72x40oled_lib
+https://github.com/X-croot/L298N-XCR
 https://github.com/X-croot/UltraSonicXCR
+https://github.com/X-croot/RelayXCR
 https://github.com/Pius171/LTC2959-library
+https://github.com/AbdulKus/72x40oled_lib
 https://github.com/fadhil-1911/SmartTM1637
 https://github.com/brianvarren/DACless
 https://github.com/ArthZ01/JWT-Lib
@@ -8106,7 +8108,6 @@ https://github.com/microbotsio/CodeCell-MicroLink
 https://github.com/eyr1n/RP2040PIO_CAN
 https://github.com/Arduino15/A15RGB
 https://github.com/eyr1n/esp32-ps3
-
 https://github.com/belem2050/LightTaskScheduler
 https://github.com/eyr1n/ESP32_TWAI
 https://github.com/PelicanHu/ESPCPUTemp
