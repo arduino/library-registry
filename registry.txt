@@ -8208,3 +8208,4 @@ https://github.com/X-croot/MQ135-XCR.git|Contributed|MQ135-XCR
 https://github.com/X-croot/LM35_XCR.git|Contributed|LM35_XCR
 https://github.com/Spb2005/TFAReceiver.git|Contributed|TFAReceiver for Dostmann 30.3208
 https://github.com/markub3327/Task.git|Contributed|Task
+https://github.com/markub3327/LiquidCrystal_I2C.git|Contributed|LiquidCrystal_I2C
