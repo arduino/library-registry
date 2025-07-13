@@ -8214,3 +8214,4 @@ https://github.com/kkfranco98/FIR_Filters
 https://github.com/m-shintaro/SpresenseIMU
 https://github.com/msnicklous/CommandCatcher
 https://github.com/UnexpectedMaker/seriesd_arduino_helper
+https://github.com/markub3327/LiquidCrystal_I2C
