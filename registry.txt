@@ -8204,3 +8204,4 @@ https://github.com/msnicklous/CommandCatcher.git|Contributed|CommandCatcher
 https://github.com/X-croot/RelayXCR.git|Contributed|RelayXCR
 https://github.com/X-croot/BuzzerXCR.git|Contributed|BuzzerXCR
 https://github.com/UnexpectedMaker/seriesd_arduino_helper.git|Contributed|UM SeriesD Helper
+https://github.com/X-croot/MQ135-XCR.git|Contributed|MQ135-XCR
