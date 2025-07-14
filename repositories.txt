@@ -8219,3 +8219,4 @@ https://github.com/msnicklous/CommandCatcher
 https://github.com/UnexpectedMaker/seriesd_arduino_helper
 https://github.com/markub3327/Task
 https://github.com/markub3327/LiquidCrystal_I2C
+https://github.com/styropyr0/Wizer
