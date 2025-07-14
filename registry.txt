@@ -8210,3 +8210,4 @@ https://github.com/Spb2005/TFAReceiver.git|Contributed|TFAReceiver for Dostmann 
 https://github.com/markub3327/Task.git|Contributed|Task
 https://github.com/markub3327/LiquidCrystal_I2C.git|Contributed|LiquidCrystal_I2C
 https://github.com/X-croot/TB6612FNG_XCR.git|Contributed|TB6612FNG_XCR
+https://github.com/GyverLibs/StringN.git|Contributed|StringN
