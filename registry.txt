@@ -8212,3 +8212,4 @@ https://github.com/markub3327/LiquidCrystal_I2C.git|Contributed|LiquidCrystal_I2
 https://github.com/X-croot/TB6612FNG_XCR.git|Contributed|TB6612FNG_XCR
 https://github.com/GyverLibs/StringN.git|Contributed|StringN
 https://github.com/GyverLibs/GVector.git|Contributed|GVector
+https://github.com/styropyr0/Wizer.git|Contributed|Wizer
