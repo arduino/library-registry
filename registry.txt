@@ -8218,3 +8218,4 @@ https://github.com/bull-m/BULLM_ExtendMotor.git|Contributed|BULLM_ExtendMotor
 https://github.com/boby15000/Tempo.git|Contributed|Tempo
 https://github.com/X-croot/XCR-LDR.git|Contributed|XCR-LDR
 https://github.com/LFranklinApps/Custom_Robot_Control.git|Contributed|Custom_Robot_Control
+https://github.com/npuckett/WebGUI.git|Contributed|WebGUI
