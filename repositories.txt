@@ -8222,3 +8222,12 @@ https://github.com/markub3327/Task
 https://github.com/markub3327/LiquidCrystal_I2C
 https://github.com/styropyr0/Wizer
 https://github.com/bull-m/BULLM_ExtendMotor
+https://github.com/DFRobot/DFRobot_GDL
+https://github.com/DFRobot/DFRobot_Cosmo
+https://github.com/DFRobot/DFRobot_ADS1115_0_10V
+https://github.com/DFRobot/DFRobot_GNSSAndRTC
+https://github.com/DFRobot/DFRobot_GestureFaceDetection
+https://github.com/DFRobot/DFRobot_LTR308
+https://github.com/DFRobot/DFRobot_AS6221
+https://github.com/DFRobot/DFRobot_SFA40
+https://github.com/DFRobot/DFRobot_TM6605
