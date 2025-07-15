@@ -8214,3 +8214,4 @@ https://github.com/GyverLibs/StringN.git|Contributed|StringN
 https://github.com/GyverLibs/GVector.git|Contributed|GVector
 https://github.com/styropyr0/Wizer.git|Contributed|Wizer
 https://github.com/scalpelspace/scalpelspace_momentum.git|Contributed|ScalpelSpace Momentum
+https://github.com/bull-m/BULLM_ExtendMotor.git|Contributed|BULLM_ExtendMotor
