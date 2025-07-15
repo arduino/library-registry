@@ -1,3 +1,4 @@
+https://github.com/X-croot/XCR-LDR
 https://github.com/scalpelspace/scalpelspace_momentum
 https://github.com/X-croot/TB6612FNG_XCR
 https://github.com/Spb2005/TFAReceiver
