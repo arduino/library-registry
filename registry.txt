@@ -8223,3 +8223,4 @@ https://github.com/kolod/Arduino-Simple-Modbus-Slave.git|Contributed|SimpleModbu
 https://github.com/EmotiBit/EmotiBit_DSPFilters.git|Contributed|EmotiBit_DSPFilters
 https://github.com/EmotiBit/BrainflowSpO2Algorithm.git|Contributed|BrainflowSpO2Algorithm
 https://github.com/m5stack/M5Unit-TUBE.git|Contributed|M5Unit-TUBE
+https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
