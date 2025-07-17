@@ -8231,3 +8231,4 @@ https://github.com/kolod/Arduino-Simple-Modbus-Slave
 https://github.com/EmotiBit/EmotiBit_DSPFilters
 https://github.com/EmotiBit/BrainflowSpO2Algorithm
 https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus
+https://github.com/ycharfi09/QTRMuxes
