@@ -8209,7 +8209,6 @@ https://github.com/HS3UKA/HS3UKA_PCF8574
 https://github.com/muhpuc40/MacRandomizer
 https://github.com/faisalill/BMP390
 https://github.com/SpaceTrekKSC/MakerBox
-https://github.com/bull-m/BULLM-Extend-Motor
 https://github.com/BackLogers/RYUW122_UWB
 https://github.com/LCerimeli/StratoLit-BQ25611D
 https://github.com/gly-engine/core-native-arduino
