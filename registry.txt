@@ -8224,3 +8224,4 @@ https://github.com/EmotiBit/EmotiBit_DSPFilters.git|Contributed|EmotiBit_DSPFilt
 https://github.com/EmotiBit/BrainflowSpO2Algorithm.git|Contributed|BrainflowSpO2Algorithm
 https://github.com/m5stack/M5Unit-TUBE.git|Contributed|M5Unit-TUBE
 https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
+https://github.com/ycharfi09/QTRMuxes.git|Contributed|QTRMuxes
