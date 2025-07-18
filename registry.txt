@@ -8224,3 +8224,4 @@ https://github.com/m5stack/M5Unit-TUBE.git|Contributed|M5Unit-TUBE
 https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
 https://github.com/ycharfi09/QTRMuxes.git|Contributed|QTRMuxes
 https://github.com/jmwanderer/RYLR_LoRaAT.git|Contributed|RYLR_LoRaAT
+https://github.com/Rupakpoddar/ESP32Sonos.git|Contributed|Sonos
