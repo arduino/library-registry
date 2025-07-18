@@ -8231,3 +8231,4 @@ https://github.com/BestModules-Libraries/BMH08101.git|Contributed|BMH08101
 https://github.com/BestModules-Libraries/BMV31M304A.git|Contributed|BMV31M304A
 https://github.com/HamzaYslmn/Esp32-RTOS-Serial.git|Contributed|Esp32-RTOS-Serial
 https://github.com/Zakrzewiaczek/pantryclient-esp.git|Contributed|PantryClient
+https://github.com/John-Karatka/MAX6953.git|Contributed|MAX6953
