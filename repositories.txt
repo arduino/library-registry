@@ -3023,6 +3023,7 @@ https://github.com/HakkanR/DMD2TUR
 https://github.com/HakkanR/slowAES
 https://github.com/HakkanR/SSD1306TUR
 https://github.com/HamzaYslmn/detaBaseESP8266
+https://github.com/HamzaYslmn/Esp32-RTOS-Serial
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/happy12/SPL06-001
