@@ -8225,3 +8225,7 @@ https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|Teleme
 https://github.com/ycharfi09/QTRMuxes.git|Contributed|QTRMuxes
 https://github.com/jmwanderer/RYLR_LoRaAT.git|Contributed|RYLR_LoRaAT
 https://github.com/Rupakpoddar/ESP32Sonos.git|Contributed|Sonos
+https://github.com/BestModules-Libraries/BMH12M205.git|Contributed|BMH12M205
+https://github.com/BestModules-Libraries/BMS56M206A.git|Contributed|BMS56M206A
+https://github.com/BestModules-Libraries/BMH08101.git|Contributed|BMH08101
+https://github.com/BestModules-Libraries/BMV31M304A.git|Contributed|BMV31M304A
