@@ -8229,3 +8229,4 @@ https://github.com/BestModules-Libraries/BMH12M205.git|Contributed|BMH12M205
 https://github.com/BestModules-Libraries/BMS56M206A.git|Contributed|BMS56M206A
 https://github.com/BestModules-Libraries/BMH08101.git|Contributed|BMH08101
 https://github.com/BestModules-Libraries/BMV31M304A.git|Contributed|BMV31M304A
+https://github.com/HamzaYslmn/Esp32-RTOS-Serial.git|Contributed|Esp32-RTOS-Serial
