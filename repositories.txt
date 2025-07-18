@@ -8237,3 +8237,4 @@ https://github.com/BestModules-Libraries/BMH12M205
 https://github.com/BestModules-Libraries/BMS56M206A
 https://github.com/BestModules-Libraries/BMH08101
 https://github.com/BestModules-Libraries/BMV31M304A
+https://github.com/Zakrzewiaczek/pantryclient-esp
