@@ -2889,6 +2889,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverMenu
 https://github.com/GyverLibs/GVector
 https://github.com/GyverLibs/StringN
 https://github.com/GyverLibs/RGBLED
