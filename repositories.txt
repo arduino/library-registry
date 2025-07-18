@@ -8232,3 +8232,7 @@ https://github.com/EmotiBit/EmotiBit_DSPFilters
 https://github.com/EmotiBit/BrainflowSpO2Algorithm
 https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus
 https://github.com/ycharfi09/QTRMuxes
+https://github.com/BestModules-Libraries/BMH12M205
+https://github.com/BestModules-Libraries/BMS56M206A
+https://github.com/BestModules-Libraries/BMH08101
+https://github.com/BestModules-Libraries/BMV31M304A
