@@ -8241,3 +8241,4 @@ https://github.com/BestModules-Libraries/BMH08101
 https://github.com/BestModules-Libraries/BMV31M304A
 https://github.com/Zakrzewiaczek/pantryclient-esp
 https://github.com/John-Karatka/MAX6953
+https://github.com/MicroSui/microsui-lib
