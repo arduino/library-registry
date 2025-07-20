@@ -33,6 +33,16 @@ See the instructions below for detailed instructions on how to do this via the G
 
 ### Instructions
 
+---
+
+⚠ If you behave irresponsibly in your interactions with this repository, your Library Manager Registry privileges will be revoked.
+
+Carefully read and follow the instructions in any comments the bot and human maintainers make on your pull requests. If you are having trouble following the instructions, add a comment that provides a detailed description of the problem you are having and a human maintainer will provide assistance.
+
+Although we have set up automation for the most basic tasks, this repository is maintained by humans. So behave in a manner appropriate for interacting with humans, including clearly communicating what you are hoping to accomplish.
+
+---
+
 1. You may want to first take a look at
    [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
    compliance before being accepted.

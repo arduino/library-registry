@@ -44,9 +44,10 @@ When a library is [added to the library list](README.md#adding-a-library-to-libr
 
 More information:
 
+- https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library#installing-a-library
 - https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#using-the-library-manager
 - https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/
-- https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a
+- https://docs.arduino.cc/arduino-cloud/guides/editor/#library-manager
 
 ### How is the Library Manager index generated?
 
@@ -71,6 +72,8 @@ Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 
 ### What are the requirements for a library to be added to Library Manager?
 
+- [ ] The library must be something of potential value to the Arduino community.
+- [ ] The submitter must behave in a responsible manner in their interactions with the Library Manager Registry.
 - [ ] The library must be fully compliant with the [Arduino Library Specification](https://arduino.github.io/arduino-cli/latest/library-specification).
 - [ ] The library must have [a library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#library-metadata), in compliance with the Arduino Library 1.5 format.
 - [ ] The library.properties file must be located in the root of the repository.

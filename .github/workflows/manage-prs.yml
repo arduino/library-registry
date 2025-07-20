@@ -1,11 +1,11 @@
 name: Manage PRs
 
 env:
-  SUBMISSION_PARSER_VERSION: 1.1.1 # See: https://github.com/arduino/library-manager-submission-parser/releases
+  SUBMISSION_PARSER_VERSION: 2.0.0 # See: https://github.com/arduino/library-manager-submission-parser/releases
   MAINTAINERS: |
     # GitHub user names to request reviews from in cases where PRs can't be managed automatically.
     - per1234
-  CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT: check-submissions-failed
+  CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX: check-submissions-failed-
   ERROR_MESSAGE_PREFIX: ":x: **ERROR:** "
 
 on:
@@ -114,7 +114,7 @@ jobs:
         run: echo "::set-output name=head::$(jq -c .head.sha "${{ steps.configuration.outputs.path }}/${{ env.JSON_IDENTIFIER }}")"
 
       - name: Upload diff file to workflow artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: ${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}
           name: ${{ steps.configuration.outputs.artifact }}
@@ -125,6 +125,7 @@ jobs:
     runs-on: ubuntu-latest
 
     outputs:
+      conclusion: ${{ steps.parse-request.outputs.conclusion }}
       type: ${{ steps.parse-request.outputs.type }}
       error: ${{ steps.parse-request.outputs.error }}
       arduinoLintLibraryManagerSetting: ${{ steps.parse-request.outputs.arduinoLintLibraryManagerSetting }}
@@ -133,6 +134,8 @@ jobs:
       indexer-logs-urls: ${{ steps.parse-request.outputs.indexer-logs-urls }}
 
     steps:
+      # Checkout the tip of the default branch (this is the action's default ref input value when workflow is triggered
+      # by an issue_comment or pull_request_target event).
       - name: Checkout local repository
         uses: actions/checkout@v4
 
@@ -144,13 +147,13 @@ jobs:
           location: ${{ runner.temp }}
 
       - name: Download diff
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           path: ${{ needs.diff.outputs.path }}
           name: ${{ needs.diff.outputs.artifact }}
 
       - name: Remove no longer needed artifact
-        uses: geekyeggo/delete-artifact@v2
+        uses: geekyeggo/delete-artifact@v5
         with:
           name: ${{ needs.diff.outputs.artifact }}
 
@@ -160,12 +163,15 @@ jobs:
           chmod u+x "${{ steps.download-parser.outputs.file-path }}"
           REQUEST="$( \
             "${{ steps.download-parser.outputs.file-path }}" \
+              --accesslist=".github/workflows/assets/accesslist.yml" \
               --diffpath="${{ needs.diff.outputs.path }}/${{ needs.diff.outputs.filename }}" \
               --repopath="${{ github.workspace }}" \
               --listname="repositories.txt" \
+              --submitter="${{ github.actor }}" \
           )"
           # Due to limitations of the GitHub Actions workflow system, dedicated outputs must be created for use in
           # certain workflow fields.
+          echo "::set-output name=conclusion::$(echo "$REQUEST" | jq -r -c '.conclusion')"
           echo "::set-output name=type::$(echo "$REQUEST" | jq -r -c '.type')"
           echo "::set-output name=error::$(echo "$REQUEST" | jq -r -c '.error')"
           echo "::set-output name=arduinoLintLibraryManagerSetting::$(echo "$REQUEST" | jq -r -c '.arduinoLintLibraryManagerSetting')"
@@ -191,10 +197,13 @@ jobs:
           labels: |
             - "topic: ${{ needs.parse.outputs.type }}"
 
+  # Handle problem found by the parser that can potentially be resolved by requester.
   parse-fail:
     needs:
       - parse
-    if: needs.parse.outputs.error != ''
+    if: >
+      needs.parse.outputs.conclusion != 'declined' &&
+      needs.parse.outputs.error != ''
 
     runs-on: ubuntu-latest
     steps:
@@ -219,6 +228,56 @@ jobs:
             More information:
             https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
 
+  # Requester's registry privileges have been revoked.
+  decline-request:
+    needs:
+      - parse
+    if: >
+      needs.parse.outputs.conclusion == 'declined' &&
+      needs.parse.outputs.error != ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment reason for declining request
+        uses: octokit/request-action@v2.x
+        if: needs.parse.outputs.error != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/comments
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          body: |
+            |
+            Hi @${{ github.actor }}
+            Your request has been declined:
+
+            ${{ env.ERROR_MESSAGE_PREFIX }}${{ needs.parse.outputs.error }}
+
+      - name: Close PR
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: PATCH /repos/{owner}/{repo}/pulls/{pull_number}
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          state: closed
+
+      - name: Add conclusion label to PR
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # See: https://docs.github.com/rest/issues/labels#add-labels-to-an-issue
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/labels
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          labels: |
+            - "conclusion: ${{ needs.parse.outputs.conclusion }}"
+
   check-submissions:
     name: Check ${{ matrix.submission.submissionURL }}
     needs:
@@ -226,6 +285,7 @@ jobs:
     if: >
       needs.parse.outputs.type == 'submission' ||
       needs.parse.outputs.type == 'modification'
+
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -273,6 +333,15 @@ jobs:
 
       - name: Set checks result to fail if error detected by submission parser
         if: matrix.submission.error != ''
+        run: echo "PASS=false" >> "$GITHUB_ENV"
+
+      # Parser checks are relevant in the case where request is declined due to registry access having been revoked for
+      # the library repository owners. However, the rest of the checks are irrelevant and may result in confusing
+      # comments from the bot, so should be skipped.
+      - name: Skip the rest of the checks if request is declined
+        if: >
+          needs.parse.outputs.conclusion == 'declined' &&
+          env.PASS == 'true'
         run: echo "PASS=false" >> "$GITHUB_ENV"
 
       - name: Install Arduino Lint
@@ -376,15 +445,23 @@ jobs:
         if: env.PASS == 'false'
         run: touch ${{ env.FAIL_FLAG_PATH }} # Arbitrary file to provide content for the flag artifact
 
+      # Each workflow artifact must have a unique name. The job matrix doesn't provide a guaranteed unique string to use
+      # for a name so it is necessary to generate one.
+      - name: Generate unique artifact suffix
+        if: env.PASS == 'false'
+        run: |
+          echo "CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_SUFFIX=$(cat /proc/sys/kernel/random/uuid)" >> "$GITHUB_ENV"
+
       # The value of a job matrix output is set by whichever job happened to run last, not of use for this application.
       # So it's necessary to use an alternative means of indicating that at least one submission failed the checks.
       - name: Upload failure flag artifact
         if: env.PASS == 'false'
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           if-no-files-found: error
+          include-hidden-files: true
           path: ${{ env.FAIL_FLAG_PATH }}
-          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX }}${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_SUFFIX }}
 
   check-submissions-result:
     needs: check-submissions
@@ -393,20 +470,32 @@ jobs:
     outputs:
       pass: ${{ steps.failure-flag-exists.outcome == 'failure' }}
 
+    env:
+      CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH: ${{ github.workspace }}/artifacts
+
     steps:
+      - name: Download submission check failure flag artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH }}
+          pattern: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX }}*
+
       - name: Check for existence of submission check failure flag artifact
         id: failure-flag-exists
-        uses: actions/download-artifact@v3
         continue-on-error: true
-        with:
-          name: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT }}
+        # actions/download-artifact does not create a folder per its `path` input if no artifacts match `pattern`.
+        run: |
+          test -d "${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH }}"
 
+  # Handle problem found by the submission checks that can potentially be resolved by requester.
   check-submissions-fail:
     needs:
+      - parse
       - check-submissions-result
-    if: needs.check-submissions-result.outputs.pass == 'false'
+    if: >
+      needs.parse.outputs.conclusion != 'declined' &&
+      needs.check-submissions-result.outputs.pass == 'false'
     runs-on: ubuntu-latest
-
     steps:
       - name: Comment instructions to fix errors detected during submission checks
         uses: octokit/request-action@v2.x
@@ -431,6 +520,37 @@ jobs:
 
             More information:
             https://github.com/${{ github.repository }}/blob/main/README.md#if-the-problem-is-with-the-pull-request
+
+  decline-submissions:
+    needs:
+      - parse
+      - check-submissions
+    if: needs.parse.outputs.conclusion == 'declined'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close PR
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          route: PATCH /repos/{owner}/{repo}/pulls/{pull_number}
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          pull_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          state: closed
+
+      - name: Add conclusion label to PR
+        uses: octokit/request-action@v2.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # See: https://docs.github.com/rest/issues/labels#add-labels-to-an-issue
+          route: POST /repos/{owner}/{repo}/issues/{issue_number}/labels
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          issue_number: ${{ github.event.pull_request.number }}${{ github.event.issue.number }}
+          labels: |
+            - "conclusion: ${{ needs.parse.outputs.conclusion }}"
 
   merge:
     needs:
@@ -584,6 +704,7 @@ jobs:
       - parse
     # These request types can't be automatically approved.
     if: >
+      needs.parse.outputs.conclusion != 'declined' &&
       needs.parse.outputs.type != 'submission' &&
       needs.parse.outputs.type != 'invalid'
     runs-on: ubuntu-latest
@@ -610,8 +731,10 @@ jobs:
     needs:
       # Run after all other jobs
       - parse-fail
+      - decline-request
       - merge-fail
       - check-submissions-fail
+      - decline-submissions
       - label
       - not-submission
     # Run if any job failed. The workflow is configured so that jobs only fail when there is an unexpected error.
