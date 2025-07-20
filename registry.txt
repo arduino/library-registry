@@ -8236,3 +8236,4 @@ https://github.com/GyverLibs/GyverMenu.git|Contributed|GyverMenu
 https://github.com/EduKits/UltraPing.git|Contributed|UltraPing
 https://github.com/MicroSui/microsui-lib.git|Contributed|MicroSui
 https://github.com/muki01/OBD2_KLine_Library.git|Contributed|OBD2 K-Line
+https://github.com/MouseZver/AsyncTempSensor.git|Contributed|AsyncTempSensor
