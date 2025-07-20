@@ -5432,6 +5432,7 @@ https://github.com/RFExplorer/RFExplorer_3GP_IoT_Arduino
 https://github.com/rgot-org/TheThingsNetwork_esp32
 https://github.com/rgot-org/EzLoRaWAN
 https://github.com/rgot-org/EzLoRaWAN_BLE
+https://github.com/rgot-org/CoVACIEL-ESP32
 https://github.com/rhelmus/virtmem-arlibman
 https://github.com/Rhomb-io/rhio-pinmap
 https://github.com/rui-huang-opt/MPC_ruih
