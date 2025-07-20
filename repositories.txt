@@ -8244,3 +8244,4 @@ https://github.com/Zakrzewiaczek/pantryclient-esp
 https://github.com/John-Karatka/MAX6953
 https://github.com/MicroSui/microsui-lib
 https://github.com/muki01/OBD2_KLine_Library
+https://github.com/max22-/ble-keyboard-mouse-client
