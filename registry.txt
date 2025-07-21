@@ -8240,3 +8240,4 @@ https://github.com/MouseZver/AsyncTempSensor.git|Contributed|AsyncTempSensor
 https://github.com/max22-/ble-keyboard-mouse-client.git|Contributed|ble-keyboard-mouse-client
 https://github.com/Matthew-a-smith/OpenEdgeStack.git|Contributed|OpenEdgeStack
 https://github.com/tingerlingerr/DigiPotX9C.git|Contributed|DigiPotX9C
+https://github.com/exosite/arduino_exosite_http.git|Contributed|Exosite IIoT HTTP Device
