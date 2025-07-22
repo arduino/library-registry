@@ -8241,3 +8241,11 @@ https://github.com/max22-/ble-keyboard-mouse-client.git|Contributed|ble-keyboard
 https://github.com/Matthew-a-smith/OpenEdgeStack.git|Contributed|OpenEdgeStack
 https://github.com/tingerlingerr/DigiPotX9C.git|Contributed|DigiPotX9C
 https://github.com/exosite/arduino_exosite_http.git|Contributed|Exosite IIoT HTTP Device
+https://github.com/DFRobot/DFRobot_ADS1115_0_10V.git|Contributed|DFRobot_ADS1115_0_10V
+https://github.com/DFRobot/DFRobot_AS6221.git|Contributed|DFRobot_AS6221
+https://github.com/DFRobot/DFRobot_Cosmo.git|Contributed|DFRobot_Cosmo
+https://github.com/DFRobot/DFRobot_GestureFaceDetection.git|Contributed|DFRobot_GestureFaceDetection
+https://github.com/DFRobot/DFRobot_GNSSAndRTC.git|Contributed|DFRobot_GNSSAndRTC
+https://github.com/DFRobot/DFRobot_LTR308.git|Contributed|DFRobot_LTR308
+https://github.com/DFRobot/DFRobot_SFA40.git|Contributed|DFRobot_SFA40
+https://github.com/DFRobot/DFRobot_TM6605.git|Contributed|DFRobot_TM6605
