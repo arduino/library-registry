@@ -1,6 +1,7 @@
 https://github.com/exosite/arduino_exosite_http
 https://github.com/tingerlingerr/DigiPotX9C
 https://github.com/MouseZver/AsyncTempSensor
+https://github.com/DigitalCodesign/MentorBit-SGP30
 https://github.com/Matthew-a-smith/OpenEdgeStack
 https://github.com/jmwanderer/RYLR_LoRaAT
 https://github.com/LFranklinApps/Custom_Robot_Control
