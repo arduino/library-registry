@@ -8250,3 +8250,4 @@ https://github.com/DFRobot/DFRobot_LTR308.git|Contributed|DFRobot_LTR308
 https://github.com/DFRobot/DFRobot_SFA40.git|Contributed|DFRobot_SFA40
 https://github.com/DFRobot/DFRobot_TM6605.git|Contributed|DFRobot_TM6605
 https://github.com/mabuware/MabuTrace.git|Contributed|MabuTrace
+https://github.com/DigitalCodesign/MentorBit-SGP30.git|Contributed|MentorBit-SGP30
