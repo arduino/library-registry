@@ -8262,3 +8262,4 @@ https://github.com/max22-/ble-keyboard-mouse-client
 https://github.com/John-Karatka/DS1621
 https://github.com/Martin4017/LCDShiftView
 https://github.com/njazz/rowguelike
+https://github.com/ErtugrulKra/ESP-Music
