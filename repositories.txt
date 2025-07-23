@@ -8259,3 +8259,4 @@ https://github.com/MicroSui/microsui-lib
 https://github.com/muki01/OBD2_KLine_Library
 https://github.com/max22-/ble-keyboard-mouse-client
 https://github.com/John-Karatka/DS1621
+https://github.com/Martin4017/LCDShiftView
