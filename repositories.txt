@@ -1,3 +1,4 @@
+https://github.com/akarimiz1/E62Module
 https://github.com/NartemAI/NaiPot
 https://github.com/exosite/arduino_exosite_http
 https://github.com/tingerlingerr/DigiPotX9C
