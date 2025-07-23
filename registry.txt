@@ -8257,3 +8257,4 @@ https://github.com/NartemAI/NaiPot.git|Contributed|NaiPot
 https://github.com/njazz/rowguelike.git|Contributed|rowguelike
 https://github.com/akarimiz1/E62Module.git|Contributed|E62Module
 https://github.com/ErtugrulKra/ESP-Music.git|Contributed|ESP-Music
+https://github.com/nexbyteio/ZenLib.git|Contributed|ZenLib
