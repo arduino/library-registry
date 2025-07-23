@@ -8256,3 +8256,4 @@ https://github.com/Martin4017/LCDShiftView.git|Contributed|LCDShiftView
 https://github.com/NartemAI/NaiPot.git|Contributed|NaiPot
 https://github.com/njazz/rowguelike.git|Contributed|rowguelike
 https://github.com/akarimiz1/E62Module.git|Contributed|E62Module
+https://github.com/ErtugrulKra/ESP-Music.git|Contributed|ESP-Music
