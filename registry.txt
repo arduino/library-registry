@@ -8254,3 +8254,4 @@ https://github.com/DigitalCodesign/MentorBit-SGP30.git|Contributed|MentorBit-SGP
 https://github.com/John-Karatka/DS1621.git|Contributed|DS1621
 https://github.com/Martin4017/LCDShiftView.git|Contributed|LCDShiftView
 https://github.com/NartemAI/NaiPot.git|Contributed|NaiPot
+https://github.com/njazz/rowguelike.git|Contributed|rowguelike
