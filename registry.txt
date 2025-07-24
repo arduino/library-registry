@@ -8259,3 +8259,4 @@ https://github.com/akarimiz1/E62Module.git|Contributed|E62Module
 https://github.com/ErtugrulKra/ESP-Music.git|Contributed|ESP-Music
 https://github.com/nexbyteio/ZenLib.git|Contributed|ZenLib
 https://github.com/tomorrow56/ESP32_LINE_Messaging_API.git|Contributed|ESP32_LINE_Messaging_API
+https://github.com/toddpan/xiaozhi-esp32-mcp.git|Contributed|xiaozhi-mcp
