@@ -8267,3 +8267,4 @@ https://github.com/ErtugrulKra/ESP-Music
 https://github.com/nexbyteio/ZenLib
 https://github.com/tomorrow56/ESP32_LINE_Messaging_API
 https://github.com/toddpan/xiaozhi-esp32-mcp
+https://github.com/TexhFexLabs/HydroNode-Library
