@@ -8263,3 +8263,4 @@ https://github.com/toddpan/xiaozhi-esp32-mcp.git|Contributed|xiaozhi-mcp
 https://github.com/TexhFexLabs/HydroNode-Library.git|Contributed|HydroNode-Library
 https://github.com/ConsentiumIoT/EdgeSense.git|Contributed|EdgeSense
 https://github.com/alecxcode/LX16A-bus.git|Contributed|LX16A-bus
+https://github.com/Valdemir-DSW/val_flash_spi.git|Contributed|val_flash_spi
