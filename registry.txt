@@ -8262,3 +8262,4 @@ https://github.com/tomorrow56/ESP32_LINE_Messaging_API.git|Contributed|ESP32_LIN
 https://github.com/toddpan/xiaozhi-esp32-mcp.git|Contributed|xiaozhi-mcp
 https://github.com/TexhFexLabs/HydroNode-Library.git|Contributed|HydroNode-Library
 https://github.com/ConsentiumIoT/EdgeSense.git|Contributed|EdgeSense
+https://github.com/alecxcode/LX16A-bus.git|Contributed|LX16A-bus
