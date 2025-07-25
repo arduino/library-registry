@@ -14,6 +14,7 @@ https://github.com/AbdulKus/72x40oled_lib
 https://github.com/X-croot/UltraSonicXCR
 https://github.com/X-croot/RelayXCR
 https://github.com/Pius171/LTC2959-library
+https://github.com/boby15000/SensorCurrent
 https://github.com/fadhil-1911/SmartTM1637
 https://github.com/brianvarren/DACless
 https://github.com/ArthZ01/JWT-Lib
