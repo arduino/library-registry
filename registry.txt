@@ -8265,3 +8265,4 @@ https://github.com/ConsentiumIoT/EdgeSense.git|Contributed|EdgeSense
 https://github.com/alecxcode/LX16A-bus.git|Contributed|LX16A-bus
 https://github.com/Valdemir-DSW/val_flash_spi.git|Contributed|val_flash_spi
 https://github.com/boby15000/SensorCurrent.git|Contributed|SensorCurrent
+https://github.com/AntonioPrevitali/ApJSY163T.git|Contributed|ApJSY163T
