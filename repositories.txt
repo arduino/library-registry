@@ -1,3 +1,13 @@
+https://github.com/OlivierPcheux/MTobjects
+https://github.com/Valdemir-DSW/val_flash_spi
+https://github.com/alecxcode/LX16A-bus
+https://github.com/akarimiz1/E62Module
+https://github.com/NartemAI/NaiPot
+https://github.com/exosite/arduino_exosite_http
+https://github.com/tingerlingerr/DigiPotX9C
+https://github.com/MouseZver/AsyncTempSensor
+https://github.com/DigitalCodesign/MentorBit-SGP30
+https://github.com/Matthew-a-smith/OpenEdgeStack
 https://github.com/jmwanderer/RYLR_LoRaAT
 https://github.com/LFranklinApps/Custom_Robot_Control
 https://github.com/X-croot/XCR-LDR
@@ -11,6 +21,7 @@ https://github.com/AbdulKus/72x40oled_lib
 https://github.com/X-croot/UltraSonicXCR
 https://github.com/X-croot/RelayXCR
 https://github.com/Pius171/LTC2959-library
+https://github.com/boby15000/SensorCurrent
 https://github.com/fadhil-1911/SmartTM1637
 https://github.com/brianvarren/DACless
 https://github.com/ArthZ01/JWT-Lib
@@ -294,6 +305,7 @@ https://github.com/zwieblum/ch32_deep_sleep
 https://github.com/microbotsio/CodeCell
 https://github.com/EduKits/ColourKit
 https://github.com/EduKits/ManagedButtons
+https://github.com/EduKits/UltraPing
 https://github.com/makkorjamal/PLSduino
 https://github.com/csl-3/Pasos
 https://github.com/devtagse/DEVTAGLibIA
@@ -2136,11 +2148,13 @@ https://github.com/devxplained/HTU21D-Sensor-Library
 https://github.com/devxplained/MAX3010x-Sensor-Library
 https://github.com/DFRobot/DFRobot_AD9837
 https://github.com/DFRobot/DFRobot_ADS1115
+https://github.com/DFRobot/DFRobot_ADS1115_0_10V
 https://github.com/DFRobot/DFRobot_ADXL345
 https://github.com/DFRobot/DFRobot_AHT20
 https://github.com/DFRobot/DFRobot_AirQualitySensor
 https://github.com/DFRobot/DFRobot_Alcohol
 https://github.com/DFRobot/DFRobot_AS3935
+https://github.com/DFRobot/DFRobot_AS6221
 https://github.com/DFRobot/DFRobot_AS7341
 https://github.com/DFRobot/DFRobot_ASR
 https://github.com/DFRobot/DFRobot_B_LUX_V30B
@@ -2156,6 +2170,7 @@ https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_BT401
 https://github.com/DFRobot/DFRobot_C4001
 https://github.com/DFRobot/DFRobot_CCS811
+https://github.com/DFRobot/DFRobot_Cosmo
 https://github.com/DFRobot/DFRobot_CH423
 https://github.com/DFRobot/DFRobot_DF1101S
 https://github.com/DFRobot/DFRobot_DF1201S
@@ -2171,8 +2186,10 @@ https://github.com/DFRobot/DFRobot_EnvironmentalSensor
 https://github.com/DFRobot/DFRobot_EOxygenSensor
 https://github.com/DFRobot/DFRobot_FreeTenIMU
 https://github.com/DFRobot/DFRobot_Gesture_Touch
+https://github.com/DFRobot/DFRobot_GestureFaceDetection
 https://github.com/DFRobot/DFRobot_GM60
 https://github.com/DFRobot/DFRobot_GNSS
+https://github.com/DFRobot/DFRobot_GNSSAndRTC
 https://github.com/DFRobot/DFRobot_GP8302
 https://github.com/DFRobot/DFRobot_GP8403
 https://github.com/DFRobot/DFRobot_GP8XXX
@@ -2196,6 +2213,7 @@ https://github.com/DFRobot/DFRobot_Lora
 https://github.com/DFRobot/DFRobot_LPUPS
 https://github.com/DFRobot/DFRobot_LSM303
 https://github.com/DFRobot/DFRobot_LWLP
+https://github.com/DFRobot/DFRobot_LTR308
 https://github.com/DFRobot/DFRobot_Maqueenplus
 https://github.com/DFRobot/DFRobot_MAX17043
 https://github.com/DFRobot/DFRobot_MAX31855
@@ -2224,6 +2242,7 @@ https://github.com/DFRobot/DFRobot_RS01
 https://github.com/DFRobot/DFRobot_RTU
 https://github.com/DFRobot/DFRobot_SCD4X
 https://github.com/DFRobot/DFRobot_SerialScreen771
+https://github.com/DFRobot/DFRobot_SFA40
 https://github.com/DFRobot/DFRobot_SGP40
 https://github.com/DFRobot/DFRobot_SHT
 https://github.com/DFRobot/DFRobot_SHT20
@@ -2236,6 +2255,7 @@ https://github.com/DFRobot/DFRobot_STS3X
 https://github.com/DFRobot/DFRobot_SU03T
 https://github.com/DFRobot/DFRobot_TCS3430
 https://github.com/DFRobot/DFRobot_TCS34725
+https://github.com/DFRobot/DFRobot_TM6605
 https://github.com/DFRobot/DFRobot_TMF8x01
 https://github.com/DFRobot/DFRobot_URM07
 https://github.com/DFRobot/DFRobot_URM09
@@ -4191,6 +4211,7 @@ https://github.com/m5stack/M5Module-LLM
 https://github.com/m5stack/M5Module-Audio
 https://github.com/m5stack/M5StamPLC
 https://github.com/m5stack/M5-LoRaWAN-RAK
+https://github.com/mabuware/MabuTrace
 https://github.com/machinefi/psa-crypto-arduino
 https://github.com/machinefi/w3bstream-client-arduino-ce
 https://github.com/MacroYau/LTC2942-Arduino-Library
@@ -8240,3 +8261,17 @@ https://github.com/BestModules-Libraries/BMH08101
 https://github.com/BestModules-Libraries/BMV31M304A
 https://github.com/Zakrzewiaczek/pantryclient-esp
 https://github.com/John-Karatka/MAX6953
+https://github.com/MicroSui/microsui-lib
+https://github.com/muki01/OBD2_KLine_Library
+https://github.com/max22-/ble-keyboard-mouse-client
+https://github.com/John-Karatka/DS1621
+https://github.com/Martin4017/LCDShiftView
+https://github.com/njazz/rowguelike
+https://github.com/ErtugrulKra/ESP-Music
+https://github.com/nexbyteio/ZenLib
+https://github.com/tomorrow56/ESP32_LINE_Messaging_API
+https://github.com/toddpan/xiaozhi-esp32-mcp
+https://github.com/TexhFexLabs/HydroNode-Library
+https://github.com/ConsentiumIoT/EdgeSense
+https://github.com/AntonioPrevitali/ApJSY163T
+https://github.com/MicrochipTech/RNWF02_WIFI_ARDUINO_LIBRARY
