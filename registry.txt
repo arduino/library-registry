@@ -8268,3 +8268,4 @@ https://github.com/boby15000/SensorCurrent.git|Contributed|SensorCurrent
 https://github.com/AntonioPrevitali/ApJSY163T.git|Contributed|ApJSY163T
 https://github.com/MicrochipTech/RNWF02_WIFI_ARDUINO_LIBRARY.git|Contributed|Microchip_RNWF02
 https://github.com/OlivierPcheux/MTobjects.git|Contributed|MTobjects
+https://github.com/GyverLibs/GyverPing.git|Contributed|GyverPing
