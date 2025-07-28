@@ -8276,3 +8276,4 @@ https://github.com/TexhFexLabs/HydroNode-Library
 https://github.com/ConsentiumIoT/EdgeSense
 https://github.com/AntonioPrevitali/ApJSY163T
 https://github.com/MicrochipTech/RNWF02_WIFI_ARDUINO_LIBRARY
+https://github.com/ErtugrulKra/ESP-Music
