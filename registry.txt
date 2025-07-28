@@ -8271,3 +8271,4 @@ https://github.com/OlivierPcheux/MTobjects.git|Contributed|MTobjects
 https://github.com/GyverLibs/GyverPing.git|Contributed|GyverPing
 https://github.com/dayatkun01/ClearDS1302.git|Contributed|ClearDS1302
 https://github.com/ennio64/CL57R-Stepper-Driver-Arduino-Library.git|Contributed|CL57RStepper
+https://github.com/senex-code/CarBase.git|Contributed|CarBase
