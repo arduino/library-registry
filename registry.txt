@@ -6775,7 +6775,6 @@ https://github.com/MOMIZICH/OneShot.git|Contributed|OneShot
 https://github.com/RobTillaart/TinyKT0803.git|Contributed|TinyKT0803
 https://github.com/VIDI-X/VIDI-X_BQ24295.git|Contributed|VIDI-X_BQ24295
 https://github.com/pervu/FIFObuf.git|Contributed|FIFObuf
-https://github.com/bitcode-tech/bc7215.git|Contributed|IR-infrared Remote Control Decoder-Simulator
 https://github.com/siroshy/SerialTerminalIO.git|Contributed|SerialTerminalIO
 https://github.com/cygig/AlmostRandom.git|Contributed|AlmostRandom
 https://github.com/Amethyste-PCB/Amethyste_LSM6DS3.git|Contributed|Amethyste_LSM6DS3
