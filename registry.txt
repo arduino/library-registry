@@ -8274,3 +8274,4 @@ https://github.com/ennio64/CL57R-Stepper-Driver-Arduino-Library.git|Contributed|
 https://github.com/senex-code/CarBase.git|Contributed|CarBase
 https://github.com/m5stack/M5Unit-Step16.git|Contributed|M5UnitStep16
 https://github.com/Zefek/MQTTESP8266.git|Contributed|MQTTESP8266
+https://github.com/aneesharnavch/microdsp.git|Contributed|microdsp
