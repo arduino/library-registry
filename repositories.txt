@@ -418,7 +418,6 @@ https://github.com/Zone-of-Engineering-Newcomers/MovingAverage
 https://github.com/cygig/AlmostRandom
 https://github.com/agomezgar/masaylolibrary
 https://github.com/agomezgar/escornabotLibrary
-https://github.com/bitcode-tech/bc7215
 https://github.com/VIDI-X/VIDI-X_BQ24295
 https://github.com/pervu/FIFObuf
 https://github.com/orkungedik/kmeans
