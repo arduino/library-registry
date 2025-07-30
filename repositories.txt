@@ -469,6 +469,7 @@ https://github.com/ProjectNeura/LEADS-Arduino
 https://github.com/todbot/TouchyTouch
 https://github.com/Malih002/Klinik-Encoder
 https://github.com/handmade0octopus/ds2
+https://github.com/tbekas/BLE-Gamepad-Client
 https://bitbucket.org/amotzek/cooperative-multitasking
 https://bitbucket.org/amotzek/mqtt-client
 https://bitbucket.org/christandlg/as3935mi
