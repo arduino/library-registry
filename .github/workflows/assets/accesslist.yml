@@ -18,6 +18,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
 - host: github.com
+  name: 7semi-Tech
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
+- host: github.com
   name: ajangrahmat
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
