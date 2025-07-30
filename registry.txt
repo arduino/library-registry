@@ -8282,3 +8282,4 @@ https://github.com/CQUPTHXC/HXC_CAN.git|Contributed|HXC_CAN
 https://github.com/leftCoast/LC_extSerial.git|Contributed|LC_extSerial
 https://github.com/tbekas/BLE-Gamepad-Client.git|Contributed|BLE-Gamepad-Client
 https://github.com/me-RK/WiFiCreds.git|Contributed|WiFiCreds
+https://github.com/adafruit/Adafruit_uBlox.git|Recommended|Adafruit uBlox
