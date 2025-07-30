@@ -8279,3 +8279,4 @@ https://github.com/muchaste/Ardoxy.git|Contributed|Ardoxy
 https://github.com/qqqlab/ESPnow-RC.git|Contributed|ESPnow-RC
 https://github.com/AntonioPrevitali/ApJSY333.git|Contributed|ApJSY333
 https://github.com/CQUPTHXC/HXC_CAN.git|Contributed|HXC_CAN
+https://github.com/leftCoast/LC_extSerial.git|Contributed|LC_extSerial
