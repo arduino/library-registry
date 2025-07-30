@@ -1,3 +1,4 @@
+https://github.com/leftCoast/LC_extSerial
 https://github.com/muchaste/Ardoxy/
 https://github.com/aneesharnavch/microdsp
 https://github.com/senex-code/CarBase
@@ -8284,3 +8285,5 @@ https://github.com/AntonioPrevitali/ApJSY163T
 https://github.com/MicrochipTech/RNWF02_WIFI_ARDUINO_LIBRARY
 https://github.com/m5stack/M5Unit-Step16
 https://github.com/Zefek/MQTTESP8266
+https://github.com/AntonioPrevitali/ApJSY333
+https://github.com/CQUPTHXC/HXC_CAN
