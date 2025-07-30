@@ -8288,3 +8288,4 @@ https://github.com/m5stack/M5Unit-Step16
 https://github.com/Zefek/MQTTESP8266
 https://github.com/AntonioPrevitali/ApJSY333
 https://github.com/CQUPTHXC/HXC_CAN
+https://github.com/adafruit/Adafruit_uBlox
