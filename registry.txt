@@ -8289,3 +8289,4 @@ https://github.com/Jodeenio/74HC595Plus.git|Contributed|74HC595Plus
 https://github.com/sstaub/ST7565DOG.git|Contributed|ST7565DOG
 https://github.com/Nezaemmy/NezaButton.git|Contributed|NezaButton
 https://github.com/wisec/tinysleeper.git|Contributed|TinySleeper
+https://github.com/piruetasxyz/FrecuenciasMIDI.git|Contributed|FrecuenciasMIDI
