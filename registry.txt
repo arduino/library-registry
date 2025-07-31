@@ -8284,3 +8284,4 @@ https://github.com/tbekas/BLE-Gamepad-Client.git|Contributed|BLE-Gamepad-Client
 https://github.com/me-RK/WiFiCreds.git|Contributed|WiFiCreds
 https://github.com/adafruit/Adafruit_uBlox.git|Recommended|Adafruit uBlox
 https://github.com/positronic57/MCP9808SensorLib.git|Contributed|MCP9808SensorLib
+https://github.com/AvantMaker/ESP32_AI_Connect.git|Contributed|ESP32_AI_Connect
