@@ -8290,3 +8290,4 @@ https://github.com/Zefek/MQTTESP8266
 https://github.com/AntonioPrevitali/ApJSY333
 https://github.com/CQUPTHXC/HXC_CAN
 https://github.com/adafruit/Adafruit_uBlox
+https://github.com/AvantMaker/ESP32_AI_Connect
