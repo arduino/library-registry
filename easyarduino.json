@@ -1,0 +1,11 @@
+{
+  "name": "EasyArduino",
+  "author": "The Programmer Fundation",
+  "maintainer": "The Programmer Fundation",
+  "sentence": "A library that makes Arduino simple",
+  "paragraph": "Esta librería simplifica la lectura de botones usando un solo comando.",
+  "category": "Input",
+  "url": "https://github.com/TheProgrammerFundation/EasyArduino",
+  "architectures": ["*"],
+  "version": "1.0.0"
+}
