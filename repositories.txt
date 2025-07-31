@@ -1,3 +1,4 @@
+https://github.com/sstaub/ST7565DOG
 https://github.com/Jodeenio/74HC595Plus
 https://github.com/positronic57/MCP9808SensorLib
 https://github.com/me-RK/WiFiCreds
