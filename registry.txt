@@ -8218,7 +8218,7 @@ https://github.com/X-croot/XCR-LDR.git|Contributed|XCR-LDR
 https://github.com/LFranklinApps/Custom_Robot_Control.git|Contributed|Custom_Robot_Control
 https://github.com/npuckett/WebGUI.git|Contributed|WebGUI
 https://github.com/kolod/Arduino-Simple-Modbus-Slave.git|Contributed|SimpleModbusSlave
-https://github.com/EmotiBit/EmotiBit_DSPFilters.git|Contributed|EmotiBit_DSPFilters
+https://github.com/EmotiBit/EmotiBit_DSPFilters.git|Contributed|EmotiBit DSPFilters
 https://github.com/EmotiBit/BrainflowSpO2Algorithm.git|Contributed|BrainflowSpO2Algorithm
 https://github.com/m5stack/M5Unit-TUBE.git|Contributed|M5Unit-TUBE
 https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
