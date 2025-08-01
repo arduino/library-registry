@@ -5720,6 +5720,7 @@ https://github.com/RobTillaart/HX711
 https://github.com/RobTillaart/HX711_MP
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
+https://github.com/RobTillaart/I2C_CAT24M01
 https://github.com/RobTillaart/I2C_EEPROM
 https://github.com/RobTillaart/I2C_LCD
 https://github.com/RobTillaart/I2C_SCANNER
