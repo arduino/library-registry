@@ -1,3 +1,6 @@
+https://github.com/Nezaemmy/NezaButton
+https://github.com/sstaub/ST7565DOG
+https://github.com/Jodeenio/74HC595Plus
 https://github.com/positronic57/MCP9808SensorLib
 https://github.com/me-RK/WiFiCreds
 https://github.com/leftCoast/LC_extSerial
@@ -5088,6 +5091,7 @@ https://github.com/pilotak/MovingAverage
 https://github.com/pilotak/MovingAverageAngle
 https://github.com/pilotak/MovingAverageFloat
 https://github.com/pilotak/WeatherMeters
+https://github.com/piruetasxyz/FrecuenciasMIDI
 https://github.com/piruetasxyz/NotasMIDI
 https://github.com/piruetasxyz/maqui_library
 https://github.com/piruetasxyz/Pantalla12x8
@@ -6440,6 +6444,7 @@ https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7343_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library
+https://github.com/sparkfun/SparkFun_Authentication_Coprocessor_Arduino_Library
 https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library
 https://github.com/sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
@@ -8292,3 +8297,4 @@ https://github.com/CQUPTHXC/HXC_CAN
 https://github.com/adafruit/Adafruit_uBlox
 https://github.com/AvantMaker/ESP32_AI_Connect
 https://github.com/TheProgrammerFundation/EasyArduino
+https://github.com/wisec/tinysleeper/
