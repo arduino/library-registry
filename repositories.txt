@@ -1,3 +1,4 @@
+https://github.com/Nezaemmy/Neza74HC595
 https://github.com/Nezaemmy/NezaButton
 https://github.com/sstaub/ST7565DOG
 https://github.com/Jodeenio/74HC595Plus
