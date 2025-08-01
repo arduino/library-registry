@@ -57,3 +57,7 @@
   name: YoavPaz
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5741#issuecomment-2589016403
+- host: github.com
+  name: tremaru
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/6697
