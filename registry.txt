@@ -8291,3 +8291,4 @@ https://github.com/Nezaemmy/NezaButton.git|Contributed|NezaButton
 https://github.com/wisec/tinysleeper.git|Contributed|TinySleeper
 https://github.com/piruetasxyz/FrecuenciasMIDI.git|Contributed|FrecuenciasMIDI
 https://github.com/sparkfun/SparkFun_Authentication_Coprocessor_Arduino_Library.git|Contributed|SparkFun Authentication Coprocessor Arduino Library
+https://github.com/TheProgrammerFundation/EasyArduino.git|Contributed|EasyArduino
