@@ -7695,8 +7695,6 @@ https://github.com/Syafiqlim/ESP32_MySQL
 https://github.com/nananauno/M5EasyUI
 https://github.com/x821938/erpc
 https://github.com/jonp92/TemplateTango
-https://github.com/tremaru/Battery_Shield
-https://github.com/tremaru/iocontrol
 https://github.com/xamrex/arduino-InstagramFollowers
 https://github.com/Networking-for-Arduino/EthernetESP32
 https://github.com/Tyler-Barnes/promplus
