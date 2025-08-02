@@ -1046,6 +1046,7 @@ https://github.com/amiga68k/electuno
 https://github.com/amirchev/EZPROM
 https://github.com/amirchev/VariableTimedAction
 https://github.com/amperka/AmperkaFET
+https://github.com/AmissDrake/MDLib
 https://github.com/amperka/Octofet
 https://github.com/amperka/Troyka-IMU
 https://github.com/amperka/TroykaAccelerometer
