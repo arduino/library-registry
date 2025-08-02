@@ -8229,3 +8229,4 @@ https://github.com/sparkfun/SparkFun_Apple_Accessory_Arduino_Library.git|Contrib
 https://github.com/RobTillaart/I2C_CAT24M01.git|Contributed|I2C_CAT24M01
 https://github.com/Nezaemmy/Neza74HC595.git|Contributed|Neza74HC595
 https://github.com/gavinlyonsrepo/BMP280_LTSM.git|Contributed|BMP280_LTSM
+https://github.com/Nezaemmy/Neza74HC165.git|Contributed|Neza74HC165
