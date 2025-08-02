@@ -7605,7 +7605,7 @@ https://gitlab.com/soruce/pimiento-clock-library
 https://github.com/buildybee/blite
 https://github.com/UCLA-Bruin-Supermileage/UCLA-SMV-CAN
 https://github.com/paulino/ha-mqtt-entities
-https://github.com/dattasaurabh82/DFRobot_GDL
+https://github.com/DFRobot/DFRobot_GDL
 https://github.com/iwandwip/Kinematrix
 https://github.com/floatplane/Ministache
 https://github.com/dvelaren/ThingworxESP32
