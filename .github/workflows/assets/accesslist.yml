@@ -14,10 +14,6 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/6269#pullrequestreview-2813557457
 - host: github.com
-  name: 7Semi
-  access: deny
-  reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
-- host: github.com
   name: ajangrahmat
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
@@ -53,3 +49,7 @@
   name: YoavPaz
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5741#issuecomment-2589016403
+- host: github.com
+  name: tremaru
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/6697
