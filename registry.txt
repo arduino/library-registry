@@ -8234,3 +8234,4 @@ https://github.com/AmissDrake/MDLib.git|Contributed|MDLib
 https://github.com/chrissank/JKBMSInterface.git|Contributed|JKBMSInterface
 https://github.com/adafruit/Adafruit_MLX90632.git|Recommended|Adafruit MLX90632 Library
 https://github.com/GyverLibs/uButton.git|Contributed|uButton
+https://github.com/Nezaemmy/NezaIR.git|Contributed|NezaIR
