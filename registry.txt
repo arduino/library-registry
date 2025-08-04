@@ -8236,3 +8236,4 @@ https://github.com/adafruit/Adafruit_MLX90632.git|Recommended|Adafruit MLX90632 
 https://github.com/GyverLibs/uButton.git|Contributed|uButton
 https://github.com/Nezaemmy/NezaIR.git|Contributed|NezaIR
 https://github.com/BorisKotlyarov/ESP8266-WiFiSetupManager.git|Contributed|ESP8266-WiFiSetupManager
+https://github.com/Stutchbury/SerialMessageEvents.git|Contributed|SerialMessageEvents
