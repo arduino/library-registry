@@ -1,3 +1,4 @@
+https://github.com/Stutchbury/SerialMessageEvents
 https://github.com/Nezaemmy/NezaIR
 https://github.com/chrissank/JKBMSInterface
 https://github.com/Nezaemmy/Neza74HC165
