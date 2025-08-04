@@ -8241,3 +8241,4 @@ https://github.com/adafruit/Adafruit_uBlox
 https://github.com/AvantMaker/ESP32_AI_Connect
 https://github.com/TheProgrammerFundation/EasyArduino
 https://github.com/wisec/tinysleeper/
+https://github.com/BorisKotlyarov/ESP8266-WiFiSetupManager
