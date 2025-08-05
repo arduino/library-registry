@@ -8240,3 +8240,4 @@ https://github.com/Stutchbury/SerialMessageEvents.git|Contributed|SerialMessageE
 https://github.com/max22-/cst816d.git|Contributed|cst816d
 https://github.com/HarutoHiroki/VFDDisplay.git|Contributed|VFDDisplay
 https://github.com/abcdaaaaaaaaa/RadioactiveDataScience.git|Contributed|RadioactiveSpaceData
+https://github.com/adafruit/Adafruit_QMC5883P.git|Recommended|Adafruit QMC5883P Library
