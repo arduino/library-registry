@@ -8239,3 +8239,4 @@ https://github.com/BorisKotlyarov/ESP8266-WiFiSetupManager.git|Contributed|ESP82
 https://github.com/Stutchbury/SerialMessageEvents.git|Contributed|SerialMessageEvents
 https://github.com/max22-/cst816d.git|Contributed|cst816d
 https://github.com/HarutoHiroki/VFDDisplay.git|Contributed|VFDDisplay
+https://github.com/abcdaaaaaaaaa/RadioactiveDataScience.git|Contributed|RadioactiveSpaceData
