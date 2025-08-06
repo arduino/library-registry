@@ -8247,3 +8247,4 @@ https://github.com/wisec/tinysleeper/
 https://github.com/BorisKotlyarov/ESP8266-WiFiSetupManager
 https://github.com/max22-/cst816d
 https://github.com/HarutoHiroki/VFDDisplay
+https://github.com/steveeidemiller/SE_BME680
