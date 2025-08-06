@@ -8241,3 +8241,4 @@ https://github.com/max22-/cst816d.git|Contributed|cst816d
 https://github.com/HarutoHiroki/VFDDisplay.git|Contributed|VFDDisplay
 https://github.com/abcdaaaaaaaaa/RadioactiveDataScience.git|Contributed|RadioactiveSpaceData
 https://github.com/adafruit/Adafruit_QMC5883P.git|Recommended|Adafruit QMC5883P Library
+https://github.com/steveeidemiller/SE_BME680.git|Contributed|SE_BME680
