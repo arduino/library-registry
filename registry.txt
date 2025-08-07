@@ -8243,3 +8243,4 @@ https://github.com/abcdaaaaaaaaa/RadioactiveDataScience.git|Contributed|Radioact
 https://github.com/adafruit/Adafruit_QMC5883P.git|Recommended|Adafruit QMC5883P Library
 https://github.com/steveeidemiller/SE_BME680.git|Contributed|SE_BME680
 https://github.com/salernosimone/arduino-espx.git|Contributed|espx
+https://github.com/gavinlyonsrepo/ERM19264_UC1609_TEXT.git|Contributed|ERM19264_UC1609_TEXT
