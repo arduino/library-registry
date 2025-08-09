@@ -8251,3 +8251,4 @@ https://github.com/teldrive-jpg/modbusmaster-GigaR1.git|Contributed|ModbusMaster
 https://github.com/flashstacks06/SimpleMenu.git|Contributed|SimpleMenu
 https://github.com/SibEnergy/TelegramMess.git|Contributed|TelegramMess
 https://github.com/SibEnergy/RTC_DS1302.git|Contributed|RTC_DS1302
+https://github.com/ntirushwajeanmarc/CircuitNotion.git|Contributed|CircuitNotion
