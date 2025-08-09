@@ -1,3 +1,4 @@
+https://github.com/Susovan292/SUVO_MPU6050
 https://github.com/flashstacks06/SimpleMenu.git
 https://github.com/anaveo/KL1508CW
 https://github.com/gavinlyonsrepo/ERM19264_UC1609_TEXT
