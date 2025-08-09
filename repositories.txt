@@ -8258,3 +8258,4 @@ https://github.com/steveeidemiller/SE_BME680
 https://github.com/BestModules-Libraries/BME36M280A
 https://github.com/BestModules-Libraries/BM62S6021-1
 https://github.com/teldrive-jpg/modbusmaster-GigaR1
+https://github.com/kodediy/kode_bq27220
