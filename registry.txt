@@ -8250,3 +8250,4 @@ https://github.com/anaveo/KL1508CW.git|Contributed|KL1508CW
 https://github.com/teldrive-jpg/modbusmaster-GigaR1.git|Contributed|ModbusMaster_GigaR1
 https://github.com/flashstacks06/SimpleMenu.git|Contributed|SimpleMenu
 https://github.com/SibEnergy/TelegramMess.git|Contributed|TelegramMess
+https://github.com/SibEnergy/RTC_DS1302.git|Contributed|RTC_DS1302
