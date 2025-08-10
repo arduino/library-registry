@@ -624,6 +624,7 @@ https://github.com/adafruit/Adafruit_BMP3XX
 https://github.com/adafruit/Adafruit_BNO055
 https://github.com/adafruit/Adafruit_BNO08x
 https://github.com/adafruit/Adafruit_BNO08x_RVC
+https://github.com/adafruit/Adafruit_bq25628e
 https://github.com/adafruit/Adafruit_BusIO
 https://github.com/adafruit/Adafruit_CAN
 https://github.com/adafruit/Adafruit_CAP1188_Library
