@@ -8253,3 +8253,4 @@ https://github.com/SibEnergy/TelegramMess.git|Contributed|TelegramMess
 https://github.com/SibEnergy/RTC_DS1302.git|Contributed|RTC_DS1302
 https://github.com/ntirushwajeanmarc/CircuitNotion.git|Contributed|CircuitNotion
 https://github.com/kodediy/kode_bq27220.git|Contributed|kode_bq27220
+https://github.com/RileyCornelius/FmtLib-Arduino.git|Contributed|FmtLib
