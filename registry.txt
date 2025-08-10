@@ -8260,3 +8260,4 @@ https://github.com/adafruit/Adafruit_bq25628e.git|Recommended|Adafruit BQ25628E 
 https://github.com/adafruit/Adafruit_BMP5xx.git|Recommended|Adafruit BMP5xx Library
 https://github.com/jaikulk14/QuickAPConnect.git|Contributed|QuickAPConnect
 https://github.com/tobiastl/LD2412.git|Contributed|LD2412
+https://github.com/RileyCornelius/FormatLog.git|Contributed|FormatLog
