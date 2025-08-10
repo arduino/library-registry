@@ -621,6 +621,7 @@ https://github.com/adafruit/Adafruit_BMP183_Library
 https://github.com/adafruit/Adafruit_BMP183_Unified_Library
 https://github.com/adafruit/Adafruit_BMP280_Library
 https://github.com/adafruit/Adafruit_BMP3XX
+https://github.com/adafruit/Adafruit_BMP5xx
 https://github.com/adafruit/Adafruit_BNO055
 https://github.com/adafruit/Adafruit_BNO08x
 https://github.com/adafruit/Adafruit_BNO08x_RVC
