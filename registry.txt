@@ -8258,3 +8258,4 @@ https://github.com/ArtronShop/TinkerC6_Library.git|Contributed|Tinker C6
 https://github.com/junan8733/RamjiButton.git|Contributed|RamjiButton
 https://github.com/adafruit/Adafruit_bq25628e.git|Recommended|Adafruit BQ25628E Library
 https://github.com/adafruit/Adafruit_BMP5xx.git|Recommended|Adafruit BMP5xx Library
+https://github.com/jaikulk14/QuickAPConnect.git|Contributed|QuickAPConnect
