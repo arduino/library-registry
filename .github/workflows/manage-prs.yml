@@ -147,7 +147,7 @@ jobs:
           location: ${{ runner.temp }}
 
       - name: Download diff
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           path: ${{ needs.diff.outputs.path }}
           name: ${{ needs.diff.outputs.artifact }}
@@ -475,7 +475,7 @@ jobs:
 
     steps:
       - name: Download submission check failure flag artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           path: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH }}
           pattern: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX }}*
