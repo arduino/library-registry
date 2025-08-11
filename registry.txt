@@ -8262,3 +8262,4 @@ https://github.com/jaikulk14/QuickAPConnect.git|Contributed|QuickAPConnect
 https://github.com/tobiastl/LD2412.git|Contributed|LD2412
 https://github.com/RileyCornelius/FormatLog.git|Contributed|FormatLog
 https://github.com/yosob/SL_simpletask.git|Contributed|SL_simpletask
+https://github.com/German-source/MicroOS.git|Contributed|MicroOS
