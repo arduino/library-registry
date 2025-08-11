@@ -8227,5 +8227,4 @@ https://github.com/styropyr0/Wizer
 https://github.com/bull-m/BULLM_ExtendMotor
 https://github.com/npuckett/WebGUI
 https://github.com/kolod/Arduino-Simple-Modbus-Slave
-https://github.com/EmotiBit/EmotiBit_DSPFilters
-https://github.com/EmotiBit/BrainflowSpO2Algorithm
+https://github.com/EmotiBit/EmotiBit_Brainflow_SpO2_Algorithm
