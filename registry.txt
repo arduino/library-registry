@@ -8263,4 +8263,4 @@ https://github.com/tobiastl/LD2412.git|Contributed|LD2412
 https://github.com/RileyCornelius/FormatLog.git|Contributed|FormatLog
 https://github.com/yosob/SL_simpletask.git|Contributed|SL_simpletask
 https://github.com/German-source/MicroOS.git|Contributed|MicroOS
-https://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_library.git|Contributed|Twin AIoT library
+https://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_library.git|Contributed|Twin_AIoT
