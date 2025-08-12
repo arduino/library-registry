@@ -8271,3 +8271,5 @@ https://github.com/teldrive-jpg/modbusmaster-GigaR1
 https://github.com/kodediy/kode_bq27220
 https://github.com/ArtronShop/TinkerC6_Library
 https://github.com/tobiastl/LD2412
+
+https://github.com/Benas09/FujitsuAC
