@@ -5882,6 +5882,7 @@ https://github.com/RobTillaart/SHT31_SW
 https://github.com/RobTillaart/SHT31_SWW
 https://github.com/RobTillaart/SHT85
 https://github.com/RobTillaart/SIMON
+https://github.com/RobTillaart/SMC
 https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SparseArray
 https://github.com/RobTillaart/SparseMatrix
