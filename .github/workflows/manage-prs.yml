@@ -137,7 +137,7 @@ jobs:
       # Checkout the tip of the default branch (this is the action's default ref input value when workflow is triggered
       # by an issue_comment or pull_request_target event).
       - name: Checkout local repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Download submission parser
         id: download-parser
@@ -594,7 +594,7 @@ jobs:
 
       - name: Checkout index source branch
         if: steps.merge.outcome == 'success'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: production
 
