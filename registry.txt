@@ -8269,3 +8269,4 @@ https://github.com/Benas09/FujitsuAC.git|Contributed|FujitsuAC
 https://github.com/DIYables/arduino-uno-r4-web-server-library.git|Contributed|Web Server for Arduino Uno R4 WiFi
 https://github.com/Raghav117/bluetooth_ota_firmware_update.git|Contributed|BLE OTA Update
 https://github.com/RobTillaart/SMC.git|Contributed|SMC
+https://github.com/laddge/esp32-pasori-rcs300.git|Contributed|esp32-pasori-rcs300
