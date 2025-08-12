@@ -8273,3 +8273,4 @@ https://github.com/ArtronShop/TinkerC6_Library
 https://github.com/tobiastl/LD2412
 https://github.com/Benas09/FujitsuAC
 https://github.com/TektiteBiz/TektiteRotEv
+https://github.com/Raghav117/bluetooth_ota_firmware_update.git
