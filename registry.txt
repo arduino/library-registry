@@ -8266,3 +8266,4 @@ https://github.com/German-source/MicroOS.git|Contributed|MicroOS
 https://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_library.git|Contributed|Twin AIoT library
 https://github.com/TektiteBiz/TektiteRotEv.git|Contributed|Tektite RotEv Controller Library
 https://github.com/Benas09/FujitsuAC.git|Contributed|FujitsuAC
+https://github.com/DIYables/arduino-uno-r4-web-server-library.git|Contributed|Web Server for Arduino Uno R4 WiFi
