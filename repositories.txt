@@ -8265,9 +8265,9 @@ https://github.com/HarutoHiroki/VFDDisplay
 https://github.com/steveeidemiller/SE_BME680
 https://github.com/BestModules-Libraries/BME36M280A
 https://github.com/jaikulk14/QuickAPConnect
-
 https://github.com/BestModules-Libraries/BM62S6021-1
 https://github.com/teldrive-jpg/modbusmaster-GigaR1
 https://github.com/kodediy/kode_bq27220
 https://github.com/ArtronShop/TinkerC6_Library
 https://github.com/tobiastl/LD2412
+https://github.com/TektiteBiz/TektiteRotEv
