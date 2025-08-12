@@ -1,5 +1,4 @@
 https://github.com/anaveo/ParkingSensor
-https://github.com/anaveo/KL1508CW
 https://github.com/DIYables/arduino-uno-r4-web-server-library
 https://github.com/yosob/SL_simpletask
 https://github.com/RileyCornelius/FormatLog
