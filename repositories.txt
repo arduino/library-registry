@@ -8278,3 +8278,4 @@ https://github.com/Benas09/FujitsuAC
 https://github.com/TektiteBiz/TektiteRotEv
 https://github.com/Raghav117/bluetooth_ota_firmware_update.git
 https://github.com/laddge/esp32-pasori-rcs300
+https://github.com/kodediy/kode_MAX31329
