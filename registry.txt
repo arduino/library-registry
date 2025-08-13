@@ -8270,3 +8270,4 @@ https://github.com/DIYables/arduino-uno-r4-web-server-library.git|Contributed|We
 https://github.com/Raghav117/bluetooth_ota_firmware_update.git|Contributed|BLE OTA Update
 https://github.com/RobTillaart/SMC.git|Contributed|SMC
 https://github.com/laddge/esp32-pasori-rcs300.git|Contributed|esp32-pasori-rcs300
+https://github.com/bastian2001/Fixed-Point-int.git|Contributed|Fixed_Point_int
