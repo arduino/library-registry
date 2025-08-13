@@ -8271,3 +8271,4 @@ https://github.com/Raghav117/bluetooth_ota_firmware_update.git|Contributed|BLE O
 https://github.com/RobTillaart/SMC.git|Contributed|SMC
 https://github.com/laddge/esp32-pasori-rcs300.git|Contributed|esp32-pasori-rcs300
 https://github.com/bastian2001/Fixed-Point-int.git|Contributed|Fixed_Point_int
+https://github.com/kodediy/kode_MAX31329.git|Contributed|kode_MAX31329
