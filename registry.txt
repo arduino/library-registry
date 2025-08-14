@@ -8280,3 +8280,4 @@ https://github.com/DigitalCodesign/MentorBit-LIS3DH.git|Contributed|MentorBit-LI
 https://github.com/DigitalCodesign/MentorBit-RS232.git|Contributed|MentorBit-RS232
 https://github.com/Zefek/TX07K-TXC.git|Contributed|TX07K-TXC Temperature sensor Library
 https://github.com/PTSolns/BMx280.git|Contributed|BMx280
+https://github.com/gavinlyonsrepo/ST7789_LTSM.git|Contributed|ST7789_LTSM
