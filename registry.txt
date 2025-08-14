@@ -8274,3 +8274,4 @@ https://github.com/bastian2001/Fixed-Point-int.git|Contributed|Fixed_Point_int
 https://github.com/kodediy/kode_MAX31329.git|Contributed|kode_MAX31329
 https://github.com/gavinlyonsrepo/display16_LTSM.git|Contributed|display16_LTSM
 https://github.com/gavinlyonsrepo/ST7735_LTSM.git|Contributed|ST7735_LTSM
+https://github.com/DigitalCodesign/MentorBit-CANBus.git|Contributed|MentorBit-CANBus
