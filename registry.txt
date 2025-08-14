@@ -8277,3 +8277,4 @@ https://github.com/gavinlyonsrepo/ST7735_LTSM.git|Contributed|ST7735_LTSM
 https://github.com/DigitalCodesign/MentorBit-CANBus.git|Contributed|MentorBit-CANBus
 https://github.com/Pallob-Gain/packet_device.git|Contributed|Packet_Device
 https://github.com/DigitalCodesign/MentorBit-LIS3DH.git|Contributed|MentorBit-LIS3DH
+https://github.com/DigitalCodesign/MentorBit-RS232.git|Contributed|MentorBit-RS232
