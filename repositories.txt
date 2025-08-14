@@ -6,6 +6,7 @@ https://github.com/DIYables/arduino-uno-r4-web-server-library
 https://github.com/yosob/SL_simpletask
 https://github.com/DigitalCodesign/MentorBit-CANBus
 https://github.com/RileyCornelius/FormatLog
+https://github.com/DigitalCodesign/MentorBit-LIS3DH
 https://github.com/junan8733/RamjiButton
 https://github.com/RileyCornelius/FmtLib-Arduino
 https://github.com/ntirushwajeanmarc/CircuitNotion
