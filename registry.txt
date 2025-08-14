@@ -8279,3 +8279,4 @@ https://github.com/Pallob-Gain/packet_device.git|Contributed|Packet_Device
 https://github.com/DigitalCodesign/MentorBit-LIS3DH.git|Contributed|MentorBit-LIS3DH
 https://github.com/DigitalCodesign/MentorBit-RS232.git|Contributed|MentorBit-RS232
 https://github.com/Zefek/TX07K-TXC.git|Contributed|TX07K-TXC Temperature sensor Library
+https://github.com/PTSolns/BMx280.git|Contributed|BMx280
