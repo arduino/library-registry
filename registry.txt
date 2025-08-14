@@ -8276,3 +8276,4 @@ https://github.com/gavinlyonsrepo/display16_LTSM.git|Contributed|display16_LTSM
 https://github.com/gavinlyonsrepo/ST7735_LTSM.git|Contributed|ST7735_LTSM
 https://github.com/DigitalCodesign/MentorBit-CANBus.git|Contributed|MentorBit-CANBus
 https://github.com/Pallob-Gain/packet_device.git|Contributed|Packet_Device
+https://github.com/DigitalCodesign/MentorBit-LIS3DH.git|Contributed|MentorBit-LIS3DH
