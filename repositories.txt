@@ -8293,3 +8293,4 @@ https://github.com/Zefek/TX07K-TXC
 https://github.com/Xinyuan-LilyGO/LilyGoLib
 https://github.com/salesiopark/Chaino.git
 https://github.com/jaikulk14/DataLinkSerial
+https://github.com/CharminJunior/ArduinoUOS
