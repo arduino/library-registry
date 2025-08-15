@@ -8283,3 +8283,4 @@ https://github.com/PTSolns/BMx280.git|Contributed|BMx280
 https://github.com/gavinlyonsrepo/ST7789_LTSM.git|Contributed|ST7789_LTSM
 https://github.com/Xinyuan-LilyGO/LilyGoLib.git|Contributed|LilyGoLib
 https://github.com/salesiopark/Chaino.git|Contributed|Chaino
+https://github.com/m5stack/M5SwitchC6-ESP-NOW.git|Contributed|M5SwitchC6-ESP-NOW
