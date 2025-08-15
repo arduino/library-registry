@@ -8285,3 +8285,4 @@ https://github.com/Xinyuan-LilyGO/LilyGoLib.git|Contributed|LilyGoLib
 https://github.com/salesiopark/Chaino.git|Contributed|Chaino
 https://github.com/m5stack/M5SwitchC6-ESP-NOW.git|Contributed|M5SwitchC6-ESP-NOW
 https://github.com/jaikulk14/DataLinkSerial.git|Contributed|DataLinkSerial
+https://github.com/Andreas1313/SequenceTiming.git|Contributed|SequenceTiming
