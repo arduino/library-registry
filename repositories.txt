@@ -8288,3 +8288,4 @@ https://github.com/Raghav117/bluetooth_ota_firmware_update.git
 https://github.com/laddge/esp32-pasori-rcs300
 https://github.com/kodediy/kode_MAX31329
 https://github.com/Zefek/TX07K-TXC
+https://github.com/Xinyuan-LilyGO/LilyGoLib
