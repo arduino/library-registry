@@ -3616,7 +3616,6 @@ https://github.com/kcl93/fusb302_arduino
 https://github.com/kcl93/muCom
 https://github.com/kcl93/Tasks
 https://github.com/kcl93/VT100
-https://github.com/KCN-judu/KCN-Utility-Arduino-lib
 https://github.com/kd8bxp/micro-Maqueen-Arduino-Library
 https://github.com/kd8bxp/TheTroll
 https://github.com/kd8bxp/Word100
