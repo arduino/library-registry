@@ -1,3 +1,5 @@
+https://github.com/gavinlyonsrepo/SSD1331_LTSM
+https://github.com/gavinlyonsrepo/GC9A01_LTSM
 https://github.com/Andreas1313/SequenceTiming
 https://github.com/gavinlyonsrepo/ST7789_LTSM
 https://github.com/PTSolns/BMx280
