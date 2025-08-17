@@ -828,6 +828,7 @@ https://github.com/adafruit/Adafruit_VCNL4010
 https://github.com/adafruit/Adafruit_VCNL4020
 https://github.com/adafruit/Adafruit_VCNL4040
 https://github.com/adafruit/Adafruit_VCNL4200
+https://github.com/adafruit/Adafruit_VEML6046
 https://github.com/adafruit/Adafruit_VEML6070
 https://github.com/adafruit/Adafruit_VEML6075
 https://github.com/adafruit/Adafruit_VEML7700
