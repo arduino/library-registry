@@ -8289,3 +8289,4 @@ https://github.com/Andreas1313/SequenceTiming.git|Contributed|SequenceTiming
 https://github.com/gavinlyonsrepo/SSD1331_LTSM.git|Contributed|SSD1331_LTSM
 https://github.com/gavinlyonsrepo/GC9A01_LTSM.git|Contributed|GC9A01_LTSM
 https://github.com/orji123/Irisoled.git|Contributed|Irisoled
+https://github.com/adafruit/Adafruit_VEML6046.git|Recommended|Adafruit VEML6046 Library
