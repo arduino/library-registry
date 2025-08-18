@@ -8294,3 +8294,4 @@ https://github.com/adafruit/Adafruit_TCS3430.git|Recommended|Adafruit TCS3430 Li
 https://github.com/esicoe/BME280_LITE.git|Contributed|BME280_LITE
 https://github.com/tomorrow56/ESPNowAutoPairing.git|Contributed|ESPNowAutoPairing
 https://github.com/yohanna02/ESPComm.git|Contributed|ESPComm
+https://github.com/gavinlyonsrepo/ILI9341_LTSM.git|Contributed|ILI9341_LTSM
