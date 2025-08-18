@@ -8292,3 +8292,4 @@ https://github.com/orji123/Irisoled.git|Contributed|Irisoled
 https://github.com/adafruit/Adafruit_VEML6046.git|Recommended|Adafruit VEML6046 Library
 https://github.com/adafruit/Adafruit_TCS3430.git|Recommended|Adafruit TCS3430 Library
 https://github.com/esicoe/BME280_LITE.git|Contributed|BME280_LITE
+https://github.com/tomorrow56/ESPNowAutoPairing.git|Contributed|ESPNowAutoPairing
