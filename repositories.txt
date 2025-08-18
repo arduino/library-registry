@@ -803,6 +803,7 @@ https://github.com/adafruit/Adafruit_SSD1327
 https://github.com/adafruit/Adafruit_STMPE610
 https://github.com/adafruit/Adafruit_STSPIN
 https://github.com/adafruit/Adafruit_TCA8418
+https://github.com/adafruit/Adafruit_TCS3430
 https://github.com/adafruit/Adafruit_TCS34725
 https://github.com/adafruit/Adafruit_TestBed
 https://github.com/adafruit/Adafruit_TFLite
