@@ -8293,3 +8293,4 @@ https://github.com/adafruit/Adafruit_VEML6046.git|Recommended|Adafruit VEML6046 
 https://github.com/adafruit/Adafruit_TCS3430.git|Recommended|Adafruit TCS3430 Library
 https://github.com/esicoe/BME280_LITE.git|Contributed|BME280_LITE
 https://github.com/tomorrow56/ESPNowAutoPairing.git|Contributed|ESPNowAutoPairing
+https://github.com/yohanna02/ESPComm.git|Contributed|ESPComm
