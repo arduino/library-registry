@@ -8300,3 +8300,4 @@ https://github.com/Xinyuan-LilyGO/LilyGoLib
 https://github.com/salesiopark/Chaino.git
 https://github.com/jaikulk14/DataLinkSerial
 https://github.com/tomorrow56/ESPNowAutoPairing
+https://github.com/yohanna02/ESPComm
