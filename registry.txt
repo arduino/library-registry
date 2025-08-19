@@ -8296,3 +8296,5 @@ https://github.com/tomorrow56/ESPNowAutoPairing.git|Contributed|ESPNowAutoPairin
 https://github.com/yohanna02/ESPComm.git|Contributed|ESPComm
 https://github.com/gavinlyonsrepo/ILI9341_LTSM.git|Contributed|ILI9341_LTSM
 https://github.com/CuiYao631/HomeSpan-zh.git|Contributed|HomeSpan-zh
+https://github.com/milad-nikpendar/initBuzzer.git|Contributed|initBuzzer
+https://github.com/milad-nikpendar/initGT911.git|Contributed|initGT911
