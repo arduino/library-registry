@@ -1,3 +1,5 @@
+https://github.com/milad-nikpendar/initBuzzer
+https://github.com/milad-nikpendar/initGT911
 https://github.com/gavinlyonsrepo/ILI9341_LTSM
 https://github.com/orji123/Irisoled
 https://github.com/gavinlyonsrepo/SSD1331_LTSM
