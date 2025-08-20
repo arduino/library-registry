@@ -8299,3 +8299,4 @@ https://github.com/CuiYao631/HomeSpan-zh.git|Contributed|HomeSpan-zh
 https://github.com/milad-nikpendar/initBuzzer.git|Contributed|initBuzzer
 https://github.com/milad-nikpendar/initGT911.git|Contributed|initGT911
 https://github.com/gvp-257/SendOnlySerial.git|Contributed|SendOnlySerial
+https://github.com/satoyon/PFNFont.git|Contributed|PFNFont
