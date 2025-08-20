@@ -9,9 +9,10 @@
 
 # Denylist
 - host: github.com
-  name: 7Semi
+  # They later changed their username to galihru, for which an additional entry was added.
+  name: 4211421036
   access: deny
-  reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
+  reference: https://github.com/arduino/library-registry/pull/6269#pullrequestreview-2813557457
 - host: github.com
   name: ajangrahmat
   access: deny
@@ -29,6 +30,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4873#issuecomment-2589138298
 - host: github.com
+  name: galihru
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/6514#pullrequestreview-2969201873
+- host: github.com
   name: kelasrobot
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
@@ -44,3 +49,7 @@
   name: YoavPaz
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5741#issuecomment-2589016403
+- host: github.com
+  name: tremaru
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/6697
