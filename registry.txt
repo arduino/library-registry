@@ -8301,3 +8301,4 @@ https://github.com/milad-nikpendar/initGT911.git|Contributed|initGT911
 https://github.com/gvp-257/SendOnlySerial.git|Contributed|SendOnlySerial
 https://github.com/satoyon/PFNFont.git|Contributed|PFNFont
 https://github.com/jaikulk14/MQGasKit.git|Contributed|MQGasKit
+https://github.com/kenchow96/faster-trig-2040.git|Contributed|faster-trig-2040
