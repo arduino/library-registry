@@ -6735,7 +6735,7 @@ https://github.com/okalachev/flixperiph.git|Contributed|FlixPeriph
 https://github.com/crozone-technology/crozone-veml6040.git|Contributed|CROZONE-VEML6040
 https://github.com/paulino/ha-mqtt-entities.git|Contributed|HaMqttEntities
 https://github.com/fanfanlatulipe26/FS_MX1508.git|Contributed|FS_MX1508
-https://github.com/dattasaurabh82/DFRobot_GDL.git|Contributed|DFRobot_GDL
+https://github.com/DFRobot/DFRobot_GDL.git|Contributed|DFRobot_GDL
 https://github.com/iwandwip/Kinematrix.git|Contributed|Kinematrix
 https://github.com/floatplane/Ministache.git|Contributed|Ministache
 https://github.com/Witty-Wizard/SerialIO.git|Contributed|serialIO
@@ -6775,7 +6775,6 @@ https://github.com/MOMIZICH/OneShot.git|Contributed|OneShot
 https://github.com/RobTillaart/TinyKT0803.git|Contributed|TinyKT0803
 https://github.com/VIDI-X/VIDI-X_BQ24295.git|Contributed|VIDI-X_BQ24295
 https://github.com/pervu/FIFObuf.git|Contributed|FIFObuf
-https://github.com/bitcode-tech/bc7215.git|Contributed|IR-infrared Remote Control Decoder-Simulator
 https://github.com/siroshy/SerialTerminalIO.git|Contributed|SerialTerminalIO
 https://github.com/cygig/AlmostRandom.git|Contributed|AlmostRandom
 https://github.com/Amethyste-PCB/Amethyste_LSM6DS3.git|Contributed|Amethyste_LSM6DS3
@@ -8151,7 +8150,6 @@ https://github.com/X-croot/XCR-LDR.git|Contributed|XCR-LDR
 https://github.com/LFranklinApps/Custom_Robot_Control.git|Contributed|Custom_Robot_Control
 https://github.com/npuckett/WebGUI.git|Contributed|WebGUI
 https://github.com/kolod/Arduino-Simple-Modbus-Slave.git|Contributed|SimpleModbusSlave
-https://github.com/EmotiBit/EmotiBit_DSPFilters.git|Contributed|EmotiBit_DSPFilters
 https://github.com/EmotiBit/EmotiBit_Brainflow_SpO2_Algorithm.git|Contributed|BrainflowSpO2Algorithm
 https://github.com/m5stack/M5Unit-TUBE.git|Contributed|M5Unit-TUBE
 https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
@@ -8263,10 +8261,42 @@ https://github.com/tobiastl/LD2412.git|Contributed|LD2412
 https://github.com/RileyCornelius/FormatLog.git|Contributed|FormatLog
 https://github.com/yosob/SL_simpletask.git|Contributed|SL_simpletask
 https://github.com/German-source/MicroOS.git|Contributed|MicroOS
-https://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_library.git|Contributed|Twin AIoT library
-https://github.com/TektiteBiz/TektiteRotEv.git|Contributed|Tektite RotEv Controller Library
+https://github.com/twin-science-robotics/hw_twin_aiot_module_arduino_library.git|Contributed|Twin_AIoT
+https://github.com/TektiteBiz/TektiteRotEv.git|Contributed|Tektite RotEv Controller
 https://github.com/Benas09/FujitsuAC.git|Contributed|FujitsuAC
 https://github.com/DIYables/arduino-uno-r4-web-server-library.git|Contributed|Web Server for Arduino Uno R4 WiFi
 https://github.com/Raghav117/bluetooth_ota_firmware_update.git|Contributed|BLE OTA Update
 https://github.com/RobTillaart/SMC.git|Contributed|SMC
 https://github.com/laddge/esp32-pasori-rcs300.git|Contributed|esp32-pasori-rcs300
+https://github.com/bastian2001/Fixed-Point-int.git|Contributed|Fixed_Point_int
+https://github.com/kodediy/kode_MAX31329.git|Contributed|kode_MAX31329
+https://github.com/gavinlyonsrepo/display16_LTSM.git|Contributed|display16_LTSM
+https://github.com/gavinlyonsrepo/ST7735_LTSM.git|Contributed|ST7735_LTSM
+https://github.com/DigitalCodesign/MentorBit-CANBus.git|Contributed|MentorBit-CANBus
+https://github.com/Pallob-Gain/packet_device.git|Contributed|Packet_Device
+https://github.com/DigitalCodesign/MentorBit-LIS3DH.git|Contributed|MentorBit-LIS3DH
+https://github.com/DigitalCodesign/MentorBit-RS232.git|Contributed|MentorBit-RS232
+https://github.com/Zefek/TX07K-TXC.git|Contributed|TX07K-TXC Temperature sensor Library
+https://github.com/PTSolns/BMx280.git|Contributed|BMx280
+https://github.com/gavinlyonsrepo/ST7789_LTSM.git|Contributed|ST7789_LTSM
+https://github.com/Xinyuan-LilyGO/LilyGoLib.git|Contributed|LilyGoLib
+https://github.com/salesiopark/Chaino.git|Contributed|Chaino
+https://github.com/m5stack/M5SwitchC6-ESP-NOW.git|Contributed|M5SwitchC6-ESP-NOW
+https://github.com/jaikulk14/DataLinkSerial.git|Contributed|DataLinkSerial
+https://github.com/Andreas1313/SequenceTiming.git|Contributed|SequenceTiming
+https://github.com/gavinlyonsrepo/SSD1331_LTSM.git|Contributed|SSD1331_LTSM
+https://github.com/gavinlyonsrepo/GC9A01_LTSM.git|Contributed|GC9A01_LTSM
+https://github.com/orji123/Irisoled.git|Contributed|Irisoled
+https://github.com/adafruit/Adafruit_VEML6046.git|Recommended|Adafruit VEML6046 Library
+https://github.com/adafruit/Adafruit_TCS3430.git|Recommended|Adafruit TCS3430 Library
+https://github.com/esicoe/BME280_LITE.git|Contributed|BME280_LITE
+https://github.com/tomorrow56/ESPNowAutoPairing.git|Contributed|ESPNowAutoPairing
+https://github.com/yohanna02/ESPComm.git|Contributed|ESPComm
+https://github.com/gavinlyonsrepo/ILI9341_LTSM.git|Contributed|ILI9341_LTSM
+https://github.com/CuiYao631/HomeSpan-zh.git|Contributed|HomeSpan-zh
+https://github.com/milad-nikpendar/initBuzzer.git|Contributed|initBuzzer
+https://github.com/milad-nikpendar/initGT911.git|Contributed|initGT911
+https://github.com/gvp-257/SendOnlySerial.git|Contributed|SendOnlySerial
+https://github.com/satoyon/PFNFont.git|Contributed|PFNFont
+https://github.com/jaikulk14/MQGasKit.git|Contributed|MQGasKit
+https://github.com/kenchow96/faster-trig-2040.git|Contributed|faster-trig-2040
