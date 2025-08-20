@@ -6735,7 +6735,7 @@ https://github.com/okalachev/flixperiph.git|Contributed|FlixPeriph
 https://github.com/crozone-technology/crozone-veml6040.git|Contributed|CROZONE-VEML6040
 https://github.com/paulino/ha-mqtt-entities.git|Contributed|HaMqttEntities
 https://github.com/fanfanlatulipe26/FS_MX1508.git|Contributed|FS_MX1508
-https://github.com/dattasaurabh82/DFRobot_GDL.git|Contributed|DFRobot_GDL
+https://github.com/DFRobot/DFRobot_GDL.git|Contributed|DFRobot_GDL
 https://github.com/iwandwip/Kinematrix.git|Contributed|Kinematrix
 https://github.com/floatplane/Ministache.git|Contributed|Ministache
 https://github.com/Witty-Wizard/SerialIO.git|Contributed|serialIO
