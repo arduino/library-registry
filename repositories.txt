@@ -18,6 +18,7 @@ https://github.com/yosob/SL_simpletask
 https://github.com/DigitalCodesign/MentorBit-RS232
 https://github.com/DigitalCodesign/MentorBit-CANBus
 https://github.com/RileyCornelius/FormatLog
+https://github.com/jaikulk14/MQGasKit
 https://github.com/DigitalCodesign/MentorBit-LIS3DH
 https://github.com/junan8733/RamjiButton
 https://github.com/RileyCornelius/FmtLib-Arduino
