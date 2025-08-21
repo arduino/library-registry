@@ -6295,3 +6295,5 @@ https://gitlab.com/F-Schmidt/ulm_weatherballoon
 https://github.com/ConsentiumInc/ConsentiumThingsDalton
 https://github.com/NitrofMtl/DUE_ADC_Oversampler
 https://github.com/NitrofMtl/DUERS485DMA
+https://github.com/NitrofMtl/ArduinoModbus-DUE-DMA
+
