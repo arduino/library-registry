@@ -8301,3 +8301,4 @@ https://github.com/jaikulk14/MQGasKit.git|Contributed|MQGasKit
 https://github.com/kenchow96/faster-trig-2040.git|Contributed|faster-trig-2040
 https://github.com/nexbyteio/ZenRTC.git|Contributed|ZenRTC
 https://github.com/italo-coelho/Dimmer_ITC.git|Contributed|Dimmer_ITC
+https://github.com/DFRobot/DFRobot_MHZ9041A.git|Contributed|DFRobot_MHZ9041A
