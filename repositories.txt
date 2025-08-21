@@ -2326,6 +2326,7 @@ https://github.com/DFRobot/DFRobot_VL6180X
 https://github.com/DFRobot/DFRobot_VoiceRecorder
 https://github.com/DFRobot/DFRobotDFPlayerMini
 https://github.com/DFRobot/DFRobotIRPosition
+https://github.com/DFRobot/DFRobot_MHZ9041A
 https://github.com/dgduncan/Arduino-MCP4131
 https://github.com/dgduncan/SevenSegment
 https://github.com/Dhanabhon/TomIBT2
