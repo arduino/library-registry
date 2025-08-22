@@ -8304,3 +8304,4 @@ https://github.com/italo-coelho/Dimmer_ITC.git|Contributed|Dimmer_ITC
 https://github.com/DFRobot/DFRobot_MHZ9041A.git|Contributed|DFRobot_MHZ9041A
 https://github.com/m5stack/M5Unit-Miniscale.git|Contributed|UNIT_MINISCALE
 https://github.com/derdoktor667/DShotRMT.git|Contributed|DShotRMT
+https://github.com/EnviroDIY/ANBSensorsModbus.git|Contributed|ANBSensorsModbus
