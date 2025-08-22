@@ -2,6 +2,7 @@ https://github.com/kenchow96/faster-trig-2040
 https://github.com/milad-nikpendar/initBuzzer
 https://github.com/milad-nikpendar/initGT911
 https://github.com/gavinlyonsrepo/ILI9341_LTSM
+https://github.com/m5stack/M5Unit-Miniscale
 https://github.com/orji123/Irisoled
 https://github.com/gavinlyonsrepo/SSD1331_LTSM
 https://github.com/gavinlyonsrepo/GC9A01_LTSM
