@@ -8313,3 +8313,4 @@ https://github.com/CuiYao631/HomeSpan-zh
 https://github.com/satoyon/PFNFont
 https://github.com/nexbyteio/ZenRTC.git
 https://github.com/7semi-solutions/7Semi-HMC6343-3-Axis-Digital-Compass-Module-with-Tilt-Compensation-I2C-Arduino-Library
+https://github.com/arpondark/GPIO_EASY
