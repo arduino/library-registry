@@ -8305,3 +8305,4 @@ https://github.com/DFRobot/DFRobot_MHZ9041A.git|Contributed|DFRobot_MHZ9041A
 https://github.com/m5stack/M5Unit-Miniscale.git|Contributed|UNIT_MINISCALE
 https://github.com/derdoktor667/DShotRMT.git|Contributed|DShotRMT
 https://github.com/EnviroDIY/ANBSensorsModbus.git|Contributed|ANBSensorsModbus
+https://github.com/7semi-solutions/7Semi-HMC6343-3-Axis-Digital-Compass-Module-with-Tilt-Compensation-I2C-Arduino-Library.git|Contributed|7Semi HMC6343 Compass
