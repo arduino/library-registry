@@ -8309,3 +8309,4 @@ https://github.com/7semi-solutions/7Semi-HMC6343-3-Axis-Digital-Compass-Module-w
 https://github.com/AirNgin/Airngin-stm32-mqtt-client.git|Contributed|AirNgin_STM32_MQTT_Client
 https://github.com/adafruit/Adafruit_STHS34PF80.git|Recommended|Adafruit STHS34PF80
 https://github.com/AlphaNodesDev/SciFy-Iot.git|Contributed|SciFyIoT
+https://github.com/RigelSixSix/flagManager.git|Contributed|flagManager
