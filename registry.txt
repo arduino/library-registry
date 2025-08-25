@@ -8310,3 +8310,4 @@ https://github.com/AirNgin/Airngin-stm32-mqtt-client.git|Contributed|AirNgin_STM
 https://github.com/adafruit/Adafruit_STHS34PF80.git|Recommended|Adafruit STHS34PF80
 https://github.com/AlphaNodesDev/SciFy-Iot.git|Contributed|SciFyIoT
 https://github.com/RigelSixSix/flagManager.git|Contributed|flagManager
+https://github.com/7semi-solutions/7Semi-SCD4x-Arduino-Library.git|Contributed|7semi_SCD4x_CO2_Sensor
