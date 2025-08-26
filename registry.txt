@@ -8312,3 +8312,4 @@ https://github.com/AlphaNodesDev/SciFy-Iot.git|Contributed|SciFyIoT
 https://github.com/RigelSixSix/flagManager.git|Contributed|flagManager
 https://github.com/7semi-solutions/7Semi-SCD4x-Arduino-Library.git|Contributed|7semi_SCD4x_CO2_Sensor
 https://github.com/Robotistan/PicoBricks-for-ESP32-Arduino.git|Contributed|PicoBricks-for-ESP32
+https://github.com/LordofRobots/LoR_v3.git|Contributed|LoR_v3
