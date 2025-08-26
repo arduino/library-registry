@@ -32,7 +32,7 @@ jobs:
 
       - name: Download latest editorconfig-checker release binary package
         id: download
-        uses: MrOctopus/download-asset-action@1.0
+        uses: MrOctopus/download-asset-action@1.1
         with:
           repository: editorconfig-checker/editorconfig-checker
           excludes: prerelease, draft
