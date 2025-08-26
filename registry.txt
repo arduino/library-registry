@@ -8315,3 +8315,4 @@ https://github.com/Robotistan/PicoBricks-for-ESP32-Arduino.git|Contributed|PicoB
 https://github.com/LordofRobots/LoR_v3.git|Contributed|LoR_v3
 https://github.com/gvp-257/AnalogControlPanel.git|Contributed|AnalogControlPanel
 https://github.com/ayresnet/AyresWiFiManager.git|Contributed|AyresWiFiManager
+https://github.com/7semi-solutions/7Semi-L89HA-GNSS-Module-Arduino-Library.git|Contributed|7semi_L89HA
