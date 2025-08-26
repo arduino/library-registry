@@ -1,3 +1,4 @@
+https://github.com/LordofRobots/LoR_v3
 https://github.com/derdoktor667/DShotRMT
 https://github.com/kenchow96/faster-trig-2040
 https://github.com/milad-nikpendar/initBuzzer
