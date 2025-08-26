@@ -8323,3 +8323,5 @@ https://github.com/7semi-solutions/7Semi-SCD4x-Arduino-Library
 https://github.com/Robotistan/PicoBricks-for-ESP32-Arduino
 https://github.com/ayresnet/AyresWiFiManager
 https://github.com/7semi-solutions/7Semi-L89HA-GNSS-Module-Arduino-Library
+https://github.com/felixardyansyah/FGV_CH224X
+
