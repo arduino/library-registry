@@ -8314,3 +8314,4 @@ https://github.com/7semi-solutions/7Semi-SCD4x-Arduino-Library.git|Contributed|7
 https://github.com/Robotistan/PicoBricks-for-ESP32-Arduino.git|Contributed|PicoBricks-for-ESP32
 https://github.com/LordofRobots/LoR_v3.git|Contributed|LoR_v3
 https://github.com/gvp-257/AnalogControlPanel.git|Contributed|AnalogControlPanel
+https://github.com/ayresnet/AyresWiFiManager.git|Contributed|AyresWiFiManager
