@@ -804,6 +804,7 @@ https://github.com/adafruit/Adafruit_Si7021
 https://github.com/adafruit/Adafruit_SleepyDog
 https://github.com/adafruit/Adafruit_SoftServo
 https://github.com/adafruit/Adafruit_Soundboard_library
+https://github.com/adafruit/Adafruit_SPA06_003
 https://github.com/adafruit/Adafruit_SPIFlash
 https://github.com/adafruit/Adafruit_SSD1305
 https://github.com/adafruit/Adafruit_SSD1306
