@@ -8329,3 +8329,5 @@ https://github.com/ayresnet/AyresWiFiManager
 https://github.com/7semi-solutions/7Semi-L89HA-GNSS-Module-Arduino-Library
 https://github.com/felixardyansyah/FGV_CH224X
 https://github.com/CharminJunior/UOS
+https://github.com/NitrofMtl/DUERS485DMA
+
