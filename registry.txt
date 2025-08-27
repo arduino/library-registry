@@ -8321,3 +8321,4 @@ https://github.com/cocoisarobo/skytraq-navic.git|Contributed|skytraq
 https://github.com/Sensirion/arduino-i2c-sps30.git|Contributed|Sensirion I2C SPS30
 https://github.com/Sensirion/arduino-uart-sps30.git|Contributed|Sensirion UART SPS30
 https://github.com/CharminJunior/UOS.git|Contributed|UOS
+https://github.com/adafruit/Adafruit_SPA06_003.git|Recommended|Adafruit SPA06_003
