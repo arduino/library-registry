@@ -8323,3 +8323,4 @@ https://github.com/Sensirion/arduino-uart-sps30.git|Contributed|Sensirion UART S
 https://github.com/CharminJunior/UOS.git|Contributed|UOS
 https://github.com/adafruit/Adafruit_SPA06_003.git|Recommended|Adafruit SPA06_003
 https://github.com/NitrofMtl/DUERS485DMA.git|Contributed|DUERS485DMA
+https://github.com/NitrofMtl/DUE-ModbusDMA.git|Contributed|DUE-ModbusDMA
