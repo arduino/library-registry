@@ -8318,3 +8318,5 @@ https://github.com/ayresnet/AyresWiFiManager.git|Contributed|AyresWiFiManager
 https://github.com/7semi-solutions/7Semi-L89HA-GNSS-Module-Arduino-Library.git|Contributed|7semi_L89HA
 https://github.com/felixardyansyah/FGV_CH224X.git|Contributed|FGV_CH224X
 https://github.com/cocoisarobo/skytraq-navic.git|Contributed|skytraq
+https://github.com/Sensirion/arduino-i2c-sps30.git|Contributed|Sensirion I2C SPS30
+https://github.com/Sensirion/arduino-uart-sps30.git|Contributed|Sensirion UART SPS30
