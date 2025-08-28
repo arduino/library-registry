@@ -8326,3 +8326,4 @@ https://github.com/NitrofMtl/DUERS485DMA.git|Contributed|DUERS485DMA
 https://github.com/NitrofMtl/DUE-ModbusDMA.git|Contributed|DUE-ModbusDMA
 https://github.com/rahulstva/RS_ThingSpeak.git|Contributed|RS_ThingSpeak
 https://github.com/7semi-solutions/7Semi-ADXL335-Analog-Accelerometer-Module-Arduino-Library.git|Contributed|7Semi ADXL335 Accelerometer
+https://github.com/abdullahtemel97/testfirmware.git|Contributed|miniGo
