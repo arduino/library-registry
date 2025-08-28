@@ -8331,3 +8331,4 @@ https://github.com/felixardyansyah/FGV_CH224X
 https://github.com/CharminJunior/UOS
 https://github.com/NitrofMtl/DUERS485DMA
 https://github.com/NitrofMtl/DUE-ModbusDMA
+https://github.com/rahulstva/RS_ThingSpeak
