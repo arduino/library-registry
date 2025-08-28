@@ -8324,3 +8324,4 @@ https://github.com/CharminJunior/UOS.git|Contributed|UOS
 https://github.com/adafruit/Adafruit_SPA06_003.git|Recommended|Adafruit SPA06_003
 https://github.com/NitrofMtl/DUERS485DMA.git|Contributed|DUERS485DMA
 https://github.com/NitrofMtl/DUE-ModbusDMA.git|Contributed|DUE-ModbusDMA
+https://github.com/rahulstva/RS_ThingSpeak.git|Contributed|RS_ThingSpeak
