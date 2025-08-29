@@ -8335,3 +8335,4 @@ https://github.com/NitrofMtl/DUERS485DMA
 https://github.com/NitrofMtl/DUE-ModbusDMA
 https://github.com/rahulstva/RS_ThingSpeak
 https://github.com/7semi-solutions/7Semi-ADXL335-Analog-Accelerometer-Module-Arduino-Library
+https://github.com/Mataas08/ToFFilter
