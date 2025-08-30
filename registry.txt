@@ -8334,3 +8334,4 @@ https://github.com/deepanshu-deshwal/SL001_Deepanshu.git|Contributed|SL001_Deepa
 https://github.com/milescb/PlantMonitor.git|Contributed|PlantMonitor
 https://github.com/tomorrow56/ESP32FwUploader.git|Contributed|ESP32FwUploader
 https://github.com/7semi-solutions/7Semi-BME690-Arduino-Library.git|Contributed|7Semi BME690
+https://github.com/Glinek/picoEEPROM.git|Contributed|picoEEPROM
