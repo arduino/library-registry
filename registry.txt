@@ -8332,3 +8332,4 @@ https://github.com/7semi-solutions/7Semi-INA260-Current-Power-Voltage-Monitor-Ar
 https://github.com/Mataas08/ToFFilter.git|Contributed|ToFFilter
 https://github.com/deepanshu-deshwal/SL001_Deepanshu.git|Contributed|SL001_Deepanshu
 https://github.com/milescb/PlantMonitor.git|Contributed|PlantMonitor
+https://github.com/tomorrow56/ESP32FwUploader.git|Contributed|ESP32FwUploader
