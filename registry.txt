@@ -8335,3 +8335,4 @@ https://github.com/milescb/PlantMonitor.git|Contributed|PlantMonitor
 https://github.com/tomorrow56/ESP32FwUploader.git|Contributed|ESP32FwUploader
 https://github.com/7semi-solutions/7Semi-BME690-Arduino-Library.git|Contributed|7Semi BME690
 https://github.com/Glinek/picoEEPROM.git|Contributed|picoEEPROM
+https://github.com/deepanshu-deshwal/SL002_DHT11.git|Contributed|SL002_DHT11
