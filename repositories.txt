@@ -8341,3 +8341,4 @@ https://github.com/7semi-solutions/7Semi-INA260-Current-Power-Voltage-Monitor-Ar
 https://github.com/milescb/PlantMonitor
 https://github.com/tomorrow56/ESP32FwUploader
 https://github.com/7semi-solutions/7Semi-BME690-Arduino-Library
+https://github.com/Glinek/picoEEPROM
