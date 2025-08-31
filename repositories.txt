@@ -8346,3 +8346,5 @@ https://github.com/tomorrow56/ESP32FwUploader
 https://github.com/7semi-solutions/7Semi-BME690-Arduino-Library
 https://github.com/Glinek/picoEEPROM
 https://github.com/alexghrrsn/Ecowitt-Gateway-Parser/
+https://github.com/harishfaqot/TF-LC02
+https://github.com/harishfaqot/Atlas_EC
