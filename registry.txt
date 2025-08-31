@@ -8339,3 +8339,5 @@ https://github.com/deepanshu-deshwal/SL002_DHT11.git|Contributed|SL002_DHT11
 https://github.com/abcdaaaaaaaaa/MG811DataScience.git|Contributed|MG811SpaceData
 https://github.com/alexghrrsn/Ecowitt-Gateway-Parser.git|Contributed|Ecowitt-GW1000-TCP-Parser
 https://github.com/felias-fogg/progmem_far.git|Contributed|progmem_far
+https://github.com/harishfaqot/TF-LC02.git|Contributed|TF-LC02
+https://github.com/harishfaqot/Atlas_EC.git|Contributed|Atlas_EC
