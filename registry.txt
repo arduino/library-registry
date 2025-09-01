@@ -8344,3 +8344,5 @@ https://github.com/harishfaqot/Atlas_EC.git|Contributed|Atlas_EC
 https://github.com/derdoktor667/FlyskyIBUS.git|Contributed|FlyskyIBUS
 https://github.com/m5stack/M5Module-PPS.git|Contributed|M5ModulePPS
 https://github.com/adafruit/Adafruit_PCM51xx.git|Recommended|Adafruit PCM51xx
+https://github.com/DigitalCodesign/MentorBit-VEML.git|Contributed|MentorBitVEML
+https://github.com/DigitalCodesign/MentorBit-SensorHall.git|Contributed|MentorBit-HALL
