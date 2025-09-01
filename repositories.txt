@@ -1,4 +1,4 @@
-https://github.com/AndyNewlands/DualEncoderMenuSystem #
+https://github.com/AndyNewlands/DualEncoderMenuSystem
 https://github.com/bitcode-tech/bc7215ac
 https://github.com/m5stack/M5Module-PPS
 https://github.com/deepanshu-deshwal/SL002_DHT11
