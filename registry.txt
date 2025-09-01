@@ -8342,3 +8342,4 @@ https://github.com/felias-fogg/progmem_far.git|Contributed|progmem_far
 https://github.com/harishfaqot/TF-LC02.git|Contributed|TF-LC02
 https://github.com/harishfaqot/Atlas_EC.git|Contributed|Atlas_EC
 https://github.com/derdoktor667/FlyskyIBUS.git|Contributed|FlyskyIBUS
+https://github.com/m5stack/M5Module-PPS.git|Contributed|M5ModulePPS
