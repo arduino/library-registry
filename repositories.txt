@@ -784,6 +784,7 @@ https://github.com/adafruit/Adafruit_OPT4048
 https://github.com/adafruit/Adafruit_OV7670
 https://github.com/adafruit/Adafruit_PCF8574
 https://github.com/adafruit/Adafruit_PCF8591
+https://github.com/adafruit/Adafruit_PCM51xx
 https://github.com/adafruit/Adafruit_PCT2075
 https://github.com/adafruit/Adafruit_PixelDust
 https://github.com/adafruit/Adafruit_Pixie
