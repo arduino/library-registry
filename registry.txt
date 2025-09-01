@@ -8346,3 +8346,4 @@ https://github.com/m5stack/M5Module-PPS.git|Contributed|M5ModulePPS
 https://github.com/adafruit/Adafruit_PCM51xx.git|Recommended|Adafruit PCM51xx
 https://github.com/DigitalCodesign/MentorBit-VEML.git|Contributed|MentorBitVEML
 https://github.com/DigitalCodesign/MentorBit-SensorHall.git|Contributed|MentorBit-HALL
+https://github.com/7semi-solutions/7Semi-ACS772-CurrentSensor-Arduino-Library.git|Contributed|ACS772_CurrentSensor
