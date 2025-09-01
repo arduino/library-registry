@@ -8343,3 +8343,4 @@ https://github.com/harishfaqot/TF-LC02.git|Contributed|TF-LC02
 https://github.com/harishfaqot/Atlas_EC.git|Contributed|Atlas_EC
 https://github.com/derdoktor667/FlyskyIBUS.git|Contributed|FlyskyIBUS
 https://github.com/m5stack/M5Module-PPS.git|Contributed|M5ModulePPS
+https://github.com/adafruit/Adafruit_PCM51xx.git|Recommended|Adafruit PCM51xx
