@@ -8349,3 +8349,4 @@ https://github.com/DigitalCodesign/MentorBit-SensorHall.git|Contributed|MentorBi
 https://github.com/7semi-solutions/7Semi-ACS772-CurrentSensor-Arduino-Library.git|Contributed|ACS772_CurrentSensor
 https://github.com/bitcode-tech/bc7215ac.git|Contributed|BC7215AC_Universal_Aircon_Control
 https://github.com/AndyNewlands/DualEncoderMenuSystem.git|Contributed|DualEncoderMenuSystem
+https://github.com/gvp-257/AVRactivePower.git|Contributed|AVRactivePower
