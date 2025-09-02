@@ -8350,3 +8350,4 @@ https://github.com/7semi-solutions/7Semi-ACS772-CurrentSensor-Arduino-Library.gi
 https://github.com/bitcode-tech/bc7215ac.git|Contributed|BC7215AC_Universal_Aircon_Control
 https://github.com/AndyNewlands/DualEncoderMenuSystem.git|Contributed|DualEncoderMenuSystem
 https://github.com/gvp-257/AVRactivePower.git|Contributed|AVRactivePower
+https://github.com/7semi-solutions/7Semi-SHT4x-Arduino-Library.git|Contributed|7Semi SHT4x
