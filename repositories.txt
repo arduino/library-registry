@@ -8329,6 +8329,7 @@ https://github.com/tomorrow56/ESPNowAutoPairing
 https://github.com/yohanna02/ESPComm
 https://github.com/gvp-257/SendOnlySerial
 https://github.com/gvp-257/AnalogControlPanel
+https://github.com/gvp-257/AVRactivePower
 https://github.com/CuiYao631/HomeSpan-zh
 https://github.com/satoyon/PFNFont
 https://github.com/nexbyteio/ZenRTC.git
