@@ -8351,3 +8351,4 @@ https://github.com/bitcode-tech/bc7215ac.git|Contributed|BC7215AC_Universal_Airc
 https://github.com/AndyNewlands/DualEncoderMenuSystem.git|Contributed|DualEncoderMenuSystem
 https://github.com/gvp-257/AVRactivePower.git|Contributed|AVRactivePower
 https://github.com/7semi-solutions/7Semi-SHT4x-Arduino-Library.git|Contributed|7Semi SHT4x
+https://github.com/jonavarro22/MAX7SegmentDisplay.git|Contributed|MAX7SegmentDisplay
