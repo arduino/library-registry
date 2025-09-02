@@ -8357,3 +8357,4 @@ https://github.com/alexghrrsn/Ecowitt-Gateway-Parser/
 https://github.com/harishfaqot/TF-LC02
 https://github.com/harishfaqot/Atlas_EC
 https://github.com/7semi-solutions/7Semi-ACS772-CurrentSensor-Arduino-Library
+https://github.com/7semi-solutions/7Semi-SHT4x-Arduino-Library
