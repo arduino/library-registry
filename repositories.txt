@@ -8360,3 +8360,4 @@ https://github.com/7semi-solutions/7Semi-ACS772-CurrentSensor-Arduino-Library
 https://github.com/7semi-solutions/7Semi-SHT4x-Arduino-Library
 https://github.com/jonavarro22/MAX7SegmentDisplay
 https://github.com/sutiana/WiFiConfigManager
+https://github.com/7semi-solutions/7Semi-DS18B20-Arduino-Library
