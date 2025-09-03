@@ -6336,6 +6336,7 @@ https://github.com/sinricpro/esp8266-esp32-sdk
 https://github.com/sinricpro/teleport-arduino-esp32-library
 https://github.com/siroshy/MovingPlatform
 https://github.com/SirSundays/LDC1312-Arduino
+https://github.com/JackHat1/MT07_CAN_Project
 https://github.com/siteswapjuggler/RAMP
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
