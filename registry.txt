@@ -8352,3 +8352,4 @@ https://github.com/AndyNewlands/DualEncoderMenuSystem.git|Contributed|DualEncode
 https://github.com/gvp-257/AVRactivePower.git|Contributed|AVRactivePower
 https://github.com/7semi-solutions/7Semi-SHT4x-Arduino-Library.git|Contributed|7Semi SHT4x
 https://github.com/jonavarro22/MAX7SegmentDisplay.git|Contributed|MAX7SegmentDisplay
+https://github.com/sutiana/WiFiConfigManager.git|Contributed|WiFiConfigManager
