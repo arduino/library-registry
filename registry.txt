@@ -8361,3 +8361,4 @@ https://github.com/jobitjoseph/CH32X035_USBSerial.git|Contributed|CH32X035_USBSe
 https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience.git|Contributed|SP3S-AQ2SpaceData
 https://github.com/tobozo/LGFX_PPA.git|Contributed|LGFX_PPA
 https://github.com/BlueskyBV/Easy_Web_Remote_Control-ESP32-.git|Contributed|Easy_Web_Remote_Control
+https://github.com/JackHat1/MT07_CAN_Project.git|Contributed|MT07_CAN_Library
