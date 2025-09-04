@@ -7124,6 +7124,7 @@ https://github.com/tobozo/ESP32-targz
 https://github.com/tobozo/ESP32-USB-Soft-Host
 https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
+https://github.com/tobozo/LGFX_PPA
 https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
 https://github.com/tobozo/WiFiManagerTz
