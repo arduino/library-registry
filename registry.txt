@@ -8357,3 +8357,4 @@ https://github.com/7semi-solutions/7Semi-DS18B20-Arduino-Library.git|Contributed
 https://github.com/RobTillaart/AS7331.git|Contributed|AS7331
 https://github.com/littlemanbuilds/Universal_Button.git|Contributed|Universal_Button
 https://github.com/7semi-solutions/7Semi-MAX17048-Arduino-Library.git|Contributed|7Semi_MAX17048
+https://github.com/jobitjoseph/CH32X035_USBSerial.git|Contributed|CH32X035_USBSerial
