@@ -612,6 +612,7 @@ https://github.com/abaskin/MAX72XX
 https://github.com/abcdaaaaaaaaa/MQSpaceData.h
 https://github.com/abcdaaaaaaaaa/RadioactiveDataScience
 https://github.com/abcdaaaaaaaaa/MG811DataScience
+https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience
 https://github.com/abderraouf-adjal/ArduinoSpritzCipher
 https://github.com/abderraouf-adjal/Embedded-PID
 https://github.com/AbdoullahBougataya/QCFA
