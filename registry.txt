@@ -8364,3 +8364,4 @@ https://github.com/BlueskyBV/Easy_Web_Remote_Control-ESP32-.git|Contributed|Easy
 https://github.com/JackHat1/MT07_CAN_Project.git|Contributed|MT07_CAN_Library
 https://github.com/7semi-solutions/7Semi-HX711-Arduino-Library.git|Contributed|7Semi_HX711
 https://github.com/Rmin-code2005/sh1106-1306_ui_assistance.git|Contributed|oled_graphic_assistance
+https://github.com/Rmin-code2005/sparkey_gyro_I2C.git|Contributed|king_Armin_sparkyTDAxis12_I2C_lib
