@@ -8368,3 +8368,4 @@ https://github.com/Rmin-code2005/sparkey_gyro_I2C.git|Contributed|king_Armin_spa
 https://github.com/Sensirion/arduino-i2c-sen63c.git|Contributed|Sensirion I2C SEN63C
 https://github.com/Sensirion/arduino-i2c-sen65.git|Contributed|Sensirion I2C SEN65
 https://github.com/Sensirion/arduino-i2c-sen68.git|Contributed|Sensirion I2C SEN68
+https://github.com/ayresnet/AyresShell.git|Contributed|AyresShell
