@@ -6207,6 +6207,9 @@ https://github.com/sensirion/arduino-i2c-sdp
 https://github.com/Sensirion/arduino-i2c-sen44
 https://github.com/Sensirion/arduino-i2c-sen5x
 https://github.com/Sensirion/arduino-i2c-sen66
+https://github.com/Sensirion/arduino-i2c-sen63c
+https://github.com/Sensirion/arduino-i2c-sen65
+https://github.com/Sensirion/arduino-i2c-sen68
 https://github.com/Sensirion/arduino-i2c-sf06-lf
 https://github.com/Sensirion/arduino-i2c-sfa3x
 https://github.com/Sensirion/arduino-i2c-sfm3000
