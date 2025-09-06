@@ -8369,3 +8369,4 @@ https://github.com/Sensirion/arduino-i2c-sen63c.git|Contributed|Sensirion I2C SE
 https://github.com/Sensirion/arduino-i2c-sen65.git|Contributed|Sensirion I2C SEN65
 https://github.com/Sensirion/arduino-i2c-sen68.git|Contributed|Sensirion I2C SEN68
 https://github.com/ayresnet/AyresShell.git|Contributed|AyresShell
+https://github.com/7semi-solutions/7Semi-ADS1xx5-Arduino-Library.git|Contributed|7Semi_ADS1xx5
