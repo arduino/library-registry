@@ -14,6 +14,7 @@ https://github.com/milad-nikpendar/initGT911
 https://github.com/gavinlyonsrepo/ILI9341_LTSM
 https://github.com/m5stack/M5Unit-Miniscale
 https://github.com/orji123/Irisoled
+https://github.com/PhoenixSmaug/AFMotor-Shield-R4-Compatible
 https://github.com/DigitalCodesign/MentorBit-VEML
 https://github.com/DigitalCodesign/MentorBit-SensorHall
 https://github.com/gavinlyonsrepo/SSD1331_LTSM
