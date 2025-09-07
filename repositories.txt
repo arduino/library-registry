@@ -8380,3 +8380,4 @@ https://github.com/ayresnet/AyresShell
 https://github.com/7semi-solutions/7Semi-ADS1xx5-Arduino-Library
 https://github.com/tomrodinger/Servomotor_Arduino_Library
 https://github.com/csu333/TFTPClient
+https://github.com/FT-tele/ST7305_MonoTFT_Arduino_Library
