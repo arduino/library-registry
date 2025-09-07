@@ -8373,3 +8373,4 @@ https://github.com/7semi-solutions/7Semi-ADS1xx5-Arduino-Library.git|Contributed
 https://github.com/tomrodinger/Servomotor_Arduino_Library.git|Contributed|Servomotor
 https://github.com/PhoenixSmaug/AFMotor-Shield-R4-Compatible.git|Contributed|Adafruit Motor Shield R4 Compatible
 https://github.com/csu333/TFTPClient.git|Contributed|TFTPClient
+https://github.com/FT-tele/ST7305_MonoTFT_Arduino_Library.git|Contributed|ST7305_MonoTFT_Library
