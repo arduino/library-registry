@@ -8376,3 +8376,4 @@ https://github.com/csu333/TFTPClient.git|Contributed|TFTPClient
 https://github.com/FT-tele/ST7305_MonoTFT_Arduino_Library.git|Contributed|ST7305_MonoTFT_Library
 https://github.com/7semi-solutions/7Semi-ADS126x-Arduino-Library.git|Contributed|7Semi_ADS126x
 https://github.com/YoungEngineerMixertiX/MegaTPA.git|Contributed|MegaTPA
+https://github.com/muki01/OBD2_CAN_Bus_Library.git|Contributed|OBD2 CanBus
