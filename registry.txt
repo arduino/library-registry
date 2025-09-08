@@ -8375,3 +8375,4 @@ https://github.com/PhoenixSmaug/AFMotor-Shield-R4-Compatible.git|Contributed|Ada
 https://github.com/csu333/TFTPClient.git|Contributed|TFTPClient
 https://github.com/FT-tele/ST7305_MonoTFT_Arduino_Library.git|Contributed|ST7305_MonoTFT_Library
 https://github.com/7semi-solutions/7Semi-ADS126x-Arduino-Library.git|Contributed|7Semi_ADS126x
+https://github.com/YoungEngineerMixertiX/MegaTPA.git|Contributed|MegaTPA
