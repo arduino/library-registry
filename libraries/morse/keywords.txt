@@ -1,0 +1,2 @@
+decodeMorse    KEYWORD2
+MorseMap       KEYWORD1
