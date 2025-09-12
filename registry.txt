@@ -8387,3 +8387,4 @@ https://github.com/ezz-30/arduino_tinkeriot.git|Contributed|tinkeriot
 https://github.com/piruetasxyz/Boton.git|Contributed|Boton
 https://github.com/ghi-electronics/duelink-libraries-arduino.git|Contributed|DUELink
 https://github.com/charlie731/Simple_Esp32WiFiManager.git|Contributed|Simple_Esp32WiFiManager
+https://github.com/littlemanbuilds/SnapshotBus.git|Contributed|SnapshotBus
