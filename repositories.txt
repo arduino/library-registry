@@ -8393,3 +8393,4 @@ https://github.com/FT-tele/ST7305_MonoTFT_Arduino_Library
 https://github.com/7semi-solutions/7Semi-ADS126x-Arduino-Library
 https://github.com/7semi-solutions/7Semi-ADS7830-Arduino-Library
 https://github.com/ghi-electronics/duelink-libraries-arduino
+https://github.com/charlie731/Simple_Esp32WiFiManager
