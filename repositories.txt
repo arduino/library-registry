@@ -1,3 +1,8 @@
+https://github.com/ezz-30/arduino_tinkeriot
+https://github.com/milad-nikpendar/initAuthorization
+https://github.com/KB-Sensor-Mart/iSYS4001
+https://github.com/YoungEngineerMixertiX/MegaTPA
+https://github.com/jobitjoseph/CH32X035_USBSerial
 https://github.com/AndyNewlands/DualEncoderMenuSystem
 https://github.com/bitcode-tech/bc7215ac
 https://github.com/m5stack/M5Module-PPS
@@ -13,6 +18,7 @@ https://github.com/milad-nikpendar/initGT911
 https://github.com/gavinlyonsrepo/ILI9341_LTSM
 https://github.com/m5stack/M5Unit-Miniscale
 https://github.com/orji123/Irisoled
+https://github.com/PhoenixSmaug/AFMotor-Shield-R4-Compatible
 https://github.com/DigitalCodesign/MentorBit-VEML
 https://github.com/DigitalCodesign/MentorBit-SensorHall
 https://github.com/gavinlyonsrepo/SSD1331_LTSM
@@ -611,6 +617,7 @@ https://github.com/abaskin/MAX72XX
 https://github.com/abcdaaaaaaaaa/MQSpaceData.h
 https://github.com/abcdaaaaaaaaa/RadioactiveDataScience
 https://github.com/abcdaaaaaaaaa/MG811DataScience
+https://github.com/abcdaaaaaaaaa/SP3S-AQ2DataScience
 https://github.com/abderraouf-adjal/ArduinoSpritzCipher
 https://github.com/abderraouf-adjal/Embedded-PID
 https://github.com/AbdoullahBougataya/QCFA
@@ -5161,10 +5168,12 @@ https://github.com/pilotak/MovingAverage
 https://github.com/pilotak/MovingAverageAngle
 https://github.com/pilotak/MovingAverageFloat
 https://github.com/pilotak/WeatherMeters
+https://github.com/piruetasxyz/Boton
 https://github.com/piruetasxyz/FrecuenciasMIDI
 https://github.com/piruetasxyz/NotasMIDI
 https://github.com/piruetasxyz/maqui_library
 https://github.com/piruetasxyz/Pantalla12x8
+https://github.com/piruetasxyz/Perilla
 https://github.com/Pixelbo/Pelco_And_Arduino
 https://github.com/pixelmatix/GifDecoder
 https://github.com/pixelmatix/SmartMatrix
@@ -5813,6 +5822,7 @@ https://github.com/RobTillaart/Interval
 https://github.com/RobTillaart/Kelvin2RGB
 https://github.com/RobTillaart/KT0803
 https://github.com/RobTillaart/Kurtosis
+https://github.com/RobTillaart/L9110
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logistic
 https://github.com/RobTillaart/LTC2485
@@ -6205,6 +6215,9 @@ https://github.com/sensirion/arduino-i2c-sdp
 https://github.com/Sensirion/arduino-i2c-sen44
 https://github.com/Sensirion/arduino-i2c-sen5x
 https://github.com/Sensirion/arduino-i2c-sen66
+https://github.com/Sensirion/arduino-i2c-sen63c
+https://github.com/Sensirion/arduino-i2c-sen65
+https://github.com/Sensirion/arduino-i2c-sen68
 https://github.com/Sensirion/arduino-i2c-sf06-lf
 https://github.com/Sensirion/arduino-i2c-sfa3x
 https://github.com/Sensirion/arduino-i2c-sfm3000
@@ -7122,6 +7135,7 @@ https://github.com/tobozo/ESP32-targz
 https://github.com/tobozo/ESP32-USB-Soft-Host
 https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
+https://github.com/tobozo/LGFX_PPA
 https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
 https://github.com/tobozo/WiFiManagerTz
@@ -7909,6 +7923,7 @@ https://github.com/DBSStore/EIS
 https://github.com/guerratron/TouchCal
 https://github.com/GabyGold67/ButtonToSwitch_AVR
 https://github.com/bitbank2/bb_epaper
+https://github.com/Rmin-code2005/sparkey_gyro_i2c
 https://github.com/Kei0208/RX8900
 https://github.com/Garfius/cliSerialMenu
 https://github.com/nhjschulz/cfsm
@@ -8287,6 +8302,7 @@ https://github.com/Zakrzewiaczek/pantryclient-esp
 https://github.com/John-Karatka/MAX6953
 https://github.com/MicroSui/microsui-lib
 https://github.com/muki01/OBD2_KLine_Library
+https://github.com/muki01/OBD2_CAN_Bus_Library
 https://github.com/max22-/ble-keyboard-mouse-client
 https://github.com/John-Karatka/DS1621
 https://github.com/Martin4017/LCDShiftView
@@ -8363,3 +8379,18 @@ https://github.com/7semi-solutions/7Semi-SHT4x-Arduino-Library
 https://github.com/jonavarro22/MAX7SegmentDisplay
 https://github.com/sutiana/WiFiConfigManager
 https://github.com/7semi-solutions/7Semi-DS18B20-Arduino-Library
+https://github.com/7semi-solutions/7Semi-MAX17048-Arduino-Library
+https://github.com/Rmin-code2005/sparkey_gyro_I2C
+https://github.com/BlueskyBV/Easy_Web_Remote_Control-ESP32-
+https://github.com/JackHat1/MT07_CAN_Project
+https://github.com/7semi-solutions/7Semi-HX711-Arduino-Library
+https://github.com/Rmin-code2005/sh1106-1306_ui_assistance
+https://github.com/ayresnet/AyresShell
+https://github.com/7semi-solutions/7Semi-ADS1xx5-Arduino-Library
+https://github.com/tomrodinger/Servomotor_Arduino_Library
+https://github.com/csu333/TFTPClient
+https://github.com/FT-tele/ST7305_MonoTFT_Arduino_Library
+https://github.com/7semi-solutions/7Semi-ADS126x-Arduino-Library
+https://github.com/7semi-solutions/7Semi-ADS7830-Arduino-Library
+https://github.com/ghi-electronics/duelink-libraries-arduino
+https://github.com/charlie731/Simple_Esp32WiFiManager
