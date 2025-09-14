@@ -8388,3 +8388,4 @@ https://github.com/piruetasxyz/Boton.git|Contributed|Boton
 https://github.com/ghi-electronics/duelink-libraries-arduino.git|Contributed|DUELink
 https://github.com/charlie731/Simple_Esp32WiFiManager.git|Contributed|Simple_Esp32WiFiManager
 https://github.com/littlemanbuilds/SnapshotBus.git|Contributed|SnapshotBus
+https://github.com/Bitworx-cz/Updater.git|Contributed|Updater
