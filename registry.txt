@@ -8395,3 +8395,4 @@ https://github.com/SolderedElectronics/Soldered-Microphone-SPK0641HT-Library.git
 https://github.com/SolderedElectronics/Soldered-DS3234-RTC-Arduino-Library.git|Contributed|Soldered DS3234 RTC
 https://github.com/7semi-solutions/7Semi-MAX31865-Arduino-Library.git|Contributed|7Semi_MAX31865
 https://github.com/4dsystems/GFX4dESP32P4.git|Contributed|GFX4dESP32P4
+https://github.com/vkumpan/TEA5767.git|Contributed|TEA5767
