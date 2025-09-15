@@ -8402,3 +8402,4 @@ https://github.com/ghi-electronics/duelink-libraries-arduino
 https://github.com/charlie731/Simple_Esp32WiFiManager
 https://github.com/Bitworx-cz/Updater
 https://github.com/7semi-solutions/7Semi-MAX31865-Arduino-Library
+https://github.com/vkumpan/TEA5767
