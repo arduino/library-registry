@@ -1,3 +1,4 @@
+https://github.com/Droidbane/ESPWiFiManagerByDroidbane
 https://github.com/ezz-30/arduino_tinkeriot
 https://github.com/m5stack/M5Unit-MQ
 https://github.com/milad-nikpendar/initAuthorization
