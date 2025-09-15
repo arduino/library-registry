@@ -3,6 +3,8 @@ https://github.com/ezz-30/arduino_tinkeriot
 https://github.com/m5stack/M5Unit-MQ
 https://github.com/milad-nikpendar/initAuthorization
 https://github.com/KB-Sensor-Mart/iSYS4001
+https://github.com/SolderedElectronics/Soldered-Microphone-SPK0641HT-Library
+https://github.com/SolderedElectronics/Soldered-DS3234-RTC-Arduino-Library
 https://github.com/YoungEngineerMixertiX/MegaTPA
 https://github.com/jobitjoseph/CH32X035_USBSerial
 https://github.com/AndyNewlands/DualEncoderMenuSystem
