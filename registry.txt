@@ -8391,3 +8391,5 @@ https://github.com/littlemanbuilds/SnapshotBus.git|Contributed|SnapshotBus
 https://github.com/Bitworx-cz/Updater.git|Contributed|Updater
 https://github.com/m5stack/M5Unit-MQ.git|Contributed|Unit MQ
 https://github.com/Droidbane/ESPWiFiManagerByDroidbane.git|Contributed|ESPWiFiManagerByDroidbane
+https://github.com/SolderedElectronics/Soldered-Microphone-SPK0641HT-Library.git|Contributed|Soldered Microphone SPK0641HT Library
+https://github.com/SolderedElectronics/Soldered-DS3234-RTC-Arduino-Library.git|Contributed|Soldered DS3234 RTC
