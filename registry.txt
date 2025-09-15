@@ -8390,3 +8390,4 @@ https://github.com/charlie731/Simple_Esp32WiFiManager.git|Contributed|Simple_Esp
 https://github.com/littlemanbuilds/SnapshotBus.git|Contributed|SnapshotBus
 https://github.com/Bitworx-cz/Updater.git|Contributed|Updater
 https://github.com/m5stack/M5Unit-MQ.git|Contributed|Unit MQ
+https://github.com/Droidbane/ESPWiFiManagerByDroidbane.git|Contributed|ESPWiFiManagerByDroidbane
