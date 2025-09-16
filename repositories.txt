@@ -8405,3 +8405,4 @@ https://github.com/Bitworx-cz/Updater
 https://github.com/7semi-solutions/7Semi-MAX31865-Arduino-Library
 https://github.com/vkumpan/TEA5767
 https://github.com/arduino-libraries/Arduino_APDS9999
+https://github.com/7semi-solutions/7Semi-MCP23017-Arduino-Library
