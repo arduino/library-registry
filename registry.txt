@@ -8397,3 +8397,4 @@ https://github.com/7semi-solutions/7Semi-MAX31865-Arduino-Library.git|Contribute
 https://github.com/4dsystems/GFX4dESP32P4.git|Contributed|GFX4dESP32P4
 https://github.com/vkumpan/TEA5767.git|Contributed|TEA5767
 https://github.com/DIYables/DIYables-WebApps-Library.git|Contributed|DIYables WebApps
+https://github.com/arduino-libraries/Arduino_APDS9999.git|Arduino|Arduino_APDS9999
