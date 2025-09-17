@@ -8402,3 +8402,4 @@ https://github.com/7semi-solutions/7Semi-MCP23017-Arduino-Library.git|Contribute
 https://github.com/tbwcjw/arduino-ps3mapi.git|Contributed|ps3mapi
 https://github.com/vkumpan/ActionButtons.git|Contributed|ActionButtons
 https://github.com/IwanIDev/lego-arduino-train.git|Contributed|LEGOTrainController
+https://github.com/lemio/iqs5xx-b000_trackpad.git|Contributed|IQS5XX-B000 Trackpad
