@@ -4007,6 +4007,7 @@ https://github.com/leftCoast/LC_slowServo
 https://github.com/Legion2/CorsairLightingProtocol
 https://github.com/Legion2/Somfy_Remote_Lib
 https://github.com/lemio/esp32_ble_wedo
+https://github.com/lemio/iqs5xx-b000_trackpad
 https://github.com/lemmingDev/ESP32-BLE-Gamepad
 https://github.com/lendres/BatteryMeter-Arduino
 https://github.com/lendres/BlinkSuite-Arduino
