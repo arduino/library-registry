@@ -8412,3 +8412,4 @@ https://github.com/arduino-libraries/Arduino_APDS9999
 https://github.com/7semi-solutions/7Semi-MCP23017-Arduino-Library
 https://github.com/tbwcjw/arduino-ps3mapi
 https://github.com/IwanIDev/lego-arduino-train
+https://github.com/stm32duino/ISM6HG256X
