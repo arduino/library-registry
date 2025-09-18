@@ -8405,3 +8405,4 @@ https://github.com/IwanIDev/lego-arduino-train.git|Contributed|LEGOTrainControll
 https://github.com/lemio/iqs5xx-b000_trackpad.git|Contributed|IQS5XX-B000 Trackpad
 https://github.com/m5stack/ATOM-PRINTER.git|Contributed|ATOM-PRINTER
 https://github.com/Hyperion-Robotics/wCK_Series.git|Contributed|wCK_Series
+https://github.com/stm32duino/ISM6HG256X.git|Contributed|STM32duino ISM6HG256X
