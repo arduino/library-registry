@@ -8406,3 +8406,6 @@ https://github.com/lemio/iqs5xx-b000_trackpad.git|Contributed|IQS5XX-B000 Trackp
 https://github.com/m5stack/ATOM-PRINTER.git|Contributed|ATOM-PRINTER
 https://github.com/Hyperion-Robotics/wCK_Series.git|Contributed|wCK_Series
 https://github.com/stm32duino/ISM6HG256X.git|Contributed|STM32duino ISM6HG256X
+https://github.com/stm32duino/IIS2DULPX.git|Contributed|STM32duino IIS2DULPX
+https://github.com/stm32duino/ISM330IS.git|Contributed|STM32duino ISM330IS
+https://github.com/stm32duino/ILPS22QS.git|Contributed|STM32duino ILPS22QS
