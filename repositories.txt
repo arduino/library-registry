@@ -1,3 +1,5 @@
+https://github.com/milad-nikpendar/initGT911
+https://github.com/milad-nikpendar/initAuthorization
 https://github.com/Hyperion-Robotics/wCK_Series
 https://github.com/DIYables/DIYables-WebApps-Library
 https://github.com/m5stack/ATOM-PRINTER
