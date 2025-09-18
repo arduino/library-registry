@@ -8413,3 +8413,6 @@ https://github.com/7semi-solutions/7Semi-MCP23017-Arduino-Library
 https://github.com/tbwcjw/arduino-ps3mapi
 https://github.com/IwanIDev/lego-arduino-train
 https://github.com/stm32duino/ISM6HG256X
+https://github.com/stm32duino/IIS2DULPX
+https://github.com/stm32duino/ISM330IS
+https://github.com/stm32duino/ILPS22QS
