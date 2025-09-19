@@ -8418,3 +8418,4 @@ https://github.com/stm32duino/IIS2DULPX
 https://github.com/stm32duino/ISM330IS
 https://github.com/stm32duino/ILPS22QS
 https://github.com/fulda1/SUSI2
+https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN
