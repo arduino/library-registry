@@ -8415,3 +8415,4 @@ https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN.git|Contributed|QuectelEC20
 https://github.com/WeSpeakEnglish/ANTIRTOS_MODERN.git|Contributed|ANTIRTOS_MODERN
 https://github.com/hidori/MicroSerial.git|Contributed|MicroSerial
 https://github.com/gustavofisica/PulseHeartLab.git|Contributed|PulseHeartLab
+https://github.com/7semi-solutions/7Semi-BNO055-Arduino-Library.git|Contributed|7Semi_BNO055
