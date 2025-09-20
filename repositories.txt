@@ -8420,3 +8420,4 @@ https://github.com/stm32duino/ILPS22QS
 https://github.com/fulda1/SUSI2
 https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN
 https://github.com/WeSpeakEnglish/ANTIRTOS_MODERN
+https://github.com/hidori/MicroSerial
