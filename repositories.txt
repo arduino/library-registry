@@ -8423,3 +8423,4 @@ https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN
 https://github.com/WeSpeakEnglish/ANTIRTOS_MODERN
 https://github.com/hidori/MicroSerial
 https://github.com/7semi-solutions/7Semi-BNO055-Arduino-Library
+https://github.com/ConsentiumIoT/EdgeVision
