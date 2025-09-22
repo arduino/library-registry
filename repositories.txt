@@ -8428,3 +8428,4 @@ https://github.com/7semi-solutions/7Semi-BNO055-Arduino-Library
 https://github.com/ConsentiumIoT/EdgeVision
 https://github.com/junzzhu/esp-mqtt-arduino
 https://github.com/skr-electronics-lab/OLEDKeyboard.git
+https://github.com/valeriofantozzi/TraccarClient.git
