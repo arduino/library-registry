@@ -8419,3 +8419,4 @@ https://github.com/7semi-solutions/7Semi-BNO055-Arduino-Library.git|Contributed|
 https://github.com/ConsentiumIoT/EdgeVision.git|Contributed|EdgeVision
 https://github.com/junzzhu/esp-mqtt-arduino.git|Contributed|esp-mqtt-arduino
 https://github.com/puzzle-star/EspButtons.git|Contributed|EspButtons
+https://github.com/skr-electronics-lab/OLEDKeyboard.git|Contributed|OLEDKeyboard
