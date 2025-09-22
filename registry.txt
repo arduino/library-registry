@@ -8418,3 +8418,4 @@ https://github.com/gustavofisica/PulseHeartLab.git|Contributed|PulseHeartLab
 https://github.com/7semi-solutions/7Semi-BNO055-Arduino-Library.git|Contributed|7Semi_BNO055
 https://github.com/ConsentiumIoT/EdgeVision.git|Contributed|EdgeVision
 https://github.com/junzzhu/esp-mqtt-arduino.git|Contributed|esp-mqtt-arduino
+https://github.com/puzzle-star/EspButtons.git|Contributed|EspButtons
