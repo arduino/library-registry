@@ -8422,3 +8422,4 @@ https://github.com/puzzle-star/EspButtons.git|Contributed|EspButtons
 https://github.com/skr-electronics-lab/OLEDKeyboard.git|Contributed|OLEDKeyboard
 https://github.com/milad-nikpendar/IP5108.git|Contributed|IP5108
 https://github.com/valeriofantozzi/TraccarClient.git|Contributed|TraccarClient
+https://github.com/RobTillaart/DCT532.git|Contributed|DCT532
