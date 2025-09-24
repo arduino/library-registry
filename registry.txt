@@ -8426,3 +8426,4 @@ https://github.com/RobTillaart/DCT532.git|Contributed|DCT532
 https://github.com/SofaPirate/PqLEDStrip.git|Contributed|PqLEDStrip
 https://github.com/RobTillaart/SHT4x.git|Contributed|SHT4x
 https://github.com/dougp2/Multi_Timer_V2.git|Contributed|Multi_Timer_V2
+https://github.com/nonpawite/bcc-esp-dev.git|Contributed|BCC_ESP32S3
