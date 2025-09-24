@@ -8433,3 +8433,4 @@ https://github.com/junzzhu/esp-mqtt-arduino
 https://github.com/skr-electronics-lab/OLEDKeyboard.git
 https://github.com/valeriofantozzi/TraccarClient.git
 https://github.com/SofaPirate/PqLEDStrip
+https://github.com/dac1e/RcSwitchTransmitter
