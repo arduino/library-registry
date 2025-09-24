@@ -8434,3 +8434,4 @@ https://github.com/skr-electronics-lab/OLEDKeyboard.git
 https://github.com/valeriofantozzi/TraccarClient.git
 https://github.com/SofaPirate/PqLEDStrip
 https://github.com/dac1e/RcSwitchTransmitter
+https://github.com/nonpawite/bcc-esp-dev
