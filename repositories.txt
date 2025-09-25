@@ -1,3 +1,4 @@
+https://github.com/m5stack/M5Module-4EncoderMotor
 https://github.com/ababdelo/ESPDiscordClient
 https://github.com/dougp2/Multi_Timer_V2
 https://github.com/milad-nikpendar/IP5108
