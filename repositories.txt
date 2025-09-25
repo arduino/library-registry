@@ -8437,3 +8437,4 @@ https://github.com/SofaPirate/PqLEDStrip
 https://github.com/dac1e/RcSwitchTransmitter
 https://github.com/nonpawite/bcc-esp-dev
 https://github.com/ennio64/StepperHAL_STM32F4x1-Library
+https://github.com/AymenTurki0/Aerobotix_Arduino_navigation
