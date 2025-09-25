@@ -8431,3 +8431,4 @@ https://github.com/dac1e/RcSwitchTransmitter.git|Contributed|RcSwitchTransmitter
 https://github.com/ennio64/StepperHAL_STM32F4x1-Library.git|Contributed|StepperHAL_STM32F4x1
 https://github.com/ababdelo/ESPDiscordClient.git|Contributed|ESP Discord Client
 https://github.com/AymenTurki0/Aerobotix_Arduino_navigation.git|Contributed|Aerobotix_Arduino_nav
+https://github.com/m5stack/M5Module-4EncoderMotor.git|Contributed|M5Module-4EncoderMotor
