@@ -8432,3 +8432,4 @@ https://github.com/ennio64/StepperHAL_STM32F4x1-Library.git|Contributed|StepperH
 https://github.com/ababdelo/ESPDiscordClient.git|Contributed|ESP Discord Client
 https://github.com/AymenTurki0/Aerobotix_Arduino_navigation.git|Contributed|Aerobotix_Arduino_nav
 https://github.com/m5stack/M5Module-4EncoderMotor.git|Contributed|M5Module-4EncoderMotor
+https://github.com/mathieucarbou/MycilaDimmer.git|Contributed|MycilaDimmer
