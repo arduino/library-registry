@@ -8429,3 +8429,4 @@ https://github.com/dougp2/Multi_Timer_V2.git|Contributed|Multi_Timer_V2
 https://github.com/nonpawite/bcc-esp-dev.git|Contributed|BCC_ESP32S3
 https://github.com/dac1e/RcSwitchTransmitter.git|Contributed|RcSwitchTransmitter
 https://github.com/ennio64/StepperHAL_STM32F4x1-Library.git|Contributed|StepperHAL_STM32F4x1
+https://github.com/ababdelo/ESPDiscordClient.git|Contributed|ESP Discord Client
