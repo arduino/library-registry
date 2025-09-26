@@ -8409,7 +8409,7 @@ https://github.com/stm32duino/ISM330IS.git|Contributed|STM32duino ISM330IS
 https://github.com/stm32duino/ILPS22QS.git|Contributed|STM32duino ILPS22QS
 https://github.com/fulda1/SUSI2.git|Contributed|SUSI2
 https://github.com/Harmony-Maker-Club/AIP1640_LED_Matrix.git|Contributed|AIP1640_LED_Matrix
-https://github.com/MISTERNEGATIVE21/QuectelEC200U_CN.git|Contributed|QuectelEC200U_CN
+https://github.com/MISTERNEGATIVE21/QuectelEC200U.git|Contributed|QuectelEC200U_CN
 https://github.com/WeSpeakEnglish/ANTIRTOS_MODERN.git|Contributed|ANTIRTOS_MODERN
 https://github.com/hidori/MicroSerial.git|Contributed|MicroSerial
 https://github.com/gustavofisica/PulseHeartLab.git|Contributed|PulseHeartLab
