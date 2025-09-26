@@ -15,6 +15,7 @@ This repository contains the list of libraries in the
 - [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
 - [Removing a library from Library Manager](#removing-a-library-from-library-manager)
 - [Report a problem with Library Manager](#report-a-problem-with-library-manager)
+- [Security & Malware Reporting](#security--malware-reporting)
 
 <!-- tocstop -->
 
@@ -31,6 +32,16 @@ that adds the repository URL to [the list](repositories.txt). You are welcome to
 See the instructions below for detailed instructions on how to do this via the GitHub web interface.
 
 ### Instructions
+
+---
+
+⚠ If you behave irresponsibly in your interactions with this repository, your Library Manager Registry privileges will be revoked.
+
+Carefully read and follow the instructions in any comments the bot and human maintainers make on your pull requests. If you are having trouble following the instructions, add a comment that provides a detailed description of the problem you are having and a human maintainer will provide assistance.
+
+Although we have set up automation for the most basic tasks, this repository is maintained by humans. So behave in a manner appropriate for interacting with humans, including clearly communicating what you are hoping to accomplish.
+
+---
 
 1. You may want to first take a look at
    [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for
@@ -118,3 +129,11 @@ This repository is not an appropriate place to request support or report problem
 own documentation for instructions or ask on the [Arduino Forum](https://forum.arduino.cc/).
 
 If the problem is about something else, please submit an issue report [here](https://github.com/arduino/library-registry/issues/new/choose).
+
+## Security & Malware Reporting
+
+If you think you found a vulnerability, malware or other security-related defect in any Arduino Library projects, please take a look at our security policy and report it to our Security Team 🛡️.
+
+Thank you!
+
+E-mail contact: security@arduino.cc
