@@ -8433,3 +8433,4 @@ https://github.com/m5stack/M5Module-4EncoderMotor.git|Contributed|M5Module-4Enco
 https://github.com/mathieucarbou/MycilaDimmer.git|Contributed|MycilaDimmer
 https://github.com/gvp-257/DietSerial.git|Contributed|DietSerial
 https://github.com/dejwk/roo_blink.git|Contributed|roo_blink
+https://github.com/Chanatip112/HanumanMini.git|Contributed|HanumanMini
