@@ -8441,3 +8441,4 @@ https://github.com/TEXHOUM/TEXHOUM_MOTOR.git|Contributed|TEXHOUM_MOTOR
 https://github.com/TEXHOUM/TEXHOUM_SERVO.git|Contributed|TEXHOUM_SERVO
 https://github.com/Alteriom/EByte_LoRa_E220_Series_Library.git|Contributed|Alteriom_EByte_LoRa_E220
 https://github.com/Sensirion/arduino-upt-ble-server.git|Contributed|Sensirion UPT BLE Server
+https://github.com/mkgeiger/RadiaCode.git|Contributed|RadiaCode
