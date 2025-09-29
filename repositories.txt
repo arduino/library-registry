@@ -7,6 +7,7 @@ https://github.com/ababdelo/ESPDiscordClient
 https://github.com/dougp2/Multi_Timer_V2
 https://github.com/milad-nikpendar/IP5108
 https://github.com/puzzle-star/EspButtons
+https://github.com/mkgeiger/RadiaCode
 https://github.com/gustavofisica/PulseHeartLab
 https://github.com/Harmony-Maker-Club/AIP1640_LED_Matrix
 https://github.com/Hyperion-Robotics/wCK_Series
