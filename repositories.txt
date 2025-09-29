@@ -8450,3 +8450,4 @@ https://github.com/Chanatip112/HanumanMini
 https://github.com/almtzr/PedroRobot
 https://github.com/Alteriom/EByte_LoRa_E220_Series_Library
 https://github.com/SvenRosvall/VLCB-Arduino
+https://github.com/Alteriom/painlessMesh
