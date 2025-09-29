@@ -8437,3 +8437,4 @@ https://github.com/Chanatip112/HanumanMini.git|Contributed|HanumanMini
 https://github.com/almtzr/PedroRobot.git|Contributed|Pedro Robot
 https://github.com/PubInv/SFM3X00.git|Contributed|SFM3X00
 https://github.com/TEXHOUM/TEXHOUM_US.git|Contributed|TEXHOUM_US
+https://github.com/TEXHOUM/TEXHOUM_MOTOR.git|Contributed|TEXHOUM_MOTOR
