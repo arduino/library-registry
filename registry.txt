@@ -8438,3 +8438,4 @@ https://github.com/almtzr/PedroRobot.git|Contributed|Pedro Robot
 https://github.com/PubInv/SFM3X00.git|Contributed|SFM3X00
 https://github.com/TEXHOUM/TEXHOUM_US.git|Contributed|TEXHOUM_US
 https://github.com/TEXHOUM/TEXHOUM_MOTOR.git|Contributed|TEXHOUM_MOTOR
+https://github.com/TEXHOUM/TEXHOUM_SERVO.git|Contributed|TEXHOUM_SERVO
