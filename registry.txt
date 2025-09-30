@@ -8443,3 +8443,4 @@ https://github.com/Alteriom/EByte_LoRa_E220_Series_Library.git|Contributed|Alter
 https://github.com/Sensirion/arduino-upt-ble-server.git|Contributed|Sensirion UPT BLE Server
 https://github.com/mkgeiger/RadiaCode.git|Contributed|RadiaCode
 https://github.com/SvenRosvall/VLCB-Arduino.git|Contributed|VLCB
+https://github.com/Alteriom/painlessMesh.git|Contributed|Alteriom PainlessMesh
