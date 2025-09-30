@@ -8445,3 +8445,4 @@ https://github.com/mkgeiger/RadiaCode.git|Contributed|RadiaCode
 https://github.com/SvenRosvall/VLCB-Arduino.git|Contributed|VLCB
 https://github.com/Alteriom/painlessMesh.git|Contributed|Alteriom PainlessMesh
 https://github.com/PWhite-Eng/SimpleNetManager.git|Contributed|SimpleNetManager
+https://github.com/mitra42/frugal-iot.git|Contributed|Frugal-IoT
