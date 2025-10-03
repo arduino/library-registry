@@ -5541,6 +5541,8 @@ https://github.com/rei-vilo/PDLS_Common
 https://github.com/rei-vilo/PDLS_Basic
 https://github.com/PervasiveDisplays/Pervasive_Wide_Medium
 https://github.com/PervasiveDisplays/Pervasive_Wide_Small
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Large
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Medium
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Small
 https://github.com/PervasiveDisplays/Pervasive_Wide_Large
 https://github.com/PervasiveDisplays/Pervasive_Touch_Small
