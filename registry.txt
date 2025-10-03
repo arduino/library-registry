@@ -8449,3 +8449,5 @@ https://github.com/mitra42/frugal-iot.git|Contributed|Frugal-IoT
 https://gitlab.com/Vishal1695/fastled_min.git|Contributed|FastLED_min
 https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT.git|Contributed|ESP32S3_SUPERMINI_PINOUT
 https://github.com/kay-bs/KK-Switch.git|Contributed|KK-Switch
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Large.git|Contributed|Pervasive_BWRY_Large
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Medium.git|Contributed|Pervasive_BWRY_Medium
