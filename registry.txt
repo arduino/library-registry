@@ -8451,3 +8451,4 @@ https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT.git|Contributed|ESP32S3_SUPERM
 https://github.com/kay-bs/KK-Switch.git|Contributed|KK-Switch
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Large.git|Contributed|Pervasive_BWRY_Large
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Medium.git|Contributed|Pervasive_BWRY_Medium
+https://github.com/localrice/EasyWiFi.git|Contributed|EasyWiFi
