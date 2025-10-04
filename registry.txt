@@ -8452,3 +8452,4 @@ https://github.com/kay-bs/KK-Switch.git|Contributed|KK-Switch
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Large.git|Contributed|Pervasive_BWRY_Large
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Medium.git|Contributed|Pervasive_BWRY_Medium
 https://github.com/localrice/EasyWiFi.git|Contributed|EasyWiFi
+https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library.git|Contributed|7Semi-RS485-Temperature-Humidity-Probe-Arduino-Library
