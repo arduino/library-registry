@@ -8463,3 +8463,6 @@ https://github.com/kay-bs/KK-Switch
 https://github.com/localrice/EasyWiFi
 https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library
 https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library
+https://github.com/sidkebo/Keypad4x4
+https://github.com/sidkebo/HCSR04ESP32
+https://github.com/sidkebo/ESP32_LCD16x2_I2C
