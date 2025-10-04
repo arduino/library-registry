@@ -8459,3 +8459,4 @@ https://github.com/mitra42/frugal-iot
 https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT
 https://github.com/kay-bs/KK-Switch
 https://github.com/localrice/EasyWiFi
+https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library
