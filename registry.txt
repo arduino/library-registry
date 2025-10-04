@@ -8434,7 +8434,7 @@ https://github.com/mathieucarbou/MycilaDimmer.git|Contributed|MycilaDimmer
 https://github.com/gvp-257/DietSerial.git|Contributed|DietSerial
 https://github.com/dejwk/roo_blink.git|Contributed|roo_blink
 https://github.com/Chanatip112/HanumanMini.git|Contributed|HanumanMini
-https://github.com/almtzr/PedroRobot.git|Contributed|Pedro Robot
+https://github.com/almtzr/PedroRobot.git|Contributed|PedroRobot
 https://github.com/PubInv/SFM3X00.git|Contributed|SFM3X00
 https://github.com/TEXHOUM/TEXHOUM_US.git|Contributed|TEXHOUM_US
 https://github.com/TEXHOUM/TEXHOUM_MOTOR.git|Contributed|TEXHOUM_MOTOR
