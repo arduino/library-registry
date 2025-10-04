@@ -8456,3 +8456,4 @@ https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Libr
 https://github.com/vkumpan/SSD1306.git|Contributed|SSD1306
 https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library.git|Contributed|7Semi_CO2TH
 https://github.com/MrDev-5000/TimerKernel.git|Contributed|TimerKernel
+https://github.com/lucashudson-eng/PZEMPlus.git|Contributed|PZEMPlus
