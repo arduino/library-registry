@@ -8458,3 +8458,4 @@ https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Ardu
 https://github.com/MrDev-5000/TimerKernel.git|Contributed|TimerKernel
 https://github.com/lucashudson-eng/PZEMPlus.git|Contributed|PZEMPlus
 https://github.com/pleasedontcode/POTA.git|Contributed|POTA
+https://github.com/lizardking/LD2410Async.git|Contributed|LD2410Async
