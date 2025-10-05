@@ -8468,3 +8468,4 @@ https://github.com/localrice/EasyWiFi
 https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library
 https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library
 https://github.com/lizardking/LD2410Async
+https://github.com/bitbank2/bb_proximity
