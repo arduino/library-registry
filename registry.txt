@@ -8459,3 +8459,4 @@ https://github.com/MrDev-5000/TimerKernel.git|Contributed|TimerKernel
 https://github.com/lucashudson-eng/PZEMPlus.git|Contributed|PZEMPlus
 https://github.com/pleasedontcode/POTA.git|Contributed|POTA
 https://github.com/lizardking/LD2410Async.git|Contributed|LD2410Async
+https://github.com/Flamethr0wer/PS4Arduino.git|Contributed|PS4Arduino
