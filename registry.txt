@@ -8447,3 +8447,18 @@ https://github.com/Alteriom/painlessMesh.git|Contributed|Alteriom PainlessMesh
 https://github.com/PWhite-Eng/SimpleNetManager.git|Contributed|SimpleNetManager
 https://github.com/mitra42/frugal-iot.git|Contributed|Frugal-IoT
 https://gitlab.com/Vishal1695/fastled_min.git|Contributed|FastLED_min
+https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT.git|Contributed|ESP32S3_SUPERMINI_PINOUT
+https://github.com/kay-bs/KK-Switch.git|Contributed|KK-Switch
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Large.git|Contributed|Pervasive_BWRY_Large
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Medium.git|Contributed|Pervasive_BWRY_Medium
+https://github.com/localrice/EasyWiFi.git|Contributed|EasyWiFi
+https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library.git|Contributed|7Semi-RS485-Temperature-Humidity-Probe-Arduino-Library
+https://github.com/vkumpan/SSD1306.git|Contributed|SSD1306
+https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library.git|Contributed|7Semi_CO2TH
+https://github.com/MrDev-5000/TimerKernel.git|Contributed|TimerKernel
+https://github.com/lucashudson-eng/PZEMPlus.git|Contributed|PZEMPlus
+https://github.com/pleasedontcode/POTA.git|Contributed|POTA
+https://github.com/lizardking/LD2410Async.git|Contributed|LD2410Async
+https://github.com/Flamethr0wer/PS4Arduino.git|Contributed|PS4Arduino
+https://github.com/DIYables/DIYables-ESP32-WebServer.git|Contributed|DIYables ESP32 WebServer
+https://github.com/bitbank2/bb_proximity.git|Contributed|bb_proximity
