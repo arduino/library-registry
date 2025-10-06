@@ -8472,3 +8472,4 @@ https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Ardu
 https://github.com/lizardking/LD2410Async
 https://github.com/bitbank2/bb_proximity
 https://github.com/geekfactory/GFDisplay7S
+https://github.com/bitbank2/bb_temperature
