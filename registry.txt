@@ -8464,3 +8464,4 @@ https://github.com/DIYables/DIYables-ESP32-WebServer.git|Contributed|DIYables ES
 https://github.com/bitbank2/bb_proximity.git|Contributed|bb_proximity
 https://github.com/MrDev-5000/PhotonCore.git|Contributed|PhotonCore
 https://github.com/geekfactory/GFDisplay7S.git|Contributed|Geek Factory GFDisplay7S Library
+https://github.com/k3ldar/SerialCommandManager.git|Contributed|SerialCommandManager
