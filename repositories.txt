@@ -8473,3 +8473,4 @@ https://github.com/lizardking/LD2410Async
 https://github.com/bitbank2/bb_proximity
 https://github.com/geekfactory/GFDisplay7S
 https://github.com/chipnorm/ChipNorm_DHT11
+https://github.com/bitbank2/bb_temperature
