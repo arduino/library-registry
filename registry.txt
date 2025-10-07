@@ -8468,3 +8468,4 @@ https://github.com/k3ldar/SerialCommandManager.git|Contributed|SerialCommandMana
 https://github.com/bitbank2/bb_temperature.git|Contributed|bb_temperature
 https://github.com/chipnorm/ChipNorm_DHT11.git|Contributed|ChipNorm_DHT11
 https://github.com/UNIT-Electronics-MX/unit_bme68x_library.git|Contributed|BME68x_UNIT_Electronics
+https://github.com/littlemanbuilds/RCLink.git|Contributed|RCLink
