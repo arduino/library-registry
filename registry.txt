@@ -8466,3 +8466,4 @@ https://github.com/MrDev-5000/PhotonCore.git|Contributed|PhotonCore
 https://github.com/geekfactory/GFDisplay7S.git|Contributed|Geek Factory GFDisplay7S Library
 https://github.com/k3ldar/SerialCommandManager.git|Contributed|SerialCommandManager
 https://github.com/bitbank2/bb_temperature.git|Contributed|bb_temperature
+https://github.com/chipnorm/ChipNorm_DHT11.git|Contributed|ChipNorm_DHT11
