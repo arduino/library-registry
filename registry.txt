@@ -8471,3 +8471,4 @@ https://github.com/UNIT-Electronics-MX/unit_bme68x_library.git|Contributed|BME68
 https://github.com/littlemanbuilds/RCLink.git|Contributed|RCLink
 https://github.com/C4rdoso/FilterDesigner.git|Contributed|FilterDesigner
 https://github.com/jmwanderer/tlv.arduino.git|Contributed|tlv
+https://github.com/zzvllvzz/SC03_C2H5OH.git|Contributed|SC03_C2H5OH
