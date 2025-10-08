@@ -1,3 +1,4 @@
+https://github.com/zzvllvzz/SC03_C2H5OH
 https://github.com/C4rdoso/FilterDesigner
 https://github.com/MrDev-5000/PhotonCore
 https://github.com/DIYables/DIYables-ESP32-WebServer
@@ -8477,3 +8478,4 @@ https://github.com/geekfactory/GFDisplay7S
 https://github.com/chipnorm/ChipNorm_DHT11
 https://github.com/bitbank2/bb_temperature
 https://github.com/UNIT-Electronics-MX/unit_bme68x_library
+https://github.com/jmwanderer/tlv.arduino
