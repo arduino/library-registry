@@ -8474,3 +8474,4 @@ https://github.com/jmwanderer/tlv.arduino.git|Contributed|tlv
 https://github.com/zzvllvzz/SC03_C2H5OH.git|Contributed|SC03_C2H5OH
 https://github.com/tdk-invn-oss/motion.arduino.ICM45689.git|Contributed|ICM45689
 https://github.com/tdk-invn-oss/motion.arduino.ICM45608.git|Contributed|ICM45608
+https://github.com/sciosense/as60xx-arduino.git|Contributed|ScioSense_AS60XX
