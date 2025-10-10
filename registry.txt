@@ -8381,7 +8381,7 @@ https://github.com/Rmin-code2005/sparkey_gyro_i2c.git|Contributed|sparkey_gyro_I
 https://github.com/KB-Sensor-Mart/iSYS4001.git|Contributed|iSYS4001
 https://github.com/milad-nikpendar/initAuthorization.git|Contributed|initAuthorization
 https://github.com/piruetasxyz/Perilla.git|Contributed|Perilla
-https://github.com/ezz-30/arduino_tinkeriot.git|Contributed|tinkeriot
+https://github.com/apauaie/arduino_tinkeriot.git|Contributed|tinkeriot
 https://github.com/piruetasxyz/Boton.git|Contributed|Boton
 https://github.com/ghi-electronics/duelink-libraries-arduino.git|Contributed|DUELink
 https://github.com/charlie731/Simple_Esp32WiFiManager.git|Contributed|Simple_Esp32WiFiManager
