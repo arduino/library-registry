@@ -8477,3 +8477,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM45608.git|Contributed|ICM45608
 https://github.com/sciosense/as60xx-arduino.git|Contributed|ScioSense_AS60XX
 https://github.com/dajakov/daedaluslink-arduino_esp32-lib.git|Contributed|DaedalusLink-ESP32
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library.git|Contributed|MoonMin Scanner Library
+https://github.com/Herobrine-pixel/MultiGestureLib.git|Contributed|MultiGestureLib
