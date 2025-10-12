@@ -1,3 +1,4 @@
+https://github.com/TechTronicsEngineering/AutoPlex7
 https://github.com/Herobrine-pixel/MultiGestureLib
 https://github.com/dajakov/daedaluslink-arduino_esp32-lib
 https://github.com/tdk-invn-oss/motion.arduino.ICM45689
