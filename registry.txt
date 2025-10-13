@@ -8484,3 +8484,4 @@ https://gitlab.com/Vishal1695/mvswifi_esp32.git|Contributed|mvswifi_esp32
 https://gitlab.com/Vishal1695/mvswifi_esp8266.git|Contributed|mvswifi_esp8266
 https://github.com/windnerd-labs/Windnerd-Core.git|Contributed|Windnerd_Core
 https://github.com/jaikulk14/Advanced-Oximeter.git|Contributed|AdvancedOximeter
+https://github.com/Alash-electronics/AlashMotorControlLite.git|Contributed|AlashMotorControlLite
