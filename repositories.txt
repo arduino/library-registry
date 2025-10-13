@@ -8487,6 +8487,7 @@ https://github.com/geekfactory/GFDisplay7S
 https://github.com/chipnorm/ChipNorm_DHT11
 https://github.com/bitbank2/bb_temperature
 https://github.com/UNIT-Electronics-MX/unit_bme68x_library
+https://github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
