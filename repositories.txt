@@ -1,3 +1,16 @@
+https://github.com/TechTronicsEngineering/AutoPlex7
+https://github.com/Herobrine-pixel/MultiGestureLib
+https://github.com/dajakov/daedaluslink-arduino_esp32-lib
+https://github.com/tdk-invn-oss/motion.arduino.ICM45689
+https://github.com/tdk-invn-oss/motion.arduino.ICM45608
+https://github.com/zzvllvzz/SC03_C2H5OH
+https://github.com/C4rdoso/FilterDesigner
+https://github.com/MrDev-5000/PhotonCore
+https://github.com/DIYables/DIYables-ESP32-WebServer
+https://github.com/Flamethr0wer/PS4Arduino
+https://github.com/pleasedontcode/POTA
+https://github.com/lucashudson-eng/PZEMPlus
+https://github.com/MrDev-5000/TimerKernel
 https://github.com/PWhite-Eng/SimpleNetManager
 https://github.com/TEXHOUM/TEXHOUM_SERVO
 https://github.com/TEXHOUM/TEXHOUM_MOTOR
@@ -49,6 +62,7 @@ https://github.com/gavinlyonsrepo/ST7789_LTSM
 https://github.com/PTSolns/BMx280
 https://github.com/Pallob-Gain/packet_device
 https://github.com/gavinlyonsrepo/display16_LTSM
+https://github.com/littlemanbuilds/RCLink
 https://github.com/littlemanbuilds/SnapshotBus
 https://github.com/littlemanbuilds/ESP32_MCPWM
 https://github.com/littlemanbuilds/Universal_Button
@@ -3136,6 +3150,7 @@ https://github.com/GyverLibs/TimerMs
 https://github.com/GyverLibs/UnixTime
 https://github.com/GyverLibs/VirtualButton
 https://github.com/GyverLibs/VolAnalyzer
+https://github.com/ErlingSigurdson/SegMap595
 https://github.com/h-c-c/Seven_Segment_Pixel
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
@@ -5541,6 +5556,8 @@ https://github.com/rei-vilo/PDLS_Common
 https://github.com/rei-vilo/PDLS_Basic
 https://github.com/PervasiveDisplays/Pervasive_Wide_Medium
 https://github.com/PervasiveDisplays/Pervasive_Wide_Small
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Large
+https://github.com/PervasiveDisplays/Pervasive_BWRY_Medium
 https://github.com/PervasiveDisplays/Pervasive_BWRY_Small
 https://github.com/PervasiveDisplays/Pervasive_Wide_Large
 https://github.com/PervasiveDisplays/Pervasive_Touch_Small
@@ -6112,6 +6129,7 @@ https://github.com/sciosense/ens21x-arduino
 https://github.com/sciosense/ens220-arduino
 https://github.com/sciosense/ens190-arduino
 https://github.com/sciosense/ufm01-arduino
+https://github.com/sciosense/as60xx-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
@@ -8239,6 +8257,7 @@ https://github.com/BestModules-Libraries/BMB22M181A
 https://github.com/BestModules-Libraries/BM25S2621-1
 https://github.com/BestModules-Libraries/BM25S4021-1
 https://github.com/Bina-Lee/PWM2motor_BNL
+https://gitlab.com/Vishal1695/fastled_min
 https://github.com/socialbodylab/UWB-MaUWB-AT
 https://github.com/tesla-jedi/PersistentJsonEEPROM
 https://bitbucket.org/jamesneko/lazy-serial
@@ -8252,6 +8271,7 @@ https://github.com/Faizyee/Socketyee
 https://github.com/ivanmari/bare-poller
 https://github.com/lahavg/QMI8658-Arduino-Library
 https://github.com/k3ldar/MovementDetector
+https://github.com/k3ldar/SerialCommandManager
 https://github.com/marcel-naderer/Lexo
 https://github.com/joshua-8/xrp-style-wpilib-comms
 https://github.com/bitbank2/bb_imu
@@ -8425,6 +8445,7 @@ https://github.com/Bitworx-cz/Updater
 https://github.com/7semi-solutions/7Semi-MAX31865-Arduino-Library
 https://github.com/vkumpan/TEA5767
 https://github.com/vkumpan/ActionButtons
+https://github.com/vkumpan/SSD1306
 https://github.com/arduino-libraries/Arduino_APDS9999
 https://github.com/7semi-solutions/7Semi-MCP23017-Arduino-Library
 https://github.com/tbwcjw/arduino-ps3mapi
