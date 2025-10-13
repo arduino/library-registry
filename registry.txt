@@ -8482,3 +8482,4 @@ https://github.com/TechTronicsEngineering/AutoPlex7.git|Contributed|AutoPlex7
 https://github.com/ErlingSigurdson/SegMap595.git|Contributed|SegMap595
 https://gitlab.com/Vishal1695/mvswifi_esp32.git|Contributed|mvswifi_esp32
 https://gitlab.com/Vishal1695/mvswifi_esp8266.git|Contributed|mvswifi_esp8266
+https://github.com/windnerd-labs/Windnerd-Core.git|Contributed|Windnerd_Core
