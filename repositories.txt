@@ -8474,3 +8474,5 @@ https://github.com/Alteriom/EByte_LoRa_E220_Series_Library
 https://github.com/SvenRosvall/VLCB-Arduino
 https://github.com/Alteriom/painlessMesh
 https://github.com/mitra42/frugal-iot
+https://gitlab.com/Vishal1695/mvswifi_esp32
+https://gitlab.com/Vishal1695/mvswifi_esp8266
