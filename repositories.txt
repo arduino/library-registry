@@ -1,3 +1,10 @@
+https://github.com/Alash-electronics/AlashMotorControlLite
+https://github.com/windnerd-labs/Windnerd-Core
+https://github.com/TechTronicsEngineering/AutoPlex7
+https://github.com/Herobrine-pixel/MultiGestureLib
+https://github.com/dajakov/daedaluslink-arduino_esp32-lib
+https://github.com/tdk-invn-oss/motion.arduino.ICM45689
+https://github.com/tdk-invn-oss/motion.arduino.ICM45608
 https://github.com/zzvllvzz/SC03_C2H5OH
 https://github.com/C4rdoso/FilterDesigner
 https://github.com/MrDev-5000/PhotonCore
@@ -3145,6 +3152,7 @@ https://github.com/GyverLibs/TimerMs
 https://github.com/GyverLibs/UnixTime
 https://github.com/GyverLibs/VirtualButton
 https://github.com/GyverLibs/VolAnalyzer
+https://github.com/ErlingSigurdson/SegMap595
 https://github.com/h-c-c/Seven_Segment_Pixel
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
@@ -6123,6 +6131,7 @@ https://github.com/sciosense/ens21x-arduino
 https://github.com/sciosense/ens220-arduino
 https://github.com/sciosense/ens190-arduino
 https://github.com/sciosense/ufm01-arduino
+https://github.com/sciosense/as60xx-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
@@ -8479,3 +8488,7 @@ https://github.com/chipnorm/ChipNorm_DHT11
 https://github.com/bitbank2/bb_temperature
 https://github.com/UNIT-Electronics-MX/unit_bme68x_library
 https://github.com/jmwanderer/tlv.arduino
+https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
+https://gitlab.com/Vishal1695/mvswifi_esp32
+https://gitlab.com/Vishal1695/mvswifi_esp8266
+https://github.com/jaikulk14/Advanced-Oximeter
