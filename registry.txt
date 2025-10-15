@@ -8492,3 +8492,4 @@ https://github.com/arduino-libraries/Arduino_RouterBridge.git|Arduino|Arduino_Ro
 https://github.com/arduino-libraries/Arduino_RPCLite.git|Arduino|Arduino_RPClite
 https://github.com/vicharak-in/shrike_flash.git|Contributed|Shrike Flash Library
 https://github.com/nfrproducts/probot-lib.git|Contributed|probot
+https://github.com/vovagorodok/ArduinoBleBattery.git|Contributed|vovagorodok_ArduinoBleBattery
