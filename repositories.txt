@@ -7002,6 +7002,7 @@ https://github.com/tanakamasayuki/I2C_MPU6886
 https://github.com/tanakamasayuki/I2C_SLG
 https://github.com/tanakamasayuki/LinxESP32
 https://github.com/tanakamasayuki/UlpDebug
+https://github.com/tanakamasayuki/ESP32CertBundle
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
