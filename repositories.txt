@@ -8497,3 +8497,4 @@ https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
 https://gitlab.com/Vishal1695/mvswifi_esp8266
 https://github.com/jaikulk14/Advanced-Oximeter
+https://github.com/vicharak-in/shrike_flash
