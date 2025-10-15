@@ -1,3 +1,4 @@
+https://github.com/m5stack/M5Unit-Fingerprint2
 https://github.com/Alash-electronics/AlashMotorControlLite
 https://github.com/windnerd-labs/Windnerd-Core
 https://github.com/TechTronicsEngineering/AutoPlex7
