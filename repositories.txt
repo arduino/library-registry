@@ -1,3 +1,4 @@
+https://github.com/automatician/EEProm_Safe_Wear_Level
 https://github.com/DIYables/DIYables-ESP32-WebApps-Library
 https://github.com/nfrproducts/probot-lib
 https://github.com/m5stack/M5Unit-Fingerprint2
