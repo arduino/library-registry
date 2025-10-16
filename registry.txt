@@ -8496,3 +8496,4 @@ https://github.com/vovagorodok/ArduinoBleBattery.git|Contributed|vovagorodok_Ard
 https://github.com/DIYables/DIYables-ESP32-WebApps-Library.git|Contributed|DIYables ESP32 WebApps
 https://github.com/automatician/EEProm_Safe_Wear_Level.git|Contributed|EEProm_Safe_Wear_Level
 https://github.com/Rmin-code2005/sparkey_gyro.git|Contributed|sparkey_gyro
+https://github.com/microbotsio/ProtoBot.git|Contributed|ProtoBot
