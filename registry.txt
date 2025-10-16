@@ -8494,3 +8494,4 @@ https://github.com/vicharak-in/shrike_flash.git|Contributed|Shrike Flash Library
 https://github.com/nfrproducts/probot-lib.git|Contributed|probot
 https://github.com/vovagorodok/ArduinoBleBattery.git|Contributed|vovagorodok_ArduinoBleBattery
 https://github.com/DIYables/DIYables-ESP32-WebApps-Library.git|Contributed|DIYables ESP32 WebApps
+https://github.com/automatician/EEProm_Safe_Wear_Level.git|Contributed|EEProm_Safe_Wear_Level
