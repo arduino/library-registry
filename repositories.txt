@@ -35,7 +35,7 @@ https://github.com/Hyperion-Robotics/wCK_Series
 https://github.com/DIYables/DIYables-WebApps-Library
 https://github.com/m5stack/ATOM-PRINTER
 https://github.com/Droidbane/ESPWiFiManagerByDroidbane
-https://github.com/ezz-30/arduino_tinkeriot
+https://github.com/apauaie/arduino_tinkeriot
 https://github.com/m5stack/M5Unit-MQ
 https://github.com/milad-nikpendar/initAuthorization
 https://github.com/KB-Sensor-Mart/iSYS4001
