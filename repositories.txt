@@ -6,6 +6,7 @@ https://github.com/m5stack/M5Unit-Fingerprint2
 https://github.com/Alash-electronics/AlashMotorControlLite
 https://github.com/windnerd-labs/Windnerd-Core
 https://github.com/TechTronicsEngineering/AutoPlex7
+https://github.com/nickthelegend/AlgoSense
 https://github.com/Herobrine-pixel/MultiGestureLib
 https://github.com/dajakov/daedaluslink-arduino_esp32-lib
 https://github.com/tdk-invn-oss/motion.arduino.ICM45689
