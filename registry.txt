@@ -8499,3 +8499,4 @@ https://github.com/Rmin-code2005/sparkey_gyro.git|Contributed|sparkey_gyro
 https://github.com/microbotsio/ProtoBot.git|Contributed|ProtoBot
 https://github.com/MAKE-arduino/EasyENC.git|Contributed|EasyENC
 https://github.com/dejwk/roo_transport.git|Contributed|roo_transport
+https://github.com/nickthelegend/AlgoSense.git|Contributed|AlgoIoT
