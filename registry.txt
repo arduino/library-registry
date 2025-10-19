@@ -8502,3 +8502,4 @@ https://github.com/dejwk/roo_transport.git|Contributed|roo_transport
 https://github.com/nickthelegend/AlgoSense.git|Contributed|AlgoIoT
 https://github.com/Hamas888/ChronoLog.git|Contributed|ChronoLog
 https://github.com/RobTillaart/Logic.git|Contributed|logic
+https://github.com/dejwk/roo_locale.git|Contributed|roo_locale
