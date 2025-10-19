@@ -8503,3 +8503,4 @@ https://github.com/nickthelegend/AlgoSense.git|Contributed|AlgoIoT
 https://github.com/Hamas888/ChronoLog.git|Contributed|ChronoLog
 https://github.com/RobTillaart/Logic.git|Contributed|logic
 https://github.com/dejwk/roo_locale.git|Contributed|roo_locale
+https://github.com/4project-co-il/PlugAndPlay.git|Contributed|PlugAndPlay
