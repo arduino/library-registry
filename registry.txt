@@ -8377,7 +8377,7 @@ https://github.com/YoungEngineerMixertiX/MegaTPA.git|Contributed|MegaTPA
 https://github.com/muki01/OBD2_CAN_Bus_Library.git|Contributed|OBD2 CanBus
 https://github.com/RobTillaart/L9110.git|Contributed|L9110
 https://github.com/7semi-solutions/7Semi-ADS7830-Arduino-Library.git|Contributed|7Semi ADS7830
-https://github.com/Rmin-code2005/sparkey_gyro_i2c.git|Contributed|sparkey_gyro_I2C
+https://github.com/Rmin-code2005/sparkey_gyro.git|Contributed|sparkey_gyro_I2C
 https://github.com/KB-Sensor-Mart/iSYS4001.git|Contributed|iSYS4001
 https://github.com/milad-nikpendar/initAuthorization.git|Contributed|initAuthorization
 https://github.com/piruetasxyz/Perilla.git|Contributed|Perilla
