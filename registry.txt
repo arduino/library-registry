@@ -8508,3 +8508,4 @@ https://github.com/geekfactory/GFLED.git|Contributed|Geek Factory GFLED Library
 https://github.com/davidsecacontrol/FineTune-BMX160.git|Contributed|FineTuneBMX160
 https://github.com/skipperwraith/LTC2625.git|Contributed|LTC2625
 https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS.git|Contributed|MPU6050_VibrationRMS
+https://github.com/Bridgetek/EVE5-Arduino-Dev.git|Contributed|Bridgetek_EVE5
