@@ -1,3 +1,4 @@
+https://github.com/juanjomartinf/JMBase
 https://github.com/skipperwraith/LTC2625
 https://github.com/davidsecacontrol/FineTune-BMX160
 https://github.com/MAKE-arduino/EasyENC
