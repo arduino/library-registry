@@ -8512,3 +8512,4 @@ https://github.com/Bridgetek/EVE5-Arduino-Dev.git|Contributed|Bridgetek_EVE5
 https://github.com/kay-bs/KK-Buffer.git|Contributed|KK-Buffer
 https://github.com/juanjomartinf/JMBase.git|Contributed|JMBase
 https://github.com/Zeppelin500/DlmsCosemLib.git|Contributed|DlmsCosemLib
+https://github.com/Bridgetek/EVE1-Arduino-Dev.git|Contributed|Bridgetek_EVE1
