@@ -8513,3 +8513,4 @@ https://github.com/kay-bs/KK-Buffer.git|Contributed|KK-Buffer
 https://github.com/juanjomartinf/JMBase.git|Contributed|JMBase
 https://github.com/Zeppelin500/DlmsCosemLib.git|Contributed|DlmsCosemLib
 https://github.com/Bridgetek/EVE1-Arduino-Dev.git|Contributed|Bridgetek_EVE1
+https://github.com/TamsinRose/CAN_Message_Arduino.git|Contributed|CAN_Message_Arduino
