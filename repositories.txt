@@ -8518,3 +8518,4 @@ https://github.com/4project-co-il/PlugAndPlay
 https://github.com/geekfactory/GFLED
 https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS
 https://github.com/Bridgetek/EVE5-Arduino-Dev
+https://github.com/nikki-build/nikki.esp32
