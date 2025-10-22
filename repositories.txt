@@ -8519,4 +8519,4 @@ https://github.com/geekfactory/GFLED
 https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS
 https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
-https://github.com/TamsinRose/CAN_Message_Arduino
+https://github.com/TamsinRose/CANMessage
