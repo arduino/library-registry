@@ -6293,6 +6293,7 @@ https://github.com/Sensirion/arduino-i2c-sts4x
 https://github.com/sensirion/arduino-i2c-svm4x
 https://github.com/Sensirion/arduino-i2c-sfx6xxx
 https://github.com/Sensirion/arduino-i2c-sps30
+https://github.com/Sensirion/arduino-i2c-sfm3505
 https://github.com/Sensirion/arduino-sht
 https://github.com/Sensirion/arduino-uart-sen44
 https://github.com/Sensirion/arduino-uart-sfa3x
