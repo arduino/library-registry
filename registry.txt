@@ -8516,3 +8516,4 @@ https://github.com/Bridgetek/EVE1-Arduino-Dev.git|Contributed|Bridgetek_EVE1
 https://github.com/TamsinRose/CAN_Message_Arduino.git|Contributed|CAN_Message_Arduino
 https://github.com/thomasgeissl/NeopixelCommander.git|Contributed|NeopixelCommander
 https://github.com/DFRobot/DFRobot_CT1780.git|Contributed|DFRobot_CT1780
+https://github.com/Sensirion/arduino-i2c-sfm3505.git|Contributed|Sensirion I2C SFM3505
