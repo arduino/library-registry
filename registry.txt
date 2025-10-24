@@ -8518,3 +8518,4 @@ https://github.com/thomasgeissl/NeopixelCommander.git|Contributed|NeopixelComman
 https://github.com/DFRobot/DFRobot_CT1780.git|Contributed|DFRobot_CT1780
 https://github.com/Sensirion/arduino-i2c-sfm3505.git|Contributed|Sensirion I2C SFM3505
 https://github.com/arduino-libraries/Arduino_LTR381RGB.git|Arduino|Arduino_LTR381RGB
+https://github.com/stm32duino/X-NUCLEO-IKS5A1.git|Contributed|STM32duino X-NUCLEO-IKS5A1
