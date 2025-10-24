@@ -1,7 +1,7 @@
 https://github.com/juanjomartinf/JMBase
 https://github.com/sachinthagayajith/AT21CS01-Arduino-Library
 https://github.com/skipperwraith/LTC2625
-https://github.com/ArduinoLibHub/ArduinMFP
+https://github.com/ArduinoLibHub/SimpleMFP
 https://github.com/davidsecacontrol/FineTune-BMX160
 https://github.com/MAKE-arduino/EasyENC
 https://github.com/Hamas888/ChronoLog
