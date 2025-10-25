@@ -8521,3 +8521,4 @@ https://github.com/arduino-libraries/Arduino_LTR381RGB.git|Arduino|Arduino_LTR38
 https://github.com/stm32duino/X-NUCLEO-IKS5A1.git|Contributed|STM32duino X-NUCLEO-IKS5A1
 https://github.com/sachinthagayajith/AT21CS01-Arduino-Library.git|Contributed|AT21CS01
 https://github.com/ArduinoLibHub/SimpleMFP.git|Contributed|SimpleMFP
+https://github.com/fmeng/EspMapping.git|Contributed|EspMapping
