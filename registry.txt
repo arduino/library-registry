@@ -8525,3 +8525,4 @@ https://github.com/fmeng/EspMapping.git|Contributed|EspMapping
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic.git|Contributed|MinimalUltrasonic
 https://github.com/k3ldar/NextionControl.git|Contributed|NextionControl
 https://github.com/RobTillaart/logicAnalyzer.git|Contributed|logicAnalyzer
+https://github.com/chipnorm/TM1637.git|Contributed|ChipNorm_TM1637
