@@ -8524,3 +8524,4 @@ https://github.com/ArduinoLibHub/SimpleMFP.git|Contributed|SimpleMFP
 https://github.com/fmeng/EspMapping.git|Contributed|EspMapping
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic.git|Contributed|MinimalUltrasonic
 https://github.com/k3ldar/NextionControl.git|Contributed|NextionControl
+https://github.com/RobTillaart/logicAnalyzer.git|Contributed|logicAnalyzer
