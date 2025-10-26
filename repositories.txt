@@ -8531,3 +8531,4 @@ https://github.com/Bridgetek/EVE1-Arduino-Dev
 https://github.com/TamsinRose/CAN_Message_Arduino
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic
+https://github.com/chipnorm/TM1637
