@@ -8532,3 +8532,4 @@ https://github.com/Upartech/RCSwitchRmt.git|Contributed|RCSwitchRmt
 https://github.com/FranciscoRos/UniversalRadioWSN.git|Contributed|UniversalRadioWSN
 https://github.com/FranciscoRos/AdaptiveTXWSN.git|Contributed|AdaptiveTXWSN
 https://github.com/FranciscoRos/CodecWSN.git|Contributed|CodecWSN
+https://github.com/PTSolns/PTSolns_AHTx.git|Contributed|PTSolns_AHTx
