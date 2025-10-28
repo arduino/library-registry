@@ -6025,6 +6025,7 @@ https://github.com/RobTillaart/TinyKT0803
 https://github.com/RobTillaart/tinySHT2x
 https://github.com/RobTillaart/TLC5917
 https://github.com/RobTillaart/TLC5947
+https://github.com/RobTillaart/TLCBuffer
 https://github.com/RobTillaart/TM1637_RT
 https://github.com/RobTillaart/TOPMAX
 https://github.com/RobTillaart/TOPMIN
