@@ -8530,3 +8530,5 @@ https://github.com/RobTillaart/RLCBuffer.git|Contributed|RLCBuffer
 https://github.com/DigitalCodesign/MentorBit-FinalCarrera.git|Contributed|MentorBit-FC
 https://github.com/Upartech/RCSwitchRmt.git|Contributed|RCSwitchRmt
 https://github.com/FranciscoRos/UniversalRadioWSN.git|Contributed|UniversalRadioWSN
+https://github.com/FranciscoRos/AdaptiveTXWSN.git|Contributed|AdaptiveTXWSN
+https://github.com/FranciscoRos/CodecWSN.git|Contributed|CodecWSN
