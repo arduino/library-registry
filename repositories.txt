@@ -1,4 +1,5 @@
 https://github.com/PTSolns/PTSolns_AHTx
+https://github.com/PTSolns/PTSolns_VEML7700
 https://github.com/fmeng/EspMapping.git
 https://github.com/juanjomartinf/JMBase
 https://github.com/sachinthagayajith/AT21CS01-Arduino-Library
