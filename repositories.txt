@@ -5980,6 +5980,7 @@ https://github.com/RobTillaart/RADAR
 https://github.com/RobTillaart/RAIN
 https://github.com/RobTillaart/randomHelpers
 https://github.com/RobTillaart/relativity
+https://github.com/RobTillaart/RLCBuffer
 https://github.com/RobTillaart/rotaryDecoder
 https://github.com/RobTillaart/rotaryDecoder8
 https://github.com/RobTillaart/rotaryDecoderSwitch
