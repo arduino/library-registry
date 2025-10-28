@@ -8527,3 +8527,4 @@ https://github.com/chipnorm/TM1637.git|Contributed|ChipNorm_TM1637
 https://github.com/DavinderHanda/HandaDigitalSpeaker.git|Contributed|HandaDigitalSpeaker
 https://github.com/chipnorm/SHT21.git|Contributed|ChipNorm_SHT21
 https://github.com/benjistokman/FastRGB.git|Contributed|FastRGB
+https://github.com/RobTillaart/TLCBuffer.git|Contributed|TLCBuffer
