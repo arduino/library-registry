@@ -8540,3 +8540,4 @@ https://github.com/Upartech/RCSwitchRmt
 https://github.com/FranciscoRos/UniversalRadioWSN
 https://github.com/FranciscoRos/AdaptiveTXWSN
 https://github.com/FranciscoRos/CodecWSN
+https://github.com/egnor/everyday_pixel_fonts
