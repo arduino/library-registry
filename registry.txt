@@ -8528,3 +8528,4 @@ https://github.com/DavinderHanda/HandaDigitalSpeaker.git|Contributed|HandaDigita
 https://github.com/chipnorm/SHT21.git|Contributed|ChipNorm_SHT21
 https://github.com/benjistokman/FastRGB.git|Contributed|FastRGB
 https://github.com/RobTillaart/TLCBuffer.git|Contributed|TLCBuffer
+https://github.com/RobTillaart/RLCBuffer.git|Contributed|RLCBuffer
