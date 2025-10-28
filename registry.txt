@@ -8529,3 +8529,4 @@ https://github.com/RobTillaart/TLCBuffer.git|Contributed|TLCBuffer
 https://github.com/RobTillaart/RLCBuffer.git|Contributed|RLCBuffer
 https://github.com/DigitalCodesign/MentorBit-FinalCarrera.git|Contributed|MentorBit-FC
 https://github.com/Upartech/RCSwitchRmt.git|Contributed|RCSwitchRmt
+https://github.com/FranciscoRos/UniversalRadioWSN.git|Contributed|UniversalRadioWSN
