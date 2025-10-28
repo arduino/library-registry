@@ -8535,3 +8535,4 @@ https://github.com/benjistokman/FastRGB
 https://github.com/DavinderHanda/HandaDigitalSpeaker
 https://github.com/chipnorm/SHT21
 https://github.com/DigitalCodesign/MentorBit-FinalCarrera
+https://github.com/Upartech/RCSwitchRmt
