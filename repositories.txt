@@ -8458,7 +8458,6 @@ https://github.com/jonavarro22/MAX7SegmentDisplay
 https://github.com/sutiana/WiFiConfigManager
 https://github.com/7semi-solutions/7Semi-DS18B20-Arduino-Library
 https://github.com/7semi-solutions/7Semi-MAX17048-Arduino-Library
-https://github.com/Rmin-code2005/sparkey_gyro_I2C
 https://github.com/BlueskyBV/Easy_Web_Remote_Control-ESP32-
 https://github.com/JackHat1/MT07_CAN_Project
 https://github.com/7semi-solutions/7Semi-HX711-Arduino-Library
