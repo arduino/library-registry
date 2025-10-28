@@ -8537,3 +8537,5 @@ https://github.com/chipnorm/SHT21
 https://github.com/DigitalCodesign/MentorBit-FinalCarrera
 https://github.com/Upartech/RCSwitchRmt
 https://github.com/FranciscoRos/UniversalRadioWSN
+https://github.com/FranciscoRos/AdaptiveTXWSN
+https://github.com/FranciscoRos/CodecWSN
