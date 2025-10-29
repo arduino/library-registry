@@ -8540,3 +8540,4 @@ https://github.com/recepsenbas/DWIN-Unified.git|Contributed|DWIN Unified
 https://github.com/chipnorm/VL53L0X.git|Contributed|ChipNorm_VL53L0X
 https://github.com/FranciscoRos/EnergyWSN.git|Contributed|EnergyWSN
 https://github.com/RobTillaart/DAMM.git|Contributed|DAMM
+https://github.com/rochat2/v202_protocol.git|Contributed|v202_protocol
