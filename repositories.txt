@@ -8543,4 +8543,5 @@ https://github.com/FranciscoRos/AdaptiveTXWSN
 https://github.com/FranciscoRos/CodecWSN
 https://github.com/egnor/everyday_pixel_fonts
 https://github.com/egnor/ok_arduino_logging
+https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
