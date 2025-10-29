@@ -8535,3 +8535,4 @@ https://github.com/FranciscoRos/CodecWSN.git|Contributed|CodecWSN
 https://github.com/PTSolns/PTSolns_AHTx.git|Contributed|PTSolns_AHTx
 https://github.com/egnor/everyday_pixel_fonts.git|Contributed|Everyday Pixel Fonts
 https://github.com/PTSolns/PTSolns_VEML7700.git|Contributed|PTSolns_VEML7700
+https://github.com/egnor/ok_arduino_logging.git|Contributed|OK Arduino Logging
