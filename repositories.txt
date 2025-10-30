@@ -1,4 +1,6 @@
 https://github.com/rochat2/v202_protocol
+https://github.com/jobitjoseph/SoftWire_CH32
+https://github.com/franfreezy/e220_400t22d-lora-libra
 https://github.com/PTSolns/PTSolns_AHTx
 https://github.com/PTSolns/PTSolns_VEML7700
 https://github.com/fmeng/EspMapping.git
