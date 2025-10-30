@@ -8543,3 +8543,4 @@ https://github.com/RobTillaart/DAMM.git|Contributed|DAMM
 https://github.com/rochat2/v202_protocol.git|Contributed|v202_protocol
 https://github.com/franfreezy/e220_400t22d-lora-library.git|Contributed|E220LoRa
 https://github.com/jobitjoseph/SoftWire_CH32.git|Contributed|SoftWire_CH32
+https://github.com/pbudel/QuarkX.git|Contributed|QuarkX
