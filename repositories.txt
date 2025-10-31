@@ -8552,3 +8552,4 @@ https://github.com/egnor/ok_arduino_logging
 https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
 https://github.com/FranciscoRos/EnergyWSN
+https://github.com/FT-tele/ST7306_8color_lvgl
