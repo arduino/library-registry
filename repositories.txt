@@ -125,6 +125,7 @@ https://github.com/muchaste/Ardoxy/
 https://github.com/aneesharnavch/microdsp
 https://github.com/senex-code/CarBase
 https://github.com/dayatkun01/ClearDS1302/
+https://github.com/tailspb/tec02xx/tree/main/Arduino/Tec02XX
 https://github.com/OlivierPcheux/MTobjects
 https://github.com/Valdemir-DSW/val_flash_spi
 https://github.com/alecxcode/LX16A-bus
