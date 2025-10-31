@@ -8545,3 +8545,4 @@ https://github.com/franfreezy/e220_400t22d-lora-library.git|Contributed|E220LoRa
 https://github.com/jobitjoseph/SoftWire_CH32.git|Contributed|SoftWire_CH32
 https://github.com/pbudel/QuarkX.git|Contributed|QuarkX
 https://github.com/tanakamasayuki/ESP32SerialCtl.git|Contributed|ESP32SerialCtl
+https://github.com/FT-tele/ST7306_8color_lvgl.git|Contributed|ST7306_LCD
