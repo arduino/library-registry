@@ -8551,3 +8551,4 @@ https://github.com/tailspb/Tec02XX.git|Contributed|Tec02XX
 https://github.com/nicolito128/DHT_N128.git|Contributed|DHT_N128
 https://github.com/bull-m/BULLM_ExtendModule.git|Contributed|BULLM_ExtendModule
 https://github.com/Jakkapan-a/AssuraVisionSerial.git|Contributed|AssuraVisionSerial
+https://github.com/atestb/MCP4151-Digital-Potentiometer.git|Contributed|MCP4151 Digital Potentiometer
