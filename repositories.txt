@@ -1,4 +1,7 @@
 https://github.com/atestb/MCP4151-Digital-Potentiometer
+https://github.com/nicolito128/DHT_N128
+https://github.com/steamicc/MCP23009E
+https://github.com/pbudel/QuarkX
 https://github.com/jobitjoseph/SoftWire_CH32
 https://github.com/franfreezy/e220_400t22d-lora-library
 https://github.com/rochat2/v202_protocol
@@ -64,6 +67,7 @@ https://github.com/deepanshu-deshwal/SL002_DHT11
 https://github.com/deepanshu-deshwal/SL001_Deepanshu
 https://github.com/cocoisarobo/skytraq-navic
 https://github.com/LordofRobots/LoR_v3
+https://github.com/tailspb/Tec02XX
 https://github.com/derdoktor667/DShotRMT
 https://github.com/derdoktor667/FlyskyIBUS
 https://github.com/kenchow96/faster-trig-2040
@@ -7031,6 +7035,7 @@ https://github.com/tanakamasayuki/I2C_SLG
 https://github.com/tanakamasayuki/LinxESP32
 https://github.com/tanakamasayuki/UlpDebug
 https://github.com/tanakamasayuki/ESP32CertBundle
+https://github.com/tanakamasayuki/ESP32SerialCtl
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8551,3 +8556,6 @@ https://github.com/egnor/ok_arduino_logging
 https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
 https://github.com/FranciscoRos/EnergyWSN
+https://github.com/FT-tele/ST7306_8color_lvgl
+https://github.com/bull-m/BULLM_ExtendModule
+https://github.com/Jakkapan-a/AssuraVisionSerial.git
