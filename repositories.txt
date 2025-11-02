@@ -8557,3 +8557,4 @@ https://github.com/recepsenbas/DWIN-Unified
 https://github.com/FranciscoRos/EnergyWSN
 https://github.com/FT-tele/ST7306_8color_lvgl
 https://github.com/bull-m/BULLM_ExtendModule
+https://github.com/Jakkapan-a/AssuraVisionSerial.git
