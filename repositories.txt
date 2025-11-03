@@ -8560,3 +8560,4 @@ https://github.com/FT-tele/ST7306_8color_lvgl
 https://github.com/bull-m/BULLM_ExtendModule
 https://github.com/Jakkapan-a/AssuraVisionSerial.git
 https://github.com/AIS-DeviceIntegration/AIS_4G_EXTENSION_BOARD
+https://github.com/adafruit/WiFiNINA
