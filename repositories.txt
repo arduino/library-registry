@@ -8566,3 +8566,4 @@ https://github.com/bull-m/BULLM_ExtendModule
 https://github.com/Jakkapan-a/AssuraVisionSerial.git
 https://github.com/AIS-DeviceIntegration/AIS_4G_EXTENSION_BOARD
 https://github.com/adafruit/WiFiNINA
+https://github.com/sensebox/DNMSI2C
