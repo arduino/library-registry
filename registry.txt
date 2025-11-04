@@ -8555,3 +8555,4 @@ https://github.com/atestb/MCP4151-Digital-Potentiometer.git|Contributed|MCP4151 
 https://github.com/AIS-DeviceIntegration/AIS_4G_EXTENSION_BOARD.git|Contributed|AIS_4G_EXTENSION_BOARD
 https://github.com/adafruit/WiFiNINA.git|Recommended|WiFiNINA_-_Adafruit_Fork
 https://github.com/BojanJurca/cin-cout-for-Arduino.git|Contributed|CinCout
+https://github.com/bonezegei/Bonezegei_74HC595.git|Contributed|Bonezegei_74HC595
