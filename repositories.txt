@@ -1,3 +1,4 @@
+https://github.com/szilvasyz/DCF77FreeRTOS.git
 https://github.com/vicharak-in/shrike_arduino.git
 https://github.com/ienai-SPACE/ADC128S_Arduino
 https://github.com/BojanJurca/cin-cout-for-Arduino
