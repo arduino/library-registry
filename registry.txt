@@ -8558,3 +8558,4 @@ https://github.com/BojanJurca/cin-cout-for-Arduino.git|Contributed|CinCout
 https://github.com/bonezegei/Bonezegei_74HC595.git|Contributed|Bonezegei_74HC595
 https://github.com/egnor/ok_arduino_little_layout.git|Contributed|OK Little Layout
 https://github.com/ienai-SPACE/ADC128S_Arduino.git|Contributed|IENAI ADC128S
+https://github.com/vicharak-in/shrike_arduino.git|Contributed|Shrike
