@@ -8561,3 +8561,4 @@ https://github.com/ienai-SPACE/ADC128S_Arduino.git|Contributed|IENAI ADC128S
 https://github.com/vicharak-in/shrike_arduino.git|Contributed|Shrike
 https://github.com/sensebox/DNMSI2C.git|Contributed|DNMSI2C
 https://github.com/szilvasyz/DCF77FreeRTOS.git|Contributed|DCF77FreeRTOS
+https://github.com/me-RK/MAX7219_CH32.git|Contributed|MAX7219_CH32
