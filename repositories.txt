@@ -1,3 +1,4 @@
+https://github.com/me-RK/MAX7219_CH32
 https://github.com/szilvasyz/DCF77FreeRTOS.git
 https://github.com/vicharak-in/shrike_arduino.git
 https://github.com/ienai-SPACE/ADC128S_Arduino
