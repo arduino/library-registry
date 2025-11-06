@@ -8567,3 +8567,4 @@ https://github.com/Bridgetek/EVE2-Arduino-Dev.git|Contributed|Bridgetek_EVE2
 https://github.com/Bridgetek/EVE2-2-Arduino-Dev.git|Contributed|Bridgetek_EVE2_2
 https://github.com/steinundfloete/MIDI-NRPN.git|Contributed|MIDI-NRPN
 https://github.com/arduino-libraries/Arduino_USBHIDHost.git|Arduino|Arduino_USBHIDHost
+https://github.com/VLPLAY-Games/Xeno-Language.git|Contributed|Xeno Language
