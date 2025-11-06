@@ -8565,3 +8565,4 @@ https://github.com/me-RK/MAX7219_CH32.git|Contributed|MAX7219_CH32
 https://github.com/tanakamasayuki/EmbedFS.git|Contributed|EmbedFS
 https://github.com/Bridgetek/EVE2-Arduino-Dev.git|Contributed|Bridgetek_EVE2
 https://github.com/Bridgetek/EVE2-2-Arduino-Dev.git|Contributed|Bridgetek_EVE2_2
+https://github.com/steinundfloete/MIDI-NRPN.git|Contributed|MIDI-NRPN
