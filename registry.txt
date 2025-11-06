@@ -8563,3 +8563,5 @@ https://github.com/sensebox/DNMSI2C.git|Contributed|DNMSI2C
 https://github.com/szilvasyz/DCF77FreeRTOS.git|Contributed|DCF77FreeRTOS
 https://github.com/me-RK/MAX7219_CH32.git|Contributed|MAX7219_CH32
 https://github.com/tanakamasayuki/EmbedFS.git|Contributed|EmbedFS
+https://github.com/Bridgetek/EVE2-Arduino-Dev.git|Contributed|Bridgetek_EVE2
+https://github.com/Bridgetek/EVE2-2-Arduino-Dev.git|Contributed|Bridgetek_EVE2_2
