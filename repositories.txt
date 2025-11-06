@@ -1339,6 +1339,7 @@ https://github.com/arduino-libraries/Arduino_SensorKit
 https://github.com/arduino-libraries/Arduino_SerialUpdater
 https://github.com/arduino-libraries/Arduino_Threads
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
+https://github.com/arduino-libraries/Arduino_USBHIDHost
 https://github.com/arduino-libraries/Arduino_USBHostMbed5
 https://github.com/arduino-libraries/ArduinoBearSSL
 https://github.com/arduino-libraries/ArduinoBLE
