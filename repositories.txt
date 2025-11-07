@@ -8575,3 +8575,4 @@ https://github.com/adafruit/WiFiNINA
 https://github.com/sensebox/DNMSI2C
 https://github.com/steinundfloete/MIDI-NRPN
 https://github.com/VLPLAY-Games/Xeno-Language
+https://github.com/iory/arduino-ics
