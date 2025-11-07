@@ -1,3 +1,15 @@
+https://github.com/me-RK/MAX7219_CH32
+https://github.com/szilvasyz/DCF77FreeRTOS.git
+https://github.com/vicharak-in/shrike_arduino.git
+https://github.com/ienai-SPACE/ADC128S_Arduino
+https://github.com/BojanJurca/cin-cout-for-Arduino
+https://github.com/atestb/MCP4151-Digital-Potentiometer
+https://github.com/nicolito128/DHT_N128
+https://github.com/steamicc/MCP23009E
+https://github.com/pbudel/QuarkX
+https://github.com/jobitjoseph/SoftWire_CH32
+https://github.com/franfreezy/e220_400t22d-lora-library
+https://github.com/rochat2/v202_protocol
 https://github.com/PTSolns/PTSolns_AHTx
 https://github.com/PTSolns/PTSolns_VEML7700
 https://github.com/fmeng/EspMapping.git
@@ -60,6 +72,7 @@ https://github.com/deepanshu-deshwal/SL002_DHT11
 https://github.com/deepanshu-deshwal/SL001_Deepanshu
 https://github.com/cocoisarobo/skytraq-navic
 https://github.com/LordofRobots/LoR_v3
+https://github.com/tailspb/Tec02XX
 https://github.com/derdoktor667/DShotRMT
 https://github.com/derdoktor667/FlyskyIBUS
 https://github.com/kenchow96/faster-trig-2040
@@ -1326,6 +1339,7 @@ https://github.com/arduino-libraries/Arduino_SensorKit
 https://github.com/arduino-libraries/Arduino_SerialUpdater
 https://github.com/arduino-libraries/Arduino_Threads
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
+https://github.com/arduino-libraries/Arduino_USBHIDHost
 https://github.com/arduino-libraries/Arduino_USBHostMbed5
 https://github.com/arduino-libraries/ArduinoBearSSL
 https://github.com/arduino-libraries/ArduinoBLE
@@ -1823,6 +1837,7 @@ https://github.com/bonezegei/Bonezegei_WS2812
 https://github.com/bonezegei/Bonezegei_XPT2046
 https://github.com/bonezegei/Bonezegei_XPT2046v2
 https://github.com/bonezegei/Bonezegei_JSON
+https://github.com/bonezegei/Bonezegei_74HC595
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
@@ -5806,6 +5821,7 @@ https://github.com/RobTillaart/DAC8560
 https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/DAC8574
 https://github.com/RobTillaart/DAC53001
+https://github.com/RobTillaart/DAMM
 https://github.com/RobTillaart/dateTimeHelpers
 https://github.com/RobTillaart/DCT532
 https://github.com/RobTillaart/decibel
@@ -7026,6 +7042,8 @@ https://github.com/tanakamasayuki/I2C_SLG
 https://github.com/tanakamasayuki/LinxESP32
 https://github.com/tanakamasayuki/UlpDebug
 https://github.com/tanakamasayuki/ESP32CertBundle
+https://github.com/tanakamasayuki/ESP32SerialCtl
+https://github.com/tanakamasayuki/EmbedFS
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8529,6 +8547,8 @@ https://github.com/geekfactory/GFLED
 https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS
 https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
+https://github.com/Bridgetek/EVE2-Arduino-Dev
+https://github.com/Bridgetek/EVE2-2-Arduino-Dev
 https://github.com/TamsinRose/CAN_Message_Arduino
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic
@@ -8542,6 +8562,16 @@ https://github.com/FranciscoRos/UniversalRadioWSN
 https://github.com/FranciscoRos/AdaptiveTXWSN
 https://github.com/FranciscoRos/CodecWSN
 https://github.com/egnor/everyday_pixel_fonts
+https://github.com/egnor/ok_arduino_little_layout
 https://github.com/egnor/ok_arduino_logging
 https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
+https://github.com/FranciscoRos/EnergyWSN
+https://github.com/FT-tele/ST7306_8color_lvgl
+https://github.com/bull-m/BULLM_ExtendModule
+https://github.com/Jakkapan-a/AssuraVisionSerial.git
+https://github.com/AIS-DeviceIntegration/AIS_4G_EXTENSION_BOARD
+https://github.com/adafruit/WiFiNINA
+https://github.com/sensebox/DNMSI2C
+https://github.com/steinundfloete/MIDI-NRPN
+https://github.com/VLPLAY-Games/Xeno-Language
