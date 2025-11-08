@@ -8576,3 +8576,4 @@ https://github.com/sensebox/DNMSI2C
 https://github.com/steinundfloete/MIDI-NRPN
 https://github.com/VLPLAY-Games/Xeno-Language
 https://github.com/chipnorm/LED_Matrix
+https://github.com/dowerner/Arduino-Http-Requests
