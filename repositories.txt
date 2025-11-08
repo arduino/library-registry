@@ -8577,3 +8577,4 @@ https://github.com/steinundfloete/MIDI-NRPN
 https://github.com/VLPLAY-Games/Xeno-Language
 https://github.com/chipnorm/LED_Matrix
 https://github.com/dowerner/Arduino-Http-Requests
+https://github.com/juano2310/SuperCAN
