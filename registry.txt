@@ -8571,3 +8571,4 @@ https://github.com/VLPLAY-Games/Xeno-Language.git|Contributed|Xeno Language
 https://github.com/chipnorm/LED_Matrix.git|Contributed|ChipNorm_LED_Matrix
 https://github.com/dowerner/Arduino-Http-Requests.git|Contributed|HttpRequests
 https://github.com/juano2310/SuperCAN.git|Contributed|Super CAN
+https://github.com/Protocentral/SensythingCore.git|Contributed|SensythingCore
