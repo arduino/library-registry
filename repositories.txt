@@ -8579,3 +8579,4 @@ https://github.com/chipnorm/LED_Matrix
 https://github.com/dowerner/Arduino-Http-Requests
 https://github.com/juano2310/SuperCAN
 https://github.com/Protocentral/SensythingCore
+https://github.com/sintrb/ANSI_Output
