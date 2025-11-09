@@ -8573,3 +8573,4 @@ https://github.com/dowerner/Arduino-Http-Requests.git|Contributed|HttpRequests
 https://github.com/juano2310/SuperCAN.git|Contributed|Super CAN
 https://github.com/Protocentral/SensythingCore.git|Contributed|SensythingCore
 https://github.com/sintrb/ANSI_Output.git|Contributed|ANSI_Output
+https://github.com/mlaass/wamr-esp32-arduino.git|Contributed|WAMR-ESP32
