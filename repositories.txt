@@ -7917,6 +7917,7 @@ https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/uutzinger/Arduino_AFE44XX
+https://github.com/uutzinger/Arduino_BLESerial
 https://github.com/ConsentiumIoT/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
 https://github.com/jhagas/ESPSupabase
