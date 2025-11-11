@@ -8576,3 +8576,4 @@ https://github.com/sintrb/ANSI_Output.git|Contributed|ANSI_Output
 https://github.com/mlaass/wamr-esp32-arduino.git|Contributed|WAMR-ESP32
 https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library.git|Contributed|YFPS2UARTLib
 https://github.com/ertgtct/mcpesp.git|Contributed|mcpesp
+https://github.com/uutzinger/Arduino_BLESerial.git|Contributed|BLE Serial - NUS
