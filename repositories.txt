@@ -7044,6 +7044,7 @@ https://github.com/tanakamasayuki/UlpDebug
 https://github.com/tanakamasayuki/ESP32CertBundle
 https://github.com/tanakamasayuki/ESP32SerialCtl
 https://github.com/tanakamasayuki/EmbedFS
+https://github.com/tanakamasayuki/EspHelper
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
