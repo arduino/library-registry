@@ -8482,7 +8482,7 @@ https://github.com/windnerd-labs/Windnerd-Core.git|Contributed|Windnerd_Core
 https://github.com/jaikulk14/Advanced-Oximeter.git|Contributed|AdvancedOximeter
 https://github.com/Alash-electronics/AlashMotorControlLite.git|Contributed|AlashMotorControlLite
 https://github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen.git|Contributed|ue_i2c_icp_10111_sen
-https://github.com/m5stack/M5Unit-Fingerprint2.git|Contributed|M5Unit-Fingerprint2-Library
+https://github.com/m5stack/M5Unit-Fingerprint2.git|Contributed|M5Unit-Fingerprint2
 https://github.com/tanakamasayuki/ESP32CertBundle.git|Contributed|ESP32CertBundle
 https://github.com/arduino-libraries/Arduino_RouterBridge.git|Arduino|Arduino_RouterBridge
 https://github.com/arduino-libraries/Arduino_RPCLite.git|Arduino|Arduino_RPClite
