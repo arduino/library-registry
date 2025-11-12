@@ -8580,9 +8580,10 @@ https://github.com/steinundfloete/MIDI-NRPN
 https://github.com/VLPLAY-Games/Xeno-Language
 https://github.com/chipnorm/LED_Matrix
 https://github.com/dowerner/Arduino-Http-Requests
-https://github.com/juano2310/SuperCANBus
+https://github.com/juano2310/SuperCAN
 https://github.com/Protocentral/SensythingCore
 https://github.com/sintrb/ANSI_Output
 https://github.com/mlaass/wamr-esp32-arduino.git
 https://github.com/1998Saeed/MechaNest
 https://github.com/ertgtct/mcpesp
+https://github.com/juano2310/SuperCANBus
