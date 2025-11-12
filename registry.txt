@@ -8578,3 +8578,4 @@ https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library.git|Contributed|YFPS2UARTL
 https://github.com/ertgtct/mcpesp.git|Contributed|mcpesp
 https://github.com/uutzinger/Arduino_BLESerial.git|Contributed|BLE Serial - NUS
 https://github.com/tanakamasayuki/EspHelper.git|Contributed|EspHelper
+https://github.com/1998Saeed/MechaNest.git|Contributed|MechaNest
