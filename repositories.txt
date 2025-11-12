@@ -7044,6 +7044,7 @@ https://github.com/tanakamasayuki/UlpDebug
 https://github.com/tanakamasayuki/ESP32CertBundle
 https://github.com/tanakamasayuki/ESP32SerialCtl
 https://github.com/tanakamasayuki/EmbedFS
+https://github.com/tanakamasayuki/EspHelper
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -7917,6 +7918,7 @@ https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/uutzinger/Arduino_AFE44XX
+https://github.com/uutzinger/Arduino_BLESerial
 https://github.com/ConsentiumIoT/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
 https://github.com/jhagas/ESPSupabase
@@ -8583,3 +8585,4 @@ https://github.com/Protocentral/SensythingCore
 https://github.com/sintrb/ANSI_Output
 https://github.com/mlaass/wamr-esp32-arduino.git
 https://github.com/1998Saeed/MechaNest
+https://github.com/ertgtct/mcpesp
