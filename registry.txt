@@ -8580,3 +8580,4 @@ https://github.com/uutzinger/Arduino_BLESerial.git|Contributed|BLE Serial - NUS
 https://github.com/tanakamasayuki/EspHelper.git|Contributed|EspHelper
 https://github.com/1998Saeed/MechaNest.git|Contributed|MechaNest
 https://github.com/juano2310/SuperCANBus.git|Contributed|SuperCANBus
+https://github.com/tanakamasayuki/AssocTree.git|Contributed|AssocTree
