@@ -1,3 +1,7 @@
+https://github.com/me-RK/MAX7219_CH32
+https://github.com/szilvasyz/DCF77FreeRTOS.git
+https://github.com/vicharak-in/shrike_arduino.git
+https://github.com/ienai-SPACE/ADC128S_Arduino
 https://github.com/BojanJurca/cin-cout-for-Arduino
 https://github.com/atestb/MCP4151-Digital-Potentiometer
 https://github.com/nicolito128/DHT_N128
@@ -1335,6 +1339,7 @@ https://github.com/arduino-libraries/Arduino_SensorKit
 https://github.com/arduino-libraries/Arduino_SerialUpdater
 https://github.com/arduino-libraries/Arduino_Threads
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
+https://github.com/arduino-libraries/Arduino_USBHIDHost
 https://github.com/arduino-libraries/Arduino_USBHostMbed5
 https://github.com/arduino-libraries/ArduinoBearSSL
 https://github.com/arduino-libraries/ArduinoBLE
@@ -7038,6 +7043,9 @@ https://github.com/tanakamasayuki/LinxESP32
 https://github.com/tanakamasayuki/UlpDebug
 https://github.com/tanakamasayuki/ESP32CertBundle
 https://github.com/tanakamasayuki/ESP32SerialCtl
+https://github.com/tanakamasayuki/EmbedFS
+https://github.com/tanakamasayuki/EspHelper
+https://github.com/tanakamasayuki/AssocTree
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -7556,6 +7564,7 @@ https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-Library
 https://github.com/YFROBOT-TM/Yfrobot-Valon3-Library
 https://github.com/YFROBOT-TM/Yfrobot-TTS-Library
 https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library
+https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/YiannisBourkelis/Uptime-Library
@@ -7910,6 +7919,7 @@ https://github.com/SeeedJP/wio_cellular
 https://github.com/bitbank2/zlib_turbo
 https://github.com/uutzinger/SavitzkyGolayFilter
 https://github.com/uutzinger/Arduino_AFE44XX
+https://github.com/uutzinger/Arduino_BLESerial
 https://github.com/ConsentiumIoT/ConsentiumThings
 https://github.com/iavorvel/MyLD2410
 https://github.com/jhagas/ESPSupabase
@@ -8541,6 +8551,8 @@ https://github.com/geekfactory/GFLED
 https://github.com/IFTAHULYUSRO/MPU6050_VIBRATIONRMS
 https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
+https://github.com/Bridgetek/EVE2-Arduino-Dev
+https://github.com/Bridgetek/EVE2-2-Arduino-Dev
 https://github.com/TamsinRose/CAN_Message_Arduino
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic
@@ -8564,3 +8576,15 @@ https://github.com/bull-m/BULLM_ExtendModule
 https://github.com/Jakkapan-a/AssuraVisionSerial.git
 https://github.com/AIS-DeviceIntegration/AIS_4G_EXTENSION_BOARD
 https://github.com/adafruit/WiFiNINA
+https://github.com/sensebox/DNMSI2C
+https://github.com/steinundfloete/MIDI-NRPN
+https://github.com/VLPLAY-Games/Xeno-Language
+https://github.com/chipnorm/LED_Matrix
+https://github.com/dowerner/Arduino-Http-Requests
+https://github.com/juano2310/SuperCAN
+https://github.com/Protocentral/SensythingCore
+https://github.com/sintrb/ANSI_Output
+https://github.com/mlaass/wamr-esp32-arduino.git
+https://github.com/1998Saeed/MechaNest
+https://github.com/ertgtct/mcpesp
+https://github.com/juano2310/SuperCANBus
