@@ -8583,3 +8583,4 @@ https://github.com/juano2310/SuperCANBus.git|Contributed|SuperCANBus
 https://github.com/tanakamasayuki/AssocTree.git|Contributed|AssocTree
 https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot.git|Contributed|JadeRobotics_Spiderbot
 https://github.com/stm32duino/X-NUCLEO-IHM04A1.git|Contributed|STM32duino X-NUCLEO-IHM04A1
+https://github.com/versianih/hdw-utils.git|Contributed|HDW Utils
