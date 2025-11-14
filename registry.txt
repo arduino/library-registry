@@ -8581,3 +8581,4 @@ https://github.com/tanakamasayuki/EspHelper.git|Contributed|EspHelper
 https://github.com/1998Saeed/MechaNest.git|Contributed|MechaNest
 https://github.com/juano2310/SuperCANBus.git|Contributed|SuperCANBus
 https://github.com/tanakamasayuki/AssocTree.git|Contributed|AssocTree
+https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot.git|Contributed|JadeRobotics_Spiderbot
