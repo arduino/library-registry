@@ -7,6 +7,7 @@ https://github.com/atestb/MCP4151-Digital-Potentiometer
 https://github.com/nicolito128/DHT_N128
 https://github.com/steamicc/MCP23009E
 https://github.com/pbudel/QuarkX
+https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot
 https://github.com/jobitjoseph/SoftWire_CH32
 https://github.com/franfreezy/e220_400t22d-lora-library
 https://github.com/rochat2/v202_protocol
