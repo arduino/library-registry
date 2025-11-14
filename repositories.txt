@@ -8589,3 +8589,4 @@ https://github.com/mlaass/wamr-esp32-arduino.git
 https://github.com/1998Saeed/MechaNest
 https://github.com/ertgtct/mcpesp
 https://github.com/juano2310/SuperCANBus
+https://github.com/stm32duino/X-NUCLEO-IHM04A1
