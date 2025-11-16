@@ -8585,3 +8585,4 @@ https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot.git|Contributed|JadeRo
 https://github.com/stm32duino/X-NUCLEO-IHM04A1.git|Contributed|STM32duino X-NUCLEO-IHM04A1
 https://github.com/versianih/hdw-utils.git|Contributed|HDW Utils
 https://github.com/MTD2A/MTD2A.git|Contributed|MTD2A
+https://github.com/asimzulfiqar/esp_cron.git|Contributed|esp_cron
