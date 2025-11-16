@@ -8586,3 +8586,4 @@ https://github.com/stm32duino/X-NUCLEO-IHM04A1.git|Contributed|STM32duino X-NUCL
 https://github.com/versianih/hdw-utils.git|Contributed|HDW Utils
 https://github.com/MTD2A/MTD2A.git|Contributed|MTD2A
 https://github.com/asimzulfiqar/esp_cron.git|Contributed|esp_cron
+https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino.git|Contributed|LightweightSTL
