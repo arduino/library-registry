@@ -4,7 +4,7 @@ https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot
 https://github.com/szilvasyz/DCF77FreeRTOS.git
 https://github.com/vicharak-in/shrike_arduino.git
 https://github.com/ienai-SPACE/ADC128S_Arduino
-https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino  
+https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino   
 https://github.com/BojanJurca/cin-cout-for-Arduino
 https://github.com/atestb/MCP4151-Digital-Potentiometer
 https://github.com/nicolito128/DHT_N128
