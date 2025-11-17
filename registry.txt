@@ -8587,3 +8587,4 @@ https://github.com/versianih/hdw-utils.git|Contributed|HDW Utils
 https://github.com/MTD2A/MTD2A.git|Contributed|MTD2A
 https://github.com/asimzulfiqar/esp_cron.git|Contributed|esp_cron
 https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino.git|Contributed|LightweightSTL
+https://github.com/DFRobot/DFRobot_LoRaWAN_ESP32S3.git|Contributed|DFRobot_LoRaWAN_ESP32S3
