@@ -8590,3 +8590,4 @@ https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Ardu
 https://github.com/DFRobot/DFRobot_LoRaWAN_ESP32S3.git|Contributed|DFRobot_LoRaWAN_ESP32S3
 https://github.com/marcoratto/DMFLib-Arduino.git|Contributed|DMFLib
 https://github.com/Alash-electronics/AlashIRControl.git|Contributed|AlashIRControl
+https://github.com/Alash-electronics/AlashUltrasonic.git|Contributed|AlashUltrasonic
