@@ -8593,3 +8593,4 @@ https://github.com/Alash-electronics/AlashIRControl.git|Contributed|AlashIRContr
 https://github.com/Alash-electronics/AlashUltrasonic.git|Contributed|AlashUltrasonic
 https://github.com/nedesico/ESP32_Thermistor.git|Contributed|ESP32_Thermistor
 https://github.com/tanakamasayuki/EspHttpServer.git|Contributed|EspHttpServer
+https://github.com/k3ldar/SensorManager.git|Contributed|SensorManager
