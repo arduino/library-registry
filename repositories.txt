@@ -8598,3 +8598,4 @@ https://github.com/stm32duino/X-NUCLEO-IHM04A1
 https://github.com/versianih/hdw-utils
 https://github.com/asimzulfiqar/esp_cron
 https://github.com/marcoratto/DMFLib-Arduino
+https://github.com/nedesico/ESP32_Thermistor
