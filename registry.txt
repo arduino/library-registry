@@ -8592,3 +8592,4 @@ https://github.com/marcoratto/DMFLib-Arduino.git|Contributed|DMFLib
 https://github.com/Alash-electronics/AlashIRControl.git|Contributed|AlashIRControl
 https://github.com/Alash-electronics/AlashUltrasonic.git|Contributed|AlashUltrasonic
 https://github.com/nedesico/ESP32_Thermistor.git|Contributed|ESP32_Thermistor
+https://github.com/tanakamasayuki/EspHttpServer.git|Contributed|EspHttpServer
