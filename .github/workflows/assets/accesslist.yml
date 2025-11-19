@@ -38,6 +38,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/7066#issuecomment-3478077991
 - host: github.com
+  name: jaderobotics-AN
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/7270#issuecomment-3551554185
+- host: github.com
   name: kelasrobot
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
