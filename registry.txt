@@ -8535,7 +8535,7 @@ https://github.com/FranciscoRos/CodecWSN.git|Contributed|CodecWSN
 https://github.com/PTSolns/PTSolns_AHTx.git|Contributed|PTSolns_AHTx
 https://github.com/egnor/everyday_pixel_fonts.git|Contributed|Everyday Pixel Fonts
 https://github.com/PTSolns/PTSolns_VEML7700.git|Contributed|PTSolns_VEML7700
-https://github.com/egnor/ok_arduino_logging.git|Contributed|OK Arduino Logging
+https://github.com/egnor/ok_arduino_logging.git|Contributed|OK Logging
 https://github.com/recepsenbas/DWIN-Unified.git|Contributed|DWIN Unified
 https://github.com/chipnorm/VL53L0X.git|Contributed|ChipNorm_VL53L0X
 https://github.com/FranciscoRos/EnergyWSN.git|Contributed|EnergyWSN
