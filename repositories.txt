@@ -8604,3 +8604,5 @@ https://github.com/marcoratto/DMFLib-Arduino
 https://github.com/nedesico/ESP32_Thermistor
 https://github.com/pdoebler/HS300x
 https://github.com/hii-nice-2-meet-u/TINY.git
+https://github.com/hii-nice-2-meet-u/LUMINOUS.git
+
