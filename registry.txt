@@ -8596,3 +8596,4 @@ https://github.com/tanakamasayuki/EspHttpServer.git|Contributed|EspHttpServer
 https://github.com/k3ldar/SensorManager.git|Contributed|SensorManager
 https://github.com/pdoebler/HS300x.git|Contributed|HS300x
 https://github.com/hii-nice-2-meet-u/TINY.git|Contributed|tiny
+https://github.com/m5stack/M5Chain.git|Contributed|M5Chain
