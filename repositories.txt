@@ -8562,7 +8562,7 @@ https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
 https://github.com/Bridgetek/EVE2-Arduino-Dev
 https://github.com/Bridgetek/EVE2-2-Arduino-Dev
-https://github.com/TamsinRose/CAN_Message_Arduino
+https://github.com/TamsinRose/CANMessage
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic
 https://github.com/chipnorm/TM1637
@@ -8605,4 +8605,3 @@ https://github.com/nedesico/ESP32_Thermistor
 https://github.com/pdoebler/HS300x
 https://github.com/hii-nice-2-meet-u/TINY.git
 https://github.com/hii-nice-2-meet-u/LUMINOUS.git
-
