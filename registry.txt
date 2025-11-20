@@ -8602,3 +8602,4 @@ https://github.com/sfera-labs/arduino-wiegand.git|Contributed|Wiegand
 https://github.com/sfera-labs/arduino-modbus-rtu-slave.git|Contributed|Modbus RTU Slave
 https://github.com/sfera-labs/arduino-lora-net.git|Contributed|LoRaNet
 https://github.com/sfera-labs/iono-mkr-lora-net.git|Contributed|Iono MKR LoRaNet
+https://github.com/mobizt/SerialTCPClient.git|Contributed|SerialTCPClient
