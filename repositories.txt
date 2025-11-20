@@ -8607,3 +8607,4 @@ https://github.com/hii-nice-2-meet-u/LUMINOUS.git
 https://github.com/sfera-labs/iono
 https://github.com/sfera-labs/arduino-wiegand
 https://github.com/sfera-labs/arduino-modbus-rtu-slave
+https://github.com/sfera-labs/arduino-lora-net
