@@ -8603,3 +8603,4 @@ https://github.com/sfera-labs/arduino-modbus-rtu-slave.git|Contributed|Modbus RT
 https://github.com/sfera-labs/arduino-lora-net.git|Contributed|LoRaNet
 https://github.com/sfera-labs/iono-mkr-lora-net.git|Contributed|Iono MKR LoRaNet
 https://github.com/mobizt/SerialTCPClient.git|Contributed|SerialTCPClient
+https://github.com/sfera-labs/iono-rp-d16-arduino.git|Contributed|Iono RP D16
