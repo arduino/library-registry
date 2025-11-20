@@ -8600,3 +8600,4 @@ https://github.com/hii-nice-2-meet-u/LUMINOUS.git|Contributed|luminous
 https://github.com/sfera-labs/iono.git|Contributed|Iono Uno-MKR-RP
 https://github.com/sfera-labs/arduino-wiegand.git|Contributed|Wiegand
 https://github.com/sfera-labs/arduino-modbus-rtu-slave.git|Contributed|Modbus RTU Slave
+https://github.com/sfera-labs/arduino-lora-net.git|Contributed|LoRaNet
