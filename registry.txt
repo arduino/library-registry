@@ -8606,3 +8606,4 @@ https://github.com/mobizt/SerialTCPClient.git|Contributed|SerialTCPClient
 https://github.com/sfera-labs/iono-rp-d16-arduino.git|Contributed|Iono RP D16
 https://github.com/nedesico/ESP32_WiFi_Connect.git|Contributed|ESP32_WiFi_Connect
 https://github.com/kay-bs/KK-Poti.git|Contributed|KK-Poti
+https://github.com/petrows/arduino-vid6608.git|Contributed|vid6608
