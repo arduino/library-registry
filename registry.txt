@@ -8598,3 +8598,4 @@ https://github.com/hii-nice-2-meet-u/TINY.git|Contributed|tiny
 https://github.com/m5stack/M5Chain.git|Contributed|M5Chain
 https://github.com/hii-nice-2-meet-u/LUMINOUS.git|Contributed|luminous
 https://github.com/sfera-labs/iono.git|Contributed|Iono Uno-MKR-RP
+https://github.com/sfera-labs/arduino-wiegand.git|Contributed|Wiegand
