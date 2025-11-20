@@ -8613,3 +8613,4 @@ https://github.com/sfera-labs/arduino-lora-net
 https://github.com/sfera-labs/iono-mkr-lora-net
 https://github.com/sfera-labs/iono-rp-d16-arduino
 https://github.com/nedesico/ESP32_WiFi_Connect
+https://github.com/petrows/arduino-vid6608
