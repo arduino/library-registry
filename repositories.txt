@@ -6463,7 +6463,6 @@ https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library
-https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library
@@ -6471,6 +6470,7 @@ https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_OPT3001_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
 https://github.com/sivar2311/WebMonitor
