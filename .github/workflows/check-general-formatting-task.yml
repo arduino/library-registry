@@ -22,7 +22,7 @@ jobs:
           echo "EC_INSTALL_PATH=${{ runner.temp }}/editorconfig-checker" >> "$GITHUB_ENV"
 
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Install Task
         uses: arduino/setup-task@v2
