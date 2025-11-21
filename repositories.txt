@@ -6454,6 +6454,7 @@ https://github.com/siroshy/MovingPlatform
 https://github.com/SirSundays/LDC1312-Arduino
 https://github.com/siteswapjuggler/RAMP
 https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
