@@ -8607,3 +8607,4 @@ https://github.com/sfera-labs/iono-rp-d16-arduino.git|Contributed|Iono RP D16
 https://github.com/nedesico/ESP32_WiFi_Connect.git|Contributed|ESP32_WiFi_Connect
 https://github.com/kay-bs/KK-Poti.git|Contributed|KK-Poti
 https://github.com/petrows/arduino-vid6608.git|Contributed|vid6608
+https://github.com/Fiooodooor/HLK-LD245X.git|Contributed|HLK-LD245X
