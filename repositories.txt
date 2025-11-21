@@ -8538,6 +8538,7 @@ https://github.com/mitra42/frugal-iot
 https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT
 https://github.com/kay-bs/KK-Switch
 https://github.com/kay-bs/KK-Buffer
+https://github.com/kay-bs/KK-Poti
 https://github.com/localrice/EasyWiFi
 https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library
 https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library
@@ -8610,3 +8611,6 @@ https://github.com/sfera-labs/arduino-wiegand
 https://github.com/sfera-labs/arduino-modbus-rtu-slave
 https://github.com/sfera-labs/arduino-lora-net
 https://github.com/sfera-labs/iono-mkr-lora-net
+https://github.com/sfera-labs/iono-rp-d16-arduino
+https://github.com/nedesico/ESP32_WiFi_Connect
+https://github.com/petrows/arduino-vid6608
