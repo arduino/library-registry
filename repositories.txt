@@ -4814,6 +4814,7 @@ https://github.com/muwerk/mupplet-display
 https://github.com/muwerk/mupplet-sensor
 https://github.com/muwerk/muwerk
 https://github.com/muwerk/ustd
+https://github.com/mwlgt/DCMotorController
 https://github.com/MYBOTIC/DurianBlynkESP8266
 https://github.com/myconstellation/constellation-arduino
 https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino
