@@ -8608,3 +8608,4 @@ https://github.com/nedesico/ESP32_WiFi_Connect.git|Contributed|ESP32_WiFi_Connec
 https://github.com/kay-bs/KK-Poti.git|Contributed|KK-Poti
 https://github.com/petrows/arduino-vid6608.git|Contributed|vid6608
 https://github.com/Fiooodooor/HLK-LD245X.git|Contributed|HLK-LD245X
+https://github.com/alkonosst/SIM7600Module.git|Contributed|SIM7600Module
