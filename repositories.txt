@@ -1129,6 +1129,7 @@ https://github.com/alkonosst/ADS1115
 https://github.com/alkonosst/MCP23017
 https://github.com/alkonosst/RTOScppESP32
 https://github.com/alkonosst/SettingsManagerESP32.git
+https://github.com/alkonosst/SIM7600Module
 https://github.com/alkonosst/SSLClientESP32
 https://github.com/allenchak/TA6932
 https://github.com/allexoK/TinyDecisionTreeClassifier
