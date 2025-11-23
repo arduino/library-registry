@@ -480,6 +480,7 @@ https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
+https://github.com/Fiooodooor/HLK-LD245X
 https://github.com/giocip/ARDUINO_num7
 https://github.com/makerlabvn/MKL_DHT
 https://github.com/vasya-zh/TMD3725
@@ -1128,6 +1129,7 @@ https://github.com/alkonosst/ADS1115
 https://github.com/alkonosst/MCP23017
 https://github.com/alkonosst/RTOScppESP32
 https://github.com/alkonosst/SettingsManagerESP32.git
+https://github.com/alkonosst/SIM7600Module
 https://github.com/alkonosst/SSLClientESP32
 https://github.com/allenchak/TA6932
 https://github.com/allexoK/TinyDecisionTreeClassifier
@@ -4812,6 +4814,7 @@ https://github.com/muwerk/mupplet-display
 https://github.com/muwerk/mupplet-sensor
 https://github.com/muwerk/muwerk
 https://github.com/muwerk/ustd
+https://github.com/mwlgt/DCMotorController
 https://github.com/MYBOTIC/DurianBlynkESP8266
 https://github.com/myconstellation/constellation-arduino
 https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino
