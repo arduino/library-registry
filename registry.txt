@@ -8611,3 +8611,4 @@ https://github.com/Fiooodooor/HLK-LD245X.git|Contributed|HLK-LD245X
 https://github.com/alkonosst/SIM7600Module.git|Contributed|SIM7600Module
 https://github.com/mwlgt/DCMotorController.git|Contributed|DCMotorController
 https://github.com/mobizt/SerialNetworkBridge.git|Contributed|SerialNetworkBridge
+https://github.com/Valdemir-DSW/valmux16.git|Contributed|VALMUX16
