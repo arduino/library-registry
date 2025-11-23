@@ -141,6 +141,7 @@ https://github.com/senex-code/CarBase
 https://github.com/dayatkun01/ClearDS1302/
 https://github.com/OlivierPcheux/MTobjects
 https://github.com/Valdemir-DSW/val_flash_spi
+https://github.com/Valdemir-DSW/valmux16
 https://github.com/alecxcode/LX16A-bus
 https://github.com/akarimiz1/E62Module
 https://github.com/NartemAI/NaiPot
