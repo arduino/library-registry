@@ -8621,3 +8621,4 @@ https://github.com/sfera-labs/iono-rp-d16-arduino
 https://github.com/nedesico/ESP32_WiFi_Connect
 https://github.com/petrows/arduino-vid6608
 https://github.com/epsilonrt/ZigbeePilotWireControl
+https://github.com/laxusgooee/LXG_DC_Motor_driver
