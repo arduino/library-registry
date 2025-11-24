@@ -8614,3 +8614,4 @@ https://github.com/mobizt/SerialNetworkBridge.git|Contributed|SerialNetworkBridg
 https://github.com/Valdemir-DSW/valmux16.git|Contributed|VALMUX16
 https://github.com/liviobellini/KaitMenu.git|Contributed|KaitMenu
 https://github.com/epsilonrt/ZigbeePilotWireControl.git|Contributed|ZigbeePilotWireControl
+https://github.com/laxusgooee/LXG_DC_Motor_driver.git|Contributed|LXG_DC_Motor_driver
