@@ -8617,3 +8617,4 @@ https://github.com/epsilonrt/ZigbeePilotWireControl.git|Contributed|ZigbeePilotW
 https://github.com/laxusgooee/LXG_DC_Motor_driver.git|Contributed|LXG_DC_Motor_driver
 https://github.com/m5stack/M5Unit-FINGER.git|Contributed|M5Unit-FINGER
 https://github.com/m5stack/M5Unit-RF433.git|Contributed|M5Unit-RF433
+https://github.com/Faizyee/DZ_HTTP.git|Contributed|DZ_HTTP
