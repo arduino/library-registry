@@ -8615,3 +8615,5 @@ https://github.com/Valdemir-DSW/valmux16.git|Contributed|VALMUX16
 https://github.com/liviobellini/KaitMenu.git|Contributed|KaitMenu
 https://github.com/epsilonrt/ZigbeePilotWireControl.git|Contributed|ZigbeePilotWireControl
 https://github.com/laxusgooee/LXG_DC_Motor_driver.git|Contributed|LXG_DC_Motor_driver
+https://github.com/m5stack/M5Unit-FINGER.git|Contributed|M5Unit-FINGER
+https://github.com/m5stack/M5Unit-RF433.git|Contributed|M5Unit-RF433
