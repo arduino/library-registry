@@ -8587,6 +8587,7 @@ https://github.com/FranciscoRos/CodecWSN
 https://github.com/egnor/everyday_pixel_fonts
 https://github.com/egnor/ok_arduino_little_layout
 https://github.com/egnor/ok_arduino_logging
+https://github.com/egnor/ok_micro_dock
 https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
 https://github.com/FranciscoRos/EnergyWSN
