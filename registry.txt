@@ -8619,3 +8619,4 @@ https://github.com/m5stack/M5Unit-FINGER.git|Contributed|M5Unit-FINGER
 https://github.com/m5stack/M5Unit-RF433.git|Contributed|M5Unit-RF433
 https://github.com/Faizyee/DZ_HTTP.git|Contributed|DZ_HTTP
 https://github.com/TamsinRose/SimpleCounter.git|Contributed|SimpleCounter
+https://github.com/snappyxo/microblue-arduino.git|Contributed|MicroBlue
