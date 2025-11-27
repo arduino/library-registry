@@ -8630,3 +8630,4 @@ https://github.com/laxusgooee/LXG_DC_Motor_driver
 https://github.com/Faizyee/DZ_HTTP
 https://github.com/snappyxo/microblue-arduino
 https://github.com/BestModules-Libraries/BMduino_BW16
+https://github.com/dac1e/FDC2x1x
