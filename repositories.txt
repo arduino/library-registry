@@ -6464,6 +6464,7 @@ https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Lib
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
 https://github.com/sivar2311/WebMonitor
