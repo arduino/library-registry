@@ -8622,3 +8622,4 @@ https://github.com/TamsinRose/SimpleCounter.git|Contributed|SimpleCounter
 https://github.com/snappyxo/microblue-arduino.git|Contributed|MicroBlue
 https://github.com/egnor/ok_micro_dock.git|Contributed|OK Micro Dock
 https://github.com/BestModules-Libraries/BMduino_BW16.git|Contributed|BMduino_BW16
+https://github.com/mabrobotics/Candleduino.git|Contributed|Candleduino
