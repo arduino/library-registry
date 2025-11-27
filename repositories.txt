@@ -6459,6 +6459,7 @@ https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library
