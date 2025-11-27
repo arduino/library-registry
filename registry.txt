@@ -8623,3 +8623,11 @@ https://github.com/snappyxo/microblue-arduino.git|Contributed|MicroBlue
 https://github.com/egnor/ok_micro_dock.git|Contributed|OK Micro Dock
 https://github.com/BestModules-Libraries/BMduino_BW16.git|Contributed|BMduino_BW16
 https://github.com/mabrobotics/Candleduino.git|Contributed|Candleduino
+https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library.git|Contributed|Sitron Labs MAX31855 Arduino Library
+https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library.git|Contributed|Sitron Labs PI3USB9281C Arduino Library
+https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library.git|Contributed|Sitron Labs EEPROM Arduino Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library.git|Contributed|Sitron Labs FSUSB43 Arduino Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library.git|Contributed|Sitron Labs FUSB302 Arduino Library
+https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library.git|Contributed|Sitron Labs LIS2DH12 Arduino Library
+https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library.git|Contributed|Sitron Labs SSD1306 Arduino Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library.git|Contributed|Sitron Labs DACXX11 Arduino Library
