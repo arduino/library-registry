@@ -6187,6 +6187,7 @@ https://github.com/sciosense/ens21x-arduino
 https://github.com/sciosense/ens220-arduino
 https://github.com/sciosense/ens190-arduino
 https://github.com/sciosense/ufm01-arduino
+https://github.com/sciosense/ufm02-arduino
 https://github.com/sciosense/as60xx-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
