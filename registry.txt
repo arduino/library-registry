@@ -8633,3 +8633,4 @@ https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library.git|Con
 https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library.git|Contributed|Sitron Labs DACXX11 Arduino Library
 https://github.com/dac1e/FDC2x1x.git|Contributed|FDC2x1x
 https://github.com/dbn-b4e/cr95hf.git|Contributed|CR95HF
+https://github.com/JadeRB-RND/Spiderbot.git|Contributed|Spiderbot
