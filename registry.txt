@@ -8636,3 +8636,4 @@ https://github.com/dbn-b4e/cr95hf.git|Contributed|CR95HF
 https://github.com/JadeRB-RND/Spiderbot.git|Contributed|Spiderbot
 https://github.com/xreef/RYUW122.git|Contributed|RYUW122
 https://github.com/sciosense/ufm02-arduino.git|Contributed|ScioSense_UFM02
+https://github.com/liviobellini/AmiraEncoder.git|Contributed|AmiraEncoder
