@@ -8644,3 +8644,4 @@ https://github.com/BestModules-Libraries/BMduino_BW16
 https://github.com/dac1e/FDC2x1x
 https://github.com/dbn-b4e/cr95hf.git
 https://github.com/xreef/RYUW122
+https://github.com/dac1e/Somo1ELV
