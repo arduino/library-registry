@@ -1,3 +1,4 @@
+https://github.com/liviobellini/AmiraEncoder
 https://github.com/liviobellini/KaitMenu
 https://github.com/Alash-electronics/AlashUltrasonic
 https://github.com/Alash-electronics/AlashIRControl
