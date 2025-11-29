@@ -1,7 +1,11 @@
 https://github.com/liviobellini/AmiraEncoder
+https://github.com/JadeRB-RND/Spiderbot
+https://github.com/mabrobotics/Candleduino
 https://github.com/liviobellini/KaitMenu
 https://github.com/Alash-electronics/AlashUltrasonic
 https://github.com/Alash-electronics/AlashIRControl
+https://github.com/m5stack/M5Unit-FINGER
+https://github.com/m5stack/M5Unit-RF433
 https://github.com/MTD2A/MTD2A
 https://github.com/me-RK/MAX7219_CH32
 https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot
@@ -6184,6 +6188,7 @@ https://github.com/sciosense/ens21x-arduino
 https://github.com/sciosense/ens220-arduino
 https://github.com/sciosense/ens190-arduino
 https://github.com/sciosense/ufm01-arduino
+https://github.com/sciosense/ufm02-arduino
 https://github.com/sciosense/as60xx-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
@@ -6451,10 +6456,18 @@ https://github.com/sinricpro/teleport-arduino-esp32-library
 https://github.com/siroshy/MovingPlatform
 https://github.com/SirSundays/LDC1312-Arduino
 https://github.com/siteswapjuggler/RAMP
+https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
 https://github.com/sivar2311/WebMonitor
@@ -8570,6 +8583,7 @@ https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
 https://github.com/Bridgetek/EVE2-Arduino-Dev
 https://github.com/Bridgetek/EVE2-2-Arduino-Dev
+https://github.com/TamsinRose/SimpleCounter
 https://github.com/TamsinRose/CANMessage
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic
@@ -8585,6 +8599,7 @@ https://github.com/FranciscoRos/CodecWSN
 https://github.com/egnor/everyday_pixel_fonts
 https://github.com/egnor/ok_arduino_little_layout
 https://github.com/egnor/ok_arduino_logging
+https://github.com/egnor/ok_micro_dock
 https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
 https://github.com/FranciscoRos/EnergyWSN
@@ -8621,3 +8636,11 @@ https://github.com/sfera-labs/iono-mkr-lora-net
 https://github.com/sfera-labs/iono-rp-d16-arduino
 https://github.com/nedesico/ESP32_WiFi_Connect
 https://github.com/petrows/arduino-vid6608
+https://github.com/epsilonrt/ZigbeePilotWireControl
+https://github.com/laxusgooee/LXG_DC_Motor_driver
+https://github.com/Faizyee/DZ_HTTP
+https://github.com/snappyxo/microblue-arduino
+https://github.com/BestModules-Libraries/BMduino_BW16
+https://github.com/dac1e/FDC2x1x
+https://github.com/dbn-b4e/cr95hf.git
+https://github.com/xreef/RYUW122
