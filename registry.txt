@@ -8639,3 +8639,4 @@ https://github.com/sciosense/ufm02-arduino.git|Contributed|ScioSense_UFM02
 https://github.com/liviobellini/AmiraEncoder.git|Contributed|AmiraEncoder
 https://github.com/dac1e/Somo1ELV.git|Contributed|Somo1ELV
 https://github.com/TORICA-Org/SerialWeb.git|Contributed|SerialWeb
+https://github.com/basicmicro/basicmicro_arduino.git|Contributed|Basicmicro
