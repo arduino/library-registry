@@ -8647,3 +8647,5 @@ https://github.com/dbn-b4e/cr95hf.git
 https://github.com/xreef/RYUW122
 https://github.com/dac1e/Somo1ELV
 https://github.com/TORICA-Org/SerialWeb
+https://github.com/DFRobot/DFRobot_AI10
+https://github.com/DFRobot/DFRobot_RTK_4G
