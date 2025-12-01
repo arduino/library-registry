@@ -8644,3 +8644,4 @@ https://github.com/DFRobot/DFRobot_AI10.git|Contributed|DFRobot_AI10
 https://github.com/DFRobot/DFRobot_RTK_4G.git|Contributed|DFRobot_RTK_4G
 https://github.com/oigonzalezp2024/ESP8266NAPTExtender.git|Contributed|ESP8266 NAPT Extender
 https://github.com/filipporaciti/TS_lib.git|Contributed|TS_lib
+https://github.com/maxrangner/GawiButtons.git|Contributed|GawiButtons
