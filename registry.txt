@@ -8640,3 +8640,5 @@ https://github.com/liviobellini/AmiraEncoder.git|Contributed|AmiraEncoder
 https://github.com/dac1e/Somo1ELV.git|Contributed|Somo1ELV
 https://github.com/TORICA-Org/SerialWeb.git|Contributed|SerialWeb
 https://github.com/basicmicro/basicmicro_arduino.git|Contributed|Basicmicro
+https://github.com/DFRobot/DFRobot_AI10.git|Contributed|DFRobot_AI10
+https://github.com/DFRobot/DFRobot_RTK_4G.git|Contributed|DFRobot_RTK_4G
