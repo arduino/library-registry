@@ -1,3 +1,11 @@
+https://github.com/liviobellini/AmiraEncoder
+https://github.com/JadeRB-RND/Spiderbot
+https://github.com/mabrobotics/Candleduino
+https://github.com/liviobellini/KaitMenu
+https://github.com/Alash-electronics/AlashUltrasonic
+https://github.com/Alash-electronics/AlashIRControl
+https://github.com/m5stack/M5Unit-FINGER
+https://github.com/m5stack/M5Unit-RF433
 https://github.com/MTD2A/MTD2A
 https://github.com/me-RK/MAX7219_CH32
 https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot
@@ -139,6 +147,7 @@ https://github.com/senex-code/CarBase
 https://github.com/dayatkun01/ClearDS1302/
 https://github.com/OlivierPcheux/MTobjects
 https://github.com/Valdemir-DSW/val_flash_spi
+https://github.com/Valdemir-DSW/valmux16
 https://github.com/alecxcode/LX16A-bus
 https://github.com/akarimiz1/E62Module
 https://github.com/NartemAI/NaiPot
@@ -149,6 +158,7 @@ https://github.com/DigitalCodesign/MentorBit-SGP30
 https://github.com/Matthew-a-smith/OpenEdgeStack
 https://github.com/jmwanderer/RYLR_LoRaAT
 https://github.com/LFranklinApps/Custom_Robot_Control
+https://github.com/m5stack/M5Chain
 https://github.com/X-croot/XCR-LDR
 https://github.com/scalpelspace/scalpelspace_momentum
 https://github.com/X-croot/TB6612FNG_XCR
@@ -418,7 +428,6 @@ https://github.com/MIT-Senseable-City-Lab/octopus-firmware
 https://github.com/Valdemir-DSW/DSW-painel-arduino-lib
 https://github.com/elecrazy/servoctr.git
 https://github.com/Maaajaaa/GaussianFilter1D
-https://github.com/McOrts/WindQX_Library
 https://github.com/Maaajaaa/SeeedNrf52480Battery
 https://github.com/tochinet/Posit
 https://github.com/Infineon/TLE9879-BLDC-Shield.git
@@ -478,6 +487,7 @@ https://github.com/pu2clr/QN8066
 https://github.com/Tympan/Tympan_Library
 https://github.com/microbotsio/CoilCell
 https://github.com/RBEGamer/HLK-LD2450
+https://github.com/Fiooodooor/HLK-LD245X
 https://github.com/giocip/ARDUINO_num7
 https://github.com/makerlabvn/MKL_DHT
 https://github.com/vasya-zh/TMD3725
@@ -1126,6 +1136,7 @@ https://github.com/alkonosst/ADS1115
 https://github.com/alkonosst/MCP23017
 https://github.com/alkonosst/RTOScppESP32
 https://github.com/alkonosst/SettingsManagerESP32.git
+https://github.com/alkonosst/SIM7600Module
 https://github.com/alkonosst/SSLClientESP32
 https://github.com/allenchak/TA6932
 https://github.com/allexoK/TinyDecisionTreeClassifier
@@ -1562,6 +1573,7 @@ https://github.com/ayushsharma82/ESP-DASH
 https://github.com/ayushsharma82/ESPConnect
 https://github.com/ayushsharma82/WebSerial
 https://github.com/Azure/azure-sdk-for-c-arduino
+https://github.com/basicmicro/basicmicro_arduino
 https://github.com/BadASszZ/IoTWebConf_for_Visuino_modified_by_IoT_Jedi
 https://github.com/baggio63446333/QZQSM
 https://github.com/baghayi/Nokia_5110
@@ -4746,6 +4758,8 @@ https://github.com/mobizt/Firebase-ESP32
 https://github.com/mobizt/Firebase-ESP8266
 https://github.com/mobizt/FirebaseJson
 https://github.com/mobizt/ReadyMail
+https://github.com/mobizt/SerialTCPClient
+https://github.com/mobizt/SerialNetworkBridge
 https://github.com/modulolabs/modulo-lib
 https://github.com/mogel77/Jobber
 https://github.com/MohammedRashad/ArduZ80
@@ -4809,6 +4823,7 @@ https://github.com/muwerk/mupplet-display
 https://github.com/muwerk/mupplet-sensor
 https://github.com/muwerk/muwerk
 https://github.com/muwerk/ustd
+https://github.com/mwlgt/DCMotorController
 https://github.com/MYBOTIC/DurianBlynkESP8266
 https://github.com/myconstellation/constellation-arduino
 https://github.com/myDevicesIoT/Cayenne-MQTT-Arduino
@@ -6174,6 +6189,7 @@ https://github.com/sciosense/ens21x-arduino
 https://github.com/sciosense/ens220-arduino
 https://github.com/sciosense/ens190-arduino
 https://github.com/sciosense/ufm01-arduino
+https://github.com/sciosense/ufm02-arduino
 https://github.com/sciosense/as60xx-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
@@ -6441,10 +6457,18 @@ https://github.com/sinricpro/teleport-arduino-esp32-library
 https://github.com/siroshy/MovingPlatform
 https://github.com/SirSundays/LDC1312-Arduino
 https://github.com/siteswapjuggler/RAMP
+https://github.com/sitronlabs/SitronLabs_Analog_MAX31855_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Diodes_PI3USB9281C_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Enedis_TIC_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
 https://github.com/sivar2311/WebMonitor
@@ -7050,6 +7074,7 @@ https://github.com/tanakamasayuki/ESP32SerialCtl
 https://github.com/tanakamasayuki/EmbedFS
 https://github.com/tanakamasayuki/EspHelper
 https://github.com/tanakamasayuki/AssocTree
+https://github.com/tanakamasayuki/EspHttpServer
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8226,7 +8251,7 @@ https://github.com/amitesh-singh/EspDDNS
 https://github.com/tomorrow56/SPRESENSE_ESP8266_LINE_Messaging_API
 https://github.com/zamanturja/A9Gmod
 https://github.com/WBS-Wissen/Stepper8825Lib
-https://github.com/vladysor/SensEdu-Library
+https://github.com/fanfare-ff/SensEdu-Library
 https://github.com/mirosieber/Litime_BMS_ESP32
 https://github.com/mirosieber/OPT300x
 https://github.com/ByteVoltaTeam/PIDEasy
@@ -8329,6 +8354,7 @@ https://github.com/lahavg/QMI8658-Arduino-Library
 https://github.com/k3ldar/MovementDetector
 https://github.com/k3ldar/SerialCommandManager
 https://github.com/k3ldar/NextionControl
+https://github.com/k3ldar/SensorManager
 https://github.com/marcel-naderer/Lexo
 https://github.com/joshua-8/xrp-style-wpilib-comms
 https://github.com/bitbank2/bb_imu
@@ -8533,6 +8559,7 @@ https://github.com/mitra42/frugal-iot
 https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT
 https://github.com/kay-bs/KK-Switch
 https://github.com/kay-bs/KK-Buffer
+https://github.com/kay-bs/KK-Poti
 https://github.com/localrice/EasyWiFi
 https://github.com/7semi-solutions/7Semi_RS485_Temperature-Humidity-Arduino-Library
 https://github.com/7semi-solutions/7Semi_CO2_Temperature_Humidity_I2C_Probe_Arduino_Library
@@ -8557,7 +8584,8 @@ https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
 https://github.com/Bridgetek/EVE2-Arduino-Dev
 https://github.com/Bridgetek/EVE2-2-Arduino-Dev
-https://github.com/TamsinRose/CAN_Message_Arduino
+https://github.com/TamsinRose/SimpleCounter
+https://github.com/TamsinRose/CANMessage
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
 https://github.com/fermeridamagni/arduino-minimal-ultrasonic
 https://github.com/chipnorm/TM1637
@@ -8572,6 +8600,7 @@ https://github.com/FranciscoRos/CodecWSN
 https://github.com/egnor/everyday_pixel_fonts
 https://github.com/egnor/ok_arduino_little_layout
 https://github.com/egnor/ok_arduino_logging
+https://github.com/egnor/ok_micro_dock
 https://github.com/chipnorm/VL53L0X
 https://github.com/recepsenbas/DWIN-Unified
 https://github.com/FranciscoRos/EnergyWSN
@@ -8595,3 +8624,26 @@ https://github.com/juano2310/SuperCANBus
 https://github.com/stm32duino/X-NUCLEO-IHM04A1
 https://github.com/versianih/hdw-utils
 https://github.com/asimzulfiqar/esp_cron
+https://github.com/marcoratto/DMFLib-Arduino
+https://github.com/nedesico/ESP32_Thermistor
+https://github.com/pdoebler/HS300x
+https://github.com/hii-nice-2-meet-u/TINY.git
+https://github.com/hii-nice-2-meet-u/LUMINOUS.git
+https://github.com/sfera-labs/iono
+https://github.com/sfera-labs/arduino-wiegand
+https://github.com/sfera-labs/arduino-modbus-rtu-slave
+https://github.com/sfera-labs/arduino-lora-net
+https://github.com/sfera-labs/iono-mkr-lora-net
+https://github.com/sfera-labs/iono-rp-d16-arduino
+https://github.com/nedesico/ESP32_WiFi_Connect
+https://github.com/petrows/arduino-vid6608
+https://github.com/epsilonrt/ZigbeePilotWireControl
+https://github.com/laxusgooee/LXG_DC_Motor_driver
+https://github.com/Faizyee/DZ_HTTP
+https://github.com/snappyxo/microblue-arduino
+https://github.com/BestModules-Libraries/BMduino_BW16
+https://github.com/dac1e/FDC2x1x
+https://github.com/dbn-b4e/cr95hf.git
+https://github.com/xreef/RYUW122
+https://github.com/dac1e/Somo1ELV
+https://github.com/TORICA-Org/SerialWeb
