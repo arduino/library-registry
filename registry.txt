@@ -8646,3 +8646,4 @@ https://github.com/oigonzalezp2024/ESP8266NAPTExtender.git|Contributed|ESP8266 N
 https://github.com/filipporaciti/TS_lib.git|Contributed|TS_lib
 https://github.com/maxrangner/GawiButtons.git|Contributed|GawiButtons
 https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library.git|Contributed|goBILDA Pinpoint
+https://github.com/dac1e/AT24CxEeprom.git|Contributed|AT24CxEeprom
