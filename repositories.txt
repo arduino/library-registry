@@ -7430,6 +7430,7 @@ https://github.com/vovagorodok/ArduinoBleChess
 https://github.com/vovagorodok/ArduinoBleOTA
 https://github.com/vovagorodok/ArduinoBleBattery
 https://github.com/vovagorodok/ArduinoPin
+https://github.com/vovagorodok/ArduinoBuzzer
 https://github.com/vovagorodok/ArduinoStreamLogger
 https://github.com/vovagorodok/ArrayUtils
 https://github.com/vovagorodok/PicChess
