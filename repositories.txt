@@ -8657,3 +8657,4 @@ https://github.com/maxrangner/GawiButtons
 https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library
 https://github.com/dac1e/AT24CxEeprom
 https://github.com/askinkeles/DWIN_DGUS_HMI
+https://github.com/JorgeGBeltre/MQTTOTA
