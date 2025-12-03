@@ -7430,6 +7430,7 @@ https://github.com/vovagorodok/ArduinoBleChess
 https://github.com/vovagorodok/ArduinoBleOTA
 https://github.com/vovagorodok/ArduinoBleBattery
 https://github.com/vovagorodok/ArduinoPin
+https://github.com/vovagorodok/ArduinoBuzzer
 https://github.com/vovagorodok/ArduinoStreamLogger
 https://github.com/vovagorodok/ArrayUtils
 https://github.com/vovagorodok/PicChess
@@ -8655,3 +8656,4 @@ https://github.com/maxrangner/GawiButtons
 https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library
 https://github.com/dac1e/AT24CxEeprom
 https://github.com/JorgeGBeltre/MQTTOTA
+https://github.com/askinkeles/DWIN_DGUS_HMI
