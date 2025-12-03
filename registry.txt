@@ -8649,3 +8649,4 @@ https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library.git|Contrib
 https://github.com/dac1e/AT24CxEeprom.git|Contributed|AT24CxEeprom
 https://github.com/vovagorodok/ArduinoBuzzer.git|Contributed|vovagorodok_ArduinoBuzzer
 https://github.com/askinkeles/DWIN_DGUS_HMI.git|Contributed|DWIN DGUS HMI
+https://github.com/Herobrine-pixel/GestureAirDrawPro.git|Contributed|GestureAirDrawPro
