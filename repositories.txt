@@ -8051,7 +8051,7 @@ https://github.com/DBSStore/EIS
 https://github.com/guerratron/TouchCal
 https://github.com/GabyGold67/ButtonToSwitch_AVR
 https://github.com/bitbank2/bb_epaper
-https://github.com/Rmin-code2005/sparkey_gyro
+
 https://github.com/Kei0208/RX8900
 https://github.com/Garfius/cliSerialMenu
 https://github.com/nhjschulz/cfsm
@@ -8659,3 +8659,4 @@ https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library
 https://github.com/dac1e/AT24CxEeprom
 https://github.com/askinkeles/DWIN_DGUS_HMI
 https://github.com/JorgeGBeltre/MQTTOTA
+https://github.com/Rmin-code2005/sparkey_gyro
