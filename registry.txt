@@ -8652,3 +8652,4 @@ https://github.com/askinkeles/DWIN_DGUS_HMI.git|Contributed|DWIN DGUS HMI
 https://github.com/Herobrine-pixel/GestureAirDrawPro.git|Contributed|GestureAirDrawPro
 https://github.com/JorgeGBeltre/MQTTOTA.git|Contributed|MQTTOTA
 https://github.com/bhadreshmewada/UniversalDebugLib.git|Contributed|Universal Debug Library
+https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git|Contributed|TAD2144
