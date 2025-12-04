@@ -8654,3 +8654,4 @@ https://github.com/JorgeGBeltre/MQTTOTA.git|Contributed|MQTTOTA
 https://github.com/bhadreshmewada/UniversalDebugLib.git|Contributed|Universal Debug Library
 https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git|Contributed|TAD2144
 https://github.com/sparkfun/SparkFun_FPC2534_Arduino_Library.git|Contributed|SparkFun FPC2534 Arduino Library
+https://github.com/elevoi/ESteme.git|Contributed|ESteme
