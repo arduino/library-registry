@@ -6617,6 +6617,7 @@ https://github.com/SpaceTrekKSC/classbot2
 https://github.com/SpaceTrekKSC/EasyStarterKit
 https://github.com/Spaguetron/ST_HW_HC_SR04
 https://github.com/sparkfun/Fingerprint_Scanner-TTL
+https://github.com/sparkfun/SparkFun_FPC2534_Arduino_Library
 https://github.com/sparkfun/HyperDisplay_4DLCD-320240_ArduinoLibrary
 https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary
 https://github.com/sparkfun/HyperDisplay_ILI9341_ArduinoLibrary
