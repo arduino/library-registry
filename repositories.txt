@@ -3207,6 +3207,7 @@ https://github.com/GyverLibs/UnixTime
 https://github.com/GyverLibs/VirtualButton
 https://github.com/GyverLibs/VolAnalyzer
 https://github.com/ErlingSigurdson/SegMap595
+https://github.com/ErlingSigurdson/Drv7Seg2x595
 https://github.com/h-c-c/Seven_Segment_Pixel
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
