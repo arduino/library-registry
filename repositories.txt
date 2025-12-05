@@ -16,6 +16,7 @@ https://github.com/szilvasyz/DCF77FreeRTOS.git
 https://github.com/vicharak-in/shrike_arduino.git
 https://github.com/ienai-SPACE/ADC128S_Arduino
 https://github.com/oigonzalezp2024/ESP8266NAPTExtender
+https://github.com/oigonzalezp2024/ESP8266AIGemini
 https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino   
 https://github.com/BojanJurca/cin-cout-for-Arduino
 https://github.com/atestb/MCP4151-Digital-Potentiometer
@@ -3207,6 +3208,7 @@ https://github.com/GyverLibs/UnixTime
 https://github.com/GyverLibs/VirtualButton
 https://github.com/GyverLibs/VolAnalyzer
 https://github.com/ErlingSigurdson/SegMap595
+https://github.com/ErlingSigurdson/Drv7Seg2x595
 https://github.com/h-c-c/Seven_Segment_Pixel
 https://github.com/H-Kurosaki/UARDECS
 https://github.com/H-Kurosaki/UARDECS_MEGA
@@ -7080,6 +7082,7 @@ https://github.com/tanakamasayuki/EmbedFS
 https://github.com/tanakamasayuki/EspHelper
 https://github.com/tanakamasayuki/AssocTree
 https://github.com/tanakamasayuki/EspHttpServer
+https://github.com/tanakamasayuki/ESP32AutoTask
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
