@@ -8657,3 +8657,4 @@ https://github.com/sparkfun/SparkFun_FPC2534_Arduino_Library.git|Contributed|Spa
 https://github.com/elevoi/ESteme.git|Contributed|ESteme
 https://github.com/ErlingSigurdson/Drv7Seg2x595.git|Contributed|Drv7Seg2x595
 https://github.com/oigonzalezp2024/ESP8266AIGemini.git|Contributed|ESP8266AIGemini
+https://github.com/tanakamasayuki/ESP32AutoTask.git|Contributed|ESP32AutoTask
