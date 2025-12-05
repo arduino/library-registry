@@ -7082,6 +7082,7 @@ https://github.com/tanakamasayuki/EmbedFS
 https://github.com/tanakamasayuki/EspHelper
 https://github.com/tanakamasayuki/AssocTree
 https://github.com/tanakamasayuki/EspHttpServer
+https://github.com/tanakamasayuki/ESP32AutoTask
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
