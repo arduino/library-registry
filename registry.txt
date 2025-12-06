@@ -8660,3 +8660,4 @@ https://github.com/oigonzalezp2024/ESP8266AIGemini.git|Contributed|ESP8266AIGemi
 https://github.com/tanakamasayuki/ESP32AutoTask.git|Contributed|ESP32AutoTask
 https://github.com/sava-74/SavaLED_ESP32.git|Contributed|SavaLED_ESP32
 https://github.com/Herobrine-pixel/GestureAirDraw.git|Contributed|GestureAirDraw
+https://github.com/Herobrine-pixel/BluetoothTonePlayer.git|Contributed|BluetoothTonePlayer
