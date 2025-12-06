@@ -1,4 +1,6 @@
 https://github.com/sava-74/SavaTime.git
+https://github.com/Herobrine-pixel/BluetoothTonePlayer
+https://github.com/Herobrine-pixel/GestureAirDraw
 https://github.com/sava-74/SavaLED_ESP32.git
 https://github.com/tdk-invn-oss/motion.arduino.TAD2144
 https://github.com/bhadreshmewada/UniversalDebugLib
@@ -4768,6 +4770,7 @@ https://github.com/mobizt/FirebaseJson
 https://github.com/mobizt/ReadyMail
 https://github.com/mobizt/SerialTCPClient
 https://github.com/mobizt/SerialNetworkBridge
+https://github.com/mobizt/NuSock
 https://github.com/modulolabs/modulo-lib
 https://github.com/mogel77/Jobber
 https://github.com/MohammedRashad/ArduZ80
