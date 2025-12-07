@@ -1,4 +1,5 @@
 https://github.com/sava-74/SavaTrig.git
+https://github.com/sava-74/SavaButton.git
 https://github.com/sava-74/SavaTime.git
 https://github.com/Herobrine-pixel/BluetoothTonePlayer
 https://github.com/Herobrine-pixel/GestureAirDraw
@@ -7780,6 +7781,7 @@ https://github.com/mbrugman67/Uno-Minimal-HUB75
 https://github.com/derekcurry/super_easing
 https://github.com/byrmeng/DeneyapKart.QRCodeReader
 https://github.com/Jens3382/xy6020l
+https://github.com/Manjunathan1998/DYSVAUDIO5W
 https://github.com/braydenanderson2014/ArduinoArrayList
 https://github.com/braydenanderson2014/ArduinoDoubleLinkedList
 https://github.com/braydenanderson2014/ArduinoLinkedList
@@ -8671,3 +8673,5 @@ https://github.com/dac1e/AT24CxEeprom
 https://github.com/askinkeles/DWIN_DGUS_HMI
 https://github.com/JorgeGBeltre/MQTTOTA
 https://github.com/elevoi/ESteme
+https://github.com/fiaos-org/FiaPhy
+https://github.com/hidori/DigitalButton
