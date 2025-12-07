@@ -8665,3 +8665,4 @@ https://github.com/mobizt/NuSock.git|Contributed|NuSock
 https://github.com/sava-74/SavaTime.git|Contributed|SavaTime
 https://github.com/fiaos-org/FiaPhy.git|Contributed|FiaPhy
 https://github.com/sava-74/SavaButton.git|Contributed|SavaButton
+https://github.com/Manjunathan1998/DYSVAUDIO5W.git|Contributed|DYSVAudio5W
