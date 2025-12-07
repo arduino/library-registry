@@ -5976,6 +5976,7 @@ https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
 https://github.com/RobTillaart/moduloMap
+https://github.com/RobTillaart/MS4525DO_RT
 https://github.com/RobTillaart/MS5611
 https://github.com/RobTillaart/MS5611_SPI
 https://github.com/RobTillaart/MS5837
