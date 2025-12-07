@@ -8669,3 +8669,4 @@ https://github.com/Manjunathan1998/DYSVAUDIO5W.git|Contributed|DYSVAudio5W
 https://github.com/hidori/DigitalButton.git|Contributed|DigitalButton
 https://github.com/sava-74/SavaTrig.git|Contributed|SavaTrig
 https://github.com/PaulNTU/PandaCam.git|Contributed|PandaCam
+https://github.com/RobTillaart/MS4525DO_RT.git|Contributed|MS4525DO_RT
