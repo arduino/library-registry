@@ -1,3 +1,4 @@
+https://github.com/sava-74/SavaTrig.git
 https://github.com/sava-74/SavaButton.git
 https://github.com/sava-74/SavaTime.git
 https://github.com/Herobrine-pixel/BluetoothTonePlayer
