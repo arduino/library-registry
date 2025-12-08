@@ -8694,3 +8694,4 @@ https://github.com/leftCoast/LC_Adafruit_GPS.git|Contributed|LC_Adafruit_GPS
 https://github.com/leftCoast/LC_numStream.git|Contributed|LC_numStream
 https://github.com/leftCoast/LC_J1939.git|Contributed|LC_SAE_J1939
 https://github.com/tanakamasayuki/EspNowBus.git|Contributed|EspNowBus
+https://github.com/Alby312/OpenLogManager.git|Contributed|OpenLogManager
