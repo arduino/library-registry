@@ -8696,3 +8696,9 @@ https://github.com/leftCoast/LC_J1939.git|Contributed|LC_SAE_J1939
 https://github.com/tanakamasayuki/EspNowBus.git|Contributed|EspNowBus
 https://github.com/Alby312/OpenLogManager.git|Contributed|OpenLogManager
 https://github.com/joy-it/JoyIT_LSM6DS3TR-C.git|Contributed|JoyIT_LSM6DS3TR-C
+https://github.com/leftCoast/LCP_sTerm.git|Contributed|LCP_sTerm
+https://github.com/leftCoast/LCP_sett.git|Contributed|LCP_sett
+https://github.com/leftCoast/LCP_rpnCalc.git|Contributed|LCP_rpnCalc
+https://github.com/leftCoast/LCP_iconEdit.git|Contributed|LCP_iconEdit
+https://github.com/leftCoast/LCP_grenade.git|Contributed|LCP_grenade
+https://github.com/leftCoast/LCP_breakout.git|Contributed|LCP_breakout
