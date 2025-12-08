@@ -8672,3 +8672,4 @@ https://github.com/PaulNTU/PandaCam.git|Contributed|PandaCam
 https://github.com/RobTillaart/MS4525DO_RT.git|Contributed|MS4525DO_RT
 https://github.com/ZZ-Cat/CRSFforArduino.git|Contributed|CRSFforArduino
 https://github.com/hidori/ProgMemFS.git|Contributed|ProgMemFS
+https://github.com/tanakamasayuki/ESP32TaskKit.git|Contributed|ESP32TaskKit
