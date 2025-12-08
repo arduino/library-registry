@@ -1,4 +1,4 @@
-https://github.com/leftCoast/LCP_sTermv
+https://github.com/leftCoast/LCP_sTerm
 https://github.com/leftCoast/LCP_sett
 https://github.com/leftCoast/LCP_rpnCalc
 https://github.com/leftCoast/LCP_iconEdit
