@@ -8702,3 +8702,4 @@ https://github.com/fiaos-org/FiaPhy
 https://github.com/hidori/DigitalButton
 https://github.com/PaulNTU/PandaCam
 https://github.com/hidori/ProgMemFS
+https://github.com/joy-it/JoyIT_LSM6DS3TR-C
