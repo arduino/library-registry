@@ -8695,3 +8695,4 @@ https://github.com/leftCoast/LC_numStream.git|Contributed|LC_numStream
 https://github.com/leftCoast/LC_J1939.git|Contributed|LC_SAE_J1939
 https://github.com/tanakamasayuki/EspNowBus.git|Contributed|EspNowBus
 https://github.com/Alby312/OpenLogManager.git|Contributed|OpenLogManager
+https://github.com/joy-it/JoyIT_LSM6DS3TR-C.git|Contributed|JoyIT_LSM6DS3TR-C
