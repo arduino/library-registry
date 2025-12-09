@@ -8702,3 +8702,4 @@ https://github.com/leftCoast/LCP_rpnCalc.git|Contributed|LCP_rpnCalc
 https://github.com/leftCoast/LCP_iconEdit.git|Contributed|LCP_iconEdit
 https://github.com/leftCoast/LCP_grenade.git|Contributed|LCP_grenade
 https://github.com/leftCoast/LCP_breakout.git|Contributed|LCP_breakout
+https://github.com/steambinhlong/SBLC.git|Contributed|Steam Binh Long
