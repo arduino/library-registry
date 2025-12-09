@@ -8705,3 +8705,4 @@ https://github.com/leftCoast/LCP_breakout.git|Contributed|LCP_breakout
 https://github.com/steambinhlong/SBLC.git|Contributed|Steam Binh Long
 https://github.com/tonimatutinovic/myDHT.git|Contributed|myDHT
 https://github.com/GyverLibs/uEncoder.git|Contributed|uEncoder
+https://github.com/MR01Right/BH1730FVC.git|Contributed|BH1730FVC
