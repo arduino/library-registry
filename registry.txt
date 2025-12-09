@@ -8703,3 +8703,4 @@ https://github.com/leftCoast/LCP_iconEdit.git|Contributed|LCP_iconEdit
 https://github.com/leftCoast/LCP_grenade.git|Contributed|LCP_grenade
 https://github.com/leftCoast/LCP_breakout.git|Contributed|LCP_breakout
 https://github.com/steambinhlong/SBLC.git|Contributed|Steam Binh Long
+https://github.com/tonimatutinovic/myDHT.git|Contributed|myDHT
