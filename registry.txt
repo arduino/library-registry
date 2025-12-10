@@ -8712,3 +8712,4 @@ https://github.com/wedsamuel1230/Pico_OTA.git|Contributed|PICO_OTA
 https://gitlab.com/Vishal1695/mvsota_esp32.git|Contributed|MvsOTA_ESP32
 https://github.com/Pandiyarajk/rtc.git|Contributed|rtc
 https://github.com/Glinek/omniMath.git|Contributed|omniMath
+https://github.com/raiotech-iot/RAIOTerm.git|Contributed|RAIOTerm
