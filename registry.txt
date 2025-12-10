@@ -8707,3 +8707,4 @@ https://github.com/tonimatutinovic/myDHT.git|Contributed|myDHT
 https://github.com/GyverLibs/uEncoder.git|Contributed|uEncoder
 https://github.com/MR01Right/BH1730FVC.git|Contributed|BH1730FVC
 https://github.com/romoloman/esp32-rmt-pwm-reader.git|Contributed|esp32-rmt-pwm-reader
+https://github.com/MR01Right/SHT40.git|Contributed|SHT40
