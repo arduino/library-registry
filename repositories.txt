@@ -8714,3 +8714,4 @@ https://github.com/joy-it/JoyIT_LSM6DS3TR-C
 https://github.com/steambinhlong/SBLC
 https://github.com/MR01Right/BH1730FVC
 https://github.com/romoloman/esp32-rmt-pwm-reader
+https://github.com/MR01Right/SHT40
