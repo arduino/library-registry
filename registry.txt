@@ -8710,3 +8710,4 @@ https://github.com/romoloman/esp32-rmt-pwm-reader.git|Contributed|esp32-rmt-pwm-
 https://github.com/MR01Right/SHT40.git|Contributed|SHT40
 https://github.com/wedsamuel1230/Pico_OTA.git|Contributed|PICO_OTA
 https://gitlab.com/Vishal1695/mvsota_esp32.git|Contributed|MvsOTA_ESP32
+https://github.com/Pandiyarajk/rtc.git|Contributed|rtc
