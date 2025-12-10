@@ -8718,3 +8718,4 @@ https://github.com/MR01Right/BH1730FVC
 https://github.com/romoloman/esp32-rmt-pwm-reader
 https://github.com/MR01Right/SHT40
 https://gitlab.com/Vishal1695/mvsota_esp32.git
+https://github.com/Glinek/omniMath
