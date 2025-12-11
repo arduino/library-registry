@@ -8716,3 +8716,4 @@ https://github.com/raiotech-iot/RAIOTerm.git|Contributed|RAIOTerm
 https://github.com/strix190788/DCMotor_L9110.git|Contributed|DCMotor_L9110
 https://github.com/phirippa-source/RiaPushbuttonLite.git|Contributed|RiaPushbuttonLite
 https://github.com/GyverLibs/BLESerial_ESP32.git|Contributed|BLESerial_ESP32
+https://github.com/adafruit/Adafruit_STCC4.git|Recommended|Adafruit STCC4
