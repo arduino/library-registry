@@ -1,3 +1,5 @@
+https://github.com/strix190788/DCMotor_L9110
+https://github.com/wedsamuel1230/Pico_OTA/
 https://github.com/leftCoast/LCP_sTerm
 https://github.com/tonimatutinovic/myDHT
 https://github.com/leftCoast/LCP_sett
@@ -8711,4 +8713,12 @@ https://github.com/hidori/DigitalButton
 https://github.com/PaulNTU/PandaCam
 https://github.com/hidori/ProgMemFS
 https://github.com/joy-it/JoyIT_LSM6DS3TR-C
+https://github.com/Pandiyarajk/rtc
 https://github.com/steambinhlong/SBLC
+https://github.com/MR01Right/BH1730FVC
+https://github.com/romoloman/esp32-rmt-pwm-reader
+https://github.com/MR01Right/SHT40
+https://gitlab.com/Vishal1695/mvsota_esp32.git
+https://github.com/Glinek/omniMath
+https://github.com/raiotech-iot/RAIOTerm.git
+https://github.com/phirippa-source/RiaPushbuttonLite
