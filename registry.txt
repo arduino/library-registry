@@ -8715,3 +8715,4 @@ https://github.com/Glinek/omniMath.git|Contributed|omniMath
 https://github.com/raiotech-iot/RAIOTerm.git|Contributed|RAIOTerm
 https://github.com/strix190788/DCMotor_L9110.git|Contributed|DCMotor_L9110
 https://github.com/phirippa-source/RiaPushbuttonLite.git|Contributed|RiaPushbuttonLite
+https://github.com/GyverLibs/BLESerial_ESP32.git|Contributed|BLESerial_ESP32
