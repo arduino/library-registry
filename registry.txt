@@ -8720,3 +8720,4 @@ https://github.com/adafruit/Adafruit_STCC4.git|Recommended|Adafruit STCC4
 https://github.com/Viderspace/Smooth-Axis-Arduino.git|Contributed|SmoothAxis
 https://github.com/nbulatovi/Quecduino.git|Contributed|Quecduino
 https://github.com/adafruit/Adafruit_SGP41.git|Recommended|Adafruit SGP41
+https://github.com/Alby312/AdvancedPID.git|Contributed|AdvancedPID
