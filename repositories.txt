@@ -1,3 +1,6 @@
+https://github.com/Alby312/AdvancedPID
+https://github.com/Viderspace/Smooth-Axis-Arduino.git
+https://github.com/strix190788/DCMotor_L9110
 https://github.com/wedsamuel1230/Pico_OTA/
 https://github.com/leftCoast/LCP_sTerm
 https://github.com/tonimatutinovic/myDHT
@@ -932,6 +935,7 @@ https://github.com/adafruit/Adafruit_Sensor_Calibration
 https://github.com/adafruit/Adafruit_SensorLab
 https://github.com/adafruit/Adafruit_SGP30
 https://github.com/adafruit/Adafruit_SGP40
+https://github.com/adafruit/Adafruit_SGP41
 https://github.com/adafruit/Adafruit_SH110x
 https://github.com/adafruit/Adafruit_SHARP_Memory_Display
 https://github.com/adafruit/Adafruit_SHT31
@@ -949,6 +953,7 @@ https://github.com/adafruit/Adafruit_SSD1305
 https://github.com/adafruit/Adafruit_SSD1306
 https://github.com/adafruit/Adafruit_SSD1325_Library
 https://github.com/adafruit/Adafruit_SSD1327
+https://github.com/adafruit/Adafruit_STCC4
 https://github.com/adafruit/Adafruit_STHS34PF80
 https://github.com/adafruit/Adafruit_STMPE610
 https://github.com/adafruit/Adafruit_STSPIN
@@ -3125,6 +3130,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/BLESerial_ESP32
 https://github.com/GyverLibs/uEncoder
 https://github.com/GyverLibs/uButton
 https://github.com/GyverLibs/GyverPing
@@ -8721,3 +8727,5 @@ https://gitlab.com/Vishal1695/mvsota_esp32.git
 https://github.com/Glinek/omniMath
 https://github.com/raiotech-iot/RAIOTerm.git
 https://github.com/raiotech-iot/RAIOT_MQTT.git
+https://github.com/phirippa-source/RiaPushbuttonLite
+https://github.com/nbulatovi/Quecduino
