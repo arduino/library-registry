@@ -1,3 +1,4 @@
+https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network
 https://github.com/MTD2A/MTD2A
 https://github.com/me-RK/MAX7219_CH32
 https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot
