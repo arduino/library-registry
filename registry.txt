@@ -8718,3 +8718,4 @@ https://github.com/phirippa-source/RiaPushbuttonLite.git|Contributed|RiaPushbutt
 https://github.com/GyverLibs/BLESerial_ESP32.git|Contributed|BLESerial_ESP32
 https://github.com/adafruit/Adafruit_STCC4.git|Recommended|Adafruit STCC4
 https://github.com/Viderspace/Smooth-Axis-Arduino.git|Contributed|SmoothAxis
+https://github.com/nbulatovi/Quecduino.git|Contributed|Quecduino
