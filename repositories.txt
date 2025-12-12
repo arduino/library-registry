@@ -934,6 +934,7 @@ https://github.com/adafruit/Adafruit_Sensor_Calibration
 https://github.com/adafruit/Adafruit_SensorLab
 https://github.com/adafruit/Adafruit_SGP30
 https://github.com/adafruit/Adafruit_SGP40
+https://github.com/adafruit/Adafruit_SGP41
 https://github.com/adafruit/Adafruit_SH110x
 https://github.com/adafruit/Adafruit_SHARP_Memory_Display
 https://github.com/adafruit/Adafruit_SHT31
