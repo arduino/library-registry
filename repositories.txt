@@ -8726,5 +8726,6 @@ https://github.com/MR01Right/SHT40
 https://gitlab.com/Vishal1695/mvsota_esp32.git
 https://github.com/Glinek/omniMath
 https://github.com/raiotech-iot/RAIOTerm.git
+https://github.com/raiotech-iot/RAIOT_MQTT.git
 https://github.com/phirippa-source/RiaPushbuttonLite
 https://github.com/nbulatovi/Quecduino
