@@ -8726,3 +8726,4 @@ https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network.git|Con
 https://github.com/jeanloickdt/InstantIoT.git|Contributed|InstantIoT
 https://github.com/leftCoast/LC_SPI.git|Contributed|LC_SPI
 https://github.com/JakeWritesCode/inventronix-esp32-http.git|Contributed|Inventronix
+https://github.com/torrey-xyz/solduino.git|Contributed|sol
