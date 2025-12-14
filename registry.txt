@@ -8723,3 +8723,4 @@ https://github.com/adafruit/Adafruit_SGP41.git|Recommended|Adafruit SGP41
 https://github.com/Alby312/AdvancedPID.git|Contributed|AdvancedPID
 https://github.com/raiotech-iot/RAIOT_MQTT.git|Contributed|RAIOT_MQTT
 https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network.git|Contributed|LightweightNeuralNetwork
+https://github.com/jeanloickdt/InstantIoT.git|Contributed|InstantIoT
