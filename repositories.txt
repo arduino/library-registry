@@ -8732,3 +8732,4 @@ https://github.com/raiotech-iot/RAIOTerm.git
 https://github.com/raiotech-iot/RAIOT_MQTT.git
 https://github.com/phirippa-source/RiaPushbuttonLite
 https://github.com/nbulatovi/Quecduino
+https://github.com/JakeWritesCode/inventronix-esp32-http
