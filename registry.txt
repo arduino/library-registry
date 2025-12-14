@@ -8725,3 +8725,4 @@ https://github.com/raiotech-iot/RAIOT_MQTT.git|Contributed|RAIOT_MQTT
 https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network.git|Contributed|LightweightNeuralNetwork
 https://github.com/jeanloickdt/InstantIoT.git|Contributed|InstantIoT
 https://github.com/leftCoast/LC_SPI.git|Contributed|LC_SPI
+https://github.com/JakeWritesCode/inventronix-esp32-http.git|Contributed|Inventronix
