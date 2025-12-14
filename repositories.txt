@@ -1,4 +1,5 @@
 https://github.com/leftCoast/LC_SPI
+https://github.com/jeanloickdt/InstantIoT
 https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network 
 https://github.com/Alby312/AdvancedPID
 https://github.com/Viderspace/Smooth-Axis-Arduino.git
