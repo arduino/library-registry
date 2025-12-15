@@ -8735,4 +8735,5 @@ https://github.com/nbulatovi/Quecduino
 https://github.com/JakeWritesCode/inventronix-esp32-http
 https://github.com/torrey-xyz/solduino
 https://github.com/crane-elec/WFAN920
-
+https://github.com/stm32duino/ST25R500
+https://github.com/stm32duino/X-NUCLEO-NFC12A1
