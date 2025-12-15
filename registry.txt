@@ -8732,3 +8732,4 @@ https://github.com/stm32duino/ST25R500.git|Contributed|STM32duino ST25R500
 https://github.com/stm32duino/X-NUCLEO-NFC12A1.git|Contributed|STM32duino X-NUCLEO-NFC12A1
 https://github.com/TUDA-MUST/Resense-HEX.git|Contributed|Resense HEX
 https://github.com/dudmoryo-cyber/TTP229_keypad.git|Contributed|TTP229 Keypad Driver
+https://github.com/LEKPCSTEAM/ESP32-OTA-Client.git|Contributed|ESP32-OTA-Client
