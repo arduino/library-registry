@@ -8730,3 +8730,4 @@ https://github.com/torrey-xyz/solduino.git|Contributed|sol
 https://github.com/crane-elec/WFAN920.git|Contributed|WFAN920
 https://github.com/stm32duino/ST25R500.git|Contributed|STM32duino ST25R500
 https://github.com/stm32duino/X-NUCLEO-NFC12A1.git|Contributed|STM32duino X-NUCLEO-NFC12A1
+https://github.com/TUDA-MUST/Resense-HEX.git|Contributed|Resense HEX
