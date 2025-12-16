@@ -8736,3 +8736,4 @@ https://github.com/LEKPCSTEAM/ESP32-OTA-Client.git|Contributed|ESP32-OTA-Client
 https://github.com/cpei2025/ESPNowAdhoc.git|Contributed|ESPNowAdhoc
 https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32.git|Contributed|ThreadSafePing
 https://github.com/seeimadeit/AES128ESP32.git|Contributed|AES128ESP32 Library
+https://github.com/dndubins/MLX90641.git|Contributed|MLX90641
