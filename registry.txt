@@ -4718,7 +4718,7 @@ https://github.com/Sensirion/arduino-i2c-sts4x.git|Contributed|Sensirion I2C STS
 https://github.com/Sensirion/arduino-i2c-sf06-lf.git|Contributed|Sensirion I2C SF06-LF
 https://github.com/chrmlinux/ArrayExt.git|Contributed|ArrayExt
 https://github.com/Pixelbo/Pelco_And_Arduino.git|Contributed|Pelco_And_Arduino
-https://github.com/sitronlabs/SitronLabs_OPT3001_Arduino_Library.git|Contributed|Sitron Labs OPT3001 Ambient Light Sensor Arduino Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_OPT3001_Arduino_Library.git|Contributed|Sitron Labs OPT3001 Arduino Library
 https://github.com/luoluomeng/HUSB238Driver.git|Contributed|HUSB238Driver
 https://github.com/luoluomeng/NST1001Driver.git|Contributed|NST1001Driver
 https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574.git|Contributed|HD44780_LCD_PCF8574
@@ -8649,3 +8649,92 @@ https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library.git|Contrib
 https://github.com/dac1e/AT24CxEeprom.git|Contributed|AT24CxEeprom
 https://github.com/vovagorodok/ArduinoBuzzer.git|Contributed|vovagorodok_ArduinoBuzzer
 https://github.com/askinkeles/DWIN_UNI_HMI.git|Contributed|DWIN_UNI_HMI
+https://github.com/Herobrine-pixel/GestureAirDrawPro.git|Contributed|GestureAirDrawPro
+https://github.com/JorgeGBeltre/MQTTOTA.git|Contributed|MQTTOTA
+https://github.com/bhadreshmewada/UniversalDebugLib.git|Contributed|Universal Debug Library
+https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git|Contributed|TAD2144
+https://github.com/sparkfun/SparkFun_FPC2534_Arduino_Library.git|Contributed|SparkFun FPC2534 Arduino Library
+https://github.com/elevoi/ESteme.git|Contributed|ESteme
+https://github.com/ErlingSigurdson/Drv7Seg2x595.git|Contributed|Drv7Seg2x595
+https://github.com/oigonzalezp2024/ESP8266AIGemini.git|Contributed|ESP8266AIGemini
+https://github.com/tanakamasayuki/ESP32AutoTask.git|Contributed|ESP32AutoTask
+https://github.com/sava-74/SavaLED_ESP32.git|Contributed|SavaLED_ESP32
+https://github.com/Herobrine-pixel/GestureAirDraw.git|Contributed|GestureAirDraw
+https://github.com/Herobrine-pixel/BluetoothTonePlayer.git|Contributed|BluetoothTonePlayer
+https://github.com/mobizt/NuSock.git|Contributed|NuSock
+https://github.com/sava-74/SavaTime.git|Contributed|SavaTime
+https://github.com/fiaos-org/FiaPhy.git|Contributed|FiaPhy
+https://github.com/sava-74/SavaButton.git|Contributed|SavaButton
+https://github.com/Manjunathan1998/DYSVAUDIO5W.git|Contributed|DYSVAudio5W
+https://github.com/hidori/DigitalButton.git|Contributed|DigitalButton
+https://github.com/sava-74/SavaTrig.git|Contributed|SavaTrig
+https://github.com/PaulNTU/PandaCam.git|Contributed|PandaCam
+https://github.com/RobTillaart/MS4525DO_RT.git|Contributed|MS4525DO_RT
+https://github.com/ZZ-Cat/CRSFforArduino.git|Contributed|CRSFforArduino
+https://github.com/hidori/ProgMemFS.git|Contributed|ProgMemFS
+https://github.com/tanakamasayuki/ESP32TaskKit.git|Contributed|ESP32TaskKit
+https://github.com/leftCoast/LC_piezoTunes.git|Contributed|LC_piezoTunes
+https://github.com/leftCoast/LC_RPNCalculator.git|Contributed|LC_RPNCalculator
+https://github.com/leftCoast/LC_Adafruit_VS1053.git|Contributed|LC_Adafruit_VS1053
+https://github.com/leftCoast/LC_GUITools.git|Contributed|LC_GUITools
+https://github.com/leftCoast/LC_Adafruit_684.git|Contributed|LC_Adafruit_684
+https://github.com/leftCoast/LC_Adafruit_1431.git|Contributed|LC_Adafruit_1431
+https://github.com/leftCoast/LC_Adafruit_1947.git|Contributed|LC_Adafruit_1947
+https://github.com/leftCoast/LC_DFRobot_0995.git|Contributed|LC_DFRobot_0995
+https://github.com/leftCoast/LC_Adafruit_2050.git|Contributed|LC_Adafruit_2050
+https://github.com/leftCoast/LC_bmpTools.git|Contributed|LC_bmpObj
+https://github.com/leftCoast/LC_keyboard.git|Contributed|LC_keyboard
+https://github.com/leftCoast/LC_blockFile.git|Contributed|LC_blockfile
+https://github.com/leftCoast/LC_SDTools.git|Contributed|LC_SDTools
+https://github.com/leftCoast/LC_docTools.git|Contributed|LC_docTools
+https://github.com/leftCoast/LC_lilOS.git|Contributed|LC_lilOS
+https://github.com/leftCoast/LC_modalAlerts.git|Contributed|LC_modalAlerts
+https://github.com/leftCoast/LC_navTools.git|Contributed|LC_navTools
+https://github.com/leftCoast/LC_Adafruit_GPS.git|Contributed|LC_Adafruit_GPS
+https://github.com/leftCoast/LC_numStream.git|Contributed|LC_numStream
+https://github.com/leftCoast/LC_J1939.git|Contributed|LC_SAE_J1939
+https://github.com/tanakamasayuki/EspNowBus.git|Contributed|EspNowBus
+https://github.com/Alby312/OpenLogManager.git|Contributed|OpenLogManager
+https://github.com/joy-it/JoyIT_LSM6DS3TR-C.git|Contributed|JoyIT_LSM6DS3TR-C
+https://github.com/leftCoast/LCP_sTerm.git|Contributed|LCP_sTerm
+https://github.com/leftCoast/LCP_sett.git|Contributed|LCP_sett
+https://github.com/leftCoast/LCP_rpnCalc.git|Contributed|LCP_rpnCalc
+https://github.com/leftCoast/LCP_iconEdit.git|Contributed|LCP_iconEdit
+https://github.com/leftCoast/LCP_grenade.git|Contributed|LCP_grenade
+https://github.com/leftCoast/LCP_breakout.git|Contributed|LCP_breakout
+https://github.com/steambinhlong/SBLC.git|Contributed|Steam Binh Long
+https://github.com/tonimatutinovic/myDHT.git|Contributed|myDHT
+https://github.com/GyverLibs/uEncoder.git|Contributed|uEncoder
+https://github.com/MR01Right/BH1730FVC.git|Contributed|BH1730FVC
+https://github.com/romoloman/esp32-rmt-pwm-reader.git|Contributed|esp32-rmt-pwm-reader
+https://github.com/MR01Right/SHT40.git|Contributed|SHT40
+https://github.com/wedsamuel1230/Pico_OTA.git|Contributed|PICO_OTA
+https://gitlab.com/Vishal1695/mvsota_esp32.git|Contributed|MvsOTA_ESP32
+https://github.com/Pandiyarajk/rtc.git|Contributed|rtc
+https://github.com/Glinek/omniMath.git|Contributed|omniMath
+https://github.com/raiotech-iot/RAIOTerm.git|Contributed|RAIOTerm
+https://github.com/strix190788/DCMotor_L9110.git|Contributed|DCMotor_L9110
+https://github.com/phirippa-source/RiaPushbuttonLite.git|Contributed|RiaPushbuttonLite
+https://github.com/GyverLibs/BLESerial_ESP32.git|Contributed|BLESerial_ESP32
+https://github.com/adafruit/Adafruit_STCC4.git|Recommended|Adafruit STCC4
+https://github.com/Viderspace/Smooth-Axis-Arduino.git|Contributed|SmoothAxis
+https://github.com/nbulatovi/Quecduino.git|Contributed|Quecduino
+https://github.com/adafruit/Adafruit_SGP41.git|Recommended|Adafruit SGP41
+https://github.com/Alby312/AdvancedPID.git|Contributed|AdvancedPID
+https://github.com/raiotech-iot/RAIOT_MQTT.git|Contributed|RAIOT_MQTT
+https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network.git|Contributed|LightweightNeuralNetwork
+https://github.com/jeanloickdt/InstantIoT.git|Contributed|InstantIoT
+https://github.com/leftCoast/LC_SPI.git|Contributed|LC_SPI
+https://github.com/JakeWritesCode/inventronix-esp32-http.git|Contributed|Inventronix
+https://github.com/torrey-xyz/solduino.git|Contributed|sol
+https://github.com/crane-elec/WFAN920.git|Contributed|WFAN920
+https://github.com/stm32duino/ST25R500.git|Contributed|STM32duino ST25R500
+https://github.com/stm32duino/X-NUCLEO-NFC12A1.git|Contributed|STM32duino X-NUCLEO-NFC12A1
+https://github.com/TUDA-MUST/Resense-HEX.git|Contributed|Resense HEX
+https://github.com/dudmoryo-cyber/TTP229_keypad.git|Contributed|TTP229 Keypad Driver
+https://github.com/LEKPCSTEAM/ESP32-OTA-Client.git|Contributed|ESP32-OTA-Client
+https://github.com/cpei2025/ESPNowAdhoc.git|Contributed|ESPNowAdhoc
+https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32.git|Contributed|ThreadSafePing
+https://github.com/seeimadeit/AES128ESP32.git|Contributed|AES128ESP32 Library
+https://github.com/dndubins/MLX90641.git|Contributed|MLX90641
+https://github.com/DavidSAlexander/STM32RomWebFlasher.git|Contributed|STM32RomWebFlasher
