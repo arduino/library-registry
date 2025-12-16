@@ -1,3 +1,4 @@
+https://github.com/DavidSAlexander/STM32RomWebFlasher
 https://github.com/seeimadeit/AES128ESP32
 https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32
 https://github.com/TUDA-MUST/Resense-HEX/
