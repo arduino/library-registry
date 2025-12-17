@@ -8738,3 +8738,4 @@ https://github.com/seeimadeit/AES128ESP32.git|Contributed|AES128ESP32 Library
 https://github.com/dndubins/MLX90641.git|Contributed|MLX90641
 https://github.com/DavidSAlexander/STM32RomWebFlasher.git|Contributed|STM32RomWebFlasher
 https://github.com/sstaub/Seesaw.git|Contributed|Seesaw
+https://github.com/MrYsLab/Telemetrix4RpiPico2w.git|Contributed|Telemetrix4RpiPico2w
