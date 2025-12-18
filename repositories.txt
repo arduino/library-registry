@@ -8748,5 +8748,5 @@ https://github.com/crane-elec/WFAN920
 https://github.com/stm32duino/ST25R500
 https://github.com/stm32duino/X-NUCLEO-NFC12A1
 https://github.com/LEKPCSTEAM/ESP32-OTA-Client
-https://github.com/cpei2025/ESPNowAdhoc
 https://github.com/Fran6nd/Updatable
+https://github.com/hinyhiny/ESP_NowAdhoc
