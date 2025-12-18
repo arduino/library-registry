@@ -8492,7 +8492,7 @@ https://github.com/bull-m/BULLM_ExtendMotor
 https://github.com/npuckett/WebGUI
 https://github.com/kolod/Arduino-Simple-Modbus-Slave
 https://github.com/EmotiBit/EmotiBit_Brainflow_SpO2_Algorithm
-https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus
+https://github.com/HarborScale/harbor-sdk-c-plus-plus
 https://github.com/ycharfi09/QTRMuxes
 https://github.com/BestModules-Libraries/BMH12M205
 https://github.com/BestModules-Libraries/BMS56M206A
