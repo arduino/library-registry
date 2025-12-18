@@ -8743,3 +8743,4 @@ https://github.com/hackffm/Single_WS2812_Bitbang_Write.git|Contributed|Single_WS
 https://github.com/tanakamasayuki/ESP32SyncKit.git|Contributed|ESP32SyncKit
 https://github.com/arduino-libraries/Arduino_Nesso_N1.git|Arduino|Arduino_Nesso_N1
 https://github.com/Fran6nd/Updatable.git|Contributed|Updatable
+https://github.com/Hestia-system/Hestia-tempo.git|Contributed|HestiaTempo
