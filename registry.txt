@@ -8740,3 +8740,4 @@ https://github.com/DavidSAlexander/STM32RomWebFlasher.git|Contributed|STM32RomWe
 https://github.com/sstaub/Seesaw.git|Contributed|Seesaw
 https://github.com/MrYsLab/Telemetrix4RpiPico2w.git|Contributed|Telemetrix4RpiPico2w
 https://github.com/hackffm/Single_WS2812_Bitbang_Write.git|Contributed|Single_WS2812_Bitbang_Write
+https://github.com/tanakamasayuki/ESP32SyncKit.git|Contributed|ESP32SyncKit
