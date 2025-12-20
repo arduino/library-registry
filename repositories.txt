@@ -8753,3 +8753,4 @@ https://github.com/cpei2025/ESPNowAdhoc
 https://github.com/Fran6nd/Updatable
 https://github.com/Hestia-system/Hestia-tempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library
+https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino
