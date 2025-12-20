@@ -8745,3 +8745,4 @@ https://github.com/arduino-libraries/Arduino_Nesso_N1.git|Arduino|Arduino_Nesso_
 https://github.com/Fran6nd/Updatable.git|Contributed|Updatable
 https://github.com/Hestia-system/Hestia-tempo.git|Contributed|HestiaTempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library.git|Contributed|goBILDA Prism
+https://github.com/jobitjoseph/WitAITTS.git|Contributed|WitAITTS
