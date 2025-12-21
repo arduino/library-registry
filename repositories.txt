@@ -8757,3 +8757,4 @@ https://github.com/Hestia-system/Hestia-tempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library
 https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino
 https://github.com/maumolinavaldez-pixel/BioLogic
+https://github.com/adbancroft/avr-fast-multiply
