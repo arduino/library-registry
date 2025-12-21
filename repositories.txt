@@ -5985,6 +5985,7 @@ https://github.com/RobTillaart/Kelvin2RGB
 https://github.com/RobTillaart/KT0803
 https://github.com/RobTillaart/Kurtosis
 https://github.com/RobTillaart/L9110
+https://github.com/RobTillaart/LC7822
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logic
 https://github.com/RobTillaart/logicAnalyzer
