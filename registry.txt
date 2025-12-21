@@ -8748,3 +8748,4 @@ https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library.git|Contribute
 https://github.com/jobitjoseph/WitAITTS.git|Contributed|WitAITTS
 https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino.git|Contributed|UGOKU-Pad
 https://github.com/maumolinavaldez-pixel/BioLogic.git|Contributed|BioLogic
+https://github.com/RobTillaart/LC7822.git|Contributed|LC7822
