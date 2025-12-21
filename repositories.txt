@@ -1,4 +1,5 @@
 https://github.com/jobitjoseph/WitAITTS
+https://github.com/KITTEN2008/SN74HC573
 https://github.com/hackffm/Single_WS2812_Bitbang_Write
 https://github.com/MrYsLab/Telemetrix4RpiPico2w
 https://github.com/sstaub/Seesaw
