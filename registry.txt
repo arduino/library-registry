@@ -8747,3 +8747,4 @@ https://github.com/Hestia-system/Hestia-tempo.git|Contributed|HestiaTempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library.git|Contributed|goBILDA Prism
 https://github.com/jobitjoseph/WitAITTS.git|Contributed|WitAITTS
 https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino.git|Contributed|UGOKU-Pad
+https://github.com/maumolinavaldez-pixel/BioLogic.git|Contributed|BioLogic
