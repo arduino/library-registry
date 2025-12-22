@@ -8751,3 +8751,4 @@ https://github.com/maumolinavaldez-pixel/BioLogic.git|Contributed|BioLogic
 https://github.com/RobTillaart/LC7822.git|Contributed|LC7822
 https://github.com/KITTEN2008/SN74HC573.git|Contributed|SN74HC573
 https://github.com/adbancroft/avr-fast-multiply.git|Contributed|avr-fast-multiply
+https://github.com/ErlingSigurdson/Drv7SegQ595.git|Contributed|Drv7SegQ595
