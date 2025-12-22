@@ -8753,3 +8753,4 @@ https://github.com/KITTEN2008/SN74HC573.git|Contributed|SN74HC573
 https://github.com/adbancroft/avr-fast-multiply.git|Contributed|avr-fast-multiply
 https://github.com/ErlingSigurdson/Drv7SegQ595.git|Contributed|Drv7SegQ595
 https://github.com/KITTEN2008/ServoM.git|Contributed|ServoM
+https://github.com/actuvon/SerialConsole.git|Contributed|SerialConsole
