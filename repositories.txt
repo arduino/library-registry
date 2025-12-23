@@ -8765,3 +8765,4 @@ https://github.com/adbancroft/avr-fast-multiply
 https://github.com/AIS-DeviceIntegration/Magellan_SIM7020E_CORPORATE
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_CORPORATE
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_lite_CORPORATE
+https://github.com/Bodobolero/PostgrestClient
