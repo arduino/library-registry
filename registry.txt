@@ -8758,3 +8758,4 @@ https://github.com/McOrts/WindQX_SolidState_Anemometer.git|Contributed|WindQX_So
 https://github.com/AIS-DeviceIntegration/Magellan_SIM7020E_CORPORATE.git|Contributed|Magellan_SIM7020E CORPORATE
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_CORPORATE.git|Contributed|Magellan_BC95 CORPORATE
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_lite_CORPORATE.git|Contributed|Magellan_BC95_lite CORPORATE
+https://github.com/Bodobolero/PostgrestClient.git|Contributed|PostgrestClient
