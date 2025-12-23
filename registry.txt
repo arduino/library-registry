@@ -8754,3 +8754,4 @@ https://github.com/adbancroft/avr-fast-multiply.git|Contributed|avr-fast-multipl
 https://github.com/ErlingSigurdson/Drv7SegQ595.git|Contributed|Drv7SegQ595
 https://github.com/KITTEN2008/ServoM.git|Contributed|ServoM
 https://github.com/actuvon/SerialConsole.git|Contributed|SerialConsole
+https://github.com/McOrts/WindQX_SolidState_Anemometer.git|Contributed|WindQX_SolidState_Anemometer
