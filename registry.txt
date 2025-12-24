@@ -8760,3 +8760,4 @@ https://github.com/AIS-DeviceIntegration/Magellan_BC95_CORPORATE.git|Contributed
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_lite_CORPORATE.git|Contributed|Magellan_BC95_lite CORPORATE
 https://github.com/Bodobolero/PostgrestClient.git|Contributed|PostgrestClient
 https://github.com/ronibandini/DFR1173-Voice-Prompter.git|Contributed|DFR1173
+https://github.com/marinpopa/AsyncWiFiManagerSimple.git|Contributed|AsyncWiFiManagerSimple
