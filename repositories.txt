@@ -8767,3 +8767,4 @@ https://github.com/AIS-DeviceIntegration/Magellan_BC95_CORPORATE
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_lite_CORPORATE
 https://github.com/Bodobolero/PostgrestClient
 https://github.com/ronibandini/DFR1173-Voice-Prompter
+https://github.com/marinpopa/AsyncWiFiManagerSimple
