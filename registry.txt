@@ -8763,3 +8763,4 @@ https://github.com/ronibandini/DFR1173-Voice-Prompter.git|Contributed|DFR1173
 https://github.com/marinpopa/AsyncWiFiManagerSimple.git|Contributed|AsyncWiFiManagerSimple
 https://github.com/kennedy-kitoko/TerraSoil.git|Contributed|TerraSoil
 https://github.com/NitrofMtl/STM32RS485DMA.git|Contributed|STM32RS485DMA
+https://github.com/HuuPhuoc2411/ESP32Feature28.git|Contributed|ESP32Feature28
