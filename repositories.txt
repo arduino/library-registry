@@ -8772,3 +8772,4 @@ https://github.com/marinpopa/AsyncWiFiManagerSimple
 https://github.com/NitrofMtl/STM32RS485DMA
 https://github.com/HuuPhuoc2411/ESP32Feature28
 https://github.com/solamyl/Mini_Button
+https://github.com/danilogcrf2-oss/ESP32Synth
