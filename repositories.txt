@@ -5545,7 +5545,6 @@ https://github.com/pu2clr/SI4735
 https://github.com/pu2clr/SI4844
 https://github.com/PU2REO/PU2REO_AD9851
 https://github.com/PU2REO/PU2REO_Si570
-https://github.com/PU2REO/Si5351ArduinoLite
 https://github.com/pubnub/arduino
 https://github.com/PulseRain/M10ADC
 https://github.com/PulseRain/M10CODEC
@@ -8771,4 +8770,4 @@ https://github.com/ronibandini/DFR1173-Voice-Prompter
 https://github.com/marinpopa/AsyncWiFiManagerSimple
 https://github.com/NitrofMtl/STM32RS485DMA
 https://github.com/HuuPhuoc2411/ESP32Feature28
-https://github.com/PU2REO/Si5351ArduinoLite
+https://github.com/PU2REO/PU2REO_Si5351Lite
