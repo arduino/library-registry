@@ -1,5 +1,4 @@
-https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino
-https://github.com/BojanJurca/Thread-safe-ping-Arduino-library-for-ESP32
+https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino 
 https://github.com/TUDA-MUST/Resense-HEX/
 https://github.com/leftCoast/LC_SPI
 https://github.com/dudmoryo-cyber/TTP229_keypad
