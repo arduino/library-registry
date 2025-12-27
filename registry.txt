@@ -8766,3 +8766,4 @@ https://github.com/NitrofMtl/STM32RS485DMA.git|Contributed|STM32RS485DMA
 https://github.com/HuuPhuoc2411/ESP32Feature28.git|Contributed|ESP32Feature28
 https://github.com/solamyl/Mini_Button.git|Contributed|Mini_Button
 https://github.com/danilogcrf2-oss/ESP32Synth.git|Contributed|ESP32Synth
+https://github.com/RobTillaart/INA238.git|Contributed|INA238
