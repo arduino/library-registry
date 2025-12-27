@@ -8768,3 +8768,4 @@ https://github.com/solamyl/Mini_Button.git|Contributed|Mini_Button
 https://github.com/danilogcrf2-oss/ESP32Synth.git|Contributed|ESP32Synth
 https://github.com/RobTillaart/INA238.git|Contributed|INA238
 https://github.com/EARTKEY/LF_Alpha.git|Contributed|LF_Alpha
+https://github.com/mirosieber/MTS4X.git|Contributed|MTS4X
