@@ -8771,3 +8771,4 @@ https://github.com/EARTKEY/LF_Alpha.git|Contributed|LF_Alpha
 https://github.com/mirosieber/MTS4X.git|Contributed|MTS4X
 https://github.com/mirosieber/SCurveMotion.git|Contributed|SCurveMotion
 https://github.com/Aizhee/arduino-bitneural32.git|Contributed|BitNeural32
+https://github.com/t4st3r/simpleLIB.git|Contributed|simpleLIB
