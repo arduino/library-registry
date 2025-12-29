@@ -8784,3 +8784,4 @@ https://github.com/petani-koding/PetaniKodingTDS
 https://github.com/Aatiqur/EZConnect
 https://github.com/7semi-solutions/7Semi_ICM20948_Arduino-Library
 https://github.com/7semi-solutions/7Semi_SHT4x_Analog_Arduino-Library
+https://github.com/marinpopa/AsyncOTAManager
