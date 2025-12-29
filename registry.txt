@@ -8777,3 +8777,4 @@ https://github.com/petani-koding/PetaniKodingTDS.git|Contributed|petanikoding
 https://github.com/Aatiqur/EZConnect.git|Contributed|EZConnect
 https://github.com/7semi-solutions/7Semi_ICM20948_Arduino-Library.git|Contributed|7Semi ICM20948
 https://github.com/7semi-solutions/7Semi_SHT4x_Analog_Arduino-Library.git|Contributed|7Semi_SHT4x_analog_Arduino-Library
+https://github.com/marinpopa/AsyncOTAManager.git|Contributed|AsyncOTAManager
