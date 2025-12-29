@@ -8773,3 +8773,4 @@ https://github.com/mirosieber/SCurveMotion.git|Contributed|SCurveMotion
 https://github.com/Aizhee/arduino-bitneural32.git|Contributed|BitNeural32
 https://github.com/t4st3r/simpleLIB.git|Contributed|simpleLIB
 https://github.com/onuromer/O3SerialWriter.git|Contributed|O3SerialWriter
+https://github.com/petani-koding/PetaniKodingTDS.git|Contributed|petanikoding
