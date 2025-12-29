@@ -8782,3 +8782,4 @@ https://github.com/Aizhee/arduino-bitneural32
 https://github.com/t4st3r/simpleLIB
 https://github.com/petani-koding/PetaniKodingTDS
 https://github.com/Aatiqur/EZConnect
+https://github.com/7semi-solutions/7Semi_ICM20948_Arduino-Library
