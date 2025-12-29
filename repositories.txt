@@ -8780,3 +8780,4 @@ https://github.com/danilogcrf2-oss/ESP32Synth
 https://github.com/EARTKEY/LF_Alpha
 https://github.com/Aizhee/arduino-bitneural32
 https://github.com/t4st3r/simpleLIB
+https://github.com/petani-koding/PetaniKodingTDS
