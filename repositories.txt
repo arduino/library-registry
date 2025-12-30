@@ -4887,6 +4887,7 @@ https://github.com/MSZ98/serial-readline
 https://github.com/mt-elektrik/MteCore
 https://github.com/mtsurumaki/PwmSin
 https://github.com/mudmin/ESPCanary
+https://github.com/mussacharles60/StepperShiftRegister74HC595
 https://github.com/musicplayer0/solar2lunar
 https://github.com/muwerk/mufonts
 https://github.com/muwerk/munet
