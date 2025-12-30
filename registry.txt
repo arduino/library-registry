@@ -8780,3 +8780,4 @@ https://github.com/7semi-solutions/7Semi_SHT4x_Analog_Arduino-Library.git|Contri
 https://github.com/marinpopa/AsyncOTAManager.git|Contributed|AsyncOTAManager
 https://github.com/jo3-tech/MT-dh-serial-kinematics.git|Contributed|MT-dh-serial-kinematics
 https://github.com/mussacharles60/StepperShiftRegister74HC595.git|Contributed|StepperShiftRegister74HC595
+https://github.com/embedded-kiddie/CallbackTimerR4.git|Contributed|CallbackTimerR4
