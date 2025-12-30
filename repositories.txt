@@ -8778,7 +8778,6 @@ https://github.com/NitrofMtl/STM32RS485DMA
 https://github.com/HuuPhuoc2411/ESP32Feature28
 https://github.com/solamyl/Mini_Button
 https://github.com/danilogcrf2-oss/ESP32Synth
-https://github.com/EARTKEY/LF_Alpha
 https://github.com/Aizhee/arduino-bitneural32
 https://github.com/t4st3r/simpleLIB
 https://github.com/petani-koding/PetaniKodingTDS
