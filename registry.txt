@@ -8781,3 +8781,4 @@ https://github.com/marinpopa/AsyncOTAManager.git|Contributed|AsyncOTAManager
 https://github.com/jo3-tech/MT-dh-serial-kinematics.git|Contributed|MT-dh-serial-kinematics
 https://github.com/mussacharles60/StepperShiftRegister74HC595.git|Contributed|StepperShiftRegister74HC595
 https://github.com/embedded-kiddie/CallbackTimerR4.git|Contributed|CallbackTimerR4
+https://github.com/DigitalFuturesOCADU/df-pong-controller.git|Contributed|DFPongController
