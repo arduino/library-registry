@@ -8790,3 +8790,4 @@ https://github.com/marinpopa/AsyncOTAManager
 https://github.com/embedded-kiddie/CallbackTimerR4
 https://github.com/DigitalFuturesOCADU/df-pong-controller
 https://github.com/ginixsan/CamS3Library
+https://github.com/Ransky3000/ACS712-driver.git
