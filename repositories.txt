@@ -8767,7 +8767,6 @@ https://github.com/Fran6nd/Updatable
 https://github.com/Hestia-system/Hestia-tempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library
 https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino
-https://github.com/maumolinavaldez-pixel/BioLogic
 https://github.com/adbancroft/avr-fast-multiply
 https://github.com/AIS-DeviceIntegration/Magellan_SIM7020E_CORPORATE
 https://github.com/AIS-DeviceIntegration/Magellan_BC95_CORPORATE
@@ -8790,3 +8789,4 @@ https://github.com/marinpopa/AsyncOTAManager
 https://github.com/embedded-kiddie/CallbackTimerR4
 https://github.com/DigitalFuturesOCADU/df-pong-controller
 https://github.com/ginixsan/CamS3Library
+https://github.com/maumolinavaldez-pixel/BioLogic/
