@@ -8783,3 +8783,4 @@ https://github.com/mussacharles60/StepperShiftRegister74HC595.git|Contributed|St
 https://github.com/embedded-kiddie/CallbackTimerR4.git|Contributed|CallbackTimerR4
 https://github.com/DigitalFuturesOCADU/df-pong-controller.git|Contributed|DFPongController
 https://github.com/ginixsan/CamS3Library.git|Contributed|CamS3Library
+https://github.com/Ransky3000/ACS712-driver.git|Contributed|ACS712-driver
