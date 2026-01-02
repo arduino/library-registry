@@ -8277,6 +8277,7 @@ https://github.com/salesiopark/Chaino.git|Contributed|Chaino
 https://github.com/m5stack/M5SwitchC6-ESP-NOW.git|Contributed|M5SwitchC6-ESP-NOW
 https://github.com/jaikulk14/DataLinkSerial.git|Contributed|DataLinkSerial
 https://github.com/Andreas1313/SequenceTiming.git|Contributed|SequenceTiming
+https://github.com/Andreas1313/MKR1010_IOWebServerGui.git|Contributed|MKR1010_IOWebServerGui
 https://github.com/gavinlyonsrepo/SSD1331_LTSM.git|Contributed|SSD1331_LTSM
 https://github.com/gavinlyonsrepo/GC9A01_LTSM.git|Contributed|GC9A01_LTSM
 https://github.com/orji123/Irisoled.git|Contributed|Irisoled
