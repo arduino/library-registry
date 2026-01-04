@@ -8799,3 +8799,4 @@ https://github.com/DigitalFuturesOCADU/df-pong-controller
 https://github.com/ginixsan/CamS3Library
 https://github.com/Ransky3000/ACS712-driver.git
 https://github.com/e12-io/e12-protocol
+https://github.com/reyanvaldes/SorbaMQTT-Wifi-Lib
