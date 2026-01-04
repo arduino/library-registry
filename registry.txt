@@ -8790,3 +8790,4 @@ https://github.com/Embedded-Petal/IoTCloud.git|Contributed|Petal
 https://github.com/KravitzLabDevices/FED4.git|Contributed|FED4
 https://github.com/P33a/Pico4DriveLib.git|Contributed|Pico4Drive
 https://github.com/TheHappyGrey/PicoGFX_SSD1322.git|Contributed|PicoGFX_SSD1322
+https://github.com/ncmreynolds/bq25186.git|Contributed|bq25186
