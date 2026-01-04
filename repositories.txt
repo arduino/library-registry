@@ -1,3 +1,4 @@
+https://github.com/Esslangamer20/SimpleWiFiManager
 https://github.com/ncmreynolds/bq25186
 https://github.com/TheHappyGrey/PicoGFX_SSD1322
 https://github.com/KravitzLabDevices/FED4
