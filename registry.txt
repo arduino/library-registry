@@ -8797,3 +8797,4 @@ https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX.gi
 https://github.com/eicut/TFS20.git|Contributed|TFS20
 https://github.com/MrAndeos/InfiniteFunctionButton.git|Contributed|InfiniteFunctionButton
 https://github.com/WuaLeds/Wualeds_AW20216S.git|Contributed|WuaLeds_AW20216S
+https://github.com/Witty-Wizard/InertialIO.git|Contributed|InertialIO
