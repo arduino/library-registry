@@ -8795,3 +8795,4 @@ https://github.com/Esslangamer20/SimpleWiFiManager.git|Contributed|SimpleWiFiMan
 https://github.com/reyanvaldes/SorbaMQTT-Wifi.git|Contributed|SorbaMqttWifi
 https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX.git|Contributed|FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX
 https://github.com/eicut/TFS20.git|Contributed|TFS20
+https://github.com/MrAndeos/InfiniteFunctionButton.git|Contributed|InfiniteFunctionButton
