@@ -4565,6 +4565,7 @@ https://github.com/marcmerlin/FastLED_SPITFT_GFX
 https://github.com/marcmerlin/FastLED_TFTWrapper_GFX
 https://github.com/marcmerlin/Framebuffer_GFX
 https://github.com/marcmerlin/SmartMatrix_GFX
+https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX
 https://github.com/marcobrianza/ClickButton
 https://github.com/marcoschwartz/aREST
 https://github.com/marcoschwartz/aREST_UI
