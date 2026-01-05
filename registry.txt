@@ -8792,3 +8792,4 @@ https://github.com/P33a/Pico4DriveLib.git|Contributed|Pico4Drive
 https://github.com/TheHappyGrey/PicoGFX_SSD1322.git|Contributed|PicoGFX_SSD1322
 https://github.com/ncmreynolds/bq25186.git|Contributed|bq25186
 https://github.com/Esslangamer20/SimpleWiFiManager.git|Contributed|SimpleWiFiManager
+https://github.com/reyanvaldes/SorbaMQTT-Wifi.git|Contributed|SorbaMqttWifi
