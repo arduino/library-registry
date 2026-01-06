@@ -45,9 +45,7 @@ Although we have set up automation for the most basic tasks, this repository is 
    https://github.com/arduino/library-registry/fork<br />
    The "**Create a new fork**" page will open.
 1. Click the <kbd>Create fork</kbd> button in the "**Create a new fork**" page.<br />
-   A "**Forking arduino/library-registry**" page will open while the fork is in the process of being created.
-1. Wait for the "Forking" process to finish.<br />
-   The home page of your [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) of the **library-registry** repository will open.
+   A [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) repository will be created under your GitHub account, and the home page of the fork will open.
 1. Click on the file `repositories.txt` under the list of files you see in that page.<br />
    The "**library-registry/repositories.txt**" page will open.
 1. Click the pencil icon ("Edit this file") at the right side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
