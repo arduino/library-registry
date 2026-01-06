@@ -1,8 +1,0 @@
-name: FastGPIO
-maintainer: Lotanna Nnoshiri <latechsurge@gmail.com>
-sentence: Fast and reusable GPIO library for Arduino using AVR registers.
-paragraph: This library allows direct access to GPIO pins via structs and pointers for faster and more reusable code.
-category: Device Control
-url: https://github.com/Lotanna-tech/FastGPIO
-architectures: ["*"]
-version: 1.0.0
