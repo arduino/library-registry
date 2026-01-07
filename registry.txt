@@ -8801,3 +8801,4 @@ https://github.com/Witty-Wizard/InertialIO.git|Contributed|InertialIO
 https://github.com/NagarChinmay/ESPToon.git|Contributed|ESPToon
 https://github.com/piotrmalek/BQ25672.git|Contributed|BQ25672
 https://github.com/RobTillaart/BL0942_SPI.git|Contributed|BL0942_SPI
+https://github.com/decadenza/ProsecCoAP.git|Contributed|ProsecCoAP
