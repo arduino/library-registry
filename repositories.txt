@@ -7997,6 +7997,7 @@ https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver
 https://github.com/felixthecat8a/LCD_BacklightRGB
 https://github.com/agfy/CxMQTT
 https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut
+https://github.com/decadenza/ProsecCoAP
 https://github.com/Syafiqlim/ESP32_MySQL
 https://github.com/nananauno/M5EasyUI
 https://github.com/x821938/erpc
