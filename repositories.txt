@@ -5905,7 +5905,7 @@ https://github.com/RobTillaart/AtomicWeight
 https://github.com/RobTillaart/AverageAngle
 https://github.com/RobTillaart/avrheap
 https://github.com/RobTillaart/BH1750FVI_RT
-https://github.com/RobTillaart/BL0942
+https://github.com/RobTillaart/BL0942_SPI
 https://github.com/RobTillaart/BitArray
 https://github.com/RobTillaart/bitHelpers
 https://github.com/RobTillaart/BoolArray
