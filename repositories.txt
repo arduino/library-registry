@@ -8778,6 +8778,7 @@ https://github.com/stm32duino/X-NUCLEO-NFC12A1
 https://github.com/LEKPCSTEAM/ESP32-OTA-Client
 https://github.com/cpei2025/ESPNowAdhoc
 https://github.com/Fran6nd/Updatable
+https://github.com/hinyhiny/ESP_NowAdhoc
 https://github.com/Hestia-system/Hestia-tempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library
 https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino
