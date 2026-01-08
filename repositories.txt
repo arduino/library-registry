@@ -8809,3 +8809,4 @@ https://github.com/e12-io/e12-protocol
 https://github.com/reyanvaldes/SorbaMQTT-Wifi
 https://github.com/MrAndeos/InfiniteFunctionButton
 https://github.com/WuaLeds/Wualeds_AW20216S
+https://github.com/coloz/OpenWeatherMap-library
