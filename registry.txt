@@ -8803,3 +8803,4 @@ https://github.com/piotrmalek/BQ25672.git|Contributed|BQ25672
 https://github.com/RobTillaart/BL0942_SPI.git|Contributed|BL0942_SPI
 https://github.com/decadenza/ProsecCoAP.git|Contributed|ProsecCoAP
 https://github.com/coloz/OpenWeatherMap-library.git|Contributed|OpenWeatherMap
+https://github.com/hinyhiny/ESP_NowAdhoc.git|Contributed|ESP_NowAdhoc
