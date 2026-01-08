@@ -8812,3 +8812,4 @@ https://github.com/reyanvaldes/SorbaMQTT-Wifi
 https://github.com/MrAndeos/InfiniteFunctionButton
 https://github.com/WuaLeds/Wualeds_AW20216S
 https://github.com/coloz/OpenWeatherMap-library
+https://github.com/Lodevd/TimLib
