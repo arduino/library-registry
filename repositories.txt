@@ -1,4 +1,6 @@
+https://github.com/piotrmalek/BQ25672
 https://github.com/Witty-Wizard/InertialIO
+https://github.com/NagarChinmay/ESPToon
 https://github.com/eicut/TFS20
 https://github.com/Esslangamer20/SimpleWiFiManager
 https://github.com/ncmreynolds/bq25186
@@ -5008,6 +5010,7 @@ https://github.com/netpieio/microgear-esp8266-arduino
 https://github.com/netpieio/microgear-nbiot-arduino
 https://github.com/neu-rah/ArduinoMenu
 https://github.com/neu-rah/Dump
+https://github.com/NeuraiProject/NeuraiDepinMsg
 https://github.com/NeuraiProject/uNeurai
 https://github.com/newdigate/teensy-audio-launch-ctrl
 https://github.com/newdigate/teensy-polyphony
@@ -5903,6 +5906,7 @@ https://github.com/RobTillaart/AtomicWeight
 https://github.com/RobTillaart/AverageAngle
 https://github.com/RobTillaart/avrheap
 https://github.com/RobTillaart/BH1750FVI_RT
+https://github.com/RobTillaart/BL0942_SPI
 https://github.com/RobTillaart/BitArray
 https://github.com/RobTillaart/bitHelpers
 https://github.com/RobTillaart/BoolArray
@@ -7994,6 +7998,7 @@ https://github.com/BroadwellConsultingInc/SerialWombat18ABVGADriver
 https://github.com/felixthecat8a/LCD_BacklightRGB
 https://github.com/agfy/CxMQTT
 https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut
+https://github.com/decadenza/ProsecCoAP
 https://github.com/Syafiqlim/ESP32_MySQL
 https://github.com/nananauno/M5EasyUI
 https://github.com/x821938/erpc
@@ -8774,6 +8779,7 @@ https://github.com/stm32duino/X-NUCLEO-NFC12A1
 https://github.com/LEKPCSTEAM/ESP32-OTA-Client
 https://github.com/cpei2025/ESPNowAdhoc
 https://github.com/Fran6nd/Updatable
+https://github.com/hinyhiny/ESP_NowAdhoc
 https://github.com/Hestia-system/Hestia-tempo
 https://github.com/goBILDA-Official/goBILDA-Prism-Arduino-Library
 https://github.com/UGOKU-Lab/UGOKU-Pad_Arduino
@@ -8805,3 +8811,4 @@ https://github.com/e12-io/e12-protocol
 https://github.com/reyanvaldes/SorbaMQTT-Wifi
 https://github.com/MrAndeos/InfiniteFunctionButton
 https://github.com/WuaLeds/Wualeds_AW20216S
+https://github.com/coloz/OpenWeatherMap-library
