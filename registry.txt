@@ -8810,3 +8810,12 @@ https://github.com/topquark22/GPIOUtils.git|Contributed|GPIOUtils
 https://github.com/topquark22/ServoDAC.git|Contributed|ServoDAC
 https://github.com/someone225/multiMotor.git|Contributed|multiMotor
 https://github.com/HimanshuChauragade/SimpleMorse.git|Contributed|SimpleMorse
+https://github.com/Picovoice/rhino-arduino-de.git|Contributed|Rhino_DE
+https://github.com/Picovoice/rhino-arduino-en.git|Contributed|Rhino_EN
+https://github.com/Picovoice/rhino-arduino-es.git|Contributed|Rhino_ES
+https://github.com/Picovoice/rhino-arduino-fr.git|Contributed|Rhino_FR
+https://github.com/Picovoice/rhino-arduino-it.git|Contributed|Rhino_IT
+https://github.com/Picovoice/rhino-arduino-ja.git|Contributed|Rhino_JA
+https://github.com/Picovoice/rhino-arduino-ko.git|Contributed|Rhino_KO
+https://github.com/Picovoice/rhino-arduino-pt.git|Contributed|Rhino_PT
+https://github.com/Picovoice/rhino-arduino-zh.git|Contributed|Rhino_ZH
