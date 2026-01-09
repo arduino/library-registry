@@ -8807,3 +8807,4 @@ https://github.com/hinyhiny/ESP_NowAdhoc.git|Contributed|ESP_NowAdhoc
 https://github.com/NeuraiProject/NeuraiDepinMsg.git|Contributed|NeuraiDepinMsg
 https://github.com/Lodevd/TimLib.git|Contributed|TimLib
 https://github.com/topquark22/GPIOUtils.git|Contributed|GPIOUtils
+https://github.com/topquark22/ServoDAC.git|Contributed|ServoDAC
