@@ -5330,6 +5330,15 @@ https://github.com/Picovoice/porcupine-arduino-ru
 https://github.com/Picovoice/porcupine-arduino-sv
 https://github.com/Picovoice/porcupine-arduino-vn
 https://github.com/Picovoice/porcupine-arduino-zh
+https://github.com/Picovoice/rhino-arduino-de
+https://github.com/Picovoice/rhino-arduino-en
+https://github.com/Picovoice/rhino-arduino-es
+https://github.com/Picovoice/rhino-arduino-fr
+https://github.com/Picovoice/rhino-arduino-it
+https://github.com/Picovoice/rhino-arduino-ja
+https://github.com/Picovoice/rhino-arduino-ko
+https://github.com/Picovoice/rhino-arduino-pt
+https://github.com/Picovoice/rhino-arduino-zh
 https://github.com/pierremolinaro/acan
 https://github.com/pierremolinaro/acan-esp32
 https://github.com/pierremolinaro/acan-stm32
