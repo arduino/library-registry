@@ -7621,9 +7621,9 @@ https://github.com/wollewald/MCP23017_WE
 https://github.com/wollewald/MPU9250_WE
 https://github.com/wollewald/SI1145_WE
 https://github.com/wollewald/VL6180X_WE
-https://github.com/Wolodia-M/btnapi-library
-https://github.com/Wolodia-M/flagsapi-library
-https://github.com/Wolodia-M/timersapi-library
+https://github.com/WolodiaM/btnapi-library
+https://github.com/WolodiaM/flagsapi-library
+https://github.com/WolodiaM/timersapi-library
 https://github.com/WonderCRM/CRMui3
 https://github.com/workloads/scservo
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
