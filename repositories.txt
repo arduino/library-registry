@@ -1,5 +1,5 @@
 https://github.com/topquark22/Plexorino
-https://githhttps://github.com/HimanshuChauragade/SimpleMorse
+https://github.com/HimanshuChauragade/SimpleMorse
 https://github.com/topquark22/ServoDAC
 https://github.com/americansteamlab/LOPORO-Arduino-Libraries
 https://github.com/topquark22/GPIOUtils
