@@ -1,5 +1,6 @@
 https://github.com/HimanshuChauragade/SimpleMorse
 https://github.com/topquark22/ServoDAC
+https://github.com/americansteamlab/LOPORO-Arduino-Libraries
 https://github.com/topquark22/GPIOUtils
 https://github.com/piotrmalek/BQ25672
 https://github.com/Witty-Wizard/InertialIO
