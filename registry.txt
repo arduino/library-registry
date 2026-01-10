@@ -812,7 +812,7 @@ https://github.com/myconstellation/constellation-arduino.git|Contributed|Constel
 https://github.com/sakuraio/SakuraIOArduino.git|Contributed|SakuraIO
 https://github.com/MadTooler/Gobbit_Line_Commander.git|Contributed|GobbitLineCommand
 https://github.com/CsCrazy85/DatavisionLCD.git|Contributed|DatavisionLCD
-https://github.com/DeanIsMe/SevSeg.git|Contributed|SevSeg
+https://github.com/untr0py/SevSeg.git|Contributed|SevSeg
 https://github.com/Naguissa/uRTCLib.git|Contributed|uRTCLib
 https://github.com/Rokenbok/ROKduino.git|Contributed|ROKduino
 https://github.com/Makuna/AnalogKeypad.git|Contributed|AnalogKeypad by Makuna
