@@ -8820,3 +8820,4 @@ https://github.com/Picovoice/rhino-arduino-ko.git|Contributed|Rhino_KO
 https://github.com/Picovoice/rhino-arduino-pt.git|Contributed|Rhino_PT
 https://github.com/Picovoice/rhino-arduino-zh.git|Contributed|Rhino_ZH
 https://github.com/americansteamlab/LOPORO-Arduino-Libraries.git|Contributed|LOPORO
+https://github.com/topquark22/Plexorino.git|Contributed|Plexorino
