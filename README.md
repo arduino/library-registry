@@ -85,13 +85,8 @@ Although we have set up automation for the most basic tasks, this repository is 
    The "**Commit changes**" dialog will close.
 1. Click the "**library-registry**" link at the top of the "**library-registry/repositories.txt**" page.<br />
    The home page of your fork will open.
-1. You should see a banner on the page that says:
-
-   > **This branch is 1 commit ahead of arduino:main.**
-
-   Click the "**Contribute**" link near the right side of that banner.<br />
+1. Click the "**Contribute**" button on the home page of your fork.<br />
    A menu will open.
-
 1. Click the "**Open pull request**" button in the menu.<br />
    The "**Open a pull request**" page will open.
 1. Click the "**Create pull request**" button on the "**Open a pull request**" page.<br />
