@@ -8,7 +8,12 @@ This repository contains the list of libraries in the [Arduino Library Manager](
 
 - [Frequently asked questions](#frequently-asked-questions)
 - [Adding a library to Library Manager](#adding-a-library-to-library-manager)
-  - [Instructions](#instructions)
+  - [A. Preparation](#a-preparation)
+  - [B. Fork the Arduino Library Registry repository](#b-fork-the-arduino-library-registry-repository)
+  - [C. Create a feature branch in the fork](#c-create-a-feature-branch-in-the-fork)
+  - [D. Add the library URL to the list](#d-add-the-library-url-to-the-list)
+  - [E. Make the pull request](#e-make-the-pull-request)
+  - [F. Monitor pull request and resolve any problems](#f-monitor-pull-request-and-resolve-any-problems)
     - [If the problem is with the pull request:](#if-the-problem-is-with-the-pull-request)
     - [If the problem is with the library:](#if-the-problem-is-with-the-library)
 - [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
@@ -22,13 +27,11 @@ This repository contains the list of libraries in the [Arduino Library Manager](
 
 For more information about Arduino Library Manager and how the index is maintained, please see [the FAQ](FAQ.md).
 
+<a name="instructions"></a>
+
 ## Adding a library to Library Manager
 
 If you would like to make a library available for installation via Library Manager, just submit a [pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests) that adds the repository URL to [the list](repositories.txt). You are welcome to add multiple libraries at once.
-
-See the instructions below for detailed instructions on how to do this via the GitHub web interface.
-
-### Instructions
 
 ---
 
@@ -40,16 +43,40 @@ Although we have set up automation for the most basic tasks, this repository is 
 
 ---
 
+Detailed instructions for submitting a library are provided below.
+
+### A. Preparation
+
+---
+
 ❗ Before you begin, please ensure you have 45 minutes of time to dedicate to completing the submission procedure. A submission will typically only take a few minutes, but if your library is not specification compliant or your are not already familiar with the basics of using GitHub, it may take longer. If problems with the submission are detected, we expect you to resolve them promptly.
 
 ---
 
-1. You may want to first take a look at [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for compliance before being accepted.
+1. Review [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for compliance with these requirements before being accepted.
+1. If you identify any aspects of the library that do not meet the requirements, please resolve them.
+
+---
+
+**ⓘ** If a requirement is not clear to you, or if you are not able to determine whether the library is in compliance with a requirement, it is OK to proceed with making the submission. The automated submission handling system is designed to help you to resolve any problems that are detected, so you may find that things are more clear once the submission is in progress.
+
+---
+
+### B. Fork the Arduino Library Registry repository
+
+You will first make the changes required to add the library in a copy of the Arduino Library Registry repository under your GitHub account. The term for a copy of a repository is "[fork](https://docs.github.com/get-started/quickstart/fork-a-repo)".
+
 1. Click the following link:<br />
    https://github.com/arduino/library-registry/fork<br />
    The "**Create a new fork**" page will open in your web browser.
-1. Click the "**Create fork**" button in the "**Create a new fork**" page.<br />
-   A [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) repository will be created under your GitHub account, and the home page of the fork will open.
+1. Click the "**Create fork**" button in the "**Create a new fork**" page.
+
+The fork will be created, and the home page of the fork will open.
+
+### C. Create a feature branch in the fork
+
+Multiple revision histories may be stored in a single repository. The term for each revision history is "[branch](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)". You will create a dedicated branch in which to stage the work to submit the library.
+
 1. Click the "**1 Branch**" link on the home page of your fork.<br />
    The "**Branches**" page will open.
 1. Click the "**New branch**" button on the "**Branches**" page.<br />
@@ -66,7 +93,12 @@ Although we have set up automation for the most basic tasks, this repository is 
    The "**Create a branch**" dialog will close, returning you to the "**Branches**" page.
 1. Look under the "**Your branches**" section of the "**Branches**" page. You will see a link there for the branch you created during the previous step (i.e., `my-submission`). Click that link.<br />
    The home page of your fork will open, with the newly created branch selected.
-1. Click on the file `repositories.txt` under the list of files you see in that page.<br />
+
+### D. Add the library URL to the list
+
+Now you are ready to make the change in the repository content that adds the library to the Arduino Library Registry. This is done by adding the URL of the repository to a text file that contains a list of all the registered libraries. The term for a change in a repository's revision history is "[commit](https://git-scm.com/docs/git-commit)".
+
+1. Click on the file `repositories.txt` under the list of files you see on the home page of your fork.<br />
    The "**library-registry/repositories.txt**" page will open.
 1. Click the pencil icon ("Edit this file") at the right hand side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
    The `repositories.txt` file will open in the online text editor.
@@ -85,19 +117,34 @@ Although we have set up automation for the most basic tasks, this repository is 
    The "**Commit changes**" dialog will close.
 1. Click the "**library-registry**" link at the top of the "**library-registry/repositories.txt**" page.<br />
    The home page of your fork will open.
+
+### E. Make the pull request
+
+Now that you have the necessary changes staged in your fork, it is time to propose those changes be accepted into the parent repository. The term for such a proposal is "[pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)" (PR).
+
 1. Click the "**Contribute**" button on the home page of your fork.<br />
    A menu will open.
 1. Click the "**Open pull request**" button in the menu.<br />
    The "**Open a pull request**" page will open.
-1. Click the "**Create pull request**" button on the "**Open a pull request**" page.<br />
-   The pull request will be submitted.
-1. Checks for compliance will be automatically triggered by the submission of the pull request. A bot will comment on the pull request as soon as the checks are completed to notify you of the result. Wait until you see this comment from the bot.
+1. Click the "**Create pull request**" button on the "**Open a pull request**" page.
 
-If the pull request is merged, this means your library has been successfully registered and the library will be available for installation via Library Manager within a day's time.
+The pull request will be submitted.
 
-If the bot comment instead reports that a problem has been found, then please promptly follow the provided instructions to resolve the problem. There is additional information about resolving problems below.
+### F. Monitor pull request and resolve any problems
 
-The problem may be either with your pull request or with the library.
+The submission of the pull request will trigger an automated system. This system checks your pull request and the submitted library for problems. It will register the library if no problems are found. It will communicate with you via comments added to the pull request.
+
+---
+
+❗ Please closely monitor the pull request and take prompt action to resolve any problems reported by the automated system and human maintainers.
+
+---
+
+1. Watch your pull request until you see a comment from the bot.<br />
+   **ⓘ** You should only need to wait a few minutes at most.
+1. If you see that the pull request was merged, this means your library has been successfully registered 🎉 and the library will be available for installation via Library Manager within a day's time. If instead the comment from the bot says that a problem was found, please promptly follow the provided instructions to resolve the problem. There is additional information about resolving problems below.
+
+The problem may be either with your pull request or with the library:
 
 #### If the problem is with the pull request:
 
