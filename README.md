@@ -40,6 +40,10 @@ Although we have set up automation for the most basic tasks, this repository is 
 
 ---
 
+❗ Before you begin, please ensure you have 45 minutes of time to dedicate to completing the submission procedure. A submission will typically only take a few minutes, but if your library is not specification compliant or your are not already familiar with the basics of using GitHub, it may take longer. If problems with the submission are detected, we expect you to resolve them promptly.
+
+---
+
 1. You may want to first take a look at [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for compliance before being accepted.
 1. Click the following link:<br />
    https://github.com/arduino/library-registry/fork<br />
