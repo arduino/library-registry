@@ -96,10 +96,13 @@ Although we have set up automation for the most basic tasks, this repository is 
    The "**Open a pull request**" page will open.
 1. Click the "**Create pull request**" button on the "**Open a pull request**" page.<br />
    The pull request will be submitted.
+1. Checks for compliance will be automatically triggered by the submission of the pull request. A bot will comment on the pull request as soon as the checks are completed to notify you of the result. Wait until you see this comment from the bot.
 
-The library will be automatically checked for compliance as soon as the pull request is submitted. If no problems were found, the pull request will be immediately merged and the library will be available for installation via Library Manager within a day's time.
+If the pull request is merged, this means your library has been successfully registered and the library will be available for installation via Library Manager within a day's time.
 
-If any problems are found, a bot will comment on the pull request to tell you what is wrong. The problem may be either with your pull request or with the library.
+If the bot comment instead reports that a problem has been found, then please promptly follow the provided instructions to resolve the problem. There is additional information about resolving problems below.
+
+The problem may be either with your pull request or with the library.
 
 #### If the problem is with the pull request:
 
