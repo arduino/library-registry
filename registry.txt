@@ -8823,3 +8823,4 @@ https://github.com/americansteamlab/LOPORO-Arduino-Libraries.git|Contributed|LOP
 https://github.com/topquark22/Plexorino.git|Contributed|Plexorino
 https://github.com/Zefek/TX07K-TXC.git|Contributed|TX07K-TXC
 https://github.com/taraszhylenko/TickerTape7SegmentDisplay.git|Contributed|TickerTape7SegmentDisplay
+https://github.com/dimuthurangana/DimuthuRobotLib.git|Contributed|DimuthuRobotLib
