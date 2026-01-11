@@ -36,7 +36,7 @@ See the instructions below for detailed instructions on how to do this via the G
 
 Carefully read and follow the instructions in any comments the bot and human maintainers make on your pull requests. If you are having trouble following the instructions, add a comment that provides a detailed description of the problem you are having and a human maintainer will provide assistance.
 
-Although we have set up automation for the most basic tasks, this repository is maintained by humans. So behave in a manner appropriate for interacting with humans, including clearly communicating what you are hoping to accomplish.
+Although we have set up automation for the most basic tasks, this repository is maintained by humans. So please behave in a manner appropriate for interacting with humans, including being clear in communicating what you are hoping to accomplish.
 
 ---
 
@@ -47,7 +47,7 @@ Although we have set up automation for the most basic tasks, this repository is 
 1. You may want to first take a look at [the requirements for admission into the Arduino Library Manager index](FAQ.md#submission-requirements). Each submission will be checked for compliance before being accepted.
 1. Click the following link:<br />
    https://github.com/arduino/library-registry/fork<br />
-   The "**Create a new fork**" page will open.
+   The "**Create a new fork**" page will open in your web browser.
 1. Click the "**Create fork**" button in the "**Create a new fork**" page.<br />
    A [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) repository will be created under your GitHub account, and the home page of the fork will open.
 1. Click the "**1 Branch**" link on the home page of your fork.<br />
@@ -68,17 +68,23 @@ Although we have set up automation for the most basic tasks, this repository is 
    The home page of your fork will open, with the newly created branch selected.
 1. Click on the file `repositories.txt` under the list of files you see in that page.<br />
    The "**library-registry/repositories.txt**" page will open.
-1. Click the pencil icon ("Edit this file") at the right side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
+1. Click the pencil icon ("Edit this file") at the right hand side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
    The `repositories.txt` file will open in the online text editor.
-1. Add the library repository's URL to the list (it doesn't matter where in the list). This should be the URL of the repository home page. For example: `https://github.com/arduino-libraries/Servo`
-1. Click the "**Commit changes...**" button located near the top right corner of the page.<br />
+1. Add the URL of the repository of the library you wish to submit to the list in the online text editor.
+   - **ⓘ** It doesn't matter at which position in the list you add the URL.
+   - **ⓘ** This should be the URL of the repository home page. For example:
+     ```text
+     https://github.com/arduino-libraries/Servo
+     ```
+   - ❗ Be careful to avoid making any changes to the other URLs in the list.
+1. Click the "**Commit changes...**" button located near the top right hand corner of the page.<br />
    The "**Commit changes**" dialog will open.
-   The "**library-registry/repositories.txt**" page will open.
 1. Select the "**Commit directly to the `my-submission` branch**" radio button in the dialog.<br />
    **ⓘ** If you chose a name other than `my-submission` when creating the branch, the radio button will instead have that branch name.
 1. Click the "**Commit changes**" button in the "**Commit changes**" dialog.<br />
+   The "**Commit changes**" dialog will close.
 1. Click the "**library-registry**" link at the top of the "**library-registry/repositories.txt**" page.<br />
-   The home page of your fork of the **library-registry** repository will open.
+   The home page of your fork will open.
 1. You should see a banner on the page that says:
 
    > **This branch is 1 commit ahead of arduino:main.**
@@ -88,7 +94,8 @@ Although we have set up automation for the most basic tasks, this repository is 
 
 1. Click the "**Open pull request**" button in the menu.<br />
    The "**Open a pull request**" page will open.
-1. In the **"Open a pull request"** window that opens, click the "**Create pull request**" button.
+1. Click the "**Create pull request**" button on the "**Open a pull request**" page.<br />
+   The pull request will be submitted.
 
 The library will be automatically checked for compliance as soon as the pull request is submitted. If no problems were found, the pull request will be immediately merged and the library will be available for installation via Library Manager within a day's time.
 
