@@ -8830,4 +8830,4 @@ https://github.com/Lodevd/TimLib
 https://github.com/someone225/multiMotor
 https://github.com/Zefek/TX07K-TXC
 https://github.com/taraszhylenko/TickerTape7SegmentDisplay
-https://github.com/DimuthuWijesinha/DimuthuRobotLib
+https://github.com/dimuthurangana/DimuthuRobotLib
