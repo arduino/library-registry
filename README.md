@@ -136,6 +136,12 @@ The submission of the pull request will trigger an automated system. This system
    **ⓘ** You should only need to wait a few minutes at most.
 1. If you see that the pull request was merged, this means your library has been successfully registered 🎉 and the library will be available for installation via Library Manager within a day's time. If instead the comment from the bot says that a problem was found, please promptly follow the provided instructions to resolve the problem. There is additional information about resolving problems below.
 
+---
+
+**ⓘ** In addition to checking for problems that block the acceptance of the library, the automated system also displays warnings when it identifies potential areas for improvement in the library. We do recommend you pay attention to these warnings and act on them. However, warnings do not block or otherwise affect the registration of the library. It is only the items labeled as errors that block acceptance.
+
+---
+
 The problem may be either with your pull request or with the library:
 
 #### If the problem is with the pull request:
