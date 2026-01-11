@@ -50,6 +50,22 @@ Although we have set up automation for the most basic tasks, this repository is 
    The "**Create a new fork**" page will open.
 1. Click the "**Create fork**" button in the "**Create a new fork**" page.<br />
    A [fork](https://docs.github.com/get-started/quickstart/fork-a-repo) repository will be created under your GitHub account, and the home page of the fork will open.
+1. Click the "**1 Branch**" link on the home page of your fork.<br />
+   The "**Branches**" page will open.
+1. Click the "**New branch**" button on the "**Branches**" page.<br />
+   The "**Create a branch**" dialog will open.
+1. Type `my-submission` (or any other name you like) in the "**New branch name**" field of the "**Create a branch**" dialog.<br />
+   The "**Create a branch**" dialog will close.
+1. Click on the first drop-down menu under the "**Source**" section of the dialog.<br />
+   The drop-down menu will open.
+1. Select "**arduino/library-registry**" from the menu.
+1. Click on the second drop-down menu under the "**Source**" section of the dialog.<br />
+   The drop-down menu will open.
+1. Select "**main**" from the menu.
+1. Click the "**Create new branch**" button at the bottom of the dialog.<br />
+   The "**Create a branch**" dialog will close, returning you to the "**Branches**" page.
+1. Look under the "**Your branches**" section of the "**Branches**" page. You will see a link there for the branch you created during the previous step (i.e., `my-submission`). Click that link.<br />
+   The home page of your fork will open, with the newly created branch selected.
 1. Click on the file `repositories.txt` under the list of files you see in that page.<br />
    The "**library-registry/repositories.txt**" page will open.
 1. Click the pencil icon ("Edit this file") at the right side of the toolbar in the "**library-registry/repositories.txt**" page.<br />
@@ -58,6 +74,8 @@ Although we have set up automation for the most basic tasks, this repository is 
 1. Click the "**Commit changes...**" button located near the top right corner of the page.<br />
    The "**Commit changes**" dialog will open.
    The "**library-registry/repositories.txt**" page will open.
+1. Select the "**Commit directly to the `my-submission` branch**" radio button in the dialog.<br />
+   **ⓘ** If you chose a name other than `my-submission` when creating the branch, the radio button will instead have that branch name.
 1. Click the "**Commit changes**" button in the "**Commit changes**" dialog.<br />
 1. Click the "**library-registry**" link at the top of the "**library-registry/repositories.txt**" page.<br />
    The home page of your fork of the **library-registry** repository will open.
