@@ -8828,3 +8828,4 @@ https://github.com/teamprof/ArduCMSIS-DSP.git|Contributed|ArduCMSIS-DSP
 https://github.com/sunfounder/sunfounder-imu-arduino.git|Contributed|SunFounder_IMU
 https://github.com/SolderedElectronics/Soldered-OpenAI-Library.git|Contributed|Soldered OpenAI Library
 https://github.com/wagenadl/RobustQuadrature.git|Contributed|RobustQuadrature
+https://github.com/leftCoast/LCP_shopList.git|Contributed|LCP_shopList
