@@ -8832,3 +8832,4 @@ https://github.com/leftCoast/LCP_shopList.git|Contributed|LCP_shopList
 https://github.com/DanForever/SimpleSmooth.git|Contributed|SimpleSmooth
 https://github.com/hii-nice-2-meet-u/HANUMAN_32.git|Contributed|HANUMAN_32
 https://github.com/jaszczurtd/arduino-wireguard-pico-w.git|Contributed|wireguard-pico-w
+https://github.com/Monash-Railway-Express/CAN_MREx.git|Contributed|CAN_MREx
