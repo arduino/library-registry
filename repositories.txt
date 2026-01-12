@@ -8834,3 +8834,4 @@ https://github.com/Zefek/TX07K-TXC
 https://github.com/taraszhylenko/TickerTape7SegmentDisplay
 https://github.com/dimuthurangana/DimuthuRobotLib
 https://github.com/teamprof/ArduCMSIS-DSP
+https://github.com/wagenadl/RobustQuadrature
