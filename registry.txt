@@ -8826,3 +8826,4 @@ https://github.com/taraszhylenko/TickerTape7SegmentDisplay.git|Contributed|Ticke
 https://github.com/dimuthurangana/DimuthuRobotLib.git|Contributed|DimuthuRobotLib
 https://github.com/teamprof/ArduCMSIS-DSP.git|Contributed|ArduCMSIS-DSP
 https://github.com/sunfounder/sunfounder-imu-arduino.git|Contributed|SunFounder_IMU
+https://github.com/SolderedElectronics/Soldered-OpenAI-Library.git|Contributed|Soldered OpenAI Library
