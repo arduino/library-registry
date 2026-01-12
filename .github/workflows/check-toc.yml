@@ -27,13 +27,13 @@ jobs:
         file:
           - name: README.md
             # Max ToC depth, for use with the markdown-toc --maxdepth flag.
-            maxdepth: 4
+            maxdepth: 2
           - name: FAQ.md
             maxdepth: 3
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Install markdown-toc
         run: sudo npm install --global markdown-toc

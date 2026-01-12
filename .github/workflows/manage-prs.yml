@@ -114,7 +114,7 @@ jobs:
         run: echo "::set-output name=head::$(jq -c .head.sha "${{ steps.configuration.outputs.path }}/${{ env.JSON_IDENTIFIER }}")"
 
       - name: Upload diff file to workflow artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           path: ${{ steps.configuration.outputs.path }}/${{ steps.configuration.outputs.filename }}
           name: ${{ steps.configuration.outputs.artifact }}
@@ -137,7 +137,7 @@ jobs:
       # Checkout the tip of the default branch (this is the action's default ref input value when workflow is triggered
       # by an issue_comment or pull_request_target event).
       - name: Checkout local repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Download submission parser
         id: download-parser
@@ -147,7 +147,7 @@ jobs:
           location: ${{ runner.temp }}
 
       - name: Download diff
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v7
         with:
           path: ${{ needs.diff.outputs.path }}
           name: ${{ needs.diff.outputs.artifact }}
@@ -456,7 +456,7 @@ jobs:
       # So it's necessary to use an alternative means of indicating that at least one submission failed the checks.
       - name: Upload failure flag artifact
         if: env.PASS == 'false'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           if-no-files-found: error
           include-hidden-files: true
@@ -475,7 +475,7 @@ jobs:
 
     steps:
       - name: Download submission check failure flag artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v7
         with:
           path: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PATH }}
           pattern: ${{ env.CHECK_SUBMISSIONS_FAIL_FLAG_ARTIFACT_PREFIX }}*
@@ -594,7 +594,7 @@ jobs:
 
       - name: Checkout index source branch
         if: steps.merge.outcome == 'success'
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           ref: production
 
