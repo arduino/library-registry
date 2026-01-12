@@ -8829,3 +8829,4 @@ https://github.com/sunfounder/sunfounder-imu-arduino.git|Contributed|SunFounder_
 https://github.com/SolderedElectronics/Soldered-OpenAI-Library.git|Contributed|Soldered OpenAI Library
 https://github.com/wagenadl/RobustQuadrature.git|Contributed|RobustQuadrature
 https://github.com/leftCoast/LCP_shopList.git|Contributed|LCP_shopList
+https://github.com/DanForever/SimpleSmooth.git|Contributed|SimpleSmooth
