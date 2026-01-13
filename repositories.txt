@@ -1,3 +1,6 @@
+https://github.com/Monash-Railway-Express/CAN_MREx
+https://github.com/jaszczurtd/arduino-wireguard-pico-w
+https://github.com/leftCoast/LCP_shopList
 https://github.com/topquark22/Plexorino
 https://github.com/HimanshuChauragade/SimpleMorse
 https://github.com/topquark22/ServoDAC
@@ -80,6 +83,7 @@ https://github.com/mabrobotics/Candleduino
 https://github.com/liviobellini/KaitMenu
 https://github.com/Alash-electronics/AlashUltrasonic
 https://github.com/Alash-electronics/AlashIRControl
+https://github.com/m5stack/M5IOE1
 https://github.com/m5stack/M5Unit-FINGER
 https://github.com/m5stack/M5Unit-RF433
 https://github.com/MTD2A/MTD2A
@@ -2248,6 +2252,7 @@ https://github.com/DaleGia/Nano33BLESensor
 https://github.com/daliworks/arduino_library
 https://github.com/damellis/PCM
 https://github.com/DanForever/DF-Print
+https://github.com/DanForever/SimpleSmooth
 https://github.com/dang-gun/Arduino_ButtonClickCheck
 https://github.com/dang-gun/Arduino_StepperAsync5
 https://github.com/dani007200964/Commander-API
@@ -8745,6 +8750,7 @@ https://github.com/nedesico/ESP32_Thermistor
 https://github.com/pdoebler/HS300x
 https://github.com/hii-nice-2-meet-u/TINY.git
 https://github.com/hii-nice-2-meet-u/LUMINOUS.git
+https://github.com/hii-nice-2-meet-u/HANUMAN_32
 https://github.com/sfera-labs/iono
 https://github.com/sfera-labs/arduino-wiegand
 https://github.com/sfera-labs/arduino-modbus-rtu-slave
@@ -8835,3 +8841,4 @@ https://github.com/Zefek/TX07K-TXC
 https://github.com/taraszhylenko/TickerTape7SegmentDisplay
 https://github.com/dimuthurangana/DimuthuRobotLib
 https://github.com/teamprof/ArduCMSIS-DSP
+https://github.com/wagenadl/RobustQuadrature
