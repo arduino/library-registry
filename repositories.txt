@@ -5294,6 +5294,7 @@ https://github.com/pfeerick/elapsedMillis
 https://github.com/pg-goose/MKRWiFiLed
 https://github.com/Phambili-Tech/Newt_Display
 https://github.com/Pharap/FixedPointsArduino
+https://github.com/phaseshifted-iot/open-mioty-arduino
 https://github.com/philbowles/esparto
 https://github.com/philippG777/HP03S
 https://github.com/philj404/SimpleSerialShell
