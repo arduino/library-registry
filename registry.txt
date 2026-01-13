@@ -8681,7 +8681,7 @@ https://github.com/leftCoast/LC_Adafruit_1431.git|Contributed|LC_Adafruit_1431
 https://github.com/leftCoast/LC_Adafruit_1947.git|Contributed|LC_Adafruit_1947
 https://github.com/leftCoast/LC_DFRobot_0995.git|Contributed|LC_DFRobot_0995
 https://github.com/leftCoast/LC_Adafruit_2050.git|Contributed|LC_Adafruit_2050
-https://github.com/leftCoast/LC_bmpTools.git|Contributed|LC_bmpObj
+https://github.com/leftCoast/LC_bmpTools.git|Contributed|LC_bmpTools
 https://github.com/leftCoast/LC_keyboard.git|Contributed|LC_keyboard
 https://github.com/leftCoast/LC_blockFile.git|Contributed|LC_blockfile
 https://github.com/leftCoast/LC_SDTools.git|Contributed|LC_SDTools
