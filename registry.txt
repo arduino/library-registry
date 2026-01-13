@@ -8838,3 +8838,4 @@ https://github.com/Embedded-Petal/Petal_IoT_Cloud.git|Contributed|Petal IoT Clou
 https://github.com/phaseshifted-iot/open-mioty-arduino.git|Contributed|OpenMioty
 https://github.com/AdaptiveEngineering/LinkGenericDash.git|Contributed|LinkGenericDash
 https://github.com/NoNamedCat/CH32X035_USBMIDI.git|Contributed|CH32X035_USBMIDI
+https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13.git|Contributed|XENSIV BGT60TR13C Radar Sensor
