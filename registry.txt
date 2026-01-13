@@ -8835,3 +8835,4 @@ https://github.com/jaszczurtd/arduino-wireguard-pico-w.git|Contributed|wireguard
 https://github.com/Monash-Railway-Express/CAN_MREx.git|Contributed|CAN_MREx
 https://github.com/m5stack/M5IOE1.git|Contributed|M5IOE1
 https://github.com/Embedded-Petal/Petal_IoT_Cloud.git|Contributed|Petal IoT Cloud
+https://github.com/phaseshifted-iot/open-mioty-arduino.git|Contributed|OpenMioty
