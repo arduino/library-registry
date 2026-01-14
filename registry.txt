@@ -8843,3 +8843,4 @@ https://github.com/Picovoice/cobra-arduino.git|Contributed|Cobra
 https://github.com/ahmadfathan/fthnlabs_display.git|Contributed|FthnLabsDisplay
 https://github.com/HobbyComponents/rLink.git|Contributed|rLink
 https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git|Contributed|MCM_GitHub_OTA
+https://github.com/HobbyComponents/mLink.git|Contributed|mLink
