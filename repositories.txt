@@ -8847,3 +8847,4 @@ https://github.com/teamprof/ArduCMSIS-DSP
 https://github.com/wagenadl/RobustQuadrature
 https://github.com/AdaptiveEngineering/LinkGenericDash
 https://github.com/NoNamedCat/CH32X035_USBMIDI 
+https://github.com/ahmadfathan/fthnlabs_display
