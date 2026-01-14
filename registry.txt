@@ -8842,3 +8842,4 @@ https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13.git|Contribute
 https://github.com/Picovoice/cobra-arduino.git|Contributed|Cobra
 https://github.com/ahmadfathan/fthnlabs_display.git|Contributed|FthnLabsDisplay
 https://github.com/HobbyComponents/rLink.git|Contributed|rLink
+https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git|Contributed|MCM_GitHub_OTA
