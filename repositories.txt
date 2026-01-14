@@ -5350,6 +5350,7 @@ https://github.com/Picovoice/rhino-arduino-ja
 https://github.com/Picovoice/rhino-arduino-ko
 https://github.com/Picovoice/rhino-arduino-pt
 https://github.com/Picovoice/rhino-arduino-zh
+https://github.com/Picovoice/cobra-arduino
 https://github.com/pierremolinaro/acan
 https://github.com/pierremolinaro/acan-esp32
 https://github.com/pierremolinaro/acan-stm32
