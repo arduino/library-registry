@@ -7951,7 +7951,7 @@ https://github.com/MOMIZICH/OneShot
 https://github.com/siroshy/SerialTerminalIO
 https://github.com/MOMIZICH/JoystickController
 https://github.com/moduhub/openafe
-https://github.com/ig-66/openAFEComm
+https://github.com/moduhub/openafe-comm
 https://github.com/chankame/sclm-p105_shield
 https://github.com/siroshy/SharpIR
 https://github.com/kashif-baig/StringLib
