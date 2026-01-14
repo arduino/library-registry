@@ -8840,3 +8840,4 @@ https://github.com/AdaptiveEngineering/LinkGenericDash.git|Contributed|LinkGener
 https://github.com/NoNamedCat/CH32X035_USBMIDI.git|Contributed|CH32X035_USBMIDI
 https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13.git|Contributed|XENSIV BGT60TR13C Radar Sensor
 https://github.com/Picovoice/cobra-arduino.git|Contributed|Cobra
+https://github.com/ahmadfathan/fthnlabs_display.git|Contributed|FthnLabsDisplay
