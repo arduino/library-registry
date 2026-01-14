@@ -5351,6 +5351,7 @@ https://github.com/Picovoice/rhino-arduino-ja
 https://github.com/Picovoice/rhino-arduino-ko
 https://github.com/Picovoice/rhino-arduino-pt
 https://github.com/Picovoice/rhino-arduino-zh
+https://github.com/Picovoice/cobra-arduino
 https://github.com/pierremolinaro/acan
 https://github.com/pierremolinaro/acan-esp32
 https://github.com/pierremolinaro/acan-stm32
@@ -8847,3 +8848,5 @@ https://github.com/teamprof/ArduCMSIS-DSP
 https://github.com/wagenadl/RobustQuadrature
 https://github.com/AdaptiveEngineering/LinkGenericDash
 https://github.com/NoNamedCat/CH32X035_USBMIDI 
+https://github.com/ahmadfathan/fthnlabs_display
+https://github.com/HobbyComponents/rLink
