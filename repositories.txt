@@ -8851,3 +8851,4 @@ https://github.com/NoNamedCat/CH32X035_USBMIDI
 https://github.com/ahmadfathan/fthnlabs_display
 https://github.com/HobbyComponents/rLink
 https://github.com/HobbyComponents/mLink
+https://github.com/afpineda/ESP32-RGB-LEDStrip
