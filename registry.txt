@@ -8849,3 +8849,4 @@ https://github.com/Bhushan8673/Cloudeck.git|Contributed|Cloudeck
 https://github.com/NoNamedCat/CH32X035_USBMouse.git|Contributed|CH32X035_USBMouse
 https://github.com/NoNamedCat/CH32X035_USBHIDKeyboard.git|Contributed|CH32X035_USBHIDKeyboard
 https://github.com/NoNamedCat/CH32X035_USBGamepad.git|Contributed|CH32X035_USBGamepad
+https://github.com/Kronbii/easyPID.git|Contributed|easyPID
