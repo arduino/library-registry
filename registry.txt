@@ -8846,3 +8846,6 @@ https://github.com/mcmchris/mcm-esp32-ota-fw-updater.git|Contributed|MCM_GitHub_
 https://github.com/HobbyComponents/mLink.git|Contributed|mLink
 https://github.com/afpineda/ESP32-RGB-LEDStrip.git|Contributed|ESP32-RGB-LEDStrip
 https://github.com/Bhushan8673/Cloudeck.git|Contributed|Cloudeck
+https://github.com/NoNamedCat/CH32X035_USBMouse.git|Contributed|CH32X035_USBMouse
+https://github.com/NoNamedCat/CH32X035_USBHIDKeyboard.git|Contributed|CH32X035_USBHIDKeyboard
+https://github.com/NoNamedCat/CH32X035_USBGamepad.git|Contributed|CH32X035_USBGamepad
