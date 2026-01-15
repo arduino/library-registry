@@ -8853,3 +8853,6 @@ https://github.com/HobbyComponents/rLink
 https://github.com/HobbyComponents/mLink
 https://github.com/afpineda/ESP32-RGB-LEDStrip
 https://github.com/Bhushan8673/Cloudeck
+https://github.com/NoNamedCat/CH32X035_USBMouse
+https://github.com/NoNamedCat/CH32X035_USBHIDKeyboard
+https://github.com/NoNamedCat/CH32X035_USBGamepad
