@@ -8856,3 +8856,4 @@ https://github.com/Bhushan8673/Cloudeck
 https://github.com/NoNamedCat/CH32X035_USBMouse
 https://github.com/NoNamedCat/CH32X035_USBHIDKeyboard
 https://github.com/NoNamedCat/CH32X035_USBGamepad
+https://github.com/Kronbii/easyPID.git
