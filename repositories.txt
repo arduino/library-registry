@@ -8858,3 +8858,4 @@ https://github.com/NoNamedCat/CH32X035_USBHIDKeyboard
 https://github.com/NoNamedCat/CH32X035_USBGamepad
 https://github.com/Kronbii/easyPID.git
 https://github.com/NoNamedCat/CH32X035_USBComposite
+https://github.com/pavel-jiranek/Joystick-KY023
