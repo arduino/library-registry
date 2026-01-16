@@ -6423,7 +6423,7 @@ https://github.com/alireza7575/MKS_SERVO57.git|Contributed|MKS_SERVO57
 https://github.com/sparkfun/SparkFun_Toolkit.git|Contributed|SparkFun Toolkit
 https://github.com/reiniiriarios/arduino-mqtt-looped.git|Contributed|MQTT_Looped
 https://github.com/littleBitsman/Asynchrony.git|Contributed|Asynchrony
-https://github.com/PU2REO/Si5351ArduinoLite.git|Contributed|PU2REO Si5351ArduinoLite
+https://github.com/PU2REO/PU2REO_Si5351Lite.git|Contributed|PU2REO_Si5351Lite
 https://github.com/Sam4uk/CRSF.git|Contributed|CRSF
 https://github.com/hpsaturn/MultiFuncShield-Library.git|Contributed|MultiFuncShield
 https://github.com/arduino-libraries/Arduino_PF1550.git|Arduino|Arduino_PF1550
