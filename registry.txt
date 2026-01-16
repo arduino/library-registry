@@ -8851,3 +8851,4 @@ https://github.com/NoNamedCat/CH32X035_USBHIDKeyboard.git|Contributed|CH32X035_U
 https://github.com/NoNamedCat/CH32X035_USBGamepad.git|Contributed|CH32X035_USBGamepad
 https://github.com/Kronbii/easyPID.git|Contributed|easyPID
 https://github.com/Annabel369/ESP32FTPServer.git|Contributed|ESP32FtpServer
+https://github.com/NoNamedCat/CH32X035_USBComposite.git|Contributed|CH32X035_USBComposite
