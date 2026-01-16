@@ -8859,3 +8859,4 @@ https://github.com/NoNamedCat/CH32X035_USBGamepad
 https://github.com/Kronbii/easyPID.git
 https://github.com/NoNamedCat/CH32X035_USBComposite
 https://github.com/pavel-jiranek/Joystick-KY023
+https://github.com/cubicleguy/xv7211_arduino_spi
