@@ -7247,7 +7247,7 @@ https://github.com/arastaskiran/RustyKeypad.git|Contributed|RustyKeypad
 https://github.com/TcMenu/tcMenuLog.git|Contributed|TcMenuLog
 https://github.com/Freenove/Freenove_RFID_Lib_for_Pico.git|Contributed|Freenove RFID Lib for Pico
 https://github.com/thomasgeissl/Parameter.git|Contributed|Parameter
-https://github.com/thomasgeissl/ESP-NOW-MIDI.git|Contributed|ESP-NOW MIDI
+https://github.com/grantler-instruments/ESP-NOW-MIDI.git|Contributed|ESP-NOW MIDI
 https://gitlab.com/ettotog/tiny-io.git|Contributed|TinyIO
 https://github.com/adbancroft/avr-fast-map.git|Contributed|avr-fast-map
 https://github.com/soynaldo/Labvee.git|Contributed|Labvee Library
