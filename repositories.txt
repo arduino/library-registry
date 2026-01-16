@@ -2317,7 +2317,7 @@ https://github.com/DBSStore/DBS_Lib
 https://github.com/DCC-EX/DCCEXProtocol
 https://github.com/dcondrey/MicrostepToLinear
 https://github.com/ddxfish/XPT2046_Bitbang_Arduino_Library
-https://github.com/DeanIsMe/SevSeg
+https://github.com/untr0py/SevSeg
 https://github.com/DedeHai/NeoPixelPainter
 https://github.com/DefHam140/IOTClient
 https://github.com/DefHam140/ZModbusRTU
