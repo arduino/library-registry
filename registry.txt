@@ -8146,7 +8146,7 @@ https://github.com/npuckett/WebGUI.git|Contributed|WebGUI
 https://github.com/kolod/Arduino-Simple-Modbus-Slave.git|Contributed|SimpleModbusSlave
 https://github.com/EmotiBit/EmotiBit_Brainflow_SpO2_Algorithm.git|Contributed|BrainflowSpO2Algorithm
 https://github.com/m5stack/M5Unit-TUBE.git|Contributed|M5Unit-TUBE
-https://github.com/TelemetryHarbor/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
+https://github.com/HarborScale/harbor-sdk-c-plus-plus.git|Contributed|TelemetryHarborSDK
 https://github.com/ycharfi09/QTRMuxes.git|Contributed|QTRMuxes
 https://github.com/jmwanderer/RYLR_LoRaAT.git|Contributed|RYLR_LoRaAT
 https://github.com/Rupakpoddar/ESP32Sonos.git|Contributed|Sonos
