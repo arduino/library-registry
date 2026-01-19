@@ -8857,3 +8857,4 @@ https://github.com/hasenradball/PCF8574-I2C.git|Contributed|PCF8574-I2C
 https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal.git|Contributed|McuBleTerminal
 https://github.com/gomgom-40/RD03Radar.git|Contributed|RD03Radar
 https://github.com/MBXRobotics/MBXRabbitGo.git|Contributed|MBXRabbitGo
+https://github.com/FluxGarage/RoboEyes.git|Contributed|FluxGarage RoboEyes
