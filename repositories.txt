@@ -14,6 +14,7 @@ https://github.com/piotrmalek/BQ25672
 https://github.com/Witty-Wizard/InertialIO
 https://github.com/NagarChinmay/ESPToon
 https://github.com/eicut/TFS20
+https://github.com/MBXRobotics/MBXRabbitGo
 https://github.com/Esslangamer20/SimpleWiFiManager
 https://github.com/ncmreynolds/bq25186
 https://github.com/TheHappyGrey/PicoGFX_SSD1322
