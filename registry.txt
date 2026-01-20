@@ -8863,3 +8863,4 @@ https://github.com/bozont/bozontlabsMAX7219.git|Contributed|bozontlabsMAX7219
 https://github.com/bozont/bozontlabsUptime.git|Contributed|bozontlabsUptime
 https://github.com/robocre8/EPMC_I2C_Client.git|Contributed|EPMC_I2C_Client
 https://github.com/robocre8/EIMU_I2C_Client.git|Contributed|EIMU_I2C_Client
+https://github.com/RobTillaart/PT2257.git|Contributed|PT2257
