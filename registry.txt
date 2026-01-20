@@ -8861,3 +8861,4 @@ https://github.com/FluxGarage/RoboEyes.git|Contributed|FluxGarage RoboEyes
 https://github.com/4nvesh/EasyESPConnect.git|Contributed|EasyESPConnect
 https://github.com/bozont/bozontlabsMAX7219.git|Contributed|bozontlabsMAX7219
 https://github.com/bozont/bozontlabsUptime.git|Contributed|bozontlabsUptime
+https://github.com/robocre8/EPMC_I2C_Client.git|Contributed|EPMC_I2C_Client
