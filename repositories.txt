@@ -8866,3 +8866,5 @@ https://github.com/cubicleguy/xv7211_arduino_spi
 https://github.com/gomgom-40/RD03Radar
 https://github.com/FluxGarage/RoboEyes
 https://github.com/4nvesh/EasyESPConnect
+https://github.com/bozont/bozontlabsMAX7219
+https://github.com/bozont/bozontlabsUptime
