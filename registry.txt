@@ -8859,3 +8859,5 @@ https://github.com/gomgom-40/RD03Radar.git|Contributed|RD03Radar
 https://github.com/MBXRobotics/MBXRabbitGo.git|Contributed|MBXRabbitGo
 https://github.com/FluxGarage/RoboEyes.git|Contributed|FluxGarage RoboEyes
 https://github.com/4nvesh/EasyESPConnect.git|Contributed|EasyESPConnect
+https://github.com/bozont/bozontlabsMAX7219.git|Contributed|bozontlabsMAX7219
+https://github.com/bozont/bozontlabsUptime.git|Contributed|bozontlabsUptime
