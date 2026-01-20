@@ -8868,3 +8868,4 @@ https://github.com/FluxGarage/RoboEyes
 https://github.com/4nvesh/EasyESPConnect
 https://github.com/bozont/bozontlabsMAX7219
 https://github.com/bozont/bozontlabsUptime
+https://github.com/robocre8/EPMC_I2C_Client
