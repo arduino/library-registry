@@ -8870,3 +8870,4 @@ https://github.com/bozont/bozontlabsMAX7219
 https://github.com/bozont/bozontlabsUptime
 https://github.com/robocre8/EPMC_I2C_Client
 https://github.com/robocre8/EIMU_I2C_Client
+https://github.com/bill-orange/AskGemini.git
