@@ -8865,3 +8865,4 @@ https://github.com/robocre8/EPMC_I2C_Client.git|Contributed|EPMC_I2C_Client
 https://github.com/robocre8/EIMU_I2C_Client.git|Contributed|EIMU_I2C_Client
 https://github.com/RobTillaart/PT2257.git|Contributed|PT2257
 https://github.com/bill-orange/AskGemini.git|Contributed|AskGemini
+https://github.com/NitrofMtl/STM32Modbus.git|Contributed|STM32Modbus
