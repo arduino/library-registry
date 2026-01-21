@@ -1,4 +1,5 @@
 https://github.com/avsavushkiny/makegame
+https://github.com/TUDA-MUST/ADS1X58
 https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal
 https://github.com/hasenradball/PCF8574-I2C
 https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13
