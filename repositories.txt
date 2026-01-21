@@ -8873,3 +8873,4 @@ https://github.com/robocre8/EPMC_I2C_Client
 https://github.com/robocre8/EIMU_I2C_Client
 https://github.com/bill-orange/AskGemini.git
 https://github.com/NitrofMtl/STM32Modbus
+https://github.com/arkhipenko/StateMachine
