@@ -8868,3 +8868,4 @@ https://github.com/bill-orange/AskGemini.git|Contributed|AskGemini
 https://github.com/NitrofMtl/STM32Modbus.git|Contributed|STM32Modbus
 https://github.com/TUDA-MUST/ADS1X58.git|Contributed|ADS1X58
 https://github.com/avsavushkiny/makegame.git|Contributed|makegame
+https://github.com/Ransky3000/SCT013-100.git|Contributed|SCT013-100
