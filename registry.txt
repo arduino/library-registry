@@ -8870,3 +8870,4 @@ https://github.com/TUDA-MUST/ADS1X58.git|Contributed|ADS1X58
 https://github.com/avsavushkiny/makegame.git|Contributed|makegame
 https://github.com/Ransky3000/SCT013-100.git|Contributed|SCT013-100
 https://github.com/arkhipenko/StateMachine.git|Contributed|StateMachineFramework
+https://github.com/m5stack/M5PM1.git|Contributed|M5PM1
