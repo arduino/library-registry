@@ -1,3 +1,5 @@
+https://github.com/avsavushkiny/makegame
+https://github.com/TUDA-MUST/ADS1X58
 https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal
 https://github.com/hasenradball/PCF8574-I2C
 https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13
@@ -8874,3 +8876,4 @@ https://github.com/robocre8/EIMU_I2C_Client
 https://github.com/bill-orange/AskGemini.git
 https://github.com/NitrofMtl/STM32Modbus
 https://github.com/arkhipenko/StateMachine.git
+https://github.com/Ransky3000/SCT013-100
