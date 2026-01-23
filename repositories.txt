@@ -8882,4 +8882,5 @@ https://github.com/NitrofMtl/STM32Modbus
 https://github.com/arkhipenko/StateMachine.git
 https://github.com/Ransky3000/SCT013-100
 https://github.com/kireev7/FastLed_Neopixel_Nanit
+https://github.com/KE-Holtz/holtzlib
 https://github.com/MasterArgo/PIDController
