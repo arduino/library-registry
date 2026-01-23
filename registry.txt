@@ -8874,3 +8874,4 @@ https://github.com/m5stack/M5PM1.git|Contributed|M5PM1
 https://github.com/souhardodasdps1-commits/RoboFlow.git|Contributed|RoboFlow
 https://github.com/kireev7/FastLed_Neopixel_Nanit.git|Contributed|FastLed_Neopixel_Nanit
 https://github.com/VijayGES/ESP32WiFiProvisioner.git|Contributed|ESP32WiFiProvisioner
+https://github.com/GyverLibs/ExpInt.git|Contributed|ExpInt
