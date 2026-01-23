@@ -33,6 +33,7 @@ https://github.com/KITTEN2008/SN74HC573
 https://github.com/KITTEN2008/ServoM
 https://github.com/hackffm/Single_WS2812_Bitbang_Write
 https://github.com/MrYsLab/Telemetrix4RpiPico2w
+https://github.com/gomgom-40/RD03Radar|Arduino|RD03Radar|1.1.0
 https://github.com/sstaub/Seesaw
 https://github.com/DavidSAlexander/STM32RomWebFlasher
 https://github.com/seeimadeit/AES128ESP32
