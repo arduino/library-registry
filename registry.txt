@@ -8877,3 +8877,4 @@ https://github.com/VijayGES/ESP32WiFiProvisioner.git|Contributed|ESP32WiFiProvis
 https://github.com/GyverLibs/ExpInt.git|Contributed|ExpInt
 https://github.com/MasterArgo/PIDController.git|Contributed|PID_t
 https://github.com/KE-Holtz/holtzlib.git|Contributed|HoltzLib
+https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library.git|Contributed|YNV_Driver_v5_Gen3
