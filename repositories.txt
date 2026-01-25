@@ -8885,3 +8885,4 @@ https://github.com/kireev7/FastLed_Neopixel_Nanit
 https://github.com/KE-Holtz/holtzlib
 https://github.com/MasterArgo/PIDController
 https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library
+https://github.com/PedroFnseca/esp32-http-client
