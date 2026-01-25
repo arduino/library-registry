@@ -8878,3 +8878,4 @@ https://github.com/GyverLibs/ExpInt.git|Contributed|ExpInt
 https://github.com/MasterArgo/PIDController.git|Contributed|PID_t
 https://github.com/KE-Holtz/holtzlib.git|Contributed|HoltzLib
 https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library.git|Contributed|YNV_Driver_v5_Gen3
+https://github.com/PedroFnseca/esp32-http-client.git|Contributed|ESP32-HTTP-Client
