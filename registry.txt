@@ -8882,3 +8882,4 @@ https://github.com/PedroFnseca/esp32-http-client.git|Contributed|ESP32-HTTP-Clie
 https://github.com/bharanidharanrangaraj/PZEM004Tv40_R4.git|Contributed|PZEM004Tv40_R4
 https://github.com/alkonosst/ReactiveESP32.git|Contributed|ReactiveESP32
 https://github.com/raiotech-iot/RaioGroupMatrix.git|Contributed|RaioGroupMatrix
+https://github.com/raiotech-iot/RaioLink.git|Contributed|RaioLink
