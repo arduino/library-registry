@@ -1,3 +1,6 @@
+https://github.com/VijayGES/ESP32WiFiProvisioner
+https://github.com/avsavushkiny/makegame
+https://github.com/TUDA-MUST/ADS1X58
 https://github.com/dominik-ewers-solutions/MCU_BLE_Terminal
 https://github.com/hasenradball/PCF8574-I2C
 https://github.com/Infineon/arduino-xensiv-radar-sensor-bgt60tr13
@@ -89,6 +92,7 @@ https://github.com/liviobellini/KaitMenu
 https://github.com/Alash-electronics/AlashUltrasonic
 https://github.com/Alash-electronics/AlashIRControl
 https://github.com/m5stack/M5IOE1
+https://github.com/m5stack/M5PM1
 https://github.com/m5stack/M5Unit-FINGER
 https://github.com/m5stack/M5Unit-RF433
 https://github.com/MTD2A/MTD2A
@@ -1224,6 +1228,7 @@ https://github.com/alireza7575/MKS_SERVO42
 https://github.com/alireza7575/MKS_SERVO57
 https://github.com/alkonosst/ADS1115
 https://github.com/alkonosst/MCP23017
+https://github.com/alkonosst/ReactiveESP32
 https://github.com/alkonosst/RTOScppESP32
 https://github.com/alkonosst/SettingsManagerESP32.git
 https://github.com/alkonosst/SIM7600Module
@@ -3176,6 +3181,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/ExpInt
 https://github.com/GyverLibs/BLESerial_ESP32
 https://github.com/GyverLibs/uEncoder
 https://github.com/GyverLibs/uButton
@@ -6125,6 +6131,7 @@ https://github.com/RobTillaart/PrintCharArray
 https://github.com/RobTillaart/printHelpers
 https://github.com/RobTillaart/PrintSize
 https://github.com/RobTillaart/PrintString
+https://github.com/RobTillaart/PT2257
 https://github.com/RobTillaart/PT2314
 https://github.com/RobTillaart/PulseDivider
 https://github.com/RobTillaart/PulsePattern
@@ -8851,6 +8858,7 @@ https://github.com/wagenadl/RobustQuadrature
 https://github.com/AdaptiveEngineering/LinkGenericDash
 https://github.com/NoNamedCat/CH32X035_USBMIDI 
 https://github.com/ahmadfathan/fthnlabs_display
+https://github.com/souhardodasdps1-commits/RoboFlow
 https://github.com/HobbyComponents/rLink
 https://github.com/HobbyComponents/mLink
 https://github.com/Annabel369/ESP32FTPServer.git
@@ -8866,3 +8874,18 @@ https://github.com/cubicleguy/xv7211_arduino_spi
 https://github.com/gomgom-40/RD03Radar
 https://github.com/FluxGarage/RoboEyes
 https://github.com/raiotech-iot/RaioGroupMatrix
+https://github.com/4nvesh/EasyESPConnect
+https://github.com/bozont/bozontlabsMAX7219
+https://github.com/bozont/bozontlabsUptime
+https://github.com/robocre8/EPMC_I2C_Client
+https://github.com/robocre8/EIMU_I2C_Client
+https://github.com/bill-orange/AskGemini.git
+https://github.com/NitrofMtl/STM32Modbus
+https://github.com/arkhipenko/StateMachine.git
+https://github.com/Ransky3000/SCT013-100
+https://github.com/kireev7/FastLed_Neopixel_Nanit
+https://github.com/KE-Holtz/holtzlib
+https://github.com/MasterArgo/PIDController
+https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library
+https://github.com/PedroFnseca/esp32-http-client
+https://github.com/bharanidharanrangaraj/PZEM004Tv40_R4
