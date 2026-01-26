@@ -8880,3 +8880,4 @@ https://github.com/KE-Holtz/holtzlib.git|Contributed|HoltzLib
 https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library.git|Contributed|YNV_Driver_v5_Gen3
 https://github.com/PedroFnseca/esp32-http-client.git|Contributed|ESP32-HTTP-Client
 https://github.com/bharanidharanrangaraj/PZEM004Tv40_R4.git|Contributed|PZEM004Tv40_R4
+https://github.com/alkonosst/ReactiveESP32.git|Contributed|ReactiveESP32
