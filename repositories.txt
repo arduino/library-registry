@@ -8883,10 +8883,10 @@ https://github.com/bill-orange/AskGemini.git
 https://github.com/NitrofMtl/STM32Modbus
 https://github.com/arkhipenko/StateMachine.git
 https://github.com/Ransky3000/SCT013-100
-https://github.com/kireev7/FastLed_Neopixel_Nanit
 https://github.com/KE-Holtz/holtzlib
 https://github.com/MasterArgo/PIDController
 https://github.com/Ynvisible-Electronics/YNV-Driver-v5-Gen3-Arduino-Library
 https://github.com/PedroFnseca/esp32-http-client
 https://github.com/bharanidharanrangaraj/PZEM004Tv40_R4
 https://github.com/raiotech-iot/RaioLink
+https://github.com/kireev7/FastLed_Neopixel_Nanit
