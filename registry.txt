@@ -8885,3 +8885,4 @@ https://github.com/raiotech-iot/RaioGroupMatrix.git|Contributed|RaioGroupMatrix
 https://github.com/raiotech-iot/RaioLink.git|Contributed|RaioLink
 https://github.com/tomorrow56/M5StackWiFiUploader.git|Contributed|M5Stack WiFi Uploader
 https://github.com/FantasyFactory/EventStateMachine.git|Contributed|EventStateMachine
+https://github.com/jihun-kang/orbisync-node.git|Contributed|OrbiSyncNode
