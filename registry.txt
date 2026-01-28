@@ -8890,3 +8890,4 @@ https://github.com/panchocoquito/OptaButton.git|Contributed|OptaButton
 https://github.com/panchocoquito/DefLab_Common.git|Contributed|DefLab_Common
 https://github.com/TEXHOUM/TEXHOUM_PAC.git|Contributed|TEXHOUM_PAC
 https://github.com/RobTillaart/wordCount.git|Contributed|wordCount
+https://github.com/uStepper/uStepper-8b.git|Contributed|uStepper 8b
