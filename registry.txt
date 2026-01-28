@@ -8888,3 +8888,4 @@ https://github.com/FantasyFactory/EventStateMachine.git|Contributed|EventStateMa
 https://github.com/jihun-kang/orbisync-node.git|Contributed|OrbiSyncNode
 https://github.com/panchocoquito/OptaButton.git|Contributed|OptaButton
 https://github.com/panchocoquito/DefLab_Common.git|Contributed|DefLab_Common
+https://github.com/TEXHOUM/TEXHOUM_PAC.git|Contributed|TEXHOUM_PAC
