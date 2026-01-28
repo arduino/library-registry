@@ -7504,6 +7504,7 @@ https://github.com/uStepper/uStepper
 https://github.com/uStepper/uStepper-S-lite
 https://github.com/uStepper/uStepperS
 https://github.com/uStepper/uStepperS32
+https://github.com/uStepper/uStepper-8b
 https://github.com/vacmg/MAX_RS485
 https://github.com/VasilKalchev/ExponentMap
 https://github.com/VasilKalchev/LiquidMenu
