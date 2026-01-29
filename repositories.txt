@@ -7504,6 +7504,7 @@ https://github.com/uStepper/uStepper
 https://github.com/uStepper/uStepper-S-lite
 https://github.com/uStepper/uStepperS
 https://github.com/uStepper/uStepperS32
+https://github.com/uStepper/uStepper-8b
 https://github.com/vacmg/MAX_RS485
 https://github.com/VasilKalchev/ExponentMap
 https://github.com/VasilKalchev/LiquidMenu
@@ -8897,3 +8898,4 @@ https://github.com/FantasyFactory/EventStateMachine
 https://github.com/jihun-kang/orbisync-node
 https://github.com/panchocoquito/OptaButton
 https://github.com/panchocoquito/DefLab_Common
+https://github.com/hayasita/InputTerminal
