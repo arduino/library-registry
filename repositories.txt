@@ -43,7 +43,7 @@ https://github.com/TUDA-MUST/ResenseHEX/
 https://github.com/leftCoast/LC_SPI
 https://github.com/dudmoryo-cyber/TTP229_keypad
 https://github.com/jeanloickdt/InstantIoT
-https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network 
+https://github.com/BojanJurca/Lightweight-Fully-Connected-Neural-Network
 https://github.com/Alby312/AdvancedPID
 https://github.com/Viderspace/Smooth-Axis-Arduino.git
 https://github.com/strix190788/DCMotor_L9110
@@ -104,7 +104,7 @@ https://github.com/vicharak-in/shrike_arduino.git
 https://github.com/ienai-SPACE/ADC128S_Arduino
 https://github.com/oigonzalezp2024/ESP8266NAPTExtender
 https://github.com/oigonzalezp2024/ESP8266AIGemini
-https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino   
+https://github.com/BojanJurca/Lightweight-Standard-Template-Library-STL-for-Arduino
 https://github.com/BojanJurca/cin-cout-for-Arduino
 https://github.com/atestb/MCP4151-Digital-Potentiometer
 https://github.com/nicolito128/DHT_N128
@@ -8860,7 +8860,7 @@ https://github.com/dimuthurangana/DimuthuRobotLib
 https://github.com/teamprof/ArduCMSIS-DSP
 https://github.com/wagenadl/RobustQuadrature
 https://github.com/AdaptiveEngineering/LinkGenericDash
-https://github.com/NoNamedCat/CH32X035_USBMIDI 
+https://github.com/NoNamedCat/CH32X035_USBMIDI
 https://github.com/ahmadfathan/fthnlabs_display
 https://github.com/souhardodasdps1-commits/RoboFlow
 https://github.com/HobbyComponents/rLink
@@ -8900,4 +8900,5 @@ https://github.com/jihun-kang/orbisync-node
 https://github.com/panchocoquito/OptaButton
 https://github.com/panchocoquito/DefLab_Common
 https://github.com/hayasita/InputTerminal
+https://github.com/BOTCLibs/BrgOfTheCyber_RTC
 https://github.com/Puara/puara-arduino
