@@ -4266,6 +4266,7 @@ https://github.com/liuyinze/CumulocityHttpDownstream
 https://github.com/liuyinze/CumulocityHttpUpstream
 https://github.com/liquidCS/esp32ARP
 https://github.com/llschall/ardwloop-ino
+https://github.com/llschall/rgb-ribbon-ino
 https://github.com/llelundberg/EasyWebServer
 https://github.com/lmtreser/Robotec
 https://github.com/lnbits/arduino-nostr/
