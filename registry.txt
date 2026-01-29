@@ -8895,3 +8895,4 @@ https://github.com/hayasita/InputTerminal.git|Contributed|InputTerminal
 https://github.com/RobTillaart/radiation.git|Contributed|radiation
 https://github.com/BOTCLibs/BrgOfTheCyber_RTC.git|Contributed|BrgOfTheCyber_RTC
 https://github.com/Puara/puara-arduino.git|Contributed|puara-module
+https://github.com/llschall/rgb-ribbon-ino.git|Contributed|RGBRibbon
