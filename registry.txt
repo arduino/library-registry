@@ -8896,3 +8896,5 @@ https://github.com/RobTillaart/radiation.git|Contributed|radiation
 https://github.com/BOTCLibs/BrgOfTheCyber_RTC.git|Contributed|BrgOfTheCyber_RTC
 https://github.com/Puara/puara-arduino.git|Contributed|puara-module
 https://github.com/llschall/rgb-ribbon-ino.git|Contributed|RGBRibbon
+https://github.com/markusianito/Facebits.git|Contributed|Facebits
+https://github.com/markusianito/Beverly.git|Contributed|Beverly
