@@ -2727,6 +2727,7 @@ https://github.com/electricui/electricui-embedded
 https://github.com/electro-smith/DaisyDuino
 https://github.com/Electro707/Simple-LED-Matrix-Library
 https://github.com/ElectroMagus/ESP32MX1508
+https://github.com/ferdiu/ESP32ProvisionToolkit
 https://github.com/ElectronicCats/AqualaboSensorsLibrary
 https://github.com/ElectronicCats/Beelan-LoRaWAN
 https://github.com/ElectronicCats/CayenneLPP
