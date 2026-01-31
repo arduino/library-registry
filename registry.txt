@@ -8899,3 +8899,4 @@ https://github.com/llschall/rgb-ribbon-ino.git|Contributed|RGBRibbon
 https://github.com/markusianito/Facebits.git|Contributed|Facebits
 https://github.com/markusianito/Beverly.git|Contributed|Beverly
 https://github.com/aaronbeckmann/ESP-DashboardPlus-Arduino.git|Contributed|ESP-DashboardPlus
+https://github.com/ferdiu/ESP32ProvisionToolkit.git|Contributed|ESP32ProvisionToolkit
