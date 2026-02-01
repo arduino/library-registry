@@ -8902,3 +8902,4 @@ https://github.com/aaronbeckmann/ESP-DashboardPlus-Arduino.git|Contributed|ESP-D
 https://github.com/ferdiu/ESP32ProvisionToolkit.git|Contributed|ESP32ProvisionToolkit
 https://github.com/lu-maca/pyrpc.git|Contributed|pyrpc
 https://github.com/SortaHappyDoge/Mecanum-Drive-Arduino.git|Contributed|Mecanum-Drive-Arduino
+https://github.com/RobTillaart/RunningMinMax.git|Contributed|RunningMinMax
