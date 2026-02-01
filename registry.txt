@@ -8903,3 +8903,4 @@ https://github.com/ferdiu/ESP32ProvisionToolkit.git|Contributed|ESP32ProvisionTo
 https://github.com/lu-maca/pyrpc.git|Contributed|pyrpc
 https://github.com/SortaHappyDoge/Mecanum-Drive-Arduino.git|Contributed|Mecanum-Drive-Arduino
 https://github.com/RobTillaart/RunningMinMax.git|Contributed|RunningMinMax
+https://github.com/gavinlyonsrepo/GC9D01_LTSM.git|Contributed|GC9D01_LTSM
