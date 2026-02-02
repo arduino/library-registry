@@ -8914,3 +8914,4 @@ https://github.com/lu-maca/pyrpc
 https://github.com/SortaHappyDoge/Mecanum-Drive-Arduino
 https://github.com/maumolinavaldez-pixel/BioLogic_STM32
 https://github.com/BOTCLibs/BrgOfTheCyber_SCD4x
+https://github.com/ayatec-europe/sensoraya-esp32s3
