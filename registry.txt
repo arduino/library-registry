@@ -8906,3 +8906,4 @@ https://github.com/RobTillaart/RunningMinMax.git|Contributed|RunningMinMax
 https://github.com/gavinlyonsrepo/GC9D01_LTSM.git|Contributed|GC9D01_LTSM
 https://github.com/SofaPirate/PqOsc.git|Contributed|PqOSC
 https://github.com/maumolinavaldez-pixel/BioLogic_STM32.git|Contributed|BioLogic_STM32
+https://github.com/BOTCLibs/BrgOfTheCyber_SCD4x.git|Contributed|BrgOfTheCyber_SCD4x
