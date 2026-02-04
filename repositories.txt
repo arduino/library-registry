@@ -8919,3 +8919,4 @@ https://github.com/ayatec-europe/sensoraya-esp32s3
 https://github.com/moddoio/moddoMOUSE-Arduino
 https://github.com/adafruit/Adafruit_APDS9999.git
 https://github.com/dunknowcoding/RoboServo.git
+https://github.com/CostelloTechnical/DN24F08.git
