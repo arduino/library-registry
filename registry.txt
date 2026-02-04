@@ -8910,3 +8910,4 @@ https://github.com/BOTCLibs/BrgOfTheCyber_SCD4x.git|Contributed|BrgOfTheCyber_SC
 https://github.com/moddoio/moddoMOUSE-Arduino.git|Contributed|moddoMOUSE
 https://github.com/ayatec-europe/sensoraya-esp32s3.git|Contributed|ayatec_sensoraya_2_demo
 https://github.com/adafruit/Adafruit_APDS9999.git|Recommended|Adafruit APDS9999
+https://github.com/dunknowcoding/RoboServo.git|Contributed|RoboServo
