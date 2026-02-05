@@ -8915,3 +8915,4 @@ https://github.com/RobTillaart/BL0940_SPI.git|Contributed|BL0940_SPI
 https://github.com/CostelloTechnical/DN24F08.git|Contributed|DN24F08
 https://github.com/KovalRM/KRM_libraries_Arduino.git|Contributed|KRM
 https://github.com/ktauchathuranga/openpager.git|Contributed|OpenPager
+https://github.com/Pierrolefou881/DuinoMemory.git|Contributed|DuinoMemory
