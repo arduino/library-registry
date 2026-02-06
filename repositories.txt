@@ -8924,3 +8924,4 @@ https://github.com/dunknowcoding/RoboServo.git
 https://github.com/CostelloTechnical/DN24F08.git
 https://github.com/KovalRM/KRM_libraries_Arduino
 https://github.com/ktauchathuranga/openpager
+https://github.com/nikki-build/nikki.esp32
