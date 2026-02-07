@@ -3,21 +3,26 @@
 Library Arduino untuk mengirim pesan WhatsApp melalui Waavis API menggunakan metode GET.
 
 ## Fitur
+
 - Mengirim chat sederhana dengan endpoint `send_chat`
 - Mendukung ESP8266 dan ESP32
 - URL encoding otomatis untuk parameter query
 
 ## Struktur
+
 - `src/Waavis.h` dan `src/Waavis.cpp`
 - `examples/waavis.ino`
 - `library.properties`
 
 ## Instalasi
+
 - Pindahkan folder `waavis` ke folder library Arduino Anda.
 - Buka Arduino IDE, lalu `Sketch` -> `Include Library` -> `waavis`.
 
 ## Contoh Pemakaian
+
 Buka contoh di `examples/waavis.ino`, lalu isi:
+
 - SSID dan password WiFi
 - `DEVICE_TOKEN`
 - Nomor tujuan (format internasional, contoh `628xxxxxx`)
@@ -42,11 +47,14 @@ if (!ok) {
 ```
 
 ## Catatan Keamanan
+
 Library menggunakan koneksi HTTPS dengan mode `setInsecure()` secara default agar mudah dipakai. Jika Anda ingin validasi sertifikat TLS, beri tahu saya agar saya tambahkan opsi CA cert.
 
 ## Dukungan Board
+
 - ESP8266
 - ESP32
 
 ## Lisensi
+
 MIT License. Lihat file LICENSE.
