@@ -13,8 +13,8 @@ Library Arduino untuk mengirim pesan WhatsApp melalui Waavis API menggunakan met
 - `library.properties`
 
 ## Instalasi
-1. Pindahkan folder `waavis` ke folder library Arduino Anda.
-2. Buka Arduino IDE, lalu `Sketch` -> `Include Library` -> `waavis`.
+- Pindahkan folder `waavis` ke folder library Arduino Anda.
+- Buka Arduino IDE, lalu `Sketch` -> `Include Library` -> `waavis`.
 
 ## Contoh Pemakaian
 Buka contoh di `examples/waavis.ino`, lalu isi:
