@@ -8922,3 +8922,4 @@ https://github.com/IlliaZenistu/DHT22_Clone_ESP32.git|Contributed|DHT22_Clone_ES
 https://github.com/sapteinkabeltann/lua511-esp32.git|Contributed|Lua 5.1 for ESP32
 https://github.com/MesutEmpire/SIM800LPlus.git|Contributed|SIM800LPlus HTTP Connector
 https://github.com/louischuang/curiejet-p760-arduino-lib.git|Contributed|P760
+https://github.com/bkwoka/SemVerChecker.git|Contributed|SemVerChecker
