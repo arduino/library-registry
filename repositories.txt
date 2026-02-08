@@ -8932,3 +8932,4 @@ https://github.com/louischuang/curiejet-p760-arduino-lib.git
 https://github.com/bkwoka/SemVerChecker
 https://github.com/alxprgs/RTC_RDP_LIB_L298N
 https://github.com/ivica3730k/MSF-Time-Lib
+https://github.com/o0zz/climate-uart
