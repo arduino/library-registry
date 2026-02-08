@@ -6,6 +6,7 @@ https://github.com/aaronbeckmann/ESP-DashboardPlus-Arduino
 https://github.com/markusianito/Facebits
 https://github.com/markusianito/Beverly
 https://github.com/TEXHOUM/TEXHOUM_PAC/
+https://github.com/devarishi7/Dmx_ESP32
 https://github.com/VijayGES/ESP32WiFiProvisioner
 https://github.com/avsavushkiny/makegame
 https://github.com/TUDA-MUST/ADS1X58
