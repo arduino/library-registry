@@ -835,6 +835,7 @@ https://github.com/adafruit/Adafruit_Arcada_GifDecoder
 https://github.com/adafruit/Adafruit_AS5600
 https://github.com/adafruit/Adafruit_AS726x
 https://github.com/adafruit/Adafruit_AS7341
+https://github.com/adafruit/Adafruit_AS7343
 https://github.com/adafruit/Adafruit_AVRProg
 https://github.com/adafruit/Adafruit_AW9523
 https://github.com/adafruit/Adafruit_BD3491FS
