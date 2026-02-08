@@ -8930,3 +8930,4 @@ https://github.com/devarishi7/Dmx_ESP32.git|Contributed|Dmx_ESP32
 https://github.com/RobTillaart/DAC8562.git|Contributed|DAC8562
 https://github.com/sebuahhobi/waavis_arduino.git|Contributed|waavis
 https://github.com/v7rc/V7RCServoDriver.git|Contributed|V7RCServoDriver
+https://github.com/adafruit/Adafruit_AS7343.git|Recommended|Adafruit AS7343
