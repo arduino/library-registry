@@ -1,4 +1,3 @@
-https://github.com/sebuahhobi/waavis_arduino
 https://github.com/MesutEmpire/SIM800LPlus
 https://github.com/Vean/FansElectronics_License
 https://github.com/Pierrolefou881/DuinoMemory
@@ -8935,3 +8934,4 @@ https://github.com/bkwoka/SemVerChecker
 https://github.com/alxprgs/RTC_RDP_LIB_L298N
 https://github.com/ivica3730k/MSF-Time-Lib
 https://github.com/o0zz/climate-uart
+https://github.com/sebuahhobi/waavis_arduino
