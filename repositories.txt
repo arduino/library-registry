@@ -835,6 +835,7 @@ https://github.com/adafruit/Adafruit_Arcada_GifDecoder
 https://github.com/adafruit/Adafruit_AS5600
 https://github.com/adafruit/Adafruit_AS726x
 https://github.com/adafruit/Adafruit_AS7341
+https://github.com/adafruit/Adafruit_AS7343
 https://github.com/adafruit/Adafruit_AVRProg
 https://github.com/adafruit/Adafruit_AW9523
 https://github.com/adafruit/Adafruit_BD3491FS
@@ -5969,6 +5970,7 @@ https://github.com/RobTillaart/DAC8551
 https://github.com/RobTillaart/DAC8552
 https://github.com/RobTillaart/DAC8554
 https://github.com/RobTillaart/DAC8560
+https://github.com/RobTillaart/DAC8562
 https://github.com/RobTillaart/DAC8571
 https://github.com/RobTillaart/DAC8574
 https://github.com/RobTillaart/DAC53001
@@ -8935,3 +8937,5 @@ https://github.com/alxprgs/RTC_RDP_LIB_L298N
 https://github.com/ivica3730k/MSF-Time-Lib
 https://github.com/o0zz/climate-uart
 https://github.com/sebuahhobi/waavis_arduino
+https://github.com/v7rc/V7RCServoDriver
+https://github.com/matthias-bs/DYP-R01CW
