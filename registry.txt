@@ -8932,3 +8932,4 @@ https://github.com/sebuahhobi/waavis_arduino.git|Contributed|waavis
 https://github.com/v7rc/V7RCServoDriver.git|Contributed|V7RCServoDriver
 https://github.com/adafruit/Adafruit_AS7343.git|Recommended|Adafruit AS7343
 https://github.com/matthias-bs/DYP-R01CW.git|Contributed|DYP-R01CW
+https://github.com/iskakfatoni/IskakINO_LiquidCrystal_I2C.git|Contributed|IskakINO_LiquidCrystal_I2C
