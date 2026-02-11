@@ -6197,6 +6197,7 @@ https://github.com/RobTillaart/TCRT5000
 https://github.com/RobTillaart/TCS3210
 https://github.com/RobTillaart/Temperature
 https://github.com/RobTillaart/TEMT6000
+https://github.com/RobTillaart/TGS2620
 https://github.com/RobTillaart/timing
 https://github.com/RobTillaart/TinyKT0803
 https://github.com/RobTillaart/tinySHT2x
