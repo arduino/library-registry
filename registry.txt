@@ -8936,3 +8936,4 @@ https://github.com/iskakfatoni/IskakINO_LiquidCrystal_I2C.git|Contributed|IskakI
 https://github.com/dmachard/NimBLE-DataPipe.git|Contributed|NimBLE-DataPipe
 https://github.com/attermann/microReticulum.git|Contributed|microReticulum
 https://github.com/gibz104/SafeGithubOTA.git|Contributed|SafeGithubOTA
+https://github.com/RoboMaster-DLMU-CONE/rpl-arduino.git|Contributed|RPL
