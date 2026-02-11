@@ -8942,3 +8942,4 @@ https://github.com/v7rc/V7RCServoDriver
 https://github.com/matthias-bs/DYP-R01CW
 https://github.com/iskakfatoni/IskakINO_LiquidCrystal_I2C
 https://github.com/dmachard/NimBLE-DataPipe
+https://github.com/gibz104/SafeGithubOTA
