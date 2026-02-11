@@ -8739,6 +8739,8 @@ https://github.com/Bridgetek/EVE5-Arduino-Dev
 https://github.com/Bridgetek/EVE1-Arduino-Dev
 https://github.com/Bridgetek/EVE2-Arduino-Dev
 https://github.com/Bridgetek/EVE2-2-Arduino-Dev
+https://github.com/Bridgetek/EVE3-Arduino-Dev
+https://github.com/Bridgetek/EVE4-Arduino-Dev
 https://github.com/TamsinRose/SimpleCounter
 https://github.com/TamsinRose/CANMessage
 https://github.com/stm32duino/X-NUCLEO-IKS5A1
