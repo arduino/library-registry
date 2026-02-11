@@ -8916,7 +8916,7 @@ https://github.com/CostelloTechnical/DN24F08.git|Contributed|DN24F08
 https://github.com/KovalRM/KRM_libraries_Arduino.git|Contributed|KRM
 https://github.com/ktauchathuranga/openpager.git|Contributed|OpenPager
 https://github.com/Pierrolefou881/DuinoMemory.git|Contributed|DuinoMemory
-https://github.com/Vean/FansElectronics_License.git|Contributed|FansElectronics License
+https://github.com/Vean/FansElectronics_License.git|Contributed|FansElectronics_License
 https://github.com/nikki-build/nikki.esp32.git|Contributed|nikki.esp32
 https://github.com/IlliaZenistu/DHT22_Clone_ESP32.git|Contributed|DHT22_Clone_ESP32
 https://github.com/sapteinkabeltann/lua511-esp32.git|Contributed|Lua 5.1 for ESP32
