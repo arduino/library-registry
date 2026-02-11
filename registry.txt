@@ -8939,3 +8939,4 @@ https://github.com/gibz104/SafeGithubOTA.git|Contributed|SafeGithubOTA
 https://github.com/RoboMaster-DLMU-CONE/rpl-arduino.git|Contributed|RPL
 https://github.com/Bridgetek/EVE3-Arduino-Dev.git|Contributed|Bridgetek_EVE3
 https://github.com/Bridgetek/EVE4-Arduino-Dev.git|Contributed|Bridgetek_EVE4
+https://github.com/RobTillaart/TGS2620.git|Contributed|TGS2620
