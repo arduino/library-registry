@@ -8935,3 +8935,4 @@ https://github.com/matthias-bs/DYP-R01CW.git|Contributed|DYP-R01CW
 https://github.com/iskakfatoni/IskakINO_LiquidCrystal_I2C.git|Contributed|IskakINO_LiquidCrystal_I2C
 https://github.com/dmachard/NimBLE-DataPipe.git|Contributed|NimBLE-DataPipe
 https://github.com/attermann/microReticulum.git|Contributed|microReticulum
+https://github.com/gibz104/SafeGithubOTA.git|Contributed|SafeGithubOTA
