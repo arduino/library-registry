@@ -8942,3 +8942,4 @@ https://github.com/Bridgetek/EVE4-Arduino-Dev.git|Contributed|Bridgetek_EVE4
 https://github.com/RobTillaart/TGS2620.git|Contributed|TGS2620
 https://github.com/tanakamasayuki/variants_collector.git|Contributed|variants_collector
 https://github.com/Shourov-Paul/TFT_RoboEyes.git|Contributed|TFT_RoboEyes
+https://github.com/Aryan-git-byte/Devatext.git|Contributed|Devatext
