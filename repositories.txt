@@ -1,3 +1,4 @@
+
 https://github.com/attermann/microReticulum
 https://github.com/MesutEmpire/SIM800LPlus
 https://github.com/Vean/FansElectronics_License
@@ -8949,3 +8950,4 @@ https://github.com/dmachard/NimBLE-DataPipe
 https://github.com/gibz104/SafeGithubOTA
 https://github.com/RoboMaster-DLMU-CONE/rpl-arduino.git
 https://github.com/Shourov-Paul/TFT_RoboEyes
+https://github.com/Aryan-git-byte/Devatext
