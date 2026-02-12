@@ -7224,6 +7224,7 @@ https://github.com/tanakamasayuki/ESP32AutoTask
 https://github.com/tanakamasayuki/ESP32TaskKit
 https://github.com/tanakamasayuki/EspNowBus
 https://github.com/tanakamasayuki/ESP32SyncKit
+https://github.com/tanakamasayuki/variants_collector
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
