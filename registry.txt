@@ -8946,3 +8946,4 @@ https://github.com/Aryan-git-byte/Devatext.git|Contributed|Devatext
 https://github.com/MasBarr/TumbleFeeder.git|Contributed|TumbleFeeder
 https://github.com/Xorlent/ESP32IMDB.git|Contributed|ESP32IMDB
 https://github.com/Ada-Rhodes/MoIRA.git|Contributed|MoIRA
+https://github.com/Ryzobee/Ryzobee_arduino_esp32.git|Contributed|Ryzobee
