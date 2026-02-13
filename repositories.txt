@@ -8953,3 +8953,4 @@ https://github.com/RoboMaster-DLMU-CONE/rpl-arduino.git
 https://github.com/Shourov-Paul/TFT_RoboEyes
 https://github.com/Aryan-git-byte/Devatext
 https://github.com/MasBarr/TumbleFeeder
+https://github.com/Ryzobee/Ryzobee_arduino_esp32
