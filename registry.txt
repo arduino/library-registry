@@ -8944,3 +8944,4 @@ https://github.com/tanakamasayuki/variants_collector.git|Contributed|variants_co
 https://github.com/Shourov-Paul/TFT_RoboEyes.git|Contributed|TFT_RoboEyes
 https://github.com/Aryan-git-byte/Devatext.git|Contributed|Devatext
 https://github.com/MasBarr/TumbleFeeder.git|Contributed|TumbleFeeder
+https://github.com/Xorlent/ESP32IMDB.git|Contributed|ESP32IMDB
