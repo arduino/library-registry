@@ -8956,3 +8956,4 @@ https://github.com/MasBarr/TumbleFeeder
 https://github.com/Ryzobee/Ryzobee_arduino_esp32
 https://github.com/dmachard/KY040-rotary
 https://github.com/souhardodasdps1-commits/EasyConnectevity
+https://github.com/ArduLite/ArduLiteESP
