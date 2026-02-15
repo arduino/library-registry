@@ -8953,3 +8953,4 @@ https://github.com/ArduLite/ArduLiteESP.git|Contributed|ArduLiteESP
 https://github.com/Pierrolefou881/DuinoCollections.git|Contributed|DuinoCollections
 https://github.com/iskakfatoni/IskakINO_WifiPortal.git|Contributed|IskakINO_WifiPortal
 https://github.com/bkwoka/UUIDv7.git|Contributed|UUIDv7
+https://github.com/Xorlent/ESP32AI.git|Contributed|ESP32AI Voice Command
