@@ -8951,3 +8951,4 @@ https://github.com/dmachard/KY040-rotary.git|Contributed|KY040-rotary
 https://github.com/souhardodasdps1-commits/EasyConnectevity.git|Contributed|EasyConnectevity
 https://github.com/ArduLite/ArduLiteESP.git|Contributed|ArduLiteESP
 https://github.com/Pierrolefou881/DuinoCollections.git|Contributed|DuinoCollections
+https://github.com/iskakfatoni/IskakINO_WifiPortal.git|Contributed|IskakINO_WifiPortal
