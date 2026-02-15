@@ -8959,3 +8959,4 @@ https://github.com/dmachard/KY040-rotary
 https://github.com/souhardodasdps1-commits/EasyConnectevity
 https://github.com/ArduLite/ArduLiteESP
 https://github.com/iskakfatoni/IskakINO_WifiPortal
+https://github.com/bkwoka/UUIDv7
