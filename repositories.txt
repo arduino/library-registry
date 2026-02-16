@@ -1,3 +1,4 @@
+https://github.com/NOXUSTIC/OnScreenKeyboard
 https://github.com/Xorlent/ESP32AI
 https://github.com/Pierrolefou881/DuinoCollections
 https://github.com/Ada-Rhodes/MoIRA
