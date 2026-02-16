@@ -8955,3 +8955,4 @@ https://github.com/iskakfatoni/IskakINO_WifiPortal.git|Contributed|IskakINO_Wifi
 https://github.com/bkwoka/UUIDv7.git|Contributed|UUIDv7
 https://github.com/Xorlent/ESP32AI.git|Contributed|ESP32AI Voice Command
 https://github.com/iskakfatoni/IskakINO_ArduFast.git|Contributed|IskakINO_ArduFast
+https://github.com/iskakfatoni/IskakINO_FastNTP.git|Contributed|IskakINO_FastNTP
