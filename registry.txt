@@ -8960,3 +8960,4 @@ https://github.com/dmachard/esp-iot-utils.git|Contributed|esp-iot-utils
 https://github.com/NOXUSTIC/OnScreenKeyboard.git|Contributed|OnScreenKeyboard
 https://github.com/Xorlent/ESP32_WS2812B.git|Contributed|ESP32_WS2812B
 https://github.com/nativeme/MicroAsync.git|Contributed|MicroAsync
+https://github.com/boeserfrosch/EmbeddedTerminal.git|Contributed|EmbeddedTerminal
