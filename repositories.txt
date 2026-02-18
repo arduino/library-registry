@@ -8968,3 +8968,4 @@ https://github.com/iskakfatoni/IskakINO_ArduFast
 https://github.com/iskakfatoni/IskakINO_FastNTP
 https://github.com/dmachard/esp-iot-utils
 https://github.com/nativeme/MicroAsync
+https://github.com/fan4tix/DTS6012M
