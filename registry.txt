@@ -8963,3 +8963,6 @@ https://github.com/nativeme/MicroAsync.git|Contributed|MicroAsync
 https://github.com/boeserfrosch/EmbeddedTerminal.git|Contributed|EmbeddedTerminal
 https://github.com/fan4tix/DTS6012M.git|Contributed|DTS6012M
 https://github.com/fadeev-iliya/UNI.git|Contributed|UNI
+https://github.com/DigitalCodesign/Orbito.git|Contributed|Orbito
+https://github.com/DigitalCodesign/OrbitoMochila-Botonera.git|Contributed|OrbitoBotonera
+https://github.com/DigitalCodesign/OrbitoMochila-CalidadAire.git|Contributed|OrbitoMochilaCalidadAire
