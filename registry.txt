@@ -8970,3 +8970,4 @@ https://github.com/enkei0x/espai.git|Contributed|ESPAI
 https://github.com/sauloverissimo/gingoduino.git|Contributed|Gingoduino
 https://github.com/KravitzLabDevices/Tumbly.git|Contributed|Tumbly
 https://github.com/NeuraiProject/mldsa-esp32.git|Contributed|mldsa
+https://github.com/costinbobes/NTPSharp.git|Contributed|NTPSharp
