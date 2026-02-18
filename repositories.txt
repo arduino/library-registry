@@ -5054,6 +5054,7 @@ https://github.com/netpieio/microgear-esp8266-arduino
 https://github.com/netpieio/microgear-nbiot-arduino
 https://github.com/neu-rah/ArduinoMenu
 https://github.com/neu-rah/Dump
+https://github.com/NeuraiProject/mldsa-esp32
 https://github.com/NeuraiProject/NeuraiDepinMsg
 https://github.com/NeuraiProject/uNeurai
 https://github.com/newdigate/teensy-audio-launch-ctrl
