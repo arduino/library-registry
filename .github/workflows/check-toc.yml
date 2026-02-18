@@ -25,9 +25,11 @@ jobs:
 
       matrix:
         file:
-          - name: README.md
+          - name: maintenance-requests.md
             # Max ToC depth, for use with the markdown-toc --maxdepth flag.
-            maxdepth: 4
+            maxdepth: 2
+          - name: README.md
+            maxdepth: 2
           - name: FAQ.md
             maxdepth: 3
 
