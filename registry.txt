@@ -8972,3 +8972,4 @@ https://github.com/KravitzLabDevices/Tumbly.git|Contributed|Tumbly
 https://github.com/NeuraiProject/mldsa-esp32.git|Contributed|mldsa
 https://github.com/costinbobes/NTPSharp.git|Contributed|NTPSharp
 https://github.com/FrankBoesing/AsyncTelnet.git|Contributed|AsyncTelnet
+https://github.com/RobTillaart/MAX30205.git|Contributed|MAX30205
