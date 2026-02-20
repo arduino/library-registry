@@ -8983,3 +8983,4 @@ https://github.com/costinbobes/NTPSharp
 https://github.com/FrankBoesing/AsyncTelnet
 https://github.com/DigitalCodesign/OrbitoModulo-Motores
 https://github.com/Shourov-Paul/AnimatedroboEye
+https://github.com/costinbobes/WiFi-Watchdog
