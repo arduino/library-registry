@@ -1,5 +1,6 @@
 https://github.com/BojanJurca/Cron-Daemon-for-Arduino
 https://github.com/JW-Control/JWMatrixButtons
+https://github.com/tingerlingerr/MultiSensorFilter
 https://github.com/KravitzLabDevices/Tumbly
 https://github.com/Xorlent/ESP32_WS2812B
 https://github.com/NOXUSTIC/OnScreenKeyboard
