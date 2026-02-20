@@ -8978,3 +8978,4 @@ https://github.com/DigitalCodesign/OrbitoModulo-Motores.git|Contributed|OrbitoMo
 https://github.com/Shourov-Paul/AnimatedroboEye.git|Contributed|AnimatedroboEye
 https://github.com/costinbobes/WiFi-Watchdog.git|Contributed|WiFi-Watchdog
 https://github.com/embarquech/trng.git|Contributed|trng
+https://github.com/BojanJurca/Cron-Daemon-for-Arduino.git|Contributed|cronDaemon
