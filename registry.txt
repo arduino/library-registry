@@ -8980,3 +8980,4 @@ https://github.com/costinbobes/WiFi-Watchdog.git|Contributed|WiFi-Watchdog
 https://github.com/embarquech/trng.git|Contributed|trng
 https://github.com/BojanJurca/Cron-Daemon-for-Arduino.git|Contributed|cronDaemon
 https://github.com/tingerlingerr/MultiSensorFilter.git|Contributed|MultiSensorFilter
+https://github.com/Tomarun029831/kic_notation.git|Contributed|kic_notation
