@@ -7754,6 +7754,7 @@ https://github.com/yasir-shahzad/ADS122U04_ADC_Arduino_Library
 https://github.com/yasir-shahzad/CS5530_ADC_Arduino_Library
 https://github.com/yellobyte/DacESP32
 https://github.com/yellobyte/SoapESP32
+https://github.com/yellobyte/TLV320DAC3101
 https://github.com/yergin/Yabl
 https://github.com/yesbotics/dualsense-controller
 https://github.com/YFROBOT-TM/Yfrobot-FPSensor-Library
