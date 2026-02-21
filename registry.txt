@@ -8984,3 +8984,4 @@ https://github.com/Tomarun029831/kic_notation.git|Contributed|kic_notation
 https://github.com/perpective2410/tide-projectio.git|Contributed|Tides
 https://github.com/hestialabs/hxtp-micro.git|Contributed|HXTP Embedded SDK
 https://github.com/yellobyte/TLV320DAC3101.git|Contributed|TLV320DAC3101
+https://github.com/CostelloTechnical/ESC3B04.git|Contributed|ESC3B04
