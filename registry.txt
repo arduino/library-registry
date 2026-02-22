@@ -8989,3 +8989,4 @@ https://github.com/phillipweinstock/libsdi12.git|Contributed|libsdi12
 https://github.com/sndnvaps/espsoftwareserial.git|Contributed|Esp_Software_Serial
 https://github.com/paveldn/HaierProtocol.git|Contributed|HaierProtocol
 https://github.com/IP-tm/IP_tm_stepmotor.git|Contributed|IP_tm_stepmotor
+https://github.com/oleoleg/Oleoleg_ULN2003_Stepper.git|Contributed|Oleoleg_ULN2003_Stepper
