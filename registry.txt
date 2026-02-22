@@ -8986,3 +8986,4 @@ https://github.com/hestialabs/hxtp-micro.git|Contributed|HXTP Embedded SDK
 https://github.com/yellobyte/TLV320DAC3101.git|Contributed|TLV320DAC3101
 https://github.com/CostelloTechnical/ESC3B04.git|Contributed|ESC3B04
 https://github.com/phillipweinstock/libsdi12.git|Contributed|libsdi12
+https://github.com/sndnvaps/espsoftwareserial.git|Contributed|Esp_Software_Serial
