@@ -8993,3 +8993,4 @@ https://github.com/embarquech/trng.git
 https://github.com/costinbobes/WiFi-Watchdog
 https://github.com/CostelloTechnical/ESC3B04
 https://github.com/sndnvaps/espsoftwareserial
+https://github.com/phillipweinstock/libsdi12
