@@ -8998,3 +8998,4 @@ https://github.com/paveldn/HaierProtocol
 https://github.com/IP-tm/IP-tm-stepmotor
 https://github.com/oleoleg/Oleoleg_ULN2003_Stepper
 https://github.com/IAMTorres/LightScheduler
+https://github.com/youjunjer/NodeRemote.git
