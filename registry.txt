@@ -8991,3 +8991,4 @@ https://github.com/paveldn/HaierProtocol.git|Contributed|HaierProtocol
 https://github.com/IP-tm/IP_tm_stepmotor.git|Contributed|IP_tm_stepmotor
 https://github.com/oleoleg/Oleoleg_ULN2003_Stepper.git|Contributed|Oleoleg_ULN2003_Stepper
 https://github.com/IAMTorres/LightScheduler.git|Contributed|LightScheduler
+https://github.com/youjunjer/NodeRemote.git|Contributed|NodeRemote
