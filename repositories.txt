@@ -1,3 +1,4 @@
+https://github.com/ARDUTECH0/ATGENXlib-0.0.1
 https://github.com/hestialabs/hxtp-micro
 https://github.com/perpective2410/tide-projectio
 https://github.com/Tomarun029831/kic_notation
