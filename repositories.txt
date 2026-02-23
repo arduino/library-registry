@@ -9004,3 +9004,4 @@ https://github.com/oleoleg/Oleoleg_ULN2003_Stepper
 https://github.com/costinbobes/TimezoneTranslator
 https://github.com/IAMTorres/LightScheduler
 https://github.com/youjunjer/NodeRemote.git
+https://github.com/ArscottT/ADS7128-Arduino-Library
