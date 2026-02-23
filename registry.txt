@@ -8994,3 +8994,4 @@ https://github.com/IAMTorres/LightScheduler.git|Contributed|LightScheduler
 https://github.com/youjunjer/NodeRemote.git|Contributed|NodeRemote
 https://github.com/costinbobes/TimezoneTranslator.git|Contributed|TimezoneTranslator
 https://github.com/ARDUTECH0/ATGENXlib-0.0.1.git|Contributed|ATGENXlib
+https://github.com/arduino-libraries/Arduino_SpiNINA.git|Arduino|Arduino_SpiNINA
