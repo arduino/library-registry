@@ -1,3 +1,4 @@
+https://github.com/CodeyNacke/WF100DPZ
 https://github.com/mediocre9/voyager-ota-client
 https://github.com/veersingh671/LuminOx
 https://github.com/lska-dev/microLCD.git
