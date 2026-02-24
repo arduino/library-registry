@@ -1,4 +1,4 @@
-https://github.com/lska-dev/microLCD.git
+https://github.com/lska-dev/microLCD
 https://github.com/ARDUTECH0/ATGENXlib-0.0.1
 https://github.com/hestialabs/hxtp-micro
 https://github.com/perpective2410/tide-projectio
@@ -9003,3 +9003,4 @@ https://github.com/oleoleg/Oleoleg_ULN2003_Stepper
 https://github.com/costinbobes/TimezoneTranslator
 https://github.com/IAMTorres/LightScheduler
 https://github.com/youjunjer/NodeRemote.git
+https://github.com/ArscottT/ADS7128-Arduino-Library
