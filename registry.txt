@@ -8999,3 +8999,4 @@ https://github.com/lska-dev/microLCD.git|Contributed|microLCD
 https://github.com/veersingh671/LuminOx.git|Contributed|LuminOx
 https://github.com/ArscottT/ADS7128-Arduino-Library.git|Contributed|ADS7128
 https://github.com/mediocre9/voyager-ota-client.git|Contributed|Voyager-OTA-Client
+https://github.com/CodeyNacke/WF100DPZ.git|Contributed|WF100DPZ
