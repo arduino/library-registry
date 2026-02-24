@@ -8998,3 +8998,4 @@ https://github.com/arduino-libraries/Arduino_SpiNINA.git|Arduino|Arduino_SpiNINA
 https://github.com/lska-dev/microLCD.git|Contributed|microLCD
 https://github.com/veersingh671/LuminOx.git|Contributed|LuminOx
 https://github.com/ArscottT/ADS7128-Arduino-Library.git|Contributed|ADS7128
+https://github.com/mediocre9/voyager-ota-client.git|Contributed|Voyager-OTA-Client
