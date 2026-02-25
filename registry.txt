@@ -9007,3 +9007,4 @@ https://github.com/Xorlent/SAMD21_WS2812B.git|Contributed|SAMD21_WS2812B
 https://github.com/YFROBOT-TM/Yfrobot-Keypad-Library.git|Contributed|YFKeypadLib
 https://github.com/Exocet22/TinyFTPClient.git|Contributed|TinyFTPClient
 https://github.com/Exocet22/TinyRC522.git|Contributed|TinyRC522
+https://github.com/Exocet22/TinySerial.git|Contributed|TinySerial
