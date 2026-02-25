@@ -1,5 +1,7 @@
+https://github.com/Exocet22/TinyBME280
 https://github.com/Exocet22/TinySerial
 https://github.com/Exocet22/TinyRC522
+https://github.com/Exocet22/TinyMQTTClient
 https://github.com/Exocet22/TinyFTPClient
 https://github.com/Xorlent/SAMD21_WS2812B
 https://github.com/CIRCUITSTATE/CSE_ESPMutex
