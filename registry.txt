@@ -9002,3 +9002,4 @@ https://github.com/mediocre9/voyager-ota-client.git|Contributed|Voyager-OTA-Clie
 https://github.com/CodeyNacke/WF100DPZ.git|Contributed|WF100DPZ
 https://github.com/Xorlent/ESP32-EasyWolfSSL.git|Contributed|ESP32-EasyWolfSSL
 https://github.com/CIRCUITSTATE/CSE_ESPMutex.git|Contributed|CSE_ESPMutex
+https://github.com/schaffmb/TouchToggle.git|Contributed|TouchToggle
