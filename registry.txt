@@ -9009,3 +9009,4 @@ https://github.com/Exocet22/TinySerial.git|Contributed|TinySerial
 https://github.com/tanmaywankar/Grobot_Animations.git|Contributed|Grobot_Animations
 https://github.com/Exocet22/TinyBME280.git|Contributed|TinyBME280
 https://github.com/Exocet22/TinyMQTTClient.git|Contributed|TinyMQTTClient
+https://github.com/dejwk/roo_fonts_basic.git|Contributed|roo_fonts_basic
