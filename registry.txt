@@ -9008,3 +9008,4 @@ https://github.com/YFROBOT-TM/Yfrobot-Keypad-Library.git|Contributed|YFKeypadLib
 https://github.com/Exocet22/TinyFTPClient.git|Contributed|TinyFTPClient
 https://github.com/Exocet22/TinyRC522.git|Contributed|TinyRC522
 https://github.com/Exocet22/TinySerial.git|Contributed|TinySerial
+https://github.com/tanmaywankar/Grobot_Animations.git|Contributed|Grobot_Animations
