@@ -9010,3 +9010,4 @@ https://github.com/tanmaywankar/Grobot_Animations.git|Contributed|Grobot_Animati
 https://github.com/Exocet22/TinyBME280.git|Contributed|TinyBME280
 https://github.com/Exocet22/TinyMQTTClient.git|Contributed|TinyMQTTClient
 https://github.com/dejwk/roo_fonts_basic.git|Contributed|roo_fonts_basic
+https://github.com/Xorlent/SAMD_SafeFlashStorage.git|Contributed|SAMD_SafeFlashStorage
