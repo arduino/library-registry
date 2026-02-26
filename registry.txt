@@ -9012,3 +9012,4 @@ https://github.com/Exocet22/TinyMQTTClient.git|Contributed|TinyMQTTClient
 https://github.com/dejwk/roo_fonts_basic.git|Contributed|roo_fonts_basic
 https://github.com/Xorlent/SAMD_SafeFlashStorage.git|Contributed|SAMD_SafeFlashStorage
 https://github.com/Embedded-Petal/Spell_IoT.git|Contributed|Spell_Iot
+https://github.com/sparkfun/SparkFun_CY8CMBR3_Arduino_Library.git|Contributed|SparkFun CY8CMBR3xxx Arduino Library
