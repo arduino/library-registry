@@ -6841,6 +6841,7 @@ https://github.com/sparkfun/SparkFun_CAP1203_Arduino_Library
 https://github.com/sparkfun/SparkFun_CCS811_Arduino_Library
 https://github.com/sparkfun/SparkFun_Clock_5P49V60_Arduino_Library
 https://github.com/sparkfun/SparkFun_Color_LCD_Shield_Arduino_Library
+https://github.com/sparkfun/SparkFun_CY8CMBR3_Arduino_Library
 https://github.com/sparkfun/SparkFun_DE2120_Arduino_Library
 https://github.com/sparkfun/SparkFun_Displacement_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_ePaper_Arduino_Library
