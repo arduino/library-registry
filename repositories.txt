@@ -9020,3 +9020,4 @@ https://github.com/IAMTorres/LightScheduler
 https://github.com/youjunjer/NodeRemote.git
 https://github.com/ArscottT/ADS7128-Arduino-Library
 https://github.com/tanmaywankar/Grobot_Animations
+https://github.com/toastmanAu/TelegramSerial
