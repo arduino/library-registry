@@ -9016,3 +9016,4 @@ https://github.com/sparkfun/SparkFun_CY8CMBR3_Arduino_Library.git|Contributed|Sp
 https://github.com/toastmanAu/TelegramSerial.git|Contributed|TelegramSerial
 https://github.com/7semi-solutions/7Semi-BNO08x-9-DOF-Orientation-IMU-Fusion.git|Contributed|7Semi BNO08x
 https://github.com/7semi-solutions/7Semi_AD569x_Arduino_Library.git|Contributed|7Semi_AD569x
+https://github.com/RoboCore/RoboCore_TCA9534.git|Contributed|RoboCore - TCA9534
