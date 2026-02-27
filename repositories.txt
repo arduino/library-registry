@@ -5889,6 +5889,7 @@ https://github.com/RoboCore/RoboCore_MMA8452Q
 https://github.com/RoboCore/RoboCore_Rocky
 https://github.com/RoboCore/RoboCore_SMW-SX1262M0
 https://github.com/RoboCore/RoboCore_SMW-SX1276M0
+https://github.com/RoboCore/RoboCore_TCA9534
 https://github.com/RoboCore/RoboCore_Vespa
 https://github.com/RoboCore/SerialRelay
 https://github.com/robojay/_2020Bot_Library
