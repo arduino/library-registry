@@ -9014,3 +9014,4 @@ https://github.com/Xorlent/SAMD_SafeFlashStorage.git|Contributed|SAMD_SafeFlashS
 https://github.com/Embedded-Petal/Spell_IoT.git|Contributed|Spell_Iot
 https://github.com/sparkfun/SparkFun_CY8CMBR3_Arduino_Library.git|Contributed|SparkFun CY8CMBR3xxx Arduino Library
 https://github.com/toastmanAu/TelegramSerial.git|Contributed|TelegramSerial
+https://github.com/7semi-solutions/7Semi-BNO08x-9-DOF-Orientation-IMU-Fusion.git|Contributed|7Semi BNO08x
