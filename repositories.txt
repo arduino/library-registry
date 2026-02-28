@@ -9026,3 +9026,4 @@ https://github.com/toastmanAu/TelegramSerial
 https://github.com/7semi-solutions/7Semi-BNO08x-9-DOF-Orientation-IMU-Fusion
 https://github.com/7semi-solutions/7Semi_AD569x_Arduino_Library
 https://github.com/7semi-solutions/7Semi-TMP11x-Arduino
+https://github.com/7semi-solutions/7Semi_INA219_Arduino-Library
