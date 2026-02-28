@@ -2659,6 +2659,7 @@ https://github.com/dndubins/EEPROMsimple
 https://github.com/dndubins/QuickStats
 https://github.com/dndubins/SRAMsimple
 https://github.com/dndubins/MLX90641
+https://github.com/dndubins/MLX90642
 https://github.com/dniklaus/arduino-display-lcdkeypad
 https://github.com/dniklaus/spin-timer
 https://github.com/dniklaus/wiring-timer
