@@ -9021,3 +9021,4 @@ https://github.com/dndubins/MLX90642.git|Contributed|MLX90642
 https://github.com/7semi-solutions/7Semi-TMP11x-Arduino.git|Contributed|7Semi TMP11x
 https://github.com/7semi-solutions/7Semi_INA219_Arduino-Library.git|Contributed|7Semi_INA219
 https://github.com/plexus-oss/c-sdk.git|Contributed|Plexus SDK
+https://github.com/yesio/dual2s.git|Contributed|dual2s
