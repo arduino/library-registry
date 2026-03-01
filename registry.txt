@@ -9024,3 +9024,4 @@ https://github.com/plexus-oss/c-sdk.git|Contributed|Plexus SDK
 https://github.com/yesio/dual2s.git|Contributed|dual2s
 https://github.com/sndnvaps/modbus-pico.git|Contributed|ModbusRTU-pico
 https://github.com/TMRh20/microDecoder.git|Contributed|microDecoder
+https://github.com/chon-group/javino2arduino.git|Contributed|Javino
