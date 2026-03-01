@@ -9014,6 +9014,7 @@ https://github.com/costinbobes/WiFi-Watchdog
 https://github.com/CostelloTechnical/ESC3B04
 https://github.com/sndnvaps/espsoftwareserial
 https://github.com/phillipweinstock/libsdi12
+https://github.com/sndnvaps/modbus-pico
 https://github.com/paveldn/HaierProtocol
 https://github.com/IP-tm/IP-tm-stepmotor
 https://github.com/oleoleg/Oleoleg_ULN2003_Stepper
