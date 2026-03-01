@@ -9023,3 +9023,4 @@ https://github.com/7semi-solutions/7Semi_INA219_Arduino-Library.git|Contributed|
 https://github.com/plexus-oss/c-sdk.git|Contributed|Plexus SDK
 https://github.com/yesio/dual2s.git|Contributed|dual2s
 https://github.com/sndnvaps/modbus-pico.git|Contributed|ModbusRTU-pico
+https://github.com/TMRh20/microDecoder.git|Contributed|microDecoder
