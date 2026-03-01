@@ -9031,3 +9031,4 @@ https://github.com/7semi-solutions/7Semi_INA219_Arduino-Library
 https://github.com/plexus-oss/c-sdk
 https://github.com/yesio/dual2s.git
 https://github.com/TMRh20/microDecoder
+https://github.com/chon-group/javino2arduino
