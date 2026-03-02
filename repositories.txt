@@ -964,6 +964,7 @@ https://github.com/adafruit/Adafruit_LvGL_Glue
 https://github.com/adafruit/Adafruit_MAX1704X
 https://github.com/adafruit/Adafruit_MAX31856
 https://github.com/adafruit/Adafruit_MAX31865
+https://github.com/adafruit/Adafruit_MAX44009
 https://github.com/adafruit/Adafruit_MCP2515
 https://github.com/adafruit/Adafruit_MCP3008
 https://github.com/adafruit/Adafruit_MCP3421
