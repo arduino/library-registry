@@ -9033,3 +9033,4 @@ https://github.com/yesio/dual2s.git
 https://github.com/TMRh20/microDecoder
 https://github.com/chon-group/javino2arduino
 https://github.com/7semi-solutions/7Semi_AD849x
+https://github.com/7semi-solutions/7Semi-LIS3DH-3-axis-acceleromet-Arduino-Library
