@@ -1,3 +1,4 @@
+https://github.com/hasenradball/AM2302-Sensor-Pi-Pico
 https://github.com/Embedded-Petal/Spell_IoT
 https://github.com/Xorlent/SAMD_SafeFlashStorage
 https://github.com/Exocet22/TinyBME280
