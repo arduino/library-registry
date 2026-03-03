@@ -9011,7 +9011,7 @@ https://github.com/Exocet22/TinyBME280.git|Contributed|TinyBME280
 https://github.com/Exocet22/TinyMQTTClient.git|Contributed|TinyMQTTClient
 https://github.com/dejwk/roo_fonts_basic.git|Contributed|roo_fonts_basic
 https://github.com/Xorlent/SAMD_SafeFlashStorage.git|Contributed|SAMD_SafeFlashStorage
-https://github.com/Embedded-Petal/Spell_IoT.git|Contributed|Spell_Iot
+https://github.com/Embedded-Petal/Spell_IoT.git|Contributed|Spell_IoT
 https://github.com/sparkfun/SparkFun_CY8CMBR3_Arduino_Library.git|Contributed|SparkFun CY8CMBR3xxx Arduino Library
 https://github.com/toastmanAu/TelegramSerial.git|Contributed|TelegramSerial
 https://github.com/7semi-solutions/7Semi-BNO08x-9-DOF-Orientation-IMU-Fusion.git|Contributed|7Semi BNO08x
