@@ -9031,3 +9031,4 @@ https://github.com/7semi-solutions/7Semi-OPT4048-Color-Sensor-Arduino-Library.gi
 https://github.com/adafruit/Adafruit_MAX44009.git|Recommended|Adafruit MAX44009
 https://github.com/pisco-de-luz/Pisco-Code-Arduino.git|Contributed|Pisco-Code
 https://github.com/DFRobot/DFRobot_ID809.git|Contributed|DFRobot_ID809
+https://github.com/snowfoxlab/SyncItIOT.git|Contributed|SyncItIOT
