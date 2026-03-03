@@ -9032,3 +9032,4 @@ https://github.com/adafruit/Adafruit_MAX44009.git|Recommended|Adafruit MAX44009
 https://github.com/pisco-de-luz/Pisco-Code-Arduino.git|Contributed|Pisco-Code
 https://github.com/DFRobot/DFRobot_ID809.git|Contributed|DFRobot_ID809
 https://github.com/snowfoxlab/SyncItIOT.git|Contributed|SyncItIOT
+https://github.com/cubicleguy/xv7021_arduino_spi.git|Contributed|xv7021_spi
