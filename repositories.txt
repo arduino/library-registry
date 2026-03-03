@@ -1070,6 +1070,7 @@ https://github.com/adafruit/Adafruit_TSL2591_Library
 https://github.com/adafruit/Adafruit_UNTZtrument
 https://github.com/adafruit/Adafruit_VCNL4010
 https://github.com/adafruit/Adafruit_VCNL4020
+https://github.com/adafruit/Adafruit_VCNL4030
 https://github.com/adafruit/Adafruit_VCNL4040
 https://github.com/adafruit/Adafruit_VCNL4200
 https://github.com/adafruit/Adafruit_VEML6046
