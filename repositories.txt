@@ -2458,6 +2458,7 @@ https://github.com/devinaconley/arduino-plotter
 https://github.com/devxplained/HTU21D-Sensor-Library
 https://github.com/devxplained/MAX3010x-Sensor-Library
 https://github.com/DFRobot/DFRobot_AD9837
+https://github.com/DFRobot/DFRobot_ID809
 https://github.com/DFRobot/DFRobot_ADS1115
 https://github.com/DFRobot/DFRobot_ADS1115_0_10V
 https://github.com/DFRobot/DFRobot_ADXL345
