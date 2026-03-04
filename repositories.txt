@@ -9042,3 +9042,4 @@ https://github.com/7semi-solutions/7Semi-OPT4048-Color-Sensor-Arduino-Library
 https://github.com/pisco-de-luz/Pisco-Code-Arduino.git
 https://github.com/snowfoxlab/SyncItIOT
 https://github.com/cubicleguy/xv7021_arduino_spi
+https://github.com/Kiwistron/KiwisIoT
