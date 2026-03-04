@@ -9035,3 +9035,4 @@ https://github.com/snowfoxlab/SyncItIOT.git|Contributed|SyncItIOT
 https://github.com/cubicleguy/xv7021_arduino_spi.git|Contributed|xv7021_spi
 https://github.com/hasenradball/AM2302-Sensor-Pi-Pico.git|Contributed|AM2302-Sensor-Pi-Pico
 https://github.com/adafruit/Adafruit_VCNL4030.git|Recommended|Adafruit VCNL4030
+https://github.com/Kiwistron/KiwisIoT.git|Contributed|KiwisIoT
