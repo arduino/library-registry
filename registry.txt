@@ -9042,3 +9042,4 @@ https://github.com/sstaub/NextionX3.git|Contributed|NextionX3
 https://github.com/nainaiurk/ESP32MultiWiFiProvision.git|Contributed|ESP32MultiWiFiProvision
 https://github.com/nainaiurk/ESP32MultiWiFiProvision.git|Contributed|ESP32MultiWiFiProvision
 https://github.com/adafruit/Adafruit_TMAG5273.git|Recommended|Adafruit TMAG5273
+https://github.com/IamTheVector/Forgetfulino.git|Contributed|Forgetfulino
