@@ -1064,6 +1064,7 @@ https://github.com/adafruit/Adafruit_TLV320_I2S
 https://github.com/adafruit/Adafruit_TMP006
 https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
+https://github.com/adafruit/Adafruit_TMAG5273
 https://github.com/adafruit/Adafruit_TouchScreen
 https://github.com/adafruit/Adafruit_Trellis_Library
 https://github.com/adafruit/Adafruit_TSC2007
