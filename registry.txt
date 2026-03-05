@@ -9039,3 +9039,4 @@ https://github.com/Kiwistron/KiwisIoT.git|Contributed|KiwisIoT
 https://github.com/EdwinKestler/SIM800_MQTT.git|Contributed|YuaMQTT
 https://github.com/accabog/MedianFilter.git|Contributed|MedianFilter
 https://github.com/sstaub/NextionX3.git|Contributed|NextionX3
+https://github.com/nainaiurk/ESP32MultiWiFiProvision.git|Contributed|ESP32MultiWiFiProvision
