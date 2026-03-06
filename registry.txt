@@ -9048,3 +9048,4 @@ https://github.com/Khuuxuanngoc/makereduvnlib.git|Contributed|MKE_ONE
 https://github.com/jeffvan302/WS_ESP32_Touch28.git|Contributed|WS_ESP32_Touch28
 https://github.com/ShravanaHS/ESP32ControlStudio.git|Contributed|ESP32ControlStudio
 https://github.com/Gypsy-Server/Gypsyv1.git|Contributed|Gypsy
+https://github.com/PowerBroker2/ArduHelpers.git|Contributed|ArduHelpers
