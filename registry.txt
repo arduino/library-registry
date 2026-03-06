@@ -9050,3 +9050,4 @@ https://github.com/ShravanaHS/ESP32ControlStudio.git|Contributed|ESP32ControlStu
 https://github.com/Gypsy-Server/Gypsyv1.git|Contributed|Gypsy
 https://github.com/PowerBroker2/ArduHelpers.git|Contributed|ArduHelpers
 https://github.com/ltavasilva/WiFiController.git|Contributed|WiFiController
+https://github.com/adafruit/Adafruit_WF100DPZ.git|Recommended|Adafruit WF100DPZ
