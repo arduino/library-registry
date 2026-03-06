@@ -9046,3 +9046,4 @@ https://github.com/IamTheVector/Forgetfulino.git|Contributed|Forgetfulino
 https://github.com/tabahi/StreamCipher.git|Contributed|StreamCipher
 https://github.com/Khuuxuanngoc/makereduvnlib.git|Contributed|MKE_ONE
 https://github.com/jeffvan302/WS_ESP32_Touch28.git|Contributed|WS_ESP32_Touch28
+https://github.com/ShravanaHS/ESP32ControlStudio.git|Contributed|ESP32ControlStudio
