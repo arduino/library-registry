@@ -1,3 +1,4 @@
+https://github.com/PowerBroker2/ArduHelpers
 https://github.com/Khuuxuanngoc/makereduvnlib
 https://github.com/nainaiurk/ESP32MultiWiFiProvision
 https://github.com/sstaub/NextionX3
