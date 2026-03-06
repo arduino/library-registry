@@ -6825,7 +6825,6 @@ https://github.com/sparkfun/SparkFun_Alphanumeric_Display_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ambient_Light_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library
 https://github.com/sparkfun/SparkFun_APDS9301_Library
-https://github.com/sparkfun/SparkFun_Apple_Accessory_Arduino_Library
 https://github.com/sparkfun/SparkFun_ARGOS_ARTIC_R2_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS108M_Fingerprint_Scanner_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector_Arduino_Library
@@ -6837,7 +6836,6 @@ https://github.com/sparkfun/SparkFun_AS7341X_Arduino_Library
 https://github.com/sparkfun/SparkFun_AS7343_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library
 https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library
-https://github.com/sparkfun/SparkFun_Authentication_Coprocessor_Arduino_Library
 https://github.com/sparkfun/SparkFun_AVR_ISP_Programming_Library
 https://github.com/sparkfun/SparkFun_Bar_Graph_Breakout_Arduino_Library
 https://github.com/sparkfun/SparkFun_BH1749NUC_Arduino_Library
