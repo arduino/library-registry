@@ -9053,3 +9053,4 @@ https://github.com/EdwinKestler/SIM800_MQTT.git
 https://github.com/IamTheVector/Forgetfulino 
 https://github.com/jeffvan302/WS_ESP32_Touch28
 https://github.com/ShravanaHS/ESP32ControlStudio
+https://github.com/Gypsy-Server/Gypsyv1
