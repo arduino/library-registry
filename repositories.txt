@@ -1089,6 +1089,7 @@ https://github.com/adafruit/Adafruit_VL53L1X
 https://github.com/adafruit/Adafruit_VL6180X
 https://github.com/adafruit/Adafruit_VS1053_Library
 https://github.com/adafruit/Adafruit_WavePlayer
+https://github.com/adafruit/Adafruit_WF100DPZ
 https://github.com/adafruit/Adafruit_Wippersnapper_Arduino
 https://github.com/adafruit/Adafruit_xCA9554
 https://github.com/adafruit/Adafruit_ZeroDMA
