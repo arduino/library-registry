@@ -9053,3 +9053,4 @@ https://github.com/ltavasilva/WiFiController.git|Contributed|WiFiController
 https://github.com/adafruit/Adafruit_WF100DPZ.git|Recommended|Adafruit WF100DPZ
 https://github.com/yosob/SL_PumpDriver.git|Contributed|SL_PumpDriver
 https://github.com/HijelHub/HijelHID_BLEKeyboard.git|Contributed|HijelHID_BLEKeyboard
+https://github.com/franzisco29/RaceDisplay.git|Contributed|RaceDisplay
