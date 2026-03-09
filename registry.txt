@@ -9054,3 +9054,4 @@ https://github.com/adafruit/Adafruit_WF100DPZ.git|Recommended|Adafruit WF100DPZ
 https://github.com/yosob/SL_PumpDriver.git|Contributed|SL_PumpDriver
 https://github.com/HijelHub/HijelHID_BLEKeyboard.git|Contributed|HijelHID_BLEKeyboard
 https://github.com/franzisco29/RaceDisplay.git|Contributed|RaceDisplay
+https://github.com/adafruit/Adafruit_AS7331.git|Recommended|Adafruit AS7331 Library
