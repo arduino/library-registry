@@ -9056,3 +9056,4 @@ https://github.com/HijelHub/HijelHID_BLEKeyboard.git|Contributed|HijelHID_BLEKey
 https://github.com/franzisco29/RaceDisplay.git|Contributed|RaceDisplay
 https://github.com/adafruit/Adafruit_AS7331.git|Recommended|Adafruit AS7331 Library
 https://github.com/Jueff/PicoFlashStorage.git|Contributed|Pico Flash Storage
+https://github.com/BojanJurca/Thread-safe-file-sytem-wrapper-Arduino-library-for-ESP32.git|Contributed|ThreadSafeFS
