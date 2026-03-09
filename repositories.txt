@@ -3871,6 +3871,7 @@ https://github.com/jsware/able-buttons
 https://github.com/Judiviga/ROBLEX
 https://github.com/Jueff/FireplaceMLX
 https://github.com/Jueff/InfraredMLX
+https://github.com/Jueff/PicoFlashStorage
 https://github.com/Jueff/SoftwareSerialTX
 https://github.com/Juerd/ESP-WiFiSettings
 https://github.com/juliusbaechle/MicroQt
