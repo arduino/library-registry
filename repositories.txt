@@ -9063,3 +9063,4 @@ https://github.com/Gypsy-Server/Gypsyv1
 https://github.com/ltavasilva/WiFiController.git
 https://github.com/HijelHub/HijelHID_BLEKeyboard
 https://github.com/franzisco29/RaceDisplay
+https://github.com/AchirawareElectronics/SimpleRGBLed
