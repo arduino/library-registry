@@ -9060,3 +9060,4 @@ https://github.com/BojanJurca/Thread-safe-file-sytem-wrapper-Arduino-library-for
 https://github.com/AchirawareElectronics/SimpleRGBLed.git|Contributed|SimpleRGBLed
 https://github.com/hacktronics/STEMBuddy-Arduino.git|Contributed|STEMBuddy
 https://github.com/andremmfaria/ESP32Wiimote.git|Contributed|ESP32Wiimote
+https://github.com/sat-mtl/boost-embedded-190.git|Contributed|boost-embedded-190
