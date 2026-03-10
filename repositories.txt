@@ -9066,3 +9066,4 @@ https://github.com/HijelHub/HijelHID_BLEKeyboard
 https://github.com/franzisco29/RaceDisplay
 https://github.com/AchirawareElectronics/SimpleRGBLed
 https://github.com/andremmfaria/ESP32Wiimote
+https://github.com/sat-mtl/boost-embedded-190
