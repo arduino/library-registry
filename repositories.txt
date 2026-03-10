@@ -9065,3 +9065,4 @@ https://github.com/ltavasilva/WiFiController.git
 https://github.com/HijelHub/HijelHID_BLEKeyboard
 https://github.com/franzisco29/RaceDisplay
 https://github.com/AchirawareElectronics/SimpleRGBLed
+https://github.com/andremmfaria/ESP32Wiimote
