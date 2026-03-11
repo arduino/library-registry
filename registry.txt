@@ -9063,3 +9063,4 @@ https://github.com/andremmfaria/ESP32Wiimote.git|Contributed|ESP32Wiimote
 https://github.com/sat-mtl/boost-embedded-190.git|Contributed|boost-embedded-190
 https://github.com/Santi123-debug/EasyLED.git|Contributed|EasyLED
 https://github.com/DIYables/DIYables_OLED_SSD1309.git|Contributed|DIYables_OLED_SSD1309
+https://github.com/ASNProject/Panzer_Robotics_Library.git|Contributed|Panzer_Robotics_Library
