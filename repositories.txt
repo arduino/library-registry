@@ -1,4 +1,4 @@
-https://github.com/hestialabs/hxtp-micro
+https://github.com/hestia1abs/hxtp-micro.git
 https://github.com/perpective2410/tide-projectio
 https://github.com/Tomarun029831/kic_notation
 https://github.com/BojanJurca/Cron-Daemon-for-Arduino
