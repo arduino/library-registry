@@ -9069,3 +9069,4 @@ https://github.com/dhruvkotian/em2m-esp32-modbus.git|Contributed|EM2M-ESP32-Driv
 https://github.com/hestia1abs/hxtp-micro.git|Contributed|hxtp-micro
 https://github.com/GyverLibs/GyverMotor2.git|Contributed|GyverMotor2
 https://github.com/GyverLibs/GyverKey.git|Contributed|GyverKey
+https://github.com/stm32duino/LSM6DSO32.git|Contributed|STM32duino LSM6DSO32
