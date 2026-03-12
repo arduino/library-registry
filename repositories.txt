@@ -9071,3 +9071,4 @@ https://github.com/sat-mtl/boost-embedded-190
 https://github.com/Santi123-debug/EasyLED
 https://github.com/ASNProject/Panzer_Robotics_Library
 https://github.com/roboticist-blip/LoRa32T
+https://github.com/kirikow75-dev/M590-Arduino-Driver
