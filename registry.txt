@@ -9073,3 +9073,4 @@ https://github.com/stm32duino/LSM6DSO32.git|Contributed|STM32duino LSM6DSO32
 https://github.com/7semi-solutions/7Semi-NAU7802-24bit-ADC-for-Weight-Scale.git|Contributed|7Semi_NAU7802_24bit_ADC_WeightScale
 https://github.com/7semi-solutions/7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library.git|Contributed|7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library
 https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library.git|Contributed|MuxControl
+https://github.com/rppicomidi/TinyUSB_MIDI_Device_Arduino.git|Contributed|TinyUSB_MIDI_Device_Arduino
