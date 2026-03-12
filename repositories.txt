@@ -1,3 +1,4 @@
+https://github.com/hestia1abs/hxtp-micro.git
 https://github.com/DIYables/DIYables_OLED_SSD1309
 https://github.com/hacktronics/STEMBuddy-Arduino
 https://github.com/BojanJurca/Thread-safe-file-sytem-wrapper-Arduino-library-for-ESP32
@@ -3241,6 +3242,8 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverMotor2
+https://github.com/GyverLibs/GyverKey
 https://github.com/GyverLibs/ExpInt
 https://github.com/GyverLibs/BLESerial_ESP32
 https://github.com/GyverLibs/uEncoder
