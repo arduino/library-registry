@@ -9067,3 +9067,5 @@ https://github.com/ASNProject/Panzer_Robotics_Library.git|Contributed|Panzer_Rob
 https://github.com/roboticist-blip/LoRa32T.git|Contributed|LoRa32T
 https://github.com/dhruvkotian/em2m-esp32-modbus.git|Contributed|EM2M-ESP32-Driver
 https://github.com/hestia1abs/hxtp-micro.git|Contributed|hxtp-micro
+https://github.com/GyverLibs/GyverMotor2.git|Contributed|GyverMotor2
+https://github.com/GyverLibs/GyverKey.git|Contributed|GyverKey
