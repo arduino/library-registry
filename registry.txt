@@ -9079,3 +9079,4 @@ https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip.git|C
 https://github.com/uutzinger/Arduino_RingBuffer.git|Contributed|UUtzinger_RingBuffer
 https://github.com/uutzinger/logger.git|Contributed|UUtzinger_logger
 https://github.com/HavishVivek/WirelessRC.git|Contributed|WirelessRC
+https://github.com/kirikow75-dev/M590-Arduino-Driver.git|Contributed|M590Driver
