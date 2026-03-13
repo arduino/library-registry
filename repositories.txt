@@ -9074,4 +9074,8 @@ https://github.com/sat-mtl/boost-embedded-190
 https://github.com/Santi123-debug/EasyLED
 https://github.com/ASNProject/Panzer_Robotics_Library
 https://github.com/roboticist-blip/LoRa32T
+https://github.com/dhruvkotian/em2m-esp32-modbus
+https://github.com/stm32duino/LSM6DSO32
+https://github.com/7semi-solutions/7Semi-NAU7802-24bit-ADC-for-Weight-Scale
+https://github.com/7semi-solutions/7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library
 https://github.com/kirikow75-dev/M590-Arduino-Driver
