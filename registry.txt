@@ -9076,3 +9076,5 @@ https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library.git|Contribute
 https://github.com/rppicomidi/TinyUSB_MIDI_Device_Arduino.git|Contributed|TinyUSB_MIDI_Device_Arduino
 https://github.com/uutzinger/Arduino_MAX30001G.git|Contributed|MAX30001
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip.git|Contributed|VEGA-UIP
+https://github.com/uutzinger/Arduino_RingBuffer.git|Contributed|UUtzinger_RingBuffer
+https://github.com/uutzinger/logger.git|Contributed|UUtzinger_logger
