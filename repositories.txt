@@ -9080,4 +9080,5 @@ https://github.com/stm32duino/LSM6DSO32
 https://github.com/7semi-solutions/7Semi-NAU7802-24bit-ADC-for-Weight-Scale
 https://github.com/7semi-solutions/7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library
 https://github.com/rppicomidi/TinyUSB_MIDI_Device_Arduino
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip
 https://github.com/uutzinger/Arduino_MAX30001G
