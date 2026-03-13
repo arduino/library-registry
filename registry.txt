@@ -9078,3 +9078,4 @@ https://github.com/uutzinger/Arduino_MAX30001G.git|Contributed|MAX30001
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip.git|Contributed|VEGA-UIP
 https://github.com/uutzinger/Arduino_RingBuffer.git|Contributed|UUtzinger_RingBuffer
 https://github.com/uutzinger/logger.git|Contributed|UUtzinger_logger
+https://github.com/HavishVivek/WirelessRC.git|Contributed|WirelessRC
