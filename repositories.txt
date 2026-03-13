@@ -1,3 +1,4 @@
+https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library
 https://github.com/hestia1abs/hxtp-micro.git
 https://github.com/DIYables/DIYables_OLED_SSD1309
 https://github.com/hacktronics/STEMBuddy-Arduino
@@ -9079,3 +9080,9 @@ https://github.com/stm32duino/LSM6DSO32
 https://github.com/7semi-solutions/7Semi-NAU7802-24bit-ADC-for-Weight-Scale
 https://github.com/7semi-solutions/7Semi-OPT3004-Digital-Ambient-Light-Sensor-Arduino-Library
 https://github.com/kirikow75-dev/M590-Arduino-Driver
+https://github.com/rppicomidi/TinyUSB_MIDI_Device_Arduino
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega-uip
+https://github.com/uutzinger/Arduino_MAX30001G
+https://github.com/uutzinger/Arduino_RingBuffer
+https://github.com/uutzinger/logger
+https://github.com/HavishVivek/WirelessRC.git
