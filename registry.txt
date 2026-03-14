@@ -9082,3 +9082,4 @@ https://github.com/HavishVivek/WirelessRC.git|Contributed|WirelessRC
 https://github.com/kirikow75-dev/M590-Arduino-Driver.git|Contributed|M590Driver
 https://github.com/Xorlent/Async_SHT4x.git|Contributed|Async SHT4x
 https://github.com/leftCoast/LCP_sliderPz.git|Contributed|LCP_sliderPz
+https://github.com/d9ll/d9servo.git|Contributed|d9servo
