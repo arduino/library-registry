@@ -9084,3 +9084,4 @@ https://github.com/Xorlent/Async_SHT4x.git|Contributed|Async SHT4x
 https://github.com/leftCoast/LCP_sliderPz.git|Contributed|LCP_sliderPz
 https://github.com/d9ll/d9servo.git|Contributed|d9servo
 https://github.com/RobTillaart/TRAFO.git|Contributed|TRAFO
+https://github.com/d9ll/d9dist.git|Contributed|d9dist
