@@ -9081,3 +9081,4 @@ https://github.com/uutzinger/logger.git|Contributed|UUtzinger_logger
 https://github.com/HavishVivek/WirelessRC.git|Contributed|WirelessRC
 https://github.com/kirikow75-dev/M590-Arduino-Driver.git|Contributed|M590Driver
 https://github.com/Xorlent/Async_SHT4x.git|Contributed|Async SHT4x
+https://github.com/leftCoast/LCP_sliderPz.git|Contributed|LCP_sliderPz
