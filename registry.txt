@@ -9087,3 +9087,4 @@ https://github.com/RobTillaart/TRAFO.git|Contributed|TRAFO
 https://github.com/d9ll/d9dist.git|Contributed|d9dist
 https://github.com/codewitch-honey-crisis/htcw_frame.git|Contributed|htcw_frame
 https://github.com/ManishKDtm/PHMonitor.git|Contributed|PHMonitor
+https://github.com/OneDevelopmentPL/UltraSense.git|Contributed|UltraSense
