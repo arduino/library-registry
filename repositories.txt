@@ -9101,3 +9101,4 @@ https://github.com/ManishKDtm/PHMonitor
 https://github.com/OneDevelopmentPL/UltraSense
 https://github.com/gb88/BLEOTA/
 https://github.com/allwhc/mvsconnect.git
+https://github.com/HavishVivek/ESP32MacroPad
