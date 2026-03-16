@@ -1,3 +1,4 @@
+https://github.com/Circuit-Digest/GL868_ESP32
 https://github.com/leftCoast/LCP_sliderPz
 https://github.com/Xorlent/Async_SHT4x
 https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library
