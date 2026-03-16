@@ -9106,3 +9106,4 @@ https://github.com/allwhc/mvsconnect.git
 https://github.com/HavishVivek/ESP32MacroPad
 https://github.com/angeloINTJ/OneWirePIO_RP2040.git
 https://github.com/angeloINTJ/DHT22PIO_RP2040.git
+https://github.com/seemantadutta/PtpIpCamera.git
