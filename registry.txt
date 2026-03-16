@@ -9055,7 +9055,7 @@ https://github.com/yosob/SL_PumpDriver.git|Contributed|SL_PumpDriver
 https://github.com/HijelHub/HijelHID_BLEKeyboard.git|Contributed|HijelHID_BLEKeyboard
 https://github.com/franzisco29/RaceDisplay.git|Contributed|RaceDisplay
 https://github.com/adafruit/Adafruit_AS7331.git|Recommended|Adafruit AS7331 Library
-https://github.com/Jueff/PicoFlashStorage.git|Contributed|Pico Flash Storage
+https://github.com/Jueff/PicoFlashStorage.git|Contributed|PicoFlashStorage
 https://github.com/BojanJurca/Thread-safe-file-sytem-wrapper-Arduino-library-for-ESP32.git|Contributed|ThreadSafeFS
 https://github.com/AchirawareElectronics/SimpleRGBLed.git|Contributed|SimpleRGBLed
 https://github.com/hacktronics/STEMBuddy-Arduino.git|Contributed|STEMBuddy
