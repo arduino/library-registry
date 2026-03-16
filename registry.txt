@@ -9090,3 +9090,4 @@ https://github.com/ManishKDtm/PHMonitor.git|Contributed|PHMonitor
 https://github.com/OneDevelopmentPL/UltraSense.git|Contributed|UltraSense
 https://github.com/gb88/BLEOTA.git|Contributed|BLEOTA
 https://github.com/allwhc/mvsconnect.git|Contributed|MvsConnect
+https://github.com/Circuit-Digest/GL868_ESP32.git|Contributed|GL868_ESP32
