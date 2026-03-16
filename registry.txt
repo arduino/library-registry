@@ -9091,3 +9091,6 @@ https://github.com/OneDevelopmentPL/UltraSense.git|Contributed|UltraSense
 https://github.com/gb88/BLEOTA.git|Contributed|BLEOTA
 https://github.com/allwhc/mvsconnect.git|Contributed|MvsConnect
 https://github.com/Circuit-Digest/GL868_ESP32.git|Contributed|GL868_ESP32
+https://github.com/Jueff/MLLServoConfigurator.git|Contributed|MLLServoConfigurator
+https://github.com/Jueff/MLLSoundTiny.git|Contributed|MLLSoundTiny
+https://github.com/Jueff/WS281xProcessor.git|Contributed|WS281xProcessor
