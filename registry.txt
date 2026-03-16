@@ -9095,3 +9095,4 @@ https://github.com/Jueff/MLLServoConfigurator.git|Contributed|MLLServoConfigurat
 https://github.com/Jueff/MLLSoundTiny.git|Contributed|MLLSoundTiny
 https://github.com/Jueff/WS281xProcessor.git|Contributed|WS281xProcessor
 https://github.com/RobTillaart/AMC1302.git|Contributed|AMC1302
+https://github.com/HavishVivek/ESP32MacroPad.git|Contributed|ESP32MacroPad
