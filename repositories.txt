@@ -1,3 +1,5 @@
+https://github.com/thomasfredericks/M5_Encoder
+https://github.com/thomasfredericks/MicroRemoteWire
 https://github.com/sakibahmedshanto/Roblink-Arduino-Library.git
 https://github.com/thomasfredericks/MicroNet
 https://github.com/Circuit-Digest/GL868_ESP32
