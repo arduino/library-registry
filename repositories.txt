@@ -1,3 +1,4 @@
+https://github.com/Circuit-Digest/GL868_ESP32
 https://github.com/leftCoast/LCP_sliderPz
 https://github.com/Xorlent/Async_SHT4x
 https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library
@@ -3880,8 +3881,11 @@ https://github.com/jsware/able-buttons
 https://github.com/Judiviga/ROBLEX
 https://github.com/Jueff/FireplaceMLX
 https://github.com/Jueff/InfraredMLX
+https://github.com/Jueff/MLLServoConfigurator
+https://github.com/Jueff/MLLSoundTiny
 https://github.com/Jueff/PicoFlashStorage
 https://github.com/Jueff/SoftwareSerialTX
+https://github.com/Jueff/WS281xProcessor
 https://github.com/Juerd/ESP-WiFiSettings
 https://github.com/juliusbaechle/MicroQt
 https://github.com/JulStrat/LibYxml
@@ -5994,6 +5998,7 @@ https://github.com/RobTillaart/AGS3871
 https://github.com/RobTillaart/AM2315
 https://github.com/RobTillaart/AM2315C
 https://github.com/RobTillaart/AM232X
+https://github.com/RobTillaart/AMC1302
 https://github.com/RobTillaart/AMT25
 https://github.com/RobTillaart/AnalogKeypad
 https://github.com/RobTillaart/AnalogPin
@@ -9094,3 +9099,9 @@ https://github.com/d9ll/d9dist
 https://github.com/codewitch-honey-crisis/htcw_frame
 https://github.com/ManishKDtm/PHMonitor
 https://github.com/ManishKDtm/ESPSmartDash
+https://github.com/OneDevelopmentPL/UltraSense
+https://github.com/gb88/BLEOTA/
+https://github.com/allwhc/mvsconnect.git
+https://github.com/HavishVivek/ESP32MacroPad
+https://github.com/angeloINTJ/OneWirePIO_RP2040.git
+https://github.com/angeloINTJ/DHT22PIO_RP2040.git
