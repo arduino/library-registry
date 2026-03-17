@@ -9102,3 +9102,4 @@ https://github.com/Hastu004/DiscretePID.git|Contributed|DiscretePID
 https://github.com/thomasfredericks/M5_Encoder.git|Contributed|M5_Encoder
 https://github.com/thomasfredericks/MicroRemoteWire.git|Contributed|MicroRemoteWire
 https://github.com/UNIT-Electronics-MX/unit_picodvi_library.git|Contributed|upicodvi
+https://github.com/leftCoast/LC_MSP3526_T.git|Contributed|LC_MSP3526_T
