@@ -8480,7 +8480,6 @@ https://github.com/m5stack/M5Unit-Fingerprint2.git|Contributed|M5Unit-Fingerprin
 https://github.com/tanakamasayuki/ESP32CertBundle.git|Contributed|ESP32CertBundle
 https://github.com/arduino-libraries/Arduino_RouterBridge.git|Arduino|Arduino_RouterBridge
 https://github.com/arduino-libraries/Arduino_RPCLite.git|Arduino|Arduino_RPClite
-https://github.com/vicharak-in/shrike_flash.git|Contributed|Shrike Flash Library
 https://github.com/probot-studio/probot-core.git|Contributed|probot
 https://github.com/vovagorodok/ArduinoBleBattery.git|Contributed|vovagorodok_ArduinoBleBattery
 https://github.com/DIYables/DIYables-ESP32-WebApps-Library.git|Contributed|DIYables ESP32 WebApps
