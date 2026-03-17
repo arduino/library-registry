@@ -9098,3 +9098,4 @@ https://github.com/ManishKDtm/ESPSmartDash.git|Contributed|ESPSmartDash
 https://github.com/thomasfredericks/MicroNet.git|Contributed|MicroNet
 https://github.com/seemantadutta/PtpIpCamera.git|Contributed|PtpIpCamera
 https://github.com/sakibahmedshanto/Roblink-Arduino-Library.git|Contributed|RoboLink
+https://github.com/Hastu004/DiscretePID.git|Contributed|DiscretePID
