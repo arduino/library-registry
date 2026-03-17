@@ -9100,3 +9100,4 @@ https://github.com/angeloINTJ/DHT22PIO_RP2040.git|Contributed|DHT22PIO_RP2040
 https://github.com/ManishKDtm/ESPSmartDash.git|Contributed|ESPSmartDash
 https://github.com/thomasfredericks/MicroNet.git|Contributed|MicroNet
 https://github.com/seemantadutta/PtpIpCamera.git|Contributed|PtpIpCamera
+https://github.com/sakibahmedshanto/Roblink-Arduino-Library.git|Contributed|RoboLink
