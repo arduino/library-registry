@@ -9101,3 +9101,4 @@ https://github.com/sakibahmedshanto/Roblink-Arduino-Library.git|Contributed|Robo
 https://github.com/Hastu004/DiscretePID.git|Contributed|DiscretePID
 https://github.com/thomasfredericks/M5_Encoder.git|Contributed|M5_Encoder
 https://github.com/thomasfredericks/MicroRemoteWire.git|Contributed|MicroRemoteWire
+https://github.com/UNIT-Electronics-MX/unit_picodvi_library.git|Contributed|upicodvi
