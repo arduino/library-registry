@@ -9114,3 +9114,4 @@ https://github.com/seemantadutta/PtpIpCamera.git
 https://github.com/Hastu004/DiscretePID.git
 http://github.com/Axxel-otl/Sonic
 https://github.com/ThanabordeeN/MCP-U_Arduino
+https://github.com/matthias-bs/SX1276_Radio_Lite
