@@ -9106,3 +9106,4 @@ https://github.com/leftCoast/LC_MSP3526_T.git|Contributed|LC_MSP3526_T
 https://github.com/Axxel-otl/Sonic.git|Contributed|Sonic
 https://github.com/PocketBaseExtended/PocketbaseExtended.git|Contributed|PocketbaseExtended
 https://github.com/ThanabordeeN/MCP-U_Arduino.git|Contributed|McpIot
+https://github.com/DIYables/DIYables-Bluetooth.git|Contributed|DIYables Bluetooth
