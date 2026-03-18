@@ -9110,3 +9110,4 @@ https://github.com/angeloINTJ/OneWirePIO_RP2040.git
 https://github.com/angeloINTJ/DHT22PIO_RP2040.git
 https://github.com/seemantadutta/PtpIpCamera.git
 https://github.com/Hastu004/DiscretePID.git
+http://github.com/Axxel-otl/Sonic
