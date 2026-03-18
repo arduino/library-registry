@@ -1,3 +1,4 @@
+https://github.com/PocketBaseExtended/PocketbaseExtended
 https://github.com/leftCoast/LC_MSP3526_T
 https://github.com/thomasfredericks/M5_Encoder
 https://github.com/thomasfredericks/MicroRemoteWire
