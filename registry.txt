@@ -9104,3 +9104,4 @@ https://github.com/thomasfredericks/MicroRemoteWire.git|Contributed|MicroRemoteW
 https://github.com/UNIT-Electronics-MX/unit_picodvi_library.git|Contributed|upicodvi
 https://github.com/leftCoast/LC_MSP3526_T.git|Contributed|LC_MSP3526_T
 https://github.com/Axxel-otl/Sonic.git|Contributed|Sonic
+https://github.com/PocketBaseExtended/PocketbaseExtended.git|Contributed|PocketbaseExtended
