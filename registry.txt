@@ -9108,3 +9108,4 @@ https://github.com/PocketBaseExtended/PocketbaseExtended.git|Contributed|Pocketb
 https://github.com/ThanabordeeN/MCP-U_Arduino.git|Contributed|McpIot
 https://github.com/DIYables/DIYables-Bluetooth.git|Contributed|DIYables Bluetooth
 https://github.com/matthias-bs/SX1276_Radio_Lite.git|Contributed|SX1276_Radio_Lite
+https://github.com/agusevtec/eva-core-sk.git|Contributed|eva-core-sk
