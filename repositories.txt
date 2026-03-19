@@ -6300,7 +6300,6 @@ https://github.com/RodolfoPrieto/MCP3208
 https://github.com/rodrigodornelles/3bc-lang
 https://github.com/rodrigodornelles/arduino-tone-pitch
 https://github.com/roelandkluit/Free-ESPatHome
-https://github.com/Roger-random/ESP_8_BIT_composite
 https://github.com/rogerjames99/json2asw-arduino
 https://github.com/RogueRobotics/RogueMP3
 https://github.com/RogueRobotics/RogueSD
