@@ -7502,6 +7502,7 @@ https://github.com/tomstewart89/Callback
 https://github.com/tomstewart89/Geometry
 https://github.com/tomstewart89/StateSpaceControl
 https://github.com/ToniA/arduino-heatpumpir
+https://github.com/tonywestonuk/EPD_Painter
 https://github.com/tony-bringardner/NetworkMonitor
 https://github.com/toritamantaro/TN_SwitchState
 https://github.com/torsteinnh/conductivityLib
