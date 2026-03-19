@@ -9111,3 +9111,4 @@ https://github.com/matthias-bs/SX1276_Radio_Lite.git|Contributed|SX1276_Radio_Li
 https://github.com/agusevtec/eva-core-sk.git|Contributed|eva-core-sk
 https://github.com/derekbreden/PersistentLog.git|Contributed|PersistentLog
 https://github.com/tonywestonuk/EPD_Painter.git|Contributed|EPD Painter
+https://github.com/shawrhit/ESP32_AWS_MQTT_Manager.git|Contributed|ESP32 AWS MQTT Manager
