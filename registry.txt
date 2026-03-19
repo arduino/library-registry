@@ -9112,3 +9112,4 @@ https://github.com/agusevtec/eva-core-sk.git|Contributed|eva-core-sk
 https://github.com/derekbreden/PersistentLog.git|Contributed|PersistentLog
 https://github.com/tonywestonuk/EPD_Painter.git|Contributed|EPD Painter
 https://github.com/shawrhit/ESP32_AWS_MQTT_Manager.git|Contributed|ESP32 AWS MQTT Manager
+https://github.com/boxlink/INKALOGIC.git|Contributed|InkaLogicModbus
