@@ -9110,3 +9110,4 @@ https://github.com/DIYables/DIYables-Bluetooth.git|Contributed|DIYables Bluetoot
 https://github.com/matthias-bs/SX1276_Radio_Lite.git|Contributed|SX1276_Radio_Lite
 https://github.com/agusevtec/eva-core-sk.git|Contributed|eva-core-sk
 https://github.com/derekbreden/PersistentLog.git|Contributed|PersistentLog
+https://github.com/tonywestonuk/EPD_Painter.git|Contributed|EPD Painter
