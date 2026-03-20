@@ -9122,3 +9122,4 @@ https://github.com/derekbreden/PersistentLog.git
 https://github.com/shawrhit/ESP32_AWS_MQTT_Manager
 https://github.com/glebshow23-crypto/SharpSensor
 
+https://github.com/pcabello-kode/kode_bsp_function_ev_board.git
