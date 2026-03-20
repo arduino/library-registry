@@ -9116,3 +9116,4 @@ https://github.com/boxlink/INKALOGIC.git|Contributed|InkaLogicModbus
 https://github.com/glebshow23-crypto/SharpSensor.git|Contributed|SharpSensor
 https://github.com/pcabello-kode/kode_bsp_function_ev_board.git|Contributed|kode_bsp_function_ev_board
 https://github.com/UDFSmart/UCommandExecutor.git|Contributed|UCommandExecutor
+https://github.com/petrkr/SegLCDLib.git|Contributed|SegLCDLib
