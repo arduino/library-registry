@@ -9124,3 +9124,4 @@ https://github.com/glebshow23-crypto/SharpSensor
 https://github.com/pcabello-kode/kode_bsp_function_ev_board.git
 https://github.com/UDFSmart/UCommandExecutor
 https://github.com/petrkr/SegLCDLib
+https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830
