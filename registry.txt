@@ -9118,3 +9118,4 @@ https://github.com/pcabello-kode/kode_bsp_function_ev_board.git|Contributed|kode
 https://github.com/UDFSmart/UCommandExecutor.git|Contributed|UCommandExecutor
 https://github.com/petrkr/SegLCDLib.git|Contributed|SegLCDLib
 https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830.git|Contributed|AchiraWareMotor_DRV8830
+https://github.com/joaoaugustocz/SuperOTA.git|Contributed|SuperOTA
