@@ -9130,3 +9130,4 @@ https://github.com/joaoaugustocz/SuperOTA
 https://github.com/Ignacy110/PCF8573
 https://github.com/UDFSmart/Relay-Controller
 https://github.com/angeloINTJ/BuzzerPIO_RP2040.git
+https://github.com/shawrhit/ESP32_Azure_MQTT_Manager
