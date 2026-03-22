@@ -9123,3 +9123,4 @@ https://github.com/tonywestonuk/gt911-arduino.git|Contributed|GT911 Lite
 https://github.com/Ignacy110/PCF8573.git|Contributed|PCF8573
 https://github.com/UDFSmart/Relay-Controller.git|Contributed|Relay Controller
 https://github.com/angeloINTJ/BuzzerPIO_RP2040.git|Contributed|BuzzerPIO_RP2040
+https://github.com/shawrhit/ESP32_Azure_MQTT_Manager.git|Contributed|ESP32_Azure_MQTT_Manager
