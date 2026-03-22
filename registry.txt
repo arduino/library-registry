@@ -9119,3 +9119,4 @@ https://github.com/UDFSmart/UCommandExecutor.git|Contributed|UCommandExecutor
 https://github.com/petrkr/SegLCDLib.git|Contributed|SegLCDLib
 https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830.git|Contributed|AchiraWareMotor_DRV8830
 https://github.com/joaoaugustocz/SuperOTA.git|Contributed|SuperOTA
+https://github.com/tonywestonuk/gt911-arduino.git|Contributed|GT911 Lite
