@@ -9128,3 +9128,4 @@ https://github.com/petrkr/SegLCDLib
 https://github.com/AchirawareElectronics/AchiraWareMotor_DRV8830
 https://github.com/joaoaugustocz/SuperOTA
 https://github.com/Ignacy110/PCF8573
+https://github.com/UDFSmart/Relay-Controller
