@@ -548,7 +548,7 @@ https://github.com/PaulStoffregen/MahonyAHRS.git|Contributed|Mahony
 https://github.com/gmag11/NtpClient.git|Contributed|NtpClientLib
 https://github.com/tomstewart89/Callback.git|Contributed|Callback
 https://github.com/WiserUFBA/ArduMideaWrapper.git|Contributed|MideaIRWrapper
-https://github.com/blynkkk/blynk-library.git|Contributed|Blynk
+https://github.com/Blynk-Technologies/blynk-library.git|Contributed|Blynk
 https://github.com/PaulStoffregen/NXPMotionSense.git|Contributed|NXPMotionSense
 https://github.com/mrrwa/NmraDcc.git|Contributed|NmraDcc
 https://github.com/klenov/advancedSerial.git|Contributed|advancedSerial
