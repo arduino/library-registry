@@ -9124,3 +9124,4 @@ https://github.com/angeloINTJ/BuzzerPIO_RP2040.git|Contributed|BuzzerPIO_RP2040
 https://github.com/shawrhit/ESP32_Azure_MQTT_Manager.git|Contributed|ESP32_Azure_MQTT_Manager
 https://github.com/vwireiot/vwire-arduino.git|Contributed|VwireIOT
 https://github.com/adafruit/Adafruit_ADS122C04.git|Recommended|Adafruit ADS122C04
+https://github.com/thomasfredericks/MicroLog.git|Contributed|MicroLog
