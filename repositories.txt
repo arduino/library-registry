@@ -9133,3 +9133,4 @@ https://github.com/angeloINTJ/BuzzerPIO_RP2040.git
 https://github.com/shawrhit/ESP32_Azure_MQTT_Manager
 https://github.com/vwireiot/vwire-arduino.git
 https://github.com/IWILZ/PicoSound
+https://github.com/Revise-Robotics/tether-arduino
