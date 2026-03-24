@@ -9129,3 +9129,8 @@ https://github.com/IWILZ/PicoSound.git|Contributed|PicoSound
 https://github.com/Revise-Robotics/tether-arduino.git|Contributed|Tether
 https://github.com/m5stack/M5Echo-Pyramid.git|Contributed|M5Echo-Pyramid
 https://github.com/IWILZ/PicoSem.git|Contributed|PicoSem
+https://github.com/jvasquez05/SolarRadiationSensor.git|Contributed|SolarRadiationSensor
+https://github.com/jvasquez05/BME280_PROAGRO.git|Contributed|BME280_PROAGRO
+https://github.com/jvasquez05/PluviometerSensor.git|Contributed|PluviometerSensor
+https://github.com/jvasquez05/Anemometer.git|Contributed|Anemometer
+https://github.com/jvasquez05/SoilHumSensor.git|Contributed|SoilHumSensor
