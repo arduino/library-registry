@@ -9126,3 +9126,4 @@ https://github.com/vwireiot/vwire-arduino.git|Contributed|VwireIOT
 https://github.com/adafruit/Adafruit_ADS122C04.git|Recommended|Adafruit ADS122C04
 https://github.com/thomasfredericks/MicroLog.git|Contributed|MicroLog
 https://github.com/IWILZ/PicoSound.git|Contributed|PicoSound
+https://github.com/Revise-Robotics/tether-arduino.git|Contributed|Tether
