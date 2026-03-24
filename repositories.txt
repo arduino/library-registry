@@ -9140,3 +9140,4 @@ https://github.com/jvasquez05/BME280_PROAGRO
 https://github.com/jvasquez05/PluviometerSensor
 https://github.com/jvasquez05/Anemometer
 https://github.com/jvasquez05/SoilHumSensor
+https://github.com/IWILZ/PicoSem
