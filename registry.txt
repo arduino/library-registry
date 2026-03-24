@@ -9128,3 +9128,4 @@ https://github.com/thomasfredericks/MicroLog.git|Contributed|MicroLog
 https://github.com/IWILZ/PicoSound.git|Contributed|PicoSound
 https://github.com/Revise-Robotics/tether-arduino.git|Contributed|Tether
 https://github.com/m5stack/M5Echo-Pyramid.git|Contributed|M5Echo-Pyramid
+https://github.com/IWILZ/PicoSem.git|Contributed|PicoSem
