@@ -9141,3 +9141,4 @@ https://github.com/jvasquez05/PluviometerSensor
 https://github.com/jvasquez05/Anemometer
 https://github.com/jvasquez05/SoilHumSensor
 https://github.com/IWILZ/PicoSem
+https://github.com/tdk-invn-oss/motion.arduino.ICM45688p
