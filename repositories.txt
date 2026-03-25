@@ -9143,3 +9143,4 @@ https://github.com/jvasquez05/SoilHumSensor
 https://github.com/IWILZ/PicoSem
 https://github.com/nikki-build/nikki.unoR4
 https://github.com/nikki-build/nikki.esp8266
+https://github.com/shrawankhambekar/ESP32_CPWIFI
