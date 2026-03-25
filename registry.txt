@@ -9134,3 +9134,5 @@ https://github.com/jvasquez05/BME280_PROAGRO.git|Contributed|BME280_PROAGRO
 https://github.com/jvasquez05/PluviometerSensor.git|Contributed|PluviometerSensor
 https://github.com/jvasquez05/Anemometer.git|Contributed|Anemometer
 https://github.com/jvasquez05/SoilHumSensor.git|Contributed|SoilHumSensor
+https://github.com/nikki-build/nikki.unoR4.git|Contributed|nikki.unoR4
+https://github.com/nikki-build/nikki.esp8266.git|Contributed|nikki.esp8266
