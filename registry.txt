@@ -9140,3 +9140,4 @@ https://github.com/shrawankhambekar/ESP32_CPWIFI.git|Contributed|ESP32_CPWIFI
 https://github.com/piglet0/haier2supla.git|Contributed|Haier2Supla
 https://github.com/rohitmaji004/RohitCore-Base.git|Contributed|RohitCore-Base
 https://github.com/rohitmaji004/RohitCore-Timer.git|Contributed|RohitCore-Timer
+https://github.com/0ldev/Politician.git|Contributed|Politician
