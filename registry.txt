@@ -9141,3 +9141,4 @@ https://github.com/piglet0/haier2supla.git|Contributed|Haier2Supla
 https://github.com/rohitmaji004/RohitCore-Base.git|Contributed|RohitCore-Base
 https://github.com/rohitmaji004/RohitCore-Timer.git|Contributed|RohitCore-Timer
 https://github.com/0ldev/Politician.git|Contributed|Politician
+https://github.com/electronicstree/blendixserial-arduino.git|Contributed|blendixserial
