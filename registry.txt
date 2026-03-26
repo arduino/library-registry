@@ -9138,3 +9138,4 @@ https://github.com/nikki-build/nikki.unoR4.git|Contributed|nikki.unoR4
 https://github.com/nikki-build/nikki.esp8266.git|Contributed|nikki.esp8266
 https://github.com/shrawankhambekar/ESP32_CPWIFI.git|Contributed|ESP32_CPWIFI
 https://github.com/piglet0/haier2supla.git|Contributed|Haier2Supla
+https://github.com/rohitmaji004/RohitCore-Base.git|Contributed|RohitCore-Base
