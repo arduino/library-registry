@@ -9143,3 +9143,4 @@ https://github.com/rohitmaji004/RohitCore-Timer.git|Contributed|RohitCore-Timer
 https://github.com/0ldev/Politician.git|Contributed|Politician
 https://github.com/electronicstree/blendixserial-arduino.git|Contributed|blendixserial
 https://github.com/HijelHub/HijelHID_BLEMouse.git|Contributed|HijelHID_BLEMouse
+https://github.com/DIYables/DIYables_TFT_Shield_Mega.git|Contributed|DIYables TFT Shield Mega
