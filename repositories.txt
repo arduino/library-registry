@@ -9151,3 +9151,4 @@ https://github.com/piglet0/haier2supla
 https://github.com/0ldev/Politician
 https://github.com/electronicstree/blendixserial-arduino
 https://github.com/HijelHub/HijelHID_BLEMouse
+https://github.com/rleusden/LTC2944_BMS
