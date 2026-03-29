@@ -9150,3 +9150,4 @@ https://github.com/angeloINTJ/USBSnifferPIO_RP2040.git|Contributed|USBSnifferPIO
 https://github.com/hfdalkarim/Hafid.git|Contributed|Hafid
 https://github.com/sstaub/NTP3.git|Contributed|NTP3
 https://github.com/mumanchu/MultiTimerSAMD.git|Contributed|MultiTimerSAMD
+https://github.com/IowaScaledEngineering/mss-xcade-lib.git|Contributed|MSS-XCADE Control Library
