@@ -9151,3 +9151,4 @@ https://github.com/hfdalkarim/Hafid.git|Contributed|Hafid
 https://github.com/sstaub/NTP3.git|Contributed|NTP3
 https://github.com/mumanchu/MultiTimerSAMD.git|Contributed|MultiTimerSAMD
 https://github.com/IowaScaledEngineering/mss-xcade-lib.git|Contributed|MSS-XCADE Control Library
+https://github.com/mitutake0422/TeensyXENO.git|Contributed|TeensyXENO
