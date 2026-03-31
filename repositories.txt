@@ -1,4 +1,5 @@
 https://github.com/mumanchu/MultiTimerSAMD
+https://github.com/SolderedElectronics/Inkplate-LVGL-Library
 https://github.com/sstaub/NTP3
 https://github.com/nruimveld7/WILLOW
 https://github.com/DIYables/DIYables_TFT_Shield_Mega
