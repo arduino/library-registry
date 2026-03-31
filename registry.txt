@@ -9158,3 +9158,4 @@ https://github.com/JesRex700/HDrive.git|Contributed|HDrive
 https://github.com/DFRobot/DFRobot_STCC4.git|Contributed|DFRobot_STCC4
 https://github.com/ozobot/circuit_kit_library.git|Contributed|circuit_kit_library
 https://github.com/RobTillaart/HX712.git|Contributed|HX712
+https://github.com/SolderedElectronics/Inkplate-LVGL-Library.git|Contributed|Inkplate LVGL Library
