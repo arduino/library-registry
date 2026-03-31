@@ -9157,3 +9157,4 @@ https://github.com/Sensirion/arduino-i2c-sen62.git|Contributed|Sensirion I2C SEN
 https://github.com/JesRex700/HDrive.git|Contributed|HDrive
 https://github.com/DFRobot/DFRobot_STCC4.git|Contributed|DFRobot_STCC4
 https://github.com/ozobot/circuit_kit_library.git|Contributed|circuit_kit_library
+https://github.com/RobTillaart/HX712.git|Contributed|HX712
