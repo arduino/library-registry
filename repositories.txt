@@ -6110,6 +6110,7 @@ https://github.com/RobTillaart/HT16K33
 https://github.com/RobTillaart/HX710AB
 https://github.com/RobTillaart/HX711
 https://github.com/RobTillaart/HX711_MP
+https://github.com/RobTillaart/HX712
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_CAT24M01
