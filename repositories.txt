@@ -6675,6 +6675,7 @@ https://github.com/simonmonk/arduino_TEA5767
 https://github.com/Simpit-team/KerbalSimpitRevamped-Arduino
 https://github.com/simplefoc/Arduino-FOC-dcmotor
 https://github.com/simplefoc/Arduino-FOC-drivers
+https://github.com/simplefoc/SimpleCANio
 https://github.com/SimpleHacks/EzDmaHelper
 https://github.com/SimpleHacks/hw_rng
 https://github.com/SimpleHacks/QDEC
