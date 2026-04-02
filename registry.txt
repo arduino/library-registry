@@ -9166,3 +9166,4 @@ https://github.com/SaleemAkhter/synolinks-arduino.git|Contributed|SynoLinks
 https://github.com/Zo-dri/CharlieDisplay.git|Contributed|CharlieDisplay
 https://github.com/HamzaYslmn/esp32-localtunnel.git|Contributed|esp32-localtunnel
 https://github.com/HamzaYslmn/espfetch.git|Contributed|espfetch
+https://github.com/simplefoc/SimpleCANio.git|Contributed|SimpleCANio
