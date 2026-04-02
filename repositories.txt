@@ -9169,3 +9169,4 @@ https://github.com/mitutake0422/TeensyXENO
 https://github.com/ozobot/circuit_kit_library
 https://github.com/m5stack/M5Unit-KEYBOARD
 https://github.com/kaustavsaloi/VEGA_RV3028
+https://github.com/Zo-dri/CharlieDisplay
