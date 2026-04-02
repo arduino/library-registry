@@ -9169,3 +9169,4 @@ https://github.com/HamzaYslmn/espfetch.git|Contributed|espfetch
 https://github.com/simplefoc/SimpleCANio.git|Contributed|SimpleCANio
 https://github.com/RBEGamer/Arduino-PCA9848.git|Contributed|PCA9848
 https://github.com/RBEGamer/EEPROM_24xx025.git|Contributed|EEPROM_24AA025
+https://github.com/RBEGamer/ArduinoSFPDiagnostics.git|Contributed|Sfp
