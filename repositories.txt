@@ -9176,3 +9176,4 @@ https://github.com/kaustavsaloi/VEGA_RV3028
 https://github.com/Zo-dri/CharlieDisplay
 https://github.com/RBEGamer/Arduino-PCA9848
 https://github.com/RBEGamer/EEPROM_24xx025
+https://github.com/RBEGamer/ArduinoSFPDiagnostics
