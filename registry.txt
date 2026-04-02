@@ -9160,3 +9160,4 @@ https://github.com/ozobot/circuit_kit_library.git|Contributed|circuit_kit_librar
 https://github.com/RobTillaart/HX712.git|Contributed|HX712
 https://github.com/SolderedElectronics/Inkplate-LVGL-Library.git|Contributed|Inkplate LVGL Library
 https://github.com/kbmkrishnamali1992-hub/SIM800_GSM_GPRS_LIBRARY.git|Contributed|SIM800_GSM_GPRS
+https://github.com/m5stack/M5Unit-KEYBOARD.git|Contributed|M5Unit-KEYBOARD
