@@ -9161,3 +9161,4 @@ https://github.com/RobTillaart/HX712.git|Contributed|HX712
 https://github.com/SolderedElectronics/Inkplate-LVGL-Library.git|Contributed|Inkplate LVGL Library
 https://github.com/kbmkrishnamali1992-hub/SIM800_GSM_GPRS_LIBRARY.git|Contributed|SIM800_GSM_GPRS
 https://github.com/m5stack/M5Unit-KEYBOARD.git|Contributed|M5Unit-KEYBOARD
+https://github.com/kaustavsaloi/VEGA_RV3028.git|Contributed|VEGA_RV3028
