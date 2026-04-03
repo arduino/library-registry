@@ -9175,3 +9175,6 @@ https://github.com/mumanchu/OptimizedGPIO.git|Contributed|OptimizedGPIO
 https://github.com/MylonasDimitris/TFT35_V1_F407.git|Contributed|TFT35_V1_F407
 https://github.com/RobTillaart/markDownWriter.git|Contributed|markDownWriter
 https://github.com/Ignacy110/MC14489.git|Contributed|MC14489
+https://github.com/JW-Control/JW_MatrixButtons.git|Contributed|JW_MatrixButtons
+https://github.com/JW-Control/JW_DWIN_RS485.git|Contributed|JW_DWIN_RS485
+https://github.com/JW-Control/JW_FRAM.git|Contributed|JW_FRAM
