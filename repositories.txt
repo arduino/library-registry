@@ -42,6 +42,7 @@ https://github.com/CIRCUITSTATE/CSE_ESPMutex
 https://github.com/Xorlent/ESP32-EasyWolfSSL
 https://github.com/CodeyNacke/WF100DPZ
 https://github.com/mediocre9/voyager-ota-client
+https://github.com/ARDUTECH0/ATGenXIOT
 https://github.com/veersingh671/LuminOx
 https://github.com/lska-dev/microLCD.git
 https://github.com/ARDUTECH0/ATGENXlib-0.0.1
