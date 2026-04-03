@@ -9179,3 +9179,4 @@ https://github.com/Zo-dri/CharlieDisplay
 https://github.com/RBEGamer/Arduino-PCA9848
 https://github.com/RBEGamer/EEPROM_24xx025
 https://github.com/RBEGamer/ArduinoSFPDiagnostics
+https://github.com/MylonasDimitris/TFT35_V1_F407
