@@ -1,4 +1,7 @@
 https://github.com/JW-Control/JWMatrixButtons
+https://github.com/JW-Control/JW_MatrixButtons
+https://github.com/JW-Control/JW_DWIN_RS485
+https://github.com/JW-Control/JW_FRAM
 https://github.com/KravitzLabDevices/Tumbly
 https://github.com/Xorlent/ESP32_WS2812B
 https://github.com/NOXUSTIC/OnScreenKeyboard
