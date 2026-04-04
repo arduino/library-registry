@@ -9178,3 +9178,4 @@ https://github.com/Ignacy110/MC14489.git|Contributed|MC14489
 https://github.com/JW-Control/JW_MatrixButtons.git|Contributed|JW_MatrixButtons
 https://github.com/JW-Control/JW_DWIN_RS485.git|Contributed|JW_DWIN_RS485
 https://github.com/JW-Control/JW_FRAM.git|Contributed|JW_FRAM
+https://github.com/uutzinger/Arduino_DRV8704.git|Contributed|UUtzinger_DRV8704
