@@ -9180,3 +9180,4 @@ https://github.com/JW-Control/JW_DWIN_RS485.git|Contributed|JW_DWIN_RS485
 https://github.com/JW-Control/JW_FRAM.git|Contributed|JW_FRAM
 https://github.com/uutzinger/Arduino_DRV8704.git|Contributed|UUtzinger_DRV8704
 https://github.com/m0spak/AdditiveHW.git|Contributed|AdditiveHW
+https://github.com/rohitmaji004/RohitCore-Logger.git|Contributed|RohitCore-Logger
