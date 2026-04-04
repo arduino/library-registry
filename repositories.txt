@@ -4818,6 +4818,7 @@ https://github.com/mcmchris/mcm-grove-voltage-sensor
 https://github.com/mcmchris/mcm-esp32-ota-fw-updater
 https://github.com/MCUdude/KTMS1201
 https://github.com/MCUdude/SigmaDSP
+https://github.com/mcuw/LoRaBoards
 https://github.com/mcxiaoke/ESPDateTime
 https://github.com/MdelgadoL83/TapatioElectronics
 https://github.com/mdkendall/ThingpingsLib
