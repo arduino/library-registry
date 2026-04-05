@@ -9184,3 +9184,4 @@ https://github.com/rohitmaji004/RohitCore-Logger.git|Contributed|RohitCore-Logge
 https://github.com/rohitmaji004/RohitCore-Sensor.git|Contributed|RohitCore-Sensor
 https://github.com/Mizar03110/LoRaDomo.git|Contributed|LoRaDomo
 https://github.com/mcuw/LoRaBoards.git|Contributed|MCUW_LoRa_boards
+https://github.com/darklazy/MWTimeout.git|Contributed|MWTimeout
