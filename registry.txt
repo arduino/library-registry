@@ -9186,3 +9186,4 @@ https://github.com/Mizar03110/LoRaDomo.git|Contributed|LoRaDomo
 https://github.com/mcuw/LoRaBoards.git|Contributed|MCUW_LoRa_boards
 https://github.com/darklazy/MWTimeout.git|Contributed|MWTimeout
 https://github.com/OpenSynaptic/OSynaptic-FX.git|Contributed|OSynaptic-FX
+https://github.com/adafruit/Adafruit_VL53L5.git|Recommended|Adafruit VL53L5CX
