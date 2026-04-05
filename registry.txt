@@ -9185,3 +9185,4 @@ https://github.com/rohitmaji004/RohitCore-Sensor.git|Contributed|RohitCore-Senso
 https://github.com/Mizar03110/LoRaDomo.git|Contributed|LoRaDomo
 https://github.com/mcuw/LoRaBoards.git|Contributed|MCUW_LoRa_boards
 https://github.com/darklazy/MWTimeout.git|Contributed|MWTimeout
+https://github.com/OpenSynaptic/OSynaptic-FX.git|Contributed|OSynaptic-FX
