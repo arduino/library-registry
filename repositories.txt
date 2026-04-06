@@ -1,4 +1,6 @@
 https://github.com/tl5915/Buehlmann-ZHL-16C
+https://github.com/OpenSynaptic/OSynaptic-TX
+https://github.com/OpenSynaptic/OSynaptic-RX
 https://github.com/rohitmaji004/RohitCore-Sensor
 https://github.com/rohitmaji004/RohitCore-Logger
 https://github.com/JW-Control/JW_MatrixButtons
