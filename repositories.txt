@@ -9200,3 +9200,4 @@ https://github.com/7semi-solutions/7Semi-BMP585
 https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor
 https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library
 https://github.com/7semi-solutions/7Semi_BMI330
+https://github.com/7semi-solutions/7Semi-SGP4x
