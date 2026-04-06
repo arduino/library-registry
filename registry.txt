@@ -9190,3 +9190,4 @@ https://github.com/adafruit/Adafruit_VL53L5.git|Recommended|Adafruit VL53L5CX
 https://github.com/7semi-solutions/7Semi-MMC5983MA-3-axis-Magnetic-Sensor-Arduino-Library.git|Contributed|7Semi_MMC5983MA
 https://github.com/7semi-solutions/7Semi-ISM330DHCX.git|Contributed|7Semi_ISM330DHCX
 https://github.com/7semi-solutions/7Semi-BMP585.git|Contributed|7Semi_BMP585
+https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor.git|Contributed|7Semi BMV080
