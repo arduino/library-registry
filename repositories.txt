@@ -9195,3 +9195,4 @@ https://github.com/OpenSynaptic/OSynaptic-FX
 https://github.com/Mizar03110/LoRaDomo
 https://github.com/darklazy/MWTimeout
 https://github.com/7semi-solutions/7Semi-MMC5983MA-3-axis-Magnetic-Sensor-Arduino-Library
+https://github.com/7semi-solutions/7Semi-ISM330DHCX
