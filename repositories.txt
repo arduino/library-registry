@@ -9197,3 +9197,4 @@ https://github.com/darklazy/MWTimeout
 https://github.com/7semi-solutions/7Semi-MMC5983MA-3-axis-Magnetic-Sensor-Arduino-Library
 https://github.com/7semi-solutions/7Semi-ISM330DHCX
 https://github.com/7semi-solutions/7Semi-BMP585
+https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor
