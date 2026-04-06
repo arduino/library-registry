@@ -9187,3 +9187,4 @@ https://github.com/mcuw/LoRaBoards.git|Contributed|MCUW_LoRa_boards
 https://github.com/darklazy/MWTimeout.git|Contributed|MWTimeout
 https://github.com/OpenSynaptic/OSynaptic-FX.git|Contributed|OSynaptic-FX
 https://github.com/adafruit/Adafruit_VL53L5.git|Recommended|Adafruit VL53L5CX
+https://github.com/7semi-solutions/7Semi-MMC5983MA-3-axis-Magnetic-Sensor-Arduino-Library.git|Contributed|7Semi_MMC5983MA
