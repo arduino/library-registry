@@ -9202,3 +9202,4 @@ https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Lib
 https://github.com/7semi-solutions/7Semi_BMI330
 https://github.com/7semi-solutions/7Semi-SGP4x
 https://github.com/7semi-solutions/7Semi-MAX31855-Thermocouple-Amplifier
+https://github.com/7semi-solutions/7Semi-BMI270
