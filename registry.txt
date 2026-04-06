@@ -9194,3 +9194,4 @@ https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor.git|Co
 https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library.git|Contributed|7Semi BME280
 https://github.com/7semi-solutions/7Semi_BMI330.git|Contributed|7Semi_BMI330
 https://github.com/7semi-solutions/7Semi-SGP4x.git|Contributed|7Semi_SGP4x
+https://github.com/7semi-solutions/7Semi-MAX31855-Thermocouple-Amplifier.git|Contributed|7Semi MAX31855
