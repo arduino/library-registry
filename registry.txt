@@ -9193,3 +9193,4 @@ https://github.com/7semi-solutions/7Semi-BMP585.git|Contributed|7Semi_BMP585
 https://github.com/7semi-solutions/7Semi-BMV080-Particulate-Matter-Sensor.git|Contributed|7Semi BMV080
 https://github.com/7semi-solutions/7Semi-BME280-Environmental-Sensor-Arduino-Library.git|Contributed|7Semi BME280
 https://github.com/7semi-solutions/7Semi_BMI330.git|Contributed|7Semi_BMI330
+https://github.com/7semi-solutions/7Semi-SGP4x.git|Contributed|7Semi_SGP4x
