@@ -9198,3 +9198,4 @@ https://github.com/7semi-solutions/7Semi-MAX31855-Thermocouple-Amplifier.git|Con
 https://github.com/7semi-solutions/7Semi-BMI270.git|Contributed|7Semi BMI270
 https://github.com/7semi-solutions/7Semi-LPS28DFW.git|Contributed|7Semi_LPS28DFW
 https://github.com/7semi-solutions/7Semi-BMI323.git|Contributed|7Semi BMI323
+https://github.com/adafruit/Adafruit_VL53L7.git|Recommended|Adafruit VL53L7CX
