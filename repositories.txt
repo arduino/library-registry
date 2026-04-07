@@ -9218,3 +9218,4 @@ https://github.com/7semi-solutions/7Semi-BME68x
 https://github.com/7semi-solutions/7Semi-BMP58x-Pressure-Sensor
 https://github.com/7semi-solutions/7Semi-VEML7700
 https://github.com/7semi-solutions/7Semi-STS3x
+https://github.com/7semi-solutions/7Semi_MAX31856
