@@ -9208,3 +9208,4 @@ https://github.com/7semi-solutions/7Semi-MLX90393.git|Contributed|7Semi MLX90393
 https://github.com/7semi-solutions/7Semi-TMP102.git|Contributed|7Semi-TMP102
 https://github.com/7semi-solutions/7Semi-DAC7578.git|Contributed|7Semi DAC7578
 https://github.com/7semi-solutions/7Semi-BME68x.git|Contributed|7Semi_BME68x
+https://github.com/7semi-solutions/7Semi-BMP58x-Pressure-Sensor.git|Contributed|7Semi BMP58x
