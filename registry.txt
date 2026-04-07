@@ -9206,3 +9206,4 @@ https://github.com/DIYables/DIYables-LCD-I2C.git|Contributed|DIYables LCD I2C
 https://github.com/7semi-solutions/7Semi-BMP348.git|Contributed|7Semi BMP384
 https://github.com/7semi-solutions/7Semi-MLX90393.git|Contributed|7Semi MLX90393
 https://github.com/7semi-solutions/7Semi-TMP102.git|Contributed|7Semi-TMP102
+https://github.com/7semi-solutions/7Semi-DAC7578.git|Contributed|7Semi DAC7578
