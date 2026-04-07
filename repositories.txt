@@ -5323,6 +5323,7 @@ https://github.com/OtacilioN/Brasilino
 https://github.com/otadrive/OTAdriveESP
 https://github.com/OttoDIY/OttoDIYLib
 https://github.com/outofambit/easy-neopixels
+https://github.com/ovexro/trellis
 https://github.com/oxullo/Arduino-MAX30100
 https://github.com/oxullo/Arduino-TCM2
 https://github.com/ozhantr/DigitLedDisplay
