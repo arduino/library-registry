@@ -9213,3 +9213,4 @@ https://github.com/7semi-solutions/7Semi-BMI323
 https://github.com/7semi-solutions/7Semi-BMP348
 https://github.com/7semi-solutions/7Semi-MLX90393
 https://github.com/7semi-solutions/7Semi-TMP102
+https://github.com/7semi-solutions/7Semi-DAC7578
