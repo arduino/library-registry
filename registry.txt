@@ -9218,3 +9218,4 @@ https://github.com/7semi-solutions/7Semi-STS4x.git|Contributed|7Semi STS4x
 https://github.com/IdlanZafran/RapidBootWifi.git|Contributed|RapidBootWiFi
 https://github.com/ovexro/trellis.git|Contributed|Trellis
 https://github.com/tl5915/magnetometer_calibration.git|Contributed|magnetometer_calibration
+https://github.com/JorgeGBeltre/ESP32_MQTTv5.git|Contributed|ESP32_MQTTv5
