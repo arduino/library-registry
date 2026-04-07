@@ -9203,3 +9203,4 @@ https://github.com/tl5915/Buehlmann-ZHL-16C.git|Contributed|Buehlmann ZHL-16C
 https://github.com/OpenSynaptic/OSynaptic-TX.git|Contributed|OSynaptic-TX
 https://github.com/OpenSynaptic/OSynaptic-RX.git|Contributed|OSynaptic-RX
 https://github.com/DIYables/DIYables-LCD-I2C.git|Contributed|DIYables LCD I2C
+https://github.com/7semi-solutions/7Semi-BMP348.git|Contributed|7Semi BMP384
