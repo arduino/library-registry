@@ -2863,7 +2863,7 @@ https://github.com/EmotiBit/EmotiBit_MAX30101
 https://github.com/EmotiBit/EmotiBit_MLX90632
 https://github.com/EmotiBit/EmotiBit_NCP5623
 https://github.com/EmotiBit/EmotiBit_XPlat_Utils
-https://github.com/eNBeWe/MiCS6814-I2C-Library
+https://codeberg.org/eNBeWe/MiCS6814-I2C-Library
 https://github.com/end2endzone/AnyRtttl
 https://github.com/end2endzone/BitReader
 https://github.com/end2endzone/NonBlockingRTTTL
