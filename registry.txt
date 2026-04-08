@@ -9219,3 +9219,4 @@ https://github.com/IdlanZafran/RapidBootWifi.git|Contributed|RapidBootWiFi
 https://github.com/ovexro/trellis.git|Contributed|Trellis
 https://github.com/tl5915/magnetometer_calibration.git|Contributed|magnetometer_calibration
 https://github.com/JorgeGBeltre/ESP32_MQTTv5.git|Contributed|ESP32_MQTTv5
+https://github.com/m5stack/M5Module-QRCode.git|Contributed|M5Module-QRCode
