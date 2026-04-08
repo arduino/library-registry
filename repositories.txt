@@ -9228,3 +9228,4 @@ https://github.com/7semi-solutions/7Semi-ENS210
 https://github.com/7semi-solutions/7Semi-STS4x
 https://github.com/JorgeGBeltre/ESP32_MQTTv5
 https://github.com/m5stack/M5Module-QRCode
+https://github.com/7semi-solutions/7Semi-TMP23x
