@@ -9221,3 +9221,4 @@ https://github.com/tl5915/magnetometer_calibration.git|Contributed|magnetometer_
 https://github.com/JorgeGBeltre/ESP32_MQTTv5.git|Contributed|ESP32_MQTTv5
 https://github.com/m5stack/M5Module-QRCode.git|Contributed|M5Module-QRCode
 https://github.com/DIYables/DIYables-Multi-Function-Shield.git|Contributed|DIYables_MultiFuncShield
+https://github.com/7semi-solutions/7Semi-TMP23x.git|Contributed|7Semi TMP23x
