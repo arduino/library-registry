@@ -9225,3 +9225,4 @@ https://github.com/7semi-solutions/7Semi-TMP23x.git|Contributed|7Semi TMP23x
 https://github.com/IlVin/QMan.git|Contributed|QMan
 https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library.git|Contributed|ESP32_Multitasking_Network_Suite
 https://github.com/ulywae/NeuEEPROM.git|Contributed|NeuEEPROM
+https://github.com/DIYables/DIYables-Mini-Mp3.git|Contributed|DIYables_MiniMp3
