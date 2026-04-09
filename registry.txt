@@ -9229,3 +9229,4 @@ https://github.com/DIYables/DIYables-Mini-Mp3.git|Contributed|DIYables_MiniMp3
 https://github.com/sensirion/arduino-i2c-sgp43.git|Contributed|SensirionI2cSgp43
 https://github.com/LearnPRG-py/Vectorial.git|Contributed|Vectorial
 https://github.com/agusevtec/eva-motors.git|Contributed|eva-motors
+https://github.com/Adriano-Severino/ASXNanoStreamEncoder.git|Contributed|ASXNanoStream
