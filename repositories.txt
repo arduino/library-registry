@@ -9235,3 +9235,4 @@ https://github.com/7semi-solutions/7Semi-TMP23x
 https://github.com/IlVin/QMan
 https://github.com/ulywae/NeuEEPROM
 https://github.com/LearnPRG-py/Vectorial
+https://github.com/agusevtec/eva-motors
