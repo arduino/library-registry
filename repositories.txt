@@ -3427,7 +3427,7 @@ https://github.com/HakkanR/DMD2TUR
 https://github.com/HakkanR/slowAES
 https://github.com/HakkanR/SSD1306TUR
 https://github.com/HamzaYslmn/detaBaseESP8266
-https://github.com/HamzaYslmn/Esp32-RTOS-Serial
+https://github.com/HamzaYslmn/esp-rtosSerial
 https://github.com/HamzaYslmn/esp32-tunnel
 https://github.com/HamzaYslmn/espfetch
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
