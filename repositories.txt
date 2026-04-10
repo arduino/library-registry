@@ -7689,6 +7689,7 @@ https://github.com/vortigont/pzem-edl/
 https://github.com/vovagorodok/ArduinoBleChess
 https://github.com/vovagorodok/ArduinoBleOTA
 https://github.com/vovagorodok/ArduinoBleBattery
+https://github.com/vovagorodok/ArduinoBleSerial
 https://github.com/vovagorodok/ArduinoPin
 https://github.com/vovagorodok/ArduinoBuzzer
 https://github.com/vovagorodok/ArduinoStreamLogger
