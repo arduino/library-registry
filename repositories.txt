@@ -9237,3 +9237,4 @@ https://github.com/ulywae/NeuEEPROM
 https://github.com/LearnPRG-py/Vectorial
 https://github.com/agusevtec/eva-motors
 https://github.com/Adriano-Severino/ASXNanoStreamEncoder
+https://github.com/RPaulT/RotaryEncoder
