@@ -9233,3 +9233,4 @@ https://github.com/Adriano-Severino/ASXNanoStreamEncoder.git|Contributed|ASXNano
 https://github.com/RPaulT/AdvancedRotaryEncoder.git|Contributed|AdvancedRotaryEncoder
 https://github.com/IdlanZafran/ThingsSentral.git|Contributed|ThingsSentral
 https://github.com/dunknowcoding/INA_series_sensor.git|Contributed|INA Series Sensor
+https://github.com/vovagorodok/ArduinoBleSerial.git|Contributed|vovagorodok_ArduinoBleSerial
