@@ -9232,3 +9232,4 @@ https://github.com/agusevtec/eva-motors.git|Contributed|eva-motors
 https://github.com/Adriano-Severino/ASXNanoStreamEncoder.git|Contributed|ASXNanoStream
 https://github.com/RPaulT/AdvancedRotaryEncoder.git|Contributed|AdvancedRotaryEncoder
 https://github.com/IdlanZafran/ThingsSentral.git|Contributed|ThingsSentral
+https://github.com/dunknowcoding/INA_series_sensor.git|Contributed|INA Series Sensor
