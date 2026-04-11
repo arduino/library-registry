@@ -9243,3 +9243,4 @@ https://github.com/IdlanZafran/ThingsSentral
 https://github.com/dunknowcoding/INA_series_sensor
 https://github.com/MassiveButDynamic/CANduino
 https://github.com/Nocturnailed-Community/NocML
+https://github.com/Nocturnailed-Community/NocKinematics
