@@ -9234,3 +9234,4 @@ https://github.com/RPaulT/AdvancedRotaryEncoder.git|Contributed|AdvancedRotaryEn
 https://github.com/IdlanZafran/ThingsSentral.git|Contributed|ThingsSentral
 https://github.com/dunknowcoding/INA_series_sensor.git|Contributed|INA Series Sensor
 https://github.com/vovagorodok/ArduinoBleSerial.git|Contributed|vovagorodok_ArduinoBleSerial
+https://github.com/MassiveButDynamic/CANduino.git|Contributed|CANduino
