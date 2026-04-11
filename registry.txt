@@ -9237,3 +9237,4 @@ https://github.com/vovagorodok/ArduinoBleSerial.git|Contributed|vovagorodok_Ardu
 https://github.com/MassiveButDynamic/CANduino.git|Contributed|CANduino
 https://github.com/Nocturnailed-Community/NocML.git|Contributed|NocML
 https://github.com/Nocturnailed-Community/NocKinematics.git|Contributed|NocKinematics
+https://github.com/Nocturnailed-Community/NocLLM.git|Contributed|NocLLM
