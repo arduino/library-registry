@@ -9236,3 +9236,4 @@ https://github.com/dunknowcoding/INA_series_sensor.git|Contributed|INA Series Se
 https://github.com/vovagorodok/ArduinoBleSerial.git|Contributed|vovagorodok_ArduinoBleSerial
 https://github.com/MassiveButDynamic/CANduino.git|Contributed|CANduino
 https://github.com/Nocturnailed-Community/NocML.git|Contributed|NocML
+https://github.com/Nocturnailed-Community/NocKinematics.git|Contributed|NocKinematics
