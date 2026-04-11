@@ -9241,3 +9241,4 @@ https://github.com/Adriano-Severino/ASXNanoStreamEncoder
 https://github.com/RPaulT/AdvancedRotaryEncoder
 https://github.com/IdlanZafran/ThingsSentral
 https://github.com/dunknowcoding/INA_series_sensor
+https://github.com/MassiveButDynamic/CANduino
