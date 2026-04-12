@@ -1,3 +1,4 @@
+https://github.com/mjdonders/HeapSafeLog
 https://github.com/rohitmaji004/RohitCore-Telemetry
 https://github.com/rohitmaji004/RohitCore-Communication
 https://github.com/DIYables/DIYables-Mini-Mp3
