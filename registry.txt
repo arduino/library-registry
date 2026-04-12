@@ -9239,3 +9239,4 @@ https://github.com/Nocturnailed-Community/NocML.git|Contributed|NocML
 https://github.com/Nocturnailed-Community/NocKinematics.git|Contributed|NocKinematics
 https://github.com/Nocturnailed-Community/NocLLM.git|Contributed|NocLLM
 https://github.com/ulywae/ButtonPoll.git|Contributed|ButtonPoll
+https://github.com/ulywae/NeuFrame.git|Contributed|NeuFrame
