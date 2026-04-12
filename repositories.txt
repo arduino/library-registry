@@ -9250,3 +9250,4 @@ https://github.com/Nocturnailed-Community/NocLLM
 https://github.com/ulywae/ButtonPoll
 https://github.com/Japs35/NTC_Temp
 https://github.com/ulywae/NeuFrame
+https://github.com/v7rc/V7RCRobot-ESP32
