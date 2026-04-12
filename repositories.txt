@@ -1,3 +1,5 @@
+https://github.com/rohitmaji004/RohitCore-Telemetry
+https://github.com/rohitmaji004/RohitCore-Communication
 https://github.com/DIYables/DIYables-Mini-Mp3
 https://github.com/BojanJurca/Multitasking-Http-Ftp-Telnet-Ntp-Smtp-Servers-and-clients-for-ESP32-Arduino-Library
 https://github.com/DIYables/DIYables-Multi-Function-Shield
@@ -9247,3 +9249,4 @@ https://github.com/Nocturnailed-Community/NocKinematics
 https://github.com/Nocturnailed-Community/NocLLM
 https://github.com/ulywae/ButtonPoll
 https://github.com/Japs35/NTC_Temp
+https://github.com/ulywae/NeuFrame
