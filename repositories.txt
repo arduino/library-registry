@@ -9248,4 +9248,5 @@ https://github.com/Nocturnailed-Community/NocML
 https://github.com/Nocturnailed-Community/NocKinematics
 https://github.com/Nocturnailed-Community/NocLLM
 https://github.com/ulywae/ButtonPoll
+https://github.com/Japs35/NTC_Temp
 https://github.com/ulywae/NeuFrame
