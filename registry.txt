@@ -9240,3 +9240,4 @@ https://github.com/Nocturnailed-Community/NocKinematics.git|Contributed|NocKinem
 https://github.com/Nocturnailed-Community/NocLLM.git|Contributed|NocLLM
 https://github.com/ulywae/ButtonPoll.git|Contributed|ButtonPoll
 https://github.com/ulywae/NeuFrame.git|Contributed|NeuFrame
+https://github.com/rohitmaji004/RohitCore-Communication.git|Contributed|RohitCore-Communication
