@@ -9243,3 +9243,4 @@ https://github.com/ulywae/NeuFrame.git|Contributed|NeuFrame
 https://github.com/rohitmaji004/RohitCore-Communication.git|Contributed|RohitCore-Communication
 https://github.com/rohitmaji004/RohitCore-Telemetry.git|Contributed|RohitCore-Telemetry
 https://github.com/Japs35/NTC_Temp.git|Contributed|NTC_Temp
+https://github.com/v7rc/V7RCRobot-ESP32.git|Contributed|V7RCRobot-ESP32
