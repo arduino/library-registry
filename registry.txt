@@ -9248,3 +9248,4 @@ https://github.com/mjdonders/HeapSafeLog.git|Contributed|HeapSafeLog
 https://github.com/SlaydDev/SteadyPing.git|Contributed|SteadyPing
 https://github.com/YFROBOT-TM/Yfrobot-VC-Library.git|Contributed|YFrobot VC Library
 https://github.com/sciosense/ufc23-arduino.git|Contributed|ScioSense_UFC23
+https://github.com/rohitmaji004/RohitCore-Storage.git|Contributed|RohitCore-Storage
