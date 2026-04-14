@@ -9258,3 +9258,4 @@ https://github.com/ulywae/NeuFrame
 https://github.com/v7rc/V7RCRobot-ESP32
 https://github.com/SlaydDev/SteadyPing
 https://github.com/m5stack/M5Unit-NFC
+https://github.com/ulywae/NeuNVS
