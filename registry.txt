@@ -9253,3 +9253,4 @@ https://github.com/mumanchu/TMC22xxDriver.git|Contributed|TMC22xxDriver
 https://github.com/m5stack/M5Unit-NFC.git|Contributed|M5Unit-NFC
 https://github.com/ulywae/NeuNVS.git|Contributed|NeuNVS
 https://github.com/FBSeletronica/ESPNowProtocol.git|Contributed|ESPNowProtocol
+https://github.com/JorgeGBeltre/MQTTOTAv5.git|Contributed|MQTTOTAv5
