@@ -9250,3 +9250,4 @@ https://github.com/YFROBOT-TM/Yfrobot-VC-Library.git|Contributed|YFrobot VC Libr
 https://github.com/sciosense/ufc23-arduino.git|Contributed|ScioSense_UFC23
 https://github.com/rohitmaji004/RohitCore-Storage.git|Contributed|RohitCore-Storage
 https://github.com/mumanchu/TMC22xxDriver.git|Contributed|TMC22xxDriver
+https://github.com/m5stack/M5Unit-NFC.git|Contributed|M5Unit-NFC
