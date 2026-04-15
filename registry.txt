@@ -9257,3 +9257,4 @@ https://github.com/JorgeGBeltre/MQTTOTAv5.git|Contributed|MQTTOTAv5
 https://github.com/ToSStudio/LT7683.git|Contributed|LT7683
 https://github.com/UNIT-Electronics-MX/unit_dvi_hstx_library.git|Contributed|UDVI HSTX
 https://github.com/rgot-org/CoVACIEL-ESP32.git|Contributed|CoVACIEL
+https://github.com/jayasankar-jp/SmartProcess.git|Contributed|SmartProcess
