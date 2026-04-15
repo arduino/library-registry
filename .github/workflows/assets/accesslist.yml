@@ -14,10 +14,6 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/6269#pullrequestreview-2813557457
 - host: github.com
-  name: 7Semi
-  access: deny
-  reference: https://github.com/arduino/library-registry/pull/5734#pullrequestreview-2548818476
-- host: github.com
   name: ajangrahmat
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
@@ -38,6 +34,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/6514#pullrequestreview-2969201873
 - host: github.com
+  name: jaderobotics-AN
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/7270#issuecomment-3551554185
+- host: github.com
   name: kelasrobot
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
@@ -46,6 +46,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4422#issuecomment-2589051618
 - host: github.com
+  name: Rmin-code2005
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/7350#issuecomment-3611960375
+- host: github.com
   name: vpbharath
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4873#issuecomment-2589138298
@@ -53,3 +57,7 @@
   name: YoavPaz
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5741#issuecomment-2589016403
+- host: github.com
+  name: tremaru
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/6697
