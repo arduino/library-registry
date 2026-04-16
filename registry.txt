@@ -9260,3 +9260,4 @@ https://github.com/rgot-org/CoVACIEL-ESP32.git|Contributed|CoVACIEL
 https://github.com/jayasankar-jp/SmartProcess.git|Contributed|SmartProcess
 https://github.com/joseluu/adc128d818_driver.git|Contributed|ADC128D818
 https://github.com/DIYables/DIYables-DC-Motor.git|Contributed|DIYables_DC_Motor
+https://github.com/SeventyFourProductions/TFTGraph.git|Contributed|TFTGraph
