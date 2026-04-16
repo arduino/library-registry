@@ -1,3 +1,4 @@
+https://github.com/DIYables/DIYables-DC-Motor
 https://github.com/jayasankar-jp/SmartProcess
 https://github.com/mumanchu/TMC22xxDriver
 https://github.com/rohitmaji004/RohitCore-Storage
