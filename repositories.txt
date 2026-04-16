@@ -6306,6 +6306,7 @@ https://github.com/RobTillaart/SWSerialOut
 https://github.com/RobTillaart/SWSPI
 https://github.com/RobTillaart/TCA6408A_RT
 https://github.com/RobTillaart/TCA6416A_RT
+https://github.com/RobTillaart/TCA6424A_RT
 https://github.com/RobTillaart/TCA9548
 https://github.com/RobTillaart/TCA9554
 https://github.com/RobTillaart/TCA9555
