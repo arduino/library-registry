@@ -9272,3 +9272,4 @@ https://github.com/ToSStudio/LT7683
 https://github.com/joseluu/adc128d818_driver
 https://github.com/mulberry4275/EspNowDev
 https://github.com/SeventyFourProductions/TFTGraph
+https://github.com/blackhack/ES32D26PLC
