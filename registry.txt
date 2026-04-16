@@ -9262,3 +9262,4 @@ https://github.com/joseluu/adc128d818_driver.git|Contributed|ADC128D818
 https://github.com/DIYables/DIYables-DC-Motor.git|Contributed|DIYables_DC_Motor
 https://github.com/SeventyFourProductions/TFTGraph.git|Contributed|TFTGraph
 https://github.com/mulberry4275/EspNowDev.git|Contributed|EspNowDev
+https://github.com/RobTillaart/TCA6408A_RT.git|Contributed|TCA6408A_RT
