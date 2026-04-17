@@ -9250,7 +9250,7 @@ https://github.com/7semi-solutions/7Semi-VEML7700
 https://github.com/7semi-solutions/7Semi-STS3x
 https://github.com/7semi-solutions/7Semi_MAX31856
 https://github.com/7semi-solutions/7Semi_TMAG5273-3D-Hall-Effect-Sensor
-https://github.com/IdlanZafran/RapidBootWifi
+https://github.com/IdlanZafran/RapidBootWiFi
 https://github.com/7semi-solutions/7Semi-ENS210
 https://github.com/7semi-solutions/7Semi-STS4x
 https://github.com/JorgeGBeltre/ESP32_MQTTv5
