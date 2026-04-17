@@ -9286,3 +9286,4 @@ https://github.com/Masud744/SmartProv
 https://github.com/Nocturnailed-Community/NocMotion
 https://github.com/SethKinzel/EasyJoystick
 https://github.com/nawawimegahertz/IndustrialSense.git
+https://github.com/specledcomua-creator/SenseAir_S88.git
