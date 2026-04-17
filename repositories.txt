@@ -1,3 +1,8 @@
+https://github.com/tdk-invn-oss/motion.arduino.ICM45687
+https://github.com/tdk-invn-oss/motion.arduino.ICM56622
+https://github.com/tdk-invn-oss/motion.arduino.ICM56686
+https://github.com/tdk-invn-oss/motion.arduino.ICM45606
+https://github.com/tdk-invn-oss/motion.arduino.ICM45685
 https://github.com/apadevices/DS2482
 https://github.com/apadevices/APAPHX2_ADS1115
 https://github.com/DIYables/DIYables_4Digit7Segment_TM1637
