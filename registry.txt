@@ -9215,7 +9215,7 @@ https://github.com/7semi-solutions/7Semi_MAX31856.git|Contributed|7Semi_MAX31856
 https://github.com/7semi-solutions/7Semi_TMAG5273-3D-Hall-Effect-Sensor.git|Contributed|7Semi_TMAG5273
 https://github.com/7semi-solutions/7Semi-ENS210.git|Contributed|7Semi ENS210
 https://github.com/7semi-solutions/7Semi-STS4x.git|Contributed|7Semi STS4x
-https://github.com/IdlanZafran/RapidBootWifi.git|Contributed|RapidBootWiFi
+https://github.com/IdlanZafran/RapidBootWiFi.git|Contributed|RapidBootWiFi
 https://github.com/ovexro/trellis.git|Contributed|Trellis
 https://github.com/tl5915/magnetometer_calibration.git|Contributed|magnetometer_calibration
 https://github.com/JorgeGBeltre/ESP32_MQTTv5.git|Contributed|ESP32_MQTTv5
