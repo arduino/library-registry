@@ -9272,3 +9272,8 @@ https://github.com/Nocturnailed-Community/NocMotion.git|Contributed|NocMotion
 https://github.com/DIYables/DIYables_4Digit7Segment_TM1637.git|Contributed|DIYables_4Digit7Segment_TM1637
 https://github.com/apadevices/APAPHX2_ADS1115.git|Contributed|APAPHX2_ADS1115
 https://github.com/apadevices/DS2482.git|Contributed|DS2482
+https://github.com/tdk-invn-oss/motion.arduino.ICM45687.git|Contributed|ICM45687
+https://github.com/tdk-invn-oss/motion.arduino.ICM56622.git|Contributed|ICM56622
+https://github.com/tdk-invn-oss/motion.arduino.ICM56686.git|Contributed|ICM56686
+https://github.com/tdk-invn-oss/motion.arduino.ICM45606.git|Contributed|ICM45606
+https://github.com/tdk-invn-oss/motion.arduino.ICM45685.git|Contributed|ICM45685
