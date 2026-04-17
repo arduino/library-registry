@@ -9279,3 +9279,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM45606.git|Contributed|ICM45606
 https://github.com/tdk-invn-oss/motion.arduino.ICM45685.git|Contributed|ICM45685
 https://github.com/nawawimegahertz/IndustrialSense.git|Contributed|IndustrialSense
 https://github.com/SethKinzel/EasyJoystick.git|Contributed|EasyJoystick
+https://github.com/specledcomua-creator/SenseAir_S88.git|Contributed|SenseAir_S88_Async
