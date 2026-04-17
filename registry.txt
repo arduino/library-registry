@@ -9269,3 +9269,4 @@ https://github.com/blackhack/ES32D26PLC.git|Contributed|ES32D26PLC
 https://github.com/Masud744/SmartProv.git|Contributed|SmartProv
 https://github.com/You-010/GY33_Arduino.git|Contributed|GY33_Colour_Sensor
 https://github.com/Nocturnailed-Community/NocMotion.git|Contributed|NocMotion
+https://github.com/DIYables/DIYables_4Digit7Segment_TM1637.git|Contributed|DIYables_4Digit7Segment_TM1637
