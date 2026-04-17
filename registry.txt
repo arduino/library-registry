@@ -9277,3 +9277,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM56622.git|Contributed|ICM56622
 https://github.com/tdk-invn-oss/motion.arduino.ICM56686.git|Contributed|ICM56686
 https://github.com/tdk-invn-oss/motion.arduino.ICM45606.git|Contributed|ICM45606
 https://github.com/tdk-invn-oss/motion.arduino.ICM45685.git|Contributed|ICM45685
+https://github.com/nawawimegahertz/IndustrialSense.git|Contributed|IndustrialSense
