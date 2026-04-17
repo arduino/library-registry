@@ -9285,3 +9285,4 @@ https://github.com/blackhack/ES32D26PLC
 https://github.com/Masud744/SmartProv
 https://github.com/Nocturnailed-Community/NocMotion
 https://github.com/SethKinzel/EasyJoystick
+https://github.com/nawawimegahertz/IndustrialSense.git
