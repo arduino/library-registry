@@ -9267,3 +9267,4 @@ https://github.com/RobTillaart/TCA6416A_RT.git|Contributed|TCA6416A_RT
 https://github.com/RobTillaart/TCA6424A_RT.git|Contributed|TCA6424A_RT
 https://github.com/blackhack/ES32D26PLC.git|Contributed|ES32D26PLC
 https://github.com/Masud744/SmartProv.git|Contributed|SmartProv
+https://github.com/You-010/GY33_Arduino.git|Contributed|GY33_Colour_Sensor
