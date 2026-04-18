@@ -9281,3 +9281,4 @@ https://github.com/nawawimegahertz/IndustrialSense.git|Contributed|IndustrialSen
 https://github.com/SethKinzel/EasyJoystick.git|Contributed|EasyJoystick
 https://github.com/specledcomua-creator/SenseAir_S88.git|Contributed|SenseAir_S88_Async
 https://github.com/YFROBOT-TM/Yfrobot_MP3V3_Library.git|Contributed|Yfrobot MP3 V3
+https://github.com/jayasankar-jp/Menu-Creator.git|Contributed|MenuCreator
