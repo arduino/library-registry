@@ -7881,6 +7881,7 @@ https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library
 https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library
 https://github.com/YFROBOT-TM/Yfrobot-Keypad-Library
 https://github.com/YFROBOT-TM/Yfrobot-VC-Library
+https://github.com/YFROBOT-TM/Yfrobot_MP3V3_Library
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/YiannisBourkelis/Uptime-Library
