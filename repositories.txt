@@ -9292,3 +9292,4 @@ https://github.com/SethKinzel/EasyJoystick
 https://github.com/nawawimegahertz/IndustrialSense.git
 https://github.com/specledcomua-creator/SenseAir_S88.git
 https://github.com/Motyl-sk/DS18B20_RMT
+https://github.com/atsign-foundation/at_client_arduino.git
