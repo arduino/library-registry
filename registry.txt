@@ -9284,3 +9284,4 @@ https://github.com/YFROBOT-TM/Yfrobot_MP3V3_Library.git|Contributed|Yfrobot MP3 
 https://github.com/jayasankar-jp/Menu-Creator.git|Contributed|MenuCreator
 https://github.com/RobTillaart/FSR40X.git|Contributed|FSR40X
 https://github.com/EvdokimovVladimir/RM3100.git|Contributed|RM3100-Arduino
+https://github.com/atsign-foundation/at_client_arduino.git|Contributed|at_client
