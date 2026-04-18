@@ -1,3 +1,13 @@
+https://github.com/jayasankar-jp/Menu-Creator
+https://github.com/tdk-invn-oss/motion.arduino.ICM45687
+https://github.com/tdk-invn-oss/motion.arduino.ICM56622
+https://github.com/tdk-invn-oss/motion.arduino.ICM56686
+https://github.com/tdk-invn-oss/motion.arduino.ICM45606
+https://github.com/tdk-invn-oss/motion.arduino.ICM45685
+https://github.com/apadevices/DS2482
+https://github.com/apadevices/APAPHX2_ADS1115
+https://github.com/DIYables/DIYables_4Digit7Segment_TM1637
+https://github.com/You-010/GY33_Arduino
 https://github.com/DIYables/DIYables-DC-Motor
 https://github.com/jayasankar-jp/SmartProcess
 https://github.com/mumanchu/TMC22xxDriver
@@ -7873,6 +7883,7 @@ https://github.com/YFROBOT-TM/Yfrobot-Motor-Driver-IIC1508-Library
 https://github.com/YFROBOT-TM/Yfrobot-PS2UART-Library
 https://github.com/YFROBOT-TM/Yfrobot-Keypad-Library
 https://github.com/YFROBOT-TM/Yfrobot-VC-Library
+https://github.com/YFROBOT-TM/Yfrobot_MP3V3_Library
 https://github.com/yhur/ConfigPortal32
 https://github.com/yhur/ConfigPortal8266
 https://github.com/YiannisBourkelis/Uptime-Library
@@ -9242,7 +9253,7 @@ https://github.com/7semi-solutions/7Semi-VEML7700
 https://github.com/7semi-solutions/7Semi-STS3x
 https://github.com/7semi-solutions/7Semi_MAX31856
 https://github.com/7semi-solutions/7Semi_TMAG5273-3D-Hall-Effect-Sensor
-https://github.com/IdlanZafran/RapidBootWifi
+https://github.com/IdlanZafran/RapidBootWiFi
 https://github.com/7semi-solutions/7Semi-ENS210
 https://github.com/7semi-solutions/7Semi-STS4x
 https://github.com/JorgeGBeltre/ESP32_MQTTv5
@@ -9273,3 +9284,9 @@ https://github.com/ToSStudio/LT7683
 https://github.com/joseluu/adc128d818_driver
 https://github.com/mulberry4275/EspNowDev
 https://github.com/SeventyFourProductions/TFTGraph
+https://github.com/blackhack/ES32D26PLC
+https://github.com/Masud744/SmartProv
+https://github.com/Nocturnailed-Community/NocMotion
+https://github.com/SethKinzel/EasyJoystick
+https://github.com/nawawimegahertz/IndustrialSense.git
+https://github.com/specledcomua-creator/SenseAir_S88.git
