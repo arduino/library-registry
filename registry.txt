@@ -9287,3 +9287,4 @@ https://github.com/EvdokimovVladimir/RM3100.git|Contributed|RM3100-Arduino
 https://github.com/atsign-foundation/at_client_arduino.git|Contributed|at_client
 https://github.com/dorkmo/FTPSclientOPTA.git|Contributed|FTPSclientOPTA
 https://github.com/deftio/xelp.git|Contributed|xelp
+https://github.com/juslam/IoTera_Arduino.git|Contributed|IoTera
