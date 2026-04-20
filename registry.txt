@@ -9294,3 +9294,4 @@ https://github.com/swherdman/HLK-LD6004.git|Contributed|HLK-LD6004
 https://github.com/fmeng/XDigit7Segment_74HC595.git|Contributed|XDigit7Segment_74HC595
 https://github.com/Sensirion/arduino-i2c-sen69c.git|Contributed|Sensirion I2C SEN69C
 https://github.com/foodini/arduino_ms5611_spi.git|Contributed|SPI Library for MS5611 Altimeter and Temperature Sensor
+https://github.com/CoolNeon/CoolNeon_devshield.git|Contributed|CoolNeon DevShield
