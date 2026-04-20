@@ -392,6 +392,7 @@ https://github.com/RCmags/CN0391
 https://github.com/Init-io/InitMQTT.git
 https://github.com/Init-io/InitJson.git
 https://github.com/phuongnamzz/HLK-LD6002
+https://github.com/swherdman/HLK-LD6004
 https://github.com/milad-nikpendar/initMemory
 https://github.com/jobitjoseph/SimpleOLED
 https://github.com/cvrelectronica/EasyRobot
