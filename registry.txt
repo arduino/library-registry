@@ -9291,3 +9291,4 @@ https://github.com/juslam/IoTera_Arduino.git|Contributed|IoTera
 https://github.com/Xorlent/ESP32P4_ULP.git|Contributed|ESP32P4_ULP
 https://github.com/mattykakes/SerialCommandCoordinator.git|Contributed|SerialCommandCoordinator
 https://github.com/swherdman/HLK-LD6004.git|Contributed|HLK-LD6004
+https://github.com/fmeng/XDigit7Segment_74HC595.git|Contributed|XDigit7Segment_74HC595
