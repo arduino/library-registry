@@ -9296,3 +9296,4 @@ https://github.com/specledcomua-creator/SenseAir_S88.git
 https://github.com/atsign-foundation/at_client_arduino.git
 https://github.com/deftio/xelp
 https://github.com/juslam/IoTera_Arduino
+https://github.com/mattykakes/SerialCommandCoordinator
