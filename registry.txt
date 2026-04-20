@@ -9289,3 +9289,4 @@ https://github.com/dorkmo/FTPSclientOPTA.git|Contributed|FTPSclientOPTA
 https://github.com/deftio/xelp.git|Contributed|xelp
 https://github.com/juslam/IoTera_Arduino.git|Contributed|IoTera
 https://github.com/Xorlent/ESP32P4_ULP.git|Contributed|ESP32P4_ULP
+https://github.com/mattykakes/SerialCommandCoordinator.git|Contributed|SerialCommandCoordinator
