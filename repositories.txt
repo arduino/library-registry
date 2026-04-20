@@ -2310,6 +2310,7 @@ https://github.com/constiko/RV-3028_C7-Arduino_Library
 https://github.com/contrem/arduino-timer
 https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library
 https://github.com/Controllino/ControllinoLibrary
+https://github.com/CoolNeon/CoolNeon_devshield
 https://github.com/CoreX-IoT/corex-firmware
 https://github.com/corneliusmunz/legoino
 https://github.com/coryjfowler/MCP_CAN_lib
