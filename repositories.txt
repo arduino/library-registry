@@ -9302,3 +9302,4 @@ https://github.com/deftio/xelp
 https://github.com/juslam/IoTera_Arduino
 https://github.com/mattykakes/SerialCommandCoordinator
 https://github.com/foodini/arduino_ms5611_spi
+https://github.com/deftio/fr_math
