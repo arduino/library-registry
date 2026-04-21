@@ -6142,6 +6142,7 @@ https://github.com/RobTillaart/float16
 https://github.com/RobTillaart/float16ext
 https://github.com/RobTillaart/Fraction
 https://github.com/RobTillaart/FRAM_I2C
+https://github.com/RobTillaart/FSLP
 https://github.com/RobTillaart/FSR40X
 https://github.com/RobTillaart/FunctionGenerator
 https://github.com/RobTillaart/GAMMA
