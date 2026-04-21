@@ -9296,3 +9296,4 @@ https://github.com/Sensirion/arduino-i2c-sen69c.git|Contributed|Sensirion I2C SE
 https://github.com/foodini/arduino_ms5611_spi.git|Contributed|SPI Library for MS5611 Altimeter and Temperature Sensor
 https://github.com/CoolNeon/CoolNeon_devshield.git|Contributed|CoolNeon DevShield
 https://github.com/deftio/fr_math.git|Contributed|FR_Math
+https://github.com/GyverLibs/GyverPush.git|Contributed|GyverPush
