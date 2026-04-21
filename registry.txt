@@ -9298,3 +9298,4 @@ https://github.com/CoolNeon/CoolNeon_devshield.git|Contributed|CoolNeon DevShiel
 https://github.com/deftio/fr_math.git|Contributed|FR_Math
 https://github.com/GyverLibs/GyverPush.git|Contributed|GyverPush
 https://github.com/vicenteraphael/SmartTrafficLight.git|Contributed|SmartTrafficLight
+https://github.com/RobTillaart/FSLP.git|Contributed|FSLP
