@@ -9297,3 +9297,4 @@ https://github.com/foodini/arduino_ms5611_spi.git|Contributed|SPI Library for MS
 https://github.com/CoolNeon/CoolNeon_devshield.git|Contributed|CoolNeon DevShield
 https://github.com/deftio/fr_math.git|Contributed|FR_Math
 https://github.com/GyverLibs/GyverPush.git|Contributed|GyverPush
+https://github.com/vicenteraphael/SmartTrafficLight.git|Contributed|SmartTrafficLight
