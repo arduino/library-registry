@@ -1,3 +1,4 @@
+https://github.com/vicenteraphael/SmartTrafficLight
 https://github.com/fmeng/XDigit7Segment_74HC595
 https://github.com/Xorlent/ESP32P4_ULP
 https://github.com/dorkmo/FTPSclientOPTA
@@ -3305,6 +3306,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverPush
 https://github.com/GyverLibs/GyverMotor2
 https://github.com/GyverLibs/GyverKey
 https://github.com/GyverLibs/ExpInt
@@ -6140,6 +6142,7 @@ https://github.com/RobTillaart/float16
 https://github.com/RobTillaart/float16ext
 https://github.com/RobTillaart/Fraction
 https://github.com/RobTillaart/FRAM_I2C
+https://github.com/RobTillaart/FSLP
 https://github.com/RobTillaart/FSR40X
 https://github.com/RobTillaart/FunctionGenerator
 https://github.com/RobTillaart/GAMMA
@@ -9302,3 +9305,4 @@ https://github.com/deftio/xelp
 https://github.com/juslam/IoTera_Arduino
 https://github.com/mattykakes/SerialCommandCoordinator
 https://github.com/foodini/arduino_ms5611_spi
+https://github.com/deftio/fr_math
