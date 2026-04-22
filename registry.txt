@@ -9299,3 +9299,4 @@ https://github.com/deftio/fr_math.git|Contributed|FR_Math
 https://github.com/GyverLibs/GyverPush.git|Contributed|GyverPush
 https://github.com/vicenteraphael/SmartTrafficLight.git|Contributed|SmartTrafficLight
 https://github.com/RobTillaart/FSLP.git|Contributed|FSLP
+https://github.com/CoolNeon/arduino-tcl.git|Contributed|CoolNeon TCL
