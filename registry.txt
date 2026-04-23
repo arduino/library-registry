@@ -9302,3 +9302,4 @@ https://github.com/RobTillaart/FSLP.git|Contributed|FSLP
 https://github.com/CoolNeon/arduino-tcl.git|Contributed|CoolNeon TCL
 https://github.com/truongphat230799/ohstem-orc-hub-robotics.git|Contributed|OhStemRobotics
 https://github.com/AndreaDV01/ESPfuscate.git|Contributed|ESPfuscate
+https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library.git|Contributed|Soldered DE2120
