@@ -6866,6 +6866,7 @@ https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-PCAL6416A-IO-Expander-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library
