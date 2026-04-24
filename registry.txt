@@ -9307,3 +9307,4 @@ https://github.com/SolderedElectronics/Soldered-Compass-AK09918-Arduino-Library.
 https://github.com/SolderedElectronics/Soldered-PCAL6416A-IO-Expander-Arduino-Library.git|Contributed|Soldered PCAL6416A IO expander library
 https://github.com/iskakfatoni/IskakINO_Storage.git|Contributed|IskakINO_Storage
 https://github.com/KartikS417/Arduclaw.git|Contributed|ArduClaw
+https://github.com/GPStarTechnologies/GPStar-Audio-Serial.git|Contributed|GPStar Audio Serial
