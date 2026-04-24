@@ -9309,3 +9309,4 @@ https://github.com/iskakfatoni/IskakINO_Storage.git|Contributed|IskakINO_Storage
 https://github.com/KartikS417/Arduclaw.git|Contributed|ArduClaw
 https://github.com/GPStarTechnologies/GPStar-Audio-Serial.git|Contributed|GPStar Audio Serial
 https://github.com/metehoca/Mete_Hoca_Qwilino.git|Contributed|Mete Hoca Qwilino
+https://github.com/chunix64/Universal-Arduino-Zalo-Bot.git|Contributed|UniversalZaloBot
