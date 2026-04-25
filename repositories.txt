@@ -1,4 +1,7 @@
+https://github.com/GPStarTechnologies/GPStar-Audio-Serial
+https://github.com/KartikS417/Arduclaw
 https://github.com/AndreaDV01/ESPfuscate
+https://github.com/SolderedElectronics/Soldered-Compass-AK09918-Arduino-Library
 https://github.com/vicenteraphael/SmartTrafficLight
 https://github.com/fmeng/XDigit7Segment_74HC595
 https://github.com/Xorlent/ESP32P4_ULP
@@ -6845,6 +6848,7 @@ https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-BME280-BME680-Gas-Sensor-Arduino-Library
@@ -6864,6 +6868,7 @@ https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-PCAL6416A-IO-Expander-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library
@@ -9309,3 +9314,8 @@ https://github.com/mattykakes/SerialCommandCoordinator
 https://github.com/foodini/arduino_ms5611_spi
 https://github.com/deftio/fr_math
 https://github.com/truongphat230799/ohstem-orc-hub-robotics.git
+https://github.com/iskakfatoni/IskakINO_Storage
+https://github.com/metehoca/Mete_Hoca_Qwilino
+https://github.com/chunix64/Universal-Arduino-Zalo-Bot
+https://github.com/M7MEDpro/UltrasonicX
+https://github.com/brestac/EventSource
