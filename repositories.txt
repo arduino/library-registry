@@ -3463,6 +3463,7 @@ https://github.com/HamzaYslmn/esp-rtosSerial
 https://github.com/HamzaYslmn/esp32-tunnel
 https://github.com/HamzaYslmn/espfetch
 https://github.com/HamzaYslmn/Esp-BLE-Web
+https://github.com/HamzaYslmn/esp-ps5
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/happy12/SPL06-001
