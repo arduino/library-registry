@@ -34,7 +34,13 @@ If you discover a problem with the library release, simply fix the problem and m
 In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
 
 1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
-1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+release+removal&template=release-removal.yml&title=Library+release+removal+request), specifying the name of the library and the version number of the release that should be removed.
+1. Click [**this link**](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+release+removal&template=release-removal.yml&title=Library+release+removal+request).
+   The "**Create new issue**" page will open in your web browser.
+1. Type the name of the library into the "**Library name**" field on the "**Create new issue**" page.
+1. Type the version number of the release that should be removed into the "**Version to remove**" field.
+1. Click the "**Create**" button on the "**Create new issue**" page.
+
+This will create an issue the registry maintainers will use to track the task of accommodating your request.
 
 ## Update library name
 
@@ -44,7 +50,12 @@ If you wish to change the name it will need to be done manually by request:
 
 1. Change the `name` value in the [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
 1. Create a release or tag.
-1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+rename&template=rename.yml&title=Library+name+change+request) specifying the URL of the library's repository.
+1. Click [**this link**](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+rename&template=rename.yml&title=Library+name+change+request).
+   The "**Create new issue**" page will open in your web browser.
+1. Type the URL of the library into the "**Library repository URL**" field on the "**Create new issue**" page.
+1. Click the "**Create**" button on the "**Create new issue**" page.
+
+This will create an issue the registry maintainers will use to track the task of accommodating your request.
 
 ## Update library URL
 
