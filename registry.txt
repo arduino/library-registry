@@ -9314,3 +9314,4 @@ https://github.com/M7MEDpro/UltrasonicX.git|Contributed|UltrasonicX
 https://github.com/brestac/EventSource.git|Contributed|EventSource
 https://github.com/HamzaYslmn/Esp-BLE-Web.git|Contributed|EspBleWeb
 https://github.com/OrkaLxrd/TinyPortal.git|Contributed|TinyPortal
+https://github.com/alkonosst/AdvancedCLI.git|Contributed|AdvancedCLI
