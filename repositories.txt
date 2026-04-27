@@ -2001,6 +2001,7 @@ https://github.com/Blynk-Technologies/Blynk-NCP-Driver
 https://github.com/bmellink/IBusBM
 https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
+https://github.com/jorgesilvaramos/InkaLogic-IO
 https://github.com/bobboteck/CWLibrary
 https://github.com/Bobingstern/MicroFlow
 https://github.com/bobveringa/HSCDTD008A-Library
