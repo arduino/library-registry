@@ -9324,3 +9324,4 @@ https://github.com/chunix64/Universal-Arduino-Zalo-Bot
 https://github.com/M7MEDpro/UltrasonicX
 https://github.com/brestac/EventSource
 https://github.com/cyfney/clogger
+https://github.com/CodexPad/codex_pad_arduino_lib
