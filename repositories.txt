@@ -1,3 +1,4 @@
+https://github.com/OrkaLxrd/TinyPortal
 https://github.com/GPStarTechnologies/GPStar-Audio-Serial
 https://github.com/KartikS417/Arduclaw
 https://github.com/AndreaDV01/ESPfuscate
@@ -1346,6 +1347,7 @@ https://github.com/aliffathoni/ESPAutoWifi
 https://github.com/alikabeel/Letters-and-Numbers-Seven-Segment-Display-Library
 https://github.com/alireza7575/MKS_SERVO42
 https://github.com/alireza7575/MKS_SERVO57
+https://github.com/alkonosst/AdvancedCLI
 https://github.com/alkonosst/ADS1115
 https://github.com/alkonosst/MCP23017
 https://github.com/alkonosst/ReactiveESP32
@@ -3459,6 +3461,8 @@ https://github.com/HamzaYslmn/detaBaseESP8266
 https://github.com/HamzaYslmn/esp-rtosSerial
 https://github.com/HamzaYslmn/esp32-tunnel
 https://github.com/HamzaYslmn/espfetch
+https://github.com/HamzaYslmn/Esp-BLE-Web
+https://github.com/HamzaYslmn/esp-ps5
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/happy12/SPL06-001
@@ -9318,3 +9322,7 @@ https://github.com/metehoca/Mete_Hoca_Qwilino
 https://github.com/chunix64/Universal-Arduino-Zalo-Bot
 https://github.com/M7MEDpro/UltrasonicX
 https://github.com/brestac/EventSource
+https://github.com/cyfney/clogger
+https://github.com/CodexPad/codex_pad_arduino_lib
+https://github.com/meerzafarnoohani/KISS_FFT
+https://github.com/meerzafarnoohani/ETL_Arduino
