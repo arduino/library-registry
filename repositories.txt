@@ -6047,6 +6047,7 @@ https://github.com/RobTillaart/AD5593R
 https://github.com/RobTillaart/AD5620
 https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
+https://github.com/RobTillaart/AD5684
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
 https://github.com/RobTillaart/AD7367
