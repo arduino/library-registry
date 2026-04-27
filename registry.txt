@@ -9317,3 +9317,4 @@ https://github.com/OrkaLxrd/TinyPortal.git|Contributed|TinyPortal
 https://github.com/alkonosst/AdvancedCLI.git|Contributed|AdvancedCLI
 https://github.com/HamzaYslmn/esp-ps5.git|Contributed|esp-ps5
 https://github.com/cyfney/clogger.git|Contributed|clogger
+https://github.com/CodexPad/codex_pad_arduino_lib.git|Contributed|CodexPad
