@@ -9316,3 +9316,4 @@ https://github.com/HamzaYslmn/Esp-BLE-Web.git|Contributed|EspBleWeb
 https://github.com/OrkaLxrd/TinyPortal.git|Contributed|TinyPortal
 https://github.com/alkonosst/AdvancedCLI.git|Contributed|AdvancedCLI
 https://github.com/HamzaYslmn/esp-ps5.git|Contributed|esp-ps5
+https://github.com/cyfney/clogger.git|Contributed|clogger
