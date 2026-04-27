@@ -1972,6 +1972,7 @@ https://github.com/blackhack/LCD_I2C
 https://github.com/blanu/codec2-arduino
 https://github.com/BlaT2512/Segment
 https://github.com/BlaT2512/sevenSegment
+https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut
 https://github.com/blazer82/FT81x_Arduino_Driver
 https://github.com/blemasle/arduino-as1115
 https://github.com/blemasle/arduino-e24
