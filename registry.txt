@@ -9321,7 +9321,6 @@ https://github.com/CodexPad/codex_pad_arduino_lib.git|Contributed|CodexPad
 https://github.com/meerzafarnoohani/KISS_FFT.git|Contributed|KISS_FFT
 https://github.com/meerzafarnoohani/ETL_Arduino.git|Contributed|ETL_Arduino
 https://github.com/RobTillaart/AD5684.git|Contributed|AD5684
-https://github.com/topquark22/CharlieLED.git|Contributed|CharlieLED
 https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut.git|Contributed|MMJ_InkaBUS_AnalogOut
 https://github.com/jorgesilvaramos/InkaLogic-IO.git|Contributed|InkaLogic IO
 https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs.git|Contributed|MMJ InkaBUS Analog Inputs
