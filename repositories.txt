@@ -6487,6 +6487,7 @@ https://github.com/sciosense/ufm01-arduino
 https://github.com/sciosense/ufm02-arduino
 https://github.com/sciosense/as60xx-arduino
 https://github.com/sciosense/ufc23-arduino
+https://github.com/sciosense/ens17x-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
