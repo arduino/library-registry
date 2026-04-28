@@ -9325,3 +9325,4 @@ https://github.com/topquark22/CharlieLED.git|Contributed|CharlieLED
 https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut.git|Contributed|MMJ_InkaBUS_AnalogOut
 https://github.com/jorgesilvaramos/InkaLogic-IO.git|Contributed|InkaLogic IO
 https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs.git|Contributed|MMJ InkaBUS Analog Inputs
+https://github.com/CDonalO/Embedded-GUI-Framework.git|Contributed|Embedded GUI Framework
