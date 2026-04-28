@@ -9332,3 +9332,4 @@ https://github.com/cyfney/clogger
 https://github.com/CodexPad/codex_pad_arduino_lib
 https://github.com/meerzafarnoohani/KISS_FFT
 https://github.com/meerzafarnoohani/ETL_Arduino
+https://github.com/CDonalO/Embedded-GUI-Framework
