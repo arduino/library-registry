@@ -9326,3 +9326,4 @@ https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut.git|Contributed|MMJ_Ink
 https://github.com/jorgesilvaramos/InkaLogic-IO.git|Contributed|InkaLogic IO
 https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs.git|Contributed|MMJ InkaBUS Analog Inputs
 https://github.com/CDonalO/Embedded-GUI-Framework.git|Contributed|Embedded GUI Framework
+https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git|Contributed|TAD2144
