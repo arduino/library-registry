@@ -9328,3 +9328,4 @@ https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs.git|Contributed|MMJ 
 https://github.com/CDonalO/Embedded-GUI-Framework.git|Contributed|Embedded GUI Framework
 https://github.com/tdk-invn-oss/motion.arduino.TAD2144.git|Contributed|TAD2144
 https://github.com/ArtronShop/ATD3.5-S3-HandySense-Arduino-Library.git|Contributed|ATD3.5-S3_HandySense_Arduino_Library
+https://github.com/prj-electins/ElctinsIoTClient.git|Contributed|ElctinsIoTClient
