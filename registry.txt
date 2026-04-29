@@ -9338,3 +9338,4 @@ https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library.git|Cont
 https://github.com/PetrusRaisanen/TKJHAT-Arduino.git|Contributed|TKJHAT
 https://github.com/ArtronShop/ModbusMasterPlus.git|Contributed|ModbusMasterPlus
 https://github.com/soosp/SafeSerial.git|Contributed|SafeSerial
+https://github.com/npuckett/DropCeiling.git|Contributed|DropCeiling
