@@ -9343,3 +9343,4 @@ https://github.com/danielthu167/TMT_SmartConnect
 https://github.com/prj-electins/ElectinsIoT
 https://github.com/m5stack/StackChan-BSP
 https://github.com/PetrusRaisanen/TKJHAT-Arduino
+https://github.com/ArtronShop/ModbusMasterPlus
