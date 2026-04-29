@@ -9332,3 +9332,4 @@ https://github.com/prj-electins/ElctinsIoTClient.git|Contributed|ElctinsIoTClien
 https://github.com/sciosense/ens17x-arduino.git|Contributed|ScioSense_ENS17x
 https://github.com/danielthu167/TMT_SmartConnect.git|Contributed|TMT_SmartConnect
 https://github.com/prj-electins/ElectinsIoT.git|Contributed|ElectinsIoT
+https://github.com/m5stack/StackChan-BSP.git|Contributed|M5StackChan
