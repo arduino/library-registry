@@ -6859,6 +6859,8 @@ https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library
