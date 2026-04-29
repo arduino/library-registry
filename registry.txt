@@ -9333,3 +9333,5 @@ https://github.com/sciosense/ens17x-arduino.git|Contributed|ScioSense_ENS17x
 https://github.com/danielthu167/TMT_SmartConnect.git|Contributed|TMT_SmartConnect
 https://github.com/prj-electins/ElectinsIoT.git|Contributed|ElectinsIoT
 https://github.com/m5stack/StackChan-BSP.git|Contributed|M5StackChan
+https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library.git|Contributed|Soldered LSM6DS3 Arduino library
+https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library.git|Contributed|Soldered LSM6DSO Arduino Library
