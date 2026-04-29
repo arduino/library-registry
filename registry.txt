@@ -9336,3 +9336,4 @@ https://github.com/m5stack/StackChan-BSP.git|Contributed|M5StackChan
 https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library.git|Contributed|Soldered LSM6DS3 Arduino library
 https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library.git|Contributed|Soldered LSM6DSO Arduino Library
 https://github.com/PetrusRaisanen/TKJHAT-Arduino.git|Contributed|TKJHAT
+https://github.com/ArtronShop/ModbusMasterPlus.git|Contributed|ModbusMasterPlus
