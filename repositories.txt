@@ -5608,6 +5608,7 @@ https://github.com/pololu/lsm303-arduino
 https://github.com/pololu/lsm6-arduino
 https://github.com/pololu/maestro-arduino
 https://github.com/pololu/motoron-arduino
+https://github.com/pololu/mp6602-arduino
 https://github.com/pololu/opt3101-arduino
 https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library
 https://github.com/pololu/pololu-buzzer-arduino
