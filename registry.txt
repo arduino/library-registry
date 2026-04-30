@@ -9340,3 +9340,4 @@ https://github.com/ArtronShop/ModbusMasterPlus.git|Contributed|ModbusMasterPlus
 https://github.com/soosp/SafeSerial.git|Contributed|SafeSerial
 https://github.com/npuckett/DropCeiling.git|Contributed|DropCeiling
 https://github.com/pololu/mp6602-arduino.git|Contributed|MP6602
+https://github.com/newbiei/ESP32_SharpIR.git|Contributed|ESP32_SharpIR
