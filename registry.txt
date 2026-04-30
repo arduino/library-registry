@@ -9343,3 +9343,4 @@ https://github.com/vmykhalchuk/LongLiveThEEPROM.git|Contributed|LongLiveThEEPROM
 https://github.com/makeabilitylab/makelab-arduino-lib.git|Contributed|MakeabilityLab
 https://github.com/quarkifii/quarkifi-stream-arduino-ota.git|Contributed|QuarkifiStreamOTA
 https://github.com/universe1987/LEDGeometry.git|Contributed|LEDGeometry
+https://github.com/RobTillaart/US500.git|Contributed|US500
