@@ -1,7 +1,6 @@
 https://github.com/makeabilitylab/makelab-arduino-lib
 https://github.com/vmykhalchuk/LongLiveThEEPROM
 https://github.com/tdk-invn-oss/motion.arduino.TAD2144
-https://github.com/topquark22/CharlieLED
 https://github.com/OrkaLxrd/TinyPortal
 https://github.com/GPStarTechnologies/GPStar-Audio-Serial
 https://github.com/KartikS417/Arduclaw
