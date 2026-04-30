@@ -8678,6 +8678,7 @@ https://github.com/styropyr0/mjoln_fs
 https://github.com/Faizyee/Socketyee
 https://github.com/ivanmari/bare-poller
 https://github.com/lahavg/QMI8658-Arduino-Library
+https://github.com/newbiei/ESP32_SharpIR
 https://github.com/k3ldar/MovementDetector
 https://github.com/k3ldar/SerialCommandManager
 https://github.com/k3ldar/NextionControl
