@@ -64,7 +64,7 @@ https://github.com/boxlink/INKALOGIC
 https://github.com/leftCoast/LCP_sliderPz
 https://github.com/Xorlent/Async_SHT4x
 https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library
-https://github.com/hestia1abs/hxtp-micro.git
+https://github.com/hestialabs/hxtp-micro.git
 https://github.com/DIYables/DIYables_OLED_SSD1309
 https://github.com/hacktronics/STEMBuddy-Arduino
 https://github.com/BojanJurca/Thread-safe-file-sytem-wrapper-Arduino-library-for-ESP32
@@ -91,7 +91,6 @@ https://github.com/ARDUTECH0/ATGenXIOT
 https://github.com/veersingh671/LuminOx
 https://github.com/lska-dev/microLCD.git
 https://github.com/ARDUTECH0/ATGENXlib-0.0.1
-https://github.com/hestialabs/hxtp-micro
 https://github.com/perpective2410/tide-projectio
 https://github.com/Tomarun029831/kic_notation
 https://github.com/BojanJurca/Cron-Daemon-for-Arduino
