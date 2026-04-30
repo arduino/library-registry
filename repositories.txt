@@ -9348,3 +9348,5 @@ https://github.com/PetrusRaisanen/TKJHAT-Arduino
 https://github.com/ArtronShop/ModbusMasterPlus
 https://github.com/soosp/SafeSerial
 https://github.com/npuckett/DropCeiling
+https://github.com/quarkifii/quarkifi-stream-arduino-ota
+
