@@ -9341,3 +9341,4 @@ https://github.com/pololu/mp6602-arduino.git|Contributed|MP6602
 https://github.com/newbiei/ESP32_SharpIR.git|Contributed|ESP32_SharpIR
 https://github.com/vmykhalchuk/LongLiveThEEPROM.git|Contributed|LongLiveThEEPROM
 https://github.com/makeabilitylab/makelab-arduino-lib.git|Contributed|MakeabilityLab
+https://github.com/quarkifii/quarkifi-stream-arduino-ota.git|Contributed|QuarkifiStreamOTA
