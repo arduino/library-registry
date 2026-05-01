@@ -9352,3 +9352,4 @@ https://github.com/npuckett/DropCeiling
 https://github.com/quarkifii/quarkifi-stream-arduino-ota
 https://github.com/universe1987/LEDGeometry
 https://github.com/weenachuangkud/XSegment_lib
+https://github.com/vktrsansara/LedBasic
