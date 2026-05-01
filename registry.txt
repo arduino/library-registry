@@ -9346,3 +9346,4 @@ https://github.com/universe1987/LEDGeometry.git|Contributed|LEDGeometry
 https://github.com/RobTillaart/US500.git|Contributed|US500
 https://github.com/weenachuangkud/XSegment_lib.git|Contributed|XSegment_lib
 https://github.com/vktrsansara/LedBasic.git|Contributed|LedBasic
+https://github.com/RobTillaart/lengthConverter.git|Contributed|LengthConvertor
