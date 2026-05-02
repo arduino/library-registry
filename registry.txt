@@ -9351,3 +9351,4 @@ https://github.com/tanakamasayuki/ArduTest.git|Contributed|ArduTest
 https://github.com/Adrien-Legrand/PlaneteSciences85.git|Contributed|PlaneteSciences85
 https://github.com/gavinlyonsrepo/BMP390_LTSM.git|Contributed|BMP390_LTSM
 https://github.com/ARAM-USA-Support/ARAM_FS_Stepper.git|Contributed|ARAM_FS_Stepper
+https://github.com/RumiCar-group/RumiCar-lib.git|Contributed|RumiCar
