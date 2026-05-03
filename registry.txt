@@ -9355,3 +9355,4 @@ https://github.com/RumiCar-group/RumiCar-lib.git|Contributed|RumiCar
 https://github.com/NamNamIoT/ArduLora.git|Contributed|ArduLora
 https://github.com/David-Vandensteen/dv-led-blink.git|Contributed|dv_led_blink
 https://github.com/PratulDeshpande/PQCMicro.git|Contributed|PQCMicro
+https://github.com/rohitmaji004/RohitCore-Power.git|Contributed|RohitCore-Power
