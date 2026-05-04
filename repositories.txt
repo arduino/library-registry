@@ -1,3 +1,12 @@
+https://github.com/gavinlyonsrepo/GC9107_LTSM
+https://github.com/rohitmaji004/RohitCore-Config
+https://github.com/rohitmaji004/RohitCore-Power
+https://github.com/David-Vandensteen/dv-led-blink
+https://github.com/NamNamIoT/ArduLora
+https://github.com/gavinlyonsrepo/BMP390_LTSM
+https://github.com/makeabilitylab/makelab-arduino-lib
+https://github.com/vmykhalchuk/LongLiveThEEPROM
+https://github.com/tdk-invn-oss/motion.arduino.TAD2144
 https://github.com/OrkaLxrd/TinyPortal
 https://github.com/GPStarTechnologies/GPStar-Audio-Serial
 https://github.com/KartikS417/Arduclaw
@@ -60,7 +69,7 @@ https://github.com/boxlink/INKALOGIC
 https://github.com/leftCoast/LCP_sliderPz
 https://github.com/Xorlent/Async_SHT4x
 https://github.com/leoaliperti/Analog-Multiplexer-Arduino-Library
-https://github.com/hestia1abs/hxtp-micro.git
+https://github.com/hestialabs/hxtp-micro.git
 https://github.com/DIYables/DIYables_OLED_SSD1309
 https://github.com/hacktronics/STEMBuddy-Arduino
 https://github.com/BojanJurca/Thread-safe-file-sytem-wrapper-Arduino-library-for-ESP32
@@ -87,7 +96,6 @@ https://github.com/ARDUTECH0/ATGenXIOT
 https://github.com/veersingh671/LuminOx
 https://github.com/lska-dev/microLCD.git
 https://github.com/ARDUTECH0/ATGENXlib-0.0.1
-https://github.com/hestialabs/hxtp-micro
 https://github.com/perpective2410/tide-projectio
 https://github.com/Tomarun029831/kic_notation
 https://github.com/BojanJurca/Cron-Daemon-for-Arduino
@@ -1972,6 +1980,7 @@ https://github.com/blackhack/LCD_I2C
 https://github.com/blanu/codec2-arduino
 https://github.com/BlaT2512/Segment
 https://github.com/BlaT2512/sevenSegment
+https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut
 https://github.com/blazer82/FT81x_Arduino_Driver
 https://github.com/blemasle/arduino-as1115
 https://github.com/blemasle/arduino-e24
@@ -1980,6 +1989,7 @@ https://github.com/blemasle/arduino-sim808
 https://github.com/blinker-iot/blinker-library
 https://github.com/BlokasLabs/USBMIDI
 https://github.com/BlueAndi/vscp-arduino
+https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogInputs
 https://github.com/BlueDot-Arduino/BlueDot_BMA400
 https://github.com/BlueDot-Arduino/BlueDot_BME280
 https://github.com/BlueDot-Arduino/BlueDot_BME280_TSL2591
@@ -2001,6 +2011,7 @@ https://github.com/Blynk-Technologies/Blynk-NCP-Driver
 https://github.com/bmellink/IBusBM
 https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
+https://github.com/jorgesilvaramos/InkaLogic-IO
 https://github.com/bobboteck/CWLibrary
 https://github.com/Bobingstern/MicroFlow
 https://github.com/bobveringa/HSCDTD008A-Library
@@ -3463,6 +3474,7 @@ https://github.com/HamzaYslmn/esp-rtosSerial
 https://github.com/HamzaYslmn/esp32-tunnel
 https://github.com/HamzaYslmn/espfetch
 https://github.com/HamzaYslmn/Esp-BLE-Web
+https://github.com/HamzaYslmn/esp-ps5
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/happy12/SPL06-001
@@ -5602,6 +5614,7 @@ https://github.com/pololu/lsm303-arduino
 https://github.com/pololu/lsm6-arduino
 https://github.com/pololu/maestro-arduino
 https://github.com/pololu/motoron-arduino
+https://github.com/pololu/mp6602-arduino
 https://github.com/pololu/opt3101-arduino
 https://github.com/pololu/pololu-3pi-plus-32u4-arduino-library
 https://github.com/pololu/pololu-buzzer-arduino
@@ -6044,6 +6057,7 @@ https://github.com/RobTillaart/AD5593R
 https://github.com/RobTillaart/AD5620
 https://github.com/RobTillaart/AD5660
 https://github.com/RobTillaart/AD5680
+https://github.com/RobTillaart/AD5684
 https://github.com/RobTillaart/AD568X
 https://github.com/RobTillaart/AD56X8
 https://github.com/RobTillaart/AD7367
@@ -6198,6 +6212,7 @@ https://github.com/RobTillaart/KT0803
 https://github.com/RobTillaart/Kurtosis
 https://github.com/RobTillaart/L9110
 https://github.com/RobTillaart/LC7822
+https://github.com/RobTillaart/lengthConverter
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/Logic
 https://github.com/RobTillaart/logicAnalyzer
@@ -6356,6 +6371,7 @@ https://github.com/RobTillaart/TRAFO
 https://github.com/RobTillaart/Troolean
 https://github.com/RobTillaart/TSL235R
 https://github.com/RobTillaart/TSL260R
+https://github.com/RobTillaart/US500
 https://github.com/RobTillaart/UUID
 https://github.com/RobTillaart/Vibration
 https://github.com/RobTillaart/VolumeConverter
@@ -6480,6 +6496,7 @@ https://github.com/sciosense/ufm01-arduino
 https://github.com/sciosense/ufm02-arduino
 https://github.com/sciosense/as60xx-arduino
 https://github.com/sciosense/ufc23-arduino
+https://github.com/sciosense/ens17x-arduino
 https://github.com/SConaway/AVRUtils
 https://github.com/Scottapotamas/xsens-mti
 https://github.com/scottchiefbaker/Arduino-SimpleSyslog
@@ -6851,6 +6868,8 @@ https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library
@@ -7376,6 +7395,7 @@ https://github.com/tanakamasayuki/ESP32TaskKit
 https://github.com/tanakamasayuki/EspNowBus
 https://github.com/tanakamasayuki/ESP32SyncKit
 https://github.com/tanakamasayuki/variants_collector
+https://github.com/tanakamasayuki/ArduTest
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8667,6 +8687,7 @@ https://github.com/styropyr0/mjoln_fs
 https://github.com/Faizyee/Socketyee
 https://github.com/ivanmari/bare-poller
 https://github.com/lahavg/QMI8658-Arduino-Library
+https://github.com/newbiei/ESP32_SharpIR
 https://github.com/k3ldar/MovementDetector
 https://github.com/k3ldar/SerialCommandManager
 https://github.com/k3ldar/NextionControl
@@ -9322,3 +9343,25 @@ https://github.com/metehoca/Mete_Hoca_Qwilino
 https://github.com/chunix64/Universal-Arduino-Zalo-Bot
 https://github.com/M7MEDpro/UltrasonicX
 https://github.com/brestac/EventSource
+https://github.com/cyfney/clogger
+https://github.com/CodexPad/codex_pad_arduino_lib
+https://github.com/meerzafarnoohani/KISS_FFT
+https://github.com/meerzafarnoohani/ETL_Arduino
+https://github.com/CDonalO/Embedded-GUI-Framework
+https://github.com/ArtronShop/ATD3.5-S3-HandySense-Arduino-Library
+https://github.com/prj-electins/ElctinsIoTClient
+https://github.com/danielthu167/TMT_SmartConnect
+https://github.com/prj-electins/ElectinsIoT
+https://github.com/m5stack/StackChan-BSP
+https://github.com/PetrusRaisanen/TKJHAT-Arduino
+https://github.com/ArtronShop/ModbusMasterPlus
+https://github.com/soosp/SafeSerial
+https://github.com/npuckett/DropCeiling
+https://github.com/quarkifii/quarkifi-stream-arduino-ota
+https://github.com/universe1987/LEDGeometry
+https://github.com/weenachuangkud/XSegment_lib
+https://github.com/vktrsansara/LedBasic
+https://github.com/Adrien-Legrand/PlaneteSciences85
+https://github.com/ARAM-USA-Support/ARAM_FS_Stepper
+https://github.com/RumiCar-group/RumiCar-lib
+https://github.com/PratulDeshpande/PQCMicro
