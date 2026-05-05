@@ -9259,7 +9259,7 @@ https://github.com/angeloINTJ/USBSnifferPIO_RP2040.git
 https://github.com/hfdalkarim/Hafid
 https://github.com/IowaScaledEngineering/mss-xcade-lib
 https://github.com/mitutake0422/TeensyXENO
-https://github.com/ozobot/circuit_kit_library
+https://github.com/ozobot/drvkit_library
 https://github.com/m5stack/M5Unit-KEYBOARD
 https://github.com/SaleemAkhter/synolinks-arduino.git
 https://github.com/kaustavsaloi/VEGA_RV3028
