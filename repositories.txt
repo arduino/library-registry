@@ -9348,6 +9348,7 @@ https://github.com/cyfney/clogger
 https://github.com/CodexPad/codex_pad_arduino_lib
 https://github.com/meerzafarnoohani/KISS_FFT
 https://github.com/meerzafarnoohani/ETL_Arduino
+https://github.com/meerzafarnoohani/MathParser
 https://github.com/CDonalO/Embedded-GUI-Framework
 https://github.com/ArtronShop/ATD3.5-S3-HandySense-Arduino-Library
 https://github.com/prj-electins/ElctinsIoTClient
