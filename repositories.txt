@@ -9369,3 +9369,4 @@ https://github.com/RumiCar-group/RumiCar-lib
 https://github.com/PratulDeshpande/PQCMicro
 https://github.com/ulywae/NeuButton
 https://github.com/plexus-oss/plexus-c
+https://github.com/arduino-libraries/Arduino_HardwareServo
