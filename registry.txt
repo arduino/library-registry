@@ -9360,3 +9360,4 @@ https://github.com/rohitmaji004/RohitCore-Config.git|Contributed|RohitCore-Confi
 https://github.com/gavinlyonsrepo/GC9107_LTSM.git|Contributed|GC9107_LTSM
 https://github.com/alkonosst/LoRa-E22T.git|Contributed|LoRa-E22T
 https://github.com/ulywae/NeuButton.git|Contributed|NeuButton
+https://github.com/plexus-oss/plexus-c.git|Contributed|plexus-c
