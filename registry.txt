@@ -9359,3 +9359,4 @@ https://github.com/rohitmaji004/RohitCore-Power.git|Contributed|RohitCore-Power
 https://github.com/rohitmaji004/RohitCore-Config.git|Contributed|RohitCore-Config
 https://github.com/gavinlyonsrepo/GC9107_LTSM.git|Contributed|GC9107_LTSM
 https://github.com/alkonosst/LoRa-E22T.git|Contributed|LoRa-E22T
+https://github.com/ulywae/NeuButton.git|Contributed|NeuButton
