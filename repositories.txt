@@ -9371,3 +9371,4 @@ https://github.com/ulywae/NeuButton
 https://github.com/plexus-oss/plexus-c
 https://github.com/arduino-libraries/Arduino_HardwareServo
 https://github.com/kwlew/PIDEasy-Improved
+https://github.com/andrey-val-rodin/BleCommands.Arduino
