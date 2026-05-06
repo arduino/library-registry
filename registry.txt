@@ -9366,3 +9366,4 @@ https://github.com/arduino-libraries/Arduino_HardwareServo.git|Arduino|Arduino_H
 https://github.com/kwlew/PIDEasy-Improved.git|Contributed|PIDEasy-Improved
 https://github.com/andrey-val-rodin/BleCommands.Arduino.git|Contributed|BLECommands
 https://github.com/UNIT-Electronics-MX/unit_bma250_library.git|Contributed|UBMA250
+https://github.com/Circuit-Digest/CircuitDigestCloud.git|Contributed|CircuitDigestCloud
