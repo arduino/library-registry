@@ -9376,3 +9376,4 @@ https://github.com/kwlew/PIDEasy-Improved
 https://github.com/andrey-val-rodin/BleCommands.Arduino
 https://github.com/kritishmohapatra/SingleSevenSeg
 https://github.com/Nocturnailed-Community/NocShield
+https://github.com/sauloverissimo/midi2
