@@ -9368,3 +9368,4 @@ https://github.com/andrey-val-rodin/BleCommands.Arduino.git|Contributed|BLEComma
 https://github.com/UNIT-Electronics-MX/unit_bma250_library.git|Contributed|UBMA250
 https://github.com/Circuit-Digest/CircuitDigestCloud.git|Contributed|CircuitDigestCloud
 https://github.com/kritishmohapatra/SingleSevenSeg.git|Contributed|SingleSevenSeg
+https://github.com/Nocturnailed-Community/NocShield.git|Contributed|NocShield
