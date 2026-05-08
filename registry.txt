@@ -9370,3 +9370,4 @@ https://github.com/Circuit-Digest/CircuitDigestCloud.git|Contributed|CircuitDige
 https://github.com/kritishmohapatra/SingleSevenSeg.git|Contributed|SingleSevenSeg
 https://github.com/Nocturnailed-Community/NocShield.git|Contributed|NocShield
 https://github.com/sauloverissimo/midi2.git|Contributed|midi2
+https://github.com/Otto17/LightConnect.git|Contributed|LightConnect
