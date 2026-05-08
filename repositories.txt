@@ -1,4 +1,5 @@
 https://github.com/Otto17/LightConnect
+https://github.com/Circuit-Digest/CircuitDigestCloud
 https://github.com/gavinlyonsrepo/GC9107_LTSM
 https://github.com/rohitmaji004/RohitCore-Config
 https://github.com/rohitmaji004/RohitCore-Power
@@ -8911,6 +8912,7 @@ https://github.com/UNIT-Electronics-MX/unit_bme68x_library
 https://github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen
 https://github.com/UNIT-Electronics-MX/unit_picodvi_library
 https://github.com/UNIT-Electronics-MX/unit_dvi_hstx_library
+https://github.com/UNIT-Electronics-MX/unit_bma250_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -9370,3 +9372,9 @@ https://github.com/RumiCar-group/RumiCar-lib
 https://github.com/PratulDeshpande/PQCMicro
 https://github.com/ulywae/NeuButton
 https://github.com/plexus-oss/plexus-c
+https://github.com/arduino-libraries/Arduino_HardwareServo
+https://github.com/kwlew/PIDEasy-Improved
+https://github.com/andrey-val-rodin/BleCommands.Arduino
+https://github.com/kritishmohapatra/SingleSevenSeg
+https://github.com/Nocturnailed-Community/NocShield
+https://github.com/sauloverissimo/midi2
