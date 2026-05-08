@@ -9372,3 +9372,4 @@ https://github.com/Nocturnailed-Community/NocShield.git|Contributed|NocShield
 https://github.com/sauloverissimo/midi2.git|Contributed|midi2
 https://github.com/Otto17/LightConnect.git|Contributed|LightConnect
 https://github.com/RobTillaart/A02YYUW.git|Contributed|A02YYUW
+https://github.com/RobotBuzzard/ClearCoreWatchdog.git|Contributed|ClearCoreWatchdog
