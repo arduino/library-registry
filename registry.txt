@@ -9384,3 +9384,4 @@ https://github.com/LennartHennigs/mmWaveKit.git|Contributed|mmWaveKit
 https://github.com/guicaiala/AMRFID.git|Contributed|AMRFID
 https://github.com/deftio/qf_math.git|Contributed|qf_math
 https://github.com/Rafeul1997/ESPCar.git|Contributed|ESPCar
+https://github.com/andrenepomuceno/CriticalTaskScheduler.git|Contributed|CriticalTaskScheduler
