@@ -9387,3 +9387,4 @@ https://github.com/K3vin135/iot-azure-bridge
 https://github.com/ulywae/NeuStorage
 https://github.com/Gigasitron-xcross/XC_SR04
 https://github.com/dm-mamun/DualMotor
+https://github.com/LennartHennigs/mmWaveKit
