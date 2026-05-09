@@ -9376,3 +9376,4 @@ https://github.com/RobotBuzzard/ClearCoreWatchdog.git|Contributed|ClearCoreWatch
 https://github.com/soosp/SimcomA76xx.git|Contributed|SimcomA76xx
 https://github.com/K3vin135/iot-azure-bridge.git|Contributed|EasyAzureIoT
 https://github.com/sauloverissimo/midi2_cpp.git|Contributed|midi2_cpp
+https://github.com/ulywae/NeuStorage.git|Contributed|NeuStorage
