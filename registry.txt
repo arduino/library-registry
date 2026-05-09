@@ -9375,7 +9375,7 @@ https://github.com/RobTillaart/A02YYUW.git|Contributed|A02YYUW
 https://github.com/RobotBuzzard/ClearCoreWatchdog.git|Contributed|ClearCoreWatchdog
 https://github.com/soosp/SimcomA76xx.git|Contributed|SimcomA76xx
 https://github.com/K3vin135/iot-azure-bridge.git|Contributed|EasyAzureIoT
-https://github.com/sauloverissimo/midi2_cpp.git|Contributed|midi2cpp
+https://github.com/sauloverissimo/midi2cpp.git|Contributed|midi2cpp
 https://github.com/ulywae/NeuStorage.git|Contributed|NeuStorage
 https://github.com/ccaprojects/CCARemote-Arduino.git|Contributed|CCARemote
 https://github.com/Gigasitron-xcross/XC_SR04.git|Contributed|XC_SR04
