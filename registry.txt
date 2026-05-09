@@ -9379,3 +9379,4 @@ https://github.com/sauloverissimo/midi2_cpp.git|Contributed|midi2_cpp
 https://github.com/ulywae/NeuStorage.git|Contributed|NeuStorage
 https://github.com/ccaprojects/CCARemote-Arduino.git|Contributed|CCARemote
 https://github.com/Gigasitron-xcross/XC_SR04.git|Contributed|XC_SR04
+https://github.com/dm-mamun/DualMotor.git|Contributed|DualMotor
