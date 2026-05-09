@@ -6043,6 +6043,7 @@ https://github.com/RobPo/Paperino
 https://github.com/RobTillaart/74HC138
 https://github.com/RobTillaart/74HC154
 https://github.com/RobTillaart/74HC590
+https://github.com/RobTillaart/A02YYUW
 https://github.com/RobTillaart/A1301
 https://github.com/RobTillaart/ACD10
 https://github.com/RobTillaart/ACD3100
@@ -8991,7 +8992,7 @@ https://github.com/dac1e/FDC2x1x
 https://github.com/dbn-b4e/cr95hf.git
 https://github.com/xreef/RYUW122
 https://github.com/dac1e/Somo1ELV
-https://github.com/TORICA-Org/SerialWeb
+https://github.com/00kenno/SerialWeb
 https://github.com/DFRobot/DFRobot_AI10
 https://github.com/DFRobot/DFRobot_RTK_4G
 https://github.com/filipporaciti/TS_lib.git
@@ -9262,7 +9263,7 @@ https://github.com/angeloINTJ/USBSnifferPIO_RP2040.git
 https://github.com/hfdalkarim/Hafid
 https://github.com/IowaScaledEngineering/mss-xcade-lib
 https://github.com/mitutake0422/TeensyXENO
-https://github.com/ozobot/circuit_kit_library
+https://github.com/ozobot/drvkit_library
 https://github.com/m5stack/M5Unit-KEYBOARD
 https://github.com/SaleemAkhter/synolinks-arduino.git
 https://github.com/kaustavsaloi/VEGA_RV3028
@@ -9378,3 +9379,7 @@ https://github.com/andrey-val-rodin/BleCommands.Arduino
 https://github.com/kritishmohapatra/SingleSevenSeg
 https://github.com/Nocturnailed-Community/NocShield
 https://github.com/sauloverissimo/midi2
+https://github.com/sauloverissimo/midi2_cpp
+https://github.com/RobotBuzzard/ClearCoreWatchdog
+https://github.com/soosp/SimcomA76xx
+https://github.com/K3vin135/iot-azure-bridge
