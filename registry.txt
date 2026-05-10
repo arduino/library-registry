@@ -9389,3 +9389,4 @@ https://github.com/ulywae/NeuKV.git|Contributed|NeuKV
 https://github.com/tobozo/LGFX_Fonts.git|Contributed|LGFX_Fonts
 https://github.com/Rafeul1997/NTCTemp.git|Contributed|NTCTemp
 https://github.com/Rafeul1997/AutoLCD.git|Contributed|AutoLCD
+https://github.com/Otto17/ESP_ChaCha.git|Contributed|ESP_ChaCha
