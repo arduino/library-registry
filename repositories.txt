@@ -1,3 +1,7 @@
+https://github.com/Otto17/ESP_ChaCha
+https://github.com/ccaprojects/CCARemote-Arduino
+https://github.com/Otto17/LightConnect
+https://github.com/Circuit-Digest/CircuitDigestCloud
 https://github.com/gavinlyonsrepo/GC9107_LTSM
 https://github.com/rohitmaji004/RohitCore-Config
 https://github.com/rohitmaji004/RohitCore-Power
@@ -6041,6 +6045,7 @@ https://github.com/RobPo/Paperino
 https://github.com/RobTillaart/74HC138
 https://github.com/RobTillaart/74HC154
 https://github.com/RobTillaart/74HC590
+https://github.com/RobTillaart/A02YYUW
 https://github.com/RobTillaart/A1301
 https://github.com/RobTillaart/ACD10
 https://github.com/RobTillaart/ACD3100
@@ -7577,6 +7582,7 @@ https://github.com/tobozo/ESP32-targz
 https://github.com/tobozo/ESP32-USB-Soft-Host
 https://github.com/tobozo/ESP8266SDUpdater
 https://github.com/tobozo/ImgurUploader
+https://github.com/tobozo/LGFX_Fonts
 https://github.com/tobozo/LGFX_PPA
 https://github.com/tobozo/LGFXMeter
 https://github.com/tobozo/M5Stack-SD-Updater
@@ -8910,6 +8916,7 @@ https://github.com/UNIT-Electronics-MX/unit_bme68x_library
 https://github.com/UNIT-Electronics-MX/ue_i2c_icp_10111_sen
 https://github.com/UNIT-Electronics-MX/unit_picodvi_library
 https://github.com/UNIT-Electronics-MX/unit_dvi_hstx_library
+https://github.com/UNIT-Electronics-MX/unit_bma250_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -8988,7 +8995,7 @@ https://github.com/dac1e/FDC2x1x
 https://github.com/dbn-b4e/cr95hf.git
 https://github.com/xreef/RYUW122
 https://github.com/dac1e/Somo1ELV
-https://github.com/TORICA-Org/SerialWeb
+https://github.com/00kenno/SerialWeb
 https://github.com/DFRobot/DFRobot_AI10
 https://github.com/DFRobot/DFRobot_RTK_4G
 https://github.com/filipporaciti/TS_lib.git
@@ -9259,7 +9266,7 @@ https://github.com/angeloINTJ/USBSnifferPIO_RP2040.git
 https://github.com/hfdalkarim/Hafid
 https://github.com/IowaScaledEngineering/mss-xcade-lib
 https://github.com/mitutake0422/TeensyXENO
-https://github.com/ozobot/circuit_kit_library
+https://github.com/ozobot/drvkit_library
 https://github.com/m5stack/M5Unit-KEYBOARD
 https://github.com/SaleemAkhter/synolinks-arduino.git
 https://github.com/kaustavsaloi/VEGA_RV3028
@@ -9348,6 +9355,7 @@ https://github.com/cyfney/clogger
 https://github.com/CodexPad/codex_pad_arduino_lib
 https://github.com/meerzafarnoohani/KISS_FFT
 https://github.com/meerzafarnoohani/ETL_Arduino
+https://github.com/meerzafarnoohani/MathParser
 https://github.com/CDonalO/Embedded-GUI-Framework
 https://github.com/ArtronShop/ATD3.5-S3-HandySense-Arduino-Library
 https://github.com/prj-electins/ElctinsIoTClient
@@ -9366,3 +9374,27 @@ https://github.com/Adrien-Legrand/PlaneteSciences85
 https://github.com/ARAM-USA-Support/ARAM_FS_Stepper
 https://github.com/RumiCar-group/RumiCar-lib
 https://github.com/PratulDeshpande/PQCMicro
+https://github.com/ulywae/NeuButton
+https://github.com/plexus-oss/plexus-c
+https://github.com/arduino-libraries/Arduino_HardwareServo
+https://github.com/kwlew/PIDEasy-Improved
+https://github.com/andrey-val-rodin/BleCommands.Arduino
+https://github.com/kritishmohapatra/SingleSevenSeg
+https://github.com/Nocturnailed-Community/NocShield
+https://github.com/sauloverissimo/midi2
+https://github.com/sauloverissimo/midi2_cpp
+https://github.com/RobotBuzzard/ClearCoreWatchdog
+https://github.com/soosp/SimcomA76xx
+https://github.com/K3vin135/iot-azure-bridge
+https://github.com/ulywae/NeuStorage
+https://github.com/Gigasitron-xcross/XC_SR04
+https://github.com/dm-mamun/DualMotor
+https://github.com/LennartHennigs/mmWaveKit
+https://github.com/guicaiala/AMRFID
+http://github.com/deftio/qf_math
+https://github.com/Rafeul1997/ESPCar.git
+https://github.com/andrenepomuceno/CriticalTaskScheduler
+https://github.com/ulywae/NeuKV
+https://github.com/Rafeul1997/NTCTemp
+https://github.com/Rafeul1997/AutoLCD
+https://github.com/NikolaiRadke/TinyRTOS
