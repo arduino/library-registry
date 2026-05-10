@@ -9397,3 +9397,4 @@ https://github.com/andrenepomuceno/CriticalTaskScheduler
 https://github.com/ulywae/NeuKV
 https://github.com/Rafeul1997/NTCTemp
 https://github.com/Rafeul1997/AutoLCD
+https://github.com/NikolaiRadke/TinyRTOS
