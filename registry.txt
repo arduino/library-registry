@@ -9386,3 +9386,4 @@ https://github.com/deftio/qf_math.git|Contributed|qf_math
 https://github.com/Rafeul1997/ESPCar.git|Contributed|ESPCar
 https://github.com/andrenepomuceno/CriticalTaskScheduler.git|Contributed|CriticalTaskScheduler
 https://github.com/ulywae/NeuKV.git|Contributed|NeuKV
+https://github.com/tobozo/LGFX_Fonts.git|Contributed|LGFX_Fonts
