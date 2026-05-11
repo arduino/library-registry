@@ -9397,3 +9397,4 @@ https://github.com/AvantMaker/AvantLumi.git|Contributed|AvantLumi
 https://github.com/Rafeul1997/Universal_Blink.git|Contributed|Universal Blink
 https://github.com/IdlanZafran/RemoteUpload.git|Contributed|RemoteUpload
 https://github.com/ArtronShop/DuinoClaw.git|Contributed|DuinoClaw
+https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib.git|Contributed|CodexPadFrameDecoder
