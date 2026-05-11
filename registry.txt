@@ -9393,3 +9393,4 @@ https://github.com/Otto17/ESP_ChaCha.git|Contributed|ESP_ChaCha
 https://github.com/NikolaiRadke/TinyRTOS.git|Contributed|TinyRTOS
 https://github.com/alkonosst/Statechart.git|Contributed|Statechart
 https://github.com/Jueff/AddressLearnMLX.git|Contributed|AddressLearnMLX
+https://github.com/AvantMaker/AvantLumi.git|Contributed|AvantLumi
