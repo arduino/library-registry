@@ -9406,3 +9406,4 @@ https://github.com/Rafeul1997/Universal_Blink
 https://github.com/IdlanZafran/RemoteUpload
 https://github.com/ArtronShop/DuinoClaw
 https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib
+https://github.com/Parvaz-Jamei/CrashHive32
