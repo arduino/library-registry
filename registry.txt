@@ -9399,3 +9399,4 @@ https://github.com/IdlanZafran/RemoteUpload.git|Contributed|RemoteUpload
 https://github.com/ArtronShop/DuinoClaw.git|Contributed|DuinoClaw
 https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib.git|Contributed|CodexPadFrameDecoder
 https://github.com/UNIT-Electronics-MX/unit_uanima_library.git|Contributed|UANIMA
+https://github.com/Parvaz-Jamei/CrashHive32.git|Contributed|CrashHive32
