@@ -9410,3 +9410,4 @@ https://github.com/ArtronShop/DuinoClaw
 https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib
 https://github.com/Parvaz-Jamei/CrashHive32
 https://github.com/zjp007/PulseAnalyzer
+https://github.com/Protocentral/protocentral_st1vafe3bx_arduino
