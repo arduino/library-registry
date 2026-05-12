@@ -9407,3 +9407,4 @@ https://github.com/Protocentral/protocentral_st1vafe3bx_arduino.git|Contributed|
 https://github.com/GyverLibs/GyverMag.git|Contributed|GyverMag
 https://github.com/CITROMOSEPER/XYdraw.git|Contributed|XYdraw
 https://github.com/xanderwasserman/SimpleOTAClient-Arduino.git|Contributed|SimpleOTAClient
+https://github.com/embeddip/arduino-ide.git|Contributed|EmbedDIP
