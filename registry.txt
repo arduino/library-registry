@@ -9406,3 +9406,4 @@ https://github.com/NorthernWidget/Apis_Library.git|Contributed|Apis_Library
 https://github.com/Protocentral/protocentral_st1vafe3bx_arduino.git|Contributed|ProtoCentral ST1VAFE3BX
 https://github.com/GyverLibs/GyverMag.git|Contributed|GyverMag
 https://github.com/CITROMOSEPER/XYdraw.git|Contributed|XYdraw
+https://github.com/xanderwasserman/SimpleOTAClient-Arduino.git|Contributed|SimpleOTAClient
