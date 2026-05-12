@@ -1,3 +1,4 @@
+https://github.com/sSpectrals/RoboticusDebugger
 https://github.com/Otto17/ESP_ChaCha
 https://github.com/ccaprojects/CCARemote-Arduino
 https://github.com/Otto17/LightConnect
