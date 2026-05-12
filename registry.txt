@@ -9403,3 +9403,4 @@ https://github.com/Parvaz-Jamei/CrashHive32.git|Contributed|CrashHive32
 https://github.com/sSpectrals/RoboticusDebugger.git|Contributed|Roboticus Debugger
 https://github.com/zjp007/PulseAnalyzer.git|Contributed|PulseAnalyzer
 https://github.com/NorthernWidget/Apis_Library.git|Contributed|Apis_Library
+https://github.com/Protocentral/protocentral_st1vafe3bx_arduino.git|Contributed|ProtoCentral ST1VAFE3BX
