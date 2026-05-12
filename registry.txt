@@ -9401,3 +9401,4 @@ https://github.com/CodexPad/codex_pad_frame_decoder_arduino_lib.git|Contributed|
 https://github.com/UNIT-Electronics-MX/unit_uanima_library.git|Contributed|UANIMA
 https://github.com/Parvaz-Jamei/CrashHive32.git|Contributed|CrashHive32
 https://github.com/sSpectrals/RoboticusDebugger.git|Contributed|Roboticus Debugger
+https://github.com/zjp007/PulseAnalyzer.git|Contributed|PulseAnalyzer
