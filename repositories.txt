@@ -5262,6 +5262,7 @@ https://github.com/noranraskin/MT6701
 https://github.com/NordicAlliance/arduino-tgui
 https://github.com/NorthernWidget/DS3231
 https://github.com/NorthernWidget/Logger
+https://github.com/NorthernWidget/Apis_Library
 https://github.com/Nospampls/SchedTask
 https://github.com/Nouryas-Tech/Nouryas-Advanced-Line-Follower-Array
 https://github.com/npuckett/arduinoAnimation
