@@ -1583,6 +1583,7 @@ https://github.com/arduino-libraries/Arduino_RouterBridge
 https://github.com/arduino-libraries/Arduino_RPCLite
 https://github.com/arduino-libraries/Arduino_ScienceJournal
 https://github.com/arduino-libraries/Arduino_ScienceKitCarrier
+https://github.com/arduino-libraries/Arduino_SE05X
 https://github.com/arduino-libraries/Arduino_SecureElement
 https://github.com/arduino-libraries/Arduino_SensorKit
 https://github.com/arduino-libraries/Arduino_SerialUpdater
