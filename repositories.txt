@@ -9418,3 +9418,4 @@ https://github.com/embeddip/arduino-ide
 https://github.com/HuuPhuoc2411/EcoWifi
 https://github.com/ulywae/NeuWiFi
 https://github.com/SerhiiLe/microTelegramAPI
+https://github.com/SerhiiLe/DFMiniMp3E
