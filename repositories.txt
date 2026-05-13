@@ -9420,3 +9420,4 @@ https://github.com/ulywae/NeuWiFi
 https://github.com/SerhiiLe/microTelegramAPI
 https://github.com/SerhiiLe/DFMiniMp3E
 https://github.com/Unical-A/DashlyClient.git
+https://github.com/Parvaz-Jamei/FDCxCapSense
