@@ -9410,3 +9410,4 @@ https://github.com/xanderwasserman/SimpleOTAClient-Arduino.git|Contributed|Simpl
 https://github.com/embeddip/arduino-ide.git|Contributed|EmbedDIP
 https://github.com/HuuPhuoc2411/EcoWifi.git|Contributed|EcoWifi
 https://github.com/ulywae/NeuWiFi.git|Contributed|NeuWiFi
+https://github.com/SerhiiLe/microTelegramAPI.git|Contributed|microTelegramAPI
