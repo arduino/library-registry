@@ -9415,3 +9415,4 @@ https://github.com/SerhiiLe/DFMiniMp3E.git|Contributed|DFMiniMp3E
 https://github.com/Unical-A/DashlyClient.git|Contributed|DashlyClient
 https://github.com/Parvaz-Jamei/FDCxCapSense.git|Contributed|FDCxCapSense
 https://github.com/m5stack/M5Unit-RFID.git|Contributed|M5Unit-RFID
+https://github.com/cyfney/easy_i2c.git|Contributed|EasyI2c
