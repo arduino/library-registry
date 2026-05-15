@@ -1,3 +1,5 @@
+https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
 https://github.com/xanderwasserman/SimpleOTAClient-Arduino
 https://github.com/sSpectrals/RoboticusDebugger
 https://github.com/Otto17/ESP_ChaCha
