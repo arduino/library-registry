@@ -9418,3 +9418,4 @@ https://github.com/m5stack/M5Unit-RFID.git|Contributed|M5Unit-RFID
 https://github.com/cyfney/easy_i2c.git|Contributed|EasyI2c
 https://github.com/edukits/ConnectKit.git|Contributed|ConnectKit
 https://github.com/CITROMOSEPER/MIDIplayer.git|Contributed|MIDIplayer
+https://github.com/LaskaKit/laskakit_zivyobraz_client.git|Contributed|LaskakitZivyobrazClient
