@@ -9422,3 +9422,4 @@ https://github.com/LaskaKit/laskakit_zivyobraz_client.git|Contributed|LaskakitZi
 https://github.com/emakefun-arduino-library/cq01.git|Contributed|CQ01
 https://github.com/mumanchu/SerialRGBLed.git|Contributed|SerialRGBLed
 https://github.com/apadevices/APADOSE.git|Contributed|APA-Dose
+https://github.com/Rafeul-1997/OTAxpress.git|Contributed|OTAxpress
