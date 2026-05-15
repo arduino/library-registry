@@ -9420,3 +9420,4 @@ https://github.com/edukits/ConnectKit.git|Contributed|ConnectKit
 https://github.com/CITROMOSEPER/MIDIplayer.git|Contributed|MIDIplayer
 https://github.com/LaskaKit/laskakit_zivyobraz_client.git|Contributed|LaskakitZivyobrazClient
 https://github.com/emakefun-arduino-library/cq01.git|Contributed|CQ01
+https://github.com/mumanchu/SerialRGBLed.git|Contributed|SerialRGBLed
