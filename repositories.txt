@@ -9395,7 +9395,7 @@ https://github.com/andrey-val-rodin/BleCommands.Arduino
 https://github.com/kritishmohapatra/SingleSevenSeg
 https://github.com/Nocturnailed-Community/NocShield
 https://github.com/sauloverissimo/midi2
-https://github.com/sauloverissimo/midi2_cpp
+https://github.com/sauloverissimo/midi2cpp
 https://github.com/RobotBuzzard/ClearCoreWatchdog
 https://github.com/soosp/SimcomA76xx
 https://github.com/K3vin135/iot-azure-bridge
