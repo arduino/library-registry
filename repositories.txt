@@ -1,3 +1,4 @@
+https://github.com/mumanchu/W25QxxFlash
 https://github.com/apadevices/APADOSE
 https://github.com/mumanchu/SerialRGBLed
 https://github.com/xanderwasserman/SimpleOTAClient-Arduino
