@@ -9428,3 +9428,4 @@ https://github.com/Parvaz-Jamei/EcoSensePower-Arduino.git|Contributed|EcoSensePo
 https://github.com/mumanchu/W25QxxFlash.git|Contributed|WS25QxxFlash
 https://github.com/autoconnecto/autoconnecto-sdk.git|Contributed|AutoconnectoSDK
 https://github.com/RobTillaart/SPIKeyPad.git|Contributed|SPIKeyPad
+https://github.com/Alexandros-Charitonidis/MiniMessenger.git|Contributed|MiniMessenger
