@@ -6357,6 +6357,7 @@ https://github.com/RobTillaart/SMC
 https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SparseArray
 https://github.com/RobTillaart/SparseMatrix
+https://github.com/RobTillaart/SPIKeyPad
 https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
 https://github.com/RobTillaart/Statistic
