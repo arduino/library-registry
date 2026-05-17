@@ -9438,3 +9438,4 @@ https://github.com/Rafeul-1997/ESP32_WebGPIO
 https://github.com/Parvaz-Jamei/EcoSensePower-Arduino
 https://github.com/Alexandros-Charitonidis/MiniMessenger
 https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino
+https://github.com/Dim-aka/AY8912_ESP32.git
