@@ -1,3 +1,4 @@
+https://github.com/SanketSalviNITK/Beacon_ARIA
 https://github.com/mumanchu/W25QxxFlash
 https://github.com/autoconnecto/autoconnecto-sdk
 https://github.com/apadevices/APADOSE
