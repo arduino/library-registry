@@ -9430,3 +9430,4 @@ https://github.com/autoconnecto/autoconnecto-sdk.git|Contributed|AutoconnectoSDK
 https://github.com/RobTillaart/SPIKeyPad.git|Contributed|SPIKeyPad
 https://github.com/Alexandros-Charitonidis/MiniMessenger.git|Contributed|MiniMessenger
 https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino.git|Contributed|PulseWetProbe
+https://github.com/SanketSalviNITK/Beacon_ARIA.git|Contributed|BeaconAria
