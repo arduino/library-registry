@@ -9431,3 +9431,4 @@ https://github.com/RobTillaart/SPIKeyPad.git|Contributed|SPIKeyPad
 https://github.com/Alexandros-Charitonidis/MiniMessenger.git|Contributed|MiniMessenger
 https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino.git|Contributed|PulseWetProbe
 https://github.com/SanketSalviNITK/Beacon_ARIA.git|Contributed|BeaconAria
+https://github.com/Dim-aka/AY8912_ESP32.git|Contributed|AY8912_ESP32
