@@ -1,3 +1,10 @@
+https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
+https://github.com/SanketSalviNITK/Beacon_ARIA
+https://github.com/mumanchu/W25QxxFlash
+https://github.com/autoconnecto/autoconnecto-sdk
+https://github.com/apadevices/APADOSE
+https://github.com/mumanchu/SerialRGBLed
 https://github.com/xanderwasserman/SimpleOTAClient-Arduino
 https://github.com/sSpectrals/RoboticusDebugger
 https://github.com/Otto17/ESP_ChaCha
@@ -669,6 +676,7 @@ https://github.com/deeja/BTHomeV2-Arduino
 https://github.com/zwieblum/ch32_deep_sleep
 https://github.com/microbotsio/CodeCell
 https://github.com/EduKits/ColourKit
+https://github.com/edukits/ConnectKit
 https://github.com/EduKits/ManagedButtons
 https://github.com/EduKits/UltraPing
 https://github.com/makkorjamal/PLSduino
@@ -6353,6 +6361,7 @@ https://github.com/RobTillaart/SMC
 https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SparseArray
 https://github.com/RobTillaart/SparseMatrix
+https://github.com/RobTillaart/SPIKeyPad
 https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
 https://github.com/RobTillaart/Statistic
@@ -9399,6 +9408,7 @@ https://github.com/Gigasitron-xcross/XC_SR04
 https://github.com/dm-mamun/DualMotor
 https://github.com/LennartHennigs/mmWaveKit
 https://github.com/guicaiala/AMRFID
+https://github.com/m5stack/M5Unit-RFID
 http://github.com/deftio/qf_math
 https://github.com/Rafeul1997/ESPCar.git
 https://github.com/andrenepomuceno/CriticalTaskScheduler
@@ -9420,3 +9430,15 @@ https://github.com/HuuPhuoc2411/EcoWifi
 https://github.com/ulywae/NeuWiFi
 https://github.com/SerhiiLe/microTelegramAPI
 https://github.com/SerhiiLe/DFMiniMp3E
+https://github.com/Unical-A/DashlyClient.git
+https://github.com/Parvaz-Jamei/FDCxCapSense
+https://github.com/cyfney/easy_i2c
+https://github.com/CITROMOSEPER/MIDIplayer
+https://github.com/LaskaKit/laskakit_zivyobraz_client
+https://github.com/emakefun-arduino-library/cq01
+https://github.com/Rafeul-1997/OTAxpress
+https://github.com/Rafeul-1997/ESP32_WebGPIO
+https://github.com/Parvaz-Jamei/EcoSensePower-Arduino
+https://github.com/Alexandros-Charitonidis/MiniMessenger
+https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino
+https://github.com/Dim-aka/AY8912_ESP32.git
