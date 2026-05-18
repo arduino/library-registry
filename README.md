@@ -8,8 +8,7 @@ This repository contains the list of libraries in the [Arduino Library Manager](
 
 - [Frequently asked questions](#frequently-asked-questions)
 - [Adding a library to Library Manager](#adding-a-library-to-library-manager)
-- [Changing the URL of a library already in Library Manager](#changing-the-url-of-a-library-already-in-library-manager)
-- [Removing a library from Library Manager](#removing-a-library-from-library-manager)
+- [Request registration data changes for a library](#request-registration-data-changes-for-a-library)
 - [Report a problem with Library Manager](#report-a-problem-with-library-manager)
 - [Security & Malware Reporting](#security--malware-reporting)
 
@@ -157,17 +156,15 @@ Doing this will update the pull request and cause the automated checks to run ag
 1. Create a [release](https://docs.github.com/repositories/releasing-projects-on-github/managing-releases-in-a-repository) or [tag](https://git-scm.com/docs/git-tag). The Library Manager index always uses tagged versions of the libraries, so even if the development version of the library is compliant, it can't be accepted until the latest release or tag is compliant. Alternatively, you can redo the existing release/tag if you prefer.
 1. Comment on your pull request here in the `arduino/library-registry` repository, mentioning **@ArduinoBot** in the comment. Doing this will cause the automated check to run again.
 
-## Changing the URL of a library already in Library Manager
+<a name="changing-the-url-of-a-library-already-in-library-manager"></a>
 
-Submit a pull request that changes the URL as desired in [repositories.txt](repositories.txt). This can be done by following [the instructions above](#instructions).
+<a name="removing-a-library-from-library-manager"></a>
 
-Since this type of request must be reviewed by a human maintainer, please write an explanation in the pull request description, making it clear that the URL is intentionally being changed.
+## Request registration data changes for a library
 
-## Removing a library from Library Manager
+Library maintainers sometimes find the need to request changes be made to the registration data for a library in the Arduino Library Registry.
 
-Submit a pull request that removes the URL from [repositories.txt](repositories.txt). This can be done by following [the instructions above](#instructions).
-
-Since this type of request must be reviewed by a human maintainer, please write an explanation in the pull request description, making it clear that the URL is intentionally being removed.
+Instructions for making such requests are provided [**here**](maintenance-requests.md).
 
 ## Report a problem with Library Manager
 
