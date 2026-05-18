@@ -1,3 +1,4 @@
+https://github.com/DIYables/DIYables_TFT_SPI
 https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
 https://github.com/SanketSalviNITK/Beacon_ARIA
