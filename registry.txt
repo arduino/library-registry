@@ -9432,3 +9432,5 @@ https://github.com/Alexandros-Charitonidis/MiniMessenger.git|Contributed|MiniMes
 https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino.git|Contributed|PulseWetProbe
 https://github.com/SanketSalviNITK/Beacon_ARIA.git|Contributed|BeaconAria
 https://github.com/Dim-aka/AY8912_ESP32.git|Contributed|AY8912_ESP32
+https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library.git|Contributed|Soldered WS2812B Grid
+https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library.git|Contributed|Soldered Inputronic GRID
