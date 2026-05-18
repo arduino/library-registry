@@ -1,3 +1,5 @@
+https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
 https://github.com/SanketSalviNITK/Beacon_ARIA
 https://github.com/mumanchu/W25QxxFlash
 https://github.com/autoconnecto/autoconnecto-sdk
