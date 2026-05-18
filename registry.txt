@@ -9436,6 +9436,6 @@ https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library.git
 https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library.git|Contributed|Soldered Inputronic GRID
 https://github.com/arduino-libraries/Arduino_SE05X.git|Arduino|Arduino_SE05X
 https://github.com/DIYables/DIYables_TFT_SPI.git|Contributed|DIYables TFT SPI
-https://github.com/sajidrahii/ESP32S3_n8r16_CameraStream.git|Contributed|ESP32S3CameraStream
+https://github.com/sajidrahii/ESP32-S3-N16R8-CameraStream.git|Contributed|ESP32S3CameraStream
 https://github.com/greghulette/WCBClient.git|Contributed|WCB_Client
 https://github.com/kkfranco98/TinyRingBuffer.git|Contributed|TinyRingBuffer
