@@ -9082,3 +9082,5 @@ https://github.com/Alexandros-Charitonidis/MiniMessenger
 https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino
 https://github.com/Dim-aka/AY8912_ESP32.git
 https://github.com/sajidrahii/ESP32S3_n8r16_CameraStream
+https://github.com/greghulette/WCBClient.git
+https://github.com/kkfranco98/TinyRingBuffer
