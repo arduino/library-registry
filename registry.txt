@@ -9434,3 +9434,4 @@ https://github.com/SanketSalviNITK/Beacon_ARIA.git|Contributed|BeaconAria
 https://github.com/Dim-aka/AY8912_ESP32.git|Contributed|AY8912_ESP32
 https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library.git|Contributed|Soldered WS2812B Grid
 https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library.git|Contributed|Soldered Inputronic GRID
+https://github.com/arduino-libraries/Arduino_SE05X.git|Arduino|Arduino_SE05X
