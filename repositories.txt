@@ -1,5 +1,10 @@
 https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
+https://github.com/SanketSalviNITK/Beacon_ARIA
+https://github.com/mumanchu/W25QxxFlash
+https://github.com/autoconnecto/autoconnecto-sdk
+https://github.com/apadevices/APADOSE
+https://github.com/mumanchu/SerialRGBLed
 https://github.com/xanderwasserman/SimpleOTAClient-Arduino
 https://github.com/sSpectrals/RoboticusDebugger
 https://github.com/Otto17/ESP_ChaCha
@@ -6355,6 +6360,7 @@ https://github.com/RobTillaart/SMC
 https://github.com/RobTillaart/Soundex
 https://github.com/RobTillaart/SparseArray
 https://github.com/RobTillaart/SparseMatrix
+https://github.com/RobTillaart/SPIKeyPad
 https://github.com/RobTillaart/SRF05
 https://github.com/RobTillaart/statHelpers
 https://github.com/RobTillaart/Statistic
@@ -9427,3 +9433,11 @@ https://github.com/Unical-A/DashlyClient.git
 https://github.com/Parvaz-Jamei/FDCxCapSense
 https://github.com/cyfney/easy_i2c
 https://github.com/CITROMOSEPER/MIDIplayer
+https://github.com/LaskaKit/laskakit_zivyobraz_client
+https://github.com/emakefun-arduino-library/cq01
+https://github.com/Rafeul-1997/OTAxpress
+https://github.com/Rafeul-1997/ESP32_WebGPIO
+https://github.com/Parvaz-Jamei/EcoSensePower-Arduino
+https://github.com/Alexandros-Charitonidis/MiniMessenger
+https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino
+https://github.com/Dim-aka/AY8912_ESP32.git
