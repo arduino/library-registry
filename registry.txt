@@ -9423,7 +9423,6 @@ https://github.com/emakefun-arduino-library/cq01.git|Contributed|CQ01
 https://github.com/mumanchu/SerialRGBLed.git|Contributed|SerialRGBLed
 https://github.com/apadevices/APADOSE.git|Contributed|APA-Dose
 https://github.com/Rafeul-1997/OTAxpress.git|Contributed|OTAxpress
-https://github.com/Rafeul-1997/ESP32_WebGPIO.git|Contributed|ESP32_WebGPIO
 https://github.com/Parvaz-Jamei/EcoSensePower-Arduino.git|Contributed|EcoSensePower
 https://github.com/mumanchu/W25QxxFlash.git|Contributed|WS25QxxFlash
 https://github.com/autoconnecto/autoconnecto-sdk.git|Contributed|AutoconnectoSDK
