@@ -6895,6 +6895,7 @@ https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-L
 https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Barcode-Scanner-DE2120-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-ADS1219-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-ADS1015-ADS1115-ADC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-AS3935-Lightning-detect-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-BME280-BME680-Gas-Sensor-Arduino-Library
