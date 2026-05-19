@@ -9454,3 +9454,4 @@ https://github.com/greghulette/WCBClient.git
 https://github.com/kkfranco98/TinyRingBuffer
 https://github.com/soosp/GeigerMeasurement
 https://github.com/soosp/RunningStatistics
+https://github.com/Protocentral/protocentral_fdc2214_arduino
