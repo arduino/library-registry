@@ -1,3 +1,4 @@
+https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library
 https://github.com/Nezaemmy/NezaWiFiPortal
 https://github.com/Nezaemmy/NezaRTC
 https://github.com/DIYables/DIYables_TFT_SPI
