@@ -9444,3 +9444,4 @@ https://github.com/tanakamasayuki/PCMFlow.git|Contributed|PCMFlow
 https://github.com/Nezaemmy/NezaRTC.git|Contributed|NezaRTC
 https://github.com/soosp/GeigerMeasurement.git|Contributed|GeigerMeasurement
 https://github.com/soosp/RunningStatistics.git|Contributed|RunningStatistics
+https://github.com/SolderedElectronics/Soldered-ADS1219-Arduino-Library.git|Contributed|ADS1219-SOLDERED
