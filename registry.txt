@@ -9446,3 +9446,4 @@ https://github.com/soosp/GeigerMeasurement.git|Contributed|GeigerMeasurement
 https://github.com/soosp/RunningStatistics.git|Contributed|RunningStatistics
 https://github.com/SolderedElectronics/Soldered-ADS1219-Arduino-Library.git|Contributed|ADS1219-SOLDERED
 https://github.com/Nezaemmy/NezaWiFiPortal.git|Contributed|NezaWiFiPortal
+https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library.git|Contributed|Soldered-SCD43
