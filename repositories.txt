@@ -9450,4 +9450,4 @@ https://github.com/sajidrahii/ESP32S3_n8r16_CameraStream
 https://github.com/greghulette/WCBClient.git
 https://github.com/kkfranco98/TinyRingBuffer
 https://github.com/soosp/GeigerMeasurement
-https://github.com/soosp/RunningStats
+https://github.com/soosp/RunningStatistics
