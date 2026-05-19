@@ -9441,3 +9441,4 @@ https://github.com/greghulette/WCBClient.git|Contributed|WCB_Client
 https://github.com/kkfranco98/TinyRingBuffer.git|Contributed|TinyRingBuffer
 https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323.git|Contributed|DevLab_BMI323
 https://github.com/tanakamasayuki/PCMFlow.git|Contributed|PCMFlow
+https://github.com/Nezaemmy/NezaRTC.git|Contributed|NezaRTC
