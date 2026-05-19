@@ -9448,3 +9448,4 @@ https://github.com/SolderedElectronics/Soldered-ADS1219-Arduino-Library.git|Cont
 https://github.com/Nezaemmy/NezaWiFiPortal.git|Contributed|NezaWiFiPortal
 https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library.git|Contributed|Soldered-SCD43
 https://github.com/Protocentral/protocentral_fdc2214_arduino.git|Contributed|ProtoCentral_FDC2214_Capacitance
+https://github.com/birmanish/PID_5_Sensors.git|Contributed|PID_5_Sensors
