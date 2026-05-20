@@ -9450,3 +9450,4 @@ https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library.git|Contri
 https://github.com/Protocentral/protocentral_fdc2214_arduino.git|Contributed|ProtoCentral_FDC2214_Capacitance
 https://github.com/birmanish/PID_5_Sensors.git|Contributed|PID_5_Sensors
 https://github.com/SolderedElectronics/Soldered-Button-LED-Buzzer-Board-Arduino-Library.git|Contributed|Soldered Button LED Buzzer Board Arduino Library
+https://github.com/abinantony01/ViSPE-ADIN1110.git|Contributed|ViSPE ADIN1110
