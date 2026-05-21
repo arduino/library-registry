@@ -1,3 +1,5 @@
+https://github.com/JW-Control/JW_RTC
+https://github.com/JW-Control/JW_SD
 https://github.com/Raheeb223/EasySensor.git
 https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library
 https://github.com/Nezaemmy/NezaWiFiPortal
