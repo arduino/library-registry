@@ -9452,3 +9452,4 @@ https://github.com/birmanish/PID_5_Sensors.git|Contributed|PID_5_Sensors
 https://github.com/SolderedElectronics/Soldered-Button-LED-Buzzer-Board-Arduino-Library.git|Contributed|Soldered Button LED Buzzer Board Arduino Library
 https://github.com/abinantony01/ViSPE-ADIN1110.git|Contributed|ViSPE ADIN1110
 https://github.com/Ahmed191006/XBeeFrame.git|Contributed|XBeeFrame
+https://github.com/Maddy0723/simple.git|Contributed|Simple-Function
