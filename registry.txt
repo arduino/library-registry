@@ -9454,3 +9454,4 @@ https://github.com/abinantony01/ViSPE-ADIN1110.git|Contributed|ViSPE ADIN1110
 https://github.com/Ahmed191006/XBeeFrame.git|Contributed|XBeeFrame
 https://github.com/Maddy0723/simple.git|Contributed|Simple-Function
 https://github.com/ARDUnia/PersianDate.git|Contributed|PersianDate
+https://github.com/SolderedElectronics/Soldered-Relay-Arduino-Library.git|Contributed|Soldered Library for Relays
