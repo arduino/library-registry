@@ -9459,3 +9459,5 @@ https://github.com/Protocentral/protocentral_fdc2214_arduino
 https://github.com/birmanish/PID_5_Sensors
 https://github.com/abinantony01/ViSPE-ADIN1110
 https://github.com/ARDUnia/PersianDate.git
+https://github.com/Ahmed191006/XBeeFrame
+https://github.com/Maddy0723/Simple-Function
