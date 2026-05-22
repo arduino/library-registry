@@ -9469,3 +9469,4 @@ https://github.com/abinantony01/ViSPE-ADIN1110
 https://github.com/ARDUnia/PersianDate.git
 https://github.com/Ahmed191006/XBeeFrame
 https://github.com/Maddy0723/Simple-Function
+https://github.com/haukex/arduino-ascon128
