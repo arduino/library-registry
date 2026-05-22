@@ -9458,3 +9458,7 @@ https://github.com/SolderedElectronics/Soldered-Relay-Arduino-Library.git|Contri
 https://github.com/Raheeb223/EasySensor.git|Contributed|EasySensor
 https://github.com/JW-Control/JW_RTC.git|Contributed|JW_RTC
 https://github.com/JW-Control/JW_SD.git|Contributed|JW_SD
+https://github.com/tdk-invn-oss/motion.arduino.ICM53607.git|Contributed|ICM53607
+https://github.com/tdk-invn-oss/motion.arduino.ICM53611.git|Contributed|ICM53611
+https://github.com/tdk-invn-oss/motion.arduino.ICM53621.git|Contributed|ICM53621
+https://github.com/tdk-invn-oss/motion.arduino.ICM53622.git|Contributed|ICM53622
