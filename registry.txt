@@ -9462,3 +9462,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM53607.git|Contributed|ICM53607
 https://github.com/tdk-invn-oss/motion.arduino.ICM53611.git|Contributed|ICM53611
 https://github.com/tdk-invn-oss/motion.arduino.ICM53621.git|Contributed|ICM53621
 https://github.com/tdk-invn-oss/motion.arduino.ICM53622.git|Contributed|ICM53622
+https://github.com/haukex/arduino-ascon128.git|Contributed|Ascon128
