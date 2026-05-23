@@ -9474,3 +9474,4 @@ https://github.com/haukex/arduino-ascon128
 https://github.com/hmackowski/N64Controller-ESP32.git
 https://github.com/han-sunghyun/Arduino_Linker_Library
 https://github.com/Terry-Gould/ACANFD_SAME
+https://github.com/felixlubenben/XLOT_QuadSwitch
