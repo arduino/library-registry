@@ -9471,3 +9471,4 @@ https://github.com/Ahmed191006/XBeeFrame
 https://github.com/Maddy0723/Simple-Function
 https://github.com/haukex/arduino-ascon128
 https://github.com/hmackowski/N64Controller-ESP32.git
+https://github.com/han-sunghyun/Arduino_Linker_Library
