@@ -9463,3 +9463,4 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM53611.git|Contributed|ICM53611
 https://github.com/tdk-invn-oss/motion.arduino.ICM53621.git|Contributed|ICM53621
 https://github.com/tdk-invn-oss/motion.arduino.ICM53622.git|Contributed|ICM53622
 https://github.com/haukex/arduino-ascon128.git|Contributed|Ascon128
+https://github.com/hmackowski/N64Controller-ESP32.git|Contributed|N64Controller-ESP32
