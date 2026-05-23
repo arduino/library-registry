@@ -9467,4 +9467,4 @@ https://github.com/hmackowski/N64Controller-ESP32.git|Contributed|N64Controller-
 https://github.com/RobTillaart/INA2227.git|Contributed|INA2227
 https://github.com/Terry-Gould/ACANFD_SAME.git|Contributed|ACANFD_SAME
 https://github.com/han-sunghyun/Arduino_Linker_Library.git|Contributed|Linker
-https://github.com/felixlubenben/XLOT_QuadSwitch.git|Contributed|XLOT-QuadSwitch
+https://github.com/xlottech/XLOT_QuadSwitch.git|Contributed|XLOT-QuadSwitch
