@@ -27,6 +27,7 @@ https://github.com/rohitmaji004/RohitCore-Config
 https://github.com/rohitmaji004/RohitCore-Power
 https://github.com/David-Vandensteen/dv-led-blink
 https://github.com/NamNamIoT/ArduLora
+https://github.com/maumolinavaldez-pixel/BioLogic_Mini
 https://github.com/gavinlyonsrepo/BMP390_LTSM
 https://github.com/makeabilitylab/makelab-arduino-lib
 https://github.com/vmykhalchuk/LongLiveThEEPROM
