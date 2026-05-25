@@ -9485,3 +9485,4 @@ https://github.com/felixlubenben/XLOT_QuadSwitch
 https://github.com/Terry-Gould/CANMessageSignal
 https://github.com/Fl-project123/Hijri_date
 https://github.com/mahdi-misk/EasyWiFiMDNS
+https://github.com/spdrw/SPD_Arduino
