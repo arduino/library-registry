@@ -1,3 +1,4 @@
+https://github.com/mynameisbrozu/MT6826S-SPI
 https://github.com/tdk-invn-oss/motion.arduino.ICM53607
 https://github.com/tdk-invn-oss/motion.arduino.ICM53611
 https://github.com/tdk-invn-oss/motion.arduino.ICM53621
