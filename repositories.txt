@@ -9456,7 +9456,6 @@ https://github.com/cyfney/easy_i2c
 https://github.com/CITROMOSEPER/MIDIplayer
 https://github.com/LaskaKit/laskakit_zivyobraz_client
 https://github.com/emakefun-arduino-library/cq01
-https://github.com/Rafeul-1997/ESP32_WebGPIO
 https://github.com/Parvaz-Jamei/EcoSensePower-Arduino
 https://github.com/Alexandros-Charitonidis/MiniMessenger
 https://github.com/Parvaz-Jamei/PulseWetProbe-Arduino
