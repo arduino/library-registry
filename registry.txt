@@ -9474,3 +9474,4 @@ https://github.com/tanakamasayuki/PCMFlowOpus.git|Contributed|PCMFlowOpus
 https://github.com/SolderedElectronics/Soldered-Simple-Sensor-Arduino-Library.git|Contributed|Soldered-Simple-Sensor-Arduino-Library
 https://github.com/spdrw/SPD_Arduino.git|Contributed|SPD_Arduino
 https://github.com/JensDMadsen/StableLCD.git|Contributed|StableLCD
+https://github.com/mynameisbrozu/MT6826S-SPI.git|Contributed|MT6826S SPI
