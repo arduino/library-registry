@@ -9434,7 +9434,6 @@ https://github.com/LennartHennigs/mmWaveKit
 https://github.com/guicaiala/AMRFID
 https://github.com/m5stack/M5Unit-RFID
 http://github.com/deftio/qf_math
-https://github.com/Rafeul1997/ESPCar.git
 https://github.com/andrenepomuceno/CriticalTaskScheduler
 https://github.com/ulywae/NeuKV
 https://github.com/Rafeul1997/NTCTemp
