@@ -9475,3 +9475,4 @@ https://github.com/SolderedElectronics/Soldered-Simple-Sensor-Arduino-Library.gi
 https://github.com/spdrw/SPD_Arduino.git|Contributed|SPD_Arduino
 https://github.com/JensDMadsen/StableLCD.git|Contributed|StableLCD
 https://github.com/mynameisbrozu/MT6826S-SPI.git|Contributed|MT6826S SPI
+https://github.com/hii-nice-2-meet-u/HANUMAN_32_mini.git|Contributed|HANUMAN_32_mini
