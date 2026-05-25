@@ -6935,6 +6935,7 @@ https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Lib
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Simple-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SIM7020-NB-IoT-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SIM800L-GSM-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-TCA9548A-I2C-Multiplexer-Arduino-Library
