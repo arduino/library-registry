@@ -9473,3 +9473,4 @@ https://github.com/Fl-project123/Hijri_date.git|Contributed|Hijri_date
 https://github.com/maumolinavaldez-pixel/BioLogic_Mini.git|Contributed|BioLogic_Mini
 https://github.com/mahdi-misk/EasyWiFiMDNS.git|Contributed|EasyWiFiMDNS
 https://github.com/RobTillaart/TSW10.git|Contributed|TSW10
+https://github.com/SolderedElectronics/Soldered-Basic-Stepper-Driver-Arduino-Library.git|Contributed|Soldered Basic Stepper Driver Arduino Library
