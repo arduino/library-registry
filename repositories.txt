@@ -7438,6 +7438,7 @@ https://github.com/tanakamasayuki/variants_collector
 https://github.com/tanakamasayuki/ArduTest
 https://github.com/tanakamasayuki/PCMFlow
 https://github.com/tanakamasayuki/PCMFlowG711
+https://github.com/tanakamasayuki/PCMFlowG722
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
