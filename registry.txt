@@ -9471,3 +9471,4 @@ https://github.com/felixlubenben/XLOT_QuadSwitch.git|Contributed|XLOT-QuadSwitch
 https://github.com/Terry-Gould/CANMessageSignal.git|Contributed|CANMessageSignal
 https://github.com/Fl-project123/Hijri_date.git|Contributed|Hijri_date
 https://github.com/maumolinavaldez-pixel/BioLogic_Mini.git|Contributed|BioLogic_Mini
+https://github.com/mahdi-misk/EasyWiFiMDNS.git|Contributed|EasyWiFiMDNS
