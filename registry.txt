@@ -9477,3 +9477,4 @@ https://github.com/SolderedElectronics/Soldered-Basic-Stepper-Driver-Arduino-Lib
 https://github.com/tanakamasayuki/PCMFlowG711.git|Contributed|PCMFlowG711
 https://github.com/tanakamasayuki/PCMFlowG722.git|Contributed|PCMFlowG722
 https://github.com/tanakamasayuki/PCMFlowOpus.git|Contributed|PCMFlowOpus
+https://github.com/SolderedElectronics/Soldered-Simple-Sensor-Arduino-Library.git|Contributed|Soldered-Simple-Sensor-Arduino-Library
