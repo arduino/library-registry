@@ -9488,3 +9488,4 @@ https://github.com/mahdi-misk/EasyWiFiMDNS
 https://github.com/spdrw/SPD_Arduino
 https://github.com/JensDMadsen/StableLCD
 https://github.com/AryanKaji/Morse
+https://github.com/jishnumahanta/GitReleaseOTA
