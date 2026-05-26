@@ -9484,3 +9484,4 @@ https://github.com/AryanKaji/Morse.git|Contributed|MorseDecoder
 https://github.com/jishnumahanta/GitReleaseOTA.git|Contributed|GitReleaseOTA
 https://github.com/ulywae/NeuDB.git|Contributed|NeuDB
 https://github.com/soosp/HttpDigestAuth.git|Contributed|HttpDigestAuth
+https://github.com/aynka/DdsOscillator.git|Contributed|DdsOscillator
