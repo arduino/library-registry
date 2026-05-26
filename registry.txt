@@ -9482,3 +9482,4 @@ https://github.com/contaware/TimerPoll_CW.git|Contributed|TimerPoll_CW
 https://github.com/contaware/PrintCol_CW.git|Contributed|PrintCol_CW
 https://github.com/AryanKaji/Morse.git|Contributed|MorseDecoder
 https://github.com/jishnumahanta/GitReleaseOTA.git|Contributed|GitReleaseOTA
+https://github.com/ulywae/NeuDB.git|Contributed|NeuDB
