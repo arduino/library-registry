@@ -9476,3 +9476,7 @@ https://github.com/spdrw/SPD_Arduino.git|Contributed|SPD_Arduino
 https://github.com/JensDMadsen/StableLCD.git|Contributed|StableLCD
 https://github.com/mynameisbrozu/MT6826S-SPI.git|Contributed|MT6826S SPI
 https://github.com/hii-nice-2-meet-u/HANUMAN_32_mini.git|Contributed|HANUMAN_32_mini
+https://github.com/contaware/ButtonPoll_CW.git|Contributed|ButtonPoll_CW
+https://github.com/contaware/RotaryEncoderPoll_CW.git|Contributed|RotaryEncoderPoll_CW
+https://github.com/contaware/TimerPoll_CW.git|Contributed|TimerPoll_CW
+https://github.com/contaware/PrintCol_CW.git|Contributed|PrintCol_CW
