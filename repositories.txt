@@ -1,3 +1,7 @@
+https://github.com/contaware/ButtonPoll_CW.git
+https://github.com/contaware/RotaryEncoderPoll_CW.git
+https://github.com/contaware/TimerPoll_CW.git
+https://github.com/contaware/PrintCol_CW.git
 https://github.com/mynameisbrozu/MT6826S-SPI
 https://github.com/tdk-invn-oss/motion.arduino.ICM53607
 https://github.com/tdk-invn-oss/motion.arduino.ICM53611
