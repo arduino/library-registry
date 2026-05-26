@@ -9490,3 +9490,4 @@ https://github.com/JensDMadsen/StableLCD
 https://github.com/AryanKaji/Morse
 https://github.com/jishnumahanta/GitReleaseOTA
 https://github.com/ulywae/NeuDB
+https://github.com/soosp/HttpDigestAuth
