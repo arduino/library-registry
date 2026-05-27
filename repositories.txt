@@ -9168,6 +9168,7 @@ https://github.com/BOTCLibs/BrgOfTheCyber_SCD4x
 https://github.com/ayatec-europe/AyatecSensoraya2.x
 https://github.com/moddoio/moddoMOUSE-Arduino
 https://github.com/adafruit/Adafruit_APDS9999.git
+https://github.com/dunknowcoding/DiFinders
 https://github.com/dunknowcoding/RoboServo.git
 https://github.com/CostelloTechnical/DN24F08.git
 https://github.com/KovalRM/KRM_libraries_Arduino
