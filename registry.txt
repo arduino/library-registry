@@ -9486,3 +9486,4 @@ https://github.com/ulywae/NeuDB.git|Contributed|NeuDB
 https://github.com/soosp/HttpDigestAuth.git|Contributed|HttpDigestAuth
 https://github.com/aynka/DdsOscillator.git|Contributed|DdsOscillator
 https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library.git|Contributed|DevLab_BL
+https://github.com/BindThings/bindthings-arduino.git|Contributed|BindThings
