@@ -9488,3 +9488,4 @@ https://github.com/aynka/DdsOscillator.git|Contributed|DdsOscillator
 https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library.git|Contributed|DevLab_BL
 https://github.com/BindThings/bindthings-arduino.git|Contributed|BindThings
 https://github.com/m-mcgowan/note-emu.git|Contributed|note-emu
+https://github.com/dunknowcoding/DiFinders.git|Contributed|DiFinders
