@@ -9496,3 +9496,6 @@ https://github.com/ulywae/NeuDB
 https://github.com/soosp/HttpDigestAuth
 https://github.com/aynka/DdsOscillator
 https://github.com/BindThings/bindthings-arduino
+
+https://github.com/edilsonmaia/DadosCorpCore
+https://github.com/edilsonmaia/DadosCorp
