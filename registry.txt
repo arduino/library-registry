@@ -9494,3 +9494,4 @@ https://github.com/edilsonmaia/DadosCorp.git|Contributed|DadosCorp
 https://gitlab.com/iridium/9604_launch_pad/arduino_library.git|Contributed|Iridium9604LaunchPad
 https://github.com/tanakamasayuki/LGFXVirtualCanvas.git|Contributed|LGFXVirtualCanvas
 https://github.com/RobTillaart/I2C_ABP2.git|Contributed|I2C_ABP2
+https://github.com/Fachrain02/FA-Lectric-IoT.git|Contributed|FA-Lectric-IoT
