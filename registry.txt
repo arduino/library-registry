@@ -9495,3 +9495,4 @@ https://gitlab.com/iridium/9604_launch_pad/arduino_library.git|Contributed|Iridi
 https://github.com/tanakamasayuki/LGFXVirtualCanvas.git|Contributed|LGFXVirtualCanvas
 https://github.com/RobTillaart/I2C_ABP2.git|Contributed|I2C_ABP2
 https://github.com/Fachrain02/FA-Lectric-IoT.git|Contributed|FA-Lectric-IoT
+https://github.com/lbuque/ButtonSense.git|Contributed|ButtonSense
