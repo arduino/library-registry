@@ -9496,3 +9496,4 @@ https://github.com/tanakamasayuki/LGFXVirtualCanvas.git|Contributed|LGFXVirtualC
 https://github.com/RobTillaart/I2C_ABP2.git|Contributed|I2C_ABP2
 https://github.com/Fachrain02/FA-Lectric-IoT.git|Contributed|FA-Lectric-IoT
 https://github.com/lbuque/ButtonSense.git|Contributed|ButtonSense
+https://github.com/ripred/BetterMenu.git|Contributed|BetterMenu
