@@ -5970,6 +5970,7 @@ https://github.com/ricmoo/QRCode
 https://github.com/ridencww/cww_MorseTx
 https://github.com/rileyjshaw/Seg16
 https://github.com/ripred/Bang
+https://github.com/ripred/BetterMenu
 https://github.com/ripred/ButtonGestures
 https://github.com/ripred/CompileTime
 https://github.com/ripred/CPUTemp
