@@ -9498,3 +9498,4 @@ https://github.com/Fachrain02/FA-Lectric-IoT.git|Contributed|FA-Lectric-IoT
 https://github.com/lbuque/ButtonSense.git|Contributed|ButtonSense
 https://github.com/ripred/BetterMenu.git|Contributed|BetterMenu
 https://github.com/mbrraghu/2WD_Robot.git|Contributed|2WD_Robot
+https://github.com/JensDMadsen/SafeLED.git|Contributed|SafeLED
