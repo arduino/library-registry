@@ -1,3 +1,10 @@
+https://github.com/mbrraghu/2WD_Robot
+https://github.com/m-mcgowan/note-emu
+https://github.com/contaware/ButtonPoll_CW.git
+https://github.com/contaware/RotaryEncoderPoll_CW.git
+https://github.com/contaware/TimerPoll_CW.git
+https://github.com/contaware/PrintCol_CW.git
+https://github.com/mynameisbrozu/MT6826S-SPI
 https://github.com/tdk-invn-oss/motion.arduino.ICM53607
 https://github.com/tdk-invn-oss/motion.arduino.ICM53611
 https://github.com/tdk-invn-oss/motion.arduino.ICM53621
@@ -5964,6 +5971,7 @@ https://github.com/ricmoo/QRCode
 https://github.com/ridencww/cww_MorseTx
 https://github.com/rileyjshaw/Seg16
 https://github.com/ripred/Bang
+https://github.com/ripred/BetterMenu
 https://github.com/ripred/ButtonGestures
 https://github.com/ripred/CompileTime
 https://github.com/ripred/CPUTemp
@@ -6218,6 +6226,7 @@ https://github.com/RobTillaart/HX711
 https://github.com/RobTillaart/HX711_MP
 https://github.com/RobTillaart/HX712
 https://github.com/RobTillaart/I2C_24LC1025
+https://github.com/RobTillaart/I2C_ABP2
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_CAT24M01
 https://github.com/RobTillaart/I2C_EEPROM
@@ -7441,6 +7450,7 @@ https://github.com/tanakamasayuki/PCMFlow
 https://github.com/tanakamasayuki/PCMFlowG711
 https://github.com/tanakamasayuki/PCMFlowG722
 https://github.com/tanakamasayuki/PCMFlowOpus
+https://github.com/tanakamasayuki/LGFXVirtualCanvas
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8378,6 +8388,7 @@ https://github.com/ConsentiumIoT/EdgeNeuron
 https://github.com/cbm80amiga/DigiFont
 https://github.com/IlikeChooros/EEPROMReader
 https://github.com/GabyGold67/ButtonToSwitch_ESP32
+https://gitlab.com/iridium/9604_launch_pad/arduino_library
 https://gitlab.com/iridium/9704_launch_pad/arduino_library
 https://github.com/Kernow-Robotics/Guppy
 https://github.com/johnsnow-nam/elio-arduino-example
@@ -8958,6 +8969,7 @@ https://github.com/UNIT-Electronics-MX/unit_dvi_hstx_library
 https://github.com/UNIT-Electronics-MX/unit_bma250_library
 https://github.com/UNIT-Electronics-MX/unit_uanima_library
 https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323
+https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -9019,6 +9031,7 @@ https://github.com/pdoebler/HS300x
 https://github.com/hii-nice-2-meet-u/TINY.git
 https://github.com/hii-nice-2-meet-u/LUMINOUS.git
 https://github.com/hii-nice-2-meet-u/HANUMAN_32
+https://github.com/hii-nice-2-meet-u/HANUMAN_32_mini
 https://github.com/sfera-labs/iono
 https://github.com/sfera-labs/arduino-wiegand
 https://github.com/sfera-labs/arduino-modbus-rtu-slave
@@ -9160,6 +9173,7 @@ https://github.com/BOTCLibs/BrgOfTheCyber_SCD4x
 https://github.com/ayatec-europe/AyatecSensoraya2.x
 https://github.com/moddoio/moddoMOUSE-Arduino
 https://github.com/adafruit/Adafruit_APDS9999.git
+https://github.com/dunknowcoding/DiFinders
 https://github.com/dunknowcoding/RoboServo.git
 https://github.com/CostelloTechnical/DN24F08.git
 https://github.com/KovalRM/KRM_libraries_Arduino
@@ -9481,3 +9495,15 @@ https://github.com/Fl-project123/Hijri_date
 https://github.com/mahdi-misk/EasyWiFiMDNS
 https://github.com/spdrw/SPD_Arduino
 https://github.com/JensDMadsen/SafeLED
+https://github.com/JensDMadsen/StableLCD
+https://github.com/AryanKaji/Morse
+https://github.com/jishnumahanta/GitReleaseOTA
+https://github.com/ulywae/NeuDB
+https://github.com/soosp/HttpDigestAuth
+https://github.com/aynka/DdsOscillator
+https://github.com/BindThings/bindthings-arduino
+
+https://github.com/edilsonmaia/DadosCorpCore
+https://github.com/edilsonmaia/DadosCorp
+https://github.com/Fachrain02/FA-Lectric-IoT.git
+https://github.com/lbuque/ButtonSense.git
