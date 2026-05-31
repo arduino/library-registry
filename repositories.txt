@@ -9481,3 +9481,4 @@ https://github.com/Fl-project123/Hijri_date
 https://github.com/mahdi-misk/EasyWiFiMDNS
 https://github.com/spdrw/SPD_Arduino
 https://github.com/JensDMadsen/StableLCD
+https://github.com/JensDMadsen/SafeLED
