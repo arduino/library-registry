@@ -9499,3 +9499,4 @@ https://github.com/lbuque/ButtonSense.git|Contributed|ButtonSense
 https://github.com/ripred/BetterMenu.git|Contributed|BetterMenu
 https://github.com/mbrraghu/2WD_Robot.git|Contributed|2WD_Robot
 https://github.com/JensDMadsen/SafeLED.git|Contributed|SafeLED
+https://github.com/cryptnox/cryptnox-sdk-arduino.git|Contributed|CryptnoxWallet
