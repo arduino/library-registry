@@ -9507,3 +9507,4 @@ https://github.com/edilsonmaia/DadosCorpCore
 https://github.com/edilsonmaia/DadosCorp
 https://github.com/Fachrain02/FA-Lectric-IoT.git
 https://github.com/lbuque/ButtonSense.git
+https://github.com/cryptnox/cryptnox-sdk-arduino
