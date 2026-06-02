@@ -9510,5 +9510,4 @@ https://github.com/Fachrain02/FA-Lectric-IoT.git
 https://github.com/lbuque/ButtonSense.git
 https://github.com/cryptnox/cryptnox-sdk-arduino
 https://github.com/acapovilla/MH-T7042A_Library
-https://github.com/collin80/can_common
 https://github.com/TechOverflow/esp32_can
