@@ -9505,3 +9505,4 @@ https://github.com/apadevices/APALCDGUI.git|Contributed|APALCDGUI
 https://github.com/acapovilla/MH-T7042A_Library.git|Contributed|MH-T7042A Library
 https://github.com/TechOverflow/esp32_can.git|Contributed|ESP32_CAN_NG
 https://github.com/OrkaLxrd/SimpleFlashAudio.git|Contributed|SimpleFlashAudio
+https://github.com/Puara/puara-gestures-arduino.git|Contributed|puara-gestures
