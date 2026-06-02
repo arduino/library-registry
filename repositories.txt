@@ -347,6 +347,8 @@ https://github.com/gavinlyonsrepo/ST7789_LTSM
 https://github.com/PTSolns/BMx280
 https://github.com/Pallob-Gain/packet_device
 https://github.com/gavinlyonsrepo/display16_LTSM
+https://github.com/littlemanbuilds/PotIO
+https://github.com/littlemanbuilds/SwitchBank
 https://github.com/littlemanbuilds/RCLink
 https://github.com/littlemanbuilds/SnapshotBus
 https://github.com/littlemanbuilds/ESP32_MCPWM
