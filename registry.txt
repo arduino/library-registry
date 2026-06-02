@@ -9506,3 +9506,5 @@ https://github.com/acapovilla/MH-T7042A_Library.git|Contributed|MH-T7042A Librar
 https://github.com/TechOverflow/esp32_can.git|Contributed|ESP32_CAN_NG
 https://github.com/OrkaLxrd/SimpleFlashAudio.git|Contributed|SimpleFlashAudio
 https://github.com/Puara/puara-gestures-arduino.git|Contributed|puara-gestures
+https://github.com/littlemanbuilds/PotIO.git|Contributed|PotIO
+https://github.com/littlemanbuilds/SwitchBank.git|Contributed|SwitchBank
