@@ -9504,9 +9504,9 @@ https://github.com/ulywae/NeuDB
 https://github.com/soosp/HttpDigestAuth
 https://github.com/aynka/DdsOscillator
 https://github.com/BindThings/bindthings-arduino
-
 https://github.com/edilsonmaia/DadosCorpCore
 https://github.com/edilsonmaia/DadosCorp
 https://github.com/Fachrain02/FA-Lectric-IoT.git
 https://github.com/lbuque/ButtonSense.git
 https://github.com/cryptnox/cryptnox-sdk-arduino
+https://github.com/acapovilla/MH-T7042A_Library
