@@ -2618,6 +2618,7 @@ https://github.com/DFRobot/DFRobot_BMP3XX
 https://github.com/DFRobot/DFRobot_BMX160
 https://github.com/DFRobot/DFRobot_BT401
 https://github.com/DFRobot/DFRobot_C4001
+https://github.com/DFRobot/DFRobot_C4002
 https://github.com/DFRobot/DFRobot_CCS811
 https://github.com/DFRobot/DFRobot_Cosmo
 https://github.com/DFRobot/DFRobot_CH423
