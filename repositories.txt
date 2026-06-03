@@ -9516,3 +9516,4 @@ https://github.com/cryptnox/cryptnox-sdk-arduino
 https://github.com/acapovilla/MH-T7042A_Library
 https://github.com/TechOverflow/esp32_can
 https://github.com/Puara/puara-gestures-arduino
+https://gitlab.com/wlgrw/han-iot-node
