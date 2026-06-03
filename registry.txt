@@ -9508,3 +9508,4 @@ https://github.com/OrkaLxrd/SimpleFlashAudio.git|Contributed|SimpleFlashAudio
 https://github.com/Puara/puara-gestures-arduino.git|Contributed|puara-gestures
 https://github.com/littlemanbuilds/PotIO.git|Contributed|PotIO
 https://github.com/littlemanbuilds/SwitchBank.git|Contributed|SwitchBank
+https://github.com/DFRobot/DFRobot_C4002.git|Contributed|DFRobot_C4002
