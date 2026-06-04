@@ -9518,3 +9518,4 @@ https://github.com/TechOverflow/esp32_can
 https://github.com/Puara/puara-gestures-arduino
 https://gitlab.com/wlgrw/han-iot-node
 https://github.com/takkaO/OpenFontRender.git
+https://github.com/ARAM-USA-Support/ARAM_Toggle_Actuator
