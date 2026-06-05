@@ -9521,4 +9521,11 @@ https://github.com/takkaO/OpenFontRender.git
 https://github.com/ARAM-USA-Support/ARAM_Toggle_Actuator
 https://github.com/wk1093/CrossScheduler
 https://github.com/soosp/Host
+https://github.com/MacManley/f1-23-udp
+https://github.com/MacManley/f1-24-udp
+https://github.com/MacManley/f1-25-udp
+https://github.com/MacManley/f1-26-udp
+https://github.com/MacManley/gt7-udp
+https://github.com/MacManley/assetto-corsa-udp
+https://github.com/MacManley/project-cars-2-udp
 https://github.com/kokofixcomputers/BitBang_LiquidCrystal_I2C
