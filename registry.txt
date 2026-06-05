@@ -9514,3 +9514,4 @@ https://github.com/takkaO/OpenFontRender.git|Contributed|OpenFontRender
 https://github.com/ARAM-USA-Support/ARAM_Toggle_Actuator.git|Contributed|ARAM_Toggle_Actuator
 https://github.com/wk1093/CrossScheduler.git|Contributed|CrossScheduler
 https://github.com/soosp/Host.git|Contributed|Host
+https://github.com/kokofixcomputers/BitBang_LiquidCrystal_I2C.git|Contributed|BitBang_LiquidCrystal_I2C
