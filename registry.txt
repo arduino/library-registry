@@ -9525,3 +9525,4 @@ https://github.com/MacManley/project-cars-2-udp.git|Contributed|Project Cars 2 U
 https://github.com/Protocentral/protocentral_tmf8829_arduino.git|Contributed|ProtoCentral_TMF8829_dToF_Sensor_Library
 https://github.com/Gershy13/dtc-lookup.git|Contributed|DTC Lookup
 https://github.com/HamzaYslmn/python-esp-bridge.git|Contributed|python esp bridge
+https://github.com/ardunia/TTP223Row.git|Contributed|TTP223Row
