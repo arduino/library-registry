@@ -9526,3 +9526,4 @@ https://github.com/Protocentral/protocentral_tmf8829_arduino.git|Contributed|Pro
 https://github.com/Gershy13/dtc-lookup.git|Contributed|DTC Lookup
 https://github.com/HamzaYslmn/python-esp-bridge.git|Contributed|python esp bridge
 https://github.com/ardunia/TTP223Row.git|Contributed|TTP223Row
+https://github.com/moinologics/AsyncMqttClient.git|Contributed|AsyncMqttClient
