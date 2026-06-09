@@ -9534,3 +9534,4 @@ https://github.com/kokofixcomputers/BitBang_LiquidCrystal_I2C
 https://github.com/Protocentral/protocentral_tmf8829_arduino
 https://github.com/Gershy13/dtc-lookup
 https://github.com/ardunia/TTP223Row
+https://github.com/devjune-apiota/apiota-esp32
