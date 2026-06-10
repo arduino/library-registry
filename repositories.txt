@@ -9540,3 +9540,4 @@ https://github.com/Gershy13/dtc-lookup
 https://github.com/ardunia/TTP223Row
 https://github.com/devjune-apiota/apiota-esp32
 https://github.com/dunknowcoding/ArduinoNRF-Thread
+https://codeberg.org/OperatorFoundation/AudioCodec
