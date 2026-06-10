@@ -9531,3 +9531,4 @@ https://github.com/devjune-apiota/apiota-esp32.git|Contributed|APIOTA
 https://github.com/dunknowcoding/ArduinoNRF-IMU.git|Contributed|NiusIMU
 https://github.com/dunknowcoding/ArduinoNRF-Zigbee.git|Contributed|NiusZigbee
 https://github.com/GavinnnTann/HLK-ZW-Fingerprint-Sensor.git|Contributed|HLK_fingerprint
+https://github.com/sitronlabs/SitronLabs_Pixart_PAT9130EW_Arduino_Library.git|Contributed|Sitron Labs PAT9130EW Arduino Library
