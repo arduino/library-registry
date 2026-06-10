@@ -9539,3 +9539,4 @@ https://github.com/Protocentral/protocentral_tmf8829_arduino
 https://github.com/Gershy13/dtc-lookup
 https://github.com/ardunia/TTP223Row
 https://github.com/devjune-apiota/apiota-esp32
+https://github.com/dunknowcoding/ArduinoNRF-Thread
