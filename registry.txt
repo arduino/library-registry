@@ -9539,3 +9539,4 @@ https://github.com/tanakamasayuki/LGFXScreenBuilder.git|Contributed|LGFXScreenBu
 https://github.com/m5stack/M5Hat-Mini-JoyC.git|Contributed|M5Hat-Mini-JoyC
 https://github.com/pjscruggs/Time64.git|Contributed|Time64
 https://github.com/dunknowcoding/ArduinoNRF-Crypto.git|Contributed|NiusCrypto
+https://github.com/bluerobotics/BlueRobotics_TMP119_Library.git|Contributed|TMP119
