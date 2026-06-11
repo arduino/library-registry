@@ -9535,3 +9535,4 @@ https://github.com/sitronlabs/SitronLabs_Pixart_PAT9130EW_Arduino_Library.git|Co
 https://github.com/dunknowcoding/ArduinoNRF-Thread.git|Contributed|NiusThread
 https://github.com/OperatorFoundation/AudioCodec.git|Contributed|AudioCodec
 https://github.com/dmdengineeringllc/DMD_AllocTrace.git|Contributed|DMD_AllocTrace
+https://github.com/tanakamasayuki/LGFXScreenBuilder.git|Contributed|LGFXScreenBuilder
