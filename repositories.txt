@@ -7460,6 +7460,7 @@ https://github.com/tanakamasayuki/PCMFlowG711
 https://github.com/tanakamasayuki/PCMFlowG722
 https://github.com/tanakamasayuki/PCMFlowOpus
 https://github.com/tanakamasayuki/LGFXVirtualCanvas
+https://github.com/tanakamasayuki/LGFXScreenBuilder
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
