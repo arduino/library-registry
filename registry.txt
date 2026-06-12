@@ -9548,3 +9548,4 @@ https://github.com/pjscruggs/NeoGPS-GarminClock.git|Contributed|NeoGPS-GarminClo
 https://github.com/MaratDevT/SimpleCode.git|Contributed|SimpleCode
 https://github.com/Lonely-Binary/FluxGrid.git|Contributed|Fluxgrid
 https://github.com/lasselukkari/ArduinoJsonLogic.git|Contributed|JsonLogic
+https://github.com/n-car/rpc-arduino-toolkit.git|Contributed|RPCToolkit
