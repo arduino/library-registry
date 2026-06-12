@@ -9549,3 +9549,5 @@ https://github.com/pjscruggs/Time64
 https://github.com/pjscruggs/TLC5947_SplitLatch
 https://github.com/bluerobotics/BlueRobotics_TMP119_Library
 https://github.com/jshaw/SJSArray
+
+https://github.com/superdmz/SuperDMZ-Arduino
