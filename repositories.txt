@@ -9552,6 +9552,6 @@ https://github.com/pjscruggs/NeoGPS-GarminClock
 https://github.com/pjscruggs/TLC5947_SplitLatch
 https://github.com/bluerobotics/BlueRobotics_TMP119_Library
 https://github.com/jshaw/SJSArray
-
 https://github.com/superdmz/SuperDMZ-Arduino
 https://github.com/Lonely-Binary/FluxGrid
+https://github.com/lasselukkari/ArduinoJsonLogic
