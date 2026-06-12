@@ -9547,3 +9547,4 @@ https://github.com/pjscruggs/Timezone64.git|Contributed|Timezone64
 https://github.com/pjscruggs/NeoGPS-GarminClock.git|Contributed|NeoGPS-GarminClock
 https://github.com/MaratDevT/SimpleCode.git|Contributed|SimpleCode
 https://github.com/Lonely-Binary/FluxGrid.git|Contributed|Fluxgrid
+https://github.com/lasselukkari/ArduinoJsonLogic.git|Contributed|JsonLogic
