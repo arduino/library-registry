@@ -9544,3 +9544,4 @@ https://github.com/jshaw/SJSArray.git|Contributed|SJSArray
 https://github.com/pjscruggs/TLC5947_SplitLatch.git|Contributed|TLC5947_SplitLatch
 https://github.com/superdmz/SuperDMZ-Arduino.git|Contributed|SuperDMZ
 https://github.com/pjscruggs/Timezone64.git|Contributed|Timezone64
+https://github.com/pjscruggs/NeoGPS-GarminClock.git|Contributed|NeoGPS-GarminClock
