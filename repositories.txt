@@ -9546,6 +9546,7 @@ https://github.com/dunknowcoding/ArduinoNRF-Thread
 https://github.com/OperatorFoundation/AudioCodec
 https://github.com/m5stack/M5Hat-Mini-JoyC
 https://github.com/pjscruggs/Time64
+https://github.com/pjscruggs/Timezone64
 https://github.com/pjscruggs/TLC5947_SplitLatch
 https://github.com/bluerobotics/BlueRobotics_TMP119_Library
 https://github.com/jshaw/SJSArray
