@@ -9542,3 +9542,4 @@ https://github.com/dunknowcoding/ArduinoNRF-Crypto.git|Contributed|NiusCrypto
 https://github.com/bluerobotics/BlueRobotics_TMP119_Library.git|Contributed|TMP119
 https://github.com/jshaw/SJSArray.git|Contributed|SJSArray
 https://github.com/pjscruggs/TLC5947_SplitLatch.git|Contributed|TLC5947_SplitLatch
+https://github.com/superdmz/SuperDMZ-Arduino.git|Contributed|SuperDMZ
