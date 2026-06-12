@@ -9554,3 +9554,4 @@ https://github.com/bluerobotics/BlueRobotics_TMP119_Library
 https://github.com/jshaw/SJSArray
 
 https://github.com/superdmz/SuperDMZ-Arduino
+https://github.com/Lonely-Binary/FluxGrid
