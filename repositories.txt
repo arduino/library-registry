@@ -9555,3 +9555,4 @@ https://github.com/jshaw/SJSArray
 https://github.com/superdmz/SuperDMZ-Arduino
 https://github.com/Lonely-Binary/FluxGrid
 https://github.com/lasselukkari/ArduinoJsonLogic
+https://github.com/n-car/rpc-arduino-toolkit
