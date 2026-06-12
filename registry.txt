@@ -9543,3 +9543,4 @@ https://github.com/bluerobotics/BlueRobotics_TMP119_Library.git|Contributed|TMP1
 https://github.com/jshaw/SJSArray.git|Contributed|SJSArray
 https://github.com/pjscruggs/TLC5947_SplitLatch.git|Contributed|TLC5947_SplitLatch
 https://github.com/superdmz/SuperDMZ-Arduino.git|Contributed|SuperDMZ
+https://github.com/pjscruggs/Timezone64.git|Contributed|Timezone64
