@@ -9554,3 +9554,4 @@ https://github.com/Vean/FansElectronics_DMD32.git|Contributed|FansElectronics_DM
 https://github.com/zenopcb/zenopcb-iot-platform.git|Contributed|ZenoPCB
 https://github.com/HiTECH-Corporation/R4-WifiManager.git|Contributed|HiTECH R4 Wifi Manager
 https://github.com/gevindug/HW827_PPG.git|Contributed|HW827_PPG
+https://github.com/iliaslamprou/VirtuinoCloud.git|Contributed|VirtuinoCloud
