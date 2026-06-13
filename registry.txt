@@ -9552,3 +9552,4 @@ https://github.com/n-car/rpc-arduino-toolkit.git|Contributed|RPCToolkit
 https://github.com/Lonely-Binary/Coin-Acceptor.git|Contributed|Lonely Binary Coin Acceptor
 https://github.com/Vean/FansElectronics_DMD32.git|Contributed|FansElectronics_DMD32
 https://github.com/zenopcb/zenopcb-iot-platform.git|Contributed|ZenoPCB
+https://github.com/HiTECH-Corporation/R4-WifiManager.git|Contributed|HiTECH R4 Wifi Manager
