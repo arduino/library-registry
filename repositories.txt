@@ -1,3 +1,4 @@
+https://github.com/gevindug/HW827_PPG
 https://github.com/Vean/FansElectronics_DMD32
 https://github.com/MaratDevT/SimpleCode
 https://github.com/GavinnnTann/HLK-ZW-Fingerprint-Sensor
