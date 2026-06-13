@@ -9556,3 +9556,4 @@ https://github.com/superdmz/SuperDMZ-Arduino
 https://github.com/Lonely-Binary/FluxGrid
 https://github.com/lasselukkari/ArduinoJsonLogic
 https://github.com/n-car/rpc-arduino-toolkit
+https://github.com/Lonely-Binary/Coin-Acceptor
