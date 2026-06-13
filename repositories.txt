@@ -9561,3 +9561,4 @@ https://github.com/n-car/rpc-arduino-toolkit
 https://github.com/Lonely-Binary/Coin-Acceptor
 https://github.com/zenopcb/zenopcb-iot-platform.git
 https://github.com/HiTECH-Corporation/R4-WifiManager.git
+https://github.com/iliaslamprou/VirtuinoCloud
