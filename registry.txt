@@ -9549,3 +9549,4 @@ https://github.com/MaratDevT/SimpleCode.git|Contributed|SimpleCode
 https://github.com/Lonely-Binary/FluxGrid.git|Contributed|Fluxgrid
 https://github.com/lasselukkari/ArduinoJsonLogic.git|Contributed|JsonLogic
 https://github.com/n-car/rpc-arduino-toolkit.git|Contributed|RPCToolkit
+https://github.com/Lonely-Binary/Coin-Acceptor.git|Contributed|Lonely Binary Coin Acceptor
