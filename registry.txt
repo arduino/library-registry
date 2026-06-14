@@ -9556,3 +9556,5 @@ https://github.com/HiTECH-Corporation/R4-WifiManager.git|Contributed|HiTECH R4 W
 https://github.com/gevindug/HW827_PPG.git|Contributed|HW827_PPG
 https://github.com/iliaslamprou/VirtuinoCloud.git|Contributed|VirtuinoCloud
 https://github.com/thehiddenguy13/UsefullCommands.git|Contributed|UsefullCommands
+https://github.com/alkonosst/ByteFrame.git|Contributed|ByteFrame
+https://github.com/alkonosst/BytePack.git|Contributed|BytePack
