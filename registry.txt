@@ -9567,3 +9567,4 @@ https://github.com/Vean/FansElectronics_DMD8266.git|Contributed|FansElectronics_
 https://github.com/robiduck/Raphael.git|Contributed|Raphael
 https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library.git|Contributed|SparkFun MCP4725 Arduino Library
 https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library.git|Contributed|DevLab_ICM20948
+https://github.com/HuuPhuoc2411/VN_LCD.git|Contributed|VN_LCD
