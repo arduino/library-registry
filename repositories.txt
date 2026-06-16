@@ -1,3 +1,5 @@
+https://github.com/Vean/FansElectronics_DMD8266
+https://github.com/You-010/HCSR04_ESP_Hardware
 https://github.com/gevindug/HW827_PPG
 https://github.com/Vean/FansElectronics_DMD32
 https://github.com/MaratDevT/SimpleCode
@@ -9568,4 +9570,6 @@ https://github.com/iliaslamprou/VirtuinoCloud
 https://github.com/thehiddenguy13/UsefullCommands
 https://github.com/dukang1996/DroneCAN_ESP32
 https://github.com/levkovigor/AODV
-
+https://github.com/emakefun-arduino-library/aq01
+https://github.com/robiduck/Raphael
+https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library
