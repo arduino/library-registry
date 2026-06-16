@@ -9565,3 +9565,4 @@ https://github.com/You-010/HCSR04_ESP_Hardware.git|Contributed|HCSR04_ESP_Hardwa
 https://github.com/emakefun-arduino-library/aq01.git|Contributed|AQ01
 https://github.com/Vean/FansElectronics_DMD8266.git|Contributed|FansElectronics_DMD8266
 https://github.com/robiduck/Raphael.git|Contributed|Raphael
+https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library.git|Contributed|SparkFun MCP4725 Arduino Library
