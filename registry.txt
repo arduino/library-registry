@@ -9563,3 +9563,4 @@ https://github.com/levkovigor/AODV.git|Contributed|AODV
 https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library.git|Contributed|Devlab_TSL2591
 https://github.com/You-010/HCSR04_ESP_Hardware.git|Contributed|HCSR04_ESP_Hardware
 https://github.com/emakefun-arduino-library/aq01.git|Contributed|AQ01
+https://github.com/Vean/FansElectronics_DMD8266.git|Contributed|FansElectronics_DMD8266
