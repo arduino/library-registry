@@ -6281,6 +6281,7 @@ https://github.com/RobTillaart/LTR390_RT
 https://github.com/RobTillaart/LUHN
 https://github.com/RobTillaart/M5ANGLE8
 https://github.com/RobTillaart/M5ROTATE8
+https://github.com/RobTillaart/M5SWITCH8
 https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/map2bits
 https://github.com/RobTillaart/map2colour
