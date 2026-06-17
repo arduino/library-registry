@@ -9569,3 +9569,4 @@ https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library.git|Contributed|Spa
 https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library.git|Contributed|DevLab_ICM20948
 https://github.com/HuuPhuoc2411/VN_LCD.git|Contributed|VN_LCD
 https://github.com/engeen-nl/Arduino-TLE75080.git|Contributed|TLE75080
+https://github.com/RobTillaart/M5SWITCH8.git|Contributed|M5SWITCH8
