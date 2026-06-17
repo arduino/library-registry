@@ -8992,6 +8992,7 @@ https://github.com/UNIT-Electronics-MX/unit_library_devlab_bmi323
 https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
