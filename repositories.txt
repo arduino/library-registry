@@ -1631,6 +1631,7 @@ https://github.com/arduino-libraries/Arduino_Threads
 https://github.com/arduino-libraries/Arduino_UnifiedStorage
 https://github.com/arduino-libraries/Arduino_USBHIDHost
 https://github.com/arduino-libraries/Arduino_USBHostMbed5
+https://github.com/arduino-libraries/Arduino_Video
 https://github.com/arduino-libraries/ArduinoBearSSL
 https://github.com/arduino-libraries/ArduinoBLE
 https://github.com/arduino-libraries/ArduinoCloudThing
@@ -6281,6 +6282,7 @@ https://github.com/RobTillaart/LTR390_RT
 https://github.com/RobTillaart/LUHN
 https://github.com/RobTillaart/M5ANGLE8
 https://github.com/RobTillaart/M5ROTATE8
+https://github.com/RobTillaart/M5SWITCH8
 https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/map2bits
 https://github.com/RobTillaart/map2colour
@@ -9574,3 +9576,5 @@ https://github.com/levkovigor/AODV
 https://github.com/emakefun-arduino-library/aq01
 https://github.com/robiduck/Raphael
 https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library
+https://github.com/HuuPhuoc2411/VN_LCD
+https://github.com/engeen-nl/Arduino-TLE75080
