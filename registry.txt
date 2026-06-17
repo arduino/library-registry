@@ -9571,3 +9571,4 @@ https://github.com/HuuPhuoc2411/VN_LCD.git|Contributed|VN_LCD
 https://github.com/engeen-nl/Arduino-TLE75080.git|Contributed|TLE75080
 https://github.com/RobTillaart/M5SWITCH8.git|Contributed|M5SWITCH8
 https://github.com/arduino-libraries/Arduino_Video.git|Arduino|Arduino_Video
+https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library.git|Contributed|DevLab_VEML7700
