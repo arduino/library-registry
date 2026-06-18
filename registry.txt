@@ -9573,3 +9573,4 @@ https://github.com/RobTillaart/M5SWITCH8.git|Contributed|M5SWITCH8
 https://github.com/arduino-libraries/Arduino_Video.git|Arduino|Arduino_Video
 https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library.git|Contributed|DevLab_VEML7700
 https://github.com/iotpioneers/iotdatahub-library.git|Contributed|IoTDataHub
+https://github.com/tkhoi0821-svg/GrayKazu.git|Contributed|GrayKazu
