@@ -9581,3 +9581,4 @@ https://github.com/tanakamasayuki/PCMFlowDevice.git|Contributed|PCMFlowDevice
 https://github.com/pcbcupid/PCBCUPID-NAU8325.git|Contributed|PCBCUPID-NAU8325
 https://github.com/tanakamasayuki/PCMFlowUDP.git|Contributed|PCMFlowUDP
 https://github.com/pcbcupid/PCBCUPID-MCP79412.git|Contributed|PCBCUPID_MCP79412RTC
+https://github.com/pcbcupid/PCBCUPID-PLAYER.git|Contributed|PCBCUPID_PLAYERS
