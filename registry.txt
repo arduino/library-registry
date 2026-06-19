@@ -9575,7 +9575,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library.git|Contribu
 https://github.com/iotpioneers/iotdatahub-library.git|Contributed|IoTDataHub
 https://github.com/tkhoi0821-svg/GrayKazu.git|Contributed|GrayKazu
 https://github.com/figamore/EspNowLink.git|Contributed|EspNowLink
-https://github.com/Sakuhano/JoystickProtocol.git|Contributed|JoystickButton
+https://github.com/Sakuhano/JoystickButton.git|Contributed|JoystickButton
 https://github.com/dstroy0/XPoint.git|Contributed|XPoint
 https://github.com/tanakamasayuki/PCMFlowDevice.git|Contributed|PCMFlowDevice
 https://github.com/pcbcupid/PCBCUPID-NAU8325.git|Contributed|PCBCUPID-NAU8325
