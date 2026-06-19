@@ -9579,3 +9579,4 @@ https://github.com/Sakuhano/JoystickProtocol.git|Contributed|JoystickProtocol
 https://github.com/dstroy0/XPoint.git|Contributed|XPoint
 https://github.com/tanakamasayuki/PCMFlowDevice.git|Contributed|PCMFlowDevice
 https://github.com/pcbcupid/PCBCUPID-NAU8325.git|Contributed|PCBCUPID-NAU8325
+https://github.com/tanakamasayuki/PCMFlowUDP.git|Contributed|PCMFlowUDP
