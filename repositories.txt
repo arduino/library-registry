@@ -9585,4 +9585,4 @@ https://github.com/iotpioneers/iotdatahub-library
 https://github.com/figamore/EspNowLink
 https://github.com/Sakuhano/JoystickProtocol
 https://github.com/dstroy0/XPoint
-
+https://github.com/pcbcupid/PCBCUPID-NAU8325
