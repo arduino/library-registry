@@ -9584,3 +9584,4 @@ https://github.com/pcbcupid/PCBCUPID-MCP79412.git|Contributed|PCBCUPID_MCP79412R
 https://github.com/pcbcupid/PCBCUPID-PLAYER.git|Contributed|PCBCUPID_PLAYERS
 https://github.com/dstroy0/DeterministicESPAsyncWebServer.git|Contributed|DeterministicESPAsyncWebServer
 https://github.com/OneDevelopmentPL/EasyIR.git|Contributed|EasyIR
+https://github.com/nananauno/M5GuruguruAvatar.git|Contributed|M5GuruguruAvatar
