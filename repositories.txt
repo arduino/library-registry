@@ -9590,3 +9590,4 @@ https://github.com/pcbcupid/PCBCUPID-NAU8325
 https://github.com/pcbcupid/PCBCUPID-MCP79412
 https://github.com/pcbcupid/PCBCUPID-PLAYER
 https://github.com/dstroy0/DeterministicESPAsyncWebServer
+https://github.com/OneDevelopmentPL/EasyIR
