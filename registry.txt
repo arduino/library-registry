@@ -9585,3 +9585,4 @@ https://github.com/pcbcupid/PCBCUPID-PLAYER.git|Contributed|PCBCUPID_PLAYERS
 https://github.com/dstroy0/DeterministicESPAsyncWebServer.git|Contributed|DeterministicESPAsyncWebServer
 https://github.com/OneDevelopmentPL/EasyIR.git|Contributed|EasyIR
 https://github.com/nananauno/M5GuruguruAvatar.git|Contributed|M5GuruguruAvatar
+https://github.com/HuuPhuoc2411/VN_VOICE.git|Contributed|VN_VOICE
