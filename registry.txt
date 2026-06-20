@@ -9583,3 +9583,4 @@ https://github.com/tanakamasayuki/PCMFlowUDP.git|Contributed|PCMFlowUDP
 https://github.com/pcbcupid/PCBCUPID-MCP79412.git|Contributed|PCBCUPID_MCP79412RTC
 https://github.com/pcbcupid/PCBCUPID-PLAYER.git|Contributed|PCBCUPID_PLAYERS
 https://github.com/dstroy0/DeterministicESPAsyncWebServer.git|Contributed|DeterministicESPAsyncWebServer
+https://github.com/OneDevelopmentPL/EasyIR.git|Contributed|EasyIR
