@@ -8314,6 +8314,7 @@ https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut
 https://github.com/decadenza/ProsecCoAP
 https://github.com/Syafiqlim/ESP32_MySQL
 https://github.com/nananauno/M5EasyUI
+https://github.com/nananauno/M5GuruguruAvatar
 https://github.com/x821938/erpc
 https://github.com/jonp92/TemplateTango
 https://github.com/xamrex/arduino-InstagramFollowers
