@@ -9596,3 +9596,4 @@ https://github.com/OneDevelopmentPL/EasyIR
 https://github.com/HuuPhuoc2411/VN_VOICE
 https://github.com/vic4key/MyOTA
 https://github.com/NodeWave-EA/FOTA-Client-ESP32
+https://github.com/c-gayan/OtaHub
