@@ -9592,3 +9592,4 @@ https://github.com/NodeWave-EA/FOTA-Client-ESP32.git|Contributed|FOTA-Client-ESP
 https://github.com/fun6400/Adafruit_SSD1306_72x40.git|Contributed|Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF.git|Contributed|PipeGIF
 https://github.com/c-gayan/OtaHub.git|Contributed|OtaHub
+https://github.com/CodexPad/robust_frame_arduino_lib.git|Contributed|RobustFrame
