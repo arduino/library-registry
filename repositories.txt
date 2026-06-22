@@ -5689,6 +5689,7 @@ https://github.com/pololu/tic-arduino
 https://github.com/pololu/usb-pause-arduino
 https://github.com/pololu/vl53l0x-arduino
 https://github.com/pololu/vl53l1x-arduino
+https://github.com/pololu/vl53l4cd-arduino
 https://github.com/pololu/vl6180x-arduino
 https://github.com/pololu/xyzrobot-servo-arduino
 https://github.com/pololu/zumo-32u4-arduino-library
