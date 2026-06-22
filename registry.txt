@@ -9594,3 +9594,4 @@ https://github.com/fun6400/PipeGIF.git|Contributed|PipeGIF
 https://github.com/c-gayan/OtaHub.git|Contributed|OtaHub
 https://github.com/CodexPad/robust_frame_arduino_lib.git|Contributed|RobustFrame
 https://github.com/levkovigor/UWB_DW1000_DW3000.git|Contributed|UWB_DW1000_DW3000
+https://github.com/MyTechWaifu/MTW_TinyLoopScheduler.git|Contributed|MTW TinyLoopScheduler
