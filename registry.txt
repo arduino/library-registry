@@ -9591,3 +9591,4 @@ https://github.com/Moaaz-i/UMOZ.git|Contributed|UMOZ
 https://github.com/NodeWave-EA/FOTA-Client-ESP32.git|Contributed|FOTA-Client-ESP32
 https://github.com/fun6400/Adafruit_SSD1306_72x40.git|Contributed|Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF.git|Contributed|PipeGIF
+https://github.com/c-gayan/OtaHub.git|Contributed|OtaHub
