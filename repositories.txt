@@ -9598,6 +9598,7 @@ https://github.com/OneDevelopmentPL/EasyIR
 https://github.com/HuuPhuoc2411/VN_VOICE
 https://github.com/vic4key/MyOTA
 https://github.com/NodeWave-EA/FOTA-Client-ESP32
+https://github.com/MyTechWaifu/MTW_TinyLoopScheduler
 https://github.com/c-gayan/OtaHub
 https://github.com/CodexPad/robust_frame_arduino_lib
 https://github.com/levkovigor/UWB_DW1000_DW3000
