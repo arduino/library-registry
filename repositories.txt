@@ -1,3 +1,7 @@
+https://github.com/fun6400/Adafruit_SSD1306_72x40
+https://github.com/fun6400/PipeGIF
+https://github.com/Moaaz-i/UMOZ
+https://github.com/tkhoi0821-svg/GrayKazu
 https://github.com/Vean/FansElectronics_DMD8266
 https://github.com/You-010/HCSR04_ESP_Hardware
 https://github.com/gevindug/HW827_PPG
@@ -7470,6 +7474,8 @@ https://github.com/tanakamasayuki/PCMFlowG722
 https://github.com/tanakamasayuki/PCMFlowOpus
 https://github.com/tanakamasayuki/LGFXVirtualCanvas
 https://github.com/tanakamasayuki/LGFXScreenBuilder
+https://github.com/tanakamasayuki/PCMFlowDevice
+https://github.com/tanakamasayuki/PCMFlowUDP
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -8311,6 +8317,7 @@ https://github.com/SpaceTrekKSC/SpaceTrek_ExoNaut
 https://github.com/decadenza/ProsecCoAP
 https://github.com/Syafiqlim/ESP32_MySQL
 https://github.com/nananauno/M5EasyUI
+https://github.com/nananauno/M5GuruguruAvatar
 https://github.com/x821938/erpc
 https://github.com/jonp92/TemplateTango
 https://github.com/xamrex/arduino-InstagramFollowers
@@ -9579,3 +9586,19 @@ https://github.com/robiduck/Raphael
 https://github.com/sparkfun/SparkFun_MCP4725_Arduino_Library
 https://github.com/HuuPhuoc2411/VN_LCD
 https://github.com/engeen-nl/Arduino-TLE75080
+https://github.com/iotpioneers/iotdatahub-library
+https://github.com/figamore/EspNowLink
+https://github.com/Sakuhano/JoystickProtocol
+https://github.com/dstroy0/XPoint
+https://github.com/pcbcupid/PCBCUPID-NAU8325
+https://github.com/pcbcupid/PCBCUPID-MCP79412
+https://github.com/pcbcupid/PCBCUPID-PLAYER
+https://github.com/dstroy0/DeterministicESPAsyncWebServer
+https://github.com/OneDevelopmentPL/EasyIR
+https://github.com/HuuPhuoc2411/VN_VOICE
+https://github.com/vic4key/MyOTA
+https://github.com/NodeWave-EA/FOTA-Client-ESP32
+https://github.com/MyTechWaifu/MTW_TinyLoopScheduler
+https://github.com/c-gayan/OtaHub
+https://github.com/CodexPad/robust_frame_arduino_lib
+https://github.com/levkovigor/UWB_DW1000_DW3000
