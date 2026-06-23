@@ -9433,6 +9433,7 @@ https://github.com/atsign-foundation/at_client_arduino.git
 https://github.com/deftio/xelp
 https://github.com/juslam/IoTera_Arduino
 https://github.com/mattykakes/SerialCommandCoordinator
+https://github.com/mattykakes/L6474-stepper-motor-driver
 https://github.com/foodini/arduino_ms5611_spi
 https://github.com/deftio/fr_math
 https://github.com/truongphat230799/ohstem-orc-hub-robotics.git
