@@ -9609,3 +9609,4 @@ https://github.com/levkovigor/UWB_DW1000_DW3000
 https://github.com/CodexPad/gamepad_input_arduino_lib
 https://github.com/Pooria-nek/BusproCore
 https://github.com/argeorun/BACnetMSTP-ArduinoLib
+https://github.com/Qmaker-programmer/segDisplay
