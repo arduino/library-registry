@@ -9601,3 +9601,4 @@ https://github.com/CodexPad/gamepad_input_arduino_lib.git|Contributed|GamepadInp
 https://github.com/mattykakes/L6474-stepper-motor-driver.git|Contributed|L6474
 https://github.com/LautaroRodriguezBase/PButton.git|Contributed|PButton
 https://github.com/Pooria-nek/BusproCore.git|Contributed|BusproCore
+https://github.com/argeorun/BACnetMSTP-ArduinoLib.git|Contributed|BACnetMSTP
