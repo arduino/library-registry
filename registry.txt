@@ -9587,7 +9587,7 @@ https://github.com/OneDevelopmentPL/EasyIR.git|Contributed|EasyIR
 https://github.com/nananauno/M5GuruguruAvatar.git|Contributed|M5GuruguruAvatar
 https://github.com/HuuPhuoc2411/VN_VOICE.git|Contributed|VN_VOICE
 https://github.com/vic4key/MyOTA.git|Contributed|MyOTA
-https://github.com/Moaaz-i/UMOZ.git|Contributed|UMOZ
+https://github.com/Moaaz-i/UMOZ.git|Contributed|MicroTaskX
 https://github.com/NodeWave-EA/FOTA-Client-ESP32.git|Contributed|FOTA-Client-ESP32
 https://github.com/fun6400/Adafruit_SSD1306_72x40.git|Contributed|Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF.git|Contributed|PipeGIF
