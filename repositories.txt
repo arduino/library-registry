@@ -9604,3 +9604,4 @@ https://github.com/MyTechWaifu/MTW_TinyLoopScheduler
 https://github.com/c-gayan/OtaHub
 https://github.com/CodexPad/robust_frame_arduino_lib
 https://github.com/levkovigor/UWB_DW1000_DW3000
+https://github.com/CodexPad/gamepad_input_arduino_lib
