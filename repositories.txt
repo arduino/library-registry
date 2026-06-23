@@ -9607,3 +9607,7 @@ https://github.com/c-gayan/OtaHub
 https://github.com/CodexPad/robust_frame_arduino_lib
 https://github.com/levkovigor/UWB_DW1000_DW3000
 https://github.com/CodexPad/gamepad_input_arduino_lib
+https://github.com/Pooria-nek/BusproCore.git
+https://github.com/Pooria-nek/4Z_library.git
+https://github.com/Pooria-nek/4R_library.git
+https://github.com/Pooria-nek/4T_library.git
