@@ -9597,3 +9597,4 @@ https://github.com/levkovigor/UWB_DW1000_DW3000.git|Contributed|UWB_DW1000_DW300
 https://github.com/MyTechWaifu/MTW_TinyLoopScheduler.git|Contributed|MTW TinyLoopScheduler
 https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library.git|Contributed|UnitCMSISDAP
 https://github.com/pololu/vl53l4cd-arduino.git|Contributed|VL53L4CD
+https://github.com/CodexPad/gamepad_input_arduino_lib.git|Contributed|GamepadInput
