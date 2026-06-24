@@ -9616,3 +9616,4 @@ https://github.com/Qmaker-programmer/segDisplay
 https://github.com/zeevje/ESPNowHub
 https://github.com/HimC29/AsyncBitMatrix
 https://github.com/PTSolns/I2Connect_EEPROM
+https://github.com/winglander/PiicoDev_Buzzer
