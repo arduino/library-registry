@@ -9003,6 +9003,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_veml3328_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_max30102_library
 https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library
 https://github.com/jmwanderer/tlv.arduino
