@@ -1,3 +1,4 @@
+https://github.com/LautaroRodriguezBase/PButton
 https://github.com/fun6400/Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF
 https://github.com/Moaaz-i/UMOZ
@@ -5689,6 +5690,7 @@ https://github.com/pololu/tic-arduino
 https://github.com/pololu/usb-pause-arduino
 https://github.com/pololu/vl53l0x-arduino
 https://github.com/pololu/vl53l1x-arduino
+https://github.com/pololu/vl53l4cd-arduino
 https://github.com/pololu/vl6180x-arduino
 https://github.com/pololu/xyzrobot-servo-arduino
 https://github.com/pololu/zumo-32u4-arduino-library
@@ -7476,6 +7478,7 @@ https://github.com/tanakamasayuki/LGFXVirtualCanvas
 https://github.com/tanakamasayuki/LGFXScreenBuilder
 https://github.com/tanakamasayuki/PCMFlowDevice
 https://github.com/tanakamasayuki/PCMFlowUDP
+https://github.com/tanakamasayuki/ESP32IRPulseKit
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -9432,6 +9435,7 @@ https://github.com/atsign-foundation/at_client_arduino.git
 https://github.com/deftio/xelp
 https://github.com/juslam/IoTera_Arduino
 https://github.com/mattykakes/SerialCommandCoordinator
+https://github.com/mattykakes/L6474-stepper-motor-driver
 https://github.com/foodini/arduino_ms5611_spi
 https://github.com/deftio/fr_math
 https://github.com/truongphat230799/ohstem-orc-hub-robotics.git
@@ -9603,3 +9607,9 @@ https://github.com/MyTechWaifu/MTW_TinyLoopScheduler
 https://github.com/c-gayan/OtaHub
 https://github.com/CodexPad/robust_frame_arduino_lib
 https://github.com/levkovigor/UWB_DW1000_DW3000
+https://github.com/CodexPad/gamepad_input_arduino_lib
+https://github.com/Pooria-nek/BusproCore
+https://github.com/argeorun/BACnetMSTP-ArduinoLib
+https://github.com/Qmaker-programmer/segDisplay
+https://github.com/zeevje/ESPNowHub
+https://github.com/HimC29/AsyncBitMatrix
