@@ -9603,3 +9603,4 @@ https://github.com/LautaroRodriguezBase/PButton.git|Contributed|PButton
 https://github.com/Pooria-nek/BusproCore.git|Contributed|BusproCore
 https://github.com/argeorun/BACnetMSTP-ArduinoLib.git|Contributed|BACnetMSTP
 https://github.com/Qmaker-programmer/segDisplay.git|Contributed|segDisplay
+https://github.com/zeevje/ESPNowHub.git|Contributed|ESPNowHub
