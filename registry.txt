@@ -9608,3 +9608,4 @@ https://github.com/tanakamasayuki/ESP32IRPulseKit.git|Contributed|ESP32IRPulseKi
 https://github.com/HimC29/AsyncBitMatrix.git|Contributed|AsyncBitMatrix
 https://github.com/PTSolns/I2Connect_EEPROM.git|Contributed|PTSolns I2Connect EEPROM
 https://github.com/UNIT-Electronics-MX/unit_devlab_max30102_library.git|Contributed|DevLab_MAX30102
+https://github.com/UNIT-Electronics-MX/unit_devlab_veml3328_library.git|Contributed|DevLab_VEML3328
