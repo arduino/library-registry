@@ -9606,3 +9606,4 @@ https://github.com/Qmaker-programmer/segDisplay.git|Contributed|segDisplay
 https://github.com/zeevje/ESPNowHub.git|Contributed|ESPNowHub
 https://github.com/tanakamasayuki/ESP32IRPulseKit.git|Contributed|ESP32IRPulseKit
 https://github.com/HimC29/AsyncBitMatrix.git|Contributed|AsyncBitMatrix
+https://github.com/PTSolns/I2Connect_EEPROM.git|Contributed|PTSolns I2Connect EEPROM
