@@ -9612,3 +9612,4 @@ https://github.com/Pooria-nek/BusproCore
 https://github.com/argeorun/BACnetMSTP-ArduinoLib
 https://github.com/Qmaker-programmer/segDisplay
 https://github.com/zeevje/ESPNowHub
+https://github.com/HimC29/AsyncBitMatrix
