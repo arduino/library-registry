@@ -9618,3 +9618,4 @@ https://github.com/HimC29/AsyncBitMatrix
 https://github.com/PTSolns/I2Connect_EEPROM
 https://github.com/winglander/PiicoDev_Buzzer
 https://github.com/winglander/PiicoDev_Button
+https://github.com/IsraEB/TEA5767Radio
