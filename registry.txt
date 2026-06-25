@@ -9612,3 +9612,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_veml3328_library.git|Contribu
 https://github.com/winglander/PiicoDev_Buzzer.git|Contributed|PiicoDev_Buzzer
 https://github.com/winglander/PiicoDev_Button.git|Contributed|PiicoDev_Button
 https://github.com/IsraEB/TEA5767Radio.git|Contributed|TEA5767Radio
+https://github.com/EasyMem/easy_stack.git|Contributed|easy_stack
