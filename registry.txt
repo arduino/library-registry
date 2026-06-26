@@ -9619,3 +9619,4 @@ https://github.com/ziyarago/RisalDash.git|Contributed|RisalDash
 https://github.com/Protocentral/protocentral_as6221_arduino.git|Contributed|ProtoCentral AS6221
 https://github.com/su7eib/Ultrasonic-Sensor-Library.git|Contributed|Ultrasonic Sensor Library
 https://github.com/CarloCBragagnolo/LSM6DS3.git|Contributed|LSM6DS3
+https://github.com/adafruit/Adafruit_ADS7128.git|Recommended|Adafruit ADS7128
