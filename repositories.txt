@@ -9620,3 +9620,4 @@ https://github.com/winglander/PiicoDev_Buzzer
 https://github.com/winglander/PiicoDev_Button
 https://github.com/IsraEB/TEA5767Radio/
 https://github.com/EasyMem/easy_stack
+https://github.com/Nerdsiah/NeoStreaming.git
