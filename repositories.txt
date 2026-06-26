@@ -9623,3 +9623,4 @@ https://github.com/EasyMem/easy_stack
 https://github.com/Nerdsiah/NeoStreaming.git
 https://github.com/Pupariaa/Lucarne
 https://github.com/ziyarago/RisalDash
+https://github.com/Protocentral/protocentral_as6221_arduino
