@@ -9617,3 +9617,4 @@ https://github.com/Nerdsiah/NeoStreaming.git|Contributed|NeoStreaming
 https://github.com/Pupariaa/Lucarne.git|Contributed|Lucarne
 https://github.com/ziyarago/RisalDash.git|Contributed|RisalDash
 https://github.com/Protocentral/protocentral_as6221_arduino.git|Contributed|ProtoCentral AS6221
+https://github.com/su7eib/Ultrasonic-Sensor-Library.git|Contributed|Ultrasonic Sensor Library
