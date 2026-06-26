@@ -1,0 +1,17 @@
+{
+  "name": "Ultrasonic Sensor Library",
+  "maintainer": "su7eib",
+  "author": "su7eib",
+  "websiteURL": "https://github.com/su7eib/Ultrasonic-Sensor-Library",
+  "email": "",
+  "help": {
+    "online": "https://github.com/su7eib/Ultrasonic-Sensor-Library#readme"
+  },
+  "version": "1.0.0",
+  "category": "Sensors",
+  "architectures": ["*"],
+  "url": "https://github.com/su7eib/Ultrasonic-Sensor-Library/archive/refs/tags/v1.0.0.zip",
+  "archiveFileName": "Ultrasonic-Sensor-Library-1.0.0.zip",
+  "checksum": "SHA-256:2A446092B99542D0765ED9ABDD8757FB8D59F6A07DC6540B12BBD98760A7E9FD",
+  "keywords": ["ultrasonic", "distance", "hc-sr04", "sensor"]
+}
