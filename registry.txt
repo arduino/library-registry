@@ -9621,3 +9621,4 @@ https://github.com/su7eib/Ultrasonic-Sensor-Library.git|Contributed|Ultrasonic S
 https://github.com/CarloCBragagnolo/LSM6DS3.git|Contributed|LSM6DS3
 https://github.com/adafruit/Adafruit_ADS7128.git|Recommended|Adafruit ADS7128
 https://github.com/CodexPad/byte_buffer_arduino_lib.git|Contributed|ByteBuffer
+https://github.com/mahbubul03/MatrixForge.git|Contributed|MatrixForge
