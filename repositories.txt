@@ -1,6 +1,8 @@
+https://github.com/LautaroRodriguezBase/PButton
 https://github.com/fun6400/Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF
 https://github.com/Moaaz-i/MicroTaskX
+https://github.com/CarloCBragagnolo/LSM6DS3
 https://github.com/tkhoi0821-svg/GrayKazu
 https://github.com/Vean/FansElectronics_DMD8266
 https://github.com/You-010/HCSR04_ESP_Hardware
@@ -976,6 +978,7 @@ https://github.com/adafruit/Adafruit_AD569x
 https://github.com/adafruit/Adafruit_ADG72x
 https://github.com/adafruit/Adafruit_ADS1X15
 https://github.com/adafruit/Adafruit_ADS122C04
+https://github.com/adafruit/Adafruit_ADS7128
 https://github.com/adafruit/Adafruit_ADS7830
 https://github.com/adafruit/Adafruit_ADT7410
 https://github.com/adafruit/Adafruit_ADXL343
@@ -5689,6 +5692,7 @@ https://github.com/pololu/tic-arduino
 https://github.com/pololu/usb-pause-arduino
 https://github.com/pololu/vl53l0x-arduino
 https://github.com/pololu/vl53l1x-arduino
+https://github.com/pololu/vl53l4cd-arduino
 https://github.com/pololu/vl6180x-arduino
 https://github.com/pololu/xyzrobot-servo-arduino
 https://github.com/pololu/zumo-32u4-arduino-library
@@ -7476,6 +7480,7 @@ https://github.com/tanakamasayuki/LGFXVirtualCanvas
 https://github.com/tanakamasayuki/LGFXScreenBuilder
 https://github.com/tanakamasayuki/PCMFlowDevice
 https://github.com/tanakamasayuki/PCMFlowUDP
+https://github.com/tanakamasayuki/ESP32IRPulseKit
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -9000,6 +9005,8 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_bl_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_tsl2591_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_icm20948_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_veml3328_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_max30102_library
 https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
@@ -9432,6 +9439,7 @@ https://github.com/atsign-foundation/at_client_arduino.git
 https://github.com/deftio/xelp
 https://github.com/juslam/IoTera_Arduino
 https://github.com/mattykakes/SerialCommandCoordinator
+https://github.com/mattykakes/L6474-stepper-motor-driver
 https://github.com/foodini/arduino_ms5611_spi
 https://github.com/deftio/fr_math
 https://github.com/truongphat230799/ohstem-orc-hub-robotics.git
@@ -9603,3 +9611,19 @@ https://github.com/MyTechWaifu/MTW_TinyLoopScheduler
 https://github.com/c-gayan/OtaHub
 https://github.com/CodexPad/robust_frame_arduino_lib
 https://github.com/levkovigor/UWB_DW1000_DW3000
+https://github.com/CodexPad/gamepad_input_arduino_lib
+https://github.com/Pooria-nek/BusproCore
+https://github.com/argeorun/BACnetMSTP-ArduinoLib
+https://github.com/Qmaker-programmer/segDisplay
+https://github.com/zeevje/ESPNowHub
+https://github.com/HimC29/AsyncBitMatrix
+https://github.com/PTSolns/I2Connect_EEPROM
+https://github.com/winglander/PiicoDev_Buzzer
+https://github.com/winglander/PiicoDev_Button
+https://github.com/IsraEB/TEA5767Radio/
+https://github.com/EasyMem/easy_stack
+https://github.com/Nerdsiah/NeoStreaming.git
+https://github.com/Pupariaa/Lucarne
+https://github.com/ziyarago/RisalDash
+https://github.com/Protocentral/protocentral_as6221_arduino
+https://github.com/su7eib/Ultrasonic-Sensor-Library
