@@ -9631,3 +9631,4 @@ https://github.com/CodexPad/byte_buffer_arduino_lib
 https://github.com/mahbubul03/MatrixForge
 https://github.com/himanshufanibhare/ESPGithubOTA
 https://github.com/periashutosh-prog/Smart-Connect
+https://github.com/hapbeat/hapbeat-arduino
