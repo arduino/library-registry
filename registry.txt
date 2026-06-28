@@ -9626,3 +9626,4 @@ https://github.com/himanshufanibhare/ESPGithubOTA.git|Contributed|ESPGithubOTA
 https://github.com/periashutosh-prog/Smart-Connect.git|Contributed|Smart Connect
 https://github.com/hapbeat/hapbeat-arduino.git|Contributed|Hapbeat
 https://github.com/blah188/LionArray.git|Contributed|LionArray
+https://github.com/hmz06967/ozkled.git|Contributed|OzkLed
