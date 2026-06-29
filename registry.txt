@@ -9628,3 +9628,4 @@ https://github.com/hapbeat/hapbeat-arduino.git|Contributed|Hapbeat
 https://github.com/blah188/LionArray.git|Contributed|LionArray
 https://github.com/hmz06967/ozkled.git|Contributed|OzkLed
 https://github.com/fabianodaq/EdulcoWaterSmart.git|Contributed|EdulcoWaterSmart
+https://github.com/H-Kurosaki/UARDECS_PICO.git|Contributed|UARDECS_PICO Library
