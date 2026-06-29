@@ -9638,3 +9638,4 @@ https://github.com/fabianodaq/EdulcoWaterSmart
 https://github.com/H-Kurosaki/UARDECS_PICO
 https://github.com/blah188/LionRtosTask
 https://github.com/blah188/LionLogger
+https://github.com/pcbcupid/PCBCUPID-QMC6309
