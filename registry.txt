@@ -9632,3 +9632,4 @@ https://github.com/H-Kurosaki/UARDECS_PICO.git|Contributed|UARDECS_PICO Library
 https://github.com/blah188/LionRtosTask.git|Contributed|LionRtosTask
 https://github.com/blah188/LionLogger.git|Contributed|LionLogger
 https://github.com/pcbcupid/PCBCUPID-QMC6309.git|Contributed|PCBCUPID QMC6309
+https://github.com/blah188/LionTask.git|Contributed|LionTask
