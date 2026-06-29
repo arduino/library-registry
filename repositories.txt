@@ -9219,7 +9219,6 @@ https://github.com/dunknowcoding/RoboServo.git
 https://github.com/CostelloTechnical/DN24F08.git
 https://github.com/KovalRM/KRM_libraries_Arduino
 https://github.com/ktauchathuranga/openpager
-https://github.com/nikki-build/esp32
 https://github.com/IlliaZenistu/DHT22_Clone_ESP32.git
 https://github.com/sapteinkabeltann/lua511-esp32
 https://github.com/louischuang/curiejet-p760-arduino-lib.git
@@ -9350,8 +9349,6 @@ https://github.com/jvasquez05/PluviometerSensor
 https://github.com/jvasquez05/Anemometer
 https://github.com/jvasquez05/SoilHumSensor
 https://github.com/IWILZ/PicoSem
-https://github.com/nikki-build/unoR4
-https://github.com/nikki-build/esp8266
 https://github.com/shrawankhambekar/ESP32_CPWIFI
 https://github.com/piglet0/haier2supla
 https://github.com/0ldev/Politician
@@ -9639,3 +9636,6 @@ https://github.com/H-Kurosaki/UARDECS_PICO
 https://github.com/blah188/LionRtosTask
 https://github.com/blah188/LionLogger
 https://github.com/pcbcupid/PCBCUPID-QMC6309
+https://github.com/nikki-build/nikki.unoR4
+https://github.com/nikki-build/nikki.esp8266
+https://github.com/nikki-build/nikki.esp32
