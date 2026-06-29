@@ -9630,3 +9630,4 @@ https://github.com/hmz06967/ozkled.git|Contributed|OzkLed
 https://github.com/fabianodaq/EdulcoWaterSmart.git|Contributed|EdulcoWaterSmart
 https://github.com/H-Kurosaki/UARDECS_PICO.git|Contributed|UARDECS_PICO Library
 https://github.com/blah188/LionRtosTask.git|Contributed|LionRtosTask
+https://github.com/blah188/LionLogger.git|Contributed|LionLogger
