@@ -9640,3 +9640,4 @@ https://github.com/Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library.git|Contributed|LILY
 https://github.com/RobTillaart/GP8403.git|Contributed|GP8403
 https://github.com/PLGdevo/CKC_LIB.git|Contributed|CKC_AIoT-lib
 https://github.com/blah188/LionWifi.git|Contributed|LionWifi
+https://github.com/blah188/LionDallas.git|Contributed|LionDallas
