@@ -9642,3 +9642,4 @@ https://github.com/pcbcupid/PCBCUPID-QMC6309
 https://github.com/blah188/LionTask
 https://github.com/blah188/LionStreams
 https://github.com/outlookhazy/SyntropicOS.git
+https://github.com/kokofixcomputers/ESP32BLECombo
