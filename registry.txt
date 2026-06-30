@@ -9637,3 +9637,4 @@ https://github.com/blah188/LionStreams.git|Contributed|LionStreams
 https://github.com/outlookhazy/SyntropicOS.git|Contributed|SyntropicOS
 https://github.com/kokofixcomputers/ESP32BLECombo.git|Contributed|ESP32BLECombo
 https://github.com/Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library.git|Contributed|LILYGO T-Keyboard-S3-Pro Library
+https://github.com/RobTillaart/GP8403.git|Contributed|GP8403
