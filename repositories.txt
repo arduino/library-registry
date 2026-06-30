@@ -9649,3 +9649,4 @@ https://github.com/kokofixcomputers/ESP32BLECombo
 https://github.com/PLGdevo/CKC_LIB.git
 https://github.com/blah188/LionWifi
 https://github.com/blah188/LionDallas
+https://github.com/Dag0d/ezTime2
