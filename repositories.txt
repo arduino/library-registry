@@ -9653,3 +9653,4 @@ https://github.com/blah188/LionDallas
 https://github.com/Dag0d/ezTime2
 https://github.com/ARAM-USA-Support/ARAM_Metal_Orchestra
 https://github.com/CodexPad/gamepad_codec_arduino_lib
+https://github.com/pcbcupid/PCBCUPID-CYPHER
