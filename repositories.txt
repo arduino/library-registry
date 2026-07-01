@@ -7483,6 +7483,7 @@ https://github.com/tanakamasayuki/LGFXScreenBuilder
 https://github.com/tanakamasayuki/PCMFlowDevice
 https://github.com/tanakamasayuki/PCMFlowUDP
 https://github.com/tanakamasayuki/ESP32IRPulseKit
+https://github.com/tanakamasayuki/EspUsbDevice
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
