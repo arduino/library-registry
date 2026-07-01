@@ -9645,3 +9645,4 @@ https://github.com/Moaaz-i/FlareDom.git|Contributed|FlareDom
 https://github.com/Dag0d/ezTime2.git|Contributed|ezTime2
 https://github.com/ARAM-USA-Support/ARAM_Metal_Orchestra.git|Contributed|ARAM_Metal_Orchestra
 https://github.com/tanakamasayuki/EspUsbDevice.git|Contributed|EspUsbDevice
+https://github.com/CodexPad/gamepad_codec_arduino_lib.git|Contributed|GamepadCodec
