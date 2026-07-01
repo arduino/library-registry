@@ -3695,10 +3695,7 @@ https://github.com/igvina/ArdVoice
 https://github.com/IharYakimush/arduino-temperature-control-events
 https://github.com/ihormelnyk/opentherm_library
 https://github.com/iitaka1142/NullSerial
-https://github.com/iliaslamprou/virtuino
-https://github.com/iliaslamprou/virtuino_stm32
 https://github.com/iliaslamprou/virtuinoCM
-https://github.com/iliaslamprou/virtuinoESP
 https://github.com/ILoveMemes/SoftwareTimer
 https://github.com/iMakeOfficial/iMakeBeta
 https://github.com/imax9000/Arduino-PID-Library
