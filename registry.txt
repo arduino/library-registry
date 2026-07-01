@@ -9643,3 +9643,4 @@ https://github.com/blah188/LionWifi.git|Contributed|LionWifi
 https://github.com/blah188/LionDallas.git|Contributed|LionDallas
 https://github.com/Moaaz-i/FlareDom.git|Contributed|FlareDom
 https://github.com/Dag0d/ezTime2.git|Contributed|ezTime2
+https://github.com/ARAM-USA-Support/ARAM_Metal_Orchestra.git|Contributed|ARAM_Metal_Orchestra
