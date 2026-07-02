@@ -9654,3 +9654,4 @@ https://github.com/PTSolns/I2Connect_AHT20.git|Contributed|PTSolns_I2Connect_AHT
 https://github.com/SolderedElectronics/Soldered-Position-sensor-AS5600-breakout-Arduino-Library.git|Contributed|Soldered-position-sensor-AS5600-breakout-Arduino-library
 https://github.com/1e1/arduino-macaddress-detector.git|Contributed|WiStalker
 https://github.com/blah188/LionFastLcd.git|Contributed|LionFastLcd
+https://github.com/pcbcupid/PCBCUPID-CYPHER.git|Contributed|PCBCUPID-Cypher
