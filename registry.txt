@@ -9656,3 +9656,4 @@ https://github.com/1e1/arduino-macaddress-detector.git|Contributed|WiStalker
 https://github.com/blah188/LionFastLcd.git|Contributed|LionFastLcd
 https://github.com/pcbcupid/PCBCUPID-CYPHER.git|Contributed|PCBCUPID-Cypher
 https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library.git|Contributed|Soldered L86 M33 GNSS Library
+https://github.com/lildev1979/AFS01Sensor.git|Contributed|AFS01Sensor
