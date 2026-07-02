@@ -1,5 +1,6 @@
 https://github.com/Moaaz-i/FlareDom
 https://github.com/LautaroRodriguezBase/PButton
+https://github.com/LautaroRodriguezBase/RFDO
 https://github.com/fun6400/Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF
 https://github.com/CarloCBragagnolo/LSM6DS3
@@ -6970,6 +6971,7 @@ https://github.com/SolderedElectronics/Soldered-OLED-Display-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PCAL6416A-IO-Expander-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PCF85063A-RTC-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-PMS7003-Particle-Sensor-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Position-sensor-AS5600-breakout-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SHTC3-Temperature-Humidity-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-SI114X-sensor-easyC-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Simple-Sensor-Arduino-Library
@@ -9655,3 +9657,8 @@ https://github.com/ARAM-USA-Support/ARAM_Metal_Orchestra
 https://github.com/CodexPad/gamepad_codec_arduino_lib
 https://github.com/pcbcupid/PCBCUPID-CYPHER
 https://github.com/AERL-Official/AERL-C-Framework
+https://github.com/dunknowcoding/NiusCam
+https://github.com/Gigasitron-xcross/XC_GUI
+https://github.com/PTSolns/I2Connect_AHT20
+https://github.com/1e1/arduino-macaddress-detector
+https://github.com/blah188/LionFastLcd
