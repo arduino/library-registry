@@ -9651,3 +9651,4 @@ https://github.com/dunknowcoding/NiusCam.git|Contributed|NiusCam
 https://github.com/Gigasitron-xcross/XC_GUI.git|Contributed|XC_GUI
 https://github.com/LautaroRodriguezBase/RFDO.git|Contributed|RFDO
 https://github.com/PTSolns/I2Connect_AHT20.git|Contributed|PTSolns_I2Connect_AHT20
+https://github.com/SolderedElectronics/Soldered-Position-sensor-AS5600-breakout-Arduino-Library.git|Contributed|Soldered-position-sensor-AS5600-breakout-Arduino-library
