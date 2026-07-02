@@ -9659,3 +9659,5 @@ https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library.git
 https://github.com/lildev1979/AFS01Sensor.git|Contributed|AFS01Sensor
 https://github.com/SolderedElectronics/Soldered-HUSB238-Arduino-Library.git|Contributed|HUSB238 Soldered
 https://github.com/maker-wesley/SensorRoxoOBR.git|Contributed|SensorRoxoOBR
+https://github.com/VoidLoopers/SignalCore.git|Contributed|SignalCore
+https://github.com/VoidLoopers/ViewPoint.git|Contributed|ViewPoint
