@@ -9657,3 +9657,4 @@ https://github.com/CodexPad/gamepad_codec_arduino_lib
 https://github.com/AERL-Official/AERL-C-Framework
 https://github.com/dunknowcoding/NiusCam
 https://github.com/Gigasitron-xcross/XC_GUI
+https://github.com/PTSolns/I2Connect_AHT20
