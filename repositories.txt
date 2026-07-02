@@ -27,9 +27,12 @@ https://github.com/tdk-invn-oss/motion.arduino.ICM53622
 https://github.com/JW-Control/JW_RTC
 https://github.com/JW-Control/JW_SD
 https://github.com/Raheeb223/EasySensor.git
+https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library
 https://github.com/Nezaemmy/NezaWiFiPortal
 https://github.com/Nezaemmy/NezaRTC
 https://github.com/DIYables/DIYables_TFT_SPI
+https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
 https://github.com/SanketSalviNITK/Beacon_ARIA
 https://github.com/mumanchu/W25QxxFlash
 https://github.com/autoconnecto/autoconnecto-sdk
@@ -56,6 +59,7 @@ https://github.com/OrkaLxrd/SimpleFlashAudio
 https://github.com/GPStarTechnologies/GPStar-Audio-Serial
 https://github.com/KartikS417/Arduclaw
 https://github.com/AndreaDV01/ESPfuscate
+https://github.com/SolderedElectronics/Soldered-Compass-AK09918-Arduino-Library
 https://github.com/vicenteraphael/SmartTrafficLight
 https://github.com/fmeng/XDigit7Segment_74HC595
 https://github.com/Xorlent/ESP32P4_ULP
@@ -94,6 +98,7 @@ https://github.com/JW-Control/JW_FRAM
 https://github.com/mumanchu/OptimizedGPIO
 https://github.com/kbmkrishnamali1992-hub/SIM800_GSM_GPRS_LIBRARY
 https://github.com/mumanchu/MultiTimerSAMD
+https://github.com/SolderedElectronics/Inkplate-LVGL-Library
 https://github.com/sstaub/NTP3
 https://github.com/nruimveld7/WILLOW
 https://github.com/DIYables/DIYables_TFT_Shield_Mega
@@ -324,6 +329,9 @@ https://github.com/apauaie/arduino_tinkeriot
 https://github.com/m5stack/M5Unit-MQ
 https://github.com/milad-nikpendar/initAuthorization
 https://github.com/KB-Sensor-Mart/iSYS4001
+https://github.com/SolderedElectronics/Soldered-Microphone-SPK0641HT-Library
+https://github.com/SolderedElectronics/Soldered-DS3234-RTC-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-OpenAI-Library
 https://github.com/YoungEngineerMixertiX/MegaTPA
 https://github.com/jobitjoseph/CH32X035_USBSerial
 https://github.com/AndyNewlands/DualEncoderMenuSystem
@@ -6933,15 +6941,6 @@ https://github.com/Soft-Collection/SCConfig
 https://github.com/softplus/GoogleFormPost
 https://github.com/SoftwareTools4Makers/OPC
 https://github.com/SohnyBohny/6-digit-7-Segment-Arduino
-https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library
-https://github.com/SolderedElectronics/Soldered-SCD43-Arduino-Library
-https://github.com/SolderedElectronics/Soldered-WS2812B-Grid-Arduino-Library
-https://github.com/SolderedElectronics/Soldered-Inputronic-Grid-Arduino-Library
-https://github.com/SolderedElectronics/Soldered-Compass-AK09918-Arduino-Library
-https://github.com/SolderedElectronics/Inkplate-LVGL-Library
-https://github.com/SolderedElectronics/Soldered-Microphone-SPK0641HT-Library
-https://github.com/SolderedElectronics/Soldered-DS3234-RTC-Arduino-Library
-https://github.com/SolderedElectronics/Soldered-OpenAI-Library
 https://github.com/SolderedElectronics/Soldered-8x8-MAX7219-LED-Matrix-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LSM6DS3-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LSM6DSO-Arduino-Library
@@ -6960,8 +6959,8 @@ https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Digital-Light-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Fingerprint-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Hall-Effect-Sensor-Arduino-Library
-https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-HUSB238-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-HX711-ADC-For-Weight-Scales-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LCD-library
@@ -8603,6 +8602,7 @@ https://github.com/epsilonrt/Max11615Lib
 https://github.com/ESP32Async/ESPAsyncTCP
 https://github.com/p1ngb4ck/MCP4461
 https://github.com/vvb333007/espshell
+https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library
 https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip
 https://github.com/jakiki6/SH1106
 https://github.com/CentyLab/AP33772S-CentyLab
