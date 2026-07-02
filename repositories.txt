@@ -9666,3 +9666,5 @@ https://github.com/1e1/arduino-macaddress-detector
 https://github.com/blah188/LionFastLcd
 https://github.com/lildev1979/AFS01Sensor
 https://github.com/maker-wesley/SensorRoxoOBR.git
+https://github.com/VoidLoopers/SignalCore
+https://github.com/VoidLoopers/ViewPoint
