@@ -9658,3 +9658,4 @@ https://github.com/pcbcupid/PCBCUPID-CYPHER.git|Contributed|PCBCUPID-Cypher
 https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library.git|Contributed|Soldered L86 M33 GNSS Library
 https://github.com/lildev1979/AFS01Sensor.git|Contributed|AFS01Sensor
 https://github.com/SolderedElectronics/Soldered-HUSB238-Arduino-Library.git|Contributed|HUSB238 Soldered
+https://github.com/maker-wesley/SensorRoxoOBR.git|Contributed|SensorRoxoOBR
