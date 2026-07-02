@@ -9648,3 +9648,4 @@ https://github.com/tanakamasayuki/EspUsbDevice.git|Contributed|EspUsbDevice
 https://github.com/CodexPad/gamepad_codec_arduino_lib.git|Contributed|GamepadCodec
 https://github.com/AERL-Official/AERL-C-Framework.git|Contributed|AERL C Framework
 https://github.com/dunknowcoding/NiusCam.git|Contributed|NiusCam
+https://github.com/Gigasitron-xcross/XC_GUI.git|Contributed|XC_GUI
