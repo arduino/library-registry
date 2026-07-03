@@ -9669,3 +9669,4 @@ https://github.com/lildev1979/AFS01Sensor
 https://github.com/maker-wesley/SensorRoxoOBR.git
 https://github.com/VoidLoopers/SignalCore
 https://github.com/VoidLoopers/ViewPoint
+https://github.com/soosp/DigitalOutput
