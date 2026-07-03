@@ -2249,7 +2249,6 @@ https://github.com/smaffer/espvgax.git|Contributed|ESPVGAX
 https://github.com/neosarchizo/cm1106_i2c.git|Contributed|CM1106 I2C
 https://github.com/GiorgosXou/NeuralNetworks.git|Contributed|NeuralNetwork
 https://github.com/boxtec/Witty.git|Contributed|Witty
-https://github.com/iliaslamprou/virtuino_stm32.git|Contributed|Virtuino library for STM32 boards
 https://github.com/guru-florida/PWMFreak.git|Contributed|PWMFreak
 https://github.com/H-Kurosaki/UARDECS.git|Contributed|UARDECS Library
 https://github.com/byronholldorf/uMulti.git|Contributed|uMulti
@@ -2291,7 +2290,6 @@ https://github.com/ARSadri/PushButtonClicks.git|Contributed|PushButton Event Mod
 https://github.com/ayushsharma82/WebSerial.git|Contributed|WebSerial
 https://github.com/vishnumaiea/ISL1208-RTC-Library.git|Contributed|ISL1208-RTC-Library
 https://github.com/asukiaaa/ThingSpeak_asukiaaa.git|Contributed|ThingSpeak_asukiaaa
-https://github.com/iliaslamprou/virtuino.git|Contributed|Virtuino
 https://github.com/mprograms/SimpleRotary.git|Contributed|SimpleRotary
 https://github.com/NordicAlliance/arduino-tgui.git|Contributed|Tgui
 https://github.com/brianrho/GT5X.git|Contributed|GT5X
@@ -7764,7 +7762,7 @@ https://github.com/francescop75/LCD_TeleType.git|Contributed|LCD_TeleType
 https://github.com/ArduLite/ArduLite.git|Contributed|ArduLite
 https://github.com/electrocoder/MBModbusRTUSlave.git|Contributed|MBModbusRTUSlave
 https://github.com/Rupakpoddar/ConsumerKeyboard.git|Contributed|ConsumerKeyboard
-https://github.com/firmngin/firmnginKit.git|Contributed|firmnginKit
+https://github.com/firmngin/Firmngin-Arduino.git|Contributed|firmngin
 https://github.com/DigitalFuturesOCADU/YouveBeenNotified.git|Contributed|YouveBeenNotified
 https://github.com/styropyr0/SensorHub.git|Contributed|SensorHub
 https://github.com/Khuuxuanngoc/Makerlabvn_I2C_Line_Follower_Sensor.git|Contributed|Makerlabvn_I2C_Line_Follower_Sensor
@@ -9154,7 +9152,7 @@ https://github.com/RobTillaart/I2C_HC4067.git|Contributed|I2C_HC4067
 https://github.com/Sensirion/arduino-i2c-sen62.git|Contributed|Sensirion I2C SEN62
 https://github.com/JesRex700/HDrive.git|Contributed|HDrive
 https://github.com/DFRobot/DFRobot_STCC4.git|Contributed|DFRobot_STCC4
-https://github.com/ozobot/drvkit_library.git|Contributed|circuit_kit_library
+https://github.com/ozobot/drvkit_library.git|Contributed|drvkit_library
 https://github.com/RobTillaart/HX712.git|Contributed|HX712
 https://github.com/SolderedElectronics/Inkplate-LVGL-Library.git|Contributed|Inkplate LVGL Library
 https://github.com/kbmkrishnamali1992-hub/SIM800_GSM_GPRS_LIBRARY.git|Contributed|SIM800_GSM_GPRS
@@ -9574,3 +9572,91 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_veml7700_library.git|Contribu
 https://github.com/iotpioneers/iotdatahub-library.git|Contributed|IoTDataHub
 https://github.com/tkhoi0821-svg/GrayKazu.git|Contributed|GrayKazu
 https://github.com/figamore/EspNowLink.git|Contributed|EspNowLink
+https://github.com/Sakuhano/JoystickButton.git|Contributed|JoystickButton
+https://github.com/dstroy0/XPoint.git|Contributed|XPoint
+https://github.com/tanakamasayuki/PCMFlowDevice.git|Contributed|PCMFlowDevice
+https://github.com/pcbcupid/PCBCUPID-NAU8325.git|Contributed|PCBCUPID-NAU8325
+https://github.com/tanakamasayuki/PCMFlowUDP.git|Contributed|PCMFlowUDP
+https://github.com/pcbcupid/PCBCUPID-MCP79412.git|Contributed|PCBCUPID_MCP79412RTC
+https://github.com/pcbcupid/PCBCUPID-PLAYER.git|Contributed|PCBCUPID_PLAYERS
+https://github.com/dstroy0/DeterministicESPAsyncWebServer.git|Contributed|DeterministicESPAsyncWebServer
+https://github.com/OneDevelopmentPL/EasyIR.git|Contributed|EasyIR
+https://github.com/nananauno/M5GuruguruAvatar.git|Contributed|M5GuruguruAvatar
+https://github.com/HuuPhuoc2411/VN_VOICE.git|Contributed|VN_VOICE
+https://github.com/vic4key/MyOTA.git|Contributed|MyOTA
+https://github.com/Moaaz-i/UMOZ.git|Contributed|UMOZ
+https://github.com/NodeWave-EA/FOTA-Client-ESP32.git|Contributed|FOTA-Client-ESP32
+https://github.com/fun6400/Adafruit_SSD1306_72x40.git|Contributed|Adafruit_SSD1306_72x40
+https://github.com/fun6400/PipeGIF.git|Contributed|PipeGIF
+https://github.com/c-gayan/OtaHub.git|Contributed|OtaHub
+https://github.com/CodexPad/robust_frame_arduino_lib.git|Contributed|RobustFrame
+https://github.com/levkovigor/UWB_DW1000_DW3000.git|Contributed|UWB_DW1000_DW3000
+https://github.com/MyTechWaifu/MTW_TinyLoopScheduler.git|Contributed|MTW TinyLoopScheduler
+https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library.git|Contributed|UnitCMSISDAP
+https://github.com/pololu/vl53l4cd-arduino.git|Contributed|VL53L4CD
+https://github.com/CodexPad/gamepad_input_arduino_lib.git|Contributed|GamepadInput
+https://github.com/mattykakes/L6474-stepper-motor-driver.git|Contributed|L6474
+https://github.com/LautaroRodriguezBase/PButton.git|Contributed|PButton
+https://github.com/Pooria-nek/BusproCore.git|Contributed|BusproCore
+https://github.com/argeorun/BACnetMSTP-ArduinoLib.git|Contributed|BACnetMSTP
+https://github.com/Qmaker-programmer/segDisplay.git|Contributed|segDisplay
+https://github.com/zeevje/ESPNowHub.git|Contributed|ESPNowHub
+https://github.com/tanakamasayuki/ESP32IRPulseKit.git|Contributed|ESP32IRPulseKit
+https://github.com/HimC29/AsyncBitMatrix.git|Contributed|AsyncBitMatrix
+https://github.com/PTSolns/I2Connect_EEPROM.git|Contributed|PTSolns I2Connect EEPROM
+https://github.com/UNIT-Electronics-MX/unit_devlab_max30102_library.git|Contributed|DevLab_MAX30102
+https://github.com/UNIT-Electronics-MX/unit_devlab_veml3328_library.git|Contributed|DevLab_VEML3328
+https://github.com/winglander/PiicoDev_Buzzer.git|Contributed|PiicoDev_Buzzer
+https://github.com/winglander/PiicoDev_Button.git|Contributed|PiicoDev_Button
+https://github.com/IsraEB/TEA5767Radio.git|Contributed|TEA5767Radio
+https://github.com/EasyMem/easy_stack.git|Contributed|easy_stack
+https://github.com/Nerdsiah/NeoStreaming.git|Contributed|NeoStreaming
+https://github.com/Pupariaa/Lucarne.git|Contributed|Lucarne
+https://github.com/ziyarago/RisalDash.git|Contributed|RisalDash
+https://github.com/Protocentral/protocentral_as6221_arduino.git|Contributed|ProtoCentral AS6221
+https://github.com/su7eib/Ultrasonic-Sensor-Library.git|Contributed|Ultrasonic Sensor Library
+https://github.com/CarloCBragagnolo/LSM6DS3.git|Contributed|LSM6DS3
+https://github.com/adafruit/Adafruit_ADS7128.git|Recommended|Adafruit ADS7128
+https://github.com/CodexPad/byte_buffer_arduino_lib.git|Contributed|ByteBuffer
+https://github.com/mahbubul03/MatrixForge.git|Contributed|MatrixForge
+https://github.com/himanshufanibhare/ESPGithubOTA.git|Contributed|ESPGithubOTA
+https://github.com/periashutosh-prog/Smart-Connect.git|Contributed|Smart Connect
+https://github.com/hapbeat/hapbeat-arduino.git|Contributed|Hapbeat
+https://github.com/blah188/LionArray.git|Contributed|LionArray
+https://github.com/hmz06967/ozkled.git|Contributed|OzkLed
+https://github.com/fabianodaq/EdulcoWaterSmart.git|Contributed|EdulcoWaterSmart
+https://github.com/H-Kurosaki/UARDECS_PICO.git|Contributed|UARDECS_PICO Library
+https://github.com/blah188/LionRtosTask.git|Contributed|LionRtosTask
+https://github.com/blah188/LionLogger.git|Contributed|LionLogger
+https://github.com/pcbcupid/PCBCUPID-QMC6309.git|Contributed|PCBCUPID QMC6309
+https://github.com/blah188/LionTask.git|Contributed|LionTask
+https://github.com/blah188/LionStreams.git|Contributed|LionStreams
+https://github.com/outlookhazy/SyntropicOS.git|Contributed|SyntropicOS
+https://github.com/kokofixcomputers/ESP32BLECombo.git|Contributed|ESP32BLECombo
+https://github.com/Xinyuan-LilyGO/T-Keyboard-S3-Pro-Library.git|Contributed|LILYGO T-Keyboard-S3-Pro Library
+https://github.com/RobTillaart/GP8403.git|Contributed|GP8403
+https://github.com/PLGdevo/CKC_LIB.git|Contributed|CKC_AIoT-lib
+https://github.com/blah188/LionWifi.git|Contributed|LionWifi
+https://github.com/blah188/LionDallas.git|Contributed|LionDallas
+https://github.com/Moaaz-i/FlareDom.git|Contributed|FlareDom
+https://github.com/Dag0d/ezTime2.git|Contributed|ezTime2
+https://github.com/ARAM-USA-Support/ARAM_Metal_Orchestra.git|Contributed|ARAM_Metal_Orchestra
+https://github.com/tanakamasayuki/EspUsbDevice.git|Contributed|EspUsbDevice
+https://github.com/CodexPad/gamepad_codec_arduino_lib.git|Contributed|GamepadCodec
+https://github.com/AERL-Official/AERL-C-Framework.git|Contributed|AERL C Framework
+https://github.com/dunknowcoding/NiusCam.git|Contributed|NiusCam
+https://github.com/Gigasitron-xcross/XC_GUI.git|Contributed|XC_GUI
+https://github.com/LautaroRodriguezBase/RFDO.git|Contributed|RFDO
+https://github.com/PTSolns/I2Connect_AHT20.git|Contributed|PTSolns_I2Connect_AHT20
+https://github.com/SolderedElectronics/Soldered-Position-sensor-AS5600-breakout-Arduino-Library.git|Contributed|Soldered-position-sensor-AS5600-breakout-Arduino-library
+https://github.com/1e1/arduino-macaddress-detector.git|Contributed|WiStalker
+https://github.com/blah188/LionFastLcd.git|Contributed|LionFastLcd
+https://github.com/pcbcupid/PCBCUPID-CYPHER.git|Contributed|PCBCUPID-Cypher
+https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library.git|Contributed|Soldered L86 M33 GNSS Library
+https://github.com/lildev1979/AFS01Sensor.git|Contributed|AFS01Sensor
+https://github.com/SolderedElectronics/Soldered-HUSB238-Arduino-Library.git|Contributed|HUSB238 Soldered
+https://github.com/maker-wesley/SensorRoxoOBR.git|Contributed|SensorRoxoOBR
+https://github.com/VoidLoopers/SignalCore.git|Contributed|SignalCore
+https://github.com/VoidLoopers/ViewPoint.git|Contributed|ViewPoint
+https://github.com/Sensirion/arduino-i2c-stc42.git|Contributed|Sensirion I2C STC42
+https://github.com/soosp/DigitalOutput.git|Contributed|DigitalOutput
