@@ -9660,3 +9660,4 @@ https://github.com/VoidLoopers/SignalCore.git|Contributed|SignalCore
 https://github.com/VoidLoopers/ViewPoint.git|Contributed|ViewPoint
 https://github.com/Sensirion/arduino-i2c-stc42.git|Contributed|Sensirion I2C STC42
 https://github.com/soosp/DigitalOutput.git|Contributed|DigitalOutput
+https://github.com/houslast3/UIsistema.git|Contributed|SysUILib
