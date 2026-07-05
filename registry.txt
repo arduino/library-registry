@@ -9664,3 +9664,4 @@ https://github.com/houslast3/UIsistema.git|Contributed|SysUILib
 https://github.com/decoded-cipher/nodrix-sdk.git|Contributed|Nodrix
 https://github.com/DrHahnchenflugel/ServoTimer2Plus.git|Contributed|ServoTimer2Plus
 https://github.com/F1chter/LynkTuyaLocal.git|Contributed|LynkTuyaLocal
+https://github.com/Antonin1106/AsyncState.git|Contributed|AsyncState
