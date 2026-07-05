@@ -9670,3 +9670,4 @@ https://github.com/VoidLoopers/SignalCore
 https://github.com/VoidLoopers/ViewPoint
 https://github.com/soosp/DigitalOutput
 https://github.com/decoded-cipher/nodrix-sdk
+https://github.com/F1chter/LynkTuyaLocal
