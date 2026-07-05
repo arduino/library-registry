@@ -1532,6 +1532,7 @@ https://github.com/Annikken/AndeeMobile
 https://github.com/Annikken/EasyAndee
 https://github.com/Annikken/EasyAndee101
 https://github.com/Anrijs/Aranet4-ESP32
+https://github.com/Antonin1106/AsyncState
 https://github.com/Ant2000/CustomJWT
 https://github.com/antaresdocumentation/antares-esp8266-http
 https://github.com/antaresdocumentation/antares-esp8266-mqtt
