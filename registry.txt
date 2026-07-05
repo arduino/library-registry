@@ -9662,3 +9662,4 @@ https://github.com/Sensirion/arduino-i2c-stc42.git|Contributed|Sensirion I2C STC
 https://github.com/soosp/DigitalOutput.git|Contributed|DigitalOutput
 https://github.com/houslast3/UIsistema.git|Contributed|SysUILib
 https://github.com/decoded-cipher/nodrix-sdk.git|Contributed|Nodrix
+https://github.com/DrHahnchenflugel/ServoTimer2Plus.git|Contributed|ServoTimer2Plus
