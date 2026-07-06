@@ -9674,3 +9674,4 @@ https://github.com/soosp/DigitalOutput
 https://github.com/decoded-cipher/nodrix-sdk
 https://github.com/F1chter/LynkTuyaLocal
 https://github.com/teemow/planterm
+https://github.com/connormmckelvey/Haplink
