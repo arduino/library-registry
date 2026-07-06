@@ -9666,3 +9666,4 @@ https://github.com/DrHahnchenflugel/ServoTimer2Plus.git|Contributed|ServoTimer2P
 https://github.com/F1chter/LynkTuyaLocal.git|Contributed|LynkTuyaLocal
 https://github.com/Antonin1106/AsyncState.git|Contributed|AsyncState
 https://github.com/sunfounder/robot-shield-arduino.git|Contributed|RobotShield
+https://github.com/teemow/planterm.git|Contributed|planterm
