@@ -9676,3 +9676,4 @@ https://github.com/F1chter/LynkTuyaLocal
 https://github.com/teemow/planterm
 https://github.com/connormmckelvey/Haplink
 https://github.com/soosp/EEPROMPreferences
+https://github.com/habuenav/quickMap
