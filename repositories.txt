@@ -9680,3 +9680,4 @@ https://github.com/connormmckelvey/Haplink
 https://github.com/soosp/EEPROMPreferences
 https://github.com/habuenav/quickMap
 https://github.com/habuenav/Breath
+https://github.com/gaweueu/KenwoodXS
