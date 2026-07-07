@@ -9670,3 +9670,4 @@ https://github.com/teemow/planterm.git|Contributed|planterm
 https://github.com/connormmckelvey/Haplink.git|Contributed|Haplink
 https://github.com/soosp/EEPROMPreferences.git|Contributed|EEPROMPreferences
 https://github.com/habuenav/quickMap.git|Contributed|quickMap
+https://github.com/habuenav/Breath.git|Contributed|Breath
