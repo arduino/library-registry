@@ -9679,3 +9679,4 @@ https://github.com/soosp/EEPROMPreferences
 https://github.com/habuenav/quickMap
 https://github.com/habuenav/Breath
 https://github.com/gaweueu/KenwoodXS
+https://github.com/angeloINTJ/BMx280PIO_RP2040.git
