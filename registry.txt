@@ -9673,3 +9673,4 @@ https://github.com/habuenav/quickMap.git|Contributed|quickMap
 https://github.com/habuenav/Breath.git|Contributed|Breath
 https://github.com/gaweueu/KenwoodXS.git|Contributed|KenwoodXS
 https://github.com/angeloINTJ/BMx280PIO_RP2040.git|Contributed|BMx280PIO_RP2040
+https://github.com/codewitch-honey-crisis/htcw_frame_arq.git|Contributed|htcw_frame_arq
