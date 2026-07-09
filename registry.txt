@@ -9677,3 +9677,4 @@ https://github.com/codewitch-honey-crisis/htcw_frame_arq.git|Contributed|htcw_fr
 https://github.com/vic4key/MyButtons.git|Contributed|MyButtons
 https://github.com/nthnsdev/RCArmDrive.git|Contributed|RCArmDrive
 https://github.com/Protocentral/protocentral_healthypi_5_firmware.git|Contributed|ProtoCentral HealthyPi 5
+https://github.com/Moaaz-i/Ultra1602Ultimate.git|Contributed|Ultra1602Ultimate
