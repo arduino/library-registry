@@ -9679,3 +9679,4 @@ https://github.com/nthnsdev/RCArmDrive.git|Contributed|RCArmDrive
 https://github.com/Protocentral/protocentral_healthypi_5_firmware.git|Contributed|ProtoCentral HealthyPi 5
 https://github.com/Moaaz-i/Ultra1602Ultimate.git|Contributed|Ultra1602Ultimate
 https://github.com/dunknowcoding/NiusWireless.git|Contributed|NiusWireless
+https://github.com/arduino-libraries/Arduino_UniqueHWId.git|Arduino|Arduino_UniqueHWId
