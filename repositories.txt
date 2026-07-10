@@ -9688,3 +9688,4 @@ https://github.com/Protocentral/protocentral_healthypi_5_firmware
 https://github.com/dunknowcoding/NiusWireless
 https://github.com/arduino-libraries/Arduino_UniqueHWId
 https://github.com/HRK-Yas/HM01B0_CPUfree_Camera
+https://github.com/HRK-Yas/OV7725_CPUfree_Camera
