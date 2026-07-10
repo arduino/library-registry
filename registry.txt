@@ -9680,3 +9680,4 @@ https://github.com/Protocentral/protocentral_healthypi_5_firmware.git|Contribute
 https://github.com/Moaaz-i/Ultra1602Ultimate.git|Contributed|Ultra1602Ultimate
 https://github.com/dunknowcoding/NiusWireless.git|Contributed|NiusWireless
 https://github.com/arduino-libraries/Arduino_UniqueHWId.git|Arduino|Arduino_UniqueHWId
+https://github.com/HRK-Yas/HM01B0_CPUfree_Camera.git|Contributed|HM01B0_CPUfree_Camera
