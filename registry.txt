@@ -9685,3 +9685,4 @@ https://github.com/HRK-Yas/OV7725_CPUfree_Camera.git|Contributed|OV7725_Camera_L
 https://github.com/TakamoriRobot/HIRO.git|Contributed|HIRO
 https://github.com/SUNSETDEVER/AVR_TaskScheduler.git|Contributed|AVR Task Scheduler
 https://github.com/chijesusboy2004-crypto/omiru.h.git|Contributed|Omiru IoT Platform
+https://github.com/chijesusboy2004-crypto/AxonSDK.git|Contributed|AxonSDK
