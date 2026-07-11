@@ -9686,3 +9686,4 @@ https://github.com/TakamoriRobot/HIRO.git|Contributed|HIRO
 https://github.com/SUNSETDEVER/AVR_TaskScheduler.git|Contributed|AVR Task Scheduler
 https://github.com/chijesusboy2004-crypto/omiru.h.git|Contributed|Omiru IoT Platform
 https://github.com/chijesusboy2004-crypto/AxonSDK.git|Contributed|AxonSDK
+https://github.com/SvenRosvall/VCAN2515.git|Contributed|VCAN2515
