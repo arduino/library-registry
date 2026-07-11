@@ -8992,6 +8992,7 @@ https://github.com/Chanatip112/HanumanMini
 https://github.com/almtzr/PedroRobot
 https://github.com/Alteriom/EByte_LoRa_E220_Series_Library
 https://github.com/SvenRosvall/VLCB-Arduino
+https://github.com/SvenRosvall/VCAN2515
 https://github.com/Alteriom/painlessMesh
 https://github.com/mitra42/frugal-iot
 https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT
