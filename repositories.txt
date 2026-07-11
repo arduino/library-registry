@@ -9691,3 +9691,4 @@ https://github.com/HRK-Yas/HM01B0_CPUfree_Camera
 https://github.com/HRK-Yas/OV7725_CPUfree_Camera
 https://github.com/SUNSETDEVER/AVR_TaskScheduler
 https://github.com/TakamoriRobot/HIRO
+https://github.com/chijesusboy2004-crypto/omiru.h
