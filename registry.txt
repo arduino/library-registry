@@ -9683,3 +9683,4 @@ https://github.com/arduino-libraries/Arduino_UniqueHWId.git|Arduino|Arduino_Uniq
 https://github.com/HRK-Yas/HM01B0_CPUfree_Camera.git|Contributed|HM01B0_CPUfree_Camera
 https://github.com/HRK-Yas/OV7725_CPUfree_Camera.git|Contributed|OV7725_Camera_Library
 https://github.com/TakamoriRobot/HIRO.git|Contributed|HIRO
+https://github.com/SUNSETDEVER/AVR_TaskScheduler.git|Contributed|AVR Task Scheduler
