@@ -9688,3 +9688,4 @@ https://github.com/chijesusboy2004-crypto/omiru.h.git|Contributed|Omiru IoT Plat
 https://github.com/chijesusboy2004-crypto/AxonSDK.git|Contributed|AxonSDK
 https://github.com/SvenRosvall/VCAN2515.git|Contributed|VCAN2515
 https://github.com/angeloINTJ/TwoWirePIO_RP2040.git|Contributed|WirePIO
+https://github.com/KarlEffinger/GL55xxSensor.git|Contributed|GL55xxSensor
