@@ -9368,6 +9368,7 @@ https://github.com/0ldev/Politician
 https://github.com/electronicstree/blendixserial-arduino
 https://github.com/HijelHub/HijelHID_BLEMouse
 https://github.com/rleusden/LTC2944_BMS
+https://github.com/angeloINTJ/TwoWirePIO_RP2040.git
 https://github.com/angeloINTJ/USBSnifferPIO_RP2040.git
 https://github.com/hfdalkarim/Hafid
 https://github.com/IowaScaledEngineering/mss-xcade-lib
