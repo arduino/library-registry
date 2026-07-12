@@ -9696,3 +9696,4 @@ https://github.com/TakamoriRobot/HIRO
 https://github.com/chijesusboy2004-crypto/omiru.h
 https://github.com/chijesusboy2004-crypto/AxonSDK
 https://github.com/KarlEffinger/GL55xxSensor
+https://github.com/vic4key/MyDisplayLogging
