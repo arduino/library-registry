@@ -9692,3 +9692,4 @@ https://github.com/KarlEffinger/GL55xxSensor.git|Contributed|GL55xxSensor
 https://github.com/vic4key/MyDisplayLogging.git|Contributed|MyDisplayLogging
 https://github.com/habuenav/easyMenu.git|Contributed|easyMenu
 https://github.com/razkar-studio/stimeration.git|Contributed|Stimeration
+https://github.com/admin3314/Vira_WiFi_Connector.git|Contributed|Vira_WiFi_Connector
