@@ -9694,3 +9694,4 @@ https://github.com/habuenav/easyMenu.git|Contributed|easyMenu
 https://github.com/razkar-studio/stimeration.git|Contributed|Stimeration
 https://github.com/admin3314/Vira_WiFi_Connector.git|Contributed|Vira_WiFi_Connector
 https://github.com/bhvym-sudo/PT6964.git|Contributed|PT6964
+https://github.com/sauloverissimo/midi2duino.git|Contributed|midi2duino
