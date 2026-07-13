@@ -9691,3 +9691,4 @@ https://github.com/angeloINTJ/TwoWirePIO_RP2040.git|Contributed|WirePIO
 https://github.com/KarlEffinger/GL55xxSensor.git|Contributed|GL55xxSensor
 https://github.com/vic4key/MyDisplayLogging.git|Contributed|MyDisplayLogging
 https://github.com/habuenav/easyMenu.git|Contributed|easyMenu
+https://github.com/razkar-studio/stimeration.git|Contributed|Stimeration
