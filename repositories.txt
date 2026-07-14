@@ -9701,3 +9701,9 @@ https://github.com/vic4key/MyDisplayLogging
 https://github.com/habuenav/easyMenu
 https://github.com/admin3314/Vira_WiFi_Connector.git
 https://github.com/admin3314/ViraMediaWeb.git
+https://github.com/bhvym-sudo/PT6964
+https://github.com/sauloverissimo/midi2duino.git
+https://github.com/Cymeria/LittleFSExplorer
+https://github.com/rowanzhang123/IF97duino-public
+https://github.com/m5stack/M5Hat-18650C
+https://github.com/admin3314/Vira_Matrix.git
