@@ -8607,6 +8607,7 @@ https://github.com/epsilonrt/Max11615Lib
 https://github.com/ESP32Async/ESPAsyncTCP
 https://github.com/p1ngb4ck/MCP4461
 https://github.com/vvb333007/espshell
+https://github.com/vvb333007/tarfs
 https://github.com/SolderedElectronics/Inkplate_Motion_Arduino_Library
 https://github.com/codewitch-honey-crisis/htcw_rmt_led_strip
 https://github.com/jakiki6/SH1106
