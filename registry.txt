@@ -9701,3 +9701,4 @@ https://github.com/admin3314/Vira_Matrix.git|Contributed|Vira_Matrix
 https://github.com/admin3314/ViraMediaWeb.git|Contributed|ViraMediaWeb
 https://github.com/ailagari/JMCMotorControl.git|Contributed|JMCMotorControl
 https://github.com/vvb333007/tarfs.git|Contributed|tarfs
+https://github.com/scalpelspace/scalpelspace_bus.git|Contributed|ScalpelSpace Bus
