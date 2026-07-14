@@ -9698,3 +9698,4 @@ https://github.com/sauloverissimo/midi2duino.git|Contributed|midi2duino
 https://github.com/Cymeria/LittleFSExplorer.git|Contributed|LittleFSExplorer
 https://github.com/rowanzhang123/IF97duino-public.git|Contributed|IF97duino
 https://github.com/m5stack/M5Hat-18650C.git|Contributed|M5Hat_18650C
+https://github.com/admin3314/Vira_Matrix.git|Contributed|Vira_Matrix
