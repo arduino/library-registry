@@ -9696,3 +9696,4 @@ https://github.com/admin3314/Vira_WiFi_Connector.git|Contributed|Vira_WiFi_Conne
 https://github.com/bhvym-sudo/PT6964.git|Contributed|PT6964
 https://github.com/sauloverissimo/midi2duino.git|Contributed|midi2duino
 https://github.com/Cymeria/LittleFSExplorer.git|Contributed|LittleFSExplorer
+https://github.com/rowanzhang123/IF97duino-public.git|Contributed|IF97duino
