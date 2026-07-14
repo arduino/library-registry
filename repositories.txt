@@ -8992,6 +8992,7 @@ https://github.com/Chanatip112/HanumanMini
 https://github.com/almtzr/PedroRobot
 https://github.com/Alteriom/EByte_LoRa_E220_Series_Library
 https://github.com/SvenRosvall/VLCB-Arduino
+https://github.com/SvenRosvall/VCAN2515
 https://github.com/Alteriom/painlessMesh
 https://github.com/mitra42/frugal-iot
 https://github.com/eakse/ESP32S3_SUPERMINI_PINOUT
@@ -9370,6 +9371,7 @@ https://github.com/0ldev/Politician
 https://github.com/electronicstree/blendixserial-arduino
 https://github.com/HijelHub/HijelHID_BLEMouse
 https://github.com/rleusden/LTC2944_BMS
+https://github.com/angeloINTJ/TwoWirePIO_RP2040.git
 https://github.com/angeloINTJ/USBSnifferPIO_RP2040.git
 https://github.com/hfdalkarim/Hafid
 https://github.com/IowaScaledEngineering/mss-xcade-lib
@@ -9692,3 +9694,16 @@ https://github.com/flatree-ys/OV7725_CPUfree_Camera
 https://github.com/SUNSETDEVER/AVR_TaskScheduler
 https://github.com/TakamoriRobot/HIRO
 https://github.com/chijesusboy2004-crypto/omiru.h
+https://github.com/chijesusboy2004-crypto/AxonSDK
+https://github.com/razkar-studio/stimeration
+https://github.com/KarlEffinger/GL55xxSensor
+https://github.com/vic4key/MyDisplayLogging
+https://github.com/habuenav/easyMenu
+https://github.com/admin3314/Vira_WiFi_Connector.git
+https://github.com/admin3314/ViraMediaWeb.git
+https://github.com/bhvym-sudo/PT6964
+https://github.com/sauloverissimo/midi2duino.git
+https://github.com/Cymeria/LittleFSExplorer
+https://github.com/rowanzhang123/IF97duino-public
+https://github.com/m5stack/M5Hat-18650C
+https://github.com/admin3314/Vira_Matrix.git
