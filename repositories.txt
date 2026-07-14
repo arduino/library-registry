@@ -1,4 +1,5 @@
 https://github.com/houslast3/sistema
+https://github.com/ailagari/JMCMotorControl
 https://github.com/Moaaz-i/FlareDom
 https://github.com/Moaaz-i/Ultra1602Ultimate
 https://github.com/LautaroRodriguezBase/PButton
@@ -9688,7 +9689,6 @@ https://github.com/codewitch-honey-crisis/htcw_frame_arq
 https://github.com/vic4key/MyButtons
 https://github.com/Protocentral/protocentral_healthypi_5_firmware
 https://github.com/dunknowcoding/NiusWireless
-https://github.com/arduino-libraries/Arduino_UniqueHWId
 https://github.com/HRK-Yas/HM01B0_CPUfree_Camera
 https://github.com/HRK-Yas/OV7725_CPUfree_Camera
 https://github.com/SUNSETDEVER/AVR_TaskScheduler
@@ -9699,3 +9699,11 @@ https://github.com/razkar-studio/stimeration
 https://github.com/KarlEffinger/GL55xxSensor
 https://github.com/vic4key/MyDisplayLogging
 https://github.com/habuenav/easyMenu
+https://github.com/admin3314/Vira_WiFi_Connector.git
+https://github.com/admin3314/ViraMediaWeb.git
+https://github.com/bhvym-sudo/PT6964
+https://github.com/sauloverissimo/midi2duino.git
+https://github.com/Cymeria/LittleFSExplorer
+https://github.com/rowanzhang123/IF97duino-public
+https://github.com/m5stack/M5Hat-18650C
+https://github.com/admin3314/Vira_Matrix.git
