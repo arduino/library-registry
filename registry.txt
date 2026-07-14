@@ -9660,7 +9660,7 @@ https://github.com/VoidLoopers/SignalCore.git|Contributed|SignalCore
 https://github.com/VoidLoopers/ViewPoint.git|Contributed|ViewPoint
 https://github.com/Sensirion/arduino-i2c-stc42.git|Contributed|Sensirion I2C STC42
 https://github.com/soosp/DigitalOutput.git|Contributed|DigitalOutput
-https://github.com/houslast3/UIsistema.git|Contributed|SysUILib
+https://github.com/houslast3/sistema.git|Contributed|SysUILib
 https://github.com/decoded-cipher/nodrix-sdk.git|Contributed|Nodrix
 https://github.com/DrHahnchenflugel/ServoTimer2Plus.git|Contributed|ServoTimer2Plus
 https://github.com/F1chter/LynkTuyaLocal.git|Contributed|LynkTuyaLocal
