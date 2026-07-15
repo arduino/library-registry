@@ -9705,3 +9705,4 @@ https://github.com/scalpelspace/scalpelspace_bus.git|Contributed|ScalpelSpace Bu
 https://github.com/supratikd/HW290.git|Contributed|HW290
 https://github.com/RobTillaart/I2C_MPRLS.git|Contributed|I2C_MPRLS
 https://github.com/srirangaraj-b/UNOQ_STM32_HAL.git|Contributed|UNOQ_STM32_HAL
+https://github.com/sbarabe/SBK_AvrBuzzer.git|Contributed|SBK_AvrBuzzer
