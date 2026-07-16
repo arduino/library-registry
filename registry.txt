@@ -9710,3 +9710,5 @@ https://github.com/m-mcgowan/note-cpp.git|Contributed|note-cpp
 https://github.com/greghulette/WcbCmd.git|Contributed|WcbCmd
 https://github.com/sbarabe/SBK_Button.git|Contributed|SBK_Button
 https://github.com/Al-Zhilin/RingFileLogger.git|Contributed|RingFileLogger
+https://github.com/soosp/NetworkProfile.git|Contributed|NetworkProfile
+https://github.com/soosp/NetworkManager.git|Contributed|NetworkManager
