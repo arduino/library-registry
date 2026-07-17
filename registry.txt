@@ -9712,3 +9712,4 @@ https://github.com/sbarabe/SBK_Button.git|Contributed|SBK_Button
 https://github.com/Al-Zhilin/RingFileLogger.git|Contributed|RingFileLogger
 https://github.com/soosp/NetworkProfile.git|Contributed|NetworkProfile
 https://github.com/soosp/NetworkManager.git|Contributed|NetworkManager
+https://github.com/Nesara-Thejan/MPU6050_Nexa.git|Contributed|MPU6050_Nexa
