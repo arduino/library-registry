@@ -9719,3 +9719,5 @@ https://github.com/sbarabe/SBK_Button.git
 https://github.com/Al-Zhilin/RingFileLogger.git
 https://github.com/soosp/NetworkProfile
 https://github.com/soosp/NetworkManager
+https://github.com/Nesara-Thejan/MPU6050_Nexa
+
