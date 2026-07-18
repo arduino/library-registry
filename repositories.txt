@@ -9724,3 +9724,4 @@ https://github.com/Nesara-Thejan/MPU6050_Nexa
 https://github.com/JoergTiedemann/ESP32-IoT-Framework.git
 https://github.com/NicholasTracy/ANSITerm
 https://github.com/fikrielektro21/MHZ19
+https://github.com/streef/YetAnotherRotaryEncoder
