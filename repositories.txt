@@ -9721,5 +9721,5 @@ https://github.com/Al-Zhilin/RingFileLogger.git
 https://github.com/soosp/NetworkProfile
 https://github.com/soosp/NetworkManager
 https://github.com/Nesara-Thejan/MPU6050_Nexa
-
+https://github.com/JoergTiedemann/ESP32-IoT-Framework.git
 https://github.com/NicholasTracy/ANSITerm
