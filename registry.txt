@@ -9717,3 +9717,4 @@ https://github.com/ZipionLive/RedLab_I2CMatrixKeypad.git|Contributed|RedLab_I2CM
 https://github.com/NicholasTracy/ANSITerm.git|Contributed|ANSITerm
 https://github.com/JoergTiedemann/ESP32-IoT-Framework.git|Contributed|ESP32-IoT Framework
 https://github.com/fikrielektro21/MHZ19.git|Contributed|MHZ19_Universal
+https://github.com/matthias-bs/esp32-shelly-ble-rpc.git|Contributed|esp32-shelly-ble-rpc
