@@ -9716,3 +9716,4 @@ https://github.com/Nesara-Thejan/MPU6050_Nexa.git|Contributed|MPU6050_Nexa
 https://github.com/ZipionLive/RedLab_I2CMatrixKeypad.git|Contributed|RedLab_I2CMatrixKeypad
 https://github.com/NicholasTracy/ANSITerm.git|Contributed|ANSITerm
 https://github.com/JoergTiedemann/ESP32-IoT-Framework.git|Contributed|ESP32-IoT Framework
+https://github.com/fikrielektro21/MHZ19.git|Contributed|MHZ19_Universal
