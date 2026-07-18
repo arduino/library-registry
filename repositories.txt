@@ -9725,3 +9725,4 @@ https://github.com/JoergTiedemann/ESP32-IoT-Framework.git
 https://github.com/NicholasTracy/ANSITerm
 https://github.com/fikrielektro21/MHZ19
 https://github.com/matthias-bs/esp32-shelly-ble-rpc
+https://github.com/dunknowcoding/NobroRTOS-Arduino
