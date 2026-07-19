@@ -9729,3 +9729,4 @@ https://github.com/matthias-bs/esp32-shelly-ble-rpc
 https://github.com/dunknowcoding/NobroRTOS-Arduino
 https://github.com/dunknowcoding/NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302
+https://github.com/Alash-electronics/AlashKeypadMatrix
