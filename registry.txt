@@ -9724,3 +9724,4 @@ https://github.com/dunknowcoding/NiusAudio.git|Contributed|NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302.git|Contributed|Alash DS1302 RTC
 https://github.com/Alash-electronics/AlashSerialTerminal.git|Contributed|AlashSerialTerminal
 https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS.git|Contributed|I2C_LiquidCrystal_RUS
+https://github.com/Alash-electronics/AlashUartMP3.git|Contributed|AlashUartMP3
