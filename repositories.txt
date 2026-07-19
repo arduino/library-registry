@@ -9728,3 +9728,4 @@ https://github.com/streef/YetAnotherRotaryEncoder
 https://github.com/matthias-bs/esp32-shelly-ble-rpc
 https://github.com/dunknowcoding/NobroRTOS-Arduino
 https://github.com/dunknowcoding/NiusAudio
+https://github.com/Alash-electronics/LiquidCrystal_I2C
