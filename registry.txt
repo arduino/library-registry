@@ -9722,3 +9722,4 @@ https://github.com/dunknowcoding/NobroRTOS-Arduino.git|Contributed|NobroRTOS
 https://github.com/streef/YetAnotherRotaryEncoder.git|Contributed|YetAnotherRotaryEncoder
 https://github.com/dunknowcoding/NiusAudio.git|Contributed|NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302.git|Contributed|Alash DS1302 RTC
+https://github.com/Alash-electronics/AlashSerialTerminal.git|Contributed|AlashSerialTerminal
