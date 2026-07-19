@@ -9730,3 +9730,4 @@ https://github.com/dunknowcoding/NobroRTOS-Arduino
 https://github.com/dunknowcoding/NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302
 https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS
+https://github.com/Alash-electronics/AlashSerialTerminal
