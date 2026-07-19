@@ -9727,3 +9727,4 @@ https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS.git|Contributed|I2C_L
 https://github.com/Alash-electronics/AlashUartMP3.git|Contributed|AlashUartMP3
 https://github.com/Alash-electronics/AlashLEDMatrix8x8.git|Contributed|AlashLEDMatrix8x8
 https://github.com/Alash-electronics/AlashKeypadMatrix.git|Contributed|AlashKeypadMatrix
+https://github.com/styropyr0/MAX7219.git|Contributed|MAX7219
