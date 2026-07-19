@@ -9729,6 +9729,7 @@ https://github.com/matthias-bs/esp32-shelly-ble-rpc
 https://github.com/dunknowcoding/NobroRTOS-Arduino
 https://github.com/dunknowcoding/NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302
+https://github.com/Alash-electronics/AlashLEDMatrix8x8
 https://github.com/Alash-electronics/AlashUartMP3
 https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS
 https://github.com/Alash-electronics/AlashSerialTerminal
