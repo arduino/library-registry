@@ -9720,3 +9720,4 @@ https://github.com/fikrielektro21/MHZ19.git|Contributed|MHZ19_Universal
 https://github.com/matthias-bs/esp32-shelly-ble-rpc.git|Contributed|esp32-shelly-ble-rpc
 https://github.com/dunknowcoding/NobroRTOS-Arduino.git|Contributed|NobroRTOS
 https://github.com/streef/YetAnotherRotaryEncoder.git|Contributed|YetAnotherRotaryEncoder
+https://github.com/dunknowcoding/NiusAudio.git|Contributed|NiusAudio
