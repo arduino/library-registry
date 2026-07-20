@@ -9730,3 +9730,4 @@ https://github.com/Alash-electronics/AlashKeypadMatrix.git|Contributed|AlashKeyp
 https://github.com/styropyr0/MAX7219.git|Contributed|MAX7219
 https://github.com/LEKPCSTEAM/SmartFont.git|Contributed|SmartFont
 https://github.com/NickP005/plynx-library.git|Contributed|Plynx
+https://github.com/NotPamusa/RoboReach.git|Contributed|RoboReach
