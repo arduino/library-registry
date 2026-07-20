@@ -9729,3 +9729,4 @@ https://github.com/Alash-electronics/AlashLEDMatrix8x8.git|Contributed|AlashLEDM
 https://github.com/Alash-electronics/AlashKeypadMatrix.git|Contributed|AlashKeypadMatrix
 https://github.com/styropyr0/MAX7219.git|Contributed|MAX7219
 https://github.com/LEKPCSTEAM/SmartFont.git|Contributed|SmartFont
+https://github.com/NickP005/plynx-library.git|Contributed|Plynx
