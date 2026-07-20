@@ -9735,3 +9735,4 @@ https://github.com/Alash-electronics/AlashUartMP3
 https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS
 https://github.com/Alash-electronics/AlashSerialTerminal
 https://github.com/styropyr0/MAX7219
+https://github.com/LEKPCSTEAM/SmartFont.git
