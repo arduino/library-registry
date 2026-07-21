@@ -9693,8 +9693,8 @@ https://github.com/codewitch-honey-crisis/htcw_frame_arq
 https://github.com/vic4key/MyButtons
 https://github.com/Protocentral/protocentral_healthypi_5_firmware
 https://github.com/dunknowcoding/NiusWireless
-https://github.com/HRK-Yas/HM01B0_CPUfree_Camera
-https://github.com/HRK-Yas/OV7725_CPUfree_Camera
+https://github.com/flatree-ys/HM01B0_CPUfree_Camera
+https://github.com/flatree-ys/OV7725_CPUfree_Camera
 https://github.com/SUNSETDEVER/AVR_TaskScheduler
 https://github.com/TakamoriRobot/HIRO
 https://github.com/chijesusboy2004-crypto/omiru.h
