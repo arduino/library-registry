@@ -9252,7 +9252,7 @@ https://github.com/FBSeletronica/ESPNowProtocol.git|Contributed|ESPNowProtocol
 https://github.com/JorgeGBeltre/MQTTOTAv5.git|Contributed|MQTTOTAv5
 https://github.com/ToSStudio/LT7683.git|Contributed|LT7683
 https://github.com/UNIT-Electronics-MX/unit_dvi_hstx_library.git|Contributed|UDVI HSTX
-https://github.com/rgot-org/CoVACIEL-ESP32.git|Contributed|CoVACIEL
+https://github.com/rgot-org/CoVACIEL-ESP32.git|Contributed|CoVACIEL-ESP32
 https://github.com/jayasankar-jp/SmartProcess.git|Contributed|SmartProcess
 https://github.com/joseluu/adc128d818_driver.git|Contributed|ADC128D818
 https://github.com/DIYables/DIYables-DC-Motor.git|Contributed|DIYables_DC_Motor
@@ -9660,7 +9660,7 @@ https://github.com/VoidLoopers/SignalCore.git|Contributed|SignalCore
 https://github.com/VoidLoopers/ViewPoint.git|Contributed|ViewPoint
 https://github.com/Sensirion/arduino-i2c-stc42.git|Contributed|Sensirion I2C STC42
 https://github.com/soosp/DigitalOutput.git|Contributed|DigitalOutput
-https://github.com/houslast3/UIsistema.git|Contributed|SysUILib
+https://github.com/houslast3/sistema.git|Contributed|SysUILib
 https://github.com/decoded-cipher/nodrix-sdk.git|Contributed|Nodrix
 https://github.com/DrHahnchenflugel/ServoTimer2Plus.git|Contributed|ServoTimer2Plus
 https://github.com/F1chter/LynkTuyaLocal.git|Contributed|LynkTuyaLocal
@@ -9679,10 +9679,56 @@ https://github.com/nthnsdev/RCArmDrive.git|Contributed|RCArmDrive
 https://github.com/Protocentral/protocentral_healthypi_5_firmware.git|Contributed|ProtoCentral HealthyPi 5
 https://github.com/Moaaz-i/Ultra1602Ultimate.git|Contributed|Ultra1602Ultimate
 https://github.com/dunknowcoding/NiusWireless.git|Contributed|NiusWireless
-https://github.com/arduino-libraries/Arduino_UniqueHWId.git|Arduino|Arduino_UniqueHWId
 https://github.com/flatree-ys/HM01B0_CPUfree_Camera.git|Contributed|HM01B0_CPUfree_Camera
-https://github.com/HRK-Yas/OV7725_CPUfree_Camera.git|Contributed|OV7725_Camera_Library
+https://github.com/flatree-ys/OV7725_CPUfree_Camera.git|Contributed|OV7725_Camera_Library
 https://github.com/TakamoriRobot/HIRO.git|Contributed|HIRO
 https://github.com/SUNSETDEVER/AVR_TaskScheduler.git|Contributed|AVR Task Scheduler
 https://github.com/chijesusboy2004-crypto/omiru.h.git|Contributed|Omiru IoT Platform
 https://github.com/chijesusboy2004-crypto/AxonSDK.git|Contributed|AxonSDK
+https://github.com/SvenRosvall/VCAN2515.git|Contributed|VCAN2515
+https://github.com/angeloINTJ/TwoWirePIO_RP2040.git|Contributed|WirePIO
+https://github.com/KarlEffinger/GL55xxSensor.git|Contributed|GL55xxSensor
+https://github.com/vic4key/MyDisplayLogging.git|Contributed|MyDisplayLogging
+https://github.com/habuenav/easyMenu.git|Contributed|easyMenu
+https://github.com/razkar-studio/stimeration.git|Contributed|Stimeration
+https://github.com/admin3314/Vira_WiFi_Connector.git|Contributed|Vira_WiFi_Connector
+https://github.com/bhvym-sudo/PT6964.git|Contributed|PT6964
+https://github.com/sauloverissimo/midi2duino.git|Contributed|midi2duino
+https://github.com/Cymeria/LittleFSExplorer.git|Contributed|LittleFSExplorer
+https://github.com/rowanzhang123/IF97duino-public.git|Contributed|IF97duino
+https://github.com/m5stack/M5Hat-18650C.git|Contributed|M5Hat_18650C
+https://github.com/admin3314/Vira_Matrix.git|Contributed|Vira_Matrix
+https://github.com/admin3314/ViraMediaWeb.git|Contributed|ViraMediaWeb
+https://github.com/ailagari/JMCMotorControl.git|Contributed|JMCMotorControl
+https://github.com/vvb333007/tarfs.git|Contributed|tarfs
+https://github.com/scalpelspace/scalpelspace_bus.git|Contributed|ScalpelSpace Bus
+https://github.com/supratikd/HW290.git|Contributed|HW290
+https://github.com/RobTillaart/I2C_MPRLS.git|Contributed|I2C_MPRLS
+https://github.com/srirangaraj-b/UNOQ_STM32_HAL.git|Contributed|UNOQ_STM32_HAL
+https://github.com/sbarabe/SBK_AvrBuzzer.git|Contributed|SBK_AvrBuzzer
+https://github.com/m-mcgowan/note-cpp.git|Contributed|note-cpp
+https://github.com/greghulette/WcbCmd.git|Contributed|WcbCmd
+https://github.com/sbarabe/SBK_Button.git|Contributed|SBK_Button
+https://github.com/Al-Zhilin/RingFileLogger.git|Contributed|RingFileLogger
+https://github.com/soosp/NetworkProfile.git|Contributed|NetworkProfile
+https://github.com/soosp/NetworkManager.git|Contributed|NetworkManager
+https://github.com/Nesara-Thejan/MPU6050_Nexa.git|Contributed|MPU6050_Nexa
+https://github.com/ZipionLive/RedLab_I2CMatrixKeypad.git|Contributed|RedLab_I2CMatrixKeypad
+https://github.com/NicholasTracy/ANSITerm.git|Contributed|ANSITerm
+https://github.com/JoergTiedemann/ESP32-IoT-Framework.git|Contributed|ESP32-IoT Framework
+https://github.com/fikrielektro21/MHZ19.git|Contributed|MHZ19_Universal
+https://github.com/matthias-bs/esp32-shelly-ble-rpc.git|Contributed|esp32-shelly-ble-rpc
+https://github.com/dunknowcoding/NobroRTOS-Arduino.git|Contributed|NobroRTOS
+https://github.com/streef/YetAnotherRotaryEncoder.git|Contributed|YetAnotherRotaryEncoder
+https://github.com/dunknowcoding/NiusAudio.git|Contributed|NiusAudio
+https://github.com/Alash-electronics/Alash_DS1302.git|Contributed|Alash DS1302 RTC
+https://github.com/Alash-electronics/AlashSerialTerminal.git|Contributed|AlashSerialTerminal
+https://github.com/Alash-electronics/I2C_LiquidCrystal_RUS.git|Contributed|I2C_LiquidCrystal_RUS
+https://github.com/Alash-electronics/AlashUartMP3.git|Contributed|AlashUartMP3
+https://github.com/Alash-electronics/AlashLEDMatrix8x8.git|Contributed|AlashLEDMatrix8x8
+https://github.com/Alash-electronics/AlashKeypadMatrix.git|Contributed|AlashKeypadMatrix
+https://github.com/styropyr0/MAX7219.git|Contributed|MAX7219
+https://github.com/LEKPCSTEAM/SmartFont.git|Contributed|SmartFont
+https://github.com/NickP005/plynx-library.git|Contributed|Plynx
+https://github.com/NotPamusa/RoboReach.git|Contributed|RoboReach
+https://github.com/RANINDRAM123/TameModbus.git|Contributed|TameModbus
