@@ -9738,4 +9738,4 @@ https://github.com/styropyr0/MAX7219
 https://github.com/LEKPCSTEAM/SmartFont.git
 https://github.com/NickP005/plynx-library
 https://github.com/NotPamusa/RoboReach
-https://github.com/RANINDRAM123/ModbusRTU
+https://github.com/RANINDRAM123/TameModbus
