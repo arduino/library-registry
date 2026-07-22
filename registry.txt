@@ -9736,3 +9736,4 @@ https://github.com/LeviMonte/ArduinoRemoteIO.git|Contributed|ModbusResponder
 https://github.com/vedacool/Arduino-Azure-IoT-Central.git|Contributed|AzureIoT
 https://github.com/SolderedElectronics/Soldered-ADSB-Receiver-Arduino-Library.git|Contributed|Soldered ADS-B Receiver
 https://github.com/ugursayar/NessoLink.git|Contributed|NessoLink
+https://github.com/David-Vandensteen/dv-iir-filter8.git|Contributed|dv_iir_filter8
