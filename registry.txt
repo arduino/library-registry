@@ -9735,3 +9735,4 @@ https://github.com/RANINDRAM123/TameModbus.git|Contributed|TameModbus
 https://github.com/LeviMonte/ArduinoRemoteIO.git|Contributed|ModbusResponder
 https://github.com/vedacool/Arduino-Azure-IoT-Central.git|Contributed|AzureIoT
 https://github.com/SolderedElectronics/Soldered-ADSB-Receiver-Arduino-Library.git|Contributed|Soldered ADS-B Receiver
+https://github.com/ugursayar/NessoLink.git|Contributed|NessoLink
