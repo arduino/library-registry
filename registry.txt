@@ -9733,3 +9733,4 @@ https://github.com/NickP005/plynx-library.git|Contributed|Plynx
 https://github.com/NotPamusa/RoboReach.git|Contributed|RoboReach
 https://github.com/RANINDRAM123/TameModbus.git|Contributed|TameModbus
 https://github.com/LeviMonte/ArduinoRemoteIO.git|Contributed|ModbusResponder
+https://github.com/vedacool/Arduino-Azure-IoT-Central.git|Contributed|AzureIoT
