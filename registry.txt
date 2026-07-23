@@ -9739,3 +9739,4 @@ https://github.com/ugursayar/NessoLink.git|Contributed|NessoLink
 https://github.com/David-Vandensteen/dv-iir-filter8.git|Contributed|dv_iir_filter8
 https://github.com/cmoz/CMozGlow.git|Contributed|CMozGlow
 https://github.com/hinyhiny/XiaoMiaoLED.git|Contributed|XiaoMiaoLED
+https://github.com/mvoss96/bthome-cpp.git|Contributed|bthome-cpp
