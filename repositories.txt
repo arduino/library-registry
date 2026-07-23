@@ -9746,3 +9746,4 @@ https://github.com/vedacool/Arduino-Azure-IoT-Central
 https://github.com/ugursayar/NessoLink
 https://github.com/cmoz/CMozGlow
 https://github.com/hinyhiny/XiaoMiaoLED.git
+https://github.com/mvoss96/bthome-cpp
