@@ -6304,6 +6304,7 @@ https://github.com/RobTillaart/M5ANGLE8
 https://github.com/RobTillaart/M5ROTATE8
 https://github.com/RobTillaart/M5SWITCH8
 https://github.com/RobTillaart/M62429
+https://github.com/RobTillaart/M61538FP
 https://github.com/RobTillaart/map2bits
 https://github.com/RobTillaart/map2colour
 https://github.com/RobTillaart/markDownWriter
