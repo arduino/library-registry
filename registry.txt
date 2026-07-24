@@ -9748,3 +9748,4 @@ https://github.com/jwpyle3/DIPSwitch16.git|Contributed|DIPSwitch16
 https://github.com/RobTillaart/PT2323.git|Contributed|PT2323
 https://github.com/RobTillaart/M61538FP.git|Contributed|M61538FP
 https://github.com/GyverLibs/uWire.git|Contributed|uWire
+https://github.com/X-croot/MPU6050Auto.git|Contributed|MPU6050Auto
