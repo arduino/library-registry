@@ -9751,3 +9751,4 @@ https://github.com/hinyhiny/XiaoMiaoLED.git
 https://github.com/mvoss96/bthome-cpp
 https://github.com/mvoss96/SimpleWifiManager
 https://github.com/LZQS1/VQF-for-Arduino
+https://github.com/jwpyle3/DIPSwitch16
