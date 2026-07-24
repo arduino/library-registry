@@ -9750,3 +9750,4 @@ https://github.com/RobTillaart/M61538FP.git|Contributed|M61538FP
 https://github.com/GyverLibs/uWire.git|Contributed|uWire
 https://github.com/X-croot/MPU6050Auto.git|Contributed|MPU6050Auto
 https://github.com/akilaid/esp32-blifi-arduino.git|Contributed|Blifi
+https://github.com/David-Vandensteen/dv-every-interval.git|Contributed|dv_every_interval
