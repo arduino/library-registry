@@ -1,4 +1,5 @@
 https://github.com/David-Vandensteen/dv-iir-filter8
+https://github.com/X-croot/MPU6050Auto
 https://github.com/SolderedElectronics/Soldered-ADSB-Receiver-Arduino-Library
 https://github.com/ZipionLive/RedLab_I2CMatrixKeypad
 https://github.com/houslast3/sistema
