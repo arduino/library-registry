@@ -9743,3 +9743,4 @@ https://github.com/mvoss96/bthome-cpp.git|Contributed|bthome-cpp
 https://github.com/mvoss96/SimpleWifiManager.git|Contributed|SimpleWifiManager
 https://github.com/SolderedElectronics/Soldered-PCA9685-PWM-Servo-Driver-Arduino-Library.git|Contributed|Soldered PCA9685 PWM Servo Driver
 https://github.com/GyverLibs/MultiServo.git|Contributed|MultiServo
+https://github.com/LZQS1/VQF-for-Arduino.git|Contributed|VQF_Arduino
