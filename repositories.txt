@@ -9765,3 +9765,4 @@ https://github.com/t0mer/GreenApi-WhatsApp-Library.git
 https://github.com/anvishinc/GlideEdgent
 https://github.com/juarendra/VIA-Arduino
 https://github.com/juarendra/RN8209D-Arduino
+https://github.com/juarendra/MR24HPC1-Arduino
