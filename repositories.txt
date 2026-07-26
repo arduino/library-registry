@@ -9770,5 +9770,5 @@ https://github.com/juarendra/MR24HPC1-Arduino
 https://github.com/juarendra/ZE40B-TVOC-Arduino
 https://github.com/juarendra/ADPD188BI-Arduino
 https://github.com/juarendra/D6F-W04A1-Arduino
-
+https://github.com/PrimusKirill/BD37033
 https://github.com/eleboys/LU9685
