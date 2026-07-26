@@ -9764,3 +9764,4 @@ https://github.com/juarendra/ADPD188BI-Arduino.git|Contributed|ADPD188BI
 https://github.com/juarendra/D6F-W04A1-Arduino.git|Contributed|D6F-W04A1
 https://github.com/eleboys/LU9685.git|Contributed|LU9685
 https://github.com/richcreations/imud-arduino.git|Contributed|ImudClient
+https://github.com/bnorth12/LC29H_GNSS-Library.git|Contributed|LC29H_GNSS
