@@ -9762,3 +9762,4 @@ https://github.com/LZQS1/VQF-for-Arduino
 https://github.com/jwpyle3/DIPSwitch16
 https://github.com/akilaid/esp32-blifi-arduino
 https://github.com/t0mer/GreenApi-WhatsApp-Library.git
+https://github.com/anvishinc/GlideEdgent
