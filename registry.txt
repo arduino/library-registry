@@ -9755,3 +9755,4 @@ https://github.com/David-Vandensteen/dv-average-accumulator8.git|Contributed|dv_
 https://github.com/RobTillaart/PT2258.git|Contributed|PT2258_RT
 https://github.com/Engrzoroz/ZOROZ_OLED.git|Contributed|ZorozOLED
 https://github.com/t0mer/GreenApi-WhatsApp-Library.git|Contributed|GreenApi
+https://github.com/anvishinc/GlideEdgent.git|Contributed|GlideEdgent
