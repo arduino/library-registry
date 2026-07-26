@@ -9757,3 +9757,4 @@ https://github.com/Engrzoroz/ZOROZ_OLED.git|Contributed|ZorozOLED
 https://github.com/t0mer/GreenApi-WhatsApp-Library.git|Contributed|GreenApi
 https://github.com/anvishinc/GlideEdgent.git|Contributed|GlideEdgent
 https://github.com/juarendra/VIA-Arduino.git|Contributed|VIA_Arduino
+https://github.com/juarendra/RN8209D-Arduino.git|Contributed|RN8209D
