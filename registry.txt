@@ -9760,3 +9760,4 @@ https://github.com/juarendra/VIA-Arduino.git|Contributed|VIA_Arduino
 https://github.com/juarendra/RN8209D-Arduino.git|Contributed|RN8209D
 https://github.com/juarendra/MR24HPC1-Arduino.git|Contributed|MR24HPC1
 https://github.com/juarendra/ZE40B-TVOC-Arduino.git|Contributed|ZE40B-TVOC
+https://github.com/juarendra/ADPD188BI-Arduino.git|Contributed|ADPD188BI
