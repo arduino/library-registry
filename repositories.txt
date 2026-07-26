@@ -9772,3 +9772,4 @@ https://github.com/juarendra/ADPD188BI-Arduino
 https://github.com/juarendra/D6F-W04A1-Arduino
 
 https://github.com/eleboys/LU9685
+https://github.com/bnorth12/LC29H_GNSS-Library
