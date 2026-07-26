@@ -9767,3 +9767,4 @@ https://github.com/juarendra/VIA-Arduino
 https://github.com/juarendra/RN8209D-Arduino
 https://github.com/juarendra/MR24HPC1-Arduino
 https://github.com/juarendra/ZE40B-TVOC-Arduino
+https://github.com/juarendra/ADPD188BI-Arduino
