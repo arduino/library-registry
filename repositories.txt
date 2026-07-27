@@ -9774,3 +9774,4 @@ https://github.com/PrimusKirill/BD37033
 https://github.com/eleboys/LU9685
 https://github.com/bnorth12/LC29H_GNSS-Library
 https://github.com/Xinyuan-LilyGO/LilyGo-display-library
+https://github.com/htlabnet/Pico_USB_Disp
