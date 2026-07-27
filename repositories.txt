@@ -1,3 +1,7 @@
+https://github.com/richcreations/imud-arduino.git
+https://github.com/Engrzoroz/ZOROZ_OLED
+https://github.com/David-Vandensteen/dv-average-accumulator8
+https://github.com/David-Vandensteen/dv-every-interval
 https://github.com/David-Vandensteen/dv-iir-filter8
 https://github.com/X-croot/MPU6050Auto
 https://github.com/SolderedElectronics/Soldered-ADSB-Receiver-Arduino-Library
@@ -6387,6 +6391,7 @@ https://github.com/RobTillaart/printHelpers
 https://github.com/RobTillaart/PrintSize
 https://github.com/RobTillaart/PrintString
 https://github.com/RobTillaart/PT2257
+https://github.com/RobTillaart/PT2258
 https://github.com/RobTillaart/PT2314
 https://github.com/RobTillaart/PT2323
 https://github.com/RobTillaart/PulseDivider
@@ -9756,3 +9761,17 @@ https://github.com/mvoss96/bthome-cpp
 https://github.com/mvoss96/SimpleWifiManager
 https://github.com/LZQS1/VQF-for-Arduino
 https://github.com/jwpyle3/DIPSwitch16
+https://github.com/akilaid/esp32-blifi-arduino
+https://github.com/t0mer/GreenApi-WhatsApp-Library.git
+https://github.com/anvishinc/GlideEdgent
+https://github.com/juarendra/VIA-Arduino
+https://github.com/juarendra/RN8209D-Arduino
+https://github.com/juarendra/MR24HPC1-Arduino
+https://github.com/juarendra/ZE40B-TVOC-Arduino
+https://github.com/juarendra/ADPD188BI-Arduino
+https://github.com/juarendra/D6F-W04A1-Arduino
+https://github.com/PrimusKirill/BD37033
+https://github.com/eleboys/LU9685
+https://github.com/bnorth12/LC29H_GNSS-Library
+https://github.com/Xinyuan-LilyGO/LilyGo-display-library
+https://github.com/htlabnet/Pico_USB_Disp
