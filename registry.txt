@@ -9769,3 +9769,4 @@ https://github.com/PrimusKirill/BD37033.git|Contributed|BD37033
 https://github.com/Xinyuan-LilyGO/LilyGo-display-library.git|Contributed|LilyGo-display-library
 https://github.com/htlabnet/Pico_USB_Disp.git|Contributed|Pico_USB_Disp
 https://github.com/X-croot/NewPID.git|Contributed|NewPID
+https://github.com/hazowa/Arduino_GFX_Graph.git|Contributed|GFX_Graph
