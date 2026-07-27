@@ -9768,3 +9768,4 @@ https://github.com/bnorth12/LC29H_GNSS-Library.git|Contributed|LC29H_GNSS
 https://github.com/PrimusKirill/BD37033.git|Contributed|BD37033
 https://github.com/Xinyuan-LilyGO/LilyGo-display-library.git|Contributed|LilyGo-display-library
 https://github.com/htlabnet/Pico_USB_Disp.git|Contributed|Pico_USB_Disp
+https://github.com/X-croot/NewPID.git|Contributed|NewPID
