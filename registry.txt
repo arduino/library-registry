@@ -9771,3 +9771,4 @@ https://github.com/htlabnet/Pico_USB_Disp.git|Contributed|Pico_USB_Disp
 https://github.com/X-croot/NewPID.git|Contributed|NewPID
 https://github.com/hazowa/Arduino_GFX_Graph.git|Contributed|GFX_Graph
 https://github.com/UNIT-Electronics-MX/unit_devlab_joystickcontroller_library.git|Contributed|DevLab_JoystickController
+https://github.com/chon-group/neck2arduino.git|Contributed|NECK
