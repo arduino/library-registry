@@ -9766,3 +9766,4 @@ https://github.com/eleboys/LU9685.git|Contributed|LU9685
 https://github.com/richcreations/imud-arduino.git|Contributed|ImudClient
 https://github.com/bnorth12/LC29H_GNSS-Library.git|Contributed|LC29H_GNSS
 https://github.com/PrimusKirill/BD37033.git|Contributed|BD37033
+https://github.com/Xinyuan-LilyGO/LilyGo-display-library.git|Contributed|LilyGo-display-library
