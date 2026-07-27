@@ -9773,3 +9773,4 @@ https://github.com/juarendra/D6F-W04A1-Arduino
 https://github.com/PrimusKirill/BD37033
 https://github.com/eleboys/LU9685
 https://github.com/bnorth12/LC29H_GNSS-Library
+https://github.com/Xinyuan-LilyGO/LilyGo-display-library
