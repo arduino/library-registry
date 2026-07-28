@@ -9783,3 +9783,4 @@ https://github.com/chon-group/neck2arduino
 https://github.com/tawfique02/SmartSensorFilter
 https://github.com/PiezoSonic/PSI
 https://github.com/noureddine-akouchah/nourgrid-arduino.git
+https://github.com/Stutchbury/ResistiveTouchScreen
