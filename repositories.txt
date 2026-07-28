@@ -1,3 +1,4 @@
+https://github.com/atharvaphadnis-ai/OLEDAnimator
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
 https://github.com/X-croot/NewPID
