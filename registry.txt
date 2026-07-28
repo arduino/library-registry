@@ -9774,3 +9774,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_joystickcontroller_library.gi
 https://github.com/chon-group/neck2arduino.git|Contributed|NECK
 https://github.com/tawfique02/SmartSensorFilter.git|Contributed|SmartSensorFilter
 https://github.com/PiezoSonic/PSI.git|Contributed|PSI
+https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib.git|Contributed|MKE I2C MP3
