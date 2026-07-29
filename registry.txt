@@ -9779,3 +9779,4 @@ https://github.com/Stutchbury/ResistiveTouchScreen.git|Contributed|ResistiveTouc
 https://github.com/noureddine-akouchah/nourgrid-arduino.git|Contributed|NourGrid
 https://github.com/jwachlin/open-rc-spotter.git|Contributed|OpenRCSpotter
 https://github.com/AlfredoSystems/AlfredoDShot.git|Contributed|AlfredoDShot
+https://github.com/krulkip/PN532Toolkit.git|Contributed|PN532Toolkit
