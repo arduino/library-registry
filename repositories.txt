@@ -9787,3 +9787,4 @@ https://github.com/noureddine-akouchah/nourgrid-arduino.git
 https://github.com/jwachlin/open-rc-spotter
 https://github.com/AlfredoSystems/AlfredoDShot
 https://github.com/krulkip/PN532Toolkit
+https://github.com/amitxgit/VL53L5CX-Arduino
