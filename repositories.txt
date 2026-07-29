@@ -9785,3 +9785,4 @@ https://github.com/PiezoSonic/PSI
 https://github.com/Stutchbury/ResistiveTouchScreen
 https://github.com/noureddine-akouchah/nourgrid-arduino.git
 https://github.com/jwachlin/open-rc-spotter
+https://github.com/AlfredoSystems/AlfredoDShot
