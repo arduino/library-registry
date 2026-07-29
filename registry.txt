@@ -9778,3 +9778,4 @@ https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib.git|Contributed|MKE I2C M
 https://github.com/Stutchbury/ResistiveTouchScreen.git|Contributed|ResistiveTouchScreen
 https://github.com/noureddine-akouchah/nourgrid-arduino.git|Contributed|NourGrid
 https://github.com/jwachlin/open-rc-spotter.git|Contributed|OpenRCSpotter
+https://github.com/AlfredoSystems/AlfredoDShot.git|Contributed|AlfredoDShot
