@@ -3420,6 +3420,8 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/HybridFS
+https://github.com/GyverLibs/uPerlin
 https://github.com/GyverLibs/uWire
 https://github.com/GyverLibs/MultiServo
 https://github.com/GyverLibs/GyverMag
