@@ -9805,3 +9805,4 @@ https://github.com/Sensirion/arduino-i2c-sfa4x.git|Contributed|Sensirion I2C SFA
 https://github.com/juarendra/ADS112C04-Arduino.git|Contributed|ADS112C04
 https://github.com/GyverLibs/HybridFS.git|Contributed|HybridFS
 https://github.com/GyverLibs/uPerlin.git|Contributed|uPerlin
+https://github.com/EnviroDIY/EpochTime.git|Contributed|EpochTime
