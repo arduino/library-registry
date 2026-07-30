@@ -9801,3 +9801,4 @@ https://github.com/SolderedElectronics/Soldered-DHT11-DHT22-Temperature-RH-Senso
 https://github.com/SolderedElectronics/Soldered-VL53L1X-Laser-Distance-Sensor-Arduino-Library.git|Contributed|Soldered VL53L1X Arduino Library
 https://github.com/SolderedElectronics/Soldered-Inputronic-BRIDGE-Library.git|Contributed|Soldered Inputronic BRIDGE Library
 https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Arduino-Library.git|Contributed|Electrochemical Gas Sensor Soldered
+https://github.com/Sensirion/arduino-i2c-sfa4x.git|Contributed|Sensirion I2C SFA4x
