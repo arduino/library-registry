@@ -9803,3 +9803,5 @@ https://github.com/SolderedElectronics/Soldered-Inputronic-BRIDGE-Library.git|Co
 https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Arduino-Library.git|Contributed|Electrochemical Gas Sensor Soldered
 https://github.com/Sensirion/arduino-i2c-sfa4x.git|Contributed|Sensirion I2C SFA4x
 https://github.com/juarendra/ADS112C04-Arduino.git|Contributed|ADS112C04
+https://github.com/GyverLibs/HybridFS.git|Contributed|HybridFS
+https://github.com/GyverLibs/uPerlin.git|Contributed|uPerlin
