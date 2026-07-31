@@ -9806,3 +9806,4 @@ https://github.com/juarendra/ADS112C04-Arduino.git|Contributed|ADS112C04
 https://github.com/GyverLibs/HybridFS.git|Contributed|HybridFS
 https://github.com/GyverLibs/uPerlin.git|Contributed|uPerlin
 https://github.com/EnviroDIY/EpochTime.git|Contributed|EpochTime
+https://github.com/nawawimegahertz/FarmSense.git|Contributed|FarmSense
