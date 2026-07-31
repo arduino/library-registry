@@ -9807,3 +9807,4 @@ https://github.com/GyverLibs/HybridFS.git|Contributed|HybridFS
 https://github.com/GyverLibs/uPerlin.git|Contributed|uPerlin
 https://github.com/EnviroDIY/EpochTime.git|Contributed|EpochTime
 https://github.com/nawawimegahertz/FarmSense.git|Contributed|FarmSense
+https://github.com/tanakamasayuki/EspBle.git|Contributed|EspBle
