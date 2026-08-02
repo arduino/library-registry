@@ -9815,3 +9815,4 @@ https://github.com/GroeiAcademie/GroeiAcademie.git|Contributed|GroeiAcademie
 https://github.com/David-Vandensteen/dv-dual-hold-state.git|Contributed|dv_dual_hold_state
 https://github.com/moomdate/StripePromptPay.git|Contributed|StripePromptPay
 https://github.com/Kkmit13/synapse-arduino.git|Contributed|SynapseDebugger
+https://github.com/vagarthgaurav/Akshara-arduino.git|Contributed|Akshara
