@@ -9822,3 +9822,4 @@ https://github.com/m5stack/M5Unit-RGB.git|Contributed|M5Unit-RGB
 https://github.com/m5stack/M5Unit-RS485.git|Contributed|M5Unit-RS485
 https://github.com/m5stack/M5Unit-LIGHT.git|Contributed|M5Unit-LIGHT
 https://github.com/m5stack/M5Unit-FLASHLIGHT.git|Contributed|M5Unit-FLASHLIGHT
+https://github.com/jinliangliu/Arduino-EC11-Library.git|Contributed|EC11Encoder
