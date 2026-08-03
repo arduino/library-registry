@@ -9830,3 +9830,4 @@ https://github.com/m5stack/M5Unit-RGB
 https://github.com/m5stack/M5Unit-RS485
 https://github.com/m5stack/M5Unit-LIGHT
 https://github.com/m5stack/M5Unit-FLASHLIGHT
+https://github.com/AlenKrishna2012/EEPROM24CXX
