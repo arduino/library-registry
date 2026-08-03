@@ -9817,3 +9817,4 @@ https://github.com/moomdate/StripePromptPay.git|Contributed|StripePromptPay
 https://github.com/Kkmit13/synapse-arduino.git|Contributed|SynapseDebugger
 https://github.com/vagarthgaurav/Akshara-arduino.git|Contributed|Akshara
 https://github.com/viniciusczanini/LD2420HumanMotion.git|Contributed|LD2420HumanMotion
+https://github.com/fknaopen/M5UnitNFC-M5Stack.git|Contributed|M5UnitNFC-M5Stack
