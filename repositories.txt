@@ -26,6 +26,7 @@ https://github.com/Engrzoroz/ZOROZ_OLED
 https://github.com/David-Vandensteen/dv-average-accumulator8
 https://github.com/David-Vandensteen/dv-every-interval
 https://github.com/David-Vandensteen/dv-iir-filter8
+https://github.com/dominicklee/TrueProx
 https://github.com/X-croot/MPU6050Auto
 https://github.com/SolderedElectronics/Soldered-ADSB-Receiver-Arduino-Library
 https://github.com/ZipionLive/RedLab_I2CMatrixKeypad
