@@ -9818,3 +9818,7 @@ https://github.com/Kkmit13/synapse-arduino.git|Contributed|SynapseDebugger
 https://github.com/vagarthgaurav/Akshara-arduino.git|Contributed|Akshara
 https://github.com/viniciusczanini/LD2420HumanMotion.git|Contributed|LD2420HumanMotion
 https://github.com/fknaopen/M5UnitNFC-M5Stack.git|Contributed|M5UnitNFC-M5Stack
+https://github.com/m5stack/M5Unit-RGB.git|Contributed|M5Unit-RGB
+https://github.com/m5stack/M5Unit-RS485.git|Contributed|M5Unit-RS485
+https://github.com/m5stack/M5Unit-LIGHT.git|Contributed|M5Unit-LIGHT
+https://github.com/m5stack/M5Unit-FLASHLIGHT.git|Contributed|M5Unit-FLASHLIGHT
