@@ -3212,6 +3212,7 @@ https://github.com/FirstBuild/Relay
 https://github.com/fish-five/BGWiFiConfig
 https://github.com/fitzterra/ServoOsc
 https://github.com/fjebaker/MQ7
+https://github.com/fknaopen/M5UnitNFC-M5Stack
 https://github.com/flash62au/WiThrottleProtocol
 https://github.com/flav1972/ArduinoINA219
 https://github.com/Flinduino/Flinders_ENGR2781
