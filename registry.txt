@@ -9825,3 +9825,4 @@ https://github.com/m5stack/M5Unit-FLASHLIGHT.git|Contributed|M5Unit-FLASHLIGHT
 https://github.com/jinliangliu/Arduino-EC11-Library.git|Contributed|EC11Encoder
 https://github.com/AlenKrishna2012/EEPROM24CXX.git|Contributed|EEPROM24CXX
 https://github.com/atharvaphadnis-ai/OledAnimator.git|Contributed|OledAnimator
+https://github.com/Kinshuk-2005/ADRF6655.git|Contributed|ADRF6655
