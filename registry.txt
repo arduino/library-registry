@@ -9826,3 +9826,4 @@ https://github.com/jinliangliu/Arduino-EC11-Library.git|Contributed|EC11Encoder
 https://github.com/AlenKrishna2012/EEPROM24CXX.git|Contributed|EEPROM24CXX
 https://github.com/atharvaphadnis-ai/OledAnimator.git|Contributed|OledAnimator
 https://github.com/Kinshuk-2005/ADRF6655.git|Contributed|ADRF6655
+https://github.com/Canavix/LogicPins.git|Contributed|LogicPins
