@@ -9838,3 +9838,4 @@ https://github.com/italo-coelho/UpdateOTW.git
 https://github.com/Carbonara-Individuals/Carbonara_DRV8874
 https://github.com/forgevolt/SoundEngine
 https://github.com/forgevolt/ESPNowUtilities
+https://github.com/gsgaurav0/ESP32-HID-Keyboard
