@@ -9830,3 +9830,4 @@ https://github.com/Canavix/LogicPins.git|Contributed|LogicPins
 https://github.com/italo-coelho/UpdateOTW.git|Contributed|UpdateOTW
 https://github.com/Carbonara-Individuals/Carbonara_DRV8874.git|Contributed|Carbonara_DRV8874
 https://github.com/forgevolt/SoundEngine.git|Contributed|SoundEngine
+https://github.com/forgevolt/ESPNowUtilities.git|Contributed|ESPNowUtilities
