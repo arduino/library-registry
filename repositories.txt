@@ -9840,3 +9840,4 @@ https://github.com/forgevolt/SoundEngine
 https://github.com/forgevolt/ESPNowUtilities
 https://github.com/gsgaurav0/ESP32-HID-Keyboard
 https://github.com/xXMarifFXx/N-R_ESP32.git
+https://github.com/sedislab/arduino-sentil
