@@ -9810,7 +9810,7 @@ https://github.com/tanakamasayuki/EspBle.git|Contributed|EspBle
 https://github.com/bozont/millisRTC.git|Contributed|millisRTC
 https://github.com/UNIT-Electronics-MX/unit_devlab_mpu6005_library.git|Contributed|DevLab_MPU6050
 https://github.com/UNIT-Electronics-MX/unit_devlab_tcan1051hvd_library.git|Contributed|DevLab_TCAN1051HVD
-https://github.com/GroeiAcademie/GroeiAcademie.git|Contributed|GroeiAcademie
+https://github.com/GroeiAcademie/GroeiAcademie.git|Contributed|GroeiAcademie FrameWork
 https://github.com/David-Vandensteen/dv-dual-hold-state.git|Contributed|dv_dual_hold_state
 https://github.com/moomdate/StripePromptPay.git|Contributed|StripePromptPay
 https://github.com/Kkmit13/synapse-arduino.git|Contributed|SynapseDebugger
