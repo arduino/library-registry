@@ -9833,3 +9833,4 @@ https://github.com/forgevolt/SoundEngine.git|Contributed|SoundEngine
 https://github.com/forgevolt/ESPNowUtilities.git|Contributed|ESPNowUtilities
 https://github.com/gsgaurav0/ESP32-HID-Keyboard.git|Contributed|ESP32 BLE Keyboard
 https://github.com/xXMarifFXx/N-R_ESP32.git|Contributed|N-R_ESP32
+https://github.com/HelTecAutomation/RadioCore_Library.git|Contributed|RadioCore_Kit
