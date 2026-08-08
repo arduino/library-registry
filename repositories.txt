@@ -9841,3 +9841,6 @@ https://github.com/forgevolt/ESPNowUtilities
 https://github.com/gsgaurav0/ESP32-HID-Keyboard
 https://github.com/xXMarifFXx/N-R_ESP32.git
 https://github.com/NitrofMtl/BACnet-Arduino
+https://github.com/sedislab/arduino-sentil
+https://github.com/HelTecAutomation/RadioCore_Library
+https://github.com/FT-tele/IT7259_Touch_driver
