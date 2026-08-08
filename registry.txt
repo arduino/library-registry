@@ -9836,3 +9836,4 @@ https://github.com/HelTecAutomation/RadioCore_Library.git|Contributed|RadioCore_
 https://github.com/FT-tele/IT7259_Touch_driver.git|Contributed|IT7259_Touch
 https://github.com/HOMPAIN/SoftTimerAdvance.git|Contributed|SoftTimerAdvance
 https://github.com/sedislab/arduino-sentil.git|Contributed|Sentil
+https://github.com/NitrofMtl/BACnet-Arduino.git|Contributed|BACnet-Arduino
