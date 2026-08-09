@@ -9846,3 +9846,4 @@ https://github.com/NitrofMtl/BACnet-Arduino
 https://github.com/sedislab/arduino-sentil
 https://github.com/HelTecAutomation/RadioCore_Library
 https://github.com/FT-tele/IT7259_Touch_driver
+https://github.com/neoge/stringToSevenSegmentDisplay
