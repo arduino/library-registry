@@ -9776,6 +9776,7 @@ https://github.com/fikrielektro21/MHZ19
 https://github.com/streef/YetAnotherRotaryEncoder
 https://github.com/matthias-bs/esp32-shelly-ble-rpc
 https://github.com/dunknowcoding/NobroRTOS-Arduino
+https://github.com/dunknowcoding/NobroRTOS
 https://github.com/dunknowcoding/NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302
 https://github.com/Alash-electronics/AlashKeypadMatrix
