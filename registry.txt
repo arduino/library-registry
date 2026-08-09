@@ -9838,3 +9838,4 @@ https://github.com/HOMPAIN/SoftTimerAdvance.git|Contributed|SoftTimerAdvance
 https://github.com/sedislab/arduino-sentil.git|Contributed|Sentil
 https://github.com/NitrofMtl/BACnet-Arduino.git|Contributed|BACnet-Arduino
 https://github.com/NishanthRaj707/bavaarduino.git|Contributed|BAVA Protocol
+https://github.com/dunknowcoding/NobroRTOS.git|Contributed|NobroRTOSCore
