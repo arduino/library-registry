@@ -9830,7 +9830,7 @@ https://github.com/italo-coelho/UpdateOTW.git|Contributed|UpdateOTW
 https://github.com/Carbonara-Individuals/Carbonara_DRV8874.git|Contributed|Carbonara_DRV8874
 https://github.com/forgevolt/SoundEngine.git|Contributed|SoundEngine
 https://github.com/forgevolt/ESPNowUtilities.git|Contributed|ESPNowUtilities
-https://github.com/gsgaurav0/ESP32-HID-Keyboard.git|Contributed|ESP32 BLE Keyboard
+https://github.com/gsgaurav0/ESP32-HID-Keyboard.git|Contributed|ESP32 HID Keyboard
 https://github.com/xXMarifFXx/N-R_ESP32.git|Contributed|N-R_ESP32
 https://github.com/HelTecAutomation/RadioCore_Library.git|Contributed|RadioCore_Kit
 https://github.com/FT-tele/IT7259_Touch_driver.git|Contributed|IT7259_Touch
