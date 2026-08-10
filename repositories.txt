@@ -9849,3 +9849,4 @@ https://github.com/HelTecAutomation/RadioCore_Library
 https://github.com/FT-tele/IT7259_Touch_driver
 https://github.com/neoge/stringToSevenSegmentDisplay
 https://github.com/rear16/ESP-DOOM
+https://github.com/dkaukov/esp32-afsk
