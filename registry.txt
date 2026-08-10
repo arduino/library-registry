@@ -9841,3 +9841,4 @@ https://github.com/NishanthRaj707/bavaarduino.git|Contributed|BAVA Protocol
 https://github.com/dunknowcoding/NobroRTOS.git|Contributed|NobroRTOSCore
 https://github.com/neoge/stringToSevenSegmentDisplay.git|Contributed|stringToSevenSegmentDisplay
 https://github.com/TCL47-GITHUB/RC522_UART.git|Contributed|RC522_UART
+https://github.com/rear16/ESP-DOOM.git|Contributed|ESP-DOOM
