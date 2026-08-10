@@ -1,3 +1,4 @@
+https://github.com/NishanthRaj707/bavaarduino
 https://github.com/Canavix/LogicPins
 https://github.com/atharvaphadnis-ai/OledAnimator
 https://github.com/David-Vandensteen/dv-dual-hold-state
@@ -9034,7 +9035,6 @@ https://github.com/valeriofantozzi/TraccarClient.git
 https://github.com/SofaPirate/PqLEDStrip
 https://github.com/SofaPirate/PqOsc
 https://github.com/dac1e/RcSwitchTransmitter
-https://github.com/nonpawite/bcc-esp-dev
 https://github.com/ennio64/StepperHAL_STM32F4x1-Library
 https://github.com/AymenTurki0/Aerobotix_Arduino_navigation
 https://github.com/Chanatip112/HanumanMini
@@ -9071,7 +9071,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_veml3328_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_max30102_library
 https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_joystickcontroller_library
-https://github.com/UNIT-Electronics-MX/unit_devlab_mpu6005_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_mpu6050_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_tcan1051hvd_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
@@ -9485,6 +9485,7 @@ https://github.com/Nocturnailed-Community/NocKinematics
 https://github.com/Nocturnailed-Community/NocLLM
 https://github.com/ulywae/ButtonPoll
 https://github.com/Japs35/NTC_Temp
+https://github.com/HOMPAIN/SoftTimerAdvance
 https://github.com/ulywae/NeuFrame
 https://github.com/v7rc/V7RCRobot-ESP32
 https://github.com/SlaydDev/SteadyPing
@@ -9775,6 +9776,7 @@ https://github.com/fikrielektro21/MHZ19
 https://github.com/streef/YetAnotherRotaryEncoder
 https://github.com/matthias-bs/esp32-shelly-ble-rpc
 https://github.com/dunknowcoding/NobroRTOS-Arduino
+https://github.com/dunknowcoding/NobroRTOS
 https://github.com/dunknowcoding/NiusAudio
 https://github.com/Alash-electronics/Alash_DS1302
 https://github.com/Alash-electronics/AlashKeypadMatrix
@@ -9841,3 +9843,8 @@ https://github.com/forgevolt/ESPNowUtilities
 https://github.com/gsgaurav0/ESP32-HID-Keyboard
 https://github.com/xXMarifFXx/N-R_ESP32.git
 https://github.com/TCL47-GITHUB/RC522_UART
+https://github.com/NitrofMtl/BACnet-Arduino
+https://github.com/sedislab/arduino-sentil
+https://github.com/HelTecAutomation/RadioCore_Library
+https://github.com/FT-tele/IT7259_Touch_driver
+https://github.com/neoge/stringToSevenSegmentDisplay
