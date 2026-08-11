@@ -9845,3 +9845,4 @@ https://github.com/rear16/ESP-DOOM.git|Contributed|ESP-DOOM
 https://github.com/dkaukov/esp32-afsk.git|Contributed|esp32-afsk
 https://github.com/nemo4598/AutonomniOTA.git|Contributed|AutonomniOTA
 https://github.com/Studio-Poetics/ST77916_QSPI.git|Contributed|ST77916_QSPI
+https://github.com/tanakamasayuki/ESP32KeyBridge.git|Contributed|ESP32KeyBridge
