@@ -9850,3 +9850,4 @@ https://github.com/RobTillaart/DS3502.git|Contributed|DS3502
 https://github.com/FltSimTech/ISRdelay.git|Contributed|ISRdelay
 https://github.com/lovnishverma/NIELIT-Arduino-UNO-Practicals.git|Contributed|NIELIT Arduino UNO Practicals
 https://github.com/lovnishverma/NIELIT-ESP32-Practicals.git|Contributed|NIELIT ESP32 Practicals
+https://github.com/Stutchbury/ScreenManager.git|Contributed|ScreenManager
