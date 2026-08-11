@@ -9857,3 +9857,4 @@ https://github.com/Studio-Poetics/ST77916_QSPI
 https://github.com/FltSimTech/ISRdelay
 https://github.com/lovnishverma/NIELIT-Arduino-UNO-Practicals
 https://github.com/lovnishverma/NIELIT-ESP32-Practicals
+https://github.com/Stutchbury/ScreenManager
