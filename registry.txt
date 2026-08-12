@@ -9855,3 +9855,4 @@ https://github.com/nikolaindustry/hyperwisor-iot-arduino-library.git|Contributed
 https://github.com/alloyrobotics/alloy-logger-arduino.git|Contributed|AlloyLogger
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib.git|Contributed|MakerEdu I2C Motor Driver
 https://github.com/RobTillaart/DS3501.git|Contributed|DS3501
+https://github.com/jackjansen/cmArduinoJWT.git|Contributed|cmArduinoJWT
