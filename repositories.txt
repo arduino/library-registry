@@ -9863,3 +9863,4 @@ https://github.com/lovnishverma/NIELIT-ESP32-Practicals
 https://github.com/Stutchbury/ScreenManager
 https://github.com/alloyrobotics/alloy-logger-arduino
 https://github.com/jackjansen/cmArduinoJWT
+https://github.com/meta-pytorch/executorch-arduino
