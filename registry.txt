@@ -9853,3 +9853,4 @@ https://github.com/lovnishverma/NIELIT-ESP32-Practicals.git|Contributed|NIELIT E
 https://github.com/Stutchbury/ScreenManager.git|Contributed|ScreenManager
 https://github.com/nikolaindustry/hyperwisor-iot-arduino-library.git|Contributed|Hyperwisor-IOT
 https://github.com/alloyrobotics/alloy-logger-arduino.git|Contributed|AlloyLogger
+https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib.git|Contributed|MakerEdu I2C Motor Driver
