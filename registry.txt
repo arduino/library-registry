@@ -9856,3 +9856,4 @@ https://github.com/alloyrobotics/alloy-logger-arduino.git|Contributed|AlloyLogge
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib.git|Contributed|MakerEdu I2C Motor Driver
 https://github.com/RobTillaart/DS3501.git|Contributed|DS3501
 https://github.com/jackjansen/cmArduinoJWT.git|Contributed|cmArduinoJWT
+https://github.com/meta-pytorch/executorch-arduino.git|Contributed|ExecuTorch
