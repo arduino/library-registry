@@ -9859,3 +9859,4 @@ https://github.com/FltSimTech/ISRdelay
 https://github.com/lovnishverma/NIELIT-Arduino-UNO-Practicals
 https://github.com/lovnishverma/NIELIT-ESP32-Practicals
 https://github.com/Stutchbury/ScreenManager
+https://github.com/alloyrobotics/alloy-logger-arduino
