@@ -9867,3 +9867,4 @@ https://github.com/alloyrobotics/alloy-logger-arduino
 https://github.com/aneesharnavch/microstore
 https://github.com/jackjansen/cmArduinoJWT
 https://github.com/meta-pytorch/executorch-arduino
+https://github.com/aneesharnavch/microinput
