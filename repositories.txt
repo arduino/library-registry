@@ -1,4 +1,6 @@
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
+https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
+https://github.com/zernovtechno/Vendista
 https://github.com/nikolaindustry/hyperwisor-iot-arduino-library
 https://github.com/NishanthRaj707/bavaarduino
 https://github.com/Canavix/LogicPins
@@ -9863,3 +9865,5 @@ https://github.com/lovnishverma/NIELIT-ESP32-Practicals
 https://github.com/Stutchbury/ScreenManager
 https://github.com/alloyrobotics/alloy-logger-arduino
 https://github.com/aneesharnavch/microstore
+https://github.com/jackjansen/cmArduinoJWT
+https://github.com/meta-pytorch/executorch-arduino
