@@ -9860,3 +9860,4 @@ https://github.com/meta-pytorch/executorch-arduino.git|Contributed|ExecuTorch
 https://github.com/zernovtechno/Vendista.git|Contributed|Vendista
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar.git|Contributed|OTAWIFIAsyncBar
 https://github.com/aneesharnavch/microstore.git|Contributed|microStore
+https://github.com/aneesharnavch/microinput.git|Contributed|microInput
