@@ -6316,6 +6316,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
+https://github.com/RobTillaart/INA226_USI
 https://github.com/RobTillaart/INA228
 https://github.com/RobTillaart/INA229
 https://github.com/RobTillaart/INA236
