@@ -9862,3 +9862,4 @@ https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar.git|Contributed|OTAWIFIAsyncBar
 https://github.com/aneesharnavch/microstore.git|Contributed|microStore
 https://github.com/aneesharnavch/microinput.git|Contributed|microInput
 https://github.com/RobTillaart/INA226_USI.git|Contributed|INA226_USI
+https://github.com/ahmed-Idrees/QuadratureEncoder.git|Contributed|Quadrature_Encoder
