@@ -9858,3 +9858,4 @@ https://github.com/RobTillaart/DS3501.git|Contributed|DS3501
 https://github.com/jackjansen/cmArduinoJWT.git|Contributed|cmArduinoJWT
 https://github.com/meta-pytorch/executorch-arduino.git|Contributed|ExecuTorch
 https://github.com/zernovtechno/Vendista.git|Contributed|Vendista
+https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar.git|Contributed|OTAWIFIAsyncBar
