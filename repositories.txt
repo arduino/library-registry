@@ -9872,3 +9872,4 @@ https://github.com/meta-pytorch/executorch-arduino
 https://github.com/aneesharnavch/microinput
 https://github.com/ahmed-Idrees/QuadratureEncoder
 https://github.com/atvirokodosprendimai/arduino-dali
+https://github.com/m5stack/M5Stamp-UWB
