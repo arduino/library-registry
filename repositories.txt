@@ -9871,3 +9871,4 @@ https://github.com/jackjansen/cmArduinoJWT
 https://github.com/meta-pytorch/executorch-arduino
 https://github.com/aneesharnavch/microinput
 https://github.com/ahmed-Idrees/QuadratureEncoder
+https://github.com/atvirokodosprendimai/arduino-dali
