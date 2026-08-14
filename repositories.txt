@@ -26,6 +26,7 @@ https://github.com/SolderedElectronics/Soldered-DHT11-DHT22-Temperature-RH-Senso
 https://github.com/SolderedElectronics/Soldered-VL53L1X-Laser-Distance-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Inputronic-BRIDGE-Library
 https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Arduino-Library
+https://github.com/technikEngr/ErovoutikaErobot
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
 https://github.com/X-croot/NewPID
