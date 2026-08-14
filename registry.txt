@@ -9865,3 +9865,4 @@ https://github.com/RobTillaart/INA226_USI.git|Contributed|INA226_USI
 https://github.com/ahmed-Idrees/QuadratureEncoder.git|Contributed|Quadrature_Encoder
 https://github.com/technikEngr/ErovoutikaErobot.git|Contributed|ErovoutikaErobot
 https://github.com/atvirokodosprendimai/arduino-dali.git|Contributed|Dali
+https://github.com/m5stack/M5Stamp-UWB.git|Contributed|M5Stamp_UWB
