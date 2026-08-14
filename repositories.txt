@@ -6380,6 +6380,7 @@ https://github.com/RobTillaart/millis64
 https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
+https://github.com/RobTillaart/MLX90316
 https://github.com/RobTillaart/moduloMap
 https://github.com/RobTillaart/MS4525DO_RT
 https://github.com/RobTillaart/MS5611
