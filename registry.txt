@@ -9871,3 +9871,4 @@ https://github.com/ScottMit/Pardalote-arduino.git|Contributed|Pardalote
 https://github.com/ayresnet/AyresTimer.git|Contributed|AyresTimer
 https://github.com/alirezashirzadath/soocket.git|Contributed|Soocket
 https://github.com/SUNSETDEVER/3DM_Xrenderer.git|Contributed|3DM_Xrenderer
+https://github.com/wedsamuel1230/LD2402.git|Contributed|LD2402
