@@ -9879,3 +9879,4 @@ https://github.com/ScottMit/Pardalote-arduino
 https://github.com/ayresnet/AyresTimer
 https://github.com/alirezashirzadath/soocket
 https://github.com/SUNSETDEVER/3DM_Xrenderer
+https://github.com/teddokano/Waveshare_TFT_Touch_Arduino
