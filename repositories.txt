@@ -9875,3 +9875,4 @@ https://github.com/ahmed-Idrees/QuadratureEncoder
 https://github.com/atvirokodosprendimai/arduino-dali
 https://github.com/m5stack/M5Stamp-UWB
 https://github.com/ScottMit/Pardalote-arduino
+https://github.com/ayresnet/AyresTimer
