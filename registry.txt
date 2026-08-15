@@ -9870,3 +9870,4 @@ https://github.com/RobTillaart/MLX90316.git|Contributed|MLX90316
 https://github.com/ScottMit/Pardalote-arduino.git|Contributed|Pardalote
 https://github.com/ayresnet/AyresTimer.git|Contributed|AyresTimer
 https://github.com/alirezashirzadath/soocket.git|Contributed|Soocket
+https://github.com/SUNSETDEVER/3DM_Xrenderer.git|Contributed|3DM_Xrenderer
