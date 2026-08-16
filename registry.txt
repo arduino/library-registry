@@ -9873,3 +9873,4 @@ https://github.com/alirezashirzadath/soocket.git|Contributed|Soocket
 https://github.com/SUNSETDEVER/3DM_Xrenderer.git|Contributed|3DM_Xrenderer
 https://github.com/wedsamuel1230/LD2402.git|Contributed|LD2402
 https://github.com/teddokano/Waveshare_TFT_Touch_Arduino.git|Contributed|Waveshare_TFT_Touch
+https://github.com/umeiko/PicoCamera.git|Contributed|PicoCamera
