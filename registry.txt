@@ -9875,3 +9875,4 @@ https://github.com/wedsamuel1230/LD2402.git|Contributed|LD2402
 https://github.com/teddokano/Waveshare_TFT_Touch_Arduino.git|Contributed|Waveshare_TFT_Touch
 https://github.com/umeiko/PicoCamera.git|Contributed|PicoCamera
 https://github.com/vishal-95-um/esp32-iot-management.git|Contributed|ESP32IoTSDK
+https://github.com/ramo828/tiny_print_library.git|Contributed|TinyPrinter
