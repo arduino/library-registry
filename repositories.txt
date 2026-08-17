@@ -2113,6 +2113,7 @@ https://github.com/blues/notecard-env-var-manager
 https://github.com/blues/notecard-pseudo-sensor
 https://github.com/Blynk-Technologies/blynk-library
 https://github.com/Blynk-Technologies/Blynk-NCP-Driver
+https://github.com/Blynk-Technologies/Edgent-Arduino
 https://github.com/bmellink/IBusBM
 https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
