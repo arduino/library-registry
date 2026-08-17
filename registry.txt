@@ -9878,3 +9878,4 @@ https://github.com/vishal-95-um/esp32-iot-management.git|Contributed|ESP32IoTSDK
 https://github.com/ramo828/tiny_print_library.git|Contributed|TinyPrinter
 https://github.com/aSharcc/PMW3389-Library-Arduino.git|Contributed|PMW3389
 https://github.com/virgilvox/bellows-embedded.git|Contributed|Bellows
+https://github.com/m5stack/M5Unit-8Servos2-I2C.git|Contributed|M5Unit8Servos2
