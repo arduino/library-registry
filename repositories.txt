@@ -9888,3 +9888,4 @@ https://github.com/aSharcc/PMW3389-Library-Arduino
 https://github.com/virgilvox/bellows-embedded
 https://github.com/m5stack/M5Unit-8Servos2-I2C
 https://github.com/Vanderhell/loxdb
+https://github.com/Awulokune/ESP32_ST7789_Fast
