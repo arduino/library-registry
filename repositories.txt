@@ -1,3 +1,4 @@
+https://github.com/wedsamuel1230/LD2402
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
 https://github.com/zernovtechno/Vendista
@@ -26,6 +27,7 @@ https://github.com/SolderedElectronics/Soldered-DHT11-DHT22-Temperature-RH-Senso
 https://github.com/SolderedElectronics/Soldered-VL53L1X-Laser-Distance-Sensor-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Inputronic-BRIDGE-Library
 https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Arduino-Library
+https://github.com/technikEngr/ErovoutikaErobot
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
 https://github.com/X-croot/NewPID
@@ -2111,6 +2113,7 @@ https://github.com/blues/notecard-env-var-manager
 https://github.com/blues/notecard-pseudo-sensor
 https://github.com/Blynk-Technologies/blynk-library
 https://github.com/Blynk-Technologies/Blynk-NCP-Driver
+https://github.com/Blynk-Technologies/Edgent-Arduino
 https://github.com/bmellink/IBusBM
 https://github.com/bmellink/VNH3SP30
 https://github.com/bmts/FMDataClient
@@ -6316,6 +6319,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
 https://github.com/RobTillaart/INA226
+https://github.com/RobTillaart/INA226_USI
 https://github.com/RobTillaart/INA228
 https://github.com/RobTillaart/INA229
 https://github.com/RobTillaart/INA236
@@ -6378,6 +6382,7 @@ https://github.com/RobTillaart/millis64
 https://github.com/RobTillaart/MiniMP3
 https://github.com/RobTillaart/MINMAX
 https://github.com/RobTillaart/ML8511
+https://github.com/RobTillaart/MLX90316
 https://github.com/RobTillaart/moduloMap
 https://github.com/RobTillaart/MS4525DO_RT
 https://github.com/RobTillaart/MS5611
@@ -9864,5 +9869,21 @@ https://github.com/lovnishverma/NIELIT-Arduino-UNO-Practicals
 https://github.com/lovnishverma/NIELIT-ESP32-Practicals
 https://github.com/Stutchbury/ScreenManager
 https://github.com/alloyrobotics/alloy-logger-arduino
+https://github.com/aneesharnavch/microstore
 https://github.com/jackjansen/cmArduinoJWT
 https://github.com/meta-pytorch/executorch-arduino
+https://github.com/aneesharnavch/microinput
+https://github.com/ahmed-Idrees/QuadratureEncoder
+https://github.com/atvirokodosprendimai/arduino-dali
+https://github.com/m5stack/M5Stamp-UWB
+https://github.com/ScottMit/Pardalote-arduino
+https://github.com/ayresnet/AyresTimer
+https://github.com/alirezashirzadath/soocket
+https://github.com/SUNSETDEVER/3DM_Xrenderer
+https://github.com/teddokano/Waveshare_TFT_Touch_Arduino
+https://github.com/umeiko/PicoCamera
+https://github.com/vishal-95-um/esp32-iot-management
+https://github.com/ramo828/tiny_print_library
+https://github.com/aSharcc/PMW3389-Library-Arduino
+https://github.com/virgilvox/bellows-embedded
+https://github.com/m5stack/M5Unit-8Servos2-I2C
