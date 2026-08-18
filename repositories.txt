@@ -9889,3 +9889,4 @@ https://github.com/virgilvox/bellows-embedded
 https://github.com/m5stack/M5Unit-8Servos2-I2C
 https://github.com/Vanderhell/loxdb
 https://github.com/Awulokune/ESP32_ST7789_Fast
+https://github.com/FMazz97/CS123x
