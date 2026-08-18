@@ -9882,3 +9882,4 @@ https://github.com/m5stack/M5Unit-8Servos2-I2C.git|Contributed|M5Unit8Servos2
 https://github.com/Blynk-Technologies/Edgent-Arduino.git|Contributed|BlynkEdgent
 https://github.com/Vanderhell/loxdb.git|Contributed|loxdb
 https://github.com/Awulokune/ESP32_ST7789_Fast.git|Contributed|ESP32_ST7789_Fast
+https://github.com/FMazz97/CS123x.git|Contributed|CS123x
