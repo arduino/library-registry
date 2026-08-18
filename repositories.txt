@@ -1,3 +1,4 @@
+https://github.com/TidalImpact/LighthouseReckoning
 https://github.com/wedsamuel1230/LD2402
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
