@@ -5215,7 +5215,6 @@ https://github.com/nacademyth/RoboFi
 https://github.com/NachtRaveVL/BY8X01-16P-Arduino
 https://github.com/NachtRaveVL/Lepton-FLiR-Arduino
 https://github.com/NachtRaveVL/PCA9685-Arduino
-https://github.com/NachtRaveVL/SuperFX3
 https://github.com/NachtRaveVL/Simple-AstroTracker-Arduino
 https://github.com/NachtRaveVL/Simple-Homestead-Arduino
 https://github.com/NachtRaveVL/Simple-Hydroponics-Arduino
