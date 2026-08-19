@@ -9897,3 +9897,4 @@ https://github.com/iskakfatoni/IskakINO
 https://github.com/agusevtec/eva-boxy
 https://github.com/aztechell/azdeck-lib
 https://github.com/ToasterForSale/RideLinkBLE
+https://github.com/adafruit/Adafruit_TMF8801
