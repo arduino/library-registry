@@ -9888,3 +9888,4 @@ https://github.com/iskakfatoni/IskakINO.git|Contributed|IskakINO
 https://github.com/NachtRaveVL/Simple-AstroTracker-Arduino.git|Contributed|Simple-AstroTracker-Arduino
 https://github.com/NachtRaveVL/Simple-Homestead-Arduino.git|Contributed|Simple-Homestead-Arduino
 https://github.com/agusevtec/eva-boxy.git|Contributed|eva-boxy
+https://github.com/aztechell/azdeck-lib.git|Contributed|AzDeck
