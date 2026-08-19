@@ -9885,3 +9885,5 @@ https://github.com/Awulokune/ESP32_ST7789_Fast.git|Contributed|ESP32_ST7789_Fast
 https://github.com/FMazz97/CS123x.git|Contributed|CS123x
 https://github.com/TidalImpact/LighthouseReckoning.git|Contributed|LighthouseReckoning
 https://github.com/iskakfatoni/IskakINO.git|Contributed|IskakINO
+https://github.com/NachtRaveVL/Simple-AstroTracker-Arduino.git|Contributed|Simple-AstroTracker-Arduino
+https://github.com/NachtRaveVL/Simple-Homestead-Arduino.git|Contributed|Simple-Homestead-Arduino
