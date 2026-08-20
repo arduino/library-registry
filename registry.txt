@@ -9896,3 +9896,4 @@ https://github.com/7semi-solutions/7Semi-I2C-Relay-Arduino-Library.git|Contribut
 https://github.com/m5stack/M5Faces.git|Contributed|M5Faces
 https://github.com/davisonaudio/MAX98389.git|Contributed|MAX98389
 https://github.com/PedroFnseca/esp32-mcp.git|Contributed|ESP32-MCP
+https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32.git|Contributed|KeyValueDatabase
