@@ -9894,3 +9894,4 @@ https://github.com/adafruit/Adafruit_TMF8801.git|Recommended|Adafruit TMF8801
 https://github.com/codewitch-honey-crisis/htcw_multibutton.git|Contributed|htcw_multibutton
 https://github.com/7semi-solutions/7Semi-I2C-Relay-Arduino-Library.git|Contributed|7Semi I2C Relay
 https://github.com/m5stack/M5Faces.git|Contributed|M5Faces
+https://github.com/davisonaudio/MAX98389.git|Contributed|MAX98389
