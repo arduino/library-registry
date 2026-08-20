@@ -9892,3 +9892,4 @@ https://github.com/aztechell/azdeck-lib.git|Contributed|AzDeck
 https://github.com/ToasterForSale/RideLinkBLE.git|Contributed|RideLinkBLE
 https://github.com/adafruit/Adafruit_TMF8801.git|Recommended|Adafruit TMF8801
 https://github.com/codewitch-honey-crisis/htcw_multibutton.git|Contributed|htcw_multibutton
+https://github.com/7semi-solutions/7Semi-I2C-Relay-Arduino-Library.git|Contributed|7Semi I2C Relay
