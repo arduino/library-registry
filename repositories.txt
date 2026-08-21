@@ -9904,3 +9904,4 @@ https://github.com/codewitch-honey-crisis/htcw_multibutton
 https://github.com/m5stack/M5Faces
 https://github.com/davisonaudio/MAX98389
 https://github.com/PedroFnseca/esp32-mcp
+https://github.com/charleszyong/SeaPerchDepthSensor
