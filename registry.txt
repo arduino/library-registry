@@ -9898,3 +9898,4 @@ https://github.com/davisonaudio/MAX98389.git|Contributed|MAX98389
 https://github.com/PedroFnseca/esp32-mcp.git|Contributed|ESP32-MCP
 https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32.git|Contributed|KeyValueDatabase
 https://github.com/charleszyong/SeaPerchDepthSensor.git|Contributed|SeaPerchDepthSensor
+https://github.com/algomusic/MultiControl.git|Contributed|MultiControl
