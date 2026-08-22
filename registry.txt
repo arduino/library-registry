@@ -9900,3 +9900,4 @@ https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32.git|C
 https://github.com/charleszyong/SeaPerchDepthSensor.git|Contributed|SeaPerchDepthSensor
 https://github.com/algomusic/MultiControl.git|Contributed|MultiControl
 https://github.com/dunknowcoding/NiusBus.git|Contributed|NiusBus
+https://github.com/Terry-Gould/CANSignalStudioInterface.git|Contributed|CANSignalStudioInterface
