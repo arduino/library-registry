@@ -9904,3 +9904,4 @@ https://github.com/Terry-Gould/CANSignalStudioInterface.git|Contributed|CANSigna
 https://github.com/tanakamasayuki/PCMFlowBluetooth.git|Contributed|PCMFlowBluetooth
 https://github.com/jobitjoseph/PAC1xxx.git|Contributed|PAC1xxx
 https://github.com/ebm9991/GroveI2CStepper.git|Contributed|GroveI2CStepper
+https://github.com/sheesourav0/zonestar-iot-arduino.git|Contributed|ZoneStarIoT
