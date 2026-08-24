@@ -9903,3 +9903,4 @@ https://github.com/dunknowcoding/NiusBus.git|Contributed|NiusBus
 https://github.com/Terry-Gould/CANSignalStudioInterface.git|Contributed|CANSignalStudioInterface
 https://github.com/tanakamasayuki/PCMFlowBluetooth.git|Contributed|PCMFlowBluetooth
 https://github.com/jobitjoseph/PAC1xxx.git|Contributed|PAC1xxx
+https://github.com/ebm9991/GroveI2CStepper.git|Contributed|GroveI2CStepper
