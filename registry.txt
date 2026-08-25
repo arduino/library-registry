@@ -9910,3 +9910,4 @@ https://github.com/PTSolns/I2Connect_KXTJ3-1057.git|Contributed|PTSolns_I2Connec
 https://github.com/mumanchu/LTR390UVSensor.git|Contributed|LTR390UVSensor
 https://github.com/adafruit/Adafruit_TSL2585.git|Recommended|Adafruit TSL2585
 https://github.com/adafruit/Adafruit_GP8403.git|Recommended|Adafruit GP8403
+https://github.com/todbot/TS20_Arduino.git|Contributed|TS20
