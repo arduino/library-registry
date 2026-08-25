@@ -9916,3 +9916,4 @@ https://github.com/sheesourav0/zonestar-iot-arduino
 https://github.com/PTSolns/I2Connect_ICP-20100
 https://github.com/PTSolns/I2Connect_KXTJ3-1057
 https://github.com/adafruit/Adafruit_TSL2585
+https://github.com/adafruit/Adafruit_GP8403
