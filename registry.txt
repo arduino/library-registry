@@ -9908,3 +9908,4 @@ https://github.com/sheesourav0/zonestar-iot-arduino.git|Contributed|ZoneStarIoT
 https://github.com/PTSolns/I2Connect_ICP-20100.git|Contributed|PTSolns_I2Connect_ICP_20100
 https://github.com/PTSolns/I2Connect_KXTJ3-1057.git|Contributed|PTSolns_I2Connect_KXTJ3_1057
 https://github.com/mumanchu/LTR390UVSensor.git|Contributed|LTR390UVSensor
+https://github.com/adafruit/Adafruit_TSL2585.git|Recommended|Adafruit TSL2585
