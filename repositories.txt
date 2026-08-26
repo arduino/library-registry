@@ -7249,6 +7249,7 @@ https://github.com/sparkfun/SparkFun_smol_Power_Board_Arduino_Library
 https://github.com/sparkfun/SparkFun_Soil_Moisture_Arduino_Library
 https://github.com/sparkfun/SparkFun_SPI_SerialFlash_Arduino_Library
 https://github.com/sparkfun/SparkFun_SSD1320_OLED_Arduino_Library
+https://github.com/sparkfun/SparkFun_SSD168x_I2C_Interface_Library
 https://github.com/sparkfun/SparkFun_ST25DV64KC_Arduino_Library
 https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library
 https://github.com/sparkfun/SparkFun_STHS34PF80_Arduino_Library
