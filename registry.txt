@@ -9917,3 +9917,5 @@ https://github.com/Protocentral/protocentral_tinygsr_arduino.git|Contributed|Pro
 https://github.com/cyfney/cyfney-cpp-arduino.git|Contributed|cyfney-cpp
 https://github.com/sparkfun/SparkFun_SSD168x_I2C_Interface_Library.git|Contributed|SparkFun SSD168x I2C Interface Library
 https://github.com/pipe1391/TecnovaIoT.git|Contributed|TecnovaIoT
+https://github.com/soosp/AsyncConfigPortal.git|Contributed|AsyncConfigPortal
+https://github.com/soosp/AsyncWiFiPortal.git|Contributed|AsyncWiFiPortal
