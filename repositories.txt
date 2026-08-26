@@ -9919,3 +9919,4 @@ https://github.com/PTSolns/I2Connect_KXTJ3-1057
 https://github.com/adafruit/Adafruit_TSL2585
 https://github.com/adafruit/Adafruit_GP8403
 https://github.com/todbot/TS20_Arduino
+https://github.com/5ne/MLBScoreboard-Arduino-Library
