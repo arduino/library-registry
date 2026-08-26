@@ -9914,3 +9914,4 @@ https://github.com/todbot/TS20_Arduino.git|Contributed|TS20
 https://github.com/joaoaugustocz/RoboS3.git|Contributed|RoboS3
 https://github.com/5ne/MLBScoreboard-Arduino-Library.git|Contributed|MLBScoreboard
 https://github.com/Protocentral/protocentral_tinygsr_arduino.git|Contributed|ProtoCentral tinyGSR
+https://github.com/cyfney/cyfney-cpp-arduino.git|Contributed|cyfney-cpp
