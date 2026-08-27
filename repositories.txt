@@ -9096,6 +9096,7 @@ https://github.com/UNIT-Electronics-MX/unit_cmsis_dap_ch55x_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_joystickcontroller_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_mpu6050_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_tcan1051hvd_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
