@@ -9928,3 +9928,4 @@ https://github.com/cyfney/cyfney-cpp-arduino
 https://github.com/pipe1391/TecnovaIoT
 https://github.com/soosp/AsyncConfigPortal
 https://github.com/soosp/AsyncWiFiPortal
+https://github.com/GrishovAleksei/WiFiOTA
