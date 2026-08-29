@@ -9922,3 +9922,4 @@ https://github.com/soosp/AsyncWiFiPortal.git|Contributed|AsyncWiFiPortal
 https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library.git|Contributed|DevLabDDP
 https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library.git|Contributed|DevLab_TEMT6000
 https://github.com/GrishovAleksei/WiFiOTA.git|Contributed|WiFiOTA
+https://github.com/pucheta/Roberto_MPU6050.git|Contributed|Roberto MPU6050
