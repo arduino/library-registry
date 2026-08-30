@@ -9935,3 +9935,4 @@ https://github.com/argeorun/MODBUS-RTU_Slave_Ardu_Lib
 https://github.com/soosp/HomeAssistantDiscovery
 https://github.com/GUNANAG38/MiniMicroKit_PTL
 https://github.com/nguyenbinh-shark/shark_pid
+https://github.com/NguyenHien-8/ESP32WiFiPortal
