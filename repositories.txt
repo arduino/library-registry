@@ -9939,3 +9939,4 @@ https://github.com/nguyenbinh-shark/shark_pid
 https://github.com/NguyenHien-8/ESP32WiFiPortal
 https://github.com/Pyintel/pyintel-lux-arduino
 https://github.com/StrayerSQH/IMU406
+[https://github.com/Mirco850/EasyIO](https://github.com/Mirco850/EasyIO)
