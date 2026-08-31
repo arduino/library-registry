@@ -9933,3 +9933,4 @@ https://github.com/TechTronicsEngineering/AutoPlex14.git|Contributed|AutoPlex14
 https://github.com/Pyintel/pyintel-lux-arduino.git|Contributed|Pyintel Lux
 https://github.com/StrayerSQH/IMU406.git|Contributed|IMU406
 https://github.com/msnicklous/DYSV17Fmp3.git|Contributed|DYSV17Fmp3
+https://github.com/algomusic/M16.git|Contributed|M16
