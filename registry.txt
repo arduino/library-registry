@@ -9931,3 +9931,4 @@ https://github.com/fun6400/BLEThermalPrinterYHK.git|Contributed|BLEThermalPrinte
 https://github.com/NguyenHien-8/ESP32WiFiPortal.git|Contributed|ESP32WiFiPortal
 https://github.com/TechTronicsEngineering/AutoPlex14.git|Contributed|AutoPlex14
 https://github.com/Pyintel/pyintel-lux.git|Contributed|Pyintel Lux
+https://github.com/StrayerSQH/IMU406.git|Contributed|IMU406
