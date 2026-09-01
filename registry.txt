@@ -9940,3 +9940,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_dvihstx_graphics_library.git|
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvipio_graphics_library.git|Contributed|DevLab DVIPIO Graphics
 https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library.git|Contributed|SparkFun INA2XX Arduino Library
 https://github.com/Penguin-Lab/PenguinLib.git|Contributed|PenguinLib
+https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library.git|Contributed|SparkFun ADE7953 Arduino Library
