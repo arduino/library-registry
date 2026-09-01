@@ -9938,3 +9938,4 @@ https://github.com/The-POOM/poom-arduino.git|Contributed|Poom
 https://github.com/Sierrastdio/SWP2P.git|Contributed|SWP2P
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvihstx_graphics_library.git|Contributed|UDVI_HSTX
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvipio_graphics_library.git|Contributed|DevLab DVIPIO Graphics
+https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library.git|Contributed|SparkFun INA2XX Arduino Library
