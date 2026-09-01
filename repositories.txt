@@ -7300,6 +7300,7 @@ https://github.com/sparkfun/SparkFunDMX
 https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library
 https://github.com/sparkfun/SparkFun_PicoDVI_Arduino_Library
 https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library
+https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
