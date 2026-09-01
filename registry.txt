@@ -9935,3 +9935,4 @@ https://github.com/StrayerSQH/IMU406.git|Contributed|IMU406
 https://github.com/msnicklous/DYSV17Fmp3.git|Contributed|DYSV17Fmp3
 https://github.com/algomusic/M16.git|Contributed|M16
 https://github.com/The-POOM/poom-arduino.git|Contributed|Poom
+https://github.com/Sierrastdio/SWP2P.git|Contributed|SWP2P
