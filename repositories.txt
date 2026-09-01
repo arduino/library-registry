@@ -9942,3 +9942,4 @@ https://github.com/Pyintel/pyintel-lux-arduino
 https://github.com/StrayerSQH/IMU406
 https://github.com/msnicklous/DYSV17Fmp3
 https://github.com/The-POOM/poom-arduino
+https://github.com/timflytosky/HC_SR04
