@@ -1,3 +1,5 @@
+https://github.com/algomusic/M16
+https://github.com/TechTronicsEngineering/AutoPlex14
 https://github.com/mumanchu/LTR390UVSensor
 https://github.com/ebm9991/GroveI2CStepper/
 https://github.com/jobitjoseph/PAC1xxx
@@ -52,6 +54,7 @@ https://github.com/LautaroRodriguezBase/PButton
 https://github.com/LautaroRodriguezBase/RFDO
 https://github.com/fun6400/Adafruit_SSD1306_72x40
 https://github.com/fun6400/PipeGIF
+https://github.com/fun6400/BLEThermalPrinterYHK
 https://github.com/Moaaz-i/MicroTaskX
 https://github.com/CarloCBragagnolo/LSM6DS3
 https://github.com/tkhoi0821-svg/GrayKazu
@@ -9928,3 +9931,15 @@ https://github.com/cyfney/cyfney-cpp-arduino
 https://github.com/pipe1391/TecnovaIoT
 https://github.com/soosp/AsyncConfigPortal
 https://github.com/soosp/AsyncWiFiPortal
+https://github.com/GrishovAleksei/WiFiOTA
+https://github.com/pucheta/Roberto_MPU6050
+https://github.com/argeorun/MODBUS-RTU_Slave_Ardu_Lib
+https://github.com/soosp/HomeAssistantDiscovery
+https://github.com/GUNANAG38/MiniMicroKit_PTL
+https://github.com/nguyenbinh-shark/shark_pid
+https://github.com/NguyenHien-8/ESP32WiFiPortal
+https://github.com/Pyintel/pyintel-lux-arduino
+https://github.com/StrayerSQH/IMU406
+https://github.com/msnicklous/DYSV17Fmp3
+https://github.com/The-POOM/poom-arduino
+https://github.com/Sierrastdio/SWP2P
