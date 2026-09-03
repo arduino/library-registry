@@ -9943,3 +9943,4 @@ https://github.com/Penguin-Lab/PenguinLib.git|Contributed|PenguinLib
 https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library.git|Contributed|SparkFun ADE7953 Arduino Library
 https://github.com/YostLabs/3Space-Arduino.git|Contributed|YostLabs 3-Space Sensors
 https://github.com/sukanta0011/DAC8568.git|Contributed|DAC8568
+https://github.com/pbosetti/ArduinoDriver.git|Contributed|UsbIo
