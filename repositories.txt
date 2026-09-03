@@ -9951,3 +9951,4 @@ https://github.com/msnicklous/DYSV17Fmp3
 https://github.com/The-POOM/poom-arduino
 https://github.com/Sierrastdio/SWP2P
 https://github.com/sukanta0011/DAC8568
+https://github.com/nahomyirga787-spec/Biovo1020A.git
