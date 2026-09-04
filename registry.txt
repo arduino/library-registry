@@ -9945,3 +9945,4 @@ https://github.com/YostLabs/3Space-Arduino.git|Contributed|YostLabs 3-Space Sens
 https://github.com/sukanta0011/DAC8568.git|Contributed|DAC8568
 https://github.com/pbosetti/ArduinoDriver.git|Contributed|UsbIo
 https://github.com/nahomyirga787-spec/Biovo1020A.git|Contributed|Biovo1020A
+https://github.com/Microeden/MicroedenConnect.git|Contributed|MicroedenConnect
