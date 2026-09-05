@@ -1,4 +1,5 @@
 https://github.com/mumanchu/AS7331UVSensor
+https://github.com/MADS-NET/arduino_mads
 https://github.com/pbosetti/ArduinoDriver
 https://github.com/YostLabs/3Space-Arduino
 https://github.com/Penguin-Lab/PenguinLib/
