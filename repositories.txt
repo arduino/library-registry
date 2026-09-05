@@ -8211,6 +8211,7 @@ https://gitlab.com/arduino-libraries/stackstring
 https://gitlab.com/arduino-libraries/stens-timer
 https://gitlab.com/arduino23/ExtendedTouchEvent
 https://gitlab.com/atesin/minimallinkedlist_arduino
+https://gitlab.com/atesin/ringbufferstream
 https://gitlab.com/atesin/XxHash_arduino
 https://gitlab.com/ben-bartholomew/adafruit_max9744_library
 https://gitlab.com/chatpeth/nx2003
