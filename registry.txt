@@ -9949,3 +9949,4 @@ https://github.com/Microeden/MicroedenConnect.git|Contributed|MicroedenConnect
 https://github.com/Microeden/MyDotLib.git|Contributed|MyDot
 https://github.com/syntax1269/SNMP_Embedded.git|Contributed|SNMP_Embedded
 https://gitlab.com/atesin/ringbufferstream.git|Contributed|RingBufferStream
+https://github.com/bcan77/CiftPulsar-OTA.git|Contributed|CiftPulsarOTA
