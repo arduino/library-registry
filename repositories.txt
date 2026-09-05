@@ -9956,3 +9956,5 @@ https://github.com/nahomyirga787-spec/Biovo1020A.git
 https://github.com/Microeden/MicroedenConnect
 https://github.com/Microeden/MyDotLib
 https://github.com/syntax1269/SNMP_Embedded
+https://github.com/syntax1269/SNMP_Embedded
+https://github.com/bcan77/CiftPulsar-OTA
