@@ -9952,3 +9952,4 @@ https://gitlab.com/atesin/ringbufferstream.git|Contributed|RingBufferStream
 https://github.com/bcan77/CiftPulsar-OTA.git|Contributed|CiftPulsarOTA
 https://github.com/ailagari/LagariMotors.git|Contributed|LagariMotors
 https://github.com/mumanchu/AS7331UVSensor.git|Contributed|AS7331UVSensor
+https://github.com/MADS-NET/arduino_mads.git|Contributed|MadsUnoAgent
