@@ -9956,3 +9956,4 @@ https://github.com/MADS-NET/arduino_mads.git|Contributed|MadsUnoAgent
 https://github.com/klenov1900-lang/TM1637_6Easy.git|Contributed|TM1637_6Easy
 https://github.com/flova-platform/flova-firmware.git|Contributed|FlovaSDK
 https://github.com/ShadowShahriar/Candle.git|Contributed|Candle
+https://github.com/pulsync/pulsync-arduino.git|Contributed|Pulsync
