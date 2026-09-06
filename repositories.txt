@@ -9967,3 +9967,4 @@ https://github.com/ShadowShahriar/Candle
 https://github.com/pulsync/pulsync-arduino
 https://github.com/MaSzyna-EU07/mhp_arduino_library
 https://github.com/ktauchathuranga/CC1101_AnalogFM
+https://github.com/FsBotzTg/SevenSegCountdown
