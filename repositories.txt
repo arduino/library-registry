@@ -9964,4 +9964,4 @@ https://github.com/ailagari/LagariMotors
 https://github.com/flova-platform/flova-firmware
 https://github.com/ShadowShahriar/Candle
 https://github.com/pulsync/pulsync-arduino
-https://github.com/ktauchathuranga/CC1101_AnalogFM
+https://github.com/ktauchathuranga/cc1101-analogfm
