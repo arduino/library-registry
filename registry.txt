@@ -9958,3 +9958,4 @@ https://github.com/flova-platform/flova-firmware.git|Contributed|FlovaSDK
 https://github.com/ShadowShahriar/Candle.git|Contributed|Candle
 https://github.com/pulsync/pulsync-arduino.git|Contributed|Pulsync
 https://github.com/ktauchathuranga/CC1101_AnalogFM.git|Contributed|CC1101_AnalogFM
+https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib.git|Contributed|MKE_I2C_Loadcell
