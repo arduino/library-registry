@@ -1,3 +1,14 @@
+https://github.com/franzbischoff/mpx-arduino-cpp17
+https://github.com/franzbischoff/mpx-arduino
+https://github.com/samar-01/SnappyXOShield
+https://github.com/DIYables/DIYables_DS18B20
+https://github.com/240974a/FmtTiny
+https://github.com/klenov1900-lang/TM1637_6Easy
+https://github.com/mumanchu/AS7331UVSensor
+https://github.com/MADS-NET/arduino_mads
+https://github.com/pbosetti/ArduinoDriver
+https://github.com/YostLabs/3Space-Arduino
+https://github.com/Penguin-Lab/PenguinLib/
 https://github.com/algomusic/M16
 https://github.com/TechTronicsEngineering/AutoPlex14
 https://github.com/mumanchu/LTR390UVSensor
@@ -7,6 +18,7 @@ https://github.com/algomusic/MultiControl
 https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32
 https://github.com/TidalImpact/LighthouseReckoning
 https://github.com/wedsamuel1230/LD2402
+https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
 https://github.com/zernovtechno/Vendista
@@ -4661,9 +4673,7 @@ https://github.com/Lynxmotion/LSS_Library_Arduino
 https://github.com/lyriarte/StripDisplay
 https://github.com/lysek01/ModbusPowerMeter/
 https://github.com/lysek01/PulseFlowMeter/
-
 https://github.com/lysek01/ENS22/
-
 https://github.com/lyvewave/arduino-serial-data-exporter
 https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
@@ -7298,6 +7308,8 @@ https://github.com/sparkfun/SparkFun_ZX_Distance_and_Gesture_Sensor_Arduino_Libr
 https://github.com/sparkfun/SparkFunDMX
 https://github.com/sparkfun/SparkFun_BMV080_Arduino_Library
 https://github.com/sparkfun/SparkFun_PicoDVI_Arduino_Library
+https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library
+https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
@@ -8206,6 +8218,7 @@ https://gitlab.com/arduino-libraries/stackstring
 https://gitlab.com/arduino-libraries/stens-timer
 https://gitlab.com/arduino23/ExtendedTouchEvent
 https://gitlab.com/atesin/minimallinkedlist_arduino
+https://gitlab.com/atesin/ringbufferstream
 https://gitlab.com/atesin/XxHash_arduino
 https://gitlab.com/ben-bartholomew/adafruit_max9744_library
 https://gitlab.com/chatpeth/nx2003
@@ -9945,3 +9958,17 @@ https://github.com/StrayerSQH/IMU406
 https://github.com/msnicklous/DYSV17Fmp3
 https://github.com/The-POOM/poom-arduino
 https://github.com/Sierrastdio/SWP2P
+https://github.com/sukanta0011/DAC8568
+https://github.com/nahomyirga787-spec/Biovo1020A.git
+https://github.com/Microeden/MicroedenConnect
+https://github.com/Microeden/MyDotLib
+https://github.com/syntax1269/SNMP_Embedded
+https://github.com/bcan77/CiftPulsar-OTA
+https://github.com/ailagari/LagariMotors
+https://github.com/flova-platform/flova-firmware
+https://github.com/ShadowShahriar/Candle
+https://github.com/pulsync/pulsync-arduino
+https://github.com/MaSzyna-EU07/mhp_arduino_library
+https://github.com/ktauchathuranga/CC1101_AnalogFM
+https://github.com/FsBotzTg/SevenSegCountdown
+https://github.com/ristllin/EmbeddedTemporal
