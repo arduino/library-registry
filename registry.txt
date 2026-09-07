@@ -9967,3 +9967,4 @@ https://github.com/samar-01/SnappyXOShield.git|Contributed|SnappyXOShield
 https://github.com/franzbischoff/mpx-arduino-cpp17.git|Contributed|MpxCpp17
 https://github.com/franzbischoff/mpx-arduino.git|Contributed|Mpx
 https://github.com/ristllin/EmbeddedTemporal.git|Contributed|EmbeddedTemporal
+https://github.com/UNIT-Electronics-MX/unit_devlab_interface_library.git|Contributed|DevLab_Interface
