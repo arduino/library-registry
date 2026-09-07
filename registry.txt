@@ -9963,3 +9963,4 @@ https://github.com/MaSzyna-EU07/mhp_arduino_library.git|Contributed|MaSzyna Hard
 https://github.com/FsBotzTg/SevenSegCountdown.git|Contributed|SevenSegCountdown
 https://github.com/240974a/FmtTiny.git|Contributed|FmtTiny
 https://github.com/DIYables/DIYables_DS18B20.git|Contributed|DIYables_DS18B20
+https://github.com/samar-01/SnappyXOShield.git|Contributed|SnappyXOShield
