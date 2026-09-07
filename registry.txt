@@ -9962,3 +9962,4 @@ https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib.git|Contributed|MKE_I2C_Loa
 https://github.com/MaSzyna-EU07/mhp_arduino_library.git|Contributed|MaSzyna Hardware Protocol v2
 https://github.com/FsBotzTg/SevenSegCountdown.git|Contributed|SevenSegCountdown
 https://github.com/240974a/FmtTiny.git|Contributed|FmtTiny
+https://github.com/DIYables/DIYables_DS18B20.git|Contributed|DIYables_DS18B20
