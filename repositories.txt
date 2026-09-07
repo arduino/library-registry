@@ -9116,6 +9116,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvihstx_graphics_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvipio_graphics_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_interface_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
