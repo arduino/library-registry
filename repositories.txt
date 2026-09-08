@@ -1,5 +1,6 @@
 https://github.com/240974a/FmtLog
 https://github.com/DampflokHD/ATTinySerial
+https://github.com/DampflokHD/ATTinyBME280
 https://github.com/franzbischoff/mpx-arduino-cpp17
 https://github.com/franzbischoff/mpx-arduino
 https://github.com/samar-01/SnappyXOShield
