@@ -5299,7 +5299,6 @@ https://github.com/ncmreynolds/wordwrap
 https://github.com/ndomx/MCP23017-Arduino-Library
 https://github.com/ndroid/HC06_AT_CommandCenter
 https://github.com/NeiroNx/RTCLib
-https://github.com/neittien0110/siotcore_sdk_v2
 https://github.com/neittien0110/Soict_IoT_Labs
 https://github.com/NeMaksym/Arduino-EasySevenSeg
 https://github.com/neman-io/Bleeper
