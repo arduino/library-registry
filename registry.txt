@@ -9973,3 +9973,4 @@ https://github.com/DampflokHD/ATTinySerial.git|Contributed|ATTinySerial
 https://github.com/aschet/tinyolfarve.git|Contributed|tinyolfarve
 https://github.com/panjingwei1945/PWM_Pulse.git|Contributed|PWM_Pulse
 https://github.com/240974a/FmtLog.git|Contributed|FmtLog
+https://github.com/DampflokHD/ATTinyBME280.git|Contributed|ATTinyBME280
