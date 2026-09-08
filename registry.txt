@@ -9972,3 +9972,4 @@ https://github.com/UNIT-Electronics-MX/unit_rp2_dvi_hstx_library.git|Contributed
 https://github.com/DampflokHD/ATTinySerial.git|Contributed|ATTinySerial
 https://github.com/aschet/tinyolfarve.git|Contributed|tinyolfarve
 https://github.com/panjingwei1945/PWM_Pulse.git|Contributed|PWM_Pulse
+https://github.com/240974a/FmtLog.git|Contributed|FmtLog
