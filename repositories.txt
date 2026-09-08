@@ -1,3 +1,4 @@
+https://github.com/DampflokHD/ATTinySerial
 https://github.com/franzbischoff/mpx-arduino-cpp17
 https://github.com/franzbischoff/mpx-arduino
 https://github.com/samar-01/SnappyXOShield
