@@ -1,4 +1,5 @@
 https://github.com/pulsecoreengineering/pulseHSM
+https://github.com/joy-it/JoyPi_Advanced_Nano-ESP32
 https://github.com/240974a/FmtLog
 https://github.com/DampflokHD/ATTinySerial
 https://github.com/DampflokHD/ATTinyBME280
@@ -1266,6 +1267,7 @@ https://github.com/adafruit/Adafruit_TLA202x
 https://github.com/adafruit/Adafruit_TLC5947
 https://github.com/adafruit/Adafruit_TLC59711
 https://github.com/adafruit/Adafruit_TLV320_I2S
+https://github.com/adafruit/Adafruit_TMF8806
 https://github.com/adafruit/Adafruit_TMP006
 https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
@@ -1982,6 +1984,7 @@ https://github.com/Beirdo/Arduino-PCA9536
 https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/BelaPlatform/Trill-Arduino
 https://github.com/belidzs/PreciseLM35
+https://github.com/Belinus-code/AxpertProtocol
 https://github.com/bengtmartensson/ABeacon
 https://github.com/bengtmartensson/AGirs
 https://github.com/bengtmartensson/Arduino-DecodeIR
@@ -9980,3 +9983,5 @@ https://github.com/FsBotzTg/SevenSegCountdown
 https://github.com/ristllin/EmbeddedTemporal
 https://github.com/aschet/tinyolfarve
 https://github.com/panjingwei1945/PWM_Pulse
+https://github.com/thecaptainexe/OLEDAnimator
+
