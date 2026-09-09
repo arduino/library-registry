@@ -1,3 +1,15 @@
+https://github.com/joy-it/JoyPi_Advanced_Nano-ESP32
+https://github.com/240974a/FmtLog
+https://github.com/DampflokHD/ATTinySerial
+https://github.com/DampflokHD/ATTinyBME280
+https://github.com/franzbischoff/mpx-arduino-cpp17
+https://github.com/franzbischoff/mpx-arduino
+https://github.com/samar-01/SnappyXOShield
+https://github.com/DIYables/DIYables_DS18B20
+https://github.com/240974a/FmtTiny
+https://github.com/klenov1900-lang/TM1637_6Easy
+https://github.com/mumanchu/AS7331UVSensor
+https://github.com/MADS-NET/arduino_mads
 https://github.com/pbosetti/ArduinoDriver
 https://github.com/YostLabs/3Space-Arduino
 https://github.com/Penguin-Lab/PenguinLib/
@@ -10,6 +22,7 @@ https://github.com/algomusic/MultiControl
 https://github.com/BojanJurca/Key-value-database-Arduino-Library-for-ESP32
 https://github.com/TidalImpact/LighthouseReckoning
 https://github.com/wedsamuel1230/LD2402
+https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
 https://github.com/zernovtechno/Vendista
@@ -4664,9 +4677,7 @@ https://github.com/Lynxmotion/LSS_Library_Arduino
 https://github.com/lyriarte/StripDisplay
 https://github.com/lysek01/ModbusPowerMeter/
 https://github.com/lysek01/PulseFlowMeter/
-
 https://github.com/lysek01/ENS22/
-
 https://github.com/lyvewave/arduino-serial-data-exporter
 https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
@@ -9109,6 +9120,8 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvihstx_graphics_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvipio_graphics_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_interface_library
+https://github.com/UNIT-Electronics-MX/unit_rp2_dvi_hstx_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -9956,3 +9969,14 @@ https://github.com/nahomyirga787-spec/Biovo1020A.git
 https://github.com/Microeden/MicroedenConnect
 https://github.com/Microeden/MyDotLib
 https://github.com/syntax1269/SNMP_Embedded
+https://github.com/bcan77/CiftPulsar-OTA
+https://github.com/ailagari/LagariMotors
+https://github.com/flova-platform/flova-firmware
+https://github.com/ShadowShahriar/Candle
+https://github.com/pulsync/pulsync-arduino
+https://github.com/MaSzyna-EU07/mhp_arduino_library
+https://github.com/ktauchathuranga/CC1101_AnalogFM
+https://github.com/FsBotzTg/SevenSegCountdown
+https://github.com/ristllin/EmbeddedTemporal
+https://github.com/aschet/tinyolfarve
+https://github.com/panjingwei1945/PWM_Pulse
