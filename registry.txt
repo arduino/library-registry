@@ -9976,3 +9976,4 @@ https://github.com/240974a/FmtLog.git|Contributed|FmtLog
 https://github.com/DampflokHD/ATTinyBME280.git|Contributed|ATTinyBME280
 https://github.com/joy-it/JoyPi_Advanced_Nano-ESP32.git|Contributed|JoyPi_Advanced_Nano-ESP32
 https://github.com/thecaptainexe/OLEDAnimator.git|Contributed|OLEDAnimator
+https://github.com/adafruit/Adafruit_TMF8806.git|Recommended|Adafruit TMF8806
