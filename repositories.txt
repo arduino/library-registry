@@ -1,3 +1,4 @@
+https://github.com/pulsecoreengineering/pulseHSM
 https://github.com/240974a/FmtLog
 https://github.com/DampflokHD/ATTinySerial
 https://github.com/DampflokHD/ATTinyBME280
