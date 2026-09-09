@@ -9980,3 +9980,5 @@ https://github.com/FsBotzTg/SevenSegCountdown
 https://github.com/ristllin/EmbeddedTemporal
 https://github.com/aschet/tinyolfarve
 https://github.com/panjingwei1945/PWM_Pulse
+https://github.com/thecaptainexe/OLEDAnimator
+
