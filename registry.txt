@@ -9978,3 +9978,4 @@ https://github.com/joy-it/JoyPi_Advanced_Nano-ESP32.git|Contributed|JoyPi_Advanc
 https://github.com/thecaptainexe/OLEDAnimator.git|Contributed|OLEDAnimator
 https://github.com/adafruit/Adafruit_TMF8806.git|Recommended|Adafruit TMF8806
 https://github.com/Belinus-code/AxpertProtocol.git|Contributed|AxpertProtocol
+https://github.com/pulsecoreengineering/pulseHSM.git|Contributed|PulseHSM
