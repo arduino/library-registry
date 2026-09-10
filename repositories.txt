@@ -3190,7 +3190,6 @@ https://github.com/FastLED/FastLED
 https://github.com/FatBeard/vbus-arduino-library
 https://github.com/fatihaslamaci/TimerFa
 https://github.com/fatkhrus/TeslaCloud
-https://github.com/fatlab101/FixedString
 https://github.com/fatpat/arduino-dra818
 https://github.com/fbiego/chronos-esp32
 https://github.com/fbiego/CST816S
