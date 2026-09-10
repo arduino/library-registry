@@ -9980,3 +9980,4 @@ https://github.com/adafruit/Adafruit_TMF8806.git|Recommended|Adafruit TMF8806
 https://github.com/Belinus-code/AxpertProtocol.git|Contributed|AxpertProtocol
 https://github.com/pulsecoreengineering/pulseHSM.git|Contributed|PulseHSM
 https://github.com/ReP64/CH462x.git|Contributed|CH462x
+https://github.com/Tunasha/TunashaHydrostaticPressureSensor.git|Contributed|TunashaHydrostaticPressureSensor
