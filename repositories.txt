@@ -7597,7 +7597,7 @@ https://github.com/tcafiero/SensorCommunicationLib
 https://github.com/tcoppex/mbed-ble-hid
 https://github.com/Tdoe4321/FlexLibrary
 https://github.com/tdslite/tdslite
-https://github.com/TEAMarg/ATMlib
+https://github.com/T-arg/ATMlib
 https://github.com/teamong/Mechatro
 https://github.com/teamprof/arduino-eventethernet
 https://github.com/teamprof/arduprof
