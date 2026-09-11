@@ -9981,3 +9981,4 @@ https://github.com/Belinus-code/AxpertProtocol.git|Contributed|AxpertProtocol
 https://github.com/pulsecoreengineering/pulseHSM.git|Contributed|PulseHSM
 https://github.com/ReP64/CH462x.git|Contributed|CH462x
 https://github.com/Tunasha/TunashaHydrostaticPressureSensor.git|Contributed|TunashaHydrostaticPressureSensor
+https://github.com/minervasoft-inc/Kelvarune.git|Contributed|Kelvarune
