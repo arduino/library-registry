@@ -9991,3 +9991,4 @@ https://github.com/minervasoft-inc/Kelvarune
 https://github.com/cmsolomon/lightweight-shell
 https://github.com/ZAN-Tech-bd/esp-wifi-provisioning
 https://github.com/agusevtec/eva-filters
+https://github.com/soosp/SyslogSender
