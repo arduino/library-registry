@@ -1,4 +1,4 @@
-https://github.com/samar-01/SnappyXOShield
+https://github.com/snappyxo/SnappyXOShield
 https://github.com/DIYables/DIYables_DS18B20
 https://github.com/240974a/FmtTiny
 https://github.com/klenov1900-lang/TM1637_6Easy
