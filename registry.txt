@@ -9987,3 +9987,5 @@ https://github.com/salernosimone/arduino-espdlx.git|Contributed|espdlx
 https://github.com/ZAN-Tech-bd/esp-wifi-provisioning.git|Contributed|ZanWifiSetup
 https://github.com/agusevtec/eva-filters.git|Contributed|eva-filters
 https://github.com/soosp/SyslogSender.git|Contributed|SyslogSender
+https://github.com/sparkfun/SparkFun_SFA40_Arduino_Library.git|Contributed|SparkFun SFA40 Arduino Library
+https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library.git|Contributed|SparkFun STCC4 Arduino Library
