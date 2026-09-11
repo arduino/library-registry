@@ -1,3 +1,11 @@
+https://github.com/Tunasha/TunashaHydrostaticPressureSensor
+https://github.com/pulsecoreengineering/pulseHSM
+https://github.com/joy-it/JoyPi_Advanced_Nano-ESP32
+https://github.com/240974a/FmtLog
+https://github.com/DampflokHD/ATTinySerial
+https://github.com/DampflokHD/ATTinyBME280
+https://github.com/franzbischoff/mpx-arduino-cpp17
+https://github.com/franzbischoff/mpx-arduino
 https://github.com/snappyxo/SnappyXOShield
 https://github.com/DIYables/DIYables_DS18B20
 https://github.com/240974a/FmtTiny
@@ -1260,6 +1268,7 @@ https://github.com/adafruit/Adafruit_TLA202x
 https://github.com/adafruit/Adafruit_TLC5947
 https://github.com/adafruit/Adafruit_TLC59711
 https://github.com/adafruit/Adafruit_TLV320_I2S
+https://github.com/adafruit/Adafruit_TMF8806
 https://github.com/adafruit/Adafruit_TMP006
 https://github.com/adafruit/Adafruit_TMP007_Library
 https://github.com/adafruit/Adafruit_TMP117
@@ -1976,6 +1985,7 @@ https://github.com/Beirdo/Arduino-PCA9536
 https://github.com/Beirdo/Arduino-TCA9534
 https://github.com/BelaPlatform/Trill-Arduino
 https://github.com/belidzs/PreciseLM35
+https://github.com/Belinus-code/AxpertProtocol
 https://github.com/bengtmartensson/ABeacon
 https://github.com/bengtmartensson/AGirs
 https://github.com/bengtmartensson/Arduino-DecodeIR
@@ -4671,9 +4681,7 @@ https://github.com/Lynxmotion/LSS_Library_Arduino
 https://github.com/lyriarte/StripDisplay
 https://github.com/lysek01/ModbusPowerMeter/
 https://github.com/lysek01/PulseFlowMeter/
-
 https://github.com/lysek01/ENS22/
-
 https://github.com/lyvewave/arduino-serial-data-exporter
 https://github.com/M-Reimer/EncoderStepCounter
 https://github.com/M-Reimer/IwitVolumeKnob
@@ -9116,6 +9124,8 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_ddp_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_temt6000_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvihstx_graphics_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dvipio_graphics_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_interface_library
+https://github.com/UNIT-Electronics-MX/unit_rp2_dvi_hstx_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -9971,3 +9981,8 @@ https://github.com/pulsync/pulsync-arduino
 https://github.com/MaSzyna-EU07/mhp_arduino_library
 https://github.com/ktauchathuranga/CC1101_AnalogFM
 https://github.com/FsBotzTg/SevenSegCountdown
+https://github.com/ristllin/EmbeddedTemporal
+https://github.com/aschet/tinyolfarve
+https://github.com/panjingwei1945/PWM_Pulse
+https://github.com/thecaptainexe/OLEDAnimator
+https://github.com/ReP64/CH462x
