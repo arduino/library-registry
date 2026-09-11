@@ -790,7 +790,7 @@ https://github.com/MiguelPynto/ShiftDisplay.git|Contributed|ShiftDisplay
 https://github.com/wizard97/Embedded_RingBuf_CPP.git|Contributed|RingBufCPP
 https://github.com/sui77/rc-switch.git|Contributed|rc-switch
 https://github.com/mrrwa/LocoNet.git|Contributed|LocoNet
-https://github.com/TEAMarg/ATMlib.git|Contributed|ATMlib
+https://github.com/T-arg/ATMlib.git|Contributed|ATMlib
 https://github.com/biagiom/LedBlinky.git|Contributed|LedBlinky
 https://github.com/aharshac/StringSplitter.git|Contributed|StringSplitter
 https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library.git|Contributed|SparkFun MAX3010x Pulse and Proximity Sensor Library
