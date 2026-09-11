@@ -9983,3 +9983,4 @@ https://github.com/ReP64/CH462x.git|Contributed|CH462x
 https://github.com/Tunasha/TunashaHydrostaticPressureSensor.git|Contributed|TunashaHydrostaticPressureSensor
 https://github.com/minervasoft-inc/Kelvarune.git|Contributed|Kelvarune
 https://github.com/cmsolomon/lightweight-shell.git|Contributed|lightweight-shell
+https://github.com/salernosimone/arduino-espdlx.git|Contributed|espdlx
