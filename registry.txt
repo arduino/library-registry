@@ -9986,3 +9986,4 @@ https://github.com/cmsolomon/lightweight-shell.git|Contributed|lightweight-shell
 https://github.com/salernosimone/arduino-espdlx.git|Contributed|espdlx
 https://github.com/ZAN-Tech-bd/esp-wifi-provisioning.git|Contributed|ZanWifiSetup
 https://github.com/agusevtec/eva-filters.git|Contributed|eva-filters
+https://github.com/soosp/SyslogSender.git|Contributed|SyslogSender
