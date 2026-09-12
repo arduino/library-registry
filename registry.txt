@@ -9990,3 +9990,4 @@ https://github.com/soosp/SyslogSender.git|Contributed|SyslogSender
 https://github.com/sparkfun/SparkFun_SFA40_Arduino_Library.git|Contributed|SparkFun SFA40 Arduino Library
 https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library.git|Contributed|SparkFun STCC4 Arduino Library
 https://github.com/pulsecoreengineering/PulseCoAP.git|Contributed|PulseCoAP
+https://github.com/matthias-bs/esp32-rfid-switch.git|Contributed|esp32-rfid-switch
