@@ -9996,3 +9996,4 @@ https://github.com/RobTillaart/DS1682.git|Contributed|DS1682
 https://github.com/RobTillaart/DS1683.git|Contributed|DS1683
 https://github.com/Zefek/BelWattmeter.git|Contributed|BelWattmeter
 https://github.com/raulbraghin/Standard_PLC.git|Contributed|Standard_PLC
+https://github.com/EduWit-Dev/EduWit.git|Contributed|EduWit
