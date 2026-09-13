@@ -10002,3 +10002,4 @@ https://github.com/matthias-bs/esp32-rfid-switch
 https://github.com/Zefek/BelWattmeter
 https://github.com/raulbraghin/Standard_PLC
 https://github.com/EduWit-Dev/EduWit
+https://github.com/xewe-labs/xewe-library-utils
