@@ -9998,3 +9998,4 @@ https://github.com/ZAN-Tech-bd/esp-wifi-provisioning
 https://github.com/agusevtec/eva-filters
 https://github.com/soosp/SyslogSender
 https://github.com/matthias-bs/esp32-rfid-switch
+https://github.com/Zefek/BelWattmeter
