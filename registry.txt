@@ -9993,3 +9993,4 @@ https://github.com/pulsecoreengineering/PulseCoAP.git|Contributed|PulseCoAP
 https://github.com/matthias-bs/esp32-rfid-switch.git|Contributed|esp32-rfid-switch
 https://github.com/klenov1900-lang/PCFKeypad.git|Contributed|PCFKeypad
 https://github.com/RobTillaart/DS1682.git|Contributed|DS1682
+https://github.com/RobTillaart/DS1683.git|Contributed|DS1683
