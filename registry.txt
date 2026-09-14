@@ -9999,3 +9999,4 @@ https://github.com/EduWit-Dev/EduWit.git|Contributed|EduWit
 https://github.com/xewe-labs/xewe-library-utils.git|Contributed|XeWeUtils
 https://github.com/AJArnovitz/ArnoTek_HeartBeat.git|Contributed|ArnoTek_HeartBeat
 https://github.com/xewe-labs/xewe-library-serial.git|Contributed|XeWeSerial
+https://github.com/xewe-labs/xewe-library-nvs.git|Contributed|XeWeNvs
