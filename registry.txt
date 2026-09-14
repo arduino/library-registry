@@ -9998,3 +9998,4 @@ https://github.com/Zefek/BelWattmeter.git|Contributed|BelWattmeter
 https://github.com/raulbraghin/Standard_PLC.git|Contributed|Standard_PLC
 https://github.com/EduWit-Dev/EduWit.git|Contributed|EduWit
 https://github.com/xewe-labs/xewe-library-utils.git|Contributed|XeWeUtils
+https://github.com/AJArnovitz/ArnoTek_HeartBeat.git|Contributed|ArnoTek_HeartBeat
