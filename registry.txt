@@ -9957,7 +9957,7 @@ https://github.com/klenov1900-lang/TM1637_6Easy.git|Contributed|TM1637_6Easy
 https://github.com/flova-platform/flova-firmware.git|Contributed|FlovaSDK
 https://github.com/ShadowShahriar/Candle.git|Contributed|Candle
 https://github.com/pulsync/pulsync-arduino.git|Contributed|Pulsync
-https://github.com/ktauchathuranga/CC1101_AnalogFM.git|Contributed|CC1101_AnalogFM
+https://github.com/ktauchathuranga/cc1101-analogfm.git|Contributed|CC1101_AnalogFM
 https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib.git|Contributed|MKE_I2C_Loadcell
 https://github.com/MaSzyna-EU07/mhp_arduino_library.git|Contributed|MaSzyna Hardware Protocol v2
 https://github.com/FsBotzTg/SevenSegCountdown.git|Contributed|SevenSegCountdown
