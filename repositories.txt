@@ -10003,3 +10003,4 @@ https://github.com/Zefek/BelWattmeter
 https://github.com/raulbraghin/Standard_PLC
 https://github.com/EduWit-Dev/EduWit
 https://github.com/xewe-labs/xewe-library-utils
+https://github.com/xewe-labs/xewe-library-serial
