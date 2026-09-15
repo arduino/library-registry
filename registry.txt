@@ -10002,3 +10002,4 @@ https://github.com/xewe-labs/xewe-library-serial.git|Contributed|XeWeSerial
 https://github.com/xewe-labs/xewe-library-nvs.git|Contributed|XeWeNvs
 https://github.com/marcocarnut/DigiCDCFast.git|Contributed|DigiCDCFast
 https://github.com/0015/a3d.git|Contributed|a3d
+https://github.com/Deric-03/Esp_Lite_Core.git|Contributed|Esp_Lite_Core
