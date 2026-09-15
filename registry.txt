@@ -10007,3 +10007,4 @@ https://github.com/nahomyirga787-spec/R558S.git|Contributed|R558S
 https://github.com/Deric-03/Control_Led_Bus.git|Contributed|Control_Led_Bus
 https://github.com/multiaxis/TempestTCode.git|Contributed|TempestTCode
 https://github.com/adafruit/Adafruit_TCS3448.git|Recommended|Adafruit TCS3448
+https://github.com/xewe-labs/xewe-library-cli.git|Contributed|XeWeCli
