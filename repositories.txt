@@ -10006,3 +10006,4 @@ https://github.com/EduWit-Dev/EduWit
 https://github.com/xewe-labs/xewe-library-utils
 https://github.com/xewe-labs/xewe-library-serial
 https://github.com/xewe-labs/xewe-library-nvs
+https://github.com/0015/a3d
