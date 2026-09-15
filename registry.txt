@@ -10005,3 +10005,4 @@ https://github.com/0015/a3d.git|Contributed|a3d
 https://github.com/Deric-03/Esp_Lite_Core.git|Contributed|Esp_Lite_Core
 https://github.com/nahomyirga787-spec/R558S.git|Contributed|R558S
 https://github.com/Deric-03/Control_Led_Bus.git|Contributed|Control_Led_Bus
+https://github.com/multiaxis/TempestTCode.git|Contributed|TempestTCode
