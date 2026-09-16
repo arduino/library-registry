@@ -10009,3 +10009,4 @@ https://github.com/multiaxis/TempestTCode.git|Contributed|TempestTCode
 https://github.com/adafruit/Adafruit_TCS3448.git|Recommended|Adafruit TCS3448
 https://github.com/xewe-labs/xewe-library-cli.git|Contributed|XeWeCli
 https://github.com/uniot-outech/DexmodIoT.git|Contributed|DexmodIoT
+https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library.git|Contributed|Soldered BME690 Arduino Library
