@@ -10015,3 +10015,4 @@ https://github.com/Deric-03/Control_Led_Bus
 https://github.com/multiaxis/TempestTCode
 https://github.com/xewe-labs/xewe-library-cli
 https://github.com/uniot-outech/DexmodIoT
+https://github.com/TimothyFran/OtamaticClient
