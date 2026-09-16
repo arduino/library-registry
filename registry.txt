@@ -10016,3 +10016,4 @@ https://github.com/Tunasha/FlowSensorLib.git|Contributed|FlowSensorLib
 https://github.com/Steel-Mastr/JLib_for_Arduino.git|Contributed|jlib
 https://github.com/Merger-Zero/ESP32-SC-Inference.git|Contributed|ESP32-SC-Inference
 https://github.com/xewe-labs/xewe-library-os.git|Contributed|XeWeOS
+https://github.com/yu911517778-a11y/ErdiLRF.git|Contributed|ErdiLRF
