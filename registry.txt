@@ -10018,3 +10018,4 @@ https://github.com/Merger-Zero/ESP32-SC-Inference.git|Contributed|ESP32-SC-Infer
 https://github.com/xewe-labs/xewe-library-os.git|Contributed|XeWeOS
 https://github.com/yu911517778-a11y/ErdiLRF.git|Contributed|ErdiLRF
 https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library.git|Contributed|Soldered BMA400 Accelerometer
+https://github.com/RowlandTechnology/MULTIUARTv2.git|Contributed|MultiUART
