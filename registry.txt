@@ -10019,3 +10019,4 @@ https://github.com/xewe-labs/xewe-library-os.git|Contributed|XeWeOS
 https://github.com/yu911517778-a11y/ErdiLRF.git|Contributed|ErdiLRF
 https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library.git|Contributed|Soldered BMA400 Accelerometer
 https://github.com/RowlandTechnology/MULTIUARTv2.git|Contributed|MultiUART
+https://github.com/SolderedElectronics/Soldered-BMP585-Arduino-Library.git|Contributed|Soldered BMP585 Barometric Pressure Sensor
