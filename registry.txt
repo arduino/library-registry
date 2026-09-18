@@ -10023,3 +10023,4 @@ https://github.com/SolderedElectronics/Soldered-BMP585-Arduino-Library.git|Contr
 https://github.com/skr-electronics-lab/groq-stt.git|Contributed|groq_stt
 https://github.com/Sollemdev/qsetun.git|Contributed|QSetun
 https://github.com/RobTillaart/runTime.git|Contributed|runTime
+https://github.com/deurus/PIDControl.git|Contributed|PIDControl
