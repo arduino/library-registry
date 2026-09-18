@@ -10028,3 +10028,4 @@ https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library
 https://github.com/RowlandTechnology/MULTIUARTv2
 https://github.com/skr-electronics-lab/groq-stt.git
 https://github.com/Sollemdev/qsetun
+https://github.com/deurus/PIDControl
