@@ -10026,3 +10026,4 @@ https://github.com/RobTillaart/runTime.git|Contributed|runTime
 https://github.com/deurus/PIDControl.git|Contributed|PIDControl
 https://github.com/horse-pants/Preflight-Arduino.git|Contributed|Preflight
 https://github.com/lewisxhe/ST25R3916-NFC-RFAL.git|Contributed|ST25R3916-NFC-RFAL
+https://github.com/GyverLibs/GyverLCD.git|Contributed|GyverLCD
