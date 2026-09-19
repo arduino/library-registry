@@ -59,6 +59,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/issues/7350#issuecomment-3611960375
 - host: github.com
+  name: Tunasha
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/9091#issuecomment-5706708788
+- host: github.com
   name: vpbharath
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4873#issuecomment-2589138298
