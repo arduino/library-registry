@@ -10030,3 +10030,4 @@ https://github.com/skr-electronics-lab/groq-stt.git
 https://github.com/Sollemdev/qsetun
 https://github.com/deurus/PIDControl
 https://github.com/horse-pants/Preflight-Arduino
+https://github.com/lewisxhe/ST25R3916-NFC-RFAL
