@@ -1,0 +1,12 @@
+{
+  "name": "TM1637_6Easy",
+  "maintainer": "klenov1900-lang <gray_wolf19@mail.ru>",
+  "sentence": "Easy library for 4- and 6-digit TM1637 LED displays on ATmega328P.",
+  "paragraph": "Optimized for cheap clones with ceramic resonator. Direct register access, nop-based protocol delay, supports 4- and 6-digit modules, two digit orders for Chinese modules.",
+  "website": "https://github.com/klenov1900-lang/TM1637_6Easy",
+  "category": "Display",
+  "architectures": ["avr"],
+  "repository": "https://github.com/klenov1900-lang/TM1637_6Easy.git",
+  "version": "2.0.0",
+  "license": "MIT"
+}
