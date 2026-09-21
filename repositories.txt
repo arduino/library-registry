@@ -1,3 +1,4 @@
+https://github.com/DrMattGBarr/TPS92520-Arduino
 https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib
 https://github.com/Khuuxuanngoc/MKE_S17_AGS10_lib
 https://github.com/Tunasha/FlowSensorLib
