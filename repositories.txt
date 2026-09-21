@@ -1,4 +1,5 @@
 https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib
+https://github.com/Khuuxuanngoc/MKE_S17_AGS10_lib
 https://github.com/Tunasha/FlowSensorLib
 https://github.com/Tunasha/PressureSensorLib
 https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library
