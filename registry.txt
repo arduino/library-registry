@@ -10030,3 +10030,4 @@ https://github.com/GyverLibs/GyverLCD.git|Contributed|GyverLCD
 https://github.com/sinricpro/arduino-esp32-webrtc-lib.git|Contributed|SinricProWebRTC
 https://github.com/mogrinz/AMT630A.git|Contributed|AMT630A_OSD
 https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib.git|Contributed|MKE_I2C_RFID
+https://github.com/CarloCBragagnolo/lis3mdl.git|Contributed|lis3mdl
