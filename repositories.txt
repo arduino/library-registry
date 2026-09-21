@@ -10034,5 +10034,5 @@ https://github.com/deurus/PIDControl
 https://github.com/horse-pants/Preflight-Arduino
 https://github.com/lewisxhe/ST25R3916-NFC-RFAL
 https://github.com/sinricpro/arduino-esp32-webrtc-lib
-https://github.com/mogrinz/AMT630A
 https://github.com/CarloCBragagnolo/lis3mdl
+https://github.com/mogrinz/AMT630A
