@@ -10035,3 +10035,4 @@ https://github.com/Khuuxuanngoc/MKE_S17_AGS10_lib.git|Contributed|MKE_S17_AGS10
 https://github.com/marcocarnut/DigiCDCMulti.git|Contributed|DigiCDCMulti
 https://github.com/VagrantTrack149/ESP32-Metaheuristics.git|Contributed|ESP32-Metaheuristics
 https://github.com/DrMattGBarr/TPS92520-Arduino.git|Contributed|TPS92520Driver
+https://github.com/snappyxo/SnappyXOExamples.git|Contributed|SnappyXOExamples
