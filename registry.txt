@@ -10040,3 +10040,4 @@ https://github.com/SuXYIO/lora_a39c_arduino.git|Contributed|LoraA39C
 https://github.com/SolderedElectronics/Soldered-BMM350-Arduino-Library.git|Contributed|Soldered BMM350 Geomagnetic Sensor
 https://github.com/HamzaYslmn/esp-rtosLogger.git|Contributed|esp-rtosLogger
 https://github.com/metaloomlabs/usmp-arduino.git|Contributed|USMP
+https://github.com/Library-Arduino/MicroDB.git|Contributed|MicroDB
