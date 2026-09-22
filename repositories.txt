@@ -10046,4 +10046,4 @@ https://github.com/VagrantTrack149/ESP32-Metaheuristics
 https://github.com/SuXYIO/lora_a39c_arduino
 https://github.com/SolderedElectronics/Soldered-BMM350-Arduino-Library
 https://github.com/metaloomlabs/usmp-arduino
-https://github.com/mahadihasan9/TelegramBot
+https://github.com/mahadihasan9/ESP32TelegramBot
