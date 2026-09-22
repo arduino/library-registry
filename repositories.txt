@@ -10041,4 +10041,4 @@ https://github.com/sinricpro/arduino-esp32-webrtc-lib
 https://github.com/mogrinz/AMT630A
 https://github.com/CarloCBragagnolo/lis3mdl
 https://github.com/VagrantTrack149/ESP32-Metaheuristics
-
+https://github.com/SuXYIO/lora_a39c_arduino
