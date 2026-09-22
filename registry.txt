@@ -10042,3 +10042,4 @@ https://github.com/HamzaYslmn/esp-rtosLogger.git|Contributed|esp-rtosLogger
 https://github.com/metaloomlabs/usmp-arduino.git|Contributed|USMP
 https://github.com/Library-Arduino/MicroDB.git|Contributed|MicroDB
 https://github.com/adafruit/Adafruit_Marquee.git|Recommended|Adafruit Marquee
+https://github.com/scardus/MicroMDNS.git|Contributed|MicroMDNS
