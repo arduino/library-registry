@@ -10048,3 +10048,4 @@ https://github.com/mahadihasan9/ESP32TelegramBot.git|Contributed|ESP32TelegramBo
 https://github.com/noelanderson/SimpleAwait.git|Contributed|SimpleAwait
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v4.git|Contributed|SparkFun u-blox GNSS v4
 https://github.com/pbosetti/ArduinoRpc.git|Contributed|SerialRPC
+https://github.com/naseem-shawarba/esp-ble-sdk.git|Contributed|ESPBLESDK
