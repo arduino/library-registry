@@ -10046,3 +10046,4 @@ https://github.com/scardus/MicroMDNS.git|Contributed|MicroMDNS
 https://github.com/adafruit/Adafruit_Monster_Eyes.git|Recommended|Adafruit Monster Eyes
 https://github.com/mahadihasan9/ESP32TelegramBot.git|Contributed|ESP32TelegramBot
 https://github.com/noelanderson/SimpleAwait.git|Contributed|SimpleAwait
+https://github.com/sparkfun/SparkFun_u-blox_GNSS_v4.git|Contributed|SparkFun u-blox GNSS v4
