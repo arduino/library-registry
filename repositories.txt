@@ -26,6 +26,7 @@ https://github.com/klenov1900-lang/TM1637_6Easy
 https://github.com/mumanchu/AS7331UVSensor
 https://github.com/MADS-NET/arduino_mads
 https://github.com/pbosetti/ArduinoDriver
+https://github.com/pbosetti/ArduinoRpc
 https://github.com/YostLabs/3Space-Arduino
 https://github.com/Penguin-Lab/PenguinLib/
 https://github.com/algomusic/M16
