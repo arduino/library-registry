@@ -5302,6 +5302,7 @@ https://github.com/Narwhalsss360/NHC-SR04
 https://github.com/Narwhalsss360/NPush
 https://github.com/Narwhalsss360/NRotary
 https://github.com/Narwhalsss360/NTimer
+https://github.com/naseem-shawarba/esp-ble-sdk
 https://github.com/naszly/Arduino-StaticSerialCommands
 https://github.com/NatanBiesmans/Arduino-POST-HTTP-Parser
 https://github.com/natchaipon/SnailwalkPromptpay
