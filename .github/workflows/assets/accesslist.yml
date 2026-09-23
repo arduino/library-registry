@@ -41,6 +41,10 @@
   name: kelasrobot
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
+- host: github.com
+  name: Mirco850
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/9193#pullrequestreview-5296471135
 # This account was created to circumvent the access revocation on their original github.com/Rafeul1997 account.
 - host: github.com
   name: Rafeul-1997
