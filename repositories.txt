@@ -10049,3 +10049,4 @@ https://github.com/SolderedElectronics/Soldered-BMM350-Arduino-Library
 https://github.com/metaloomlabs/usmp-arduino
 https://github.com/adafruit/Adafruit_Marquee
 https://github.com/scardus/MicroMDNS
+https://github.com/mahadihasan9/ESP32TelegramBot
