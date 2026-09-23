@@ -10045,3 +10045,4 @@ https://github.com/adafruit/Adafruit_Marquee.git|Recommended|Adafruit Marquee
 https://github.com/scardus/MicroMDNS.git|Contributed|MicroMDNS
 https://github.com/adafruit/Adafruit_Monster_Eyes.git|Recommended|Adafruit Monster Eyes
 https://github.com/mahadihasan9/ESP32TelegramBot.git|Contributed|ESP32TelegramBot
+https://github.com/noelanderson/SimpleAwait.git|Contributed|SimpleAwait
