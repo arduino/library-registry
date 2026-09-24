@@ -10055,3 +10055,4 @@ https://github.com/adafruit/Adafruit_Marquee
 https://github.com/scardus/MicroMDNS
 https://github.com/mahadihasan9/ESP32TelegramBot
 https://github.com/Mirco850/EasyIO
+https://github.com/ilyabrin/ci18n
