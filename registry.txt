@@ -10052,3 +10052,4 @@ https://github.com/naseem-shawarba/esp-ble-sdk.git|Contributed|ESPBLESDK
 https://github.com/Mirco850/EasyIO.git|Contributed|EasyIO
 https://github.com/ilyabrin/ci18n.git|Contributed|ci18n
 https://github.com/MAKIO135/sensorShieldLib.git|Contributed|sensorShieldLib
+https://github.com/toggio/PacketLED.git|Contributed|PacketLED
