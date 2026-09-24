@@ -10053,3 +10053,5 @@ https://github.com/Mirco850/EasyIO.git|Contributed|EasyIO
 https://github.com/ilyabrin/ci18n.git|Contributed|ci18n
 https://github.com/MAKIO135/sensorShieldLib.git|Contributed|sensorShieldLib
 https://github.com/toggio/PacketLED.git|Contributed|PacketLED
+https://github.com/fbiego/ESPConfig.git|Contributed|ESPConfig
+https://github.com/fbiego/ParkingSensor.git|Contributed|ParkingSensor
