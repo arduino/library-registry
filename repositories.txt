@@ -1,9 +1,15 @@
-https://github.com/Tunasha/PressureSensorLib
+https://github.com/sstaub/eOS3
+https://github.com/MAKIO135/sensorShieldLib
+https://github.com/noelanderson/SimpleAwait
+https://github.com/Library-Arduino/MicroDB
+https://github.com/snappyxo/SnappyXOExamples
+https://github.com/DrMattGBarr/TPS92520-Arduino
+https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib
+https://github.com/Khuuxuanngoc/MKE_S17_AGS10_lib
 https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library
 https://github.com/AJArnovitz/ArnoTek_HeartBeat
 https://github.com/klenov1900-lang/PCFKeypad
 https://github.com/salernosimone/arduino-espdlx
-https://github.com/Tunasha/TunashaHydrostaticPressureSensor
 https://github.com/pulsecoreengineering/pulseHSM
 https://github.com/pulsecoreengineering/PulseCoAP
 https://github.com/joy-it/JoyPi_Advanced_Nano-ESP32
@@ -19,6 +25,7 @@ https://github.com/klenov1900-lang/TM1637_6Easy
 https://github.com/mumanchu/AS7331UVSensor
 https://github.com/MADS-NET/arduino_mads
 https://github.com/pbosetti/ArduinoDriver
+https://github.com/pbosetti/ArduinoRpc
 https://github.com/YostLabs/3Space-Arduino
 https://github.com/Penguin-Lab/PenguinLib/
 https://github.com/algomusic/M16
@@ -1198,6 +1205,7 @@ https://github.com/adafruit/Adafruit_MLX90632
 https://github.com/adafruit/Adafruit_MLX90640
 https://github.com/adafruit/Adafruit_MMA8451_Library
 https://github.com/adafruit/Adafruit_MMC56x3
+https://github.com/adafruit/Adafruit_Monster_Eyes
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 https://github.com/RakibulIslam1/WebController
 https://github.com/adafruit/Adafruit_MP3
@@ -3469,6 +3477,7 @@ https://github.com/gvandersel/SXAccessoire
 https://github.com/GypsyRobot/CuteBuzzerSounds
 https://github.com/GypsyRobot/Formulinha
 https://github.com/GypsyRobot/MusicBuzzer
+https://github.com/GyverLibs/GyverLCD
 https://github.com/GyverLibs/HybridFS
 https://github.com/GyverLibs/uPerlin
 https://github.com/GyverLibs/uWire
@@ -3626,6 +3635,7 @@ https://github.com/HamzaYslmn/espfetch
 https://github.com/HamzaYslmn/Esp-BLE-Web
 https://github.com/HamzaYslmn/python-esp-bridge
 https://github.com/HamzaYslmn/esp-ps5
+https://github.com/HamzaYslmn/esp-rtosLogger
 https://github.com/handmade0octopus/CursedDoubleLinkedListInterface-library
 https://github.com/handmade0octopus/ESP32-TWAI-CAN
 https://github.com/happy12/SPL06-001
@@ -4895,6 +4905,7 @@ https://github.com/marcmerlin/SmartMatrix_GFX
 https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX
 https://github.com/marcobrianza/ClickButton
 https://github.com/marcocarnut/DigiCDCFast
+https://github.com/marcocarnut/DigiCDCMulti
 https://github.com/marcoschwartz/aREST
 https://github.com/marcoschwartz/aREST_UI
 https://github.com/johnrickman/LiquidCrystal_I2C
@@ -5290,6 +5301,7 @@ https://github.com/Narwhalsss360/NHC-SR04
 https://github.com/Narwhalsss360/NPush
 https://github.com/Narwhalsss360/NRotary
 https://github.com/Narwhalsss360/NTimer
+https://github.com/naseem-shawarba/esp-ble-sdk
 https://github.com/naszly/Arduino-StaticSerialCommands
 https://github.com/NatanBiesmans/Arduino-POST-HTTP-Parser
 https://github.com/natchaipon/SnailwalkPromptpay
@@ -6491,6 +6503,7 @@ https://github.com/RobTillaart/runningAngle
 https://github.com/RobTillaart/RunningAverage
 https://github.com/RobTillaart/RunningMedian
 https://github.com/RobTillaart/RunningMinMax
+https://github.com/RobTillaart/runTime
 https://github.com/RobTillaart/SD2405
 https://github.com/RobTillaart/SET
 https://github.com/RobTillaart/SGP30
@@ -7084,6 +7097,7 @@ https://github.com/SolderedElectronics/Soldered-Ultrasonic-Sensor-easyC-Arduino-
 https://github.com/SolderedElectronics/Soldered-WS2812-Smart-Leds-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LSM9DS1TR-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-BMP280-Arduino-Library
+https://github.com/SolderedElectronics/Soldered-BMP585-Arduino-Library
 https://github.com/solderparty/arduino_bbq10kbd
 https://github.com/solderparty/arduino_tsc2004
 https://github.com/solidsnake745/MIDI_Device_Controller
@@ -7305,6 +7319,7 @@ https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3
+https://github.com/sparkfun/SparkFun_u-blox_GNSS_v4
 https://github.com/sparkfun/SparkFun_u-blox_PointPerfect_Library
 https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
@@ -7834,6 +7849,7 @@ https://github.com/tswfi/PE43xx
 https://github.com/tttmmmsss/ICM7218C/
 https://github.com/tttttx2/ddcvcp
 https://github.com/tuanpmt/ESP8266MQTTClient
+https://github.com/tuhde/Periph-Arduino.git
 https://github.com/turbyho/DABDUINO
 https://github.com/Dhananjayaprabath/WiFiProvision
 https://github.com/turing-complete-labs/LCDDisplay10_Arduino
@@ -10021,3 +10037,26 @@ https://github.com/Steel-Mastr/JLib_for_Arduino
 https://github.com/Merger-Zero/ESP32-SC-Inference
 https://github.com/xewe-labs/xewe-library-os
 https://github.com/yu911517778-a11y/ErdiLRF
+https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library
+https://github.com/RowlandTechnology/MULTIUARTv2
+https://github.com/skr-electronics-lab/groq-stt.git
+https://github.com/Sollemdev/qsetun
+https://github.com/deurus/PIDControl
+https://github.com/horse-pants/Preflight-Arduino
+https://github.com/lewisxhe/ST25R3916-NFC-RFAL
+https://github.com/sinricpro/arduino-esp32-webrtc-lib
+https://github.com/mogrinz/AMT630A
+https://github.com/CarloCBragagnolo/lis3mdl
+https://github.com/VagrantTrack149/ESP32-Metaheuristics
+https://github.com/SuXYIO/lora_a39c_arduino
+https://github.com/SolderedElectronics/Soldered-BMM350-Arduino-Library
+https://github.com/metaloomlabs/usmp-arduino
+https://github.com/adafruit/Adafruit_Marquee
+https://github.com/scardus/MicroMDNS
+https://github.com/mahadihasan9/ESP32TelegramBot
+https://github.com/Mirco850/EasyIO
+https://github.com/ilyabrin/ci18n
+https://github.com/toggio/PacketLED
+https://github.com/fbiego/ESPConfig
+https://github.com/fbiego/ParkingSensor
+https://github.com/fpedrei/every
