@@ -10061,4 +10061,5 @@ https://github.com/toggio/PacketLED
 https://github.com/fbiego/ESPConfig
 https://github.com/fbiego/ParkingSensor
 https://github.com/fpedrei/every
-https://github.com/splash0e/PILOTKWS.git
+https://github.com/splash0e/PILOTKWS
+
