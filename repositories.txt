@@ -6,7 +6,6 @@ https://github.com/snappyxo/SnappyXOExamples
 https://github.com/DrMattGBarr/TPS92520-Arduino
 https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib
 https://github.com/Khuuxuanngoc/MKE_S17_AGS10_lib
-https://github.com/Tunasha/FlowSensorLib
 https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library
 https://github.com/AJArnovitz/ArnoTek_HeartBeat
 https://github.com/klenov1900-lang/PCFKeypad
