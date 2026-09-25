@@ -10010,7 +10010,6 @@ https://github.com/xewe-labs/xewe-library-cli.git|Contributed|XeWeCli
 https://github.com/uniot-outech/DexmodIoT.git|Contributed|DexmodIoT
 https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library.git|Contributed|Soldered BME690 Arduino Library
 https://github.com/TimothyFran/OtamaticClient.git|Contributed|OtamaticClient
-https://github.com/Tunasha/PressureSensorLib.git|Contributed|PressureSensorLib
 https://github.com/Tunasha/FlowSensorLib.git|Contributed|FlowSensorLib
 https://github.com/Steel-Mastr/JLib_for_Arduino.git|Contributed|jlib
 https://github.com/Merger-Zero/ESP32-SC-Inference.git|Contributed|ESP32-SC-Inference
