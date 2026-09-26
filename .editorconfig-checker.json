@@ -1,0 +1,3 @@
+{
+  "Exclude": ["^\\.licenses/", "LICENSE.txt", "poetry.lock"]
+}

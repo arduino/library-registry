@@ -43,7 +43,7 @@ tasks:
         fi
       - |
         go tool \
-          github.com/editorconfig-checker/editorconfig-checker/v3/cmd/editorconfig-checker
+          github.com/editorconfig-checker/editorconfig-checker/v4/cmd/editorconfig-checker
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-prettier-formatting-task/Taskfile.yml
   general:format-prettier:
