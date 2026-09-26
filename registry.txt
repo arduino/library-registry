@@ -10057,3 +10057,4 @@ https://github.com/fpedrei/every.git|Contributed|every
 https://github.com/sstaub/eOS3.git|Contributed|eOS3
 https://github.com/UNIT-Electronics-MX/unit_devlab_gt365xx_library.git|Contributed|DevLab_GT365xx
 https://github.com/splash0e/PILOTKWS.git|Contributed|PILOT_KWS
+https://github.com/Khuuxuanngoc/MKE_I2C_DHT20_lib.git|Contributed|MKE_I2C_DHT20
