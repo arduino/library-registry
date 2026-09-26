@@ -10063,3 +10063,4 @@ https://github.com/fbiego/ESPConfig
 https://github.com/fbiego/ParkingSensor
 https://github.com/fpedrei/every
 https://github.com/splash0e/PILOTKWS
+https://github.com/zdw169/S6D0154X
