@@ -1,3 +1,4 @@
+https://github.com/Khuuxuanngoc/MKE_I2C_DHT20_lib
 https://github.com/sstaub/eOS3
 https://github.com/MAKIO135/sensorShieldLib
 https://github.com/noelanderson/SimpleAwait
