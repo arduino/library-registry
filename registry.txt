@@ -10060,3 +10060,4 @@ https://github.com/splash0e/PILOTKWS.git|Contributed|PILOT_KWS
 https://github.com/Khuuxuanngoc/MKE_I2C_DHT20_lib.git|Contributed|MKE_I2C_DHT20
 https://github.com/zdw169/S6D0154X.git|Contributed|S6D0154X
 https://github.com/EudoksjuszSzalony/ESPNetworkSerial.git|Contributed|ESPNetworkSerial
+https://github.com/GyverLibs/Saver.git|Contributed|Saver
