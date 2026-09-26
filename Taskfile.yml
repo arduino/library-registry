@@ -33,11 +33,17 @@ tasks:
     desc: Check basic formatting style of all files
     cmds:
       - |
-        if ! which ec &>/dev/null; then
-          echo "ec not found or not in PATH. Please install: https://github.com/editorconfig-checker/editorconfig-checker#installation"
+        if
+          ! which go \
+          &>/dev/null
+        then
+          echo "Go not found or not in PATH."
+          echo "Please install: https://go.dev/doc/install"
           exit 1
         fi
-      - ec
+      - |
+        go tool \
+          github.com/editorconfig-checker/editorconfig-checker/v3/cmd/editorconfig-checker
 
   # Source: https://github.com/arduino/tooling-project-assets/blob/main/workflow-templates/assets/check-prettier-formatting-task/Taskfile.yml
   general:format-prettier:
