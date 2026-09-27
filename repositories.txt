@@ -10068,3 +10068,4 @@ https://github.com/splash0e/PILOTKWS
 https://github.com/zdw169/S6D0154X
 https://github.com/EudoksjuszSzalony/ESPNetworkSerial
 https://github.com/aeljandro2/esp32-psram-stl
+https://github.com/cxandy/SmartMatrix4-ESP32
