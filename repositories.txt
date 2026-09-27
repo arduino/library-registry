@@ -10070,3 +10070,4 @@ https://github.com/EudoksjuszSzalony/ESPNetworkSerial
 https://github.com/aeljandro2/esp32-psram-stl
 https://github.com/cxandy/SmartMatrix4-ESP32
 https://github.com/apbokkasa/BlueCrypt
+https://github.com/Kinshuk-2005/ADF4159
