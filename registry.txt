@@ -10063,3 +10063,4 @@ https://github.com/EudoksjuszSzalony/ESPNetworkSerial.git|Contributed|ESPNetwork
 https://github.com/GyverLibs/Saver.git|Contributed|Saver
 https://github.com/Prince223889/ESP32-Diagnostics.git|Contributed|ESP32-Diagnostics
 https://github.com/aeljandro2/esp32-psram-stl.git|Contributed|PsramStl
+https://github.com/cxandy/SmartMatrix4-ESP32.git|Contributed|SmartMatrix4-ESP32
