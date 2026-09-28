@@ -10066,3 +10066,4 @@ https://github.com/aeljandro2/esp32-psram-stl.git|Contributed|PsramStl
 https://github.com/cxandy/SmartMatrix4-ESP32.git|Contributed|SmartMatrix4-ESP32
 https://github.com/apbokkasa/BlueCrypt.git|Contributed|BlueCrypt
 https://github.com/Kinshuk-2005/ADF4159.git|Contributed|ADF4159
+https://github.com/Garfius/xModemArdiuno.git|Contributed|xModemArdiuno
