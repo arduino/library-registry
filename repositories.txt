@@ -10078,3 +10078,5 @@ https://github.com/fruit-vale/FruitVale-Arduino
 https://github.com/KacperTora/KT_BQ25601
 https://github.com/xreef/MPU-9250-DMP_Library
 https://github.com/AlfredoSystems/AlfredoTelemetry
+https://github.com/EddieGreen/Esp32RmtOneWireBus
+https://github.com/EddieGreen/Esp32RmtDs18b20
