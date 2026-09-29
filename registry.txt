@@ -10071,3 +10071,4 @@ https://github.com/adafruit/Adafruit_DVI_Audio.git|Recommended|Adafruit DVI Audi
 https://github.com/fruit-vale/FruitVale-Arduino.git|Contributed|FruitVale
 https://github.com/Open-Embedded-Probe/oep-probe-arduino.git|Contributed|OpenEmbeddedProbe
 https://github.com/KacperTora/KT_BQ25601.git|Contributed|KT_BQ25601
+https://github.com/xreef/MPU-9250-DMP_Library.git|Contributed|MPU9250-DMP
