@@ -10077,3 +10077,4 @@ https://github.com/adafruit/Adafruit_DVI_Audio
 https://github.com/fruit-vale/FruitVale-Arduino
 https://github.com/KacperTora/KT_BQ25601
 https://github.com/xreef/MPU-9250-DMP_Library
+https://github.com/AlfredoSystems/AlfredoTelemetry
