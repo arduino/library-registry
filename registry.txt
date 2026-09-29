@@ -10067,3 +10067,4 @@ https://github.com/cxandy/SmartMatrix4-ESP32.git|Contributed|SmartMatrix4-ESP32
 https://github.com/apbokkasa/BlueCrypt.git|Contributed|BlueCrypt
 https://github.com/Kinshuk-2005/ADF4159.git|Contributed|ADF4159
 https://github.com/Garfius/xModemArdiuno.git|Contributed|xModemArdiuno
+https://github.com/adafruit/Adafruit_DVI_Audio.git|Recommended|Adafruit DVI Audio
