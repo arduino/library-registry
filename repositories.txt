@@ -10080,3 +10080,4 @@ https://github.com/xreef/MPU-9250-DMP_Library
 https://github.com/AlfredoSystems/AlfredoTelemetry
 https://github.com/EddieGreen/Esp32RmtOneWireBus
 https://github.com/EddieGreen/Esp32RmtDs18b20
+https://github.com/NovaHeap-Technologies/NovaHeap_Relay
