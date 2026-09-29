@@ -10075,3 +10075,4 @@ https://github.com/Kinshuk-2005/ADF4159
 https://github.com/Garfius/xModemArdiuno.git
 https://github.com/adafruit/Adafruit_DVI_Audio
 https://github.com/fruit-vale/FruitVale-Arduino
+https://github.com/KacperTora/KT_BQ25601
