@@ -10068,3 +10068,4 @@ https://github.com/apbokkasa/BlueCrypt.git|Contributed|BlueCrypt
 https://github.com/Kinshuk-2005/ADF4159.git|Contributed|ADF4159
 https://github.com/Garfius/xModemArdiuno.git|Contributed|xModemArdiuno
 https://github.com/adafruit/Adafruit_DVI_Audio.git|Recommended|Adafruit DVI Audio
+https://github.com/fruit-vale/FruitVale-Arduino.git|Contributed|FruitVale
