@@ -10070,3 +10070,4 @@ https://github.com/Garfius/xModemArdiuno.git|Contributed|xModemArdiuno
 https://github.com/adafruit/Adafruit_DVI_Audio.git|Recommended|Adafruit DVI Audio
 https://github.com/fruit-vale/FruitVale-Arduino.git|Contributed|FruitVale
 https://github.com/Open-Embedded-Probe/oep-probe-arduino.git|Contributed|OpenEmbeddedProbe
+https://github.com/KacperTora/KT_BQ25601.git|Contributed|KT_BQ25601
