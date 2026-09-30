@@ -10076,3 +10076,4 @@ https://github.com/AlfredoSystems/AlfredoTelemetry.git|Contributed|AlfredoTeleme
 https://github.com/EddieGreen/Esp32RmtOneWireBus.git|Contributed|Esp32RmtOneWire
 https://github.com/EddieGreen/Esp32RmtDs18b20.git|Contributed|Esp32RmtDs18b20
 https://github.com/NovaHeap-Technologies/NovaHeap_Relay.git|Contributed|NovaHeap_Relay
+https://github.com/Tunglam0605/TungLam-OmniMecanum-4WD.git|Contributed|TungLam_OmniMecanum_4WD
