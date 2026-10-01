@@ -10084,3 +10084,4 @@ https://github.com/BYU-I-eBadge/byui-ebadge-arduino.git|Contributed|BYUI EBadge
 https://github.com/OnlyBauer/arduino_crsf.git|Contributed|CRSFv3
 https://github.com/GyverLibs/Dict.git|Contributed|Dict
 https://github.com/GyverLibs/Any.git|Contributed|Any
+https://github.com/button-hq/ButtonConnect.git|Contributed|ButtonConnect
