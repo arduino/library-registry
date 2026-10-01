@@ -3086,6 +3086,7 @@ https://github.com/EnviroDIY/GeoluxCamera
 https://github.com/EnviroDIY/LoRa_AT
 https://github.com/EnviroDIY/ANBSensorsModbus
 https://github.com/EnviroDIY/EpochTime
+https://github.com/EnviroDIY/RTC_I2C
 https://github.com/eoh-jsc/era-lib
 https://github.com/epsilonrt/ad7124
 https://github.com/epsilonrt/EepromSecureData
