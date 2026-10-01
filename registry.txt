@@ -10086,3 +10086,4 @@ https://github.com/GyverLibs/Dict.git|Contributed|Dict
 https://github.com/GyverLibs/Any.git|Contributed|Any
 https://github.com/button-hq/ButtonConnect.git|Contributed|ButtonConnect
 https://github.com/EnviroDIY/RTC_I2C.git|Contributed|RTC_I2C
+https://github.com/AJArnovitz/ArnoTek_Debug.git|Contributed|ArnoTek_Debug
