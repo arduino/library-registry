@@ -1,3 +1,5 @@
+https://github.com/OnlyBauer/arduino_crsf
+https://github.com/OnlyBauer/arduino_RcLights
 https://github.com/Khuuxuanngoc/MKE_I2C_DHT20_lib
 https://github.com/sstaub/eOS3
 https://github.com/MAKIO135/sensorShieldLib
@@ -7614,6 +7616,7 @@ https://github.com/tanakamasayuki/EspUsbDevice
 https://github.com/tanakamasayuki/EspBle
 https://github.com/tanakamasayuki/ESP32KeyBridge
 https://github.com/tanakamasayuki/PCMFlowBluetooth
+https://github.com/Open-Embedded-Probe/oep-probe-arduino
 https://github.com/TanPitch/ButtonKing
 https://github.com/TaraHoleInIt/Subpixie
 https://github.com/tasos12/ev3-arduino
@@ -9462,6 +9465,7 @@ https://github.com/uutzinger/logger
 https://github.com/HavishVivek/WirelessRC.git
 https://github.com/d9ll/d9servo
 https://github.com/d9ll/d9dist
+https://github.com/Prince223889/ESP32-Diagnostics
 https://github.com/codewitch-honey-crisis/htcw_frame
 https://github.com/ManishKDtm/PHMonitor
 https://github.com/ManishKDtm/ESPSmartDash
@@ -10066,3 +10070,20 @@ https://github.com/fpedrei/every
 https://github.com/splash0e/PILOTKWS
 https://github.com/zdw169/S6D0154X
 https://github.com/EudoksjuszSzalony/ESPNetworkSerial
+https://github.com/aeljandro2/esp32-psram-stl
+https://github.com/cxandy/SmartMatrix4-ESP32
+https://github.com/apbokkasa/BlueCrypt
+https://github.com/Kinshuk-2005/ADF4159
+https://github.com/Garfius/xModemArdiuno.git
+https://github.com/adafruit/Adafruit_DVI_Audio
+https://github.com/fruit-vale/FruitVale-Arduino
+https://github.com/KacperTora/KT_BQ25601
+https://github.com/xreef/MPU-9250-DMP_Library
+https://github.com/AlfredoSystems/AlfredoTelemetry
+https://github.com/EddieGreen/Esp32RmtOneWireBus
+https://github.com/EddieGreen/Esp32RmtDs18b20
+https://github.com/NovaHeap-Technologies/NovaHeap_Relay
+https://github.com/MartinDaCosta53/VCAN2040
+https://github.com/Tunglam0605/TungLam-OmniMecanum-4WD
+https://github.com/KacperTora/KT_SHT40
+https://github.com/BYU-I-eBadge/byui-ebadge-arduino
