@@ -10081,3 +10081,4 @@ https://github.com/MartinDaCosta53/VCAN2040.git|Contributed|VCAN2040
 https://github.com/OnlyBauer/arduino_RcLights.git|Contributed|RcLights
 https://github.com/KacperTora/KT_SHT40.git|Contributed|KT_SHT40
 https://github.com/BYU-I-eBadge/byui-ebadge-arduino.git|Contributed|BYUI EBadge
+https://github.com/OnlyBauer/arduino_crsf.git|Contributed|CRSFv3
