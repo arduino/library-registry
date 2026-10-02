@@ -10093,3 +10093,4 @@ https://github.com/KacperTora/KT_SHT40
 https://github.com/BYU-I-eBadge/byui-ebadge-arduino
 https://github.com/button-hq/ButtonConnect
 https://github.com/industrialpioneer/HX711_Vidimus
+https://github.com/LKTronic/LKTRONICS-IOT.git
