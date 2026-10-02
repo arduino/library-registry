@@ -80,7 +80,7 @@ Follow the instructions [here](README.md#adding-a-library-to-library-manager).
 - [ ] The library.properties file must be located in the root of the repository.
 - [ ] The library must not have the same library.properties `name` value (regardless of case) as another library previously added to the Library Manager list.
 - [ ] For 3rd party libraries, the `name` field in library.properties must not start with `Arduino`.
-- [ ] The library repository must not contain any `.exe` files.
+- [ ] The library repository must not contain any executable files for non-Arduino-related operating systems (such as Windows, macOS, or a Linux distribution).
 - [ ] The library repository must not contain a [`.development` file](https://arduino.github.io/arduino-cli/latest/library-specification/#development-flag-file).
 - [ ] The library repository must not contain any [symlinks](https://wikipedia.org/wiki/Symbolic_link).
 - [ ] The library repository must not contain any files detected as infected by our antivirus scan.
