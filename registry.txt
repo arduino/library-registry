@@ -10091,3 +10091,4 @@ https://github.com/industrialpioneer/HX711_Vidimus.git|Contributed|HX711_Vidimus
 https://github.com/LKTronic/LKTRONICS-IOT.git|Contributed|LKTRONICS-IOT
 https://github.com/Tunglam0605/TungLam-PS2-Controller.git|Contributed|TungLam_PS2
 https://github.com/Matth-M/EM4095-Arduino.git|Contributed|EM4095Reader
+https://github.com/ve-cto/SwitchMatrixLib.git|Contributed|SwitchMatrixLib
