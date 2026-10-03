@@ -10095,3 +10095,4 @@ https://github.com/ve-cto/SwitchMatrixLib.git|Contributed|SwitchMatrixLib
 https://github.com/vaibhav-rm/DS4Arduino.git|Contributed|DS4Arduino
 https://github.com/nothinx/ArahMPU6050.git|Contributed|ArahMPU6050
 https://github.com/srirangaraj-b/AD569X.git|Contributed|AD569x
+https://github.com/apLlewelyn/ESP-SGTL5000.git|Contributed|SGTL5000
