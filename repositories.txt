@@ -10100,3 +10100,4 @@ https://github.com/Matth-M/EM4095-Arduino
 https://github.com/vaibhav-rm/DS4Arduino
 https://github.com/nothinx/ArahMPU6050
 https://github.com/srirangaraj-b/AD569X.git
+https://github.com/apLlewelyn/ESP-SGTL5000
