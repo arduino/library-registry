@@ -10093,3 +10093,4 @@ https://github.com/Tunglam0605/TungLam-PS2-Controller.git|Contributed|TungLam_PS
 https://github.com/Matth-M/EM4095-Arduino.git|Contributed|EM4095Reader
 https://github.com/ve-cto/SwitchMatrixLib.git|Contributed|SwitchMatrixLib
 https://github.com/vaibhav-rm/DS4Arduino.git|Contributed|DS4Arduino
+https://github.com/nothinx/ArahMPU6050.git|Contributed|ArahMPU6050
