@@ -1,6 +1,7 @@
 https://github.com/AJArnovitz/ArnoTek_Debug
 https://github.com/OnlyBauer/arduino_crsf
 https://github.com/OnlyBauer/arduino_RcLights
+https://github.com/ve-cto/SwitchMatrixLib
 https://github.com/Khuuxuanngoc/MKE_I2C_DHT20_lib
 https://github.com/sstaub/eOS3
 https://github.com/MAKIO135/sensorShieldLib
