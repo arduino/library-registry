@@ -1,3 +1,4 @@
+https://github.com/copida/AsyncHTTPClientLight
 https://github.com/AJArnovitz/ArnoTek_Debug
 https://github.com/OnlyBauer/arduino_crsf
 https://github.com/OnlyBauer/arduino_RcLights
