@@ -10098,3 +10098,4 @@ https://github.com/LKTronic/LKTRONICS-IOT.git
 https://github.com/Tunglam0605/TungLam-PS2-Controller
 https://github.com/Matth-M/EM4095-Arduino
 https://github.com/vaibhav-rm/DS4Arduino
+https://github.com/nothinx/ArahMPU6050
