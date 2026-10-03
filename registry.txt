@@ -10098,3 +10098,4 @@ https://github.com/srirangaraj-b/AD569X.git|Contributed|AD569x
 https://github.com/apLlewelyn/ESP-SGTL5000.git|Contributed|SGTL5000
 https://github.com/toggio/SecurePair.git|Contributed|SecurePair
 https://github.com/copida/AsyncHTTPClientLight.git|Contributed|AsyncHTTPClientLight
+https://github.com/nothinx/TombolPintar.git|Contributed|TombolPintar
