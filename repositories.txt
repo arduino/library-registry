@@ -10115,3 +10115,4 @@ https://github.com/nothinx/SandiMorse
 https://github.com/nothinx/Terbilang
 https://github.com/nothinx/PerintahSerial
 https://github.com/apbokkasa/AutoPack
+https://github.com/nothinx/TimbanganHX711
