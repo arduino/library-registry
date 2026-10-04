@@ -10110,3 +10110,4 @@ https://github.com/nothinx/SandiMorse.git|Contributed|SandiMorse
 https://github.com/nothinx/Terbilang.git|Contributed|Terbilang
 https://github.com/nothinx/PerintahSerial.git|Contributed|PerintahSerial
 https://github.com/apbokkasa/AutoPack.git|Contributed|AutoPack
+https://github.com/nothinx/TimbanganHX711.git|Contributed|TimbanganHX711
