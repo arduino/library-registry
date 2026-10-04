@@ -9924,7 +9924,7 @@ https://github.com/GrishovAleksei/WiFiOTA.git|Contributed|WiFiOTA
 https://github.com/pucheta/Roberto_MPU6050.git|Contributed|Roberto MPU6050
 https://github.com/argeorun/MODBUS-RTU_Slave_Ardu_Lib.git|Contributed|Modbus-SerialDevice-ArduinoLib
 https://github.com/soosp/HomeAssistantDiscovery.git|Contributed|HomeAssistantDiscovery
-https://github.com/GUNANAG38/MiniMicroKitPTL.git|Contributed|MiniMicroKit-PTL
+https://github.com/GUNANAG38/MiniMicroKitPTL.git|Contributed|MiniMicroKitPTL
 https://github.com/nguyenbinh-shark/shark_pid.git|Contributed|shark_pid
 https://github.com/fun6400/BLEThermalPrinterYHK.git|Contributed|BLEThermalPrinterYHK
 https://github.com/NguyenHien-8/ESP32WiFiPortal.git|Contributed|ESP32WiFiPortal
