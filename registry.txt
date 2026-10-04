@@ -10111,3 +10111,4 @@ https://github.com/nothinx/Terbilang.git|Contributed|Terbilang
 https://github.com/nothinx/PerintahSerial.git|Contributed|PerintahSerial
 https://github.com/apbokkasa/AutoPack.git|Contributed|AutoPack
 https://github.com/nothinx/TimbanganHX711.git|Contributed|TimbanganHX711
+https://github.com/supratikd/AS7343_7Semi.git|Contributed|AS7343_7Semi
