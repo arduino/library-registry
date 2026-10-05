@@ -1,4 +1,5 @@
 https://github.com/EObianom/ADF4351
+https://github.com/n0cturnality/ESP32-ICND2153-Panel
 https://github.com/klenov1900-lang/OLED2.42_EASY
 https://github.com/copida/AsyncHTTPClientLight
 https://github.com/AJArnovitz/ArnoTek_Debug
