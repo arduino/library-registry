@@ -10122,3 +10122,4 @@ https://github.com/xreef/MPU-6500-DMP_Library.git|Contributed|MPU6500-DMP
 https://github.com/forgevolt/VectorUtilities.git|Contributed|VectorUtilities
 https://github.com/mydesktopwidget/mydesktopwidget-screens.git|Contributed|MyDesktopWidget
 https://github.com/n0cturnality/ESP32-ICND2153-Panel.git|Contributed|ESP32-ICND2153-Panel
+https://github.com/e-Mole/MoleGraphManual.git|Contributed|MoleGraphManual
