@@ -10119,3 +10119,4 @@ https://github.com/EObianom/ADF4351.git|Contributed|ADF4351
 https://github.com/muki01/BMW_IBus_KBus_Library.git|Contributed|BMW IBus KBus
 https://github.com/MakerSpaceLeiden/ACNode.git|Contributed|ACNode
 https://github.com/xreef/MPU-6500-DMP_Library.git|Contributed|MPU6500-DMP
+https://github.com/forgevolt/VectorUtilities.git|Contributed|VectorUtilities
