@@ -10115,3 +10115,4 @@ https://github.com/supratikd/AS7343_7Semi.git|Contributed|AS7343_7Semi
 https://github.com/klenov1900-lang/OLED2.42_EASY.git|Contributed|OLED2.42_EASY
 https://github.com/Tunglam0605/TungLam-Stepper.git|Contributed|TungLam_Stepper
 https://github.com/SolderedElectronics/SOLDERED-Inputronic-KEYBOARD-Arduino-Library.git|Contributed|Soldered Inputronic Keyboard
+https://github.com/EObianom/ADF4351.git|Contributed|ADF4351
