@@ -7089,6 +7089,7 @@ https://github.com/SolderedElectronics/Soldered-GNSS-L86-M33-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-LCD-library
 https://github.com/SolderedElectronics/Soldered-MCP23017-Port-Expander-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-MQ-Gas-Sensor-Arduino-Library
+https://github.com/SolderedElectronics/SOLDERED-Inputronic-KEYBOARD-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-nRF24-Radio-Module-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Relay-Arduino-Library
 https://github.com/SolderedElectronics/Soldered-Obstacle-Sensor-Arduino-Library
