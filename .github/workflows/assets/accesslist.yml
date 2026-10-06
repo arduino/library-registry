@@ -22,6 +22,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4460#issuecomment-2589062464
 - host: github.com
+  name: CodeUnk1
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/9287#issuecomment-6007524947
+- host: github.com
   name: DefHam140
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5265#issuecomment-2589039572
