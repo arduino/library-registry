@@ -10130,3 +10130,4 @@ https://github.com/mydesktopwidget/mydesktopwidget-screens
 https://github.com/e-Mole/MoleGraphManual
 https://github.com/Tunglam0605/TungLam-HWT901B
 https://github.com/Tunglam0605/TungLam-DriverPID-UART
+https://github.com/Tunglam0605/TungLam-FuzzyPID
