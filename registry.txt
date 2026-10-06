@@ -10127,3 +10127,5 @@ https://github.com/Tunglam0605/TungLam-HWT901B.git|Contributed|TungLam_HWT901B
 https://github.com/Tunglam0605/TungLam-DriverPID-UART.git|Contributed|TungLam_DriverPID_UART
 https://github.com/Tunglam0605/TungLam-FuzzyPID.git|Contributed|TungLam_FuzzyPID
 https://github.com/nup002/PCMD3180.git|Contributed|PCMD3180
+https://github.com/UNIT-Electronics-MX/unit_devlab_halleffect_50xx_library.git|Contributed|DevLab_HallEffect
+https://github.com/UNIT-Electronics-MX/unit_devlab_relay_library.git|Contributed|DevLab_Relay
