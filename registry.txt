@@ -10123,3 +10123,4 @@ https://github.com/forgevolt/VectorUtilities.git|Contributed|VectorUtilities
 https://github.com/mydesktopwidget/mydesktopwidget-screens.git|Contributed|MyDesktopWidget
 https://github.com/n0cturnality/ESP32-ICND2153-Panel.git|Contributed|ESP32-ICND2153-Panel
 https://github.com/e-Mole/MoleGraphManual.git|Contributed|MoleGraphManual
+https://github.com/Tunglam0605/TungLam-HWT901B.git|Contributed|TungLam_HWT901B
