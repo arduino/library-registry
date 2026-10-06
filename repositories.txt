@@ -9829,6 +9829,7 @@ https://github.com/VoidLoopers/SignalCore
 https://github.com/VoidLoopers/ViewPoint
 https://github.com/soosp/DigitalOutput
 https://github.com/decoded-cipher/nodrix-sdk
+https://github.com/zalhashfi/insight-sdk
 https://github.com/F1chter/LynkTuyaLocal
 https://github.com/teemow/planterm
 https://github.com/connormmckelvey/Haplink
