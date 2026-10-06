@@ -10125,3 +10125,4 @@ https://github.com/n0cturnality/ESP32-ICND2153-Panel.git|Contributed|ESP32-ICND2
 https://github.com/e-Mole/MoleGraphManual.git|Contributed|MoleGraphManual
 https://github.com/Tunglam0605/TungLam-HWT901B.git|Contributed|TungLam_HWT901B
 https://github.com/Tunglam0605/TungLam-DriverPID-UART.git|Contributed|TungLam_DriverPID_UART
+https://github.com/Tunglam0605/TungLam-FuzzyPID.git|Contributed|TungLam_FuzzyPID
