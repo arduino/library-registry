@@ -10133,3 +10133,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_button_library.git|Contribute
 https://github.com/UNIT-Electronics-MX/unit_devlab_dpad_library.git|Contributed|DevLab_DPad
 https://github.com/me1121118/praph.git|Contributed|Praph
 https://github.com/zalhashfi/insight-sdk.git|Contributed|Insight
+https://github.com/konnextra/KonnextraKNX.git|Contributed|KonnextraKNX
