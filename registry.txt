@@ -10136,3 +10136,4 @@ https://github.com/zalhashfi/insight-sdk.git|Contributed|Insight
 https://github.com/konnextra/KonnextraKNX.git|Contributed|KonnextraKNX
 https://github.com/ugo-silato/Quectel_LCx6G_GNSS.git|Contributed|Quectel_LCx6G_GNSS
 https://github.com/sakshyambastakoti/Hawa-Arduino-Library.git|Contributed|Hawa
+https://github.com/UNIT-Electronics-MX/unit_devlab_photointerrupter_library.git|Contributed|DevLab_PhotoInterrupter
