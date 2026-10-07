@@ -1,3 +1,4 @@
+https://github.com/me1121118/praph
 https://github.com/nup002/PCMD3180
 https://github.com/EObianom/ADF4351
 https://github.com/n0cturnality/ESP32-ICND2153-Panel
@@ -9833,6 +9834,7 @@ https://github.com/VoidLoopers/SignalCore
 https://github.com/VoidLoopers/ViewPoint
 https://github.com/soosp/DigitalOutput
 https://github.com/decoded-cipher/nodrix-sdk
+https://github.com/zalhashfi/insight-sdk
 https://github.com/F1chter/LynkTuyaLocal
 https://github.com/teemow/planterm
 https://github.com/connormmckelvey/Haplink
@@ -10136,3 +10138,6 @@ https://github.com/e-Mole/MoleGraphManual
 https://github.com/Tunglam0605/TungLam-HWT901B
 https://github.com/Tunglam0605/TungLam-DriverPID-UART
 https://github.com/Tunglam0605/TungLam-FuzzyPID
+https://github.com/konnextra/KonnextraKNX
+https://github.com/ugo-silato/Quectel_LCx6G_GNSS
+https://github.com/sakshyambastakoti/Hawa-Arduino-Library
