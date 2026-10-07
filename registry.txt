@@ -10131,3 +10131,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_halleffect_50xx_library.git|C
 https://github.com/UNIT-Electronics-MX/unit_devlab_relay_library.git|Contributed|DevLab_Relay
 https://github.com/UNIT-Electronics-MX/unit_devlab_button_library.git|Contributed|DevLab_Button
 https://github.com/UNIT-Electronics-MX/unit_devlab_dpad_library.git|Contributed|DevLab_DPad
+https://github.com/me1121118/praph.git|Contributed|Praph
