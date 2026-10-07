@@ -10135,3 +10135,4 @@ https://github.com/me1121118/praph.git|Contributed|Praph
 https://github.com/zalhashfi/insight-sdk.git|Contributed|Insight
 https://github.com/konnextra/KonnextraKNX.git|Contributed|KonnextraKNX
 https://github.com/ugo-silato/Quectel_LCx6G_GNSS.git|Contributed|Quectel_LCx6G_GNSS
+https://github.com/sakshyambastakoti/Hawa-Arduino-Library.git|Contributed|Hawa
