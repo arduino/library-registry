@@ -10140,3 +10140,4 @@ https://github.com/Tunglam0605/TungLam-DriverPID-UART
 https://github.com/Tunglam0605/TungLam-FuzzyPID
 https://github.com/konnextra/KonnextraKNX
 https://github.com/ugo-silato/Quectel_LCx6G_GNSS
+https://github.com/sakshyambastakoti/Hawa-Arduino-Library
