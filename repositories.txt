@@ -9175,6 +9175,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_halleffect_50xx_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_relay_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_button_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_dpad_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_photointerrupter_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
