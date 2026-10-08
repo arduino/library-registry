@@ -10142,3 +10142,4 @@ https://github.com/maxwelltrack/maxwelltrack-arduino.git|Contributed|MaxwellTrac
 https://github.com/erdilrf/erdilrf-lrf-arduino.git|Contributed|ERDILRF_LRF
 https://github.com/jay94ks/dxlr01.git|Contributed|DXLR01
 https://github.com/soosp/RangeMonitor.git|Contributed|RangeMonitor
+https://github.com/Aditya2026US/ESP32-BLE-Keyboard-Client.git|Contributed|ESP32-BLE-Keyboard-Client
