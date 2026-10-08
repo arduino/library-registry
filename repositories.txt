@@ -1,3 +1,4 @@
+https://github.com/jay94ks/dxlr01
 https://github.com/me1121118/praph
 https://github.com/nup002/PCMD3180
 https://github.com/EObianom/ADF4351
@@ -10143,3 +10144,8 @@ https://github.com/Tunglam0605/TungLam-FuzzyPID
 https://github.com/konnextra/KonnextraKNX
 https://github.com/ugo-silato/Quectel_LCx6G_GNSS
 https://github.com/sakshyambastakoti/Hawa-Arduino-Library
+https://github.com/maxwelltrack/maxwelltrack-arduino
+https://github.com/erdilrf/erdilrf-lrf-arduino
+https://github.com/soosp/RangeMonitor
+https://github.com/Aditya2026US/ESP32-BLE-Keyboard-Client
+https://github.com/soosp/DS18B20Sensor
