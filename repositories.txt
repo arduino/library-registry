@@ -10147,3 +10147,4 @@ https://github.com/sakshyambastakoti/Hawa-Arduino-Library
 https://github.com/maxwelltrack/maxwelltrack-arduino
 https://github.com/erdilrf/erdilrf-lrf-arduino
 https://github.com/soosp/RangeMonitor
+https://github.com/Aditya2026US/ESP32-BLE-Keyboard-Client
