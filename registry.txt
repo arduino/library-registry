@@ -9995,7 +9995,6 @@ https://github.com/RobTillaart/DS1683.git|Contributed|DS1683
 https://github.com/Zefek/BelWattmeter.git|Contributed|BelWattmeter
 https://github.com/raulbraghin/Standard_PLC.git|Contributed|Standard_PLC
 https://github.com/EduWit-Dev/EduWit.git|Contributed|EduWit
-https://github.com/xewe-labs/xewe-library-utils.git|Contributed|XeWeUtils
 https://github.com/AJArnovitz/ArnoTek_HeartBeat.git|Contributed|ArnoTek_HeartBeat
 https://github.com/xewe-labs/xewe-library-serial.git|Contributed|XeWeSerial
 https://github.com/xewe-labs/xewe-library-nvs.git|Contributed|XeWeNvs
