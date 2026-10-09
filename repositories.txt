@@ -10155,3 +10155,4 @@ https://github.com/AlfredoSystems/AlfredoFusion
 https://github.com/7semi-solutions/7Semi-VL6180X.git
 https://github.com/7semi-solutions/7Semi_BusCore
 https://github.com/7semi-solutions/7Semi-INA240
+https://github.com/7semi-solutions/7Semi-MCP4725
