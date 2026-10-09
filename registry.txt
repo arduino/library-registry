@@ -10155,3 +10155,4 @@ https://github.com/7semi-solutions/7Semi-VL53L1X.git|Contributed|7Semi VL53L1X
 https://github.com/7semi-solutions/7Semi-AS7343.git|Contributed|7Semi AS7343
 https://github.com/7semi-solutions/7Semi-HDC302x.git|Contributed|7Semi HDC302x
 https://github.com/7semi-solutions/7Semi-MCP4728.git|Contributed|7Semi MCP4728
+https://github.com/7semi-solutions/7Semi-SHT2x.git|Contributed|7Semi SHT2x
