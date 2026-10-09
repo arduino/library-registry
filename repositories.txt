@@ -10159,3 +10159,4 @@ https://github.com/7semi-solutions/7Semi-MCP4725
 https://github.com/7semi-solutions/7Semi-VL53L1X
 https://github.com/7semi-solutions/7Semi-AS7343
 https://github.com/7semi-solutions/7Semi-HDC302x
+https://github.com/7semi-solutions/7Semi-MCP4728
