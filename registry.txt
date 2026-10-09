@@ -10151,3 +10151,4 @@ https://github.com/7semi-solutions/7Semi-VL6180X.git|Contributed|7Semi VL6180X
 https://github.com/7semi-solutions/7Semi_BusCore.git|Contributed|7Semi Bus
 https://github.com/7semi-solutions/7Semi-INA240.git|Contributed|7Semi INA240
 https://github.com/7semi-solutions/7Semi-MCP4725.git|Contributed|7Semi MCP4725
+https://github.com/7semi-solutions/7Semi-VL53L1X.git|Contributed|7Semi VL53L1X
