@@ -10149,3 +10149,4 @@ https://github.com/soosp/TemperatureMonitor.git|Contributed|TemperatureMonitor
 https://github.com/AlfredoSystems/AlfredoFusion.git|Contributed|AlfredoFusion
 https://github.com/7semi-solutions/7Semi-VL6180X.git|Contributed|7Semi VL6180X
 https://github.com/7semi-solutions/7Semi_BusCore.git|Contributed|7Semi Bus
+https://github.com/7semi-solutions/7Semi-INA240.git|Contributed|7Semi INA240
