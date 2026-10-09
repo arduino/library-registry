@@ -10153,3 +10153,4 @@ https://github.com/soosp/DS18B20Sensor
 https://github.com/soosp/TemperatureMonitor
 https://github.com/AlfredoSystems/AlfredoFusion
 https://github.com/7semi-solutions/7Semi-VL6180X.git
+https://github.com/7semi-solutions/7Semi_BusCore
