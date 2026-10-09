@@ -17,6 +17,7 @@
   - [Why aren't releases of my library being picked up by Library Manager?](#why-arent-releases-of-my-library-being-picked-up-by-library-manager)
   - [Can I check on library releases being added to Library Manager?](#can-i-check-on-library-releases-being-added-to-library-manager)
   - [How can I remove a release of my library from Library Manager?](#how-can-i-remove-a-release-of-my-library-from-library-manager)
+  - [How can I change a library's URL?](#how-can-i-change-a-librarys-url)
   - [How can I change a library's name?](#how-can-i-change-a-librarys-name)
 - [Limitations](#limitations)
   - [Is my Git repository OK?](#is-my-git-repository-ok)
@@ -140,24 +141,17 @@ http://downloads.arduino.cc/libraries/logs/github.com/arduino-libraries/Servo/
 
 ### How can I remove a release of my library from Library Manager?
 
-If you discover a problem with the library release, simply fix the problem and make a new [release](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list). Library Manager defaults to installing the latest version of the library and offers updates to those with an older version installed, so this is the fastest and most effective method for distributing a fix to the users.
+See the information [**here**](maintenance-requests.md#remove-a-library-release).
 
-In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
+### How can I change a library's URL?
 
-1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
-1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+release+removal&template=release-removal.yml&title=Library+release+removal+request), specifying the name of the library and the version number of the release that should be removed.
+To request an update to a library's registered URL, follow the instructions [**here**](maintenance-requests.md#update-library-url).
 
 <a id="how-can-i-change-my-librarys-name"></a>
 
 ### How can I change a library's name?
 
-For the sake of continuity, libraries in the Library Manager list are locked to the name they had at the time they were added to the list. Changing the library name can be disruptive to its users because this is the unique identifier for the library used by the Arduino development software [command line interfaces](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/), sketch [metadata](https://arduino.github.io/arduino-cli/latest/sketch-specification/#metadata), library [dependencies](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format), and installation location.
-
-If you wish to change the name it will need to be done manually by request:
-
-1. Change the `name` value in the [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
-1. Create a release or tag.
-1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+rename&template=rename.yml&title=Library+name+change+request) specifying the URL of the library's repository.
+See the information [**here**](maintenance-requests.md).
 
 ## Limitations
 

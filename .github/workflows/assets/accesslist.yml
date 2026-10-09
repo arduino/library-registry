@@ -22,6 +22,10 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4460#issuecomment-2589062464
 - host: github.com
+  name: CodeUnk1
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/9287#issuecomment-6007524947
+- host: github.com
   name: DefHam140
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5265#issuecomment-2589039572
@@ -42,6 +46,19 @@
   access: deny
   reference: https://github.com/arduino/library-registry/pull/5706#issuecomment-2588923290
 - host: github.com
+  name: Mirco850
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/9193#pullrequestreview-5296471135
+# This account was created to circumvent the access revocation on their original github.com/Rafeul1997 account.
+- host: github.com
+  name: Rafeul-1997
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/8337#pullrequestreview-4270053083
+- host: github.com
+  name: Rafeul1997
+  access: deny
+  reference: https://github.com/arduino/library-registry/pull/8337#pullrequestreview-4270053083
+- host: github.com
   name: Subodh-roy2
   access: deny
   reference: https://github.com/arduino/library-registry/pull/4422#issuecomment-2589051618
@@ -49,6 +66,10 @@
   name: Rmin-code2005
   access: deny
   reference: https://github.com/arduino/library-registry/issues/7350#issuecomment-3611960375
+- host: github.com
+  name: Tunasha
+  access: deny
+  reference: https://github.com/arduino/library-registry/issues/9091#issuecomment-5706708788
 - host: github.com
   name: vpbharath
   access: deny
