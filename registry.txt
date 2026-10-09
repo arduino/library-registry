@@ -10158,3 +10158,4 @@ https://github.com/7semi-solutions/7Semi-MCP4728.git|Contributed|7Semi MCP4728
 https://github.com/7semi-solutions/7Semi-SHT2x.git|Contributed|7Semi SHT2x
 https://github.com/7semi-solutions/7Semi-MCP9808.git|Contributed|7Semi MCP9808
 https://github.com/7semi-solutions/7Semi-DS2482.git|Contributed|7Semi DS2482
+https://github.com/bonezegei/BonezegeiIoT.git|Contributed|BonezegeiIoT
