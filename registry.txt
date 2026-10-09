@@ -9924,7 +9924,7 @@ https://github.com/GrishovAleksei/WiFiOTA.git|Contributed|WiFiOTA
 https://github.com/pucheta/Roberto_MPU6050.git|Contributed|Roberto MPU6050
 https://github.com/argeorun/MODBUS-RTU_Slave_Ardu_Lib.git|Contributed|Modbus-SerialDevice-ArduinoLib
 https://github.com/soosp/HomeAssistantDiscovery.git|Contributed|HomeAssistantDiscovery
-https://github.com/GUNANAG38/MiniMicroKit_PTL.git|Contributed|MiniMicroKit-PTL
+https://github.com/GUNANAG38/MiniMicroKitPTL.git|Contributed|MiniMicroKitPTL
 https://github.com/nguyenbinh-shark/shark_pid.git|Contributed|shark_pid
 https://github.com/fun6400/BLEThermalPrinterYHK.git|Contributed|BLEThermalPrinterYHK
 https://github.com/NguyenHien-8/ESP32WiFiPortal.git|Contributed|ESP32WiFiPortal
@@ -9995,9 +9995,7 @@ https://github.com/RobTillaart/DS1683.git|Contributed|DS1683
 https://github.com/Zefek/BelWattmeter.git|Contributed|BelWattmeter
 https://github.com/raulbraghin/Standard_PLC.git|Contributed|Standard_PLC
 https://github.com/EduWit-Dev/EduWit.git|Contributed|EduWit
-https://github.com/xewe-labs/xewe-library-utils.git|Contributed|XeWeUtils
 https://github.com/AJArnovitz/ArnoTek_HeartBeat.git|Contributed|ArnoTek_HeartBeat
-https://github.com/xewe-labs/xewe-library-serial.git|Contributed|XeWeSerial
 https://github.com/marcocarnut/DigiCDCFast.git|Contributed|DigiCDCFast
 https://github.com/0015/a3d.git|Contributed|a3d
 https://github.com/Deric-03/Esp_Lite_Core.git|Contributed|Esp_Lite_Core
@@ -10011,7 +10009,7 @@ https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library.git|Contr
 https://github.com/TimothyFran/OtamaticClient.git|Contributed|OtamaticClient
 https://github.com/Steel-Mastr/JLib_for_Arduino.git|Contributed|jlib
 https://github.com/Merger-Zero/ESP32-SC-Inference.git|Contributed|ESP32-SC-Inference
-https://github.com/xewe-labs/xewe-library-os.git|Contributed|XeWeOS
+https://github.com/xewe-labs/xewe-os-core.git|Contributed|XeWeCore
 https://github.com/yu911517778-a11y/ErdiLRF.git|Contributed|ErdiLRF
 https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library.git|Contributed|Soldered BMA400 Accelerometer
 https://github.com/RowlandTechnology/MULTIUARTv2.git|Contributed|MultiUART
@@ -10052,7 +10050,7 @@ https://github.com/toggio/PacketLED.git|Contributed|PacketLED
 https://github.com/fbiego/ESPConfig.git|Contributed|ESPConfig
 https://github.com/fbiego/ParkingSensor.git|Contributed|ParkingSensor
 https://github.com/tuhde/Periph-Arduino.git|Contributed|Periph
-https://github.com/fpedrei/every.git|Contributed|every
+https://github.com/fpedrei/every.git|Contributed|RepeatedTask
 https://github.com/sstaub/eOS3.git|Contributed|eOS3
 https://github.com/UNIT-Electronics-MX/unit_devlab_gt365xx_library.git|Contributed|DevLab_GT365xx
 https://github.com/splash0e/PILOTKWS.git|Contributed|PILOT_KWS
@@ -10110,7 +10108,7 @@ https://github.com/nothinx/Terbilang.git|Contributed|Terbilang
 https://github.com/nothinx/PerintahSerial.git|Contributed|PerintahSerial
 https://github.com/apbokkasa/AutoPack.git|Contributed|AutoPack
 https://github.com/nothinx/TimbanganHX711.git|Contributed|TimbanganHX711
-https://github.com/supratikd/AS7343_7Semi.git|Contributed|AS7343_7Semi
+https://github.com/supratikd/AS7343_7Semi.git|Contributed|7Semi AS7343
 https://github.com/klenov1900-lang/OLED2.42_EASY.git|Contributed|OLED2.42_EASY
 https://github.com/Tunglam0605/TungLam-Stepper.git|Contributed|TungLam_Stepper
 https://github.com/SolderedElectronics/SOLDERED-Inputronic-KEYBOARD-Arduino-Library.git|Contributed|Soldered Inputronic Keyboard
@@ -10145,3 +10143,17 @@ https://github.com/Aditya2026US/ESP32-BLE-Keyboard-Client.git|Contributed|ESP32-
 https://github.com/soosp/DS18B20Sensor.git|Contributed|DS18B20Sensor
 https://github.com/UNIT-Electronics-MX/unit_devlab_lm35_library.git|Contributed|DevLab_LM35
 https://github.com/soosp/TemperatureMonitor.git|Contributed|TemperatureMonitor
+https://github.com/AlfredoSystems/AlfredoFusion.git|Contributed|AlfredoFusion
+https://github.com/7semi-solutions/7Semi-VL6180X.git|Contributed|7Semi VL6180X
+https://github.com/7semi-solutions/7Semi_BusCore.git|Contributed|7Semi Bus
+https://github.com/7semi-solutions/7Semi-INA240.git|Contributed|7Semi INA240
+https://github.com/7semi-solutions/7Semi-MCP4725.git|Contributed|7Semi MCP4725
+https://github.com/7semi-solutions/7Semi-VL53L1X.git|Contributed|7Semi VL53L1X
+https://github.com/7semi-solutions/7Semi-AS7343.git|Contributed|7Semi AS7343
+https://github.com/7semi-solutions/7Semi-HDC302x.git|Contributed|7Semi HDC302x
+https://github.com/7semi-solutions/7Semi-MCP4728.git|Contributed|7Semi MCP4728
+https://github.com/7semi-solutions/7Semi-SHT2x.git|Contributed|7Semi SHT2x
+https://github.com/7semi-solutions/7Semi-MCP9808.git|Contributed|7Semi MCP9808
+https://github.com/7semi-solutions/7Semi-DS2482.git|Contributed|7Semi DS2482
+https://github.com/bonezegei/BonezegeiIoT.git|Contributed|BonezegeiIoT
+https://github.com/7semi-solutions/7Semi-BMM150.git|Contributed|7Semi BMM150
