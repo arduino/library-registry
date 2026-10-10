@@ -10168,3 +10168,4 @@ https://github.com/abinsaji2008/WakeNet9Arduino_-simplifier
 https://github.com/vax9210/ESP32-Audiometer
 https://github.com/GEORGE-MULTITECH-SYSTEMS/PID-Non-Blocking-
 https://github.com/PaulNTU/DFRobotMLDR
+https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030
