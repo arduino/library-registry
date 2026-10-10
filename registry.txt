@@ -10157,3 +10157,4 @@ https://github.com/7semi-solutions/7Semi-DS2482.git|Contributed|7Semi DS2482
 https://github.com/bonezegei/BonezegeiIoT.git|Contributed|BonezegeiIoT
 https://github.com/7semi-solutions/7Semi-BMM150.git|Contributed|7Semi BMM150
 https://github.com/Annabel369/2FATouchCore.git|Contributed|2FATouchCore
+https://github.com/abinsaji2008/GroqAudioStream_Library.git|Contributed|GroqAudioStream
