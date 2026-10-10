@@ -10163,3 +10163,4 @@ https://github.com/vax9210/ESP32-Audiometer.git|Contributed|ESP32Audiometer
 https://github.com/GEORGE-MULTITECH-SYSTEMS/PID-Non-Blocking-.git|Contributed|PIDNonBlocking
 https://github.com/Shieldio/ShieldioDisplay.git|Contributed|ShieldioDisplay
 https://github.com/PaulNTU/DFRobotMLDR.git|Contributed|DFRobotMLDR
+https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030.git|Contributed|KenwoodXS-for-KR-V6030
