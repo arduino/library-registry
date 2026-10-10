@@ -10158,3 +10158,4 @@ https://github.com/bonezegei/BonezegeiIoT.git|Contributed|BonezegeiIoT
 https://github.com/7semi-solutions/7Semi-BMM150.git|Contributed|7Semi BMM150
 https://github.com/Annabel369/2FATouchCore.git|Contributed|2FATouchCore
 https://github.com/abinsaji2008/GroqAudioStream_Library.git|Contributed|GroqAudioStream
+https://github.com/abinsaji2008/WakeNet9Arduino_-simplifier.git|Contributed|WakeNet9Arduino
