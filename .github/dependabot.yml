@@ -13,6 +13,7 @@ updates:
     schedule:
       interval: daily
     labels:
+      - "topic: dependencies"
       - "topic: infrastructure"
   - package-ecosystem: github-actions
     target-branch: production
@@ -23,6 +24,7 @@ updates:
     schedule:
       interval: daily
     labels:
+      - "topic: dependencies"
       - "topic: infrastructure"
   - package-ecosystem: gomod
     target-branch: production
@@ -33,6 +35,7 @@ updates:
     schedule:
       interval: daily
     labels:
+      - "topic: dependencies"
       - "topic: infrastructure"
   - package-ecosystem: pip
     target-branch: production
@@ -43,4 +46,5 @@ updates:
     schedule:
       interval: daily
     labels:
+      - "topic: dependencies"
       - "topic: infrastructure"
