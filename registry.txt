@@ -10162,3 +10162,4 @@ https://github.com/abinsaji2008/WakeNet9Arduino_-simplifier.git|Contributed|Wake
 https://github.com/vax9210/ESP32-Audiometer.git|Contributed|ESP32Audiometer
 https://github.com/GEORGE-MULTITECH-SYSTEMS/PID-Non-Blocking-.git|Contributed|PIDNonBlocking
 https://github.com/Shieldio/ShieldioDisplay.git|Contributed|ShieldioDisplay
+https://github.com/PaulNTU/DFRobotMLDR.git|Contributed|DFRobotMLDR
