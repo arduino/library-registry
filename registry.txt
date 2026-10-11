@@ -10166,3 +10166,4 @@ https://github.com/PaulNTU/DFRobotMLDR.git|Contributed|DFRobotMLDR
 https://github.com/polishprogrammer2023/KenwoodXS-for-KR-V6030.git|Contributed|KenwoodXS-for-KR-V6030
 https://github.com/SUNSETDEVER/KernelCDM.git|Contributed|CMScript
 https://github.com/citycafe578/FixedPID.git|Contributed|FixedPID
+https://github.com/glutio/Focuspocus.git|Contributed|Focuspocus
