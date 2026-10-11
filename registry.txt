@@ -10168,3 +10168,4 @@ https://github.com/SUNSETDEVER/KernelCDM.git|Contributed|CMScript
 https://github.com/citycafe578/FixedPID.git|Contributed|FixedPID
 https://github.com/glutio/Focuspocus.git|Contributed|Focuspocus
 https://github.com/matthias-bs/M5SerialPngCapture.git|Contributed|M5SerialPngCapture
+https://github.com/glutio/Buratino.git|Contributed|Buratino
