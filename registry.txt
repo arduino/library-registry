@@ -10169,3 +10169,4 @@ https://github.com/citycafe578/FixedPID.git|Contributed|FixedPID
 https://github.com/glutio/Focuspocus.git|Contributed|Focuspocus
 https://github.com/matthias-bs/M5SerialPngCapture.git|Contributed|M5SerialPngCapture
 https://github.com/glutio/Buratino.git|Contributed|Buratino
+https://github.com/forgevolt/JoystickUtilities.git|Contributed|JoystickUtilities
