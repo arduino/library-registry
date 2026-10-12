@@ -10172,3 +10172,4 @@ https://github.com/glutio/Buratino.git|Contributed|Buratino
 https://github.com/forgevolt/JoystickUtilities.git|Contributed|JoystickUtilities
 https://github.com/simsum/DTutils.git|Contributed|DTutils
 https://github.com/ShunTomino/ESP_MOVIE.git|Contributed|ESP_MOVIE
+https://github.com/ebm9991/Seeed_ICM20600_AK09918_UNOR4.git|Contributed|Grove IMU 9DOF ICM20600 AK09918 UNO R4
