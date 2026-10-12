@@ -10176,4 +10176,4 @@ https://github.com/glutio/Focuspocus
 https://github.com/matthias-bs/M5SerialPngCapture
 https://github.com/glutio/Buratino
 https://github.com/simsum/DTutils
-https://github.com/ShunTomino/ESP_MOVIE.git
+https://github.com/ShunTomino/ESP_MOVIE
