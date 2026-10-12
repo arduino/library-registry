@@ -2421,6 +2421,7 @@ https://github.com/cjsgoncalves/ArduinoIDE-UtilsBoards
 https://github.com/claws/BH1750
 https://github.com/ClayXrex/Arduino-StepperMotor
 https://github.com/ClemensAtElektor/Nano_Every_WS2812B
+https://github.com/clifarr/sunlocator
 https://github.com/climateguard/CG-Anem
 https://github.com/climateguard/RadSens
 https://github.com/closedcube/ClosedCube_BME680_Arduino
