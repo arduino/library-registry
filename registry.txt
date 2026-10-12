@@ -10171,3 +10171,4 @@ https://github.com/matthias-bs/M5SerialPngCapture.git|Contributed|M5SerialPngCap
 https://github.com/glutio/Buratino.git|Contributed|Buratino
 https://github.com/forgevolt/JoystickUtilities.git|Contributed|JoystickUtilities
 https://github.com/simsum/DTutils.git|Contributed|DTutils
+https://github.com/ShunTomino/ESP_MOVIE.git|Contributed|ESP_MOVIE
