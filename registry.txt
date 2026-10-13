@@ -10177,3 +10177,4 @@ https://github.com/cccat6/ESP32NFS.git|Contributed|ESP32NFS
 https://github.com/PipeVerri/SoftI2C-Shared-CLS.git|Contributed|SoftI2C_Shared_CLS
 https://github.com/clifarr/sunlocator.git|Contributed|SunLocator
 https://github.com/BOBILLEChristophe/Railuino.git|Contributed|Railuino
+https://github.com/beegee-tokyo/WisBlockLoRaWAN.git|Contributed|WisBlockLoRaWAN
