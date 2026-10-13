@@ -10183,3 +10183,4 @@ https://github.com/cccat6/ESP32NFS
 https://github.com/PipeVerri/SoftI2C-Shared-CLS
 https://github.com/BOBILLEChristophe/Railuino
 https://github.com/beegee-tokyo/WisBlockLoRaWAN
+https://github.com/abinsaji2008/GroqReasoning
