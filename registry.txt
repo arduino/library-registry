@@ -10193,3 +10193,4 @@ https://github.com/bonezegei/Bonezegei_MLX90614.git|Contributed|Bonezegei_MLX906
 https://github.com/RobTillaart/MB1242.git|Contributed|MB1242
 https://github.com/bonezegei/Bonezegei_Max30105.git|Contributed|Bonezegei_Max30105
 https://github.com/bonezegei/Bonezegei_RC522.git|Contributed|Bonezegei_RC522
+https://github.com/bonezegei/Bonezegei_BMP180.git|Contributed|Bonezegei_BMP180
