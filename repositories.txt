@@ -2253,6 +2253,7 @@ https://github.com/bonezegei/BonezegeiIoT
 https://github.com/bonezegei/Bonezegei_BME280
 https://github.com/bonezegei/Bonezegei_MLX90614
 https://github.com/bonezegei/Bonezegei_Max30105
+https://github.com/bonezegei/Bonezegei_RC522
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
