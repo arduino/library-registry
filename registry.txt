@@ -10185,3 +10185,4 @@ https://github.com/Michael-0-sys/ReflectJSON.git|Contributed|ReflectJSON
 https://github.com/iotfiy-solutions/Gateway_Library.git|Contributed|IOTFIY
 https://github.com/edpro/amperia_stem.git|Contributed|AmperiaSTEM
 https://github.com/Parvaz-Jamei/CodonTraceSwarm.git|Contributed|CodonTraceSwarm
+https://github.com/egnor/ok_arduino_clock64.git|Contributed|OK Clock64
