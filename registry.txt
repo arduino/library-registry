@@ -10189,3 +10189,4 @@ https://github.com/egnor/ok_arduino_clock64.git|Contributed|OK Clock64
 https://github.com/uecs-star/UARDECS_ESP32C3.git|Contributed|UARDECS_ESP32C3
 https://github.com/angeloINTJ/pico-enc28j60.git|Contributed|PicoENC28J60
 https://github.com/bonezegei/Bonezegei_BME280.git|Contributed|Bonezegei_BME280
+https://github.com/bonezegei/Bonezegei_MLX90614.git|Contributed|Bonezegei_MLX90614
