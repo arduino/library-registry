@@ -10188,6 +10188,7 @@ https://github.com/beegee-tokyo/WisBlockLoRaWAN
 https://github.com/abinsaji2008/GroqReasoning
 https://github.com/pravennn08/SerialLedger
 https://github.com/h3pereu/SchoolLib
+https://github.com/uecs-star/UARDECS_ESP32C3
 https://github.com/iotfiy-solutions/Gateway_Library
 https://github.com/edpro/amperia_stem
 https://github.com/Parvaz-Jamei/CodonTraceSwarm
