@@ -10187,3 +10187,4 @@ https://github.com/edpro/amperia_stem.git|Contributed|AmperiaSTEM
 https://github.com/Parvaz-Jamei/CodonTraceSwarm.git|Contributed|CodonTraceSwarm
 https://github.com/egnor/ok_arduino_clock64.git|Contributed|OK Clock64
 https://github.com/uecs-star/UARDECS_ESP32C3.git|Contributed|UARDECS_ESP32C3
+https://github.com/angeloINTJ/pico-enc28j60.git|Contributed|PicoENC28J60
