@@ -10191,3 +10191,4 @@ https://github.com/h3pereu/SchoolLib
 https://github.com/iotfiy-solutions/Gateway_Library
 https://github.com/edpro/amperia_stem
 https://github.com/Parvaz-Jamei/CodonTraceSwarm
+https://github.com/angeloINTJ/pico-enc28j60
