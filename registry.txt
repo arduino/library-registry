@@ -10208,3 +10208,4 @@ https://github.com/CytronTechnologies/MakerSumoRP2350.git|Contributed|MakerSumoR
 https://github.com/longtrinh/TinyGSM2.git|Contributed|TinyGSM2
 https://github.com/RakibulIslam1/indur-ui.git|Contributed|IndurUI
 https://github.com/koebelt/KoebeltLink.git|Contributed|KoebeltLink
+https://github.com/klenov1900-lang/DS3231_EASY.git|Contributed|DS3231_EASY
