@@ -10202,3 +10202,4 @@ https://github.com/pin-node/RPUMachines.git|Contributed|RPUMachines
 https://github.com/A-vrice/azaraC.git|Contributed|azaraC
 https://github.com/Michael-0-sys/ReflectINI.git|Contributed|ReflectINI
 https://github.com/AlixANNERAUD/lvgl_theme_shadcn.git|Contributed|lvgl_theme_shadcn
+https://github.com/pinscope-dev/pinscope-esp.git|Contributed|Pinscope
