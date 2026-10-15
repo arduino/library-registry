@@ -10211,3 +10211,4 @@ https://github.com/AlixANNERAUD/lvgl_theme_shadcn
 https://github.com/pinscope-dev/pinscope-esp
 https://github.com/CytronTechnologies/MakerSumoRP2350
 https://github.com/m5stack/M5Unit-IMU
+https://github.com/RakibulIslam1/indur-ui
