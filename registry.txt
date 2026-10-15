@@ -10205,3 +10205,4 @@ https://github.com/AlixANNERAUD/lvgl_theme_shadcn.git|Contributed|lvgl_theme_sha
 https://github.com/pinscope-dev/pinscope-esp.git|Contributed|Pinscope
 https://github.com/m5stack/M5Unit-IMU.git|Contributed|M5Unit-IMU
 https://github.com/CytronTechnologies/MakerSumoRP2350.git|Contributed|MakerSumoRP2350
+https://github.com/longtrinh/TinyGSM2.git|Contributed|TinyGSM2
