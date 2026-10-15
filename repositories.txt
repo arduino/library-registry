@@ -10209,4 +10209,5 @@ https://github.com/pin-node/RPUMachines
 https://github.com/A-vrice/azaraC
 https://github.com/AlixANNERAUD/lvgl_theme_shadcn
 https://github.com/pinscope-dev/pinscope-esp
+https://github.com/CytronTechnologies/MakerSumoRP2350
 https://github.com/m5stack/M5Unit-IMU
