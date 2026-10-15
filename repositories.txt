@@ -10205,7 +10205,7 @@ https://github.com/angeloINTJ/pico-enc28j60
 https://github.com/Dzarda7/EspSerialFlasher
 https://github.com/ismailcanernaz/Radio_GemTek
 https://github.com/pin-node/PinNode
-https://github.com/pin-node/RPUMachines
+https://github.com/wifijt/RPUMachines
 https://github.com/A-vrice/azaraC
 https://github.com/AlixANNERAUD/lvgl_theme_shadcn
 https://github.com/pinscope-dev/pinscope-esp
