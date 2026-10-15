@@ -10207,3 +10207,4 @@ https://github.com/ismailcanernaz/Radio_GemTek
 https://github.com/pin-node/PinNode
 https://github.com/pin-node/RPUMachines
 https://github.com/A-vrice/azaraC
+https://github.com/AlixANNERAUD/lvgl_theme_shadcn
