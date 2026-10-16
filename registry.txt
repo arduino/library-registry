@@ -10211,3 +10211,4 @@ https://github.com/koebelt/KoebeltLink.git|Contributed|KoebeltLink
 https://github.com/klenov1900-lang/DS3231_EASY.git|Contributed|DS3231_EASY
 https://github.com/dkaukov/esp32-freedv2400b.git|Contributed|esp32-freedv2400b
 https://github.com/eyr1n/RP2040PIO_HalfDuplex.git|Contributed|RP2040PIO_HalfDuplex
+https://github.com/kdi6033/OttoI2R.git|Contributed|OttoI2R
