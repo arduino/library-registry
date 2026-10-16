@@ -10219,3 +10219,6 @@ https://github.com/eyr1n/RP2040PIO_HalfDuplex
 https://github.com/dkaukov/esp32-freedv2400b
 https://github.com/kdi6033/OttoI2R
 https://github.com/soosp/ButtonEvents
+https://github.com/flmueller/x1xcp-serial
+https://github.com/flmueller/x1xcp-esp8266
+https://github.com/flmueller/x1xcp-esp32
