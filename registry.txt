@@ -10219,3 +10219,4 @@ https://github.com/flmueller/x1xcp-esp32.git|Contributed|x1xcp_esp32
 https://github.com/jourtempo/tempo-esp32.git|Contributed|JourTempo
 https://github.com/mauringo/BME690-Arduino-lib-unofficial.git|Contributed|BME690-Arduino-lib-unofficial
 https://github.com/mauringo/Bsec3-ArduinoLibrary-Unofficial.git|Contributed|Bsec3-ArduinoLibrary-Unofficial
+https://github.com/arduinoclassroom/SmoothUI.git|Contributed|SmoothUI
