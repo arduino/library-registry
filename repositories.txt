@@ -10225,3 +10225,4 @@ https://github.com/flmueller/x1xcp-esp32
 https://github.com/jourtempo/tempo-esp32
 https://github.com/mauringo/BME690-Arduino-lib-unofficial
 https://github.com/mauringo/Bsec3-ArduinoLibrary-Unofficial
+https://github.com/arduinoclassroom/SmoothUI
