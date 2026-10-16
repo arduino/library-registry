@@ -10217,4 +10217,5 @@ https://github.com/longtrinh/TinyGSM2
 https://github.com/koebelt/KoebeltLink
 https://github.com/eyr1n/RP2040PIO_HalfDuplex
 https://github.com/dkaukov/esp32-freedv2400b
-https://github.com/kdi6033/OttoI2R
+https://github.com/kdi6033/OttoI2
+https://github.com/patience4711/ESP32wifiConnect
