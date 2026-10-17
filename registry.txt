@@ -10222,3 +10222,4 @@ https://github.com/mauringo/Bsec3-ArduinoLibrary-Unofficial.git|Contributed|Bsec
 https://github.com/arduinoclassroom/SmoothUI.git|Contributed|SmoothUI
 https://github.com/tkhoi0821-svg/Casio-classwiz-880BTG-lib.git|Contributed|CasioST75256
 https://github.com/jotaefepece/ESP32ServicePortal.git|Contributed|ESP32ServicePortal
+https://github.com/JKBusse/ILI9341_GFX.git|Contributed|ILI9341_GFX
