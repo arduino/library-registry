@@ -10222,6 +10222,7 @@ https://github.com/kdi6033/OttoI2R
 https://github.com/soosp/ButtonEvents
 https://github.com/flmueller/x1xcp-serial
 https://github.com/flmueller/x1xcp-esp8266
+https://github.com/jotaefepece/ESP32ServicePortal
 https://github.com/flmueller/x1xcp-esp32
 https://github.com/jourtempo/tempo-esp32
 https://github.com/mauringo/BME690-Arduino-lib-unofficial
