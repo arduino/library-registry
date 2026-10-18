@@ -10225,3 +10225,4 @@ https://github.com/jotaefepece/ESP32ServicePortal.git|Contributed|ESP32ServicePo
 https://github.com/JKBusse/ILI9341_GFX.git|Contributed|ILI9341_GFX
 https://github.com/arduinoclassroom/Singlish-Converter.git|Contributed|Singlish Converter
 https://github.com/Michael-0-sys/ReflectState.git|Contributed|ReflectState
+https://github.com/arduinoclassroom/Tanglish-Converter.git|Contributed|Tanglish Converter
