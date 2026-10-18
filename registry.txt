@@ -10228,3 +10228,4 @@ https://github.com/Michael-0-sys/ReflectState.git|Contributed|ReflectState
 https://github.com/arduinoclassroom/Tanglish-Converter.git|Contributed|Tanglish Converter
 https://github.com/RobTillaart/LTC2941.git|Contributed|LTC2941
 https://github.com/ismailcanernaz/TDQ6A.git|Contributed|TDQ6A
+https://github.com/StubbyDevs/sm16380-esp32s3-dma.git|Contributed|SM16380_DMA
