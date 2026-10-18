@@ -10233,3 +10233,4 @@ https://github.com/arduinoclassroom/SmoothUI
 https://github.com/JKBusse/ILI9341_GFX
 https://github.com/arduinoclassroom/Singlish-Converter
 https://github.com/arduinoclassroom/Tanglish-Converter
+https://github.com/ismailcanernaz/TDQ6A
