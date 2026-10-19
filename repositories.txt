@@ -10235,3 +10235,4 @@ https://github.com/arduinoclassroom/Singlish-Converter
 https://github.com/arduinoclassroom/Tanglish-Converter
 https://github.com/ismailcanernaz/TDQ6A
 https://github.com/StubbyDevs/sm16380-esp32s3-dma
+https://github.com/Super-Jupiter/superjupiter-sensor-quality
