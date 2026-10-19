@@ -10237,3 +10237,4 @@ https://github.com/ismailcanernaz/TDQ6A
 https://github.com/StubbyDevs/sm16380-esp32s3-dma
 https://github.com/Super-Jupiter/superjupiter-sensor-quality
 https://github.com/Infineon/arduino-ottu-target
+https://github.com/Super-Jupiter/superjupiter-sample-window
