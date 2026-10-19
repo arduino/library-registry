@@ -10233,3 +10233,4 @@ https://github.com/Super-Jupiter/superjupiter-sensor-quality.git|Contributed|Sup
 https://github.com/Infineon/arduino-ottu-target.git|Contributed|ottu-target
 https://github.com/Super-Jupiter/superjupiter-sample-window.git|Contributed|SuperJupiterSampleWindow
 https://github.com/klenov1900-lang/PCFKeypad_EASY.git|Contributed|PCFKeypad_EASY
+https://github.com/hamidkm9/SEFR-Arduino.git|Contributed|SEFR
