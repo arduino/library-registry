@@ -10229,3 +10229,4 @@ https://github.com/arduinoclassroom/Tanglish-Converter.git|Contributed|Tanglish 
 https://github.com/RobTillaart/LTC2941.git|Contributed|LTC2941
 https://github.com/ismailcanernaz/TDQ6A.git|Contributed|TDQ6A
 https://github.com/StubbyDevs/sm16380-esp32s3-dma.git|Contributed|SM16380_DMA
+https://github.com/Super-Jupiter/superjupiter-sensor-quality.git|Contributed|SuperJupiterSensorQuality
