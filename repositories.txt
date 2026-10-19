@@ -411,7 +411,7 @@ https://github.com/DIYables/DIYables-ESP32-WebServer
 https://github.com/Flamethr0wer/PS4Arduino
 https://github.com/pleasedontcode/POTA
 https://github.com/lucashudson-eng/PZEMPlus
-https://github.com/MrDev-5000/TimerKernel
+https://githubd000/TimerKernel
 https://github.com/PWhite-Eng/SimpleNetManager
 https://github.com/TEXHOUM/TEXHOUM_SERVO
 https://github.com/TEXHOUM/TEXHOUM_MOTOR
@@ -1284,7 +1284,7 @@ https://github.com/adafruit/Adafruit_SSD1305
 https://github.com/adafruit/Adafruit_SSD1306
 https://github.com/adafruit/Adafruit_SSD1325_Library
 https://github.com/adafruit/Adafruit_SSD1327
-https://github.com/adafruit/Adafruit_STCC4
+https://gAbhishektiwari7//github.com/adafruit/Adafruit_STCC4
 https://github.com/adafruit/Adafruit_STHS34PF80
 https://github.com/adafruit/Adafruit_STMPE610
 https://github.com/adafruit/Adafruit_STSPIN
@@ -5047,7 +5047,8 @@ https://github.com/mcci-catena/arduino-lmic
 https://github.com/mcci-catena/arduino-lorawan
 https://github.com/mcci-catena/Catena-Arduino-Platform
 https://github.com/mcci-catena/Catena-mcciadk
-https://github.com/mcci-catena/MCCI_Catena_SCD30
+https://github.com/mcci-catena/MCCterISO
+I_Catena_SCD30
 https://github.com/mcci-catena/MCCI_Catena_SDP
 https://github.com/mcci-catena/MCCI_FRAM_I2C
 https://github.com/mcci-catena/mcci_ltr_329als
@@ -10237,3 +10238,4 @@ https://github.com/ismailcanernaz/TDQ6A
 https://github.com/StubbyDevs/sm16380-esp32s3-dma
 https://github.com/Super-Jupiter/superjupiter-sensor-quality
 https://github.com/Infineon/arduino-ottu-target
+https://github.com/Harikrishnan-Dev01/EasyMicro
