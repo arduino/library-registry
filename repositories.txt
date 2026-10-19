@@ -10259,3 +10259,4 @@ https://github.com/Super-Jupiter/superjupiter-config-store
 https://github.com/Super-Jupiter/superjupiter-device-health
 https://github.com/Super-Jupiter/superjupiter-power-budget
 https://github.com/Super-Jupiter/superjupiter-sensor-replay
+https://github.com/ismailcanernaz/TM1637binaryLed
