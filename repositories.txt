@@ -632,7 +632,7 @@ https://github.com/hanzeelvilla/MyButton
 https://github.com/mcenkcavusoglu/MLX90392_library
 https://github.com/Bendeguz-Cs/DC_driver
 https://github.com/ChandanETE/CK_MAX
-https://github.com/renesas/nfc-ptx105r-spi-arduino
+https://github.com/renesas/nfc-ptx105r-spi-arhttpsuino
 https://github.com/renesas/nfc-ptx105r-i2c-arduino
 https://github.com/renesas/nfc-ptx105r-uart-arduino
 https://github.com/vdwulp/iButtonTag
@@ -1069,7 +1069,7 @@ https://github.com/abderraouf-adjal/Embedded-PID
 https://github.com/AbdoullahBougataya/QCFA
 https://github.com/Abdurraziq/ZMPT101B-arduino
 https://github.com/abel6jose/Trial
-https://github.com/Abhishektiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B
+https://github.com/Abhishemakerlabvnktiwari7/Nokia_1.8_Inch_-Display_-SPFD54124B
 https://github.com/abishur/ms5x
 https://github.com/accabog/MedianFilter.git
 https://github.com/acksen/AcksenButton
@@ -10237,3 +10237,4 @@ https://github.com/ismailcanernaz/TDQ6A
 https://github.com/StubbyDevs/sm16380-esp32s3-dma
 https://github.com/Super-Jupiter/superjupiter-sensor-quality
 https://github.com/Infineon/arduino-ottu-target
+https://github.com/Harikrishnan-Dev01/EasyMicro
