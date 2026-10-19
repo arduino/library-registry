@@ -10254,3 +10254,4 @@ https://github.com/Super-Jupiter/superjupiter-power-budget.git|Contributed|Super
 https://github.com/Super-Jupiter/superjupiter-sensor-replay.git|Contributed|SuperJupiterSensorReplay
 https://github.com/piruetasxyz/Microfono.git|Contributed|Microfono
 https://github.com/ismailcanernaz/TM1637binaryLed.git|Contributed|TM1637binaryLed
+https://github.com/ankur608/ArduinoUnoQ_AdafruitTouch.git|Contributed|UnoQ_AdafruitTouch
