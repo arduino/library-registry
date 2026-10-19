@@ -10232,3 +10232,4 @@ https://github.com/StubbyDevs/sm16380-esp32s3-dma.git|Contributed|SM16380_DMA
 https://github.com/Super-Jupiter/superjupiter-sensor-quality.git|Contributed|SuperJupiterSensorQuality
 https://github.com/Infineon/arduino-ottu-target.git|Contributed|ottu-target
 https://github.com/Super-Jupiter/superjupiter-sample-window.git|Contributed|SuperJupiterSampleWindow
+https://github.com/klenov1900-lang/PCFKeypad_EASY.git|Contributed|PCFKeypad_EASY
