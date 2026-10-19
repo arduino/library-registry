@@ -10252,3 +10252,4 @@ https://github.com/Super-Jupiter/superjupiter-config-store.git|Contributed|Super
 https://github.com/Super-Jupiter/superjupiter-device-health.git|Contributed|SuperJupiterDeviceHealth
 https://github.com/Super-Jupiter/superjupiter-power-budget.git|Contributed|SuperJupiterPowerBudget
 https://github.com/Super-Jupiter/superjupiter-sensor-replay.git|Contributed|SuperJupiterSensorReplay
+https://github.com/piruetasxyz/Microfono.git|Contributed|Microfono
