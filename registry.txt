@@ -10255,3 +10255,4 @@ https://github.com/Super-Jupiter/superjupiter-sensor-replay.git|Contributed|Supe
 https://github.com/piruetasxyz/Microfono.git|Contributed|Microfono
 https://github.com/ismailcanernaz/TM1637binaryLed.git|Contributed|TM1637binaryLed
 https://github.com/ankur608/ArduinoUnoQ_AdafruitTouch.git|Contributed|UnoQ_AdafruitTouch
+https://github.com/Harikrishnan-Dev01/EasyMicro.git|Contributed|EasyMicro
