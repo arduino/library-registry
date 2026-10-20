@@ -10261,3 +10261,4 @@ https://github.com/Super-Jupiter/superjupiter-sensor-toolkit.git|Contributed|Sup
 https://github.com/Super-Jupiter/superjupiter-embedded-reliability.git|Contributed|SuperJupiterEmbeddedReliability
 https://github.com/rkubera/ArdPortal.git|Contributed|ArdPortal
 https://github.com/rvisent/MAX2870.git|Contributed|MAX2870
+https://github.com/adafruit/Adafruit_seesawPeripheral.git|Recommended|Adafruit seesaw Peripheral
