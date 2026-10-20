@@ -10265,4 +10265,5 @@ https://github.com/Harikrishnan-Dev01/EasyMicro
 https://github.com/ARDUnia/ARDUniaButton
 https://github.com/Super-Jupiter/superjupiter-sensor-toolkit
 https://github.com/Super-Jupiter/superjupiter-embedded-reliability
+https://github.com/rvisent/MAX2870
 https://github.com/rkubera/ArdPortal
