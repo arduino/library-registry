@@ -10260,3 +10260,4 @@ https://github.com/ARDUnia/ARDUniaButton.git|Contributed|ARDUniaButton
 https://github.com/Super-Jupiter/superjupiter-sensor-toolkit.git|Contributed|SuperJupiterSensorToolkit
 https://github.com/Super-Jupiter/superjupiter-embedded-reliability.git|Contributed|SuperJupiterEmbeddedReliability
 https://github.com/rkubera/ArdPortal.git|Contributed|ArdPortal
+https://github.com/rvisent/MAX2870.git|Contributed|MAX2870
