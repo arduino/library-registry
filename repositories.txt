@@ -1263,6 +1263,7 @@ https://github.com/adafruit/Adafruit_RA8875
 https://github.com/adafruit/Adafruit_S-35710
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_Seesaw
+https://github.com/adafruit/Adafruit_seesawPeripheral
 https://github.com/adafruit/Adafruit_Sensor
 https://github.com/adafruit/Adafruit_Sensor_Calibration
 https://github.com/adafruit/Adafruit_SensorLab
@@ -10267,4 +10268,3 @@ https://github.com/Super-Jupiter/superjupiter-sensor-toolkit
 https://github.com/Super-Jupiter/superjupiter-embedded-reliability
 https://github.com/rvisent/MAX2870
 https://github.com/rkubera/ArdPortal
-https://github.com/adafruit/Adafruit_seesawPeripheral
