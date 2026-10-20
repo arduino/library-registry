@@ -10257,3 +10257,5 @@ https://github.com/ismailcanernaz/TM1637binaryLed.git|Contributed|TM1637binaryLe
 https://github.com/ankur608/ArduinoUnoQ_AdafruitTouch.git|Contributed|UnoQ_AdafruitTouch
 https://github.com/Harikrishnan-Dev01/EasyMicro.git|Contributed|EasyMicro
 https://github.com/ARDUnia/ARDUniaButton.git|Contributed|ARDUniaButton
+https://github.com/Super-Jupiter/superjupiter-sensor-toolkit.git|Contributed|SuperJupiterSensorToolkit
+https://github.com/Super-Jupiter/superjupiter-embedded-reliability.git|Contributed|SuperJupiterEmbeddedReliability
