@@ -10270,3 +10270,6 @@ https://github.com/rvisent/MAX2870
 https://github.com/rkubera/ArdPortal
 https://github.com/VoltinoLabs/Voltino-TriSense-Library
 https://github.com/NimalarubanGokul/MotorDrive.git
+https://github.com/FelipeDadison/CommandInterface
+https://github.com/FelipeDadison/DebugLogger
+https://github.com/FelipeDadison/NetSerial
