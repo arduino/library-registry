@@ -10267,3 +10267,4 @@ https://github.com/NimalarubanGokul/MotorDrive.git|Contributed|MotorDrive
 https://github.com/FelipeDadison/CommandInterface.git|Contributed|CommandInterface
 https://github.com/FelipeDadison/DebugLogger.git|Contributed|DebugLogger
 https://github.com/FelipeDadison/NetSerial.git|Contributed|NetSerial
+https://github.com/sitronlabs/SitronLabs_Qiachip_RX480E_Arduino_Library.git|Contributed|Sitron Labs RX480E Arduino Library
