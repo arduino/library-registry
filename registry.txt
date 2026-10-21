@@ -10264,3 +10264,6 @@ https://github.com/rvisent/MAX2870.git|Contributed|MAX2870
 https://github.com/adafruit/Adafruit_seesawPeripheral.git|Recommended|Adafruit seesaw Peripheral
 https://github.com/VoltinoLabs/Voltino-TriSense-Library.git|Contributed|Voltino_TriSense
 https://github.com/NimalarubanGokul/MotorDrive.git|Contributed|MotorDrive
+https://github.com/FelipeDadison/CommandInterface.git|Contributed|CommandInterface
+https://github.com/FelipeDadison/DebugLogger.git|Contributed|DebugLogger
+https://github.com/FelipeDadison/NetSerial.git|Contributed|NetSerial
