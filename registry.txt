@@ -10269,3 +10269,4 @@ https://github.com/FelipeDadison/DebugLogger.git|Contributed|DebugLogger
 https://github.com/FelipeDadison/NetSerial.git|Contributed|NetSerial
 https://github.com/sitronlabs/SitronLabs_Qiachip_RX480E_Arduino_Library.git|Contributed|Sitron Labs RX480E Arduino Library
 https://github.com/sitronlabs/SitronLabs_TexasInstruments_INA219_Arduino_Library.git|Contributed|Sitron Labs INA219 Arduino Library
+https://github.com/BOBILLEChristophe/DCC-LocoAddr.git|Contributed|DCC-LocoAddr
