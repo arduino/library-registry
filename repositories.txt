@@ -10269,3 +10269,4 @@ https://github.com/Super-Jupiter/superjupiter-embedded-reliability
 https://github.com/rvisent/MAX2870
 https://github.com/rkubera/ArdPortal
 https://github.com/VoltinoLabs/Voltino-TriSense-Library
+https://github.com/NimalarubanGokul/MotorDrive.git
