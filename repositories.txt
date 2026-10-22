@@ -2268,6 +2268,7 @@ https://github.com/bonezegei/Bonezegei_DS18B20
 https://github.com/bonezegei/Bonezegei_OneWire
 https://github.com/bonezegei/Bonezegei_PZEM004T
 https://github.com/bonezegei/Bonezegei_DS1302
+https://github.com/bonezegei/Bonezegei_HMC5883L
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
