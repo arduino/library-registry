@@ -10280,3 +10280,4 @@ https://github.com/bonezegei/Bonezegei_Keypad.git|Contributed|Bonezegei Keypad
 https://github.com/bonezegei/Bonezegei_TM1638.git|Contributed|Bonezegei_TM1638
 https://github.com/code-hoysala/MeshLink.git|Contributed|MeshLink
 https://github.com/bonezegei/Bonezegei_PN5180.git|Contributed|Bonezegei_PN5180
+https://github.com/mauringo/arduino-bma580.git|Contributed|BMA580
