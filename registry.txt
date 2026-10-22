@@ -10277,3 +10277,4 @@ https://github.com/bonezegei/Bonezegei_DS1302.git|Contributed|Bonezegei_DS1302
 https://github.com/TulioCarmona/TeensyStepDriver.git|Contributed|TeensyStepDriver
 https://github.com/bonezegei/Bonezegei_HMC5883L.git|Contributed|Bonezegei_HMC5883L
 https://github.com/bonezegei/Bonezegei_Keypad.git|Contributed|Bonezegei Keypad
+https://github.com/bonezegei/Bonezegei_TM1638.git|Contributed|Bonezegei_TM1638
