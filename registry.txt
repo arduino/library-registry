@@ -10278,3 +10278,4 @@ https://github.com/TulioCarmona/TeensyStepDriver.git|Contributed|TeensyStepDrive
 https://github.com/bonezegei/Bonezegei_HMC5883L.git|Contributed|Bonezegei_HMC5883L
 https://github.com/bonezegei/Bonezegei_Keypad.git|Contributed|Bonezegei Keypad
 https://github.com/bonezegei/Bonezegei_TM1638.git|Contributed|Bonezegei_TM1638
+https://github.com/code-hoysala/MeshLink.git|Contributed|MeshLink
