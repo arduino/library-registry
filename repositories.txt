@@ -2265,6 +2265,13 @@ https://github.com/bonezegei/Bonezegei_Max30105
 https://github.com/bonezegei/Bonezegei_RC522
 https://github.com/bonezegei/Bonezegei_BMP180
 https://github.com/bonezegei/Bonezegei_WifiManager
+https://github.com/bonezegei/Bonezegei_DS18B20
+https://github.com/bonezegei/Bonezegei_OneWire
+https://github.com/bonezegei/Bonezegei_PZEM004T
+https://github.com/bonezegei/Bonezegei_DS1302
+https://github.com/bonezegei/Bonezegei_HMC5883L
+https://github.com/bonezegei/Bonezegei_Keypad
+https://github.com/bonezegei/Bonezegei_TM1638
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
@@ -6997,11 +7004,13 @@ https://github.com/sitronlabs/SitronLabs_Generic_EEPROM_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Onsemi_FUSB302_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Pixart_PAT9130EW_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_Qiachip_RX480E_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_STMicroelectronics_LIS2DH12_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_SinoWealth_SH1106_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Sitronix_ST75256_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Solomon_SSD1306_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_TexasInstruments_DACXX11_Arduino_Library
+https://github.com/sitronlabs/SitronLabs_TexasInstruments_INA219_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_TexasInstruments_OPT3001_Arduino_Library
 https://github.com/sitronlabs/SitronLabs_Weikai_WK2132_Arduino_Library
 https://github.com/sivaadchu/SmartCard
@@ -10270,3 +10279,9 @@ https://github.com/Super-Jupiter/superjupiter-embedded-reliability
 https://github.com/rvisent/MAX2870
 https://github.com/rkubera/ArdPortal
 https://github.com/VoltinoLabs/Voltino-TriSense-Library
+https://github.com/NimalarubanGokul/MotorDrive.git
+https://github.com/FelipeDadison/CommandInterface
+https://github.com/FelipeDadison/DebugLogger
+https://github.com/FelipeDadison/NetSerial
+https://github.com/BOBILLEChristophe/DCC-LocoAddr
+https://github.com/TulioCarmona/TeensyStepDriver
