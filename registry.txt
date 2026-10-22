@@ -10273,3 +10273,4 @@ https://github.com/BOBILLEChristophe/DCC-LocoAddr.git|Contributed|DCC-LocoAddr
 https://github.com/bonezegei/Bonezegei_DS18B20.git|Contributed|Bonezegei_DS18B20
 https://github.com/bonezegei/Bonezegei_OneWire.git|Contributed|Bonezegei_OneWire
 https://github.com/bonezegei/Bonezegei_PZEM004T.git|Contributed|Bonezegei_PZEM004T
+https://github.com/bonezegei/Bonezegei_DS1302.git|Contributed|Bonezegei_DS1302
