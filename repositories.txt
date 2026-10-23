@@ -2272,6 +2272,11 @@ https://github.com/bonezegei/Bonezegei_DS1302
 https://github.com/bonezegei/Bonezegei_HMC5883L
 https://github.com/bonezegei/Bonezegei_Keypad
 https://github.com/bonezegei/Bonezegei_TM1638
+https://github.com/bonezegei/Bonezegei_PN5180
+https://github.com/bonezegei/Bonezegei_MAX7219
+https://github.com/bonezegei/Bonezegei_VL53L0
+https://github.com/bonezegei/Bonezegei_SX1278
+https://github.com/bonezegei/Bonezegei_NeuralNet
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
@@ -6436,6 +6441,9 @@ https://github.com/RobTillaart/logicAnalyzer
 https://github.com/RobTillaart/Logistic
 https://github.com/RobTillaart/LTC2485
 https://github.com/RobTillaart/LTC2941
+https://github.com/RobTillaart/LTC2942_RT
+https://github.com/RobTillaart/LTC2943
+https://github.com/RobTillaart/LTC2944
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LTR390_DFR
 https://github.com/RobTillaart/LTR390_RT
@@ -10214,7 +10222,6 @@ https://github.com/BOBILLEChristophe/Railuino
 https://github.com/beegee-tokyo/WisBlockLoRaWAN
 https://github.com/abinsaji2008/GroqReasoning
 https://github.com/pravennn08/SerialLedger
-https://github.com/h3pereu/SchoolLib
 https://github.com/uecs-star/UARDECS_ESP32C3
 https://github.com/iotfiy-solutions/Gateway_Library
 https://github.com/edpro/amperia_stem
@@ -10241,6 +10248,7 @@ https://github.com/flmueller/x1xcp-esp8266
 https://github.com/jotaefepece/ESP32ServicePortal
 https://github.com/flmueller/x1xcp-esp32
 https://github.com/jourtempo/tempo-esp32
+https://github.com/mauringo/arduino-bma580
 https://github.com/mauringo/BME690-Arduino-lib-unofficial
 https://github.com/mauringo/Bsec3-ArduinoLibrary-Unofficial
 https://github.com/arduinoclassroom/SmoothUI
@@ -10285,3 +10293,4 @@ https://github.com/FelipeDadison/DebugLogger
 https://github.com/FelipeDadison/NetSerial
 https://github.com/BOBILLEChristophe/DCC-LocoAddr
 https://github.com/TulioCarmona/TeensyStepDriver
+https://github.com/placidanomaly/Crowpanel_2.1
