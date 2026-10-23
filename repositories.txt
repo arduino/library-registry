@@ -88,6 +88,7 @@ https://github.com/SolderedElectronics/Soldered-VL53L1X-Laser-Distance-Sensor-Ar
 https://github.com/SolderedElectronics/Soldered-Inputronic-BRIDGE-Library
 https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Arduino-Library
 https://github.com/code-hoysala/MeshLink
+https://github.com/code-hoysala/Bridge555
 https://github.com/technikEngr/ErovoutikaErobot
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
