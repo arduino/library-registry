@@ -10070,7 +10070,7 @@ https://github.com/Microeden/MicroedenConnect
 https://github.com/Microeden/MyDotLib
 https://github.com/syntax1269/SNMP_Embedded
 https://github.com/bcan77/CiftPulsar-OTA
-https://github.com/ailagari/LagariMotors
+https://github.com/ailagari/JMCMotors
 https://github.com/flova-platform/flova-firmware
 https://github.com/ShadowShahriar/Candle
 https://github.com/pulsync/pulsync-arduino
