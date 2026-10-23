@@ -10288,3 +10288,4 @@ https://github.com/bonezegei/Bonezegei_SX1278.git|Contributed|Bonezegei_SX1278
 https://github.com/bonezegei/Bonezegei_NeuralNet.git|Contributed|Bonezegei_NeuralNet
 https://github.com/RobTillaart/LTC2942_RT.git|Contributed|LTC2942_RT
 https://github.com/RobTillaart/LTC2943.git|Contributed|LTC2943
+https://github.com/RobTillaart/LTC2944.git|Contributed|LTC2944
