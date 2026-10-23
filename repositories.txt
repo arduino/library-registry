@@ -6443,6 +6443,7 @@ https://github.com/RobTillaart/LTC2485
 https://github.com/RobTillaart/LTC2941
 https://github.com/RobTillaart/LTC2942_RT
 https://github.com/RobTillaart/LTC2943
+https://github.com/RobTillaart/LTC2944
 https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LTR390_DFR
 https://github.com/RobTillaart/LTR390_RT
