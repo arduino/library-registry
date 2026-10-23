@@ -9949,7 +9949,7 @@ https://github.com/Microeden/MyDotLib.git|Contributed|MyDot
 https://github.com/syntax1269/SNMP_Embedded.git|Contributed|SNMP_Embedded
 https://gitlab.com/atesin/ringbufferstream.git|Contributed|RingBufferStream
 https://github.com/bcan77/CiftPulsar-OTA.git|Contributed|CiftPulsarOTA
-https://github.com/ailagari/LagariMotors.git|Contributed|LagariMotors
+https://github.com/ailagari/JMCMotors.git|Contributed|JMCMotors
 https://github.com/mumanchu/AS7331UVSensor.git|Contributed|AS7331UVSensor
 https://github.com/MADS-NET/arduino_mads.git|Contributed|MadsUnoAgent
 https://github.com/klenov1900-lang/TM1637_6Easy.git|Contributed|TM1637_6Easy
