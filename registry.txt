@@ -10282,3 +10282,7 @@ https://github.com/code-hoysala/MeshLink.git|Contributed|MeshLink
 https://github.com/bonezegei/Bonezegei_PN5180.git|Contributed|Bonezegei_PN5180
 https://github.com/mauringo/arduino-bma580.git|Contributed|BMA580
 https://github.com/placidanomaly/Crowpanel_2.1.git|Contributed|Crowpanel_2.1
+https://github.com/bonezegei/Bonezegei_MAX7219.git|Contributed|Bonezegei_MAX7219
+https://github.com/bonezegei/Bonezegei_VL53L0.git|Contributed|Bonezegei_VL53L0
+https://github.com/bonezegei/Bonezegei_SX1278.git|Contributed|Bonezegei_SX1278
+https://github.com/bonezegei/Bonezegei_NeuralNet.git|Contributed|Bonezegei_NeuralNet
