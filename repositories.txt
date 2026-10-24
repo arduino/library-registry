@@ -3684,7 +3684,7 @@ https://github.com/HamzaYslmn/detaBaseESP8266
 https://github.com/HamzaYslmn/esp-rtosSerial
 https://github.com/HamzaYslmn/esp32-tunnel
 https://github.com/HamzaYslmn/espfetch
-https://github.com/HamzaYslmn/Esp-BLE-Web
+https://github.com/HamzaYslmn/Esp-BleDeck
 https://github.com/HamzaYslmn/python-esp-bridge
 https://github.com/HamzaYslmn/esp-ps5
 https://github.com/HamzaYslmn/esp-rtosLogger
