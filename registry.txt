@@ -10295,3 +10295,4 @@ https://github.com/joy-it/JoyIT_Robotarm_Arduino.git|Contributed|Joy-IT Robot Ar
 https://github.com/code-hoysala/Bridge555.git|Contributed|Bridge555
 https://github.com/jobitjoseph/LottieMCU.git|Contributed|LottieMCU
 https://github.com/phm-tuyenn/ps4-esp32-lib.git|Contributed|PS4Bluepad32
+https://github.com/ania-7abc/Lcd2004.git|Contributed|Lcd2004
