@@ -2278,6 +2278,7 @@ https://github.com/bonezegei/Bonezegei_MAX7219
 https://github.com/bonezegei/Bonezegei_VL53L0
 https://github.com/bonezegei/Bonezegei_SX1278
 https://github.com/bonezegei/Bonezegei_NeuralNet
+https://github.com/bonezegei/Bonezegei_SHT31
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
@@ -9304,6 +9305,7 @@ https://github.com/dac1e/Somo1ELV
 https://github.com/00kenno/SerialWeb
 https://github.com/DFRobot/DFRobot_AI10
 https://github.com/DFRobot/DFRobot_RTK_4G
+https://github.com/DFRobot/DFRobot_RTK_LoRa
 https://github.com/filipporaciti/TS_lib.git
 https://github.com/maxrangner/GawiButtons
 https://github.com/goBILDA-Official/goBILDA-Pinpoint-Arduino-Library
