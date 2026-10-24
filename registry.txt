@@ -10294,3 +10294,4 @@ https://github.com/mumanchu/QMC5883PMagnetometer.git|Contributed|QMC5883PMagneto
 https://github.com/joy-it/JoyIT_Robotarm_Arduino.git|Contributed|Joy-IT Robot Arm Arduino
 https://github.com/code-hoysala/Bridge555.git|Contributed|Bridge555
 https://github.com/jobitjoseph/LottieMCU.git|Contributed|LottieMCU
+https://github.com/phm-tuyenn/ps4-esp32-lib.git|Contributed|PS4Bluepad32
