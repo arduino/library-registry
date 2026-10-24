@@ -10291,3 +10291,4 @@ https://github.com/RobTillaart/LTC2944.git|Contributed|LTC2944
 https://github.com/DFRobot/DFRobot_RTK_LoRa.git|Contributed|DFRobot_RTK_LoRa
 https://github.com/bonezegei/Bonezegei_SHT31.git|Contributed|Bonezegei SHT31
 https://github.com/mumanchu/QMC5883PMagnetometer.git|Contributed|QMC5883PMagnetometer
+https://github.com/joy-it/JoyIT_Robotarm_Arduino.git|Contributed|Joy-IT Robot Arm Arduino
