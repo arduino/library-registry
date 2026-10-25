@@ -93,6 +93,7 @@ https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Ardui
 https://github.com/code-hoysala/MeshLink
 https://github.com/code-hoysala/Bridge555
 https://github.com/code-hoysala/ToneTransceiver
+https://github.com/code-hoysala/MotorShield
 https://github.com/technikEngr/ErovoutikaErobot
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
