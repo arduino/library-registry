@@ -10299,3 +10299,4 @@ https://github.com/ania-7abc/Lcd2004.git|Contributed|Lcd2004
 https://github.com/tkgktyk/analog-mimic-arduino.git|Contributed|AnalogMimic
 https://github.com/code-hoysala/ToneTransceiver.git|Contributed|ToneTransceiver
 https://github.com/code-hoysala/MotorShield.git|Contributed|MotorShield
+https://github.com/thegraywaver/EasyMatter.git|Contributed|EasyMatter
