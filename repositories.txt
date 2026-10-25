@@ -1,3 +1,4 @@
+https://github.com/jobitjoseph/LottieMCU
 https://github.com/joy-it/JoyIT_Robotarm_Arduino
 https://github.com/mumanchu/QMC5883PMagnetometer
 https://github.com/ankur608/ArduinoUnoQ_AdafruitTouch
@@ -10299,3 +10300,6 @@ https://github.com/FelipeDadison/NetSerial
 https://github.com/BOBILLEChristophe/DCC-LocoAddr
 https://github.com/TulioCarmona/TeensyStepDriver
 https://github.com/placidanomaly/Crowpanel_2.1
+https://github.com/ania-7abc/Lcd2004
+https://github.com/phm-tuyenn/ps4-esp32-lib
+https://github.com/tkgktyk/analog-mimic-arduino
