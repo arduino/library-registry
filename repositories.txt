@@ -10307,3 +10307,4 @@ https://github.com/phm-tuyenn/ps4-esp32-lib
 https://github.com/tkgktyk/analog-mimic-arduino
 https://github.com/thegraywaver/EasyMatter
 https://github.com/SerhiiLe/asyncTelegramAPI
+https://github.com/ailagari/JMCMotors
