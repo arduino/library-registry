@@ -10305,3 +10305,7 @@ https://github.com/ailagari/JMCMotors.git|Contributed|JMCMotors
 https://github.com/code-hoysala/System.git|Contributed|system
 https://github.com/code-hoysala/sysmon.git|Contributed|sysmon
 https://github.com/Chris-FizziQ/FizziQ-Arduino.git|Contributed|FizziQ
+https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_audio_driver.git|Contributed|DevLab_AudioDriver
+https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_audio_tools.git|Contributed|DevLab_AudioTools
+https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_libhelix.git|Contributed|DevLab_LibHelix
+https://github.com/UNIT-Electronics-MX/unit_devlab_codec_library.git|Contributed|DevLab_Codec_ES
