@@ -10304,3 +10304,4 @@ https://github.com/SerhiiLe/asyncTelegramAPI.git|Contributed|asyncTelegramAPI
 https://github.com/ailagari/JMCMotors.git|Contributed|JMCMotors
 https://github.com/code-hoysala/System.git|Contributed|system
 https://github.com/code-hoysala/sysmon.git|Contributed|sysmon
+https://github.com/Chris-FizziQ/FizziQ-Arduino.git|Contributed|FizziQ
