@@ -10303,3 +10303,4 @@ https://github.com/thegraywaver/EasyMatter.git|Contributed|EasyMatter
 https://github.com/SerhiiLe/asyncTelegramAPI.git|Contributed|asyncTelegramAPI
 https://github.com/ailagari/JMCMotors.git|Contributed|JMCMotors
 https://github.com/code-hoysala/System.git|Contributed|system
+https://github.com/code-hoysala/sysmon.git|Contributed|sysmon
