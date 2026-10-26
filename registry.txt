@@ -10302,3 +10302,4 @@ https://github.com/code-hoysala/MotorShield.git|Contributed|MotorShield
 https://github.com/thegraywaver/EasyMatter.git|Contributed|EasyMatter
 https://github.com/SerhiiLe/asyncTelegramAPI.git|Contributed|asyncTelegramAPI
 https://github.com/ailagari/JMCMotors.git|Contributed|JMCMotors
+https://github.com/code-hoysala/System.git|Contributed|system
