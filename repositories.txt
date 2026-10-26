@@ -10310,3 +10310,4 @@ https://github.com/tkgktyk/analog-mimic-arduino
 https://github.com/thegraywaver/EasyMatter
 https://github.com/SerhiiLe/asyncTelegramAPI
 https://github.com/ailagari/JMCMotors
+https://github.com/Chris-FizziQ/FizziQ-Arduino
