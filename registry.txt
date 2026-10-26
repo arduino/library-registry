@@ -9306,7 +9306,7 @@ https://github.com/metehoca/Mete_Hoca_Qwilino.git|Contributed|Mete Hoca Qwilino
 https://github.com/chunix64/Universal-Arduino-Zalo-Bot.git|Contributed|UniversalZaloBot
 https://github.com/M7MEDpro/UltrasonicX.git|Contributed|UltrasonicX
 https://github.com/brestac/EventSource.git|Contributed|EventSource
-https://github.com/HamzaYslmn/Esp-BLE-Web.git|Contributed|EspBleWeb
+https://github.com/HamzaYslmn/Esp-BleDeck.git|Contributed|EspBleWeb
 https://github.com/OrkaLxrd/TinyPortal.git|Contributed|TinyPortal
 https://github.com/alkonosst/AdvancedCLI.git|Contributed|AdvancedCLI
 https://github.com/HamzaYslmn/esp-ps5.git|Contributed|esp-ps5
