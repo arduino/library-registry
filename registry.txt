@@ -10312,3 +10312,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_codec_library.git|Contributed
 https://github.com/UNIT-Electronics-MX/unit_devlab_trafficlight_library.git|Contributed|DevLab_TrafficLights
 https://github.com/bmikuska46/opentherm_library.git|Contributed|OpenThermPlus
 https://github.com/dineshpalsingh1989/ForgeModbus.git|Contributed|ForgeModbus
+https://github.com/Hackingstan/HACKINGSTAN_display_GC9307.git|Contributed|HACKINGSTAN_GC9307
