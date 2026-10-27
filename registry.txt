@@ -10314,3 +10314,4 @@ https://github.com/bmikuska46/opentherm_library.git|Contributed|OpenThermPlus
 https://github.com/dineshpalsingh1989/ForgeModbus.git|Contributed|ForgeModbus
 https://github.com/Hackingstan/HACKINGSTAN_display_GC9307.git|Contributed|HACKINGSTAN_GC9307
 https://github.com/pairble/pairble-arduino.git|Contributed|pairble
+https://github.com/SerhiiLe/asyncHTTP.git|Contributed|asyncHTTP
