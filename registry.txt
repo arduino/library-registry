@@ -10318,3 +10318,4 @@ https://github.com/SerhiiLe/asyncHTTP.git|Contributed|asyncHTTP
 https://github.com/wuigor/mannaNAUTA_WS2812_Lib.git|Contributed|mannaNAUTA WS2812
 https://github.com/Wireless-TAG-Maker/WirelessTagTiny.git|Contributed|WirelessTagTiny
 https://github.com/mumanchu/AnalogKeypad5.git|Contributed|AnalogKeypad5
+https://github.com/adafruit/Adafruit_LT8912B.git|Recommended|Adafruit LT8912B
