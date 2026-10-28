@@ -10322,3 +10322,4 @@ https://github.com/dineshpalsingh1989/ForgeModbus
 https://github.com/pairble/pairble-arduino
 https://github.com/SerhiiLe/asyncHTTP
 https://github.com/wuigor/mannaNAUTA_WS2812_Lib
+https://github.com/Wireless-TAG-Maker/WirelessTagTiny
