@@ -10320,3 +10320,4 @@ https://github.com/Wireless-TAG-Maker/WirelessTagTiny.git|Contributed|WirelessTa
 https://github.com/mumanchu/AnalogKeypad5.git|Contributed|AnalogKeypad5
 https://github.com/adafruit/Adafruit_LT8912B.git|Recommended|Adafruit LT8912B
 https://github.com/adafruit/Adafruit_RV8803.git|Recommended|Adafruit RV8803
+https://github.com/Teacher-Heiko/MPU6050Classroom.git|Contributed|MPU6050Classroom
