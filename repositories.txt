@@ -10326,3 +10326,4 @@ https://github.com/pairble/pairble-arduino
 https://github.com/SerhiiLe/asyncHTTP
 https://github.com/wuigor/mannaNAUTA_WS2812_Lib
 https://github.com/Wireless-TAG-Maker/WirelessTagTiny
+https://github.com/AungMoeKhine/AMK_CYD_Universal_TFT
