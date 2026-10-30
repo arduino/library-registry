@@ -1,3 +1,5 @@
+https://github.com/mumanchu/AnalogKeypad5
+https://github.com/Hackingstan/Arduino_GC9307
 https://github.com/jobitjoseph/LottieMCU
 https://github.com/joy-it/JoyIT_Robotarm_Arduino
 https://github.com/mumanchu/QMC5883PMagnetometer
@@ -92,6 +94,10 @@ https://github.com/SolderedElectronics/Soldered-Inputronic-BRIDGE-Library
 https://github.com/SolderedElectronics/Soldered-Electrochemical-Gas-Sensor-Arduino-Library
 https://github.com/code-hoysala/MeshLink
 https://github.com/code-hoysala/Bridge555
+https://github.com/code-hoysala/ToneTransceiver
+https://github.com/code-hoysala/MotorShield
+https://github.com/code-hoysala/System
+https://github.com/code-hoysala/sysmon
 https://github.com/technikEngr/ErovoutikaErobot
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
@@ -1208,6 +1214,7 @@ https://github.com/adafruit/Adafruit_LSM303DLHC
 https://github.com/adafruit/Adafruit_LSM6DS
 https://github.com/adafruit/Adafruit_LSM9DS0_Library
 https://github.com/adafruit/Adafruit_LSM9DS1
+https://github.com/adafruit/Adafruit_LT8912B
 https://github.com/adafruit/Adafruit_LTR329_LTR303
 https://github.com/adafruit/Adafruit_LTR390
 https://github.com/adafruit/Adafruit_LvGL_Glue
@@ -1265,6 +1272,7 @@ https://github.com/adafruit/Adafruit_Protomatter
 https://github.com/adafruit/Adafruit_PyCamera
 https://github.com/adafruit/Adafruit_QMC5883P
 https://github.com/adafruit/Adafruit_RA8875
+https://github.com/adafruit/Adafruit_RV8803
 https://github.com/adafruit/Adafruit_S-35710
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_Seesaw
@@ -2880,6 +2888,7 @@ https://github.com/DFRobot/DFRobot_MHZ9041A
 https://github.com/DFRobot/DFRobot_CT1780
 https://github.com/DFRobot/DFRobot_LoRaWAN_ESP32S3
 https://github.com/DFRobot/DFRobot_STCC4
+https://github.com/DFRobot/DFRobot_HuskylensV2
 https://github.com/dgduncan/Arduino-MCP4131
 https://github.com/dgduncan/SevenSegment
 https://github.com/Dhanabhon/TomIBT2
@@ -3684,7 +3693,7 @@ https://github.com/HamzaYslmn/detaBaseESP8266
 https://github.com/HamzaYslmn/esp-rtosSerial
 https://github.com/HamzaYslmn/esp32-tunnel
 https://github.com/HamzaYslmn/espfetch
-https://github.com/HamzaYslmn/Esp-BLE-Web
+https://github.com/HamzaYslmn/Esp-BleDeck
 https://github.com/HamzaYslmn/esplink
 https://github.com/HamzaYslmn/esp-ps5
 https://github.com/HamzaYslmn/esp-rtosLogger
@@ -9224,6 +9233,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_dpad_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_photointerrupter_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_ir_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_lm35_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_trafficlight_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -10302,3 +10312,21 @@ https://github.com/TulioCarmona/TeensyStepDriver
 https://github.com/placidanomaly/Crowpanel_2.1
 https://github.com/ania-7abc/Lcd2004
 https://github.com/phm-tuyenn/ps4-esp32-lib
+https://github.com/tkgktyk/analog-mimic-arduino
+https://github.com/thegraywaver/EasyMatter
+https://github.com/SerhiiLe/asyncTelegramAPI
+https://github.com/ailagari/JMCMotors
+https://github.com/Chris-FizziQ/FizziQ-Arduino
+https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_audio_driver
+https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_audio_tools
+https://github.com/UNIT-Electronics-MX/unit_devlab_fork_arduino_libhelix
+https://github.com/UNIT-Electronics-MX/unit_devlab_codec_library
+https://github.com/bmikuska46/opentherm_library
+https://github.com/dineshpalsingh1989/ForgeModbus
+https://github.com/pairble/pairble-arduino
+https://github.com/SerhiiLe/asyncHTTP
+https://github.com/wuigor/mannaNAUTA_WS2812_Lib
+https://github.com/Wireless-TAG-Maker/WirelessTagTiny
+https://github.com/AungMoeKhine/AMK_CYD_Universal_TFT
+https://github.com/Teacher-Heiko/MPU6050Classroom
+https://github.com/DTG-Corp/dtg-arduino
