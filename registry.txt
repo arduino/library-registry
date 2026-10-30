@@ -10323,3 +10323,4 @@ https://github.com/Teacher-Heiko/MPU6050Classroom.git|Contributed|MPU6050Classro
 https://github.com/AungMoeKhine/AMK_CYD_Universal_TFT.git|Contributed|AMK_CYD_Universal_TFT
 https://github.com/DTG-Corp/dtg-arduino.git|Contributed|DTG_IoT
 https://github.com/DFRobot/DFRobot_HuskylensV2.git|Contributed|DFRobot_HuskylensV2
+https://github.com/watersRand/ThreeZoneDriver.git|Contributed|ThreeZoneDriver
