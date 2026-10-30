@@ -10332,3 +10332,4 @@ https://github.com/AungMoeKhine/AMK_CYD_Universal_TFT
 https://github.com/Teacher-Heiko/MPU6050Classroom
 https://github.com/DTG-Corp/dtg-arduino
 https://github.com/CyberMODE/Telar-Arduino
+https://github.com/Lonely-Binary/Fingerprint
