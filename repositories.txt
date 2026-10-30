@@ -65,6 +65,7 @@ https://github.com/TidalImpact/LighthouseReckoning
 https://github.com/wedsamuel1230/LD2402
 https://github.com/Khuuxuanngoc/MKE_I2C_Loadcell_lib
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
+https://github.com/watersRand/ThreeZoneDriver
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
 https://github.com/zernovtechno/Vendista
 https://github.com/nikolaindustry/hyperwisor-iot-arduino-library
