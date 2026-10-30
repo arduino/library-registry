@@ -10325,3 +10325,4 @@ https://github.com/DTG-Corp/dtg-arduino.git|Contributed|DTG_IoT
 https://github.com/DFRobot/DFRobot_HuskylensV2.git|Contributed|DFRobot_HuskylensV2
 https://github.com/watersRand/ThreeZoneDriver.git|Contributed|ThreeZoneDriver
 https://github.com/CyberMODE/Telar-Arduino.git|Contributed|Telar
+https://github.com/Lonely-Binary/Fingerprint.git|Contributed|Lonely Binary Fingerprint
