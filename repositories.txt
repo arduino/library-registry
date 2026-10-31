@@ -10340,3 +10340,4 @@ https://github.com/elliotmatson/companion-microsatellite
 https://github.com/elixpo/rv565
 https://github.com/SerhiiLe/TinyLED
 https://github.com/SerhiiLe/WiFiSetup
+https://github.com/GiuseppeGambacorta/PLC-Standard-Library-for-Arduino
