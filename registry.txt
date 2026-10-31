@@ -10328,3 +10328,4 @@ https://github.com/CyberMODE/Telar-Arduino.git|Contributed|Telar
 https://github.com/Lonely-Binary/Fingerprint.git|Contributed|Lonely Binary Fingerprint
 https://github.com/wuigor/mannaNAUTA_LSM6DS_Lib.git|Contributed|mannaNAUTA LSM6DS
 https://github.com/wonderful123/INA229-SPI-Driver.git|Contributed|INA229_SPI_Driver
+https://github.com/jean-mappelli/esp32_pix_efi.git|Contributed|pix_efi
