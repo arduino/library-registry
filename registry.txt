@@ -10330,3 +10330,4 @@ https://github.com/wuigor/mannaNAUTA_LSM6DS_Lib.git|Contributed|mannaNAUTA LSM6D
 https://github.com/wonderful123/INA229-SPI-Driver.git|Contributed|INA229_SPI_Driver
 https://github.com/jean-mappelli/esp32_pix_efi.git|Contributed|pix_efi
 https://github.com/elliotmatson/companion-microsatellite.git|Contributed|Companion microSatellite
+https://github.com/elixpo/rv565.git|Contributed|RV565
