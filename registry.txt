@@ -10327,3 +10327,4 @@ https://github.com/watersRand/ThreeZoneDriver.git|Contributed|ThreeZoneDriver
 https://github.com/CyberMODE/Telar-Arduino.git|Contributed|Telar
 https://github.com/Lonely-Binary/Fingerprint.git|Contributed|Lonely Binary Fingerprint
 https://github.com/wuigor/mannaNAUTA_LSM6DS_Lib.git|Contributed|mannaNAUTA LSM6DS
+https://github.com/wonderful123/INA229-SPI-Driver.git|Contributed|INA229_SPI_Driver
