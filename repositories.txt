@@ -10338,3 +10338,4 @@ https://github.com/wonderful123/INA229-SPI-Driver
 https://github.com/jean-mappelli/esp32_pix_efi
 https://github.com/elliotmatson/companion-microsatellite
 https://github.com/elixpo/rv565
+https://github.com/SerhiiLe/TinyLED
