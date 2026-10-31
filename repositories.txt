@@ -10336,3 +10336,4 @@ https://github.com/CyberMODE/Telar-Arduino
 https://github.com/Lonely-Binary/Fingerprint
 https://github.com/wonderful123/INA229-SPI-Driver
 https://github.com/jean-mappelli/esp32_pix_efi
+https://github.com/elliotmatson/companion-microsatellite
