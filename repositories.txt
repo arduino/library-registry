@@ -10334,3 +10334,4 @@ https://github.com/Teacher-Heiko/MPU6050Classroom
 https://github.com/DTG-Corp/dtg-arduino
 https://github.com/CyberMODE/Telar-Arduino
 https://github.com/Lonely-Binary/Fingerprint
+https://github.com/wonderful123/INA229-SPI-Driver
