@@ -10326,3 +10326,4 @@ https://github.com/DFRobot/DFRobot_HuskylensV2.git|Contributed|DFRobot_Huskylens
 https://github.com/watersRand/ThreeZoneDriver.git|Contributed|ThreeZoneDriver
 https://github.com/CyberMODE/Telar-Arduino.git|Contributed|Telar
 https://github.com/Lonely-Binary/Fingerprint.git|Contributed|Lonely Binary Fingerprint
+https://github.com/wuigor/mannaNAUTA_LSM6DS_Lib.git|Contributed|mannaNAUTA LSM6DS
