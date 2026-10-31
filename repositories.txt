@@ -1,4 +1,5 @@
 https://github.com/mumanchu/AnalogKeypad5
+https://github.com/open786pro/CashCode_CCNET_RUS
 https://github.com/Hackingstan/Arduino_GC9307
 https://github.com/jobitjoseph/LottieMCU
 https://github.com/joy-it/JoyIT_Robotarm_Arduino
