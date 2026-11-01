@@ -10336,3 +10336,4 @@ https://github.com/SerhiiLe/WiFiSetup.git|Contributed|WiFiSetup
 https://github.com/GiuseppeGambacorta/PLC-Standard-Library-for-Arduino.git|Contributed|PLCStandard
 https://github.com/AchD/FroqMQTT.git|Contributed|FroqMQTT
 https://github.com/zupub/lilty.git|Contributed|lilty
+https://github.com/codezoo-ltd/CZ-N706B-Arduino.git|Contributed|CZ-N706B-Arduino
