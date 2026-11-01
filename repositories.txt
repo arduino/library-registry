@@ -10346,3 +10346,4 @@ https://github.com/AchD/FroqMQTT
 https://github.com/zupub/lilty
 https://github.com/codezoo-ltd/CZ-N706B-Arduino
 https://github.com/abdallah-shehawey/NiroTronixMotorDriver
+https://github.com/Alash-electronics/AlashBME280
