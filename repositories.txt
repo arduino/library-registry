@@ -10343,3 +10343,4 @@ https://github.com/SerhiiLe/WiFiSetup
 https://github.com/GiuseppeGambacorta/PLC-Standard-Library-for-Arduino
 https://github.com/AchD/FroqMQTT
 https://github.com/zupub/lilty
+https://github.com/codezoo-ltd/CZ-N706B-Arduino
