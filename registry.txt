@@ -10335,3 +10335,4 @@ https://github.com/SerhiiLe/TinyLED.git|Contributed|TinyLED
 https://github.com/SerhiiLe/WiFiSetup.git|Contributed|WiFiSetup
 https://github.com/GiuseppeGambacorta/PLC-Standard-Library-for-Arduino.git|Contributed|PLCStandard
 https://github.com/AchD/FroqMQTT.git|Contributed|FroqMQTT
+https://github.com/zupub/lilty.git|Contributed|lilty
