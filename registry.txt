@@ -10337,3 +10337,4 @@ https://github.com/GiuseppeGambacorta/PLC-Standard-Library-for-Arduino.git|Contr
 https://github.com/AchD/FroqMQTT.git|Contributed|FroqMQTT
 https://github.com/zupub/lilty.git|Contributed|lilty
 https://github.com/codezoo-ltd/CZ-N706B-Arduino.git|Contributed|CZ-N706B-Arduino
+https://github.com/abdallah-shehawey/NiroTronixMotorDriver.git|Contributed|NiroTronixMotorDriver
