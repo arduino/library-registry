@@ -10341,3 +10341,4 @@ https://github.com/abdallah-shehawey/NiroTronixMotorDriver.git|Contributed|NiroT
 https://github.com/bareboat-necessities/ocean-imu.git|Contributed|ocean_imu
 https://github.com/Alash-electronics/AlashBME280.git|Contributed|AlashBME280
 https://github.com/gkeiel/PIDcon.git|Contributed|PIDcon
+https://github.com/dhruvkotian/ParoClaw.git|Contributed|ParoClaw
