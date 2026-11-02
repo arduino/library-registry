@@ -10388,3 +10388,7 @@ https://github.com/Alash-electronics/AlashTelegram
 https://github.com/Alash-electronics/AlashTimer
 https://github.com/Alash-electronics/AlashWeb
 https://github.com/Alash-electronics/AlashWiFi
+https://github.com/Alash-electronics/AlashMLX90614
+https://github.com/Alash-electronics/AlashThermocouple
+https://github.com/Alash-electronics/AlashPMS5003
+https://github.com/Alash-electronics/AlashMHZ19
