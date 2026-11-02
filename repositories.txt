@@ -10348,3 +10348,4 @@ https://github.com/codezoo-ltd/CZ-N706B-Arduino
 https://github.com/abdallah-shehawey/NiroTronixMotorDriver
 https://github.com/Alash-electronics/AlashBME280
 https://github.com/gkeiel/PIDcon
+https://github.com/dhruvkotian/ParoClaw
