@@ -9367,7 +9367,7 @@ https://github.com/Nocturnailed-Community/NocShield.git|Contributed|NocShield
 https://github.com/sauloverissimo/midi2.git|Contributed|midi2
 https://github.com/Otto17/LightConnect.git|Contributed|LightConnect
 https://github.com/RobTillaart/A02YYUW.git|Contributed|A02YYUW
-https://github.com/RobotBuzzard/ClearCoreWatchdog.git|Contributed|ClearCoreWatchdog
+https://github.com/og-buzz/ClearCoreWatchdog.git|Contributed|ClearCoreWatchdog
 https://github.com/soosp/SimcomA76xx.git|Contributed|SimcomA76xx
 https://github.com/K3vin135/iot-azure-bridge.git|Contributed|EasyAzureIoT
 https://github.com/sauloverissimo/midi2cpp.git|Contributed|midi2cpp
