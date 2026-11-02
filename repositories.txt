@@ -10393,3 +10393,4 @@ https://github.com/Alash-electronics/AlashMLX90614
 https://github.com/Alash-electronics/AlashThermocouple
 https://github.com/Alash-electronics/AlashPMS5003
 https://github.com/Alash-electronics/AlashMHZ19
+https://github.com/Alash-electronics/AlashLineSensor
