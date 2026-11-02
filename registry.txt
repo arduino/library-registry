@@ -10340,3 +10340,4 @@ https://github.com/codezoo-ltd/CZ-N706B-Arduino.git|Contributed|CZ-N706B-Arduino
 https://github.com/abdallah-shehawey/NiroTronixMotorDriver.git|Contributed|NiroTronixMotorDriver
 https://github.com/bareboat-necessities/ocean-imu.git|Contributed|ocean_imu
 https://github.com/Alash-electronics/AlashBME280.git|Contributed|AlashBME280
+https://github.com/gkeiel/PIDcon.git|Contributed|PIDcon
