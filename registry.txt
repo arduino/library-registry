@@ -10388,3 +10388,4 @@ https://github.com/Alash-electronics/AlashMHZ19.git|Contributed|AlashMHZ19
 https://github.com/bonezegei/Bonezegei_PN532.git|Contributed|Bonezegei_PN532
 https://github.com/Alash-electronics/AlashLineSensor.git|Contributed|AlashLineSensor
 https://github.com/arduino-libraries/Arduino_RouterBridge_ROS.git|Arduino|Arduino_RouterBridge_ROS
+https://github.com/UNIT-Electronics-MX/unit_devlab_audioinput_library.git|Contributed|DevLab_AudioInput
