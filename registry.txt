@@ -10381,3 +10381,7 @@ https://github.com/Alash-electronics/AlashTelegram.git|Contributed|AlashTelegram
 https://github.com/Alash-electronics/AlashTimer.git|Contributed|AlashTimer
 https://github.com/Alash-electronics/AlashWeb.git|Contributed|AlashWeb
 https://github.com/Alash-electronics/AlashWiFi.git|Contributed|AlashWiFi
+https://github.com/Alash-electronics/AlashMLX90614.git|Contributed|AlashMLX90614
+https://github.com/Alash-electronics/AlashThermocouple.git|Contributed|AlashThermocouple
+https://github.com/Alash-electronics/AlashPMS5003.git|Contributed|AlashPMS5003
+https://github.com/Alash-electronics/AlashMHZ19.git|Contributed|AlashMHZ19
