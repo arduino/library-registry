@@ -10392,3 +10392,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_audioinput_library.git|Contri
 https://github.com/SerhiiLe/FTPServer.git|Contributed|FTPServer
 https://github.com/SerhiiLe/Buttons.git|Contributed|Buttons
 https://github.com/studiosdasunshine-boop/util_use.git|Contributed|util_use
+https://github.com/RobTillaart/SLF3S.git|Contributed|SLF3S
