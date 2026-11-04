@@ -10402,3 +10402,5 @@ https://github.com/bnorth12/TinyRTCM3.git|Contributed|TinyRTCM3
 https://github.com/Protocentral/protocentral_easyecg_arduino.git|Contributed|ProtoCentral easyECG
 https://github.com/Protocentral/protocentral_easyemg_arduino.git|Contributed|ProtoCentral easyEMG
 https://github.com/raihhann/OpenSwarm.git|Contributed|SwarmNode
+https://github.com/ardakora/KampCepSensors.git|Contributed|KampCepSensors
+https://github.com/ardakora/KampCepLPCore.git|Contributed|KampCepLPCore
