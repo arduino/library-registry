@@ -10399,3 +10399,5 @@ https://github.com/felias-fogg/dw-link.git|Contributed|dw-link
 https://github.com/Mipot-Hi-Tech/MiP_Shield_Lib.git|Contributed|MiP_Shield_Lib
 https://github.com/mumanchu/V30BAmbientLightSensor.git|Contributed|V30BAmbientLightSensor
 https://github.com/bnorth12/TinyRTCM3.git|Contributed|TinyRTCM3
+https://github.com/Protocentral/protocentral_easyecg_arduino.git|Contributed|ProtoCentral easyECG
+https://github.com/Protocentral/protocentral_easyemg_arduino.git|Contributed|ProtoCentral easyEMG
