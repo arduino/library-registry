@@ -10396,3 +10396,4 @@ https://github.com/RobTillaart/SLF3S.git|Contributed|SLF3S
 https://github.com/Milliwatt-Labs/leokani-arduino.git|Contributed|Leokani
 https://github.com/erfan-elec/ArduGram.git|Contributed|ArduGram
 https://github.com/felias-fogg/dw-link.git|Contributed|dw-link
+https://github.com/Mipot-Hi-Tech/MiP_Shield_Lib.git|Contributed|MiP_Shield_Lib
