@@ -10409,3 +10409,5 @@ https://github.com/bnorth12/TinyRTCM3
 https://github.com/Protocentral/protocentral_easyecg_arduino
 https://github.com/Protocentral/protocentral_easyemg_arduino
 https://github.com/raihhann/OpenSwarm
+https://github.com/ardakora/KampCepSensors
+https://github.com/ardakora/KampCepLPCore
