@@ -1,3 +1,4 @@
+https://github.com/mumanchu/V30BAmbientLightSensor
 https://github.com/studiosdasunshine-boop/util_use
 https://github.com/bareboat-necessities/ocean-imu
 https://github.com/mumanchu/AnalogKeypad5
