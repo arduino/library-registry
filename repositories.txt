@@ -10406,3 +10406,5 @@ https://github.com/erfan-elec/ArduGram
 https://github.com/felias-fogg/dw-link
 https://github.com/Mipot-Hi-Tech/MiP_Shield_Lib
 https://github.com/bnorth12/TinyRTCM3
+https://github.com/Protocentral/protocentral_easyecg_arduino
+https://github.com/Protocentral/protocentral_easyemg_arduino
