@@ -10414,3 +10414,4 @@ https://github.com/ardakora/KampCepLPCore
 https://github.com/KymoTrace/kymocore
 https://github.com/Gagik888/EmbeddedGUI_Lite
 https://github.com/CX-ArtLab/boopface-embedded
+https://github.com/shlokbundele8/Moonlight-MQTT
