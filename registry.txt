@@ -10405,3 +10405,4 @@ https://github.com/raihhann/OpenSwarm.git|Contributed|SwarmNode
 https://github.com/ardakora/KampCepSensors.git|Contributed|KampCepSensors
 https://github.com/ardakora/KampCepLPCore.git|Contributed|KampCepLPCore
 https://github.com/KymoTrace/kymocore.git|Contributed|KymoCore
+https://github.com/Gagik888/EmbeddedGUI_Lite.git|Contributed|EmbeddedGUI_Lite
