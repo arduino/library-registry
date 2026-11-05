@@ -10404,3 +10404,4 @@ https://github.com/Protocentral/protocentral_easyemg_arduino.git|Contributed|Pro
 https://github.com/raihhann/OpenSwarm.git|Contributed|SwarmNode
 https://github.com/ardakora/KampCepSensors.git|Contributed|KampCepSensors
 https://github.com/ardakora/KampCepLPCore.git|Contributed|KampCepLPCore
+https://github.com/KymoTrace/kymocore.git|Contributed|KymoCore
