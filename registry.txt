@@ -10409,3 +10409,4 @@ https://github.com/Gagik888/EmbeddedGUI_Lite.git|Contributed|EmbeddedGUI_Lite
 https://github.com/CX-ArtLab/boopface-embedded.git|Contributed|BoopFace Embedded
 https://github.com/shlokbundele8/Moonlight-MQTT.git|Contributed|Moonlight MQTT
 https://github.com/AARUTO347/AARUESP.git|Contributed|AARUESP
+https://github.com/yemreeke/BlueGraysIoT.git|Contributed|BlueGraysIoT
