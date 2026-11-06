@@ -10411,3 +10411,4 @@ https://github.com/shlokbundele8/Moonlight-MQTT.git|Contributed|Moonlight MQTT
 https://github.com/AARUTO347/AARUESP.git|Contributed|AARUESP
 https://github.com/yemreeke/BlueGraysIoT.git|Contributed|BlueGraysIoT
 https://github.com/atharvaphadnis-ai/mtm.git|Contributed|MicroTaskMonitor
+https://github.com/codingwitharul/esay-esp.git|Contributed|EasyEspAndroid
