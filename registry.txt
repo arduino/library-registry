@@ -10416,3 +10416,4 @@ https://github.com/MyTechWaifu/MTW_NetLoopScheduler.git|Contributed|MTW NetLoopS
 https://github.com/worawat-sooksai/CISIoT.git|Contributed|CISIoT
 https://github.com/hpwit/new-parser.git|Contributed|ESPLiveScript2
 https://github.com/Dalal-Nsrallah/Dal-Arabic.git|Contributed|Dal
+https://github.com/espmaniac/MicroSwap.git|Contributed|MicroSwap
