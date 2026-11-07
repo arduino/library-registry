@@ -10413,3 +10413,4 @@ https://github.com/yemreeke/BlueGraysIoT.git|Contributed|BlueGraysIoT
 https://github.com/atharvaphadnis-ai/mtm.git|Contributed|MicroTaskMonitor
 https://github.com/codingwitharul/esay-esp.git|Contributed|EasyEspAndroid
 https://github.com/MyTechWaifu/MTW_NetLoopScheduler.git|Contributed|MTW NetLoopScheduler
+https://github.com/worawat-sooksai/CISIoT.git|Contributed|CISIoT
