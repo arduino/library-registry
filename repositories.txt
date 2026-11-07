@@ -1,4 +1,3 @@
-https://github.com/Dalal-Nsrallah/Dal-Arabic
 https://github.com/mumanchu/V30BAmbientLightSensor
 https://github.com/studiosdasunshine-boop/util_use
 https://github.com/bareboat-necessities/ocean-imu
