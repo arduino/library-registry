@@ -10415,3 +10415,4 @@ https://github.com/codingwitharul/esay-esp.git|Contributed|EasyEspAndroid
 https://github.com/MyTechWaifu/MTW_NetLoopScheduler.git|Contributed|MTW NetLoopScheduler
 https://github.com/worawat-sooksai/CISIoT.git|Contributed|CISIoT
 https://github.com/hpwit/new-parser.git|Contributed|ESPLiveScript2
+https://github.com/Dalal-Nsrallah/Dal-Arabic.git|Contributed|Dal
