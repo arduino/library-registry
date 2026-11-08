@@ -10424,3 +10424,4 @@ https://github.com/bonezegei/Bonezegei_AHT10.git|Contributed|Bonezegei_AHT10
 https://github.com/shlokbundele8/Braille.git|Contributed|Braille
 https://github.com/tedihryntoo/TediESP32WiFiManager.git|Contributed|TediESP32WiFi
 https://github.com/MartinDaCosta53/EncoderPIO.git|Contributed|EncoderPIO
+https://github.com/ameltechlabs/AmelTech-labs-bot.git|Contributed|AmelTech Labs Bot
