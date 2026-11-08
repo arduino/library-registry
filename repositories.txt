@@ -10430,3 +10430,4 @@ https://github.com/ardakora/PixBand
 https://github.com/gkeiel/PMRcon
 https://github.com/shlokbundele8/Braille
 https://github.com/tedihryntoo/TediESP32WiFiManager
+https://github.com/MartinDaCosta53/EncoderPIO
