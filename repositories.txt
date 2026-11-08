@@ -10428,3 +10428,4 @@ https://github.com/espmaniac/MicroSwap
 https://github.com/ardakora/Esp32AdaptiveClock
 https://github.com/ardakora/PixBand
 https://github.com/gkeiel/PMRcon
+https://github.com/shlokbundele8/Braille
