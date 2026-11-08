@@ -10422,3 +10422,4 @@ https://github.com/ardakora/PixBand.git|Contributed|PixBand
 https://github.com/gkeiel/PMRcon.git|Contributed|PMRcon
 https://github.com/bonezegei/Bonezegei_AHT10.git|Contributed|Bonezegei_AHT10
 https://github.com/shlokbundele8/Braille.git|Contributed|Braille
+https://github.com/tedihryntoo/TediESP32WiFiManager.git|Contributed|TediESP32WiFi
