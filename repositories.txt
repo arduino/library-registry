@@ -10429,3 +10429,4 @@ https://github.com/ardakora/Esp32AdaptiveClock
 https://github.com/ardakora/PixBand
 https://github.com/gkeiel/PMRcon
 https://github.com/shlokbundele8/Braille
+https://github.com/tedihrynto/TediESP32WiFi
