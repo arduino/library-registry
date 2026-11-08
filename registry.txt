@@ -10420,3 +10420,4 @@ https://github.com/espmaniac/MicroSwap.git|Contributed|MicroSwap
 https://github.com/ardakora/Esp32AdaptiveClock.git|Contributed|Esp32AdaptiveClock
 https://github.com/ardakora/PixBand.git|Contributed|PixBand
 https://github.com/gkeiel/PMRcon.git|Contributed|PMRcon
+https://github.com/bonezegei/Bonezegei_AHT10.git|Contributed|Bonezegei_AHT10
