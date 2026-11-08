@@ -10426,3 +10426,4 @@ https://github.com/hpwit/new-parser
 https://github.com/espmaniac/MicroSwap
 https://github.com/ardakora/Esp32AdaptiveClock
 https://github.com/ardakora/PixBand
+https://github.com/gkeiel/PMRcon
