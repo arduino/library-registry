@@ -10432,3 +10432,4 @@ https://github.com/Hyperion-Robotics/TCAN4x5x.git|Contributed|TCAN4x5x
 https://github.com/rosduino/rosduino_arduino.git|Contributed|RosDuino
 https://github.com/mumanchu/C4001mmWave.git|Contributed|C4001mmWave
 https://github.com/ARabadann/SdUsbDrive.git|Contributed|SdUsbDrive
+https://github.com/NOXUSTIC/BOTGyro.git|Contributed|BOTGyro
