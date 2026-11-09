@@ -10434,3 +10434,4 @@ https://github.com/shlokbundele8/Braille
 https://github.com/tedihryntoo/TediESP32WiFiManager
 https://github.com/MartinDaCosta53/EncoderPIO
 https://github.com/emmby/lavi-arduino
+https://github.com/wbskt/Wbskt.Arduino
