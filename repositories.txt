@@ -10436,3 +10436,4 @@ https://github.com/tedihryntoo/TediESP32WiFiManager
 https://github.com/MartinDaCosta53/EncoderPIO
 https://github.com/emmby/lavi-arduino
 https://github.com/wbskt/Wbskt.Arduino
+https://github.com/rosduino/rosduino_arduino
