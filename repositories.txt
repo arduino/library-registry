@@ -2298,6 +2298,7 @@ https://github.com/bonezegei/Bonezegei_NeuralNet
 https://github.com/bonezegei/Bonezegei_SHT31
 https://github.com/bonezegei/Bonezegei_PN532
 https://github.com/bonezegei/Bonezegei_AHT10
+https://github.com/bonezegei/Bonezegei_BH1750
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
