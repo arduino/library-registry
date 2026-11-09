@@ -10426,3 +10426,4 @@ https://github.com/tedihryntoo/TediESP32WiFiManager.git|Contributed|TediESP32WiF
 https://github.com/MartinDaCosta53/EncoderPIO.git|Contributed|EncoderPIO
 https://github.com/ameltechlabs/AmelTech-labs-bot.git|Contributed|AmelTech Labs Bot
 https://github.com/bonezegei/Bonezegei_BH1750.git|Contributed|Bonezegei_BH1750
+https://github.com/emmby/lavi-arduino.git|Contributed|lavi
