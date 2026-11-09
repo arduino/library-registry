@@ -10429,3 +10429,4 @@ https://github.com/bonezegei/Bonezegei_BH1750.git|Contributed|Bonezegei_BH1750
 https://github.com/emmby/lavi-arduino.git|Contributed|lavi
 https://github.com/wbskt/Wbskt.Arduino.git|Contributed|Wbskt
 https://github.com/Hyperion-Robotics/TCAN4x5x.git|Contributed|TCAN4x5x
+https://github.com/rosduino/rosduino_arduino.git|Contributed|RosDuino
