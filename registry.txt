@@ -10434,3 +10434,4 @@ https://github.com/mumanchu/C4001mmWave.git|Contributed|C4001mmWave
 https://github.com/ARabadann/SdUsbDrive.git|Contributed|SdUsbDrive
 https://github.com/NOXUSTIC/BOTGyro.git|Contributed|BOTGyro
 https://github.com/zumcitomc/motESP32-english.git|Contributed|motESP_eng
+https://github.com/hex705/UltrasonicFilter.git|Contributed|UltrasonicFilter
