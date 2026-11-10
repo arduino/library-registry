@@ -10443,3 +10443,4 @@ https://github.com/rosduino/rosduino_arduino
 https://github.com/NOXUSTIC/BOTGyro
 https://github.com/ARabadann/SdUsbDrive
 https://github.com/zumcitomc/motESP32-english
+https://github.com/copida/SmtpMini
