@@ -10439,3 +10439,4 @@ https://github.com/code-hoysala/Database.git|Contributed|Database
 https://github.com/copida/SmtpMini.git|Contributed|SmtpMini
 https://github.com/AARUTO347/AARUARDUINO.git|Contributed|AARUARDUINO
 https://github.com/rahmatpurnomo/EnigmaIoT.git|Contributed|EnigmaIoT
+https://github.com/sunfounder/arduino-esp-new-jpeg.git|Contributed|esp_new_jpeg
