@@ -10441,3 +10441,4 @@ https://github.com/AARUTO347/AARUARDUINO.git|Contributed|AARUARDUINO
 https://github.com/rahmatpurnomo/EnigmaIoT.git|Contributed|EnigmaIoT
 https://github.com/sunfounder/arduino-esp-new-jpeg.git|Contributed|esp_new_jpeg
 https://github.com/SINCHULHO/CFMEGA.git|Contributed|CFMEGA
+https://github.com/mustafabagr/STPM32_UART.git|Contributed|STPM32_UART
