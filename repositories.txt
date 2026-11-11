@@ -10452,3 +10452,4 @@ https://github.com/AARUTO347/AARUARDUINO
 https://github.com/rahmatpurnomo/EnigmaIoT
 https://github.com/sunfounder/arduino-esp-new-jpeg
 https://github.com/francescopace/espectre-arduino
+https://github.com/fikretpalas/SafCNC
