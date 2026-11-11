@@ -10446,3 +10446,4 @@ https://github.com/zumcitomc/motESP32-english
 https://github.com/copida/SmtpMini
 https://github.com/AARUTO347/AARUARDUINO
 https://github.com/rahmatpurnomo/EnigmaIoT
+https://github.com/sunfounder/arduino-esp-new-jpeg
