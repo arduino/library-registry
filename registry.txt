@@ -10444,3 +10444,4 @@ https://github.com/SINCHULHO/CFMEGA.git|Contributed|CFMEGA
 https://github.com/mustafabagr/STPM32_UART.git|Contributed|STPM32_UART
 https://github.com/bonezegei/Bonezegei_AHT20.git|Contributed|Bonezegei_AHT20
 https://github.com/RobTillaart/ADS7142.git|Contributed|ADS7142
+https://github.com/francescopace/espectre-arduino.git|Contributed|ESPectre
