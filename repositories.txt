@@ -7432,6 +7432,7 @@ https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library
 https://github.com/sparkfun/SparkFun_SFA40_Arduino_Library
 https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library
+https://github.com/sparkfun/SparkFun_GM-X02B_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
