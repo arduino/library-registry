@@ -1,3 +1,10 @@
+https://github.com/mustafabagr/STPM32_UART
+https://github.com/SINCHULHO/CFMEGA
+https://github.com/hex705/UltrasonicFilter
+https://github.com/mumanchu/C4001mmWave
+https://github.com/Hyperion-Robotics/TCAN4x5x
+https://github.com/ameltechlabs/AmelTech-labs-bot
+https://github.com/Dalal-Nsrallah/Dal-Arabic
 https://github.com/mumanchu/V30BAmbientLightSensor
 https://github.com/studiosdasunshine-boop/util_use
 https://github.com/bareboat-necessities/ocean-imu
@@ -102,6 +109,7 @@ https://github.com/code-hoysala/ToneTransceiver
 https://github.com/code-hoysala/MotorShield
 https://github.com/code-hoysala/System
 https://github.com/code-hoysala/sysmon
+https://github.com/code-hoysala/Database
 https://github.com/technikEngr/ErovoutikaErobot
 https://github.com/Khuuxuanngoc/MKE_I2C_MP3_ArduinoLib
 https://github.com/richcreations/imud-arduino.git
@@ -2295,6 +2303,9 @@ https://github.com/bonezegei/Bonezegei_SX1278
 https://github.com/bonezegei/Bonezegei_NeuralNet
 https://github.com/bonezegei/Bonezegei_SHT31
 https://github.com/bonezegei/Bonezegei_PN532
+https://github.com/bonezegei/Bonezegei_AHT10
+https://github.com/bonezegei/Bonezegei_BH1750
+https://github.com/bonezegei/Bonezegei_AHT20
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
@@ -6310,6 +6321,7 @@ https://github.com/RobTillaart/ADG2128_RT
 https://github.com/RobTillaart/ADG2188
 https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
+https://github.com/RobTillaart/ADS7142
 https://github.com/RobTillaart/ADT7470
 https://github.com/RobTillaart/AGS02MA
 https://github.com/RobTillaart/AGS2616
@@ -7420,6 +7432,7 @@ https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library
 https://github.com/sparkfun/SparkFun_SFA40_Arduino_Library
 https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library
+https://github.com/sparkfun/SparkFun_GM-X02B_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
@@ -9240,6 +9253,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_photointerrupter_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_ir_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_lm35_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_trafficlight_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_analog_interface_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -9720,7 +9734,7 @@ https://github.com/kritishmohapatra/SingleSevenSeg
 https://github.com/Nocturnailed-Community/NocShield
 https://github.com/sauloverissimo/midi2
 https://github.com/sauloverissimo/midi2cpp
-https://github.com/RobotBuzzard/ClearCoreWatchdog
+https://github.com/og-buzz/ClearCoreWatchdog
 https://github.com/soosp/SimcomA76xx
 https://github.com/K3vin135/iot-azure-bridge
 https://github.com/ulywae/NeuStorage
@@ -10415,4 +10429,33 @@ https://github.com/KymoTrace/kymocore
 https://github.com/Gagik888/EmbeddedGUI_Lite
 https://github.com/CX-ArtLab/boopface-embedded
 https://github.com/shlokbundele8/Moonlight-MQTT
+https://github.com/AARUTO347/AARUESP
+https://github.com/yemreeke/BlueGraysIoT
+https://github.com/atharvaphadnis-ai/mtm
+ https://github.com/codingwitharul/esay-esp
+https://github.com/MyTechWaifu/MTW_NetLoopScheduler
+https://github.com/worawat-sooksai/CISIoT
+https://github.com/hpwit/new-parser
+https://github.com/espmaniac/MicroSwap
+https://github.com/ardakora/Esp32AdaptiveClock
+https://github.com/ardakora/PixBand
+https://github.com/gkeiel/PMRcon
+https://github.com/shlokbundele8/Braille
+https://github.com/tedihryntoo/TediESP32WiFiManager
+https://github.com/MartinDaCosta53/EncoderPIO
+https://github.com/emmby/lavi-arduino
+https://github.com/wbskt/Wbskt.Arduino
+https://github.com/rosduino/rosduino_arduino
+https://github.com/NOXUSTIC/BOTGyro
+https://github.com/ARabadann/SdUsbDrive
+https://github.com/zumcitomc/motESP32-english
+https://github.com/copida/SmtpMini
+https://github.com/AARUTO347/AARUARDUINO
+https://github.com/rahmatpurnomo/EnigmaIoT
+https://github.com/sunfounder/arduino-esp-new-jpeg
+https://github.com/francescopace/espectre-arduino
+https://github.com/fikretpalas/SafCNC
+https://github.com/SanjayKamu/InnoLite-ESP-NOW
+https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino
+
 https://github.com/AARUTO347/AARUNO
