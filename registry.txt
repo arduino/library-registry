@@ -10448,3 +10448,4 @@ https://github.com/francescopace/espectre-arduino.git|Contributed|ESPectre
 https://github.com/fikretpalas/SafCNC.git|Contributed|SafCNC
 https://github.com/SanjayKamu/InnoLite-ESP-NOW.git|Contributed|InnoLite ESP-NOW
 https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino.git|Contributed|BusUnHilo
+https://github.com/sparkfun/SparkFun_GM-X02B_Arduino_Library.git|Contributed|SparkFun Qwiic Gas Sensor GM-X02B
