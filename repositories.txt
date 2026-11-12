@@ -10454,3 +10454,4 @@ https://github.com/sunfounder/arduino-esp-new-jpeg
 https://github.com/francescopace/espectre-arduino
 https://github.com/fikretpalas/SafCNC
 https://github.com/SanjayKamu/InnoLite-ESP-NOW
+https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino
