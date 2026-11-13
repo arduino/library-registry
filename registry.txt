@@ -10451,3 +10451,4 @@ https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino.git|Contributed|B
 https://github.com/sparkfun/SparkFun_GM-X02B_Arduino_Library.git|Contributed|SparkFun Qwiic Gas Sensor GM-X02B
 https://github.com/UNIT-Electronics-MX/unit_devlab_analog_interface_library.git|Contributed|DevLab_AnalogInterface
 https://github.com/AARUTO347/AARUNO.git|Contributed|AARUNO
+https://github.com/marcmerlin/FastLED_Protomatter_RGBPanel_FrameBuffer_GFX.git|Contributed|FastLED_Protomatter_RGBPanel_FrameBuffer_GFX
