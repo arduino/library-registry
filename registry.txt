@@ -10455,3 +10455,4 @@ https://github.com/marcmerlin/FastLED_Protomatter_RGBPanel_FrameBuffer_GFX.git|C
 https://github.com/marcmerlin/FastLED_ArduinoGFX_TFT.git|Contributed|FastLED_ArduinoGFX_TFT
 https://github.com/usmanargit/AsairAgh3485.git|Contributed|AsairAgh3485
 https://github.com/saifulAdli79/arduino-wall-clock-v2.git|Contributed|SevenSegmentClock595
+https://github.com/uutzinger/Arduino_MPR.git|Contributed|UUtzinger_MPR
