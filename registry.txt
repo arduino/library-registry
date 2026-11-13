@@ -10453,3 +10453,4 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_analog_interface_library.git|
 https://github.com/AARUTO347/AARUNO.git|Contributed|AARUNO
 https://github.com/marcmerlin/FastLED_Protomatter_RGBPanel_FrameBuffer_GFX.git|Contributed|FastLED_Protomatter_RGBPanel_FrameBuffer_GFX
 https://github.com/marcmerlin/FastLED_ArduinoGFX_TFT.git|Contributed|FastLED_ArduinoGFX_TFT
+https://github.com/usmanargit/AsairAgh3485.git|Contributed|AsairAgh3485
