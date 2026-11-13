@@ -10462,3 +10462,4 @@ https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino
 
 https://github.com/AARUTO347/AARUNO
 https://github.com/usmanargit/AsairAgh3485
+https://github.com/saifulAdli79/arduino-wall-clock-v2
