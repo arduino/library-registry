@@ -10461,3 +10461,4 @@ https://github.com/nuasense/nuasense-arduino.git|Contributed|NuaSense
 https://github.com/dineshpalsingh1989/Wilcoxon883MRTU.git|Contributed|Wilcoxon883MRTU
 https://github.com/modest-iot/modest-iot-nano-framework.git|Contributed|Modest-IoT-Nano-Framework
 https://github.com/aikopras/RSbusMaster.git|Contributed|RSbusMaster
+https://github.com/indian-aman/NLTP-Arduino.git|Contributed|NLTP
