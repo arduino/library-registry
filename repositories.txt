@@ -10466,3 +10466,4 @@ https://github.com/saifulAdli79/arduino-wall-clock-v2
 https://github.com/uutzinger/Arduino_MPR
 https://github.com/igor-gia/Ukr_GFX_fonts
 https://github.com/nuasense/nuasense-arduino
+https://github.com/dineshpalsingh1989/Wilcoxon883MRTU
