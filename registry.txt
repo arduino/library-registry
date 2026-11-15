@@ -10466,3 +10466,4 @@ https://github.com/endurodave/C_Allocator.git|Contributed|C_Allocator
 https://github.com/endurodave/C_StateMachine.git|Contributed|C_StateMachine
 https://github.com/endurodave/SimpleSocketProtocol.git|Contributed|SimpleSocketProtocol
 https://github.com/BabatundeTsh/DWIN_LCD.git|Contributed|DWIN_LCD
+https://github.com/PeasyB/PeasyB_PCA9698.git|Contributed|PeasyB_PCA9698
