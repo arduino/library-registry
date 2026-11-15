@@ -10474,3 +10474,4 @@ https://github.com/indian-aman/NLTP-Arduino
 https://github.com/endurodave/C_Allocator
 https://github.com/endurodave/C_StateMachine
 https://github.com/endurodave/SimpleSocketProtocol
+https://github.com/PeasyB/PeasyB_PCA9698
