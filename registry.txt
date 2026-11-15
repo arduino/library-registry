@@ -10465,3 +10465,4 @@ https://github.com/indian-aman/NLTP-Arduino.git|Contributed|NLTP
 https://github.com/endurodave/C_Allocator.git|Contributed|C_Allocator
 https://github.com/endurodave/C_StateMachine.git|Contributed|C_StateMachine
 https://github.com/endurodave/SimpleSocketProtocol.git|Contributed|SimpleSocketProtocol
+https://github.com/BabatundeTsh/DWIN_LCD.git|Contributed|DWIN_LCD
