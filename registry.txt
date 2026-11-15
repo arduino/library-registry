@@ -10462,3 +10462,6 @@ https://github.com/dineshpalsingh1989/Wilcoxon883MRTU.git|Contributed|Wilcoxon88
 https://github.com/modest-iot/modest-iot-nano-framework.git|Contributed|Modest-IoT-Nano-Framework
 https://github.com/aikopras/RSbusMaster.git|Contributed|RSbusMaster
 https://github.com/indian-aman/NLTP-Arduino.git|Contributed|NLTP
+https://github.com/endurodave/C_Allocator.git|Contributed|C_Allocator
+https://github.com/endurodave/C_StateMachine.git|Contributed|C_StateMachine
+https://github.com/endurodave/SimpleSocketProtocol.git|Contributed|SimpleSocketProtocol
