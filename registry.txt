@@ -10467,3 +10467,4 @@ https://github.com/endurodave/C_StateMachine.git|Contributed|C_StateMachine
 https://github.com/endurodave/SimpleSocketProtocol.git|Contributed|SimpleSocketProtocol
 https://github.com/BabatundeTsh/DWIN_LCD.git|Contributed|DWIN_LCD
 https://github.com/PeasyB/PeasyB_PCA9698.git|Contributed|PeasyB_PCA9698
+https://github.com/Alexis-Fayeulle/Aty_PCA9685.git|Contributed|Aty_PCA9685
