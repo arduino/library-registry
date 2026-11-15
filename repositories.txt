@@ -1,3 +1,4 @@
+https://github.com/BabatundeTsh/DWIN_LCD
 https://github.com/aikopras/RSbusMaster
 https://github.com/modest-iot/modest-iot-nano-framework
 https://github.com/mustafabagr/STPM32_UART
@@ -10473,4 +10474,5 @@ https://github.com/indian-aman/NLTP-Arduino
 https://github.com/endurodave/C_Allocator
 https://github.com/endurodave/C_StateMachine
 https://github.com/endurodave/SimpleSocketProtocol
+https://github.com/PeasyB/PeasyB_PCA9698
 https://github.com/Alexis-Fayeulle/Aty_PCA9685
