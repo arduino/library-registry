@@ -10476,3 +10476,4 @@ https://github.com/endurodave/xallocator.git|Contributed|xallocator
 https://github.com/endurodave/stl_allocator.git|Contributed|stl_allocator
 https://github.com/endurodave/StateMachine.git|Contributed|Cpp_StateMachine
 https://github.com/devansh8011-oss/SonicRuler.git|Contributed|SonicRuler
+https://github.com/sebaJoSt/blaeck.git|Contributed|blaeck
