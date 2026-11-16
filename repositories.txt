@@ -10485,3 +10485,4 @@ https://github.com/endurodave/stl_allocator
 https://github.com/endurodave/StateMachine
 https://github.com/devansh8011-oss/SonicRuler
 https://github.com/sebaJoSt/blaeck
+https://github.com/xreef/QDY30A_RS485
