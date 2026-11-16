@@ -10468,3 +10468,4 @@ https://github.com/endurodave/SimpleSocketProtocol.git|Contributed|SimpleSocketP
 https://github.com/BabatundeTsh/DWIN_LCD.git|Contributed|DWIN_LCD
 https://github.com/PeasyB/PeasyB_PCA9698.git|Contributed|PeasyB_PCA9698
 https://github.com/Alexis-Fayeulle/Aty_PCA9685.git|Contributed|Aty_PCA9685
+https://github.com/m5stack/M5Unit-UWB2-Pro.git|Contributed|M5UnitUWB2Pro
