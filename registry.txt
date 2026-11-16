@@ -10471,3 +10471,7 @@ https://github.com/Alexis-Fayeulle/Aty_PCA9685.git|Contributed|Aty_PCA9685
 https://github.com/m5stack/M5Unit-UWB2-Pro.git|Contributed|M5UnitUWB2Pro
 https://github.com/CatKod/embedded-iot-toolkit.git|Contributed|EmbeddedIoTToolkit
 https://github.com/m5stack/M5Unit-EncoderMotor-Driver.git|Contributed|M5Unit-EncoderMotor-Driver
+https://github.com/endurodave/Allocator.git|Contributed|Allocator
+https://github.com/endurodave/xallocator.git|Contributed|xallocator
+https://github.com/endurodave/stl_allocator.git|Contributed|stl_allocator
+https://github.com/endurodave/StateMachine.git|Contributed|Cpp_StateMachine
