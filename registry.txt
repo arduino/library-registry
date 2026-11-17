@@ -10479,3 +10479,4 @@ https://github.com/devansh8011-oss/SonicRuler.git|Contributed|SonicRuler
 https://github.com/sebaJoSt/blaeck.git|Contributed|blaeck
 https://github.com/xreef/QDY30A_RS485.git|Contributed|QDY30A_RS485
 https://github.com/nahomyirga787-spec/DevEBox_ILI9341_Parallel.git|Contributed|DevEBox_ILI9341_Parallel
+https://github.com/airuyoshii-ai/makotalk-arduino.git|Contributed|MakoTalk
