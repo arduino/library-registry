@@ -10482,3 +10482,4 @@ https://github.com/nahomyirga787-spec/DevEBox_ILI9341_Parallel.git|Contributed|D
 https://github.com/airuyoshii-ai/makotalk-arduino.git|Contributed|MakoTalk
 https://github.com/bonezegei/Bonezegei_HTU21.git|Contributed|Bonezegei_HTU21
 https://github.com/Project-Liquid/PLIQtronics.git|Contributed|PLIQtronics
+https://github.com/gault3x3fa9/ADRC-Controller-Arduino-Library.git|Contributed|ADRC
