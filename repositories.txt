@@ -10490,3 +10490,4 @@ https://github.com/sebaJoSt/blaeck
 https://github.com/xreef/QDY30A_RS485
 https://github.com/nahomyirga787-spec/DevEBox_ILI9341_Parallel
 https://github.com/airuyoshii-ai/makotalk-arduino
+https://github.com/gault3x3fa9/ADRC-Controller-Arduino-Library
