@@ -10481,3 +10481,4 @@ https://github.com/xreef/QDY30A_RS485.git|Contributed|QDY30A_RS485
 https://github.com/nahomyirga787-spec/DevEBox_ILI9341_Parallel.git|Contributed|DevEBox_ILI9341_Parallel
 https://github.com/airuyoshii-ai/makotalk-arduino.git|Contributed|MakoTalk
 https://github.com/bonezegei/Bonezegei_HTU21.git|Contributed|Bonezegei_HTU21
+https://github.com/Project-Liquid/PLIQtronics.git|Contributed|PLIQtronics
