@@ -10496,3 +10496,4 @@ https://github.com/gault3x3fa9/ADRC-Controller-Arduino-Library
 https://github.com/jonnybergdahl/Arduino_JBImprov_Library
 https://github.com/gkeiel/REPcon
 https://github.com/jonnybergdahl/Arduino_JBHaMqttDiscovery
+https://github.com/lxcor/cordial-ino
