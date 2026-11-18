@@ -10484,3 +10484,4 @@ https://github.com/bonezegei/Bonezegei_HTU21.git|Contributed|Bonezegei_HTU21
 https://github.com/Project-Liquid/PLIQtronics.git|Contributed|PLIQtronics
 https://github.com/gault3x3fa9/ADRC-Controller-Arduino-Library.git|Contributed|ADRC
 https://github.com/jonnybergdahl/Arduino_JBImprov_Library.git|Contributed|JBImprov
+https://github.com/gkeiel/REPcon.git|Contributed|REPcon
