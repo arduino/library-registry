@@ -10492,3 +10492,4 @@ https://github.com/nahomyirga787-spec/DevEBox_ILI9341_Parallel
 https://github.com/airuyoshii-ai/makotalk-arduino
 https://github.com/gault3x3fa9/ADRC-Controller-Arduino-Library
 https://github.com/jonnybergdahl/Arduino_JBImprov_Library
+https://github.com/gkeiel/REPcon
