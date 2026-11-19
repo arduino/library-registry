@@ -10490,3 +10490,4 @@ https://github.com/bonezegei/Bonezegei_AHT30.git|Contributed|Bonezegei_AHT30
 https://github.com/VIDAKHOSHPEY22/Dumirror_Robo.git|Contributed|Dumirror_Robo
 https://github.com/lxcor/cordial-ino.git|Contributed|Cordial
 https://github.com/HubbleNetwork/hubble-arduino-library.git|Contributed|HubbleNetwork
+https://github.com/campkitchenus-maker/arduino-campcooler.git|Contributed|CampCooler
