@@ -10497,3 +10497,4 @@ https://github.com/kdi6033/I2R_PLC.git|Contributed|I2R_PLC
 https://github.com/Ifty3/EasyESPWiFi.git|Contributed|EasyESPWiFi
 https://github.com/syntax1269/I2C-microSD-Expansion.git|Contributed|I2C_microSD_Expansion
 https://github.com/copida/WebSerialSim.git|Contributed|WebSerialSim
+https://github.com/sparkfun/SparkFun_SSD168x_Library.git|Contributed|SparkFun SSD168x Library
