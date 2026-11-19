@@ -41,7 +41,7 @@ Library Manager is a feature of the Arduino development software which makes it 
 - In Arduino CLI: `arduino-cli lib --help`
 - In Arduino Web Editor: all Library Manager libraries are pre-installed.
 
-When a library is [added to the library list](README.md#adding-a-library-to-library-manager), every release of the library will automatically be made available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
+When a library is [added to the library list](README.md#adding-a-library-to-library-manager), the indexer makes [compliant tagged releases](#update-requirements) available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
 
 More information:
 
@@ -52,7 +52,7 @@ More information:
 
 ### How is the Library Manager index generated?
 
-[The Library Manager index](http://downloads.arduino.cc/libraries/library_index.json) contains the data for every release of every one of the thousands of libraries that have been added to the Library Manager list. This index is used by Library Manager to provide installation and updates of the libraries as well as to generate automated documentation pages for the [Arduino Library Reference](https://www.arduino.cc/reference/en/libraries/).
+[The Library Manager index](http://downloads.arduino.cc/libraries/library_index.json) contains metadata for the releases the indexer has accepted. This index is used by Library Manager to provide installation and updates of the libraries as well as to generate automated documentation pages for the [Arduino Library Reference](https://www.arduino.cc/reference/en/libraries/).
 
 Every hour, the automated Library Manager indexer system:
 
@@ -99,7 +99,7 @@ https://github.com/arduino/arduino-lint-action
 
 Everyone is welcome to submit libraries for inclusion in Library Manager, regardless of whether you are involved in the library's development.
 
-Note that libraries will need to be compliant with [all requirements](#update-requirements) in order to be accepted. If not, you will need to work with the library maintainer to achieve compliance.
+Note that libraries will need to be compliant with [submission requirements](#submission-requirements) in order to be accepted. If not, you will need to work with the library maintainer to achieve compliance.
 
 ## Updates
 
