@@ -10493,3 +10493,4 @@ https://github.com/HubbleNetwork/hubble-arduino-library.git|Contributed|HubbleNe
 https://github.com/campkitchenus-maker/arduino-campcooler.git|Contributed|CampCooler
 https://github.com/Freenove/Freenove_7_Inch_TouchScreen_Driver.git|Contributed|Freenove_7_Inch_TouchScreen_Driver
 https://github.com/Freenove/Freenove_Es8311_Audio_Driver.git|Contributed|Freenove_Es8311_Audio_Driver
+https://github.com/kdi6033/I2R_PLC.git|Contributed|I2R_PLC
