@@ -10507,3 +10507,4 @@ https://github.com/Ifty3/EasyESPWiFi
 https://github.com/syntax1269/I2C-microSD-Expansion
 https://github.com/copida/WebSerialSim
 https://github.com/Someone275/Box-io
+https://github.com/Riktor1990/SBUS2-Telemetry
