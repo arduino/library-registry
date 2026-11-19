@@ -41,7 +41,7 @@ Library Manager is a feature of the Arduino development software which makes it 
 - In Arduino CLI: `arduino-cli lib --help`
 - In Arduino Web Editor: all Library Manager libraries are pre-installed.
 
-When a library is [added to the library list](README.md#adding-a-library-to-library-manager), the indexer makes [compliant tagged releases](#update-requirements) available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
+When a library is [added to the library list](README.md#adding-a-library-to-library-manager), [compliant releases](#update-requirements) will automatically be made available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
 
 More information:
 
