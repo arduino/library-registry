@@ -45,7 +45,6 @@ https://github.com/noelanderson/SimpleAwait
 https://github.com/Library-Arduino/MicroDB
 https://github.com/snappyxo/SnappyXOExamples
 https://github.com/DrMattGBarr/TPS92520-Arduino
-https://github.com/kdi6033/I2R_PLC
 https://github.com/Khuuxuanngoc/MKE_I2C_RFID_lib
 https://github.com/Khuuxuanngoc/MKE_S17_AGS10_lib
 https://github.com/SolderedElectronics/Soldered-BME690-Arduino-Library
@@ -10502,3 +10501,4 @@ https://github.com/HubbleNetwork/hubble-arduino-library
 https://github.com/campkitchenus-maker/arduino-campcooler
 https://github.com/Freenove/Freenove_7_Inch_TouchScreen_Driver
 https://github.com/Freenove/Freenove_Es8311_Audio_Driver
+https://github.com/kdi6033/I2R_PLC
