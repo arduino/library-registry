@@ -10502,3 +10502,4 @@ https://github.com/campkitchenus-maker/arduino-campcooler
 https://github.com/Freenove/Freenove_7_Inch_TouchScreen_Driver
 https://github.com/Freenove/Freenove_Es8311_Audio_Driver
 https://github.com/kdi6033/I2R_PLC
+https://github.com/Ifty3/EasyESPWiFi
