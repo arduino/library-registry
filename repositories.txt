@@ -10516,3 +10516,6 @@ https://github.com/irfantuxz/pzem004t
 https://github.com/huelake/connectivitizer-esp32
 https://github.com/DocBigs-Lab/ses-imagotag-bwr-epaper
 https://github.com/HelgiOiisac/C3Portal
+
+https://github.com/SnowyRuby/ESP32StorageLibrary
+https://github.com/SnowyRuby/ESP32PcSession
