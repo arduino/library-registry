@@ -10500,3 +10500,4 @@ https://github.com/copida/WebSerialSim.git|Contributed|WebSerialSim
 https://github.com/sparkfun/SparkFun_SSD168x_Library.git|Contributed|SparkFun SSD168x Library
 https://github.com/Someone275/Box-io.git|Contributed|BoxIO
 https://github.com/Riktor1990/SBUS2-Telemetry.git|Contributed|SBUS2-Telemetry-ESP32
+https://github.com/kdi6033/I2R_IoT.git|Contributed|I2R_IoT
