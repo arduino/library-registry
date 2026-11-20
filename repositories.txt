@@ -10511,3 +10511,4 @@ https://github.com/Riktor1990/SBUS2-Telemetry
 https://github.com/kdi6033/I2R_IoT
 https://github.com/nulllab-arduino/rfx1_arduino_lib
 https://github.com/irfantuxz/pzem004t
+https://github.com/huelake/connectivitizer-esp32
