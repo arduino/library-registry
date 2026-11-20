@@ -10508,3 +10508,4 @@ https://github.com/syntax1269/I2C-microSD-Expansion
 https://github.com/copida/WebSerialSim
 https://github.com/Someone275/Box-io
 https://github.com/Riktor1990/SBUS2-Telemetry
+https://github.com/kdi6033/I2R_IoT
