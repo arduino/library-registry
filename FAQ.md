@@ -17,6 +17,7 @@
   - [Why aren't releases of my library being picked up by Library Manager?](#why-arent-releases-of-my-library-being-picked-up-by-library-manager)
   - [Can I check on library releases being added to Library Manager?](#can-i-check-on-library-releases-being-added-to-library-manager)
   - [How can I remove a release of my library from Library Manager?](#how-can-i-remove-a-release-of-my-library-from-library-manager)
+  - [How can I change a library's URL?](#how-can-i-change-a-librarys-url)
   - [How can I change a library's name?](#how-can-i-change-a-librarys-name)
 - [Limitations](#limitations)
   - [Is my Git repository OK?](#is-my-git-repository-ok)
@@ -40,7 +41,7 @@ Library Manager is a feature of the Arduino development software which makes it 
 - In Arduino CLI: `arduino-cli lib --help`
 - In Arduino Web Editor: all Library Manager libraries are pre-installed.
 
-When a library is [added to the library list](README.md#adding-a-library-to-library-manager), every release of the library will automatically be made available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
+When a library is [added to the library list](README.md#adding-a-library-to-library-manager), [compliant releases](#update-requirements) will automatically be made available for installation via Library Manager. Users can set their preferences to display an update notification when a new version of any installed library on the list is available and easily update to the new version with just a couple clicks.
 
 More information:
 
@@ -51,7 +52,7 @@ More information:
 
 ### How is the Library Manager index generated?
 
-[The Library Manager index](http://downloads.arduino.cc/libraries/library_index.json) contains the data for every release of every one of the thousands of libraries that have been added to the Library Manager list. This index is used by Library Manager to provide installation and updates of the libraries as well as to generate automated documentation pages for the [Arduino Library Reference](https://www.arduino.cc/reference/en/libraries/).
+[The Library Manager index](http://downloads.arduino.cc/libraries/library_index.json) contains metadata for the releases the indexer has accepted. This index is used by Library Manager to provide installation and updates of the libraries as well as to generate automated documentation pages for the [Arduino Library Reference](https://www.arduino.cc/reference/en/libraries/).
 
 Every hour, the automated Library Manager indexer system:
 
@@ -98,7 +99,7 @@ https://github.com/arduino/arduino-lint-action
 
 Everyone is welcome to submit libraries for inclusion in Library Manager, regardless of whether you are involved in the library's development.
 
-Note that libraries will need to be compliant with [all requirements](#update-requirements) in order to be accepted. If not, you will need to work with the library maintainer to achieve compliance.
+Note that libraries will need to be compliant with [submission requirements](#submission-requirements) in order to be accepted. If not, you will need to work with the library maintainer to achieve compliance.
 
 ## Updates
 
@@ -140,24 +141,17 @@ http://downloads.arduino.cc/libraries/logs/github.com/arduino-libraries/Servo/
 
 ### How can I remove a release of my library from Library Manager?
 
-If you discover a problem with the library release, simply fix the problem and make a new [release](#how-can-i-publish-a-new-release-once-my-library-is-in-the-list). Library Manager defaults to installing the latest version of the library and offers updates to those with an older version installed, so this is the fastest and most effective method for distributing a fix to the users.
+See the information [**here**](maintenance-requests.md#remove-a-library-release).
 
-In the event a library release is later discovered to contain something that absolutely can not be published, we do allow removing releases from Library Manager on request by the following procedure:
+### How can I change a library's URL?
 
-1. Delete the [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) of the problematic release from the library's repository.
-1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+release+removal&template=release-removal.yml&title=Library+release+removal+request), specifying the name of the library and the version number of the release that should be removed.
+To request an update to a library's registered URL, follow the instructions [**here**](maintenance-requests.md#update-library-url).
 
 <a id="how-can-i-change-my-librarys-name"></a>
 
 ### How can I change a library's name?
 
-For the sake of continuity, libraries in the Library Manager list are locked to the name they had at the time they were added to the list. Changing the library name can be disruptive to its users because this is the unique identifier for the library used by the Arduino development software [command line interfaces](https://arduino.github.io/arduino-cli/latest/commands/arduino-cli_lib/), sketch [metadata](https://arduino.github.io/arduino-cli/latest/sketch-specification/#metadata), library [dependencies](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format), and installation location.
-
-If you wish to change the name it will need to be done manually by request:
-
-1. Change the `name` value in the [library.properties file](https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format) and update the `version`.
-1. Create a release or tag.
-1. Open an issue [here](https://github.com/arduino/library-registry/issues/new?labels=topic%3A+rename&template=rename.yml&title=Library+name+change+request) specifying the URL of the library's repository.
+See the information [**here**](maintenance-requests.md).
 
 ## Limitations
 
@@ -190,7 +184,7 @@ Library Manager installs libraries into your sketchbook's `libraries` folder. Si
 
 #### Arduino IDE 2.x
 
-Hover the mouse pointer over the <kbd>INSTALLED</kbd> label on the library listing in Library Manager. It will now change to <kbd>UNINSTALL</kbd>, which you can click to uninstall that library.
+Hover the mouse pointer over the "**INSTALLED**" label on the library listing in Library Manager. It will now change to "**UNINSTALL**", which you can click to uninstall that library.
 
 #### Classic Arduino IDE
 
