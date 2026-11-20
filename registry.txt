@@ -10503,3 +10503,4 @@ https://github.com/Riktor1990/SBUS2-Telemetry.git|Contributed|SBUS2-Telemetry-ES
 https://github.com/kdi6033/I2R_IoT.git|Contributed|I2R_IoT
 https://github.com/nulllab-arduino/rfx1_arduino_lib.git|Contributed|nulllab_rfx1
 https://github.com/irfantuxz/pzem004t.git|Contributed|PZEM004T
+https://github.com/huelake/connectivitizer-esp32.git|Contributed|Connectivitizer
