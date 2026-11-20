@@ -3073,6 +3073,7 @@ https://github.com/edge-ml/edge-fel-lib
 https://github.com/edge-ml/EdgeML-Arduino
 https://github.com/EdgeiLAB/libedge
 https://github.com/Edinburgh-College-of-Art/DesignInformaticsPCB
+https://github.com/ednieuw/EdSoftLED
 https://github.com/eduardomarcos/arduino-esp32-restclient
 https://github.com/edumardo/DifferentialSteering
 https://github.com/eebothobby/ADS7828
