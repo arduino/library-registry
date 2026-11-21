@@ -10510,3 +10510,4 @@ https://github.com/HelgiOiisac/C3Portal.git|Contributed|C3Portal
 https://github.com/fanfanlatulipe26/RP2040_ppm.git|Contributed|RP2040_ppm
 https://github.com/SnowyRuby/ESP32StorageLibrary.git|Contributed|ESP32StorageLibrary
 https://github.com/SnowyRuby/ESP32PcSession.git|Contributed|ESP32PcSession
+https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio.git|Contributed|GigaBredr
