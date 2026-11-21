@@ -10519,3 +10519,4 @@ https://github.com/jnovonj/ESP32Syslog.git|Contributed|ESP32Syslog
 https://github.com/adfwswf/MotorControl.git|Contributed|MotorControl
 https://github.com/Melior-software/melior-specto-arduino.git|Contributed|Melior Specto
 https://github.com/BeatGlow/GU256X64D7000.git|Contributed|GU256X64D7000
+https://github.com/ROLL-BIT/BiaCameraUVC.git|Contributed|BiaCameraUVC
