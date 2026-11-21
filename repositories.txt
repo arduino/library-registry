@@ -10525,3 +10525,4 @@ https://github.com/microbotsio/Wavelit
 https://github.com/DocBigs-Lab/solum-epaper
 https://github.com/jnovonj/ESP32Syslog
 https://github.com/adfwswf/MotorControl
+https://github.com/Melior-software/melior-specto-arduino
