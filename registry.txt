@@ -10514,3 +10514,4 @@ https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio.git|Contributed|Gig
 https://github.com/shipandsail/FitnessMath.git|Contributed|FitnessMath
 https://github.com/shipandsail/ShotDayTimer.git|Contributed|ShotDayTimer
 https://github.com/microbotsio/Wavelit.git|Contributed|Wavelit
+https://github.com/DocBigs-Lab/solum-epaper.git|Contributed|SolumEpaper
