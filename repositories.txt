@@ -10519,3 +10519,4 @@ https://github.com/HelgiOiisac/C3Portal
 
 https://github.com/SnowyRuby/ESP32StorageLibrary
 https://github.com/SnowyRuby/ESP32PcSession
+https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio
