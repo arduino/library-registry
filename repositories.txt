@@ -10523,3 +10523,4 @@ https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio
 https://github.com/shipandsail/FitnessMath
 https://github.com/shipandsail/ShotDayTimer
 https://github.com/microbotsio/Wavelit
+https://github.com/DocBigs-Lab/solum-epaper
