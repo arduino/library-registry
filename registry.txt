@@ -10513,3 +10513,4 @@ https://github.com/SnowyRuby/ESP32PcSession.git|Contributed|ESP32PcSession
 https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio.git|Contributed|GigaBredr
 https://github.com/shipandsail/FitnessMath.git|Contributed|FitnessMath
 https://github.com/shipandsail/ShotDayTimer.git|Contributed|ShotDayTimer
+https://github.com/microbotsio/Wavelit.git|Contributed|Wavelit
