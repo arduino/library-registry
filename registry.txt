@@ -10515,3 +10515,4 @@ https://github.com/shipandsail/FitnessMath.git|Contributed|FitnessMath
 https://github.com/shipandsail/ShotDayTimer.git|Contributed|ShotDayTimer
 https://github.com/microbotsio/Wavelit.git|Contributed|Wavelit
 https://github.com/DocBigs-Lab/solum-epaper.git|Contributed|SolumEpaper
+https://github.com/jnovonj/ESP32Syslog.git|Contributed|ESP32Syslog
