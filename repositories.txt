@@ -10516,8 +10516,15 @@ https://github.com/irfantuxz/pzem004t
 https://github.com/huelake/connectivitizer-esp32
 https://github.com/DocBigs-Lab/ses-imagotag-bwr-epaper
 https://github.com/HelgiOiisac/C3Portal
-
 https://github.com/SnowyRuby/ESP32StorageLibrary
 https://github.com/SnowyRuby/ESP32PcSession
 https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio
 https://github.com/ROLL-BIT/BiaCameraUVC
+https://github.com/shipandsail/FitnessMath
+https://github.com/shipandsail/ShotDayTimer
+https://github.com/microbotsio/Wavelit
+https://github.com/DocBigs-Lab/solum-epaper
+https://github.com/jnovonj/ESP32Syslog
+https://github.com/adfwswf/MotorControl
+https://github.com/Melior-software/melior-specto-arduino
+https://github.com/BeatGlow/GU256X64D7000
