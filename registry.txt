@@ -10520,3 +10520,4 @@ https://github.com/adfwswf/MotorControl.git|Contributed|MotorControl
 https://github.com/Melior-software/melior-specto-arduino.git|Contributed|Melior Specto
 https://github.com/BeatGlow/GU256X64D7000.git|Contributed|GU256X64D7000
 https://github.com/ROLL-BIT/BiaCameraUVC.git|Contributed|BiaCameraUVC
+https://github.com/quanhuy38/WUD_Tournaments.git|Contributed|WUD_Tournaments
