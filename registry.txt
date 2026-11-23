@@ -10529,3 +10529,4 @@ https://github.com/dejwk/roo_fonts_material.git|Contributed|roo_fonts_material
 https://github.com/dejwk/roo_pb.git|Contributed|roo_pb
 https://github.com/dejwk/roo_rtc.git|Contributed|roo_rtc
 https://github.com/itsbhupendrasingh/SMEAIoT.git|Contributed|SMEAIoT
+https://github.com/ILogEverything/NodeProFlux.git|Contributed|NodeProFlux
