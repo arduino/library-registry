@@ -10537,3 +10537,4 @@ https://github.com/alpochete/AJoystick
 https://github.com/placidanomaly/ES3C28P
 https://github.com/alpochete/AButton
 https://github.com/itsbhupendrasingh/SMEAIoT
+https://github.com/ILogEverything/NodeProFlux
