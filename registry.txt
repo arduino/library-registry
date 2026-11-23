@@ -10523,5 +10523,5 @@ https://github.com/ROLL-BIT/BiaCameraUVC.git|Contributed|BiaCameraUVC
 https://github.com/quanhuy38/WUD_Tournaments.git|Contributed|WUD_Tournaments
 https://github.com/GianluViv/ESP_NOW_MESHLIB.git|Contributed|ESPNowMesh
 https://github.com/alpochete/AJoystick.git|Contributed|AJoystick
-https://github.com/placidanomaly/ES3C28P.git|Contributed|ESP3C28P
+https://github.com/placidanomaly/ES3C28P.git|Contributed|ES3C28P
 https://github.com/alpochete/AButton.git|Contributed|AButton
