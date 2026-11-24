@@ -10532,3 +10532,4 @@ https://github.com/itsbhupendrasingh/SMEAIoT.git|Contributed|SMEAIoT
 https://github.com/ILogEverything/NodeProFlux.git|Contributed|NodeProFlux
 https://github.com/9456078-source/Danich_SSD130x_Fast.git|Contributed|Danich_SSD130x_Fast
 https://github.com/CyTeknoloji/CircuitNexus-Arduino.git|Contributed|CircuitNexus
+https://github.com/steamicc/arduino-steami.git|Contributed|STeaMi
