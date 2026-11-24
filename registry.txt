@@ -10535,3 +10535,4 @@ https://github.com/CyTeknoloji/CircuitNexus-Arduino.git|Contributed|CircuitNexus
 https://github.com/steamicc/arduino-steami.git|Contributed|STeaMi
 https://github.com/alorbach/wificlientsecureudp.git|Contributed|WiFiClientSecureUdp
 https://github.com/antipovdanilo17-bot/CYD3D.git|Contributed|CYD3D
+https://github.com/AJArnovitz/ArnoTek_Serial.git|Contributed|ArnoTek_Serial
