@@ -10534,3 +10534,4 @@ https://github.com/9456078-source/Danich_SSD130x_Fast.git|Contributed|Danich_SSD
 https://github.com/CyTeknoloji/CircuitNexus-Arduino.git|Contributed|CircuitNexus
 https://github.com/steamicc/arduino-steami.git|Contributed|STeaMi
 https://github.com/alorbach/wificlientsecureudp.git|Contributed|WiFiClientSecureUdp
+https://github.com/antipovdanilo17-bot/CYD3D.git|Contributed|CYD3D
