@@ -10539,3 +10539,4 @@ https://github.com/alpochete/AButton
 https://github.com/itsbhupendrasingh/SMEAIoT
 https://github.com/ILogEverything/NodeProFlux
 https://github.com/9456078-source/Danich_SSD130x_Fast
+https://github.com/CyTeknoloji/CircuitNexus-Arduino
