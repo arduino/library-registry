@@ -2708,6 +2708,7 @@ https://github.com/dejwk/roo_control
 https://github.com/dejwk/roo_display
 https://github.com/dejwk/roo_flags
 https://github.com/dejwk/roo_fonts_basic
+https://github.com/dejwk/roo_fonts_material
 https://github.com/dejwk/roo_icons
 https://github.com/dejwk/roo_io
 https://github.com/dejwk/roo_io_arduino
@@ -2715,8 +2716,10 @@ https://github.com/dejwk/roo_locale
 https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_onewire
+https://github.com/dejwk/roo_pb
 https://github.com/dejwk/roo_prefs
 https://github.com/dejwk/roo_quantity
+https://github.com/dejwk/roo_rtc
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_temperature
 https://github.com/dejwk/roo_threads
@@ -10152,7 +10155,7 @@ https://github.com/TimothyFran/OtamaticClient
 https://github.com/Steel-Mastr/JLib_for_Arduino
 https://github.com/Merger-Zero/ESP32-SC-Inference
 https://github.com/xewe-labs/xewe-os-core
-https://github.com/yu911517778-a11y/ErdiLRF
+https://github.com/ErdiTech/ErdiLRF
 https://github.com/SolderedElectronics/Soldered-BMA400-Arduino-Library
 https://github.com/RowlandTechnology/MULTIUARTv2
 https://github.com/skr-electronics-lab/groq-stt.git
@@ -10466,7 +10469,7 @@ https://github.com/AARUTO347/AARUARDUINO
 https://github.com/rahmatpurnomo/EnigmaIoT
 https://github.com/sunfounder/arduino-esp-new-jpeg
 https://github.com/francescopace/espectre-arduino
-https://github.com/fikretpalas/SafCNC
+https://github.com/fikretpalas/SafCNC_Arduino
 https://github.com/SanjayKamu/InnoLite-ESP-NOW
 https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino
 
@@ -10516,3 +10519,25 @@ https://github.com/irfantuxz/pzem004t
 https://github.com/huelake/connectivitizer-esp32
 https://github.com/DocBigs-Lab/ses-imagotag-bwr-epaper
 https://github.com/HelgiOiisac/C3Portal
+https://github.com/SnowyRuby/ESP32StorageLibrary
+https://github.com/SnowyRuby/ESP32PcSession
+https://github.com/WillyBilly06/Arduino-GIGA-Bluetooth-Audio
+https://github.com/ROLL-BIT/BiaCameraUVC
+https://github.com/shipandsail/FitnessMath
+https://github.com/shipandsail/ShotDayTimer
+https://github.com/microbotsio/Wavelit
+https://github.com/DocBigs-Lab/solum-epaper
+https://github.com/jnovonj/ESP32Syslog
+https://github.com/adfwswf/MotorControl
+https://github.com/Melior-software/melior-specto-arduino
+https://github.com/BeatGlow/GU256X64D7000
+https://github.com/quanhuy38/WUD_Tournaments
+https://github.com/GianluViv/ESP_NOW_MESHLIB
+https://github.com/alpochete/AJoystick
+https://github.com/placidanomaly/ES3C28P
+https://github.com/alpochete/AButton
+https://github.com/itsbhupendrasingh/SMEAIoT
+https://github.com/ILogEverything/NodeProFlux
+https://github.com/9456078-source/Danich_SSD130x_Fast
+https://github.com/CyTeknoloji/CircuitNexus-Arduino
+https://github.com/steamicc/arduino-steami
