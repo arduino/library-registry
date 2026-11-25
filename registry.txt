@@ -10543,3 +10543,4 @@ https://github.com/mhmdrameez/TinyGsmA7670E.git|Contributed|TinyGsmA7670E
 https://github.com/DevNgin-org/AirNgin-Arduino.git|Contributed|AirNginESP32SDK
 https://github.com/mzwesh-1/soga-arduino.git|Contributed|Soga
 https://github.com/rmingon/EchoGuard8-Library.git|Contributed|EchoGuard8
+https://github.com/Tommy-Guo/Vertex_MPU6050.git|Contributed|Vertex_MPU6050
