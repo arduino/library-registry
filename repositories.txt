@@ -10551,3 +10551,4 @@ https://github.com/firozkhandeveloper-prog/AetheriumIOT
 https://github.com/mhmdrameez/TinyGsmA7670E
 https://github.com/mzwesh-1/soga-arduino
 https://github.com/rmingon/EchoGuard8-Library
+https://github.com/Tommy-Guo/Vertex_MPU6050
