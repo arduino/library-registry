@@ -10547,3 +10547,4 @@ https://github.com/alorbach/wificlientsecureudp
 https://github.com/antipovdanilo17-bot/CYD3D.git
 https://github.com/meptNN/I2C-by-meptNN
 https://github.com/firozkhandeveloper-prog/AetheriumIOT
+https://github.com/mhmdrameez/TinyGsmA7670E
