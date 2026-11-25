@@ -10540,3 +10540,4 @@ https://github.com/gavinlyonsrepo/NV3007_LTSM.git|Contributed|NV3007_LTSM
 https://github.com/meptNN/I2C-by-meptNN.git|Contributed|I2C by meptNN
 https://github.com/firozkhandeveloper-prog/AetheriumIOT.git|Contributed|AetheriumIoT
 https://github.com/mhmdrameez/TinyGsmA7670E.git|Contributed|TinyGsmA7670E
+https://github.com/DevNgin-org/AirNgin-Arduino.git|Contributed|AirNginESP32SDK
