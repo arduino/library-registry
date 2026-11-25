@@ -1,3 +1,4 @@
+https://github.com/gavinlyonsrepo/NV3007_LTSM
 https://github.com/AJArnovitz/ArnoTek_Serial
 https://github.com/fanfanlatulipe26/RP2040_ppm
 https://github.com/VIDAKHOSHPEY22/Dumirror_Robo
@@ -8817,6 +8818,7 @@ https://github.com/marekburiak/ESP32_MQTTClient
 https://github.com/levkovigor/PTZProtocolHandler
 https://github.com/Alex-Stone-Github/pepstep
 https://github.com/AirNgin/Airngin-esp32-mqtt-client
+https://github.com/DevNgin-org/AirNgin-Arduino
 https://github.com/samy101/edge-ai-arduino-library
 https://github.com/robertsonics/WAV_Trigger_Pro_Qwiic_Arduino_Library
 https://github.com/Alex-Stone-Github/CNCShield
@@ -10544,4 +10546,7 @@ https://github.com/CyTeknoloji/CircuitNexus-Arduino
 https://github.com/steamicc/arduino-steami
 https://github.com/alorbach/wificlientsecureudp
 https://github.com/antipovdanilo17-bot/CYD3D.git
+https://github.com/meptNN/I2C-by-meptNN
+https://github.com/firozkhandeveloper-prog/AetheriumIOT
+https://github.com/mhmdrameez/TinyGsmA7670E
 https://github.com/mzwesh-1/soga-arduino
