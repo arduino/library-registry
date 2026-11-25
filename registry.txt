@@ -10541,3 +10541,4 @@ https://github.com/meptNN/I2C-by-meptNN.git|Contributed|I2C by meptNN
 https://github.com/firozkhandeveloper-prog/AetheriumIOT.git|Contributed|AetheriumIoT
 https://github.com/mhmdrameez/TinyGsmA7670E.git|Contributed|TinyGsmA7670E
 https://github.com/DevNgin-org/AirNgin-Arduino.git|Contributed|AirNginESP32SDK
+https://github.com/mzwesh-1/soga-arduino.git|Contributed|Soga
