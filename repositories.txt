@@ -299,6 +299,7 @@ https://github.com/MesutEmpire/SIM800LPlus
 https://github.com/Vean/FansElectronics_License
 https://github.com/Pierrolefou881/DuinoMemory
 https://github.com/gavinlyonsrepo/GC9D01_LTSM
+https://github.com/KovalRM/FastLed_Nanit_Koval
 https://github.com/aaronbeckmann/ESP-DashboardPlus-Arduino
 https://github.com/markusianito/Facebits
 https://github.com/markusianito/Beverly
