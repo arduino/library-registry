@@ -22,8 +22,8 @@ Although we have set up automation for the most basic tasks, this repository is 
 
 If you would like to submit a library, or request registry maintenance for a library already in the registry, please follow the instructions provided in the documentation:
 
-[**Click here to see the documentation**](../README.md#table-of-contents)
+[**Click here to see the documentation**](/#table-of-contents)
 
 Make sure to read the relevant sections of the FAQ:
 
-[**Click here to see the FAQ**](../FAQ.md#table-of-contents)
+[**Click here to see the FAQ**](/FAQ.md#table-of-contents)
