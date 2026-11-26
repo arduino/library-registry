@@ -10545,3 +10545,4 @@ https://github.com/mzwesh-1/soga-arduino.git|Contributed|Soga
 https://github.com/rmingon/EchoGuard8-Library.git|Contributed|EchoGuard8
 https://github.com/Tommy-Guo/Vertex_MPU6050.git|Contributed|Vertex_MPU6050
 https://github.com/Freenove/Freenove_CSI_Sensor_Driver.git|Contributed|Freenove_CSI_Sensor_Driver
+https://github.com/mimeindustries/MeArm-Wifi.git|Contributed|MeArm
