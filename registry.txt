@@ -10551,3 +10551,4 @@ https://github.com/bonezegei/Bonezegei_TSL2561.git|Contributed|Bonezegei_TSL2561
 https://github.com/Madmaxcoder2612/filter2c.git|Contributed|filter2c
 https://github.com/NonStopBle/RelinkIoT-Arduino.git|Contributed|RelinkIoT
 https://github.com/OmnIoT/agrinovo-arduino.git|Contributed|Agrinovo
+https://github.com/mugiendii/genibus-arduino.git|Contributed|GENIbus
