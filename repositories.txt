@@ -1,3 +1,4 @@
+https://github.com/KovalRM/FastLed_Nanit_Koval
 https://github.com/gavinlyonsrepo/GC9D01_LTSM
 https://github.com/aaronbeckmann/ESP-DashboardPlus-Arduino
 https://github.com/markusianito/Facebits
@@ -8920,4 +8921,3 @@ https://github.com/moddoio/moddoMOUSE-Arduino
 https://github.com/adafruit/Adafruit_APDS9999.git
 https://github.com/dunknowcoding/RoboServo.git
 https://github.com/CostelloTechnical/DN24F08.git
-https://github.com/KovalRM/KRM_libraries_Arduino
