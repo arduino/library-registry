@@ -10558,3 +10558,4 @@ https://github.com/mimeindustries/MeArm-Wifi
 https://github.com/devansh8011-oss/NowRemote
 https://github.com/Madmaxcoder2612/filter2c
 https://github.com/NonStopBle/RelinkIoT-Arduino
+https://github.com/OmnIoT/agrinovo-arduino
