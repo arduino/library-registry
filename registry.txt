@@ -10548,3 +10548,4 @@ https://github.com/Freenove/Freenove_CSI_Sensor_Driver.git|Contributed|Freenove_
 https://github.com/mimeindustries/MeArm-Wifi.git|Contributed|MeArm
 https://github.com/devansh8011-oss/NowRemote.git|Contributed|NowRemote
 https://github.com/bonezegei/Bonezegei_TSL2561.git|Contributed|Bonezegei_TSL2561
+https://github.com/Madmaxcoder2612/filter2c.git|Contributed|filter2c
