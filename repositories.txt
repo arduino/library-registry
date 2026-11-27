@@ -3840,6 +3840,7 @@ https://github.com/holgerlembke/st7567sfGK
 https://github.com/HomeControlAS/homecontrol-mqtt
 https://github.com/HomeDing/HomeDing
 https://github.com/HomeSpan/HomeSpan
+https://github.com/HomeSpan/SpanCast
 https://github.com/honvl/Seeed-Xiao-NRF52840-Battery
 https://github.com/horihiro/esp8266-google-home-notifier
 https://github.com/horihiro/esp8266-google-tts
