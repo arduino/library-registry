@@ -10554,3 +10554,4 @@ https://github.com/OmnIoT/agrinovo-arduino.git|Contributed|Agrinovo
 https://github.com/mugiendii/genibus-arduino.git|Contributed|GENIbus
 https://github.com/KovalRM/FastLed_Nanit_Koval.git|Contributed|FastLed_Nanit_Koval
 https://github.com/NodexaCloud/nodexa-cloud-arduino-library.git|Contributed|NodexaCloud
+https://github.com/figamore/closed-loop-28BYJ48-AS5600.git|Contributed|AS5600ClosedLoopStepper
