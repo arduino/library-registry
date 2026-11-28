@@ -10558,3 +10558,4 @@ https://github.com/figamore/closed-loop-28BYJ48-AS5600.git|Contributed|AS5600Clo
 https://github.com/HomeSpan/SpanCast.git|Contributed|SpanCast
 https://gitlab.com/vieiderelias-unibz/qdollarrecognizer.git|Contributed|QDollarRecognizer
 https://github.com/Gejakem/TimedBounce2.git|Contributed|TimedBounce2
+https://github.com/12ib21/ESP32-Mqtt.git|Contributed|ESP32-Mqtt
