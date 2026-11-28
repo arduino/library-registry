@@ -10566,3 +10566,4 @@ https://github.com/NodexaCloud/nodexa-cloud-arduino-library
 https://github.com/figamore/closed-loop-28BYJ48-AS5600
 https://gitlab.com/vieiderelias-unibz/qdollarrecognizer
 https://github.com/12ib21/ESP32-Mqtt
+https://github.com/Gejakem/TimedBounce2
