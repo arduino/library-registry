@@ -10556,3 +10556,4 @@ https://github.com/KovalRM/FastLed_Nanit_Koval.git|Contributed|FastLed_Nanit_Kov
 https://github.com/NodexaCloud/nodexa-cloud-arduino-library.git|Contributed|NodexaCloud
 https://github.com/figamore/closed-loop-28BYJ48-AS5600.git|Contributed|AS5600ClosedLoopStepper
 https://github.com/HomeSpan/SpanCast.git|Contributed|SpanCast
+https://gitlab.com/vieiderelias-unibz/qdollarrecognizer.git|Contributed|QDollarRecognizer
