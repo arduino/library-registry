@@ -10557,3 +10557,4 @@ https://github.com/NodexaCloud/nodexa-cloud-arduino-library.git|Contributed|Node
 https://github.com/figamore/closed-loop-28BYJ48-AS5600.git|Contributed|AS5600ClosedLoopStepper
 https://github.com/HomeSpan/SpanCast.git|Contributed|SpanCast
 https://gitlab.com/vieiderelias-unibz/qdollarrecognizer.git|Contributed|QDollarRecognizer
+https://github.com/Gejakem/TimedBounce2.git|Contributed|TimedBounce2
